@@ -1,0 +1,408 @@
+name: Wiki AI Translate
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "执行模式：all（fetch+process+upload）/ fetch / process / upload"
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - "all"
+          - "fetch"
+          - "process"
+          - "upload"
+      force:
+        description: "强制重新处理/推送（忽略 state.json）"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      dry_run:
+        description: "Dry-run：只枚举与比对，不调用 LLM、不修改 wiki"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      shard_total:
+        description: "process 并行分片数"
+        required: false
+        default: "3"
+  push:
+    branches: [main]
+    paths:
+      - ".env"
+      - "prompts/**"
+      - "src/**"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".github/workflows/translate.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wiki-translate
+  cancel-in-progress: false
+
+env:
+  STATE_DELTA_DIR: state-deltas
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # setup：lint+test，并算出分片矩阵与各阶段开关。
+  # ---------------------------------------------------------------------------
+  setup:
+    runs-on: macos-latest
+    timeout-minutes: 15
+    outputs:
+      force: ${{ steps.params.outputs.force }}
+      dry_run: ${{ steps.params.outputs.dry_run }}
+      shard_total: ${{ steps.params.outputs.shard_total }}
+      shards: ${{ steps.params.outputs.shards }}
+      run_fetch: ${{ steps.params.outputs.run_fetch }}
+      run_process: ${{ steps.params.outputs.run_process }}
+      run_upload: ${{ steps.params.outputs.run_upload }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen --group dev || uv sync --group dev
+
+      - name: Lint & test
+        run: |
+          uv run ruff check src tests
+          uv run pytest
+
+      - name: Compute params
+        id: params
+        run: |
+          MODE="${{ github.event.inputs.mode || 'all' }}"
+          FORCE="${{ github.event.inputs.force || 'false' }}"
+          DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
+          SHARD_TOTAL="${{ github.event.inputs.shard_total || '4' }}"
+          if [ "$SHARD_TOTAL" -lt 1 ]; then SHARD_TOTAL=1; fi
+
+          echo "force=$FORCE" >> "$GITHUB_OUTPUT"
+          echo "dry_run=$DRY_RUN" >> "$GITHUB_OUTPUT"
+          echo "shard_total=$SHARD_TOTAL" >> "$GITHUB_OUTPUT"
+
+          SHARDS=$(seq 0 $((SHARD_TOTAL - 1)) | jq -R . | jq -cs .)
+          echo "shards=$SHARDS" >> "$GITHUB_OUTPUT"
+
+          case "$MODE" in
+            fetch)   RFE=true;  RPR=false; RUP=false ;;
+            process) RFE=false; RPR=true;  RUP=false ;;
+            upload)  RFE=false; RPR=false; RUP=true ;;
+            all)     RFE=true;  RPR=true;  RUP=true ;;
+            *)       RFE=true;  RPR=true;  RUP=true ;;
+          esac
+          echo "run_fetch=$RFE" >> "$GITHUB_OUTPUT"
+          echo "run_process=$RPR" >> "$GITHUB_OUTPUT"
+          echo "run_upload=$RUP" >> "$GITHUB_OUTPUT"
+
+  # ---------------------------------------------------------------------------
+  # fetch：单 job 集中拉取源 wiki 全部内容，产出 manifest.json + cache/，
+  # 供下游 process / upload 复用（通过 artifact 传递）。
+  # ---------------------------------------------------------------------------
+  fetch:
+    needs: setup
+    if: ${{ needs.setup.outputs.run_fetch == 'true' }}
+    runs-on: macos-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen --group dev || uv sync --group dev
+
+      - name: Run fetch
+        env:
+          FANDOM_BOT_USER: ${{ secrets.FANDOM_BOT_USER }}
+          FANDOM_BOT_PASSWORD: ${{ secrets.FANDOM_BOT_PASSWORD }}
+        run: |
+          ARGS="--mode fetch"
+          if [ "${{ needs.setup.outputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          if [ "${{ needs.setup.outputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          uv run wiki-translate --env .env $ARGS
+
+      - name: Commit manifest & diff baseline
+        if: ${{ needs.setup.outputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 只提交 diff 基线；incoming/files 是本次运行的中转数据，走 artifact 不进 git
+          git add manifest.json cache/source || true
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(i18n): fetch source wiki [skip ci]"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; continue; }
+            if git push origin HEAD:main; then
+              echo "push 成功"
+              exit 0
+            fi
+            echo "push 被拒绝，重试 $i..."
+            sleep 5
+          done
+          echo "::error::push 多次失败" && exit 1
+
+      # 按消费者拆成两个 artifact：process 只要待译文本，upload 只要文件二进制。
+      # 不把 cache/source（diff 基线）放进任何 artifact——两个下游 job 都从 git 检出，
+      # 混进来反而会用 fetch 时的旧基线覆盖掉 process 已推进的新基线。
+      - name: Upload fetch artifact (pages)
+        if: ${{ needs.setup.outputs.dry_run != 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-data
+          path: |
+            manifest.json
+            cache/incoming/
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Upload fetch artifact (files)
+        if: ${{ needs.setup.outputs.dry_run != 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-files
+          path: cache/files/
+          if-no-files-found: ignore
+          retention-days: 3
+
+  # ---------------------------------------------------------------------------
+  # process：按 shards 矩阵并行。下载 fetch 产物，只做 LLM 翻译/代码复制（无 wiki 写），
+  # state 改动写成 state-deltas/process-<i>.json。
+  # ---------------------------------------------------------------------------
+  process:
+    needs: [setup, fetch]
+    if: ${{ needs.setup.outputs.run_process == 'true' && needs.setup.outputs.dry_run != 'true' }}
+    runs-on: macos-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.setup.outputs.shards) }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen --group dev || uv sync --group dev
+
+      - name: Download fetch artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: fetch-data
+          path: .
+
+      - name: Run process shard ${{ matrix.shard }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          SHARD_INDEX: ${{ matrix.shard }}
+          SHARD_TOTAL: ${{ needs.setup.outputs.shard_total }}
+          STATE_DELTA_FILE: ${{ env.STATE_DELTA_DIR }}/process-${{ matrix.shard }}.json
+        run: |
+          mkdir -p "$STATE_DELTA_DIR"
+          ARGS="--mode process"
+          if [ "${{ needs.setup.outputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          uv run wiki-translate --env .env $ARGS
+
+      - name: Upload process artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: shard-process-${{ matrix.shard }}
+          path: |
+            output/
+            cache/source/
+            ${{ env.STATE_DELTA_DIR }}/
+          if-no-files-found: ignore
+          retention-days: 3
+
+  # ---------------------------------------------------------------------------
+  # merge：合并所有 process 分片的 output/cache/state delta，统一 commit & push。
+  # ---------------------------------------------------------------------------
+  merge:
+    needs: [setup, process]
+    if: ${{ always() && needs.setup.result == 'success' && needs.setup.outputs.run_process == 'true' && needs.setup.outputs.dry_run != 'true' }}
+    runs-on: macos-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen --group dev || uv sync --group dev
+
+      - name: Sync to latest main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Download all process artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: shard-process-*
+          merge-multiple: true
+          path: .
+
+      - name: Merge state deltas
+        run: uv run wiki-translate --env .env --mode merge-state
+
+      - name: Commit & push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output cache/source state.json || true
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(i18n): auto-translate wiki pages [skip ci]"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; continue; }
+            if git push origin HEAD:main; then
+              echo "push 成功"
+              exit 0
+            fi
+            echo "push 被拒绝，重试 $i..."
+            sleep 5
+          done
+          echo "::error::push 多次失败" && exit 1
+
+  # ---------------------------------------------------------------------------
+  # upload：单 job 顺序推送页面/系统消息/文件到目标 wiki，集中控制频率规避限流。
+  # 依赖 merge（拿到合并后的 output 与 state）；upload-only 模式直接用仓库现有内容。
+  # ---------------------------------------------------------------------------
+  upload:
+    needs: [setup, merge]
+    if: ${{ always() && needs.setup.result == 'success' && needs.setup.outputs.run_upload == 'true' && needs.setup.outputs.dry_run != 'true' && needs.merge.result != 'failure' }}
+    runs-on: macos-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Sync dependencies
+        run: uv sync --frozen --group dev || uv sync --group dev
+
+      - name: Pull merged commit
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      # 文件二进制不进 git，只能从 fetch 阶段的 artifact 取。必须放在 reset --hard 之后，
+      # 避免被回退掉。两种情况下该 artifact 不存在，都不该让整个 job 失败：
+      #   1. mode=upload 不跑 fetch；2. 本次没有文件变化（if-no-files-found: ignore）。
+      # 缺缓存时 upload.py:_upload_file 会跳过该文件且**不**标记 uploaded，
+      # 下次 fetch 仍会重新下载，不会静默丢文件。
+      - name: Download file cache from fetch
+        if: ${{ needs.setup.outputs.run_fetch == 'true' }}
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: fetch-files
+          path: cache/files
+
+      - name: Run upload
+        env:
+          FANDOM_BOT_USER: ${{ secrets.FANDOM_BOT_USER }}
+          FANDOM_BOT_PASSWORD: ${{ secrets.FANDOM_BOT_PASSWORD }}
+        run: |
+          ARGS="--mode upload"
+          if [ "${{ needs.setup.outputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          uv run wiki-translate --env .env $ARGS
+
+      - name: Commit upload state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json output || true
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(i18n): record upload state [skip ci]"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; continue; }
+            if git push origin HEAD:main; then
+              echo "push 成功"
+              exit 0
+            fi
+            echo "push 被拒绝，重试 $i..."
+            sleep 5
+          done
+          echo "::error::push 多次失败" && exit 1

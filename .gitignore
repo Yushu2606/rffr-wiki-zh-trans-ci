@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env.local
+.env.*.local
+.idea/
+.vscode/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# 并行流水线临时产物：各 job 的 state delta，由 merge 阶段合并后即可丢弃
+state-deltas/
+
+# 流水线中转数据，只需在 fetch → process / upload 之间存活一次运行，靠 artifact 传递：
+# - cache/incoming: 待翻译的页面源码
+# - cache/files:    待上传的文件二进制（图片/音视频，体量大，绝不能进 git 历史）
+# 注意 cache/source（diff 基线）需要跨天保留，仍然提交进仓库。
+cache/incoming/
+cache/files/
