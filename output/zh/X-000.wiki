@@ -1,0 +1,38 @@
+{{ArticleBackground|File=MultiSectional.gif}}
+{{DISPLAYTITLE:X-000 (Father Death)}}
+{{Modifier Exclusive|Clocks Ticking}}
+{{InfoBox:Entity
+|entity_name=X-000
+|entity_image=FatherDeath.png
+|appears_at=玩家在使用'''Clocks Ticking'''修饰符时耗尽时间时
+|nicknames=Father Death
+|type=锁定者<br>逃生终止者
+|claustrophobia=否
+|behavior=会在玩家耗尽时间后锁定玩家
+|speed=缓慢
+|gun_effect=无
+|damage=秒杀
+|related_monsters=[https://doors-game.fandom.com/wiki/The_Backdoor#Haste Haste (DOORS)]|sound1=<center>主原声</center><center>[[File:Stress.mp3]]</center>}}
+
+==描述==
+'''X-000'''是玩家在使用'''Clocks Ticking'''修饰符时耗尽时间后会出现的实体，它一旦生成就会终止当前逃生轮次。
+
+==机制==
+当玩家未能给时钟补充时间且计时归为000时，'''X-000'''将会生成，此时场景氛围变为红色，它会从玩家身后发起追逐，可以穿墙也会被玩家看见，一旦追上玩家就会将其击杀。
+
+==应对策略==
+* 打开门为时钟增加时间
+** 如果你失败了就必死无疑，没有任何办法能在'''Father Death'''手下存活。
+*** 这意味着与《DOORS》中的Haste不同，一旦'''X-000'''被激活，就没有任何办法将其解除。
+
+==你知道吗==
+'''X-000'''原本的设定是'''E-000'''
+
+==画廊==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Modifier Exclusive]]

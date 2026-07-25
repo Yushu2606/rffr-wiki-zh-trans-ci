@@ -1,0 +1,41 @@
+{{SectionAStub}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Headphones}}
+{{InfoBox:Entity
+|previous_entity=[[A-20ii]]
+|next_entity=[[CAT-120]]
+|entity_name=CAT-60
+|entity_image=<gallery>
+File:Cat60face1.jpg|Face 1
+File:Cat60face2.jpg|lFace 2
+File:Cat60face3.jpg|Face 3
+</gallery> 
+|appears_at=Anytime Past A-060 in [[Super Epic Mode]].
+|nicknames=TBA
+|claustrophobia=No
+|type=Rusher
+|behavior=Quickly rushes towards the succeding door and stays in the room for a few seconds before dissapearing.
+|damage=Instant Death
+|speed=fast
+|related_monsters=[[A-60]]
+[[A-60i]]
+|sound1=}}
+
+==Description:==
+'''CAT-60''' is an entity that you may encounter in [[Super Epic Mode]], it works the same as [[A-60]] except he is a cat.
+
+== Mechanic ==
+Same as [[A-60]] but dissapears instantly instead of sinking into the floor.
+==Stats:==
+
+==Strategies==
+When you hear '''CAT-60''', wait some seconds and when the screen starts getting staticy, hide.
+
+==Trivia:==
+TBA
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

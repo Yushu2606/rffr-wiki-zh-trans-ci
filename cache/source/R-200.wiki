@@ -1,0 +1,36 @@
+{{DISPLAYTITLE:R-200 (???)}}
+{{ArticleBackground|File=RDoor.jpg}}
+{{Upcoming}}
+{{InfoBox:Entity
+|entity_name=R-200
+|entity_image=Placeholder.webp
+|previous_entity='''???'''
+|next_entity='''???'''
+|nicknames=???
+|appears_at=R-200+
+|locker_snipe=???
+|gun_effect=???
+|claustrophobia=???
+|type=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???
+}}
+
+== Description ==
+'''R-200''' will be the ?th entity you may encounter within [[Section R]]. More info shown below. 
+
+== Behavior ==
+???
+
+== Strategy & Tips ==
+* ???
+
+== Trivia ==
+* ???
+
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>

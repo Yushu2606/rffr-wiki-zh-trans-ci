@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-20]]
+|next_entity=[[D-35i]]<br>[[D-55]]
+|entity_name=[[File:Floory.gif|frameless|link=D-35]]
+|entity_image=<gallery>
+File:D-35Redesign.gif|Current Design
+NewD-35.gif|Old Design
+OldestD35.gif|Older Design
+LegacyD35.gif|Oldest Design
+</gallery>
+|appears_at=Anywhere Past D-035.
+|nicknames=Inverting Smile<br>"Shadow Winner" (Old Nickname)
+|type=Rusher
+|behavior=Rumbles before launching towards the farthest door.
+|damage=Instant Death (35 Damage locker snipe)
+|speed=Slow-Very Fast.
+|locker_snipe=Yes
+|gun_effect=None
+|related_monsters=[[D-35i]] (Prime Variant)<br>[[SHA-35]]
+|claustrophobia=No
+|badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here] '''Unobtainable'''
+|sound1=<center>Spawn</center><center>[[File:D35Spawn.mp3]]</center>
+|caption-entity_image=You are an idiot
+|sound2=<center>Spawn in [[Super Epic Mode]]</center><center>[[File:SEMD-35Spawn.wav]]</center>
+|sound4=<center>Ambience Origin</center><center>[[File:Police Radio 22.ogg]]</center>
+|sound5=<center>Jumpscare</center><center>[[File:D-35Jumpscare.mp3]]</center>
+|sound6=<center>March 6-25 2026 Temporary Jumpscare</center><center>[[File:D-35TempJumpscare.mp3]]</center>|sound3=<center>Ambience in Legacy Mode</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
+
+==Description==
+'''D-35''' is a basic rusher. However, '''D-35''' can still be a tricky one.
+
+==Behavior==
+*When '''D-35''' spawns in, a deep boom will play, alongside global screen-shake that will occur. Depending on the current room's door number, '''D-35''' may rush slowly (low door number) or at ludicrous speed (extremely high door number). '''D-35''' when close will emit heavy static indicating that you should hide.
+*Upon contact with the next room's door, '''D-35''' will make a portal beneath itself, and then use it to swiftly escape. In the process, '''D-35''' will smash down a weak door (Cave) or slam into a heavy door (Lab).
+*Any player not hiding when seen by D-35 will instantly die, while not fully hiding when D-35 reaches current room will get half of there health taken away.
+
+==Strategy & Tips==
+*When you hear '''D-35'''<nowiki/>'s spawn sound, get near to a hiding spot immediately. After that wait until static starts to increase, then quickly enter the hiding spot.
+*It is recommended that you stay near your locker when '''D-35''' has dissapeared, as [[D-35i]] could spawn.
+*In the Red Rooms, '''D-35'''  can spawn passively
+**Therefore, two of them can spawn at once
+*'''D-35'''<nowiki/>'s instakill can be avoided by dodge-rolling, use this in dire situations when no hiding spots are available! You will still be damaged as if you were being lockersniped though.
+
+==Trivia==
+*'''D-35''' before did 10 damage when locker sniping instead of being 35 damage.
+*'''D-35's''' jumpscare sound is from Jollibee's Phase 2 jumpscare, but with a much higher pitch.
+* '''D-35's''' jumpscare sound was moderated temporaly, so there was a replacement for it from 3/6/26 to 5/16/26.
+** It now has its original jumpscare back
+
+== Gallery ==
+<gallery>
+File:NewD-35Jumpscare.gif|D-35 jumpscare
+File:D-35JumpscareAaaa.gif|Old D-35 jumpscare
+File:OlderD-35Jump.gif|Older D-35 jumpscare
+LegacyD35.gif|Legacy Mode Design
+</gallery>
+
+== Badges ==
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], '''D-35''', or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Invader]]

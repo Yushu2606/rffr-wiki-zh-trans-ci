@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">D-55i（焰尘）</Span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{SectionDStub}}
+{{InfoBox:Entity
+|entity_name=D-55i
+|entity_image=D55i.webp
+|previous_entity=[[D-55]]
+|next_entity=[[D-60]]
+|gun_effect=无
+|locker_snipe=无
+|nicknames=焰尘
+|appears_at=D-55+
+|type=后退者<br>柜子检查者
+|behavior=从前方生成，向后冲刺并破坏所有灰色柜子，沿途留下火焰轨迹。
+|claustrophobia=是
+|speed=极快
+|damage=秒杀
+|related_monsters=[[D-55]]<br>[[M-200]]
+|sound1=<center>远处环境音 '''非官方还原'''</center><center>[[File:D55iFar.mp3]]</center>
+|sound2=<center>近处环境音 '''非官方还原'''</center><center>[[File:D55iClose.mp3]]</center>|sound3=<center>跳杀音效</center><center>[[File:D-55iJumSfx.mp3]]</center>}}
+
+==描述==
+'''D-55i'''是你在[[Section D|D区]]中可能遇到的众多实体之一，它是[[D-55]]的i型变种，更多信息见下文。
+
+==机制==
+它会从前方生成，4-5秒后破门而入，向后冲刺时会破坏身后5个房间内的所有灰色柜子/补给柜，沿途留下紫色火焰轨迹，玩家靠近时会受到伤害。
+
+火焰会根据玩家的距离造成伤害，哪怕玩家已经躲起来了，所以躲在离'''D-55i'''<nowiki/>的移动路径太近的位置仍然会持续受到伤害。火焰会在大约25-30秒后消失。
+
+==应对策略与技巧==
+* 和D-55一样，'''D-55i'''<nowiki/>的环境音音量很大。如果你听到从前方传来的马达声，而非后方传来，就说明你需要按照下文说明躲藏了。
+* 建议使用安全点来躲避火焰伤害。如果没有安全点，尝试躲在离'''D-55i'''<nowiki/>的路径更远的蓝色柜子/白色储物柜里。
+** 如果上述选项都不可用，直接离开柜子，尽快移动到火焰范围之外，如果你有绷带的话也可以硬扛伤害。
+
+==你知道吗==
+* '''D-55i'''的机制原本属于[[D-55ii]]，后来才被修改。
+
+==图库==
+<gallery>
+File:D55i.webp|当前设计
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:I Variation]]

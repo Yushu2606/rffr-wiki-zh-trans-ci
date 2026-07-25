@@ -1,0 +1,13 @@
+<includeonly><infobox type="Book">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="author"><label>作者</label></data>
+	<data source="illustrator"><label>插画师</label></data>
+	<data source="datePublished"><label>发布日期</label></data>
+	<data source="publisher"><label>出版商</label></data>
+	<group layout="horizontal">
+		<header>出版顺序</header>
+		<data source="previous"><label>上一部</label></data>
+		<data source="next"><label>下一部</label></data>
+	</group>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Books]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

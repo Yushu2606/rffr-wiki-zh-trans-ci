@@ -1,0 +1,11 @@
+;说明
+:本模板用于生成各类图片许可协议模板所使用的信息框。默认样式目前适配浅色主题的wiki。如果您的wiki使用深色主题，且本模板相比站内其他元素亮度过高，只需修改以下样式参数：
+
+:<code>background-color:</code> 为背景色，当前设置为：<code>#fefefe</code>
+:<code>border-color:</code> 为边框颜色，当前设置为：<code>#d6d6d6</code>
+:<code>color:</code> 为文本颜色，当前设置为：<code>#333</code>
+
+;语法
+:在图片信息页输入<code>{{t|LicenseBox|text{{=}}许可协议文本}}</code>即可使用。
+
+<includeonly>[[Category:Image license templates| ]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,6 @@
+{{Spacer}}
+'''Image License Templates''' are [[w:c:community:Help:Templates|templates]] used to [[w:c:community:Help:Licensing|license]] image [[Special:ListFiles|files]].----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Templates]]

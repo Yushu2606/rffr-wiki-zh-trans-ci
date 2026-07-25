@@ -1,0 +1,67 @@
+<infobox>
+	<title source="title">
+    	<default>{{PAGENAME}}</default>
+	</title>
+	<image source="image">
+		<default>Placeholder.png</default>
+	</image>
+	<header>Section Information</header>
+	<group layout="horizontal">
+		<data source="previous_section">
+    		<label><div>Previous Section</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+		<data source="next_section">
+    		<label><div>Next Section</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+    </group>
+    <data source="entity_amount">
+    	<label><div>Entity Amount</div></label>
+    </data>
+        <data source="i_entity_amount">
+    	<label><div>I Entity Amount</div></label>
+    </data>
+     <group>
+  	<group layout="vertical" show="complete" collapse="closed"></group>
+  <header source="sound_info_header">Sound Files</header>
+  <data source="sound1"/>
+  <data source="sound2"/>
+  <data source="sound3"/>
+  <data source="sound4"/>
+  <data source="sound5"/>
+  <data source="sound6"/>
+  <data source="sound7"/>
+  <data source="sound8"/>
+  <data source="sound9"/>
+  <data source="sound10"/>
+  <data source="sound11"/>
+  <data source="sound12"/>
+  <data source="sound13"/>
+  <data source="sound14"/>
+  <data source="sound15"/>
+  </group>
+</infobox>
+<noinclude>{{Documentation}}</noinclude>
+
+<noinclude>
+Example usage:
+{{SectionInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Example
+  | row2=Example}}
+<pre>
+{{SectionInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Example
+  | row2=Example}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"row1":{"suggested":true},"row2":
+{"suggested":true},"sound1":{"suggested":true},"sound2":{"suggested":true},"sound3":{"suggested":true},"sound4":{"suggested":true},"sound5":{"suggested":true},"sound6":{"suggested":true},"sound7":{"suggested":true},"sound8":{"suggested":true},"sound9":{"suggested":true},"sound10":{"suggested":true},"sound11":{"suggested":true},"sound12":{"suggested":true},"sound13":{"suggested":true},"sound14":{"suggested":true},"sound15":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

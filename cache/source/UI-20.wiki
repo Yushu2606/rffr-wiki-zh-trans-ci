@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px green; color: lime";>UI-20</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-20Title.png|frameless|link=UI-20]]
+|entity_image=UI-20.png
+|type=Rusher
+|previous_entity=[[UI-5]]
+|next_entity=[[UI-30]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI20ambi.wav]]</center>
+|damage=Instant Death.
+|related_monsters=[[A-20i]]|appears_at=I-020+}}
+
+==Description==
+'''UI-20''' is the 2nd April Fools exclusive entities that reside within [[Section UI]]. More information about '''UI-20''' will be presented below.
+
+==Behavior==
+When '''UI-20''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed. It will also emit a strange fast laughing sound upon any players being in close proximity.
+
+Once '''UI-20''' starts moving, it will begin to rush to the current room, faster than the players can sprint. Once '''UI-20''' reaches the current room's door, it will disappear and stop emitting all its sounds. This entity overall behaves very similar to UI-5, but the way it moves is faster.
+
+==Strategy & Tips==
+*Once you hear '''UI-20''', hide, as it will approach the current room at a decent speed. '''UI-20''' isn't also a huge threat, and is overall very easy to avoid, as it doesn't check any hiding spots and isn't very fast.
+*Don't try to outrun '''UI-20''', as it moves faster than you can sprint.
+**This idea is also very bad, especially further into the rooms.
+*'''UI-20''' can be seen from far away before it makes noise, so it is very easy to tell when to act against it.
+
+==Trivia==
+* '''UI-20''' was added as a joke, since the entity and the I-Section came out on April 1st, 2024, when SUPER EPIC MODE was released.
+*'''UI-20'''<nowiki/>'s appearance can be compared with other entities from different Rooms fangames, like '''UI-10''' from INTERMINABLE ROOMS.
+* Unlike most entities using a directional image to display its appearance, '''UI-20''' uses an invisible block with decals on all sides, giving the entity a straightforward, yet goofy appearance.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

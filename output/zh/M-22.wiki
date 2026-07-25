@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px yellow, -1.5px 0.66px 2px yellow; color: yellow;">M-22 (警笛)</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity
+|entity_name=[[File:M-22Placeholder.png|frameless|link=M-22]]
+|entity_image=<gallery>
+NewM22.webp|当前设计
+M22.webp|旧版设计
+</gallery>
+|previous_entity=[[Mouth|D-300]]
+|next_entity=[[M-22i]]<br>[[M-60]]
+|nicknames=警笛
+|claustrophobia=否
+|locker_snipe=是
+|appears_at=M-22号房间及之后
+|gun_effect=被射击足够次数后会立刻后退
+|type=冲刺者<br>
+反弹者<br>
+|behavior=发出类似警笛的声响，向前冲刺，撞到门后后退并消失。
+|speed=400（每秒）
+1000（红区中，每秒）
+|damage=400 每秒伤害（红区中为1000 每秒伤害）|sound2=<center>近距离氛围音</center><center>[[File:M22close.mp3]]</center>
+|caption-entity_image=
+|related_monsters=[[SHA-22]]<br>[[M-22i]]
+|sound1=<center>远距离氛围音</center><center>[[File:M22far.mp3|180x180px]]</center>
+|sound3=<center>跳杀音效</center><center>[[File:60-AFar.mp3]]</center>
+|sound4=<center>旧版氛围音</center><center>[[File:M-22ambience.mp3]]</center>
+|sound5=<center>近距离氛围音源文件</center><center>[[File:M22NearSoundOrigin.mp3]]</center>
+|sound6=<center>旧版氛围音源文件</center><center>[[File:m22oldambienceorigin.mp3]]</center>}}
+
+==描述==
+'''M-22'''是你在[[Section M|M区]]会遇到的首个敌对实体，作为[[E-30|M-30]]的替代实装。它的行为模式与后者截然不同，你可以在本页面了解相关细节。下文将提供更多与'''M-22'''有关的信息。
+
+==机制==
+当'''M-22'''生成时，会发出一段怪异的声响。随后'''M-22'''会向当前房间冲刺，之后反弹回去，最终消失。被M-22发现的玩家会快速受到伤害，没有完全藏好的玩家同样会被快速伤害。
+
+==策略与提示==
+* 当'''M-22'''向生成点折返并经过你所在的位置后，你就可以离开藏身点了，此时它不再具有威胁。
+** 但在部分情况下，你可能需要避免触发[[Claustrophobia|幽闭恐惧]]来应对另一个实体。
+* 在部分情况下，尤其是在红区中，你可能需要快速躲进柜子来规避'''M-22'''的伤害。
+** 虽然这在你陷入困境时非常有用，但如果你的藏身点是柜子的话，需要当心M-134是否也在那里。
+
+==冷知识==
+* '''M-22'''是目前游戏中可自然遭遇的第二个黄色实体，第一个是[[D-60i]]''（Invader通常在第二阶段主色调为黄色）。''
+* 你可以射击'''M-22'''，足够的命中次数会让它立刻后退，该状态下它无法对玩家造成伤害。
+* '''M-22'''无视桌子，躲在桌子下的玩家仍然会被它伤害。
+* 曾有一段时间，'''M-22'''因为旧音频被平台审核而完全没有声音。
+** 该问题在数小时后通过替换新音频得到修复
+
+==画廊==
+<gallery>
+M22jump.jpg|跳杀
+</gallery>
+
+{{EntityNavBoxSectionM}}
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Weapon Affected]]

@@ -1,0 +1,9 @@
+__EXPECTUNUSEDCATEGORY__
+本分类下的文件均未选择合适的许可协议，且已被标记{{t|nolicense}}模板。
+
+管理员应审核本分类中的文件，执行以下操作之一：
+* 若可轻易确定合适的许可协议，更新文件页面添加对应许可。
+* 删除该图片，不过最好先给予上传者选择许可协议的机会。
+
+[[Category:Images]]
+[[Category:Maintenance]]

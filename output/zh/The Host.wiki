@@ -1,0 +1,14 @@
+{{Delete|reason=已移至[[Player Controlled|玩家可控]]}}
+{{InfoBox:Entity
+|entity_name=宿主
+|entity_image=Unknown Humanoid.png
+|appears_at=仅管理员可召唤
+|nicknames=宿主<br>命运
+|behavior=???
+|type=玩家可控
+|damage=无(?)
+|speed=与玩家相同
+|related_monsters='''宿主的源头'''}}
+
+== 描述 ==
+目前关于宿主的已知信息甚少，但我们知晓它与'''宿主的源头'''存在关联，这是一种当'''宿主'''突袭你的逃生轮次时会出现的白色晶体。

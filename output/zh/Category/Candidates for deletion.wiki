@@ -1,0 +1,10 @@
+{{Spacer}}
+<big><center>'''你可能正在查找对应的模板：''[[Template:Delete|Delete]]''。'''</center></big>
+----
+本分类收录了所有已通过{{T|Delete}}模板标记为删除候选的页面。<br>
+注意：'''管理员在删除这些页面之前'''，请务必在执行删除操作前检查每个页面的讨论页、链入页面以及页面历史。
+----
+<center>''以下是属于本分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]

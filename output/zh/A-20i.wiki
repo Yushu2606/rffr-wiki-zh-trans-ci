@@ -1,0 +1,60 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px green; color: lime;">A-20i (Smiler X)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-20]]
+|next_entity=[[A-60]]<br>[[A-60i]]
+|entity_name=[[File:NewA20iTitle.webp|frameless|link=A-20i]]
+|entity_image= <gallery>
+NewerA25i.png|当前设计
+25ijump.png|当前跳杀设计
+File:A-25iDesign.png|旧版设计 
+File:A20i.png|更旧版设计
+</gallery> 
+|caption-entity_image=绿色火车冲冲冲
+|appears_at=A-020之后任意时刻，有1/75的概率替换A-20出现。
+|nicknames=Smiler X（微笑者X）
+|type=冲刺者
+|claustrophobia=否
+|gun_effect=无
+|locker_snipe=否
+|behavior=在远处后方生成后冲向当前房间。
+|damage=秒杀<br>（击杀范围为36 Stud）<br>无法发动柜击
+|speed=150 Studs/秒
+|related_monsters=[[A-20]]|sound1=<center>生成'''还原音效'''</center><center>[[File:A20iSpawn.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:A-20i's movement sound..mp3]]</center>
+|sound3=<center>消失音效</center><center>[[File:Despawn.mp3]]</center>
+|sound4=<center>跳杀音效</center><center>[[File:A-20iJumpscare.mp3]]</center>
+|sound5=<center>旧版生成音效</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
+
+==描述==
+A-20i是所有素数实体中的首个素数实体，躲避难度极低。它外观为绿色，和A-20几乎完全相似。它的移动音效听起来就像是加速版的A-20音效。
+
+==行为==
+生成时，A-20i会发出和对应基础实体类似的呼吸音效，但速度更快。A-20i会极快地冲向当前房间，仅留给玩家几秒的躲藏时间。一旦触碰到当前房间的门，它就会碎裂并消失。和A-20不同的是，A-20i会直接造成秒杀。 
+
+==你知道吗==
+*'''A-20i'''是首个超级实体。
+*'''A-20i'''不会击杀选择躲在桌子下的玩家（处于进入桌子的动画过程中时）。
+*'''A-20i'''<nowiki/>曾计划更名为A-25i，目前该改动已被撤销。
+*通过A-1000之后，'''A-20i'''替换A-20出现的频率会更高
+*<nowiki>''Stay Alert''（保持警觉）</nowiki>修饰符不会对'''A-20i'''生效
+'''A-20i'''原本有1/75的概率替换即将生成的A-20（无尽模式下房间编号越高，该概率越高），在[[Red Rooms|红区]]、A-2000及之后的房间中，以及除Stay Alert外的任意修饰符生效时，必定会替换A-20出现。
+
+==画廊==
+
+<gallery>
+Newa25ijump.gif|A-20i的当前版本跳杀动画
+NewA-25iJumpscare.gif|A-20i的旧版跳杀动画
+A-25iScary.gif|A-20i的更旧版跳杀动画
+TrueLegacyA-25i.png|真正的遗留/超级史诗模式外观
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

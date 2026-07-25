@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: blue;">A-200i (Insidæ Prime)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
+BlueRenovatedWater.gif|当前设计
+BlueAir Renovated.gif|旧设计
+A-200ijumpscare.png|更早/跳杀设计
+</gallery>
+|previous_entity=[[A-200]]
+|next_entity=[[Mouth|A-300]]<br>[[D-5]]
+|nicknames=Insidæ prime, "Water"
+|caption-entity_image=Blue-200
+|gun_effect=无
+|locker_snipe=是（非致命）
+|appears_at=A-200之后任意时间
+|type=后退者<br>反弹者
+|claustrophobia=否<br>是（混沌模式）
+|behavior=它会在[[A-200]]之后罕见出现，随机反弹数次后消失。
+|related_monsters=[[A-200]]
+|speed=与[[A-200]]相同（推测）|damage=每秒???伤害（柜击造成每秒200伤害）
+|sound1=<center>旧环境音</center><center>[[File:A200iAmbi.mp3]]</center>|ent_info_header=|sound2=<center>跳杀</center><center>[[File:A200iJumpscare.mp3]]</center>}}
+
+==描述==
+'''A-200i'''，也被称为“Insidae Prime”（风格化写法为“Insidæ Prime”，发音为“Inside Prime”）是你在Rooms: Found Footage Renovated的A区会遇到的第5个i型变种。你需要在'''A-200'''消失后保持耐心。
+
+==行为==
+和[[A-60i]]一样，'''A-200i'''无法自行生成，仅会在A-200消失后生成，如果它确实生成，屏幕上会产生额外的静电效果。  
+
+一旦激活，'''A-200i'''会发出类似[[A-200]]的风声，随后会极其安静地穿过房间原路返回。'''A-200i'''会随机退回若干个房间，且会随机反弹数次。 
+
+与[[A-200|普通形态]]不同，'''A-200i'''不会禁用[[Claustrophobia|幽闭恐惧]]，因此你必须不断进出柜子才能存活。  
+
+'''A-200i'''完成反弹后，会在自身下方生成一个漩涡并沉入其中，类似[[D-35i]]，同时屏幕静电效果恢复正常。 
+
+== 策略与技巧 ==
+* [[A-200]]首次生成时尽量使用安全点，避免遇到'''A-200i'''时陷入麻烦。
+* 如果'''A-200i'''生成了，你可以直接前往安全点，或者聆听它的声音，在它靠近时躲藏。
+* 若[[A-135]]处于激活状态时'''A-200i'''生成，你应当一直待在柜子里直到'''A-200i'''消失。
+* '''A-200i'''的柜击不致命，因此不需要冲刺躲藏也没问题，但如果被柜击了一定要记得治疗自己。
+* 条件允许的话，可以回头查看之前的房间，确认'''A-200i'''的位置。
+
+== 你知道吗 ==
+* '''A-200i'''现在（几乎）必定会在[[Red Rooms|红区]]里的[[A-200]]之后生成。
+
+== 画廊 ==
+<gallery>
+File:A-200i scary.gif|'''A-200i'''<nowiki/>的跳杀画面
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]

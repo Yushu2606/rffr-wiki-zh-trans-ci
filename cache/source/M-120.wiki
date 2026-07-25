@@ -1,0 +1,284 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">M-120 (Mimicry)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:NewM120Title.webp|frameless|link=M-120]]
+|entity_image=File:<gallery>
+NewM120.gif|Current Design
+NewM120Scare1.png|Jumpscare Design 1
+NewM120Scare2.png|Jumpscare Design 2
+M-120 Design.gif|Old Design
+M-120 Anim.gif|Older Design
+</gallery>
+|previous_entity=[[M-70]]
+|next_entity=[[M-120i]] (Upcoming)<br>[[M-134]]
+|nicknames=Mimicry
+|gun_effect=will immediately despawn if the sign is destroyed while its still forming, though like [[D-5]], it will get angry after enough times
+|appears_at=Randomly upon opening any door past M-120.
+|type=Rusher<br>Rebounder<br>Fallbacker<br>Locker Checker<br>Stationary
+|behavior=Rushes backwards, and then mimics a random entity from the A-Section or D-Section.
+|claustrophobia=No (look at each mimic)
+|locker_snipe=Yes (Look at each mimic)
+|speed=Normal Form: ~0.65 Rooms Per Second (Moderate)<br>Mimicking: Depends on what it's mimicking and if Red Rooms is active.
+|damage=??? DPS (Look at each mimic)
+|related_monsters=[[M-120i]]
+|sound1=<center>Spawning</center><center>[[File:M120spawning.mp3]]</center>
+|sound2=<center>Spawn</center><center>[[File:M120Spawn.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:M120Ambi.mp3]]</center>
+|sound4=<center>Mimic</center><center>[[File:M-120Mimic.mp3]]</center>}}
+
+==Description==
+'''M-120''', or "Mimicry" is the fourth entity you will encounter within the M-Section. It was added a little later after M-70's addition, and it possesses a unique ability to mimic other entities and their behaviors, specifically from previous sections, making it the most unique 120 variant. More information about '''M-120''' will be presented below.
+
+==Behavior==
+Upon spawning, '''M-120''' will manifest at middle of the current room from the door label. After it has fully formed, it will wait a few seconds before rushing backwards. Upon reaching the void wall, '''M-120''' will make drumming sounds, then it will mimic the oldest behavior(for most) of one of the eight entities that appear down below at Mimics.
+
+==Mimics==
+<tabber>
+|-|A-20=
+{{InfoBox:Entity
+|entity_name=A-20
+|entity_image=<gallery>
+NewM120A20.png|Current Design
+20-A.png|Old Design
+</gallery>
+|nicknames=20-A<br>A-25
+|type=Rusher
+|behavior=rushes to the main room, despawning instantly at the door
+|speed=Moderate
+|damage=??? DPS
+|locker_snipe=Yes
+|related_monsters=[[A-20]] (Mimicking)<br>[[A-20i]] (Behavior)
+|claustrophobia=No
+|sound1=<center>Old Spawn</center><center>[[File:20ASpawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:20-A.mp3]]</center>|sound3=<center>Jumpscare</center><center>[[File:20-AJump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[A-20]] mimic, or '''20-A''', will rush from behind [[Void]]'s claim wall and rush to the current room while emitting brief distorted whooshing noises. Despite [[A-20]] slowing down, '''20-A''' will not, which makes it a bigger threat compared to other [[Entities|entities]], considering its moderately fast speed and high damage rate. '''20-A''' will despawn as soon as it reaches the latest door generated.
+
+<h2> Gallery </h2>
+<gallery>
+File:20-A near a player.png|Old 20-A about to kill a player
+File:20-AScare.gif|20-A Jumpscare
+</gallery>
+
+|-|A-60=
+{{InfoBox:Entity
+|entity_name=A-60
+|entity_image=<gallery>
+NewM120A60.png|Current Design
+60-A.png|Old Design
+</gallery>
+|nicknames=60-A<br>A-50
+|type=Rusher
+|claustrophobia=No
+|behavior=rushes to the door, breaking it down
+|speed=Fast
+|locker_snipe=No
+|damage=Instant Death
+|related_monsters=[[A-60]] (Mimicking)<br>[[D-35]] (Behavior)
+|sound1=<center>Spawn</center><center>[[File:60ASpawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:60-AFar.mp3]]</center>
+|sound3=<center>Proximity Ambience</center><center>[[File:60-A.mp3]]</center>
+|sound4=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound5=<center>Proximity Ambience Origin</center><center>[[File:Static.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[A-60]] mimic, or '''60-A''', will rush from a point, similarly to [[A-60]]. It will rush to the current room while emitting soft static noises and instantly killing any player in sight, and it will emit another higher-pitched static sound in proximity. '''60-A''' will instantly despawn the moment it reaches the latest door generated. Additionally, it will also smash the door, similarly to [[M-60]], having a chance of spawning [[M-150]], [[M-200]], or another '''M-120'''.
+
+|-|A-85=
+{{InfoBox:Entity
+|entity_name=A-85
+|entity_image=<gallery>
+NewM120A85.png|Current Design
+85-A.png|Old Design
+</gallery>
+</gallery>
+|nicknames=85-A
+|type=Fallback
+|locker_snipe=No
+|claustrophobia=No
+|behavior=spawns at the door, and rushes back
+|speed=Fast
+|damage=??? DPS
+|related_monsters=[[A-85]]
+|sound1=<center>Ambience</center><center>[[File:85-A.mp3]]</center>|sound2=<center>Jumpscare</center><center>[[File:85-AJump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[A-85]] mimic, or '''85-A''', will pivot itself similarly to [[A-85]] itself, being just in front of the door. It will play loud distorted static sounds. After several seconds, '''85-A''' will then rush backwards, rapidly damaging anyone in sight until they are dead. Its destination is '''M-120's''' mimic point, where it will then despawn upon '''85-A''' reaching it.
+
+<h2> Trivia </h2>
+* Unlike most mimics, '''M-120''' does not mimic [[A-85]]'s oldest behavior.
+** this is also the case for '''M-120's''' [[D-5]] mimic.
+
+<h2> Gallery </h2>
+<gallery>
+File:85-AScare.gif|85-A Jumpscare
+</gallery>
+
+|-|A-135=
+{{InfoBox:Entity
+|entity_name=A-135
+|entity_image=<gallery>
+NewM120A135.png|Current Design
+135-A.png|Old Design
+</gallery>
+|nicknames=135-A<br>A-175
+|type=Fallback<br>Locker Checker
+|locker_snipe=No
+|claustrophobia=Yes
+|behavior=Spawns behind the door, going back whole checking gray lockers
+|speed=Slow
+|damage=Instant Death
+|related_monsters=[[A-135]]
+|sound1=<center>Ambience</center><center>[[File:135Aambiance.mp3]]</center>
+|sound2=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>|sound3=<center>Jumpscare</center><center>[[File:135-AJump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[A-135]] mimic, or '''135-A''', will pivot itself similarly to [[A-135]] itself, waiting behind the door. '''135-A''' will play drumming sounds almost exactly identical to [[A-135]]. '''135-A''' will wait a bit before smashing down the door, where it will then start checking every '''Heavy Locker''' before heading to the next room, like [[A-135]]. After it's done checking lockers, '''135-A''' will immediately despawn, instead of rushing backwards.
+
+<h2> Gallery </h2>
+<gallery>
+File:135-AScare.gif|135-A Jumpscare
+</gallery>
+
+|-|D-5=
+{{InfoBox:Entity
+|entity_name=D-5
+|entity_image=<gallery>
+NewM120D5.png|Current Design
+5-D.png|Old Design
+</gallery>
+|nicknames=5-D
+|type=Fallback
+|claustrophobia=Yes
+|behavior=spawns behind the door with a bang, falling back, damaging you if in its sight
+|speed=Moderate
+|damage=??? DPS
+|locker_snipe=Yes
+|related_monsters=[[D-5]]
+|sound1=<center>Spawn</center><center>[[File:5Dspawn.mp3]]</center>
+|sound2=<center>Old Ambience</center><center>[[File:5-DWalk.mp3]]</center>
+|sound3=<center>Despawn</center><center>[[File:5-DDespawn.mp3]]</center>|sound4=<center>Jumpscare</center><center>[[File:5-DJump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[D-5]] mimic, or '''5-D''', will pivot itself similarly to [[A-120]] and/or [[A-135]]. It will play an explosion sound and fill anyone's screen with static. The static will fade out, almost as if it were a countdown. After the static completely fades out, '''5-D''' will begin rushing back to '''M-120's''' mimic point, where it will then play a random despawn sound that resembles [[D-5]]'s oldest despawning sound.
+
+<h2> Trivia </h2>
+* Unlike most mimics, '''M-120''' does not mimic [[D-5]]'s oldest behavior.
+** this is also the case for '''M-120's''' [[A-85]] mimic.
+
+<h2> Gallery </h2>
+<gallery>
+File:5-DScare.gif|5-D Jumpscare
+</gallery>
+
+|-|D-20=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=D-20
+|entity_image=<gallery>
+NewM120D20.png|Current Design
+20-D.png|Old Design
+</gallery>
+|nicknames=20-D<br>D-1
+|type=Stationary
+|claustrophobia=No
+|behavior=damages the player within a range
+|speed=Stationary
+|damage=??? DPS
+|related_monsters=[[D-20]]
+|sound1=<center>Spawning</center><center>[[File:20Dspawning.mp3]]</center>
+|sound2=<center>Spawn</center><center>[[File:20Dspawn.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:20DAmbiance.mp3]]</center>
+|sound4=<center>Despawn</center><center>[[File:20Ddespawn.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[D-20]] mimic, or '''20-D''', will pivot itself similarly to M-120 itself, where it will emit the same particles as it alongside a light, where it will then reveal itself after a few seconds. After this, '''20-D''' will remain idle in the room, dealing rapid damage to anyone walking nearby. Overtime, '''20-D''' will decay in its face brightness and light brightness, alongside its damage. Eventually, '''20-D''' will completely disappear, leading to its despawn. Unlike [[D-20]], however, it cannot be killed by any weapon, as bullets will just phase through it (this will be changed)
+
+|-|D-35=
+{{InfoBox:Entity
+|locker_snipe=No
+|entity_name=D-35
+|entity_image=<gallery>
+NewM120D35.png|Current Design
+35-D.png|Old Design
+</gallery>
+|nicknames=35-D
+|type=rusher
+|claustrophobia=No
+|behavior=Rushes to the door, sometimes breakingthe door
+|speed=Fast
+|damage=Instant Death
+|related_monsters=[[D-35]]
+|sound1=<center>Spawn</center><center>[[File:35DSpawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:35-D.mp3]]</center>
+|sound3=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>|sound4=<center>Jumpscare</center><center>[[File:35-DJump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' [[D-35]] mimic, or '''35-D''', will pivot itself similarly to [[A-60]]. It will make a boom sound(too far away, inaudible in Section M), then rush to the current room while killing any players in sight, having a 10% ''<u>(or 100% depending on if you're in [[Red Rooms]])</u>'' chance to resemble its i-variant, being much faster than before. Upon reaching the current room, '''35-D''' will despawn, and hit the door or completely smash it depending on its speed. If it breaks down the door, it may spawn [[M-150]], [[M-200]], or another '''M-120'''.
+
+<h2> Gallery> </h2> 
+<gallery>
+File:35-DScare.gif|35-D Jumpscare 
+</gallery>
+
+|-|D-55=
+{{InfoBox:Entity
+|locker_snipe=No
+|entity_name=D-55
+|entity_image=<gallery>
+NewM120D55.png|Current Design
+55DAnim.gif|Old Animation Recreation
+55-D.png|Old Design
+</gallery>
+|nicknames=55-D
+|type=Rusher<br>Locker Checker
+|behavior=Rushes to the main room and checks gray lockers
+|speed=Fast
+|damage=Instant Death
+|claustrophobia=Yes
+|related_monsters=[[D-55]]
+|sound1=<center>Far Ambience</center><center>[[File:55Dfar.mp3]]</center>
+|sound2=<center>Close Ambience</center><center>[[File:55DClose.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''M-120's''' mimic, or '''55-D''', will pivot itself similarly to [[A-60]] and/or [[D-55]] itself. '''55-D''' will begin to rush to the current room, making noises similar to the base entity its mimicking. Upon reaching the current room, '''55-D''' will begin checking every '''Heavy Locker''' in the room, similarly to [[A-135]], but slightly faster, having a 10% ''<u>(50% in [[Red Rooms]])</u>'' chance to break one. After '''55-D''' has finished checking lockers, it will then go back to its spawning point, where it will then despawn.
+</tabber>
+
+== Strategy & Tips ==
+* As mentioned, '''M-120''' cannot snipe, so use this as your advantage in case '''M-120''' spawns with other entity.
+* [[M-200]] & [[M-150]] can't spawn while '''M-120''' is active, but [[M-150]] can spawn together with '''M-120''' if both spawn in the same room, so look for blue light/white light when '''M-120''' spawns.
+*'''M-120'''<nowiki/>'s '''35-D''' mimic can ambush and instantly rush to the main room at a very high speed, so if you hear '''35-'''<nowiki/>'''D''''s sound, avoid hiding in blue lockers because if it destroy the door can spawn [[M-200]].
+* If you shoot the door label while '''M-120''' is transforming, you can neutralize/despawn it by making the door label break. However this only works with normal weapons, so Perfectionists won't work.
+* If '''M-120''' isn't in its '''135-A''' or '''55-D''' mimic, hide in heavy lockers, as other mimics could break the door, spawning [[M-200]].
+* If '''M-120''' is in its '''20-D''' mimic, use it to your advantage by going past it while it is transforming and going through doors, as [[M-150]] and [[M-200]] cannot spawn while it is active. 
+
+== Trivia ==
+* Not to be confused with '''M-120''' From Interminable Rooms due to having the same name.
+* '''20-A, 85-A''' and '''35-D''' cannot kill you if you are under a table. Other mimics however ('''60-A''', '''135-A''', '''5-D''', '''20-D''' and '''55-D''') can still kill you while under them.
+* Shooting '''M-120'''<nowiki/>'s door label enough times will make it transform from the previous room's door label.
+** Shooting it even more when '''M-120''' is transforming from the previous room's door label will make it transform from a door label that's one room further away.
+* If [[M-70]] is active while '''M-120''' is about to mimic, it will wait for [[M-70]] to despawn then transform into a mimic.
+* '''M-120''' had a bug for a long time where when it was in its '''135-A''' or '''55-D''' mimic wouldn't kill you in the locker it was checking, however this has been fixed on 2/28/26, so now you can't hide in any locker for '''135-A''' or '''55-D'''.
+
+== Gallery ==
+<gallery>
+File:Screenshot 20260517 100705 Video Player.jpg|M-120 seen with his new design
+File:Screenshot 20260517 100749 Video Player.jpg|M-120 about to fallback
+File:Screenshot 20260517 100720 Video Player.jpg|M-120 fully charged
+File:Screenshot 20260517 100810 Video Player.jpg|A player about to hide from M-120 before fallbacking
+</gallery><gallery>
+File:M-120 scary.gif|M-120's old jumpscare
+File:M-120 spawning.png|Old M-120 spawning from the door sign
+</gallery>{{EntityNavBoxSectionM}}
+
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Rusher]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Stationary]]
+[[Category:Entity Type Mix]]
+[[Category:Weapon Affected]]

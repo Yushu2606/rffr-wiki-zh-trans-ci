@@ -1,0 +1,7 @@
+<includeonly>[[Category:Will Get Redesigned]]</includeonly>
+
+<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #FFFF00, inset 0 0 15px #FFFF00; background:none; margin-top: 20px; color:#FFF; border: 5px solid Yellow; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+[[File:Redesign.png|top|550x550px|link=]]<div style="font-size:25px">{{PAGENAME}}即将由<br>'''{{{1|(在此添加用户)}}}'''[[:Category:Will Get Redesigned|重新设计]]！
+<br>
+<span style="font-size: 0.8em;">'''理由：{{{2|在此添加理由}}}'''</span>
+</div></center><br/><noinclude>

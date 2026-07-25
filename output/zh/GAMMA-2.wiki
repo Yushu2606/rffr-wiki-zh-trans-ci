@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-2</span>}}
+{{ArticleBackground|File=GAMMABack.webp}}
+{{Stub}}
+{{InfoBox:Entity
+|entity_name=Gamma-2
+|entity_image=G2.png
+|previous_entity=[[GAMMA-1]]
+|appears_at=仅Admin可召唤
+|type=暗影<br>后撤<br>反弹者
+|behavior=与[[SHA-2]]相同，但会反弹
+|speed=快
+|damage=秒杀（每秒伤害型柜击）<br>70-80~（Gamma Plague（伽马瘟疫））
+|locker_snipe=是
+|gun_effect=所有GAMMA类实体都无法被枪击
+|claustrophobia=否
+|related_monsters=[[SHA-2]]<br>[[LAPSE-2]]|caption-entity_image=轮到我来杀你了！11！BLEHRKKEHRLEHRELKEHLRHELRER}}
+
+== 描述 ==
+'''GAMMA-2'''是[[SHA-2]]的第二个变种，为Admin专属实体。
+
+== 行为 ==
+生成后，它会停在门后，与[[SHA-2]]类似，但后撤速度更快且会反弹数次，消失时会发出低语声。
+
+== 对策与提示 ==
+
+* 看到屏幕晃动时直接躲起来即可。
+
+== 冷知识 ==
+待补充。
+
+== 画廊 ==
+<gallery>
+File:Placeholder.webp
+</gallery>
+{{EntityNavBoxAdmin}}
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Admin Entities]]

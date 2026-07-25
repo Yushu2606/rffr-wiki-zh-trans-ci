@@ -1,0 +1,6 @@
+;描述
+:此模板用于标记属于公有领域的图片。
+;语法
+:在图片信息页输入<code>{{t|PD}}</code>。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

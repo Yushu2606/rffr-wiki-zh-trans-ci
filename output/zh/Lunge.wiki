@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #cc00fb; color: #d380ff;">Lunge</Span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Lunge
+|entity_image=Lunge.png
+|previous_entity=[[Tackle]]
+|next_entity=[[Execution]]
+|claustrophobia=否
+|appears_at=[[Unnamed Sector|无名区域]]的黑暗区域/[[Red Rooms|红区]]中/通常情况下罕见
+|type=反弹者
+|behavior=会向门冲刺，之后开始反弹，反弹至少5次时会播放[[D-60]]的反弹音效作为提示
+|speed=中等
+|locker_snipe=否（进入柜子时）<br>是（离开柜子时）
+|gun_effect=无
+|damage=秒杀
+|related_monsters=[[Mori]]<br>[[False Witness]]<br>[[Tackle]]
+|sound1=<center>生成</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:LungeAmbience.mp3]]</center>
+|caption-entity_image=}}
+
+==描述==
+'''Lunge'''是你在[[Unnamed Sector|无名区域]]的探索旅程中可能遇到的实体之一，是[[Tackle]]的变体版本。
+
+==机制==
+当'''Lunge'''生成时，它会向门冲刺，撞击门后回落，随后在返回主房间前会发出和[[D-60]]相同的反弹预警，其行为几乎与[[Tackle]]完全一致，但有一点区别：'''Lunge'''的反弹次数更多，且每次改变方向时都会改变速度。
+
+==应对策略==
+当你听到它的生成提示时立刻躲藏，当它离开较远时可以离开柜子，在你听到[[D-60]]的反弹提示音效时再次进入柜子躲藏。
+
+==你知道吗==
+'''Lunge'''的旧名称为Shulk。
+
+== 画廊 ==
+<gallery>
+File:Lunge ingame.png|游戏内所见的'''Lunge'''（低画质）
+File:OtherLunge.webp|同上
+File:Lunge_Fallbacking.webp|正在回落的Lunge
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

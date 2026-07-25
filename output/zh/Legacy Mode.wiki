@@ -1,0 +1,105 @@
+__NOTOC__
+{{ArticleBackground|File=LegacyBack.jpg}}
+{{Stub}}
+
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00AAAA|TextColor=#DDFFFF|Name=[[Legacy Mode|旧版模式]]|Details=R:FF关服前的版本。该修饰符极少更新，偶尔可能出现故障。你可以在这里找到[[Section I|I区]]以及旧版实体。}}
+
+==概述==
+'''旧版模式'''是一个可让你游玩永久关服前的原版'''Rooms: Found Footage'''的修饰符。该模式与主游戏差异不大，最主要的改动是加入了交换区，也就是[[Section I|I区]]，它就是最初的[[Section M|M区]]。
+
+==实体==
+<tabber>
+|-|A区=
+'''A区：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-25ReRedesign.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-25iDesign.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.gif|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A85real.webp|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A135.png|center|150px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Airyyy renovated air.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueAir Renovated.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+
+|-|D区=
+'''D区：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD35.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-35.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-60 1.png|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Newest D-60i AnimV2.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-140.gif|center|150px|link=D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+
+|-|I区=
+'''I区：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60|I-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70|I-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]
+
+|-|杂项=
+'''杂项：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+</tabber>
+
+{{BrowseNavBox}}

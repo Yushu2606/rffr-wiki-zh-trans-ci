@@ -1,0 +1,7 @@
+;描述
+本模板会移除提供的值首尾的空白字符。它通过<code>#if</code>解析器函数的简单过滤技巧实现该功能。
+
+;语法
+ <nowiki>{{trim|  value }}</nowiki>
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

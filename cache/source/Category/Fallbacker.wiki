@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Fallbacker''' Entities are any entities that instead starting from [[Void]], they start at the newest room/door.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

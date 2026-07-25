@@ -1,0 +1,106 @@
+{{Clear}}
+{| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #d90b0b; background:#a81414; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
+! style="width:100px" |[[File:EntityNavBoxSectionDImage.png|200px|center|link=Entities]]
+|-
+|
+{| class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="background:#70574c; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#4a372f; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Normal</center>
+|-
+| class="navigation-class" |
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #d0db58;"class="navigation-class" |<center>Section A</center>
+|-
+! width="15%" style="background: #a8a79b;" |<center>Regular</center>
+| class="navigation-links" |[[A-20]] • [[A-60]] • [[A-85]] • [[A-120]] • [[A-135]] • [[A-200]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>I Variations</center>
+| class="navigation-links" |[[A-20i]] • [[A-60i]] • [[A-85i]] • [[A-135i]] • [[A-200i]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #d90b0b;"class="navigation-class" |<center>Section D</center>
+|-
+! width="15%" style="background: #4a372f;" |<center>Regular</center>
+| class="navigation-links" |[[D-5]] • [[D-20]] • [[D-35]] • [[D-55]] • [[D-60]] • [[D-120]] • [[D-140]] • [[D-200]]
+|-
+! width="15%" style="background: #4a372f;" |<center>I Variations</center>
+| class="navigation-links" |[[D-5i]] • [[D-35i]] • [[D-60i]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #283feb;"class="navigation-class" |<center>Section M</center>
+|-
+! width="15%" style="background: #2c40d4;" |<center>Regular</center>
+| class="navigation-links" |[[M-22]] • [[M-60]] • [[M-70]] • [[M-120]] • [[M-134]] • [[M-150]] • [[M-200]]
+|-
+! width="15%" style="background: #2c40d4;" |<center>I Variations</center>
+| class="navigation-links" |[[M-60i]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>Section I</center>
+|-
+! width="15%" style="background: #77befc;" |<center>Regular</center>
+| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>Other</center>
+|-
+! width="15%" style="background: #585966;" |<center>All Sections</center>
+| class="navigation-links" |[[Claustrophobia]] • [[Mouth]] • [[Void]] • [[Jimmy]] • [[Endellion]] • [[Oblivion]]
+|-
+! colspan="2" width="15%" style="background: #4A176B;"class="navigation-class" |<center>Shadow Challenge</center>
+|-
+! width="15%" style="background: #661b96;" |<center>Normal</center>
+| class="navigation-links" |[[SHA-30]] • [[SHA-35]] • [[SHA-55]] • [[SHA-60]] • [[SHA-85]] • [[SHA-140]] • [[SHA-180]] • [[SHA-200]] • [[SHA-300]]
+|-
+! width="15%" style="background: #661b96;" |<center>Exclusive</center>
+| class="navigation-links" |[[SHA-1]] • [[SHA-2]] • [[SHA-3]] • [[SHA-4]]
+|}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="background:#70574c; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#4a372f; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Other</center>
+|-
+| class="navigation-class" |
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>Super Epic Mode</center>
+|-
+! width="15%" style="background: #d0db58;" |<center>[[Section A]]</center>
+| class="navigation-links" |[[A-20ii]] • [[Dorito]] • [[A-200ii]]
+|-
+! width="15%" style="background: #d90b0b;" |<center>[[Section D]]</center>
+| class="navigation-links" |[[D-35ii]]
+|-
+! width="15%" style="background: #1C4051;" |<center>[[Section Interchange]]</center>
+| class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
+|-
+! width="15%" style="background: #6e6464;" |<center>Other</center>
+| class="navigation-links" |[[Cherry Bomb]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #d43582;"class="navigation-class" |<center>Upcoming</center>
+|-
+! width="15%" style="background: #283feb;" |<center>[[Section M]]</center>
+| class="navigation-links" |[[M-120i]] • [[M-340]]
+|-
+! width="15%" style="background: #c79d26;" |<center>[[Section E]]</center>
+| class="navigation-links" |[[E-10]] • [[E-30]] • [[E-60]] • [[E-90]] • [[E-120]] • [[E-200]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>Scrapped/Removed</center>
+|-
+! width="15%" style="background: #d0db58;" |<center>[[Section A]]</center>
+| class="navigation-links" |[[Old A-60i|A-60i <small>(Old)</small>]]
+|-
+! width="15%" style="background: #d90b0b;" |<center>[[Section D]]</center>
+| class="navigation-links" |[[D-180]]
+|-
+! width="15%" style="background: #283feb;" |<center>[[Section M]]</center>
+| class="navigation-links" |[[M-7]] • [[M-30]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #b531de;"class="navigation-class" |<center>Admin</center>
+|-
+! width="15%" style="background: #8522a3;" |<center>Regular</center>
+| class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]] • [[D-60ii]] • [[A-60ii]] • [[GAMMA-1]]
+|}
+|}
+|}
+<noinclude>''Note:I got all this code from [https://r-rooms.fandom.com/wiki/Template:Navigation this] template. THANK YOU!!!!!!''</noinclude>

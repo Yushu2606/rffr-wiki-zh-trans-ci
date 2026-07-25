@@ -1,0 +1,4 @@
+;说明
+本模板可用于会自动移除空白的区域中强制插入空格。
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

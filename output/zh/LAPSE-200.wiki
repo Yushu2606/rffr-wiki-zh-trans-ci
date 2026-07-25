@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: red;">LAPSE-200 (???)</span>}}{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法 & 暗影天启]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-200
+|entity_image=LAPSE-200.gif
+|previous_entity=[[SHA-200]]<br>[[LAPSE-60]]
+|next_entity=[[SHA-300]]
+|nicknames=???
+|gun_effect=所有过失实体都无法被枪击
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=锁定者
+|claustrophobia=???
+|behavior=SHA-200的强化版
+|speed=快
+|locker_snipe=否
+|damage=秒杀
+|related_monsters=[[A-200]]<br>[[SHA-200]]
+|sound1=<center>突破原声带</center><center>[[File:TemporalTenacity.mp3]]</center>}}
+
+== 描述 ==
+'''LAPSE-200'''是你可能遇到的众多过失实体之一，它是[[SHA-200]]的过失变种，同时也是整个游戏中最稀有的实体，生成概率仅为1/600000。
+
+== 行为 ==
+* 生成时会伴随巨大的风声，在文字<span style="text-shadow: 0 O 5px #6A0908; color: #6A0908;">Something wicked this way comes.（邪恶之物正往此处赶来。）</span>出现后，会高速锁定玩家。如果'''LAPSE-200'''抵达玩家位置时玩家正躲在柜子中，就会触发一个类似其暗影对应体[[SHA-200]]的小游戏，但难度要高得多。与[[SHA-200]]的小游戏不同，'''LAPSE-200'''的小游戏会分为多个阶段，与pressure中现已移除的Harbinger小游戏类似。
+
+* 以下是已知的'''LAPSE-200'''的阶段：
+** 阶段1：与[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（突击队至日）]]的小游戏相同，偶尔会同时命中两次。
+** 阶段2：与[[SHA-200]]的小游戏相同（视野变暗并聚焦于你的光标）。
+** 阶段3：圆圈除移动外还会缩小。
+** 阶段4：新增一个红色圆圈，红色圆圈会更快消耗你的能量。
+** 阶段5：新增第二个红色圆圈。
+** 阶段6：新增最后一个红色圆圈（总计3个）。
+** 阶段7：会随机致盲你，但同时会将你的能量消耗时间减少至原来的1/3。
+** 阶段8：你的生命值条会完全不可见。
+
+== 策略与技巧 ==
+* 祈祷吧，这是你唯一能做的事。
+
+== 音乐/原声带 ==
+* 《Temporal Tenacity》- 突破原声带：https://youtu.be/8a2sfszREZc?si=zUo15awAcQAUabIV
+
+== 实机演示 ==
+https://youtu.be/HpZdCh9qvtw?si=kz9exN3phsh4Sl-f

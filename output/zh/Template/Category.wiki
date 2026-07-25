@@ -1,0 +1,22 @@
+<div
+class="tdx-container"
+style="border: 1px solid var(--theme-accent-color); margin: 0; padding-top: 0.25em; width: 100%"
+><!--
+-->{{#arraydefine: pt|{{SUBPAGENAME}}|(}}<!--
+--><center><!--
+--><span style="color: var(--theme-accent-color); font-size: 3.5em;"><!--
+-->{{#if: {{{color|}}}|{{Color|{{{color}}}|{{#arrayindex: pt|0}}}}|{{Color|{{#arrayindex: pt|0}}}}}}<!--
+--></span><!--
+--><hr style="border: 0.5px solid var(--theme-accent-color); margin: 0 -1em 1em"><!--
+-->{{#if: {{{main_page|}}}
+|''此分类对应主题的主页面可[[{{{main_page}}}|在此处]]查阅。''<!--
+--><hr>
+}}<!--
+--></center><!--
+-->{{{1|<font color="gray">''内容''</font>}}}<!--
+--><hr><!--
+--><center>''以下是属于该分类的所有页面。''</center><!--
+--></div><!--
+--><includeonly><!--
+-->{{#ifeq: {{{2|}}}|nowiki||{{#ifeq: {{NAMESPACENUMBER}}|14|[[Category:Wiki Categories]]}}}}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>

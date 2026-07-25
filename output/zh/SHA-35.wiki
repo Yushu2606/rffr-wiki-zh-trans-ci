@@ -1,0 +1,52 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, black, black, #b300f5, #b300f5); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-35 (Inception)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha35logo.gif]]
+|entity_image=<gallery>
+Sha-35.webp|当前设计
+Sha-35Invert.webp|闪烁外观
+Sha35.webp|旧版设计
+Sha35Invert.png|旧版闪烁外观
+</gallery>
+|previous_entity=[[SHA-30]]
+|next_entity=[[SHA-55]]
+|nicknames=Inception
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=冲刺者<br>暗影<br>反弹者<br>
+|gun_effect=所有暗影实体均无法被枪击
+|locker_snipe=否
+|claustrophobia=否
+|behavior=冲向主房间并反弹1-4次
+|speed=极慢（每秒0.5-1个房间）
+|damage=秒杀（无法被命中）
+|related_monsters=[[D-35]]
+|sound1=<center>生成</center><center>[[File:SHA-35Spawn.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:Sha-35Ambience.mp3]]</center>
+|caption-entity_image=我制作的时间实在太久了
+|sound3=<center>闪烁音效</center><center>[[File:Sha35flickers.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-35'''是出现在[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|A&SP]]修饰符中的众多暗影实体之一，是[[D-35]]的受感染对应版本。
+
+== 行为 ==
+'''SHA-35'''是你在[[Shadow Challenge|暗影挑战]]中必然会遇到的实体。'''SHA-35'''的行为模式与[[D-35]]类似，但速度远慢于其未受感染的对应版本[[D-35]]。生成时，它会发出响亮的低音调音效，和未受感染版本[[D-35]]的生成音效一致，但音调更低。它会以中等速度冲向主房间，抵达主房间后会反弹并返回虚空墙。'''SHA-35'''会反弹2-4次后消失，像[[D-35]]一样沉入地面。
+
+== 策略与提示 ==
+
+* 当'''SHA-35'''生成时，不要过于往前冲，避免触发更多'''SHA-35'''生成。
+** 这点在[[Alpha & Shadowpocalypse|A&SP]]中尤其需要注意，因为该[[Modifiers|修饰符]]下SHA-35的出现概率要高得多。
+* 当'''SHA-35'''靠近你时，屏幕会产生非常轻微的震动，你需要留意这一信号。
+* 如果'''SHA-35'''靠近时还有其他实体处于活跃状态，尽量晚一点躲藏，避免受到不必要的[[Claustrophobia|幽闭恐惧]]伤害。'''SHA-35'''无法对你造成储物柜命中，你可以充分利用这一优势。
+
+== 冷知识 ==
+SHA-35是唯一一个可以通过躲在桌子下存活的暗影实体。
+
+== 画廊 ==
+<gallery>
+File:SHA-35 p.webp|'''SHA-35'''<nowiki/>的消失粒子
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

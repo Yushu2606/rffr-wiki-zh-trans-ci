@@ -1,0 +1,190 @@
+__NOTOC__
+{{Stub}}
+{{Modifier|GradiantDetails=to bottom, #44FF44, #006600|TextColor=#DDFFDD|Name=[[Super Epic Mode]]|Details=Play R:FF Like it was during its April Fools 2024 Event! This build of the game will rarely be updated and may break at times.}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+
+<h2> Overview </h2>
+
+'''Super Epic MODE''' is a modifier that allows you to play the Original '''Rooms: Found Footage''' like it was during its April Fools 2024 event, it was a mode that added a lot of jokes entities as also made some things goofy, like D-60i or A-85i will make a spawn indicator sound be a [https://official-rooms-found-footage-renovated.fandom.com/wiki/File:BossIndicatorSEM.mp3 scream] instead, and they will play the Horror Race music. ''(for now the music and spawn indicator doesn't play)'', as long with the new [[Section UI|Section I]], that is a joke version of the [[Section I|Section Interchange]].
+
+<h2> Exclusive Entities </h2>
+
+<tabber>
+|-|ii Variants=
+'''ii Variants:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}}[[File:A-20ii.png|center|150px|link=A-20ii]]
+{{!}}[[File:A-200ii Anim .gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}}-
+{{!}}}
+
+|-|Cat Entities=
+'''Cat Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}}[[File:Cat60face1.jpg|center|150px|link=CAT-60]]
+{{!}}[[File:CAT-120.png|center|150px|link=CAT-120]]
+{{!}}[[File:Dorito.png|center|150px|link=Dorito]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DCAT-55.png|center|150px|link=DCAT-55]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Dorito]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[DCAT-55]]
+{{!}}-
+{{!}}}
+
+|-|Misc Entities=
+'''Misc Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}}[[File:PB.jpg|center|150px|link=Pipe Bomb]]
+{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
+{{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
+{{!}}[[File:Tackle.png|center|150px|link=Tackle]]
+{{!}}[[File:A-258.gif|center|150px|link=A-258 (IR)]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Pipe Bomb]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mori]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[False Witness]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Tackle]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-258 (IR)]]
+{{!}}-
+{{!}}[[File:TrollFace.webp|center|150px|link=Troll Face]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Troll Face]]
+{{!}}-
+
+{{!}}}
+
+|-|Section UI=
+'''Section UI:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Gato#Section_UI|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+{{!}}-
+
+{{!}}}
+
+</tabber>
+
+<h2> Non Exclusive Entities </h2>
+<tabber>
+|-|Section A Entities=
+'''Section A Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMA85.png|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85iSEM.png|center|150px|link=A-85i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200i.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}-
+
+{{!}}}
+|-|Section D Entities=
+'''Section D Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}}[[File:D-1SEM.png|center|150px|link=D-20|D-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35i.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20|D-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD-140.png|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}}}
+
+|-|Misc Entities=
+'''Misc Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMJimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+</tabber>
+
+<h2> Gallery </h2>
+<gallery>
+File:CAT-120Far.png|[[CAT-120]] seen from a locker
+Ohno.png|[[A-200]] about to kill a player
+</gallery>
+
+{{BrowseNavBox}}

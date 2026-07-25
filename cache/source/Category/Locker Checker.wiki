@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Locker Checker''' Entities are any entities that check a locker/cabinet.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

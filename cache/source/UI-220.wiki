@@ -1,0 +1,36 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-220Placeholder.png|frameless|link=UI-220]]
+|entity_image=220.png
+|previous_entity=[[UI-200]]
+|next_entity=[[UI-246]]
+|type=Rebounder
+|appears_at=I-220+
+|damage=Instant Death.
+|related_monsters=[[A-120]]<br>[[D-180]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI220Scream.mp3]]</center>}}
+
+== Description ==
+'''UI-220''' is the 10th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-220''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+it will appear from the back and rush to the main room, after it hits the door will will rush back, it will repeat this a couple times while screaming loudly before despawning at its spawn point 
+
+== Strategy & Tips ==
+Hide as soon as you hear its screams, and dont exit your hiding spot untill horror race lowers in volume to indicate theres no entities active.
+
+== Trivia ==
+* Like most UI entities, '''UI-220''' was added as a joke.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Rusher]]
+[[Category:Super Epic Mode]]
+[[Category:Section UI]]

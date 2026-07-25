@@ -1,0 +1,82 @@
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue; cursive; background-image: linear-gradient(black, blue); -webkit-background-clip: text; color:transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">D-180i（宁静）</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:D-180i-B.png|frameless|link=D-180i]]
+|entity_image=<gallery>
+UnknownEntity.png|新设计
+D-180i.png|旧设计
+</gallery>
+|caption-entity_image=不管你在盘算什么，我都盯着你呢。
+|gun_effect=无
+|nicknames=Joke D-180（正式名称）<br>Calmness（宁静）<br>Naivety（天真）
+|appears_at=仅Admin可召唤
+|type=冲刺者<br>反弹者<br>生成者
+|claustrophobia=否
+|behavior=行为与[[SHA-180]]一致，但可以生成几乎所有D区的实体。
+|speed=???
+|locker_snipe=否
+|damage=??? DPS
+|related_monsters=[[D-180]]<br>[[SHA-180]]
+|sound1=<center>环境音</center><center>[[File:NewD180iambi.mp3]]</center>
+|sound2=<center>旧版环境音 '''（音量极大）'''</center><center>[[File:D180i.mp3]]</center>}}
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">描述</span> ==
+'''D-180i''' 是Admin专属实体。它的运作逻辑基本与[[SHA-180]]一致，但反弹次数多得多，还能生成更多实体……
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">行为</span> ==
+当'''D-180i'''生成时，会显示字幕："<span style="text-shadow: 0 0 5px blue; color: blue;">Psst. Hey, {User}（嘘。嘿，{User}）</span>" "<span style="text-shadow: 0 0 5px blue; color: blue;">I know what you have planned. I know your intentions better than you do.（我知道你打的什么主意。我比你更清楚你的意图。）</span>" "<span style="text-shadow: 0 0 5px blue; color: blue;">I'm coming for you. Better run while you still can. I'm already on my way.（我来找你了。趁你还能逃就赶紧跑吧。我已经在路上了。）</span>"
+
+当接近主房间时，'''D-180i''' 会让所有玩家的屏幕布满雪花噪点，距离主房间非常近时会发出低噪。当'''D-180i'''撞上门后，它会后退并开始随机反弹周期（11-44次反弹）。
+
+每次'''D-180i'''冲向主房间并撞门时，都会生成一个随机的D区实体（或是A区的实体）。
+
+以下是'''D-180i'''可以生成的所有实体：
+
+* [[D-5]] (?)
+* [[D-5i]]
+* [[D-20i]]
+* [[A-20i]]
+* [[D-35i]]
+* [[D-55]]
+* [[D-55ii]]
+* [[D-60i]]（仅旧版存在）
+* [[D-120]]
+* [[D-140]]
+* [[D-140i]]（仅旧版存在）
+* [[D-200]]
+* [[A-60i]]
+* [[A-200i]]
+所以总的来说，'''D-180i'''几乎可以生成所有[[Section D|D区]]的实体，也能生成其他区的i变体（目前仅限[[Section A|A区]]）。
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">攻略与提示</span> ==
+
+* 由于'''D-180i'''冲向主房间前没有任何生成提示，如果你发现屏幕开始布满雪花噪点，请立刻躲藏。
+* 如果'''D-180i'''生成了[[A-200i]]，你不需要担心'''D-180i'''，因为它会等[[A-200i]]先消失后再继续反弹。（这点很容易理解，因为[[A-200i]]的雪花噪点会让你根本察觉不到它的存在）。
+* 和其他Admin专属的迷你Boss变体不同，'''D-180i'''不需要你开门来让它消失，所以最好的做法就是等它自行消失。
+* 当'''D-180i'''生成时，请务必躲进'''蓝色重型柜子'''或'''白色储物柜'''中，因为如果他生成[[D-55ii]]，你将没有时间取消躲藏并移动到指定的柜子/储物柜处。
+* '''D-180i'''无法发动柜击，你可以利用这一点，在最后一刻再躲藏，以免受到[[Claustrophobia|幽闭恐惧]]的伤害。
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">冷知识</span> ==
+
+* '''D-180i'''的实际名称是'''Joke D-180'''，但大多数人都叫他'''D-180i'''，因为他的行为模式类似于素数变种。
+* 如果'''D-180i'''生成了[[D-5i]]，他要么会等待[[D-5i]]消失，要么会自行消失。
+* <big>'''D-180i'''知晓你的意图，快逃离他。</big>
+* 与[[D-180]]不同，'''D-180i'''性格冷静，会与玩家公平博弈，先等待[[D-5i]]这类实体消失，再继续发动攻击。
+* '''D-180i'''对玩家既不友好也不具攻击性，仅保持中立，但尽管如此，他的危险程度远高于[[D-180]]。
+* '''D-180i'''倾向于优先击杀经验最丰富/技术最娴熟的玩家，因为他乐于看到高手在如此多实体的威胁下痛苦求生，也想看看他们能坚持多久。
+* 从'''D-180i'''手中逃生的玩家会被标记，'''D-180i'''永远不会忘记他们。
+
+== 画廊 ==
+<gallery>
+D-180iJumpscare.gif|旧版跳杀
+D-180iLoading.jpg|'''D-180i'''出现在罕见的加载界面中。
+ImGoingInsane.webp|<span style="text-shadow: 0 0 5px blue; color: blue;">Ȉ̴̤̈́m̶̢̿̃͊ ̸͕̠͎̌G̶̼̫͓͛̐̇̚o̶̧̮̬̠̅ỉ̷͖̱̦̔ņ̴̦̥̂̏͆̄g̵͚͖̼͌̍̇͘ ̸̛̙͇̾Ĩ̶̜ń̷̗́s̵̫̳͕̳͑ã̸͇͛͂̇ṅ̷͚͐e̸̢̛̤͕</span>
+</gallery>
+
+{{EntityNavBoxAdmin}}
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:I Variation]]
+[[Category:Admin Entities]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]

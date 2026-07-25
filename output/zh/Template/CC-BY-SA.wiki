@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件采用[http://creativecommons.org/licenses/by-sa/3.0/ 知识共享署名-相同方式共享许可协议]进行授权。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:CC-BY-SA files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

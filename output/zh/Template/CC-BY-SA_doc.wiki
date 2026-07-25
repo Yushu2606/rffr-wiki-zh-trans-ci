@@ -1,0 +1,6 @@
+;描述
+:此模板用于标记采用CC-BY-SA许可协议的图片。
+;语法
+:在图片信息页输入<code>{{t|CC-BY-SA}}</code>。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

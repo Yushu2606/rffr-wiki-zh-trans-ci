@@ -1,0 +1,52 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, black, black, #b300f5, #b300f5); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-35 (Inception)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha35logo.gif]]
+|entity_image=<gallery>
+Sha-35.png|Current Design
+Sha-35Invert.png|Flicker Design
+Sha35.webp|Old Design
+Sha35Invert.png|Old Flicker Design
+</gallery>
+|previous_entity=[[SHA-30]]
+|next_entity=[[SHA-55]]
+|nicknames=Inception
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rusher<br>Shadow<br>Rebounder<br>
+|gun_effect=No Shadow can be shot
+|locker_snipe=No
+|claustrophobia=No
+|behavior=Rush to the main room and rebound 1-4 times
+|speed=Very Slow (0.5-1 Room Per second
+|damage=Instant Death (cannot snipe)
+|related_monsters=[[D-35]]
+|sound1=<center>Spawn</center><center>[[File:SHA-35Spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:Sha-35Ambience.mp3]]</center>
+|caption-entity_image=I take way too long
+|sound3=<center>Flickers</center><center>[[File:Sha35flickers.mp3]]</center>}}
+
+== Description ==
+'''SHA-35''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-35]].
+
+== Behavior ==
+'''SHA-35''' is a entity that you'll be forced to find in the [[Shadow Challenge]]. '''SHA-35''' will act like [[D-35]] except that it will be much slower than his own [[D-35|uninfected counterpart]]. Upon spawning, it will emit a loud, low-tuned sound, the same spawn sound from his [[D-35|uninfected counterpart]], but pitched down. He will rush to the main room at a medium speed, and upon reaching the main room, he will rebound and go back to the void wall. '''SHA-35''' will rebound 2-4 times before despawning, sinking into the ground like [[D-35]].
+
+== Strategy & Tips ==
+
+* When '''SHA-35''' spawns in, avoid rushing too much forward to avoid getting multiple '''SHA-35'''s spawned.
+** This applies especially to [[Alpha & Shadowpocalypse]], as it is much more common in that [[Modifiers|modifier]].
+* When '''SHA-35''' approaches you, it will emit a very slight screenshake, so you need to be aware of it.
+* When '''SHA-35''' is approaching you while other entities are active, try to hide as late as possible to avoid unnecessary [[Claustrophobia]] damage. '''SHA-35''' cannot lockersnipe you, so use it to your advantage.
+
+== Trivia ==
+SHA-35 is the only shadow entity that you can survive by hiding under a table.
+
+== Gallery ==
+<gallery>
+File:SHA-35 p.webp|'''SHA-35'''<nowiki/>'s despawn particle
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

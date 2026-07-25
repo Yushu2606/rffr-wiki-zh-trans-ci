@@ -1,0 +1,37 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|previous_entity=[[CAT-60]]
+|next_entity=[[Dorito]]
+|entity_name=CAT-120
+|entity_image=CAT-120.png|caption-entity_image= Meow 
+|appears_at=Anywhere past A-120 in Super Epic Mode.
+|nicknames=TBA
+|behavior=Same as [[A-120]] but can come back immediately after rebound
+|damage=200 DPS
+|speed=Same as [[A-120]](?)
+|related_monsters=[[A-120]]<br>
+[[A-135]]
+|claustrophobia=No
+|sound1=<center>PlaySound</center><center>[[File:Dumbdrum.mp3]]</center>
+|sound2=<center>Footsteps</center><center>[[File:CatEntity.mp3]]</center>
+|sound3=
+}}
+
+==Description==
+
+*'''CAT-120''' might be the first rebounder you will encounter in [[Super Epic Mode]], ''if not [[Tackle]]'', he is in fact the same as [[A-120]].
+
+==Strategies==
+
+When [[CAT-120]] hide in a locker, but when he goes back a bit wait a bit because he might come back immediately, if he doesn't come back after 3 seconds leave your hiding spot and wait until you hear the drums sounds again, if it doesn't come back it's safe to leave
+
+==Trivia==
+
+TBA
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Admin Entities]]

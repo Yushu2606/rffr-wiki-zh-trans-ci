@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">I区（换乘区）</span>}}{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{Modifier Exclusive|[[Legacy Mode|遗产模式]]}}
+{{SectionInfoBox
+|image=Section I Tables Lights Both Sides.png
+|previous_section=[[Section D|D区]]
+|next_section=无
+|entity_amount=7
+|i_entity_amount=0
+|sound1=<center>分区已开启</center><center>[[File:ISectionOpen.mp3]]</center>
+|sound2=<center>开场主题曲</center><center>[[File:Interchange.mp3]]</center>
+|sound3=<center>第一环境音效</center><center>[[File:Sector M First Ambi.mp3]]</center>
+|sound4=<center>第二环境音效</center><center>[[File:SectorMAmbience.mp3]]</center>|sound5=<center>I-500 - I-900</center><center>[[File:A-85iOST.mp3]]</center>|sound6=<center>I-750 - I-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>|sound7=<center>无尽模式</center><center>[[File:Endless.mp3]]</center>}}
+
+==概述==
+'''I区'''是玩家在游戏遗产版本中会遇到的唯一一个区。它包含的实体与[[Section M|M区]]完全相同，主要区别在于房间本身。由于原作流程并未超过该分区，因此它是遗产模式中流程最远的区。[[M-150]]不存在于此处，因为该实体是在Renovated版本中才被提议加入的。
+
+该分区已被重制为M区。
+
+==实体==
+<small>注意：所有这些条目都会重定向到[[Section M|M区]]的实体页面。</small>
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60|I-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70|I-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]
+{{!}}}
+
+==房间==
+<gallery>
+Section I Door.png|通往I区的门
+Section I Starting Room.png|初始房间
+Section I Starting Hallway.png|初始走廊
+Section I Starting Lights Left.png|灯光位于左侧的走廊
+Section I Starting Lights Right.png|同上，但灯光位于右侧
+Section I Starting Bridge.png|带有桥梁的房间
+Section I Tables Lights Both Sides.png|摆放着桌子和柜子的走廊
+Section I Lights Both Sides.png|同上，但没有桌子
+</gallery>
+
+==攻略==
+*可使用与[[Section M|M区]]类似的攻略，因为本'''区'''与它的[[Section M|新版本]]基本一致。
+<!-- We need more... -->
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

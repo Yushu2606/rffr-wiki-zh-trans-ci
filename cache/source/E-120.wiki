@@ -1,0 +1,52 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #C10038, #C10038, #5D001B, #5D001B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-120 (Astigmatism)</span>}}
+{{NoteBox|note=Not to be confused with E-120 from '''Interminable Rooms but it's 200 players''' or with E-120 from '''Rooms: Found Footage: Revisited''' for having the same name}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:E-120Title.png|frameless|link=E-120]]
+|entity_image=File:E-120 Design.png
+|nicknames=Astigmatism
+|previous_entity=[[E-90]]
+|next_entity=[[E-165]]
+|appears_at=E-120+
+|type=Wanderer
+|claustrophobia=No
+|locker_snipe=No
+|behavior=Will wonder around, chasing anyone it hears
+|gun_effect=Will cause it to become deaf aswell
+|speed=Slow
+|damage=DPS (Depends on distance)
+|related_monsters=}}
+
+==Description==
+'''E-120''' will be one of the many entity you will encounter in [[Section E]]. More information about it is shown below.
+
+==Behavior==
+Once spawned, it will place itself behind the door, open it after a few seconds and begin to wander around. '''E-120''' is blind, although it follows and chases anyone it hears, whether a player runs within the entity's proximity or hides near it. When '''E-120''' notices a player entering a locker or table, it will head to the hiding spot where the player has entered and force the player out. 
+
+If a player is to approach the instance, '''E-120''' deals damage varying on the distance between eachother.
+
+'''E-120''' will disappear after a few doors have been opened.
+
+==Strategies==
+* Simply try to walk past, it will only chase you if you sprint.
+** If '''E-120''' is blocking the path, try to lure it away by sprinting or rolling through it. However, this can be risky.
+* Once you open the door and '''E-120''' spawns, listen for other entities,  and if you hear someone, walk to the previous room and hide, since '''E-120''' will pull players out of lockers if they hear them hide while it is nearby.
+
+==Lore==
+'''E-120''' is possesed by multiple human souls. 
+
+==Trivia==
+* '''E-120''' can be damaged if you shot it, causing it to be deaf aswell.
+* As stated by '''Oblivion''' in Misleading Darkness, if '''E-120''' wasn't blind, it would have killed every player that it'll see. 
+
+==Gallery==
+<gallery>
+File:RenoE-120.gif|Concept Design
+File:E-120 jumpscare.gif|'''E-120''''s jumpscare
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Weapon Affected]]

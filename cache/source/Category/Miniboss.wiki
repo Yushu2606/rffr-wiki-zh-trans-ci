@@ -1,0 +1,1 @@
+Entities that have unique/harder mechanics then other entities, and require complex/difficult deal to make them despawn.

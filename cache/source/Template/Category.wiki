@@ -1,0 +1,22 @@
+<div
+class="tdx-container"
+style="border: 1px solid var(--theme-accent-color); margin: 0; padding-top: 0.25em; width: 100%"
+><!--
+-->{{#arraydefine: pt|{{SUBPAGENAME}}|(}}<!--
+--><center><!--
+--><span style="color: var(--theme-accent-color); font-size: 3.5em;"><!--
+-->{{#if: {{{color|}}}|{{Color|{{{color}}}|{{#arrayindex: pt|0}}}}|{{Color|{{#arrayindex: pt|0}}}}}}<!--
+--></span><!--
+--><hr style="border: 0.5px solid var(--theme-accent-color); margin: 0 -1em 1em"><!--
+-->{{#if: {{{main_page|}}}
+|''The main page for the subject of this category can be found [[{{{main_page}}}|here]].''<!--
+--><hr>
+}}<!--
+--></center><!--
+-->{{{1|<font color="gray">''Content''</font>}}}<!--
+--><hr><!--
+--><center>''Below are the pages that fall into this category.''</center><!--
+--></div><!--
+--><includeonly><!--
+-->{{#ifeq: {{{2|}}}|nowiki||{{#ifeq: {{NAMESPACENUMBER}}|14|[[Category:Wiki Categories]]}}}}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>

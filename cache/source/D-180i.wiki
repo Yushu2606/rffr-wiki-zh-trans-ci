@@ -1,0 +1,82 @@
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue; cursive; background-image: linear-gradient(black, blue); -webkit-background-clip: text; color:transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">D-180i (Calmness)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:D-180i-B.png|frameless|link=D-180i]]
+|entity_image=<gallery>
+UnknownEntity.png|New Design
+D-180i.png|Old Design
+</gallery>
+|caption-entity_image=Whatever you are planning, i am watching.
+|gun_effect=None
+|nicknames=Joke D-180 (Real name)<br>Calmness<br>Naivety
+|appears_at=Only by admins.
+|type=Rusher<br>Rebounder<br>Spawner
+|claustrophobia=No
+|behavior=Same as [[SHA-180]], but can spawn almost all D-Section entities.
+|speed=???
+|locker_snipe=No
+|damage=??? DPS
+|related_monsters=[[D-180]]<br>[[SHA-180]]
+|sound1=<center>Ambience</center><center>[[File:NewD180iambi.mp3]]</center>
+|sound2=<center>Old Ambience '''(VERY LOUD)'''</center><center>[[File:D180i.mp3]]</center>}}
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Description</span> ==
+'''D-180i''' is an Admin exclusive entity. It works basically like [[SHA-180]], but rebounds much more and can spawn more entities...
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Behavior</span> ==
+When '''D-180i''' spawn, it will emmit subtitles saying "<span style="text-shadow: 0 0 5px blue; color: blue;">Psst. Hey, {User}</span>" "<span style="text-shadow: 0 0 5px blue; color: blue;">I know what you have planned. I know your intentions better than you do.</span>" "<span style="text-shadow: 0 0 5px blue; color: blue;">I'm coming for you. Better run while you still can. I'm already on my way.</span>"
+
+Upon approaximating the main room '''D-180i''' will start filling all player's screen with static, emmiting a silent noise upon reaching very closely to the main room. As '''D-180i''' hit the door, it will fallback and start a random rebound cycle (11-44 rebounds).
+
+Each time '''D-180i''' rushes to the main room and hits the door, it will spawn a random D-Section entity (or A-Section).
+
+These are all the entities '''D-180i''' can spawn:
+
+* [[D-5]] (?)
+* [[D-5i]]
+* [[D-20i]]
+* [[A-20i]]
+* [[D-35i]]
+* [[D-55]]
+* [[D-55ii]]
+* [[D-60i]] (Old version only)
+* [[D-120]]
+* [[D-140]]
+* [[D-140i]] (Old version only)
+* [[D-200]]
+* [[A-60i]]
+* [[A-200i]]
+So basically, '''D-180i''' can spawn almost all entities form [[Section D|D section]], but also i variants from other sections (Only [[Section A|A section]] for now).
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Strategy & Tips</span> ==
+
+* As '''D-180i''' rush to the main room without any spawn clue, if you start seeing your screen get full of static, immediately hide.
+* If '''D-180i''' spawn [[A-200i]] you don't need to worry for '''D-180i''' because he wait [[A-200i]] to depsawn first before continuing to rebound. (This is obvious because you wouldn't even be able to detect him with the [[A-200i]]'s static).
+* Unlike the other minibosses Admin variants, '''D-180i''' does NOT require you to open doors to make him despawn, so it's best to just wait him to despawn.
+* Always hide in '''Blue Heavy Lockers''' or '''White Cabinets''' when '''D-180i''' is spawned, because if he spawn [[D-55ii]], you won't have time to unhide and move to the determinated Locker/Cabinet.
+* '''D-180i''' cannot locker snipe, use this as your advantage and hide in last second to avoid getting damage from [[Claustrophobia]].
+
+== <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Trivia</span> ==
+
+* '''D-180i''' is actually called '''Joke D-180''', but most people call him '''D-180i''' because he acts like a Prime variant,
+* If '''D-180i''' spawns [[D-5i]], he will either wait for [[D-5i]] to despawn, or he will despawn instead.
+* <big>'''D-180i''' knows your intentions, so run from him.</big>
+* Unlike [[D-180]], '''D-180i''' is calm, and will play fair with the player, waiting for entities like [[D-5i]] to despawn first, then continue attacking.
+* '''D-180i''' is not friendly and not agressive with the players, he is just neutral, but even through he is a lot more dangerous than [[D-180]].
+* '''D-180i''' prefers to kill the most experienced/skilled players first, as he loves to see good players suffering to survive so many entities, and also to see who long they will last.
+* Players who survive '''D-180i''' will be marked and '''D-180i''' will never forget them.
+
+== Gallery ==
+<gallery>
+D-180iJumpscare.gif|Old Jumpscare
+D-180iLoading.jpg|'''D-180i''' Seen in a rare loading screen.
+ImGoingInsane.png|<span style="text-shadow: 0 0 5px blue; color: blue;">Ȉ̴̤̈́m̶̢̿̃͊ ̸͕̠͎̌G̶̼̫͓͛̐̇̚o̶̧̮̬̠̅ỉ̷͖̱̦̔ņ̴̦̥̂̏͆̄g̵͚͖̼͌̍̇͘ ̸̛̙͇̾Ĩ̶̜ń̷̗́s̵̫̳͕̳͑ã̸͇͛͂̇ṅ̷͚͐e̸̢̛̤͕</span>
+</gallery>
+
+{{EntityNavBoxAdmin}}
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:I Variation]]
+[[Category:Admin Entities]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]

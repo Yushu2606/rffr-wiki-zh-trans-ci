@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #0C0414;">SHA-22 (Dread)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-22
+|entity_image=SHA22.png
+|previous_entity=[[SHA-7]]
+|next_entity=[[SHA-30]]
+|nicknames=Dread
+|gun_effect=No Shadow can be shot
+|appears_at=[[Shadow Challenge|SC]] (If spawned by [[SHA-4]])<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rebounder
+|claustrophobia=No
+|behavior=Spawns in the main room and rebounds a couple times
+|speed=Fast
+|locker_snipe=Yes
+|damage=400 DPS<br>25~ (Shadow Plague)
+|related_monsters=[[M-22]]<br>[[SHA-120]]<br>[[SHA-180]]}}
+
+== Description ==
+'''SHA-22''' is the one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[M-22]].
+
+== Behavior ==
+When SHA-22 spawns, he will play a lower pitched, distorted version of the alarm his regular counterpart plays.  After a few seconds, it will emerge from the floor in the main room and fall back. Shortly after, it will make another, heavily distorted alarm sound before rushing to the main room. Upon SHA-22 colliding with the door, he will break it down and fallback to the voidwall again. After he reaches voidwall, he will rush back to the front, rushing into the door without breaking it this time. After which he will despawn, potentially Spawning [[SHA-1]], [[SHA-2]], or [[SHA-60]]. If the player is seen while entering/exiting a hiding spot, they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime.
+
+== Strategies & Tips ==
+* Hide immediately when you hear his alarm, as to avoid risk of death or plague-sniping.
+* Don't risk progressing while he is active.
+* Hide when he despawns to make sure no entities spawn. If one does spawn, treat it accordingly.
+
+== Trivia ==
+* '''SHA-22''' moves just as fast as [[M-22]] if spawned in [[Red Rooms]].
+* '''SHA-22''' used to not kill when on its rebounds after the fallback, but this was fixed.
+
+== Gallery ==
+<gallery>
+File:SHA-22.png|SHA-22 seen in-game
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

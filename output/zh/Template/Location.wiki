@@ -1,0 +1,9 @@
+<includeonly><infobox type="Location">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<image source="map"><caption source="mapcaption"/></image>
+	<data source="type"><label>类型</label></data>
+	<data source="level"><label>层级</label></data>
+	<data source="location"><label>位置</label></data>
+	<data source="inhabitants"><label>栖息实体</label></data>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Locations]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

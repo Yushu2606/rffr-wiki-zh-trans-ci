@@ -1,0 +1,64 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: cyan;">A-85 (Whisperer)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
+{{DesignNotAllowed|design=[[True Legacy Mode|真正的遗留模式]]设计|reason=盗用|exceptions=游戏内截图}}
+{{InfoBox:Entity
+|previous_entity=[[A-60]]
+|next_entity=[[A-85i]]
+[[A-120]]
+|entity_name=[[File:A-85Placeholder.webp|frameless|link=A-85]]
+|entity_image= <gallery>
+A-85Help.gif|A-85 动画重制
+A-85NewDesign.png|新设计
+A85.png|旧设计
+</gallery>
+|caption-entity_image=怎么死在我手里
+|appears_at=A-85之后的所有房间
+|nicknames=Whisperer（低语者）
+|type=后退者
+|gun_effect=被击中足够次数后会立即消失
+|behavior=在最新打开的房间出现，随后后退
+|damage=90（刻）
+|speed=约1.2间/秒
+|claustrophobia=否
+|locker_snipe=是（非致命）
+|related_monsters=[[A-85i]]<br>
+[[SHA-85]]
+|sound1=<center>出现音效</center><center>[[File:A85Spawn.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:A-85static.mp3]]</center>
+|sound3=<center>低语音效</center><center>[[File:A-85Whispers.mp3]]</center>
+|sound4=<center>消失音效</center><center>[[File:A85Despawn.mp3]]</center>
+|sound5=<center>跳杀（音量过高警告）</center><center>[[File:A-85jumpscare.mp3]]</center>
+|sound6=<center>环境音效来源</center><center>[[File:85soundorigin.mp3]]</center>}}
+
+==描述==
+'''A-85'''是一张电光蓝色的脸，有着宽大的微笑，长有一排细小的黑色牙齿，眼睛带有黑色瞳孔。你可以通过它的电流环境音效很轻松地识别出它。
+
+==行为==
+'''A-85'''会在最新生成的房间中心出现，停留在此处同时发出低语声。停留4秒后，'''A-85'''会开始向后移动。任何被A-85看见的玩家都会受到快速伤害，很快就会被击杀。A-85移动足够远的距离后就会消失。
+
+==攻略与提示==
+*当你听到它的出现音效时，立刻躲进柜子里。虽然'''A-85'''通常不会构成威胁，但不要冒险。
+*在[[Red Rooms|红区]]中，'''A-85'''<nowiki/>的生命值会降低至2枪即可击杀（携带完美主义者天赋时）。如果它和[[A-135]]等其他实体一同在[[Red Rooms|红区]]出现，你可以利用这点获得优势。
+
+==你知道吗==
+*如果你提前预判到'''A-85'''的出现，很容易就能躲过它。
+*和A-20一样，'''A-85'''不会理会桌子，它会认为躲在桌子下的玩家根本没有进行躲藏。
+*你可以射击'''A-85'''，击中足够次数后它会立刻消失（携带完美主义者天赋时需要5枪）。
+*如果玩家在'''A-85'''开始后退前就打开了下一道门，'''A-85'''会向前冲刺，直到抵达未打开的门后再开始后退。
+**要做到这点，只需要打开下一道门然后迅速躲藏即可。
+
+==画廊==
+<gallery>
+File:A85jump.gif|跳杀
+File:TrueLegacyA-85.webp|真正的遗留模式设计（游戏内）
+File:A85real.webp|遗留模式设计
+File:SEMA85.png|超级史诗模式
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Fallbacker]]
+[[Category:Weapon Affected]]

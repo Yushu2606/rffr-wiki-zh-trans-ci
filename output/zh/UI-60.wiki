@@ -1,0 +1,37 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-60Placeholder.png|frameless|link=UI-60]]
+|entity_image=<gallery>
+UI-60.png|设计图
+UI-60Jumpscare.png|跳杀
+</gallery>
+|appears_at=I-060+
+|type=[[Rusher|冲刺者]]
+|damage=秒杀
+|related_monsters=[[UI-20]]<br>[[A-20i]]
+|previous_entity=[[UI-30]]
+|next_entity=[[UI-83]]
+|sound1=<center>活跃音效 '''已审核'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI-60Ambiance.mp3]]</center>}}
+
+==描述==
+'''UI-60''' 是你在[[Section Interchange|交汇区]]中可能遇到的第4个实体，更多信息见下文。
+
+==行为==
+当'''UI-60'''生成时，会播放名为“Horror Race（恐怖竞速）”的乐曲，和所有栖息在I区的其他实体一致。如果当前同时存在多个实体，它播放的同一首乐曲音调会更高、速度更快。
+
+它会出现在距离当前房间极远的位置，快速冲向当前房间，一旦碰到门就会消失。
+
+==攻略与提示==
+* 若你尚未躲藏，听到他的笑声时请立刻躲起来。
+
+==你知道吗==
+* 和大多数UI实体一样，'''UI-60''' 是作为玩笑内容被加入游戏的。
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

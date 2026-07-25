@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Rusher''' Entities are any entities that start from [[Void]] and make their way to the current room.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

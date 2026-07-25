@@ -1,0 +1,30 @@
+{{InfoBox:Entity
+|entity_name=CARDBOARD-5
+|entity_image= CARDBOARD-5.png
+|appears_at=Admin Only.
+|nicknames=???
+|type=Rusher
+|behavior=Rusher
+|damage=Instant Death.
+|speed=35 studs per second
+|claustrophobia=No
+|gun_effect=None
+|related_monsters=[[UI-5]]<br>[[U-5]]
+|sound1=<center>Near Sound</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==Description==
+'''CARDBOARD-5''' is a simple rusher that can only be spawned by admins.
+
+==Behavior==
+'''CARDBOARD-5''' will play the [https://create.roblox.com/store/asset/1846862303/Horror-Race?keyword=horror+race&pageNumber=1&pagePosition=0| Horror Race Song] and after a long time it will rush to the door
+
+==Strategies& Tips==
+Hide when you hear '''CARDBOARD-5's''' laugh
+
+==Trivia==
+'''CARDBOARD-5''' is just a redskined [[U-5]]
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

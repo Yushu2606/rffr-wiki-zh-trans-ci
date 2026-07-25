@@ -1,0 +1,47 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
+{{InfoBox:Entity
+|entity_name=SHA-120
+|entity_image=SHA-120.gif
+|previous_entity=[[SHA-85]]
+|next_entity=[[SHA-140]]
+|nicknames=Ichor
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>入侵
+|type=暗影<br>后退者<br>反弹者
+|behavior=在门后生成，破门后后退，随后返回，再次破门后消失
+|speed=与[[D-120]]相同（推测）
+|damage=秒杀（极高每秒伤害命中）<br>25~（来自水坑的暗影瘟疫效果）
+|related_monsters=[[D-120]]<br>[[SHA-4]]
+<br>[[E-10]]
+|claustrophobia=不会触发
+|locker_snipe=是
+|gun_effect=暗影实体无法被枪击
+|caption-entity_image=凝胶贴图
+|sound1=<center>生成音效</center><center>[[File:Sha120spawn.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:SHA120Ambi.mp3]]</center>
+|sound3=<center>金属门碎裂声</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-120''' 是众多暗影实体中的一员，出现于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|Alpha & Shadowpocalypse（阿尔法与暗影天启）]]修饰符中，是[[D-120]]的被感染对应实体。
+
+== 行为 ==
+和其[[D-120|未被感染的对应实体]]一样，'''SHA-120'''会从主门后方生成。但它会播放音调略有不同的敲击声，且会在门附近散发出紫色云雾。短时间后，它会破门并朝虚空墙后退。移动到一定距离后，它会反弹回前方，并破坏它接触到的下一扇门，随后慢慢沉入地面消失。'''SHA-120'''会在地面留下水坑，玩家踩上去会获得暗影瘟疫效果，随时间持续损失生命值。
+
+== 攻略与提示 ==
+
+* 躲避'''SHA-120'''且不会触发[[Claustrophobia|幽闭恐惧]]的最优方法是：当你听到第二声低沉的重鼓音效时立刻冲刺躲进柜子。一旦它离开你当前所在的房间，立刻走出柜子避免触发幽闭恐惧。等你的屏幕因'''SHA-120'''开始晃动时，再冲刺躲回柜子，等待'''SHA-120'''消失即可。
+* 务必小心，'''SHA-120'''是少数拥有致命柜子命中能力的实体，所以不要过晚躲藏。
+*如果你正处于'''SHA-120'''消失时所在的房间，等'''SHA-120'''撞门后约2秒再走出柜子。
+* 它处于活跃状态时尽量不要急着冲关，因为可能会有其他实体生成，造成不公平的死亡组合。甚至可能出现多个自身堆叠的情况。
+
+== 冷知识 ==
+* '''SHA-120'''是目前已知仅有的两种拥有致命柜子命中能力的暗影实体之一。
+* 若生成于[[Red Rooms|红区]]，'''SHA-120'''的移动速度与[[D-120]]完全一致。
+* '''SHA-120'''有极低概率会替代[[D-120]]生成。
+
+== '''图库''' ==
+<gallery>
+File:SHA-120 p.webp|'''SHA-120'''<nowiki/>的水坑贴图
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

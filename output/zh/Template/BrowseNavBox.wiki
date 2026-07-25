@@ -1,0 +1,34 @@
+{{Clear}}
+{| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #202020; background:#a3a2a2; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
+! style="width:100px" |<center>浏览导航</center>
+|-
+|
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>浏览</center>
+|-
+! width="15%" style="background: #a8a79b;" |<center>浏览分类</center>
+| class="navigation-links" |[[Entities|实体]] • [[Sections|各分区]] • [[Update Log|更新日志]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>特色内容</center>
+| class="navigation-links" |[[Modifiers|Modifier（异变）]] • [[Shadow Challenge|挑战]] • [[Items|道具]] • [[Red Rooms|红区]] • [[Badges|徽章]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>道具</center>
+| class="navigation-links" |[[Utilities|实用道具]] • [[Healing|治疗道具]] • [[Weapons|武器]] • [[Artifacts|Artifact（圣物）]] • [[Salvage|Salvage（回收品）]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>其他</center>
+| class="navigation-links" |[[Wiki Team Members|Wiki 团队成员]] • [[Open Beta Mode|开放测试模式]] • [[Section Executive Invasion Event|Section Executive Invasion Event（高管入侵活动）]] • [[Super Epic Mode|Super Epic Mode（超级史诗模式）]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>各分区</center>
+|-
+! width="15%" style="background: #a8a79b;" |<center>常规</center>
+| class="navigation-links" |[[Section A|A区]] • [[Section D|D区]] • [[Section M|M区]] • [[Unnamed Sector|无名区域]] • [[Section E|E区]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Upcoming</center>
+| class="navigation-links" |[[Section R|R区]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>模式专属</center>
+| class="navigation-links" |[[Section I|I区]] • [[Section Interchange|Section Interchange（中转区）]]
+|}
+|}
+<noinclude>''注意：本模板全部代码均取自[https://r-rooms.fandom.com/wiki/Template:Navigation 该模板]，非常感谢原作者！！！！！！''</noinclude>

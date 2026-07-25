@@ -1,0 +1,128 @@
+{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">Section M (Maintenance/Minichange)</span>}}{{ArticleBackground|File=MBackground.jpg}}
+{{SectionMStub}}
+{{SectionInfoBox
+|image=Placeholder.webp
+|previous_section=[[Section D]]
+|next_section=[[Section E]]<br>[[Unnamed Sector]]
+|entity_amount=9
+|i_entity_amount=2
+|sound1=<center>Section Opened</center><center>[[File:MSectionOpen.mp3]]</center>
+|sound2=<center>Beginning Theme</center><center>[[File:Interchange.mp3]]</center>
+|sound3=<center>First Ambience</center><center>[[File:Sector M First Ambi.mp3]]</center>
+|sound4=<center>Second Ambience</center><center>[[File:SectorMAmbience.mp3]]</center>
+|sound5=<center>M-500 - M-900</center><center>[[File:M500M900Ambi.mp3]]</center>
+|sound6=<center>M-750 - M-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound7=<center>M-1000</center><center>[[File:Emergency Exit.mp3]]</center>|sound8=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+
+==Overview==
+'''Section M''' is the third section the player will encounter. This section is quite barren, housing few entities. The entity difficulty is vast, with [[M-60]] rushing by and checking a x marked locker. The hardest entity, [[M-120]], can replicate a few entities from [[Section A]] and [[Section D]]. After reaching M-400, the next section can be found, [[Section E]].
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.png|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22i.png|center|150px|link=M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i15.png|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM70.png|center|150px|link=M-70]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MSectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+==Removed/Scrapped==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
+{{!}}}
+
+==Lore==
+Used for generating power.
+
+==Rooms==
+<tabber>
+|-|Maintenance Tunnels=
+<gallery>
+Placeholder.webp
+</gallery>
+|-|Minichange=
+<gallery>
+Placeholder.webp
+</gallery>
+</tabber>
+
+==Old Rooms==
+<gallery>
+File:Section M Starting Room.png|The Starting Room.
+File:Section M Door 1.png|Door 1.
+File:Section M Door 1 Start.png|Door 2.
+File:Section M Door 2 Start Bottom.png|Ditto, but entering.
+File:Section M Basic Hallway 1.png|A basic hallway.
+File:Section M Pipes -w Water Tank.png|A room with pipes and a water tank.
+File:Section M Storage Sideroom.png|A sideroom with the label "Storage"
+File:Section M Storage Sideroom.png|A door to the side along with a boarded door to the front.
+File:Section M Pipe in walking path.png|A room where there are two doors to the side, unable to be opened.
+File:Section M 4 Way Ruins.png|Ditto, but in ruins.
+File:Section M Crate Room 1.png|A room with a lot of gray crates.
+File:Section M Water Tank Side.png|A room where the water tank is the entire left wall.
+File:Section M 4 Pipes in walking path.png|A room where 4 pipes are in the walking path.
+File:Section M Basic Hallway Ruins.png|A basic hallway in ruins.
+File:Section M Crawl Space Room.png|A room with a crawl space.
+File:Section M Crawl Space Room in Room.png|Ditto, but once crawled under a room can be found.
+File:Section M Pipe Blocking Door Sign.png|A hallway with a pipe blocking the door sign.
+File:Section M 1 Red Reactor.png|A large red reator in a room.
+File:Section M Room 400 Not Released.png|Room 400, before Section E released.
+File:M-1002.png|Room M-1002 before Update Executive.
+</gallery>
+
+==Other==
+<gallery>
+Maintenance (M-Section).png|Old game page image
+Maintenance (Badge).png|Old "Maintenance" Badge icon
+Prohibited Zone (Badge).png|Old "Prohibited Zone" Badge icon
+</gallery>
+
+==Strategies==
+* The main difficulty of this section lies in majority of entities who can check/break lockers. It's recommended to learn each entity individually and/or find locker that entity cannot check/break beforehand.
+* Always stay near a locker after after [[M-200]] passes, as he can block the spawn cue for [[M-22]].
+* if [[M-200]] has passed, be prepared to run back when you open the door, as [[M-150]](White) may spawn
+
+== Trivia ==
+* '''M Section''' is the only normally encounterable section (this means that you can encounter it without any modifier or special action), that have the less '''I variations''' entities, with only 3 entities that have '''I variations''', that are [[M-60]] ([[M-60i]]), [[M-120]] ([[M-120i]] | Upcoming) and [[M-70]] ([[M-70i]] | Admin exclusive and/or not implemented in-game).
+* [https://youtu.be/NvWbZ1qtFe0?si=ZzhIS3y_N-dBaF7r Update Executive Teaser 8]
+
+==Badges==
+{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=Maintenance|Description=Should I even be here???|Obtainment=Transition sections to Section M.}}
+{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=Dark Exchange|Description=Too far in to turn back now.|Obtainment=Open door M-500.}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=Prohibited Zone|Description=THE VOICES. MAKE IT STOP.|Obtainment=Open door M-900.}}
+{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=Surface Breach|Description=The M-1000 ending is not yet implemented. You've walked this far, and for what? Nobody can even find you anymore, and you're starting to think going here was a mistake.|Obtainment=Open door M-1000.}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

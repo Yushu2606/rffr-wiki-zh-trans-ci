@@ -1,0 +1,13 @@
+{{Spacer}}
+<big><center>'''You may be looking for the actual template, ''[[Template:Disambiguation|Disambiguation]]''.'''</center></big>
+----
+A '''Disambiguation''' template is an article that has a list of multiple similar named articles.<br>
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]
+
+
+
+[[Category:{{SITENAME}}]]

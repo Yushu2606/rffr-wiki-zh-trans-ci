@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #b300f5;">SHA-30 (Shroud)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha30Title.gif|frameless|link=SHA-30]]
+|entity_image=Sha30.webp
+|previous_entity=[[SHA-4]] ([[Shadow Challenge|暗影挑战（SC）]])<br>[[SHA-22]] ([[Alpha & Shadowpocalypse|阿尔法与暗影启示录（A&SP）]])
+|next_entity=[[SHA-35]]
+|nicknames=Shroud
+|appears_at=[[Shadow Challenge|暗影挑战（SC）]]<br>[[Alpha & Shadowpocalypse|阿尔法与暗影启示录（A&SP）]]<br>入侵
+|type=冲刺者<br>暗影
+|gun_effect=所有暗影实体均无法被枪击
+|behavior=缓慢冲向主房间，触碰到未开启的门后消失
+|speed=慢-中等
+|damage=200+ 每秒伤害
+|claustrophobia=否
+|related_monsters=[[E-30]]
+|locker_snipe=否
+|sound1=<center>环境音</center><center>[[File:Sha30ambi.mp3]]</center>
+|sound2=<center>消失</center><center>[[File:Sha30desp.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-30'''是登场于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法与暗影启示录]]修饰符的众多暗影实体之一，是[[E-30]]的感染变体。
+
+== 行为 ==
+'''SHA-30'''的行为与[[E-30]]类似，但速度要慢得多，会以类似[[A-20]]的较慢速度冲向主房间。'''SHA-30'''撞到门后会消失，同时发出巨大声响。
+
+== 策略与提示 ==
+* '''SHA-30'''靠近时会发出声音和烟雾，很容易被察觉，如果你发现它，只要在正确时机躲藏即可，避免受到[[Claustrophobia|幽闭恐惧]]的伤害。
+
+== 冷知识 ==
+* 在'''SHA-30'''处于活跃状态时开门，原本会显示字幕：'''"It feels as if something is not pleased with your action."'''（你感觉有什么东西对你的行为感到不满。）
+* 提示'''SHA-30'''生成的字幕原本为：'''"It's not a great idea, but I'll continue anyways."'''（这不是个好主意，但我无论如何都会继续。）
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Snipeless]]

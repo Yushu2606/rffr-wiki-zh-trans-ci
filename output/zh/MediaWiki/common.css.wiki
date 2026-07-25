@@ -1,0 +1,1641 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+@import "/load.php?mode=articles&articles=u:lunime:MediaWiki:Hover.css&only=styles";
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:BalancedCategories.css&only=styles";
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:BalancedSearch.css&only=styles";
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:BalancedPageBottom.css&only=styles";
+
+/*entities link colors*/
+/**entities page link animation**/
+a[href="/wiki/Entities"] {
+    animation: entities 8s infinite;
+}
+@keyframes entities {
+    0% { 
+        color: #3333FF;
+        text-shadow: 0 0 2.5px #3333FF, 0 0 2.5px #3333FF, 0 0 2.5px #3333FF;
+    }
+    5% { 
+        color: #00FF66 ;
+        text-shadow: 0 0 2.5px #00FF66, 0 0 2.5px  #00FF66, 0 0 2.5px  #00FF66;
+    }
+    15% { 
+        color: #940002;
+        text-shadow: 0 0 2.5px #940002, 0 0 2.5px #940002, 0 0 2.5px #940002;
+    }
+    35% { 
+        color: blue;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px  black, 0 0 2.5px  black;
+    }
+    50% { 
+        color: #01FFFF;
+        text-shadow: 0 0 2.5px #0097FF, 0 0 2.5px  #0097FF, 0 0 2.5px  #0097FF;
+    }
+    65% { 
+        color: #EA0CF5;
+        text-shadow: 0 0 2.5px #EA0CF5, 0 0 2.5px  #EA0CF5, 0 0 2.5px  #EA0CF5;
+    }
+    80% { 
+        color: white;
+        text-shadow: 0 0 2.5px white, 0 0 2.5px  white, 0 0 2.5px  white;
+    }
+    100% { 
+        color: #3333FF;
+        text-shadow: 0 0 2.5px #3333FF, 0 0 2.5px #3333FF, 0 0 2.5px #3333FF;
+    } 
+}
+/**end of entities page link animation**/
+
+/**misc**/
+a[href="/wiki/Endellion"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/Goober-200"] {
+	color:#FFFFFF !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+a[href="/wiki/Oblivion"] {
+	color: red !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/Overseer"] {
+	color: purple !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/Claustrophobia"] {
+	color:#666666 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/Jimmy"] {
+	color:#252527 !important;
+	text-shadow: 0 0 2.5px #5A595C, 0 0 2.5px #5A595C, 0 0 2.5px #5A595C;
+}
+a[href="/wiki/Mouth"] {
+	animation: mouf 4s infinite;
+}
+@keyframes mouf {
+    0% { 
+        color: #CC0000;
+        text-shadow: 0 0 2.5px #CC0000, 0 0 2.5px #CC0000, 0 0 2.5px #CC0000;
+    }
+    25% { 
+        color: #0000FF;
+        text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+    }
+    50% { 
+        color: #00FF00;
+        text-shadow: 0 0 2.5px #00FF00, 0 0 2.5px #00FF00, 0 0 2.5px #00FF00;
+    }
+    75% { 
+        color: #FFFF00;
+        text-shadow: 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00;
+    }
+    100% { 
+        color: #CC0000;
+        text-shadow: 0 0 2.5px #CC0000, 0 0 2.5px #CC0000, 0 0 2.5px #CC0000;
+    }
+}
+a[href="/wiki/Void"] {
+	color:#FFFFFF !important;
+	text-shadow: 0 0 9px black, 0 0 9px black, 0 0 9px black;
+}
+/**end of misc**/
+
+/**A section**/
+a[href="/wiki/A-20"] {
+    color:#3333FF !important;
+    text-shadow: 0 0 2.5px #3333FF, 0 0 2.5px #3333FF, 0 0 2.5px #3333FF;
+}
+a[href="/wiki/A-20i"] {
+	color:#00FF66 !important;
+	text-shadow: 0 0 2.5px #00FF66, 0 0 2.5px #00FF66, 0 0 2.5px #00FF66;
+}
+a[href="/wiki/A-20ii"] {
+	color: red !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/A-60"] {
+	color:#940002 !important;
+	text-shadow: 0 0 2.5px #940002, 0 0 2.5px #940002, 0 0 2.5px #940002;
+}
+a[href="/wiki/A-60i"] {
+	color:#0000FF !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/A-60ii"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #00FF00, 0 0 2.5px #00FF00, 0 0 2.5px #00FF00;
+}
+a[href="/wiki/A-85"] {
+	color:#01FFFF !important;
+	text-shadow: 0 0 2.5px #0097FF, 0 0 2.5px #0097FF, 0 0 2.5px #0097FF;
+}
+a[href="/wiki/A-85i"] {
+	color:#EA0CF5 !important;
+	text-shadow: 0 0 2.5px #EA0CF5, 0 0 2.5px #EA0CF5, 0 0 2.5px #EA0CF5;
+}
+a[href="/wiki/A-120"] {
+	animation: a120 5s infinite;
+}
+@keyframes a120 {
+	0% { 
+		color:#BBBBBB;
+		text-shadow: 0 0 2px #000000, 0 0 2px #000000, 0 0 2px #000000, -4px -2px 2px #FF1111, 4px 2px 2px #1111FF;
+	}
+	12.5% { 
+		color:#FFFFFF;
+		text-shadow: 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000;
+	}
+    25% { 
+		color:#BBBBBB;
+		text-shadow: 0 0 2px #000000, 0 0 2px #000000, 0 0 2px #000000, 4px -2px 2px #FF1111, -4px 2px 2px #1111FF;
+	}
+	37.5% { 
+		color:#FFFFFF;
+		text-shadow: 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000;
+	}
+    50% { 
+		color:#BBBBBB;
+		text-shadow: 0 0 2px #000000, 0 0 2px #000000, 0 0 2px #000000, 4px 2px 2px #FF1111, -4px -2px 2px #1111FF;
+	}
+	62.5% { 
+		color:#FFFFFF;
+		text-shadow: 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000;
+	}
+    75% { 
+		color:#BBBBBB;
+		text-shadow: 0 0 2px #000000, 0 0 2px #000000, 0 0 2px #000000, -4px 2px 2px #FF1111, 4px -2px 2px #1111FF;
+	}
+	87.5% { 
+		color:#FFFFFF;
+		text-shadow: 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000, 0 0 5px #000000;
+	}
+    100% { 
+		color:#BBBBBB;
+		text-shadow: 0 0 2px #000000, 0 0 2px #000000, 0 0 2px #000000, -4px -2px 2px #FF1111, 4px 2px 2px #1111FF;
+	}
+}
+.A-120 span:before{
+	content: '';
+	animation: a120glitch 5s infinite;
+}
+@keyframes a120glitch {
+	0% {
+		content: 'A0 -12';
+	}
+	2.5% {
+		content: 'A-1 20';
+	}
+	5% {
+		content: '12 -0A';
+	}
+	7.5% {
+		content: 'A0';
+	}
+	10% {
+		content: '120';
+	}
+	12.5% {
+		content: 'A-120';
+	}
+	25% {
+		content: 'A-120';
+	}
+	27.5% {
+		content: 'A12 -0';
+	}
+	30% {
+		content: '10-A2';
+	}
+	32.5% {
+		content: '120-A';
+	}
+	35% {
+		content: '2 0A-1';
+	}
+	37.5% {
+		content: 'A-120';
+	}
+	50% {
+		content: 'A-120';
+	}
+	52.5% {
+		content: 'A-1 20';
+	}
+	55% {
+		content: '12 -0A';
+	}
+	57.5% {
+		content: 'A0';
+	}
+	60% {
+		content: '120';
+	}
+	62.5% {
+		content: 'A-120';
+	}
+	75% {
+		content: 'A-120';
+	}
+	77.5% {
+		content: 'A12 -0';
+	}
+	80% {
+		content: '10-A2';
+	}
+	82.5% {
+		content: '120-A';
+	}
+	85% {
+		content: '2 0A-1';
+	}
+	87.5% {
+		content: 'A-120';
+	}
+	100% {
+		content: 'A-120';
+	}
+}
+a[href="/wiki/A-135"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #666666, 0 0 2.5px #666666, 0 0 2.5px #666666;
+}
+a[href="/wiki/A-135i"] {
+	color:#00FF00 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+} 
+a[href="/wiki/A-200"] {
+	color:black !important;
+	text-shadow: 2px 2px 3px white, 2px 2px 3px white, 2px 2px 3px white, -2px 2px 3px white, -2px 2px 3px white, -2px 2px 3px white, 0 -2px 3px white, 0 -2px 3px white, 0 -2px 3px white;
+}
+a[href="/wiki/A-200i"] { 
+	color:blue !important;
+	text-shadow: 2px 2px 3px #0066Cc, 2px 2px 3px #0066cc, 2px 2px 3px #0066cc, -2px 2px 3px #0066cc, -2px 2px 3px #0066cc, -2px 2px 3px #0066cc, 0 -2px 3px #0066cc, 0 -2px 3px #0066cc, 0 -2px 3px #0066cc; 
+}
+a[href="/wiki/A-200ii"] {
+	color: #FFCC33 !important;
+	text-shadow: 0 0 2.5px #FFCC33, 0 0 2.5px #FFCc33, 0 0 2.5px #FFCc33;
+}
+/**end of A section**/
+
+/**D section**/
+a[href="/wiki/D-5"] {
+	color: black !important;
+	text-shadow: 0 0 2.5px white, 0 0 2.5px white, 0 0 2.5px white;
+}
+a[href="/wiki/D-5i"] {
+	color:#C900F5 !important;
+	text-shadow: 0 0 2.5px #3B02E2, 0 0 2.5px #3B02E2, 0 0 2.5px #3B02E2;
+}
+a[href="/wiki/D-20"] {
+	color:#FF0000 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/D-35"] {
+    animation: d35 0.5s infinite;
+}
+@keyframes d35 {
+    0% { 
+        color: white;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    35% { 
+        color: black;
+        text-shadow: 0 0 2.5px white, 0 0 2.5px white, 0 0 2.5px white;
+    }
+    50% { 
+        color: black;
+        text-shadow: 0 0 2.5px white, 0 0 2.5px white, 0 0 2.5px white;
+    }
+    100% { 
+        color: white;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+}
+a[href="/wiki/D-35i"] {
+    animation: d35i 0.5s infinite;
+}
+@keyframes d35i {
+    0% { 
+        color: blue;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    35% { 
+        color: black;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+    }
+    50% { 
+        color: black;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+    }
+    100% { 
+        color: blue;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+}
+a[href="/wiki/D-35ii"] {
+	color:#44FF22 !important;
+	text-shadow: 0 0 3.5px #11BB00, 0 0 3.5px #11BB00, 0 0 3.5px #11BB00;
+}
+a[href="/wiki/D-55"] {
+	color:#00FF00 !important;
+	text-shadow: 0 0 2.5px #006600, 0 0 2.5px #006600, 0 0 2.5px #006600;
+}
+a[href="/wiki/D-55i"] {
+	color:#220022 !important;
+	text-shadow: 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF;
+}
+a[href="/wiki/D-55ii"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00;
+}
+a[href="/wiki/D-60"] {
+	color:#FD5AAC !important;
+	text-shadow: 0 0 2.5px #C80264, 0 0 2.5px #C80264, 0 0 2.5px #C80264;
+}
+a[href="/wiki/D-60i"] {
+	color:#FF9900 !important;
+	text-shadow: 0 0 2.5px #FF9900, 0 0 2.5px #FF9900, 0 0 2.5px #FF9900;
+}
+a[href="/wiki/D-60ii"] {
+	color:#00FF55 !important;
+	text-shadow: 0 0 2.5px #00FF55, 0 0 2.5px #00FF55, 0 0 2.5px #00FF55;
+}
+a[href="/wiki/D-120"] {
+	color:darkred !important;
+	text-shadow: 2px 2px 3px red, 2px 2px 3px red, 2px 2px 3px red, -2px 2px 3px red, -2px 2px 3px red, -2px 2px 3px red, 0 -2px 3px red, 0 -2px 3px red, 0 -2px 3px red; 
+}
+a[href="/wiki/D-140"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px #336600, 0 0 2.5px #336600, 0 0 2.5px #336600;
+}
+a[href="/wiki/D-140i"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px #AA0044, 0 0 2.5px #AA0044, 0 0 2.5px #AA0044;
+}
+a[href="/wiki/D-175"] {
+	color:#222222 !important;
+	text-shadow: 0 0 2.5px #666666, 0 0 2.5px #666666, 0 0 2.5px #666666;
+}
+a[href="/wiki/D-200"] {
+	color:#CCCCCC !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+a[href="/wiki/D-250"] {
+	color:#555555 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+/**end of D section**/
+
+/**M section**/
+a[href="/wiki/M-7"] {
+	color:#004400 !important;
+	text-shadow: 0 0 2.5px #00BB00, 0 0 2.5px #00BB00, 0 0 2.5px #00BB00;
+}
+a[href="/wiki/M-22"] {
+	color:#FFFF44 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/M-22i"] {
+	color:#000066 !important;
+	text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+}
+a[href="/wiki/M-60"] {
+	color:#00FF00 !important;
+	text-shadow: 0 0 2.5px #00FF00, 0 0 2.5px #00FF00, 0 0 2.5px #00FF00;
+}
+a[href="/wiki/M-60i"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #FF4444, 0 0 2.5px #FF4444, 0 0 2.5px #FF4444;
+}
+a[href="/wiki/M-70"] {
+    animation: m70 0.75s infinite;
+}
+@keyframes m70 {
+    0% { 
+        color: green;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    45% { 
+        color: green;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    50% { 
+        color: lime;
+        text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black;
+    }
+    100% { 
+        color: green;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+}
+a[href="/wiki/M-120"] {
+	color:blue !important;
+	text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+}
+.M-120 span:before{
+	content: '';
+	animation: m120changing 2s infinite;
+}
+@keyframes m120changing {
+	0% {
+		content: 'M-120';
+	}
+	10% {
+		content: '12M-0';
+	}
+	20% {
+		content: 'm -120';
+	}
+	30% {
+		content: 'M';
+	}
+	40% {
+		content: '120';
+	}
+	50% {
+		content: 'M-120';
+	}
+	60% {
+		content: '1 M 20';
+	}
+	70% {
+		content: 'm 12 0';
+	}
+	80% {
+		content: 'M-120';
+	}
+	90% {
+		content: '120-M';
+	}
+	100% {
+		content: 'M-120';
+	}
+}
+a[href="/wiki/M-120i"] {
+    animation: m120i 5s infinite;
+}
+@keyframes m120i {
+    0% { 
+        color: #FF0000;
+        text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+    }
+    10% { 
+        color: #FFAA00 ;
+        text-shadow: 0 0 2.5px #FFAA00, 0 0 2.5px  #FFAA00, 0 0 2.5px  #FFAA00;
+    }
+    20% { 
+        color: #FFFF00;
+        text-shadow: 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00;
+    }
+    30% { 
+        color: #88FF00;
+        text-shadow: 0 0 2.5px #88FF00, 0 0 2.5px  #88FF00, 0 0 2.5px  #88FF00;
+    }
+    40% { 
+        color: #00FF00;
+        text-shadow: 0 0 2.5px #00FF00, 0 0 2.5px  #00FF00, 0 0 2.5px  #00FF00;
+    }
+    50% { 
+        color: #00FFFF;
+        text-shadow: 0 0 2.5px #00FFFF, 0 0 2.5px  #00FFFF, 0 0 2.5px  #00FFFF;
+    }
+    60% { 
+        color: #0088FF;
+        text-shadow: 0 0 2.5px #0088FF, 0 0 2.5px  #0088FF, 0 0 2.5px  #0088FF;
+    }
+    70% { 
+        color: #0000FF;
+        text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px  #0000FF, 0 0 2.5px  #0000FF;
+    }
+    80% { 
+        color: #AA00FF;
+        text-shadow: 0 0 2.5px #AA00FF, 0 0 2.5px  #AA00FF, 0 0 2.5px  #AA00FF;
+    }
+    90% { 
+        color: #FF00AA;
+        text-shadow: 0 0 2.5px #FF00AA, 0 0 2.5px  #FF00AA, 0 0 2.5px  #FF00AA;
+    }
+    100% { 
+        color: #FF0000;
+        text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+    } 
+}
+a[href="/wiki/M-134"] {
+	animation: m134 10s infinite;
+}
+@keyframes m134 {
+	0% {
+		color: #FF7700;
+		text-shadow: 0 0 4px #693300, 0 0 4px #693300, 0 0 4px #693300;
+	}
+	33% {
+		color: #FF9900;
+		text-shadow: 0 0 4px #695300, 0 0 4px #695300, 0 0 4px #695300;
+	}
+	66% {
+		color: #FF3300;
+		text-shadow: 0 0 4px #693300, 0 0 4px #693300, 0 0 4px #693300;
+	}
+	100% {
+		color: #FF7700;
+		text-shadow: 0 0 4px #693300, 0 0 4px #693300, 0 0 4px #693300;
+	}
+}
+a[href="/wiki/M-150"] {
+	animation: m150 2s infinite;
+}
+@keyframes m150 {
+    0% { 
+        color: #FFFFFF;
+        text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+    }
+    25% { 
+        color: #FFFFFF;
+        text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+    }
+    50% { 
+        color: #0000FF;
+        text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+    }
+    75% { 
+        color: #0000FF;
+        text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+    }
+    100% { 
+        color: #FFFFFF;
+        text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+    }
+}
+
+a[href="/wiki/M-200"] {
+	animation: m200 1s infinite;
+}
+@keyframes m200 {
+    0% { 
+        color: cyan;
+        text-shadow: 0 0 2.5px #17667E, 0 0 2.5px #17667E, 0 0 2.5px #17667E;
+    }
+    50% { 
+        color: #17667E;
+        text-shadow: 0 0 2.5px cyan, 0 0 2.5px cyan, 0 0 2.5px cyan;
+    }
+    100% { 
+        color: cyan;
+        text-shadow: 0 0 2.5px #17667E, 0 0 2.5px #17667E, 0 0 2.5px #17667E;
+    }
+}
+a[href="/wiki/M-340"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px white, 0 0 2.5px white, 0 0 2.5px white, 0 0 4px orange;
+}
+/**end of M section**/
+
+/**Unnamed Sector**/
+a[href="/wiki/Mori"] {
+	color:#DD88FF !important;
+	text-shadow: 0 0 2.5px #BB33FF, 0 0 2.5px #BB33FF, 0 0 2.5px #BB33FF;
+}
+a[href="/wiki/Mortis"] {
+	color:#220055 !important;
+	text-shadow: 0 0 2.5px #771199, 0 0 2.5px #771199, 0 0 2.5px #771199;
+}
+a[href="/wiki/False_Witness"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+}
+a[href="/wiki/False_Prophet"] {
+	color:#002222 !important;
+	text-shadow: 0 0 2.5px #006666, 0 0 2.5px #006666, 0 0 2.5px #006666;
+}
+a[href="/wiki/Tackle"] {
+	color:#FFFFFF !important;
+	text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+}
+a[href="/wiki/Lunge"] {
+	color:#888888 !important;
+	text-shadow: 0 0 2.5px #9900BB, 0 0 2.5px #9900BB, 0 0 2.5px #9900BB;
+}
+a[href="/wiki/Execution"] {
+	color:#888888 !important;
+	text-shadow: 0 0 2.5px #DDDDDD, 0 0 2.5px #DDDDDD, 0 0 2.5px #DDDDDD;
+}
+a[href="/wiki/False-60"] {
+	color:#660000 !important;
+	text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+}
+a[href="/wiki/False-120"] {
+	color:#555555 !important;
+	text-shadow: 0 0 2.5px #AAAAAA, 0 0 2.5px #AAAAAA, 0 0 2.5px #AAAAAA;
+}
+a[href="/wiki/False-200"] {
+	color:#888888 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+/**end of Unnamed Sector**/
+
+/**E section**/
+a[href="/wiki/E-10"] {
+	color:#FFAA00 !important;
+	text-shadow: 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00;
+}
+a[href="/wiki/E-10i"] {
+	color:#8800CC !important;
+	text-shadow: 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF;
+}
+a[href="/wiki/E-30"] {
+	color:#FFFF59 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+a[href="/wiki/E-30i"] {
+	color:#4499FF !important;
+	text-shadow: 0 0 2.5px #0000FF, 0 0 2.5px #0000FF, 0 0 2.5px #0000FF;
+}
+a[href="/wiki/E-45"] {
+	color:#AAAAAA !important;
+	text-shadow: 0 0 2.5px #666666, 0 0 2.5px #666666, 0 0 2.5px #666666;
+}
+a[href="/wiki/E-60"] {
+	color:#0000FF !important;
+	text-shadow: 0 0 2.5px #00FFFF, 0 0 2.5px #00FFFF, 0 0 2.5px #00FFFF;
+}
+a[href="/wiki/E-90"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+a[href="/wiki/E-120"] {
+	color:#AA00AA !important;
+	text-shadow: 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF, 0 0 2.5px #FF00FF;
+}
+a[href="/wiki/E-165"] {
+	color:#444444 !important;
+	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
+}
+a[href="/wiki/E-200"] {
+	color:#220000 !important;
+	text-shadow: 0 0 2.5px #660000, 0 0 2.5px #660000, 0 0 2.5px #660000;
+}
+a[href="/wiki/E-245"] {
+	color:#999999 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+/**end of E section/
+
+/**R section**/
+
+/**end of R section/
+
+/**class X entities**/
+a[href="/wiki/X-000"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #880000, 0 0 2.5px #880000, 0 0 2.5px #880000;
+}
+a[href="/wiki/X-1200_Entities"] {
+	color:#000000 !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+/**end of class X entities/
+
+/**Shadow Entities**/
+a[href="/wiki/SHA-1"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-2"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-3"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-4"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-5"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-7"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-22"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-30"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-35"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-55"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-60"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-70"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-85"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-120"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-140"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-150"] {
+    animation: sha150 8s infinite;
+}
+@keyframes sha150 {
+    0% { 
+        color: black;
+        text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+    }
+    50% { 
+        color: purple;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    100% { 
+        color: black;
+        text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+    }
+}
+a[href="/wiki/SHA-180"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-200"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+a[href="/wiki/SHA-300"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
+/**end of Shadow Entities**/
+
+/**Lapse Entities**/
+a[href="/wiki/LAPSE-1"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-2"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-3"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-30"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-60"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-120"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+a[href="/wiki/LAPSE-200"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+}
+/**end of Lapse Entities**/
+
+/**Gamma Entities**/
+a[href="/wiki/GAMMA-1"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+}
+a[href="/wiki/GAMMA-2"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+}
+/**end of Gamma Entities**/
+
+/**Admin entities**/
+a[href="/wiki/GOD-200"] {
+	color: white !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
+}
+a[href="/wiki/A-258_(IR)"] {
+    color: #FFB600 !important;
+    text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+}
+a[href="/wiki/U-5"] {
+    color: red !important;
+    text-shadow: 0 0 2.5px white, 0 0 2.5px white, 0 0 2.5px white;
+}
+a[href="/wiki/CARDBOARD-5"] {
+    color: red !important;
+    text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66;
+}
+a[href="/wiki/CAT-120"] {
+	color: black !important;
+	text-shadow: 0 0 2.5px #FFCC99, 0 0 2.5px #FFCC99, 0 0 2.5px #FFCC99;
+}
+a[href="/wiki/Glongoflorp-60"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+}
+a[href="/wiki/D-180i"] {
+	color:#000033 !important;
+	text-shadow: 0 0 2.5px #0000AF, 0 0 2.5px #0000AF, 0 0 2.5px #0000AF;
+}
+/**end of admin entities**/
+
+/**Upcoming**/
+
+/**end of upcoming**/
+
+/**Removed**/
+a[href="/wiki/Old_A-60i"] {
+	color:#FFFF00 !important;
+	text-shadow: 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00, 0 0 2.5px #FFFF00;
+}
+a[href="/wiki/D-180"] {
+	color:#2B0000 !important;
+	text-shadow: 0 0 2.5px #650202, 0 0 2.5px #650202, 0 0 2.5px #650202;
+}
+/**end of removed**/
+/*End of entites link colors*/
+
+/*RFF other link colours*/
+/**events**/
+a[href="/wiki/Red_Rooms"] {
+	color:#FF0000 !important;
+	text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
+}
+a[href="/wiki/Shadow_Challenge"] {
+	color:#AA00FF !important;
+	text-shadow: 0 0 2.5px #AA00FF, 0 0 2.5px #AA00FF, 0 0 2.5px #AA00FF;
+}
+a[href="/wiki/Alpha_%26_Shadowpocalypse"] {
+	color:#5500AA !important;
+	text-shadow: 0 0 2.5px #AA00DD, 0 0 2.5px #AA00DD, 0 0 2.5px #AA00DD;
+}
+a[href="/wiki/SOMETHING_YOU_ARE_NOT_YET_PREPARED_FOR"] {
+	color:#666666 !important;
+	text-shadow: 0 0 2.5px #666666, 0 0 2.5px #666666, 0 0 2.5px #666666;
+}
+/**end of events**/
+
+/**sections**/
+a[href="/wiki/Section_A"] {
+    color: black !important;
+    text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66;
+}
+a[href="/wiki/Section_D"] {
+	animation: D-section 4s infinite;
+}
+@keyframes D-section {
+    0% { 
+        color: black;
+        text-shadow: 0 0 2.5px #CC9900, 0 0 2.5px #CC9900, 0 0 2.5px #CC9900;
+    }
+    49.99999% { 
+        color: red;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    50% { 
+        color: red;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    99.99999% { 
+        color: black;
+        text-shadow: 0 0 2.5px #CC9900, 0 0 2.5px #CC9900, 0 0 2.5px #CC9900;
+    }
+}
+a[href="/wiki/Section_I"] {
+    color: white !important;
+    text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+}
+a[href="/wiki/Section_M"] {
+    color: white !important;
+    text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+}
+a[href="/wiki/Unnamed_Sector"] {
+    color: black !important;
+    text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC;
+}
+a[href="/wiki/Section_E"] {
+    color: white !important;
+    text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow;
+}
+a[href="/wiki/Section_R"] {
+    color: #004400 !important;
+    text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+}
+a[href="/wiki/Sections"] {
+	    animation: Sections 12s infinite;
+}
+@keyframes Sections {
+    0% { 
+        color: black;
+        text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66;
+    }
+    7.1% { 
+        color: black;
+        text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66;
+    }
+    14.2% { 
+        color: black;
+        text-shadow: 0 0 2.5px #CC9900, 0 0 2.5px #CC9900, 0 0 2.5px #CC9900;
+    }
+    21.3% { 
+        color: black;
+        text-shadow: 0 0 2.5px #CC9900, 0 0 2.5px #CC9900, 0 0 2.5px #CC9900;
+    }
+    28.4% { 
+        color: red;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    35.5% { 
+        color: red;
+        text-shadow: 0 0 2.5px black, 0 0 2.5px black, 0 0 2.5px black;
+    }
+    42.6% { 
+        color: white;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px  blue, 0 0 2.5px  blue;
+    }
+    49.7% { 
+        color: white;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px  blue, 0 0 2.5px  blue;
+    }
+    56.8% { 
+        color: black;
+	    text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC;
+    }
+    63.9% { 
+        color: black;
+	    text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC;
+    }
+    71% { 
+        color: white;
+		text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow;
+    }
+    78.1% { 
+        color: white;
+		text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow;
+    }
+    85.2% { 
+         color: #004400;
+		  text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+    }
+    92.3% { 
+         color: #004400;
+		  text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
+    }
+    100% { 
+        color: black;
+        text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66;
+    } 
+}
+/**end of sections**/
+
+/**others**/
+a[href="/wiki/Items"] {
+	    animation: item 5s infinite;
+}
+@keyframes item {
+    0% { 
+        color: blue;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+    }
+    20% { 
+        color: green;
+        text-shadow: 0 0 2.5px green, 0 0 2.5px green, 0 0 2.5px green;
+    }
+    40% { 
+        color: red;
+        text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
+    }
+    60% { 
+        color: yellow;
+        text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow;
+    }
+    80% { 
+        color: orange;
+        text-shadow: 0 0 2.5px orange, 0 0 2.5px orange, 0 0 2.5px orange;
+    }
+    100% { 
+        color: blue;
+        text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+    }
+}
+/**end of others**/
+/*End of RFF other link colours*/
+
+/*username colors (ONLY GIVE TO WIKI STAFF AND RFF DEVS)*/
+/**Bureaucrats**/
+
+/**end of Bureaucrats**/
+
+/**admins**/
+
+/**end of admins**/
+
+/**Content Mods**/
+a[href$=":ItsKevHer3"],
+a[href$="/ItsKevHer3"] {
+	animation: kev 2s infinite;
+}
+.rootpage-User_ItsKevHer3 #userProfileApp, .rootpage-Message_Wall_ItsKevHer3 #userProfileApp, .rootpage-User_blog_ItsKevHer3 #userProfileApp, .rootpage-Special_Contributions_ItsKevHer3 #userProfileApp, .rootpage-Special_UserProfileActivity_ItsKevHer3 #userProfileApp {
+	animation: kev 2s infinite;
+}
+@keyframes kev {
+    0% { 
+        color: purple;
+        text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+    }
+    50% { 
+        color: #660066;
+        text-shadow: 0 0 2.5px #660066, 0 0 2.5px #660066, 0 0 2.5px #660066;
+    }
+    100% { 
+        color: purple;
+        text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+    }
+}
+/**end of Content Mods**/
+
+/**thread mod**/
+
+/**end of thread mod**/
+
+/**RFFR devs**/
+
+/**end of RFFR devs**/
+/*end of username colors*/
+
+/*user icon next to name*/
+/**set up**/
+[class^='EntityHeader_name__']::after,
+[class^='mw-userlink']::after,
+.edit-info-user::after,
+.lastEdited > a:after {
+	display: inline-block;
+	margin-left: 6px;
+	width: 16px;
+	height: 16px;
+	background-size: cover;
+	vertical-align: sub;
+}
+.edit-info-user::after {
+	margin-left: 0;
+	width: 12px;
+	height: 12px;
+	transform: translate(0px, -1px);
+}
+/**end of set up**/
+
+/***Bureaucrats***/
+/* https://static.wikia.nocookie.net/csydes-test/images/9/95/Fandom_Helper_Badge_Gold_Recolour.svg */
+:is([class^='EntityHeader_name__'][href='/wiki/User:ItsKevHer3'], [class^='mw-userlink'], .edit-info-user, .lastEdited > a)[href='/wiki/User:ItsKevHer3']::after {
+	content: '';
+	background-image: url(https://static.wikia.nocookie.net/csydes-test/images/9/95/Fandom_Helper_Badge_Gold_Recolour.svg);
+}
+/***end of Bureaucrats***/
+
+/***admins***/
+/* https://vignette.wikia.nocookie.net/central/images/1/12/Badge-Admin.svg */
+
+/***end of admins***/
+
+/***content mods***/
+/* https://vignette.wikia.nocookie.net/central/images/e/ef/Badge-ContentModerator.svg */
+
+/***end of cotent mods***/
+
+/***thread mods***/
+/* https://vignette.wikia.nocookie.net/central/images/5/50/Badge-DiscussionsModerator.svg */
+
+/***end of thread mods***/
+/*end of fuser icon next to name*/
+
+/*Things to make wiki look better, credits to IR wiki for some code*/
+/**gallery outline**/
+.wikia-gallery-item .thumb .gallery-image-wrapper { 
+	border: 3px solid #666666;
+    border-radius: 4px; 
+    box-shadow: 0 0 15px #666666;
+    background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+.wikia-gallery-caption-below .lightbox-caption {
+  text-align: center;
+  text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;;
+}
+/**end of gallery outline**/
+
+/**tabber design**/
+.wds-tabs__wrapper .wds-tabs, .tabber .wds-tabs__wrapper .wds-tabs {
+	border-radius: 15px;
+    border: 2px solid #666666;
+}
+.wds-tabs .wds-tabs__tab-label, .tabber .wds-tabs .wds-tabs__tab-label {
+	margin: 0;
+    font-weight: 100 !important;
+}
+.wds-tabs__wrapper.with-bottom-border {
+    border-bottom: transparent !important;
+}
+.theme-fandomdesktop-dark .wds-tabs__tab, .theme-fandomdesktop-dark .tabber .wds-tabs__tab a {
+    border-radius: 15px;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+    border: 2px solid #666666;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+    font-family: Silkscreen;
+}
+.theme-fandomdesktop-light .wds-tabs__tab, .theme-fandomdesktop-light .tabber .wds-tabs__tab a {
+	border-radius: 15px;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+    border: 2px solid #666666;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+    font-family: Silkscreen;
+}
+/**end of tabber design**/
+
+/**infoboxs design**/
+.portable-infobox img { 
+   transition: all .5s ease
+}
+.portable-infobox img { 
+   transition: all .5s ease
+}
+.portable-infobox img:hover {
+   filter: brightness(135%);
+   transform: scaleY(.95) scaleX(.95)
+}
+.portable-infobox img:hover {
+   filter: brightness(135%);
+   transform: scaleY(.95) scaleX(.95)
+}
+.portable-infobox {
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	--pi-secondary-background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+    border: 12px double #666666;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #666666;
+}
+.pi-title {
+	font-size: 150% !important;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+.pi-header {
+	font-size: 135% !important;
+	text-align: center;
+	font-weight: bold;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+.pi-caption {
+  text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+/**end of infoboxs design**/
+
+/**page design**/
+.page  {
+	border-top-left-radius:15px !important;
+    border-top-right-radius:15px !important;
+    border-bottom-left-radius:15px !important;
+    border-bottom-right-radius:15px !important;
+    border: 5px solid #666666 !important;
+    box-shadow: 0 0 35px #666666 , inset 0 0 35px #666666;
+}
+.page__right-rail {
+  background: rgba(var(--theme-page-background-color--rgb), 0.79);
+  border-top-right-radius:15px !important;
+  border-bottom-right-radius:15px !important;
+}
+.rail-module {
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	border-radius: 15px;
+    border: 4px solid #666666 !important;
+    box-shadow: 0 0 20px #666666, inset 0 0 20px #666666;
+    font-family: Silkscreen;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+.right-rail-toggle {
+	background:rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+	box-shadow: 0 0 20px #666666, inset 0 0 20px #666666;
+}
+.bottom-ads-container {
+	border-radius: 15px;
+    margin: -2px 0 0;
+    width: 100%;
+    border: 5px solid #666666 !important;
+    border-top: 0px !important;
+    box-shadow: 0 0 30px #666666, inset 0 0 30px #666666;
+    background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+.page__main {
+	background: rgba(var(--theme-page-background-color--rgb), 0.79);
+    border-top-left-radius:15px !important;
+    border-top-right-radius:15px !important;
+    border-bottom-left-radius:15px !important;
+    border-bottom-right-radius:15px !important;
+}
+/***end of page design***/
+
+/***fan feed design***/
+.theme-fandomdesktop-dark .mcf-card {
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 7px;
+  border-color: #666666;
+  box-shadow: 0 0 18px 0 #666666;
+}
+.theme-fandomdesktop-light .mcf-card {
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 7px;
+  border-color: #666666;
+  box-shadow: 0 0 18px 0 #666666;
+}
+
+.mcf-card-wiki-articles__header {
+  border-radius: 15px;
+  margin: 5px;
+  text-align: center;
+}
+.mcf-card-article__wrapper {
+  height: 30%;
+  transform: translate(0%, 240%);
+}
+.mcf-card-article__title {
+  text-align: center;
+  text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+  font-family: Silkscreen;
+}
+.mcf-card-related-wikis__header {
+  text-align: center;
+  text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+#mixed-content-footer {
+  border-top: 0px !important;
+  border: 5px solid #666666;
+  border-radius: 15px;
+  box-shadow: 0 0 30px #666666, inset 0 0 30px #666666;
+  background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of fan feed design***/
+/**end of page design**/
+
+/**comment ontline**/
+/***dark mode***/
+.theme-fandomdesktop-dark .Comment_wrapper__VysRy {
+  border: 5px solid #666666 !important;
+  border-radius: 35px !important;
+  box-shadow: 0 0 20px #666666, inset 0 0 15px #666666;
+  background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of dark mode***/
+
+/***light mode***/
+.theme-fandomdesktop-light .Comment_wrapper__VysRy {
+  border: 5px solid #666666 !important;
+  border-radius: 35px !important;
+  box-shadow: 0 0 20px #666666, inset 0 0 15px #666666;
+  background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of light mode***/
+/**end of comment outline**/
+
+/**message wall outline**/
+/***dark mode***/
+.theme-fandomdesktop-dark .Message__wrapper {
+  border: 5px solid #666666 !important;
+  border-radius: 35px !important;
+  box-shadow: 0 0 20px #666666, inset 0 0 15px #666666;
+  background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of dark mode***/
+
+/***light mode***/
+.theme-fandomdesktop-light .Message__wrapper {
+  border: 5px solid #666666 !important;
+  border-radius: 35px !important;
+  box-shadow: 0 0 20px #666666, inset 0 0 15px #666666;
+  background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of light mode***/
+/**end of message wall outline**/
+
+/**Load more button**/
+#MessageWall .LoadMoreButton_load-more__9yEV2.load-more-button, #articleComments .LoadMoreButton_load-more__9yEV2.load-more-button {
+background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+box-shadow: 0 0 15px 0 #666666, inset 0 0 5px 0 #666666;
+border:5px solid #666666;
+text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+font-size:13pt;
+border-radius:30px;
+transition: .4s ease-in-out;
+}
+/**end of load more button**/
+
+/**search thing ontline**/
+.search-modal__content {
+    border: 5px solid #666666;
+    border-radius: 25px;
+    box-shadow: 0 0 15px 0 #666666;
+    background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/**end of search thing ontline**/
+
+/**community page deign, credits to doors wiki for code**/
+/***Dark theme***/
+/***Modules***/
+body.theme-fandomdesktop-dark .community-page-cards-module .community-page-card-module {
+	border: 1.5px solid #666666;
+    border-radius: 15px;
+	box-shadow: 0 0 15px 0 #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen
+}
+body.theme-fandomdesktop-dark .community-page-module {
+	border: 1.5px solid #666666;
+    border-radius: 15px;
+	box-shadow: 0 0 15px 0 #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen
+}
+/***End of modules***/
+
+/***Contributions Modal***/
+body.theme-fandomdesktop-dark .wds-dialog__wrapper.community-page__contributors-modal {
+	border: 1.5px solid #666666;
+	box-shadow: 0 0 15px 0 #666666;
+    border-radius: 15px;
+    background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen;
+}
+/***End of Contributions Modal***/
+/***End of dark theme***/
+
+/***Light Theme***/
+/***Modules***/
+body.theme-fandomdesktop-light .community-page-cards-module .community-page-card-module {
+	border: 1.5px solid #666666;
+    border-radius: 15px;
+	box-shadow: 0 0 15px 0 #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen
+}
+body.theme-fandomdesktop-light .community-page-module {
+	border: 1.5px solid #666666;
+	border-radius: 15px;
+	box-shadow: 0 0 15px 0 #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen
+}
+/***end of Modules***/
+
+/***Contributions Modal***/
+body.theme-fandomdesktop.light .wds-dialog__wrapper.community-page__contributors-modal {
+	border: 1.5px solid #666666;
+	box-shadow: 0 0 15px 0 #666666;
+	border-radius: 15px;
+    background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	font-family: Silkscreen
+}
+/***End of Contributions Modal***/
+/***end of light theme***/
+/**end of community page design**/
+
+/**Idk**/
+/***light mode***/
+.theme-fandomdesktop-light .fandom-community-header__top-container .wds-button, .theme-fandomdesktop-light .fandom-community-header__top-container .wds-dropdown > .wds-button, .theme-fandomdesktop-light .fandom-community-header a, .theme-fandomdesktop-light .fandom-community-header .page-counter {
+    filter: drop-shadow(0px 0px 1px black) drop-shadow(0px 0px 1px black) drop-shadow(0px 0px 1px black);
+    font-family: Silkscreen;
+    border-radius: 15px;
+}
+/***end of light mode***/
+
+/***dark mode***/
+.theme-fandomdesktop-dark .fandom-community-header__top-container .wds-button, .theme-fandomdesktop-dark .fandom-community-header__top-container .wds-dropdown > .wds-button, .theme-fandomdesktop-dark .fandom-community-header a, .theme-fandomdesktop-dark .fandom-community-header .page-counter {
+    filter: drop-shadow(0px 0px 1px black) drop-shadow(0px 0px 1px black) drop-shadow(0px 0px 1px black);
+    font-family: Silkscreen;
+    border-radius: 15px;
+}
+/***end of dark mode***/
+/**end of idk**/
+
+/**Tool bar design**/
+.WikiaBarWrapper {
+	background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+    box-shadow: 0 0 10px #666666, inset 0 0 10px #666666;
+    border: 4px solid #666666;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+.WikiaBarCollapseWrapper .wikia-bar-collapse {
+	background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+    box-shadow: 0 0 10px #666666, inset 0 0 10px #666666;
+    border: 4px solid #666666;
+}
+/**end of toolbar design**/
+
+/**Navboxlink template design**/
+.wikinavigationboxthing {
+    margin: 0 auto;
+}
+.wikinavigationboxthing td {
+    padding: 10px;
+}
+.wikinavigationbox {
+background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #333333, #666666) repeat scroll 0 0;
+border-radius: 5px;
+box-shadow: 0 0 15px #666666;
+padding: 5px;
+}
+.wikinavigationbox:hover {
+	transition-duration: .4s;
+    box-shadow: 0 0 30px #666666;
+}
+.wikinavigationbox img {
+    border-radius: 5px;
+    transition: .4s ease-in-out;
+}
+.wikinavigationbox img {
+    border-radius: 5px;
+    transition: .4s ease-in-out;
+}
+.wikinavigationbox img:hover {
+	transition-duration: .4s;
+	filter: brightness(135%);
+}
+.wikinavigationbox img:hover {
+	transition-duration: .4s;
+	filter: brightness(135%);
+}
+/**end of Navboxlink template design**/
+
+/**page table content thing**/
+/***Dark Mode***/
+body.theme-fandomdesktop-dark .page-content .toc {
+	border: 15px solid #666666;
+	box-shadow: 0 0 15px #666666;
+	border-radius: 25px;
+	border-width: 4px;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of dark mode***/
+
+/***Light Mode***/
+body.theme-fandomdesktop-light .page-content .toc {
+	border: 15px solid #666666;
+	box-shadow: 0 0 15px #666666;
+	border-radius: 25px;
+	border-width: 4px;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/***end of light mode***/
+.toc .toctitle {
+    border-bottom: 4px solid #666666;
+    border-radius: 25px;
+}
+/**end of page table content thing**/
+
+/**Recent photos design*/
+.rail-module .alice-carousel__stage-item .wds-text-card {
+  background-color:#333333;
+  box-shadow: 0 0 10px #666666;
+}
+.wds-text-card .wds-text-card__title {
+  color:#666666;
+  text-shadow:#333333;
+  text-align: center;
+}
+/**end of recent design**/
+
+/**Userpage design**/
+#userProfileApp .user-identity-header__actions .wds-button, #userProfileApp .user-identity-header__tag {
+	border: 3px solid #666666;
+	box-shadow: 0 0 10px #666666;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+	border-radius: 15px;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+}
+/**end if userpage design**/
+
+/**page text**/ 
+.page-header__title {
+  text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+  font-family: Silkscreen;
+  font-weight: bold
+}
+.page-content .mw-headline {
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+    font-family: Silkscreen;
+}
+.page-content h2, .page-content h5 {
+    border-bottom: solid 2px #666666;
+}
+/**end of page text**/
+
+/**wiki staff pfp thing**/
+.mainpagewikistaffthing:hover {
+	transition-duration: .4s;
+    box-shadow: 0 0 30px #666666;
+}
+.mainpagewikistaffthing img {
+    border-radius: 10000px;
+    transition: .4s ease-in-out;
+}
+.mainpagewikistaffthing img {
+    border-radius: 10000px;
+    transition: .4s ease-in-out;
+}
+.mainpagewikistaffthing img:hover {
+	transition-duration: .4s;
+	filter: brightness(135%);
+}
+.mainpagewikistaffthing img:hover {
+	transition-duration: .4s;
+	filter: brightness(135%);
+}
+/**end if wiki staff pfp thing**/
+
+/**table design**/
+/***dark***/
+body.theme-fandomdesktop-dark .WikiaTable,
+body.theme-fandomdesktop-dark .article-table,
+body.theme-fandomdesktop-dark .fandom-table {
+	border: 3px solid #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+/***Light Theme***/
+body.theme-fandomdesktop-light .WikiaTable,
+body.theme-fandomdesktop-light .article-table,
+body.theme-fandomdesktop-light .fandom-table {
+	border: 3px solid #666666;
+	background: rgba(var(--theme-page-background-color--rgb), 0.74);
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+/**end of table design**/
+
+/**lock old comments thing**/
+.LockOldComments-above {
+	border: 6px solid yellow;
+	background: rgba(0, 0, 0, 0) linear-gradient(to bottom, yellow, orange) repeat scroll 0 0;
+	text-shadow: 0 0 5px orange, 0 0 5px orange, 0 0 5px orange;
+	box-shadow: 0 0 10px orange;
+	border-radius: 15px;
+}
+.LockOldComments-locked [class^="ReplyCreate"] {
+	text-shadow: 0 0 5px orange, 0 0 5px orange, 0 0 5px orange;
+}
+/**end of lock old comments thing**/
+
+/**idk this also**/
+.wds-button {
+	text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+/**end of idk**/
+
+/**warning box**/
+.mw-message-box-warning, .warningbox {
+background: rgba(0, 0, 0, 0) linear-gradient(to bottom, red, darkred) repeat scroll 0 0; !important;
+border: 3.5px solid red;
+border-radius: 20px;
+box-shadow: 0 0 10px red, inset 0 0 10px red;
+text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black;
+}
+/*end of Things to make wiki look better*/
+
+/*page dose not exist*/
+.noarticletext::after {
+	content: "If you're  trying to make a page that has a fanmade entity, unconfirmed entity, something that isn't from RFF:Renovated, or upcoming things that have not been permitted to get added to this wiki, then please do not proceed with making this page.";
+    font-size:14pt;
+    text-shadow: 0 0 5px #666666, 0 0 5px #666666, 0 0 5px #666666;
+}
+/*ennd of page dose nit exist*/

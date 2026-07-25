@@ -1,0 +1,159 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66; color: black;">Section A (Agency)</span>}}{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{SectionInfoBox
+|image=Agency (A-Section).png
+|previous_section=None
+|next_section=[[Section D]]<br>[[Unnamed Sector]]
+|entity_amount=11
+|i_entity_amount=5
+|sound1=<center>A-000 - A-020</center><center>[[File:BlueFeather.mp3]]</center>
+|sound2=<center>A-021 - A-100</center><center>[[File:Anxiety.mp3]]</center>
+|sound3=<center>A-100 - A-500</center><center>[[File:SectionAAmbience.mp3]]</center>
+|sound4=<center>A-500 - A-900</center><center>[[File:Depth.mp3]]</center>
+|sound5=<center>A-750 - A-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound6=<center>A-1000</center><center>[[File:A1000New.mp3]]</center>
+|sound7=<center>Old A-1000</center><center>[[File:A1000.mp3]]</center>
+|sound8=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+
+==Overview==
+'''Section A''' is the first section the player will encounter, where the player will open the door labeled '''A-001''' to begin. The first few doors are straight forward, open a door, pass through a room, and then open the next. Piano music can be heard in the background and no lockers spawn as well. However, once the player passes a few room, the first entity appears, [[A-20]]. After a few more entity encounters and reaching door A-400, the next section can be found, [[Section D]].
+
+This is the only section that originates from the [https://www.roblox.com/games/5076734934/Rooms original game], along with two entities, [[A-60]] and [[A-200]].
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-25MainFace.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA120.png|center|150px|link=A-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:ShadowMan.png|center|140px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-300.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+==Removed/Scrapped==
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.gif|center|150px|link=Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A165.png|center|150px|link=A-165]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-165]]
+{{!}}}
+
+==Rooms==
+<gallery>
+File:Section A Starting Room.png|The Starting Room.
+File:Section A Metal Bridge.png|A Room featuring a metal bridge, with stuff below it.
+File:Section A Room 21.png|Room 21.
+File:Section A Basic Room1.png|A square room.
+File:Section A L Shaped.png|An L shaped room with three lockers.
+File:Section A L Shaped Opposite.png|Ditto, but flipped.
+File:Section A 2 Floors Top.png|A room with 2 floors, at the top.
+File:Section A 2 Floors Bottom.png|Ditto, but the bottom.
+File:Section A Boarded Door Entrance.png|A door to the side along with a boarded door to the front.
+File:Section A Boarded Door Exit.png|Ditto, but the exit side.
+File:Section A 8 Office Desks.png|A room featuring 8 office desks.
+File:Section A 1 Table Hallway.png|A hallway with a table to its right.
+File:Section A L Shape Table Corner.png|An L-Shaped room with a table in the corner.
+File:Section A 6 Office Desks.png|A room featuring 8 office desks, with to right near eachother.
+File:Section A E Shaped.png|An E-Shaped room.
+File:Section A Many Shelves.png|A room with many shelves.
+File:Section A Tight Hallway.png|A hallway with many boxes, shelves, tables, and lockers.
+File:Section A Shelves + Tables.png|A room with tables and many shelves.
+File:Section A Shelves -w Hideout.png|A room with many shelves, with a small hideout in the middle.
+File:Section A Staircase.png|A Staircase with boxes and shelves.
+File:Section A Metal Bridge Bottom.png|Ditto, but from the bottom.
+File:Section A Basic Room2.png|A basic room with a box that is close to the ceiling.
+File:Section A 3 Pillars.png|A room with 3 pillars.
+File:Section A Basic Room3.png|A basic room with shelves and lockers to the side.
+File:Section A Library.png|A library.
+File:Section A Room 400.png|Room 400.
+File:A-1400.png|Room 1400
+File:Fake unnamed enterance.png|It's fake.
+File:Section A ending screen.png|Ending screen.
+</gallery>
+
+== Short Strategies ==
+*Some rooms contain safe spots, a spot where no locker is needed to not be killed, use these spots in hard locker situations.
+*Since there's no entities who can threat you while you're in blue or green locker or red fridge, they become safest spots to hide.
+*In [[Red Rooms]], main threat is [[A-135]], due to its very early arrival and speed increment. To counter it, you can use help of [[A-60]], since it can break doors without spawning ''A-135''. Use this strategy is there's no blue lockers nearby.
+
+== Full Guide ==
+=== A-000 - A-021: ===
+#Firstly, there is no threat except [[Void|The Void]] and [[Claustrophobia]] - the only two entities that appears at the start of the game and does not despawn. The tip for them: do not hide for too long, and do not fall behind or either you'll die.
+#Secondly, just know: A-000 to A-100 is a rooms where you can easily find tools that helps you in the progress. So here is the another tip: look on the floor and wait for the prompt - best tactic to find items, helps even in the deep darkness.
+#And thirdly, do not be scared. Yes the game may seem scary, but that's just because you are playing this game for first time. Even if you die, you can find out the entities. Ahh yes, you can ask the professionals to help. But isn't that much better to complete the game with yourself? So i will repeat: do not be scared.
+
+=== A-021 - A-060: ===
+#Firstly, now you have two more threats: [[A-20]] and [[A-20i]]. Just remember: if you hear a whisper-like sound, get to any hiding spot that is not a table, then wait the screen static to get stronger, then hide and wait until the entity has passed away. Now you are safe.
+#Secondly, as already was said, A-000 - A-100 is a best rooms for looting. So just loot it.
+#Thirdly, A-20i instantly kills while A-20 does not. Just know it for your safety.
+
+=== A-060 - A-085: ===
+Another 2 threats appears: [[A-60]] and [[A-60i]]. They are the same as [[A-20]] and [[A-20i]], but they both can linger in the latest opened room, and break doors. Also [[A-60]] is way more quiet, [[A-60i]] is absolutely silent while rushing but can't spawn without [[A-60]]. To avoid dying from them, just add the volume and if you hear static-like noise, stay near any hiding spot that is not a table like with [[A-20]] and [[A-20i]]. Then wait for the screen static and hide. Despite [[A-20]]\[[A-20i]] tactic, wait for the sound to disappear, then unhide. But if your screen static does not disappeared, HIDE QUICKLY. It's the [[A-60i]] that is silent while far away. That's all.
+
+=== A-085 - A-100 ===
+A new horror known as [[A-85]] appears. It acts like that of [[A-20]], but it comes from the front. To survive, make sure you hid in a locker, as it gives you 4 seconds to react.
+
+=== A-100 - A-120 ===
+#The game really begins. You now have access to the A-100 checkpoint. The rooms now have a chance to have a light not functional, or no lights functional at all. This prompts you to use the Flashlight in your starter inventory (Or the Faraday Shakelight if you have the gamepass). It gives off a light that allows you to see in the dark. It does require batteries to recharge though (Faraday Shakelight discharges alarmingly faster and requires shaking to recharge it instead of batteries), so make sure you looted from A-000 - A-100 (Checkpoints that aren't the start of sections give you a random amount of batteries anyway).
+#An exceptionally rare variant of [[A-85]], [[A-85i]], starts appearing. [[A-85i]] acts like [[A-85]] at first, but after a span of 1 minute or more, it rebounds. You must've opened enough doors in between [[A-85i]]s rebounds, If you open enough doors, [[A-85i]] will count it as a ''Successful Rebound''. After 3 ''Successful Rebounds'', it '''ENRAGES''', causing it to be faster. After 6-8 ''Successful Rebounds'', it despawns.
+
+=== A-120 - A-135 ===
+[[A-120]] starts appearing. It comes behind the door of the current room, then falls back. It occasionally glitches out and stops in place before regaining its speed. Once it has traveled far back enough, it has a chance to either rebound and come back again to repeat the cycle, or despawn with a static sound.
+
+=== A-135 - A-200 ===
+#[[A-135]] starts appearing. It clutters and mimics [[A-120]]. To identify if it's really [[A-135]], pay attention to its sound. If you hear drums and chittering, then it's [[A-120]]. If you hear slow drums and no chittering, then it's [[A-135]]. After stalling for a bit at the front, it breaks the door and starts checking gray lockers in the 3 most recent rooms where it spawned. After doing the thing, it falls back and despawns.
+#[[A-135]] can be rarely replaced by [[A-135i]]. [[A-135i]] comes from the back and makes a laughing sound then a bang. This is an indication you should hide in a blue locker (or a table if you're a masochist). [[A-135i]] comes to check gray lockers in all the rooms that contain players in them. After it does that, it falls back. Has a chance to come back again and repeat the cycle, or outright despawn.
+
+=== A-200+ Later!!! ===
+
+== Trivia ==
+* '''Section A''' is the only section that appears in almost every rooms fangame. It has several means (Apartment, Agency, Archives, etc), but it always will be rooms made from light gray wood and always has gray and blue lockers. And despite you can't hide under the tables in the original Rooms game, most rooms fangames' creators adds this ability.
+
+== Lore ==
+* '''Section A''' and [[Section D]] were both abandoned because SPAWN needed to take a lot of power that was being fed into both Sections and focus it on more important things.
+** this was ment to be a temporary thing, but the entities had overrun both Section due to lack of direct control.
+
+==Badges==
+{{BadgeSectionA|Image=Agency Badge Image.png|Name=Agency|Description=The journey begins here. Step in, no turning back.|Obtainment=Join the Game}}
+{{BadgeSectionA|Image=Hello Darkness (Badge).png|Name=Hello Darkness|Description=My old friend|Obtainment=Open door A-500.}}
+{{BadgeSectionA|Image=Insanity. (Badge).png|Name=Insanity.|Description=The nightmare is almost over.|Obtainment=Open door A-900.}}
+{{BadgeSectionA|Image=A Thousand Ends (Badge).png|Name=A Thousand Ends|Description=After a long journey, you're finally free, but was it worth it? Even after all of this, you feel like something's still missing..|Obtainment=Open door A-1000.}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]
+[[Category:From Original Rooms]]

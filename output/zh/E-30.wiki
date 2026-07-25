@@ -1,0 +1,94 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #FFEB3B; color: #000000;">E-30（沉默的冲刺者）</span>}}
+<tabber>
+|-|Section E=
+{{NoteBox|note=请勿与'''Rooms Re-Established'''或'''Rooms: Found Footage: Revisited'''中的同名实体E-30混淆}}
+{{SectionEStub}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:E-30Title.png|frameless|link=E-30]]
+|entity_image=<gallery>
+NewE30.webp|现版设计
+E30.webp|预发布版设计
+</gallery>
+|previous_entity=[[E-10]]<br>[[E-10i]]
+|next_entity=[[E-30i]]<br>[[E-45]]
+|claustrophobia=否
+|appears_at=E-030及以后
+|type=冲刺者
+|gun_effect=待公布
+|behavior=会冲向门后消失
+|speed=中等
+|damage=??? 每秒伤害
+|nicknames=沉默的冲刺者
+|locker_snipe=是
+|related_monsters=[[A-20i]]
+|sound1=<center>环境音</center><center>[[File:E30ambi.wav]]</center>|sound2=<center>跳杀</center><center>[[File:E-30ScareSfx.mp3]]</center>}}
+
+
+<h2>描述</h2>
+'''E-30'''，前身为'''M-30'''，是你在[[Section E|E区]]中会遇到的第2个实体，更多信息如下。
+
+<h2>机制</h2>
+生成后，它会出现在虚空墙后方，毫无预兆地以中等速度冲向当前房间，碰到门后就会消失。
+
+<h2>应对策略</h2>
+由于'''E-30'''生成时不会给出任何提示，你需要仔细聆听音效，听到它的声音后立刻躲藏。
+
+<h2>冷知识</h2>
+* '''E-30'''最初名为M-30，后来被[[M-22]]取代，移至[[Section E|E区]]
+* '''E-30'''在开发阶段曾使用原版RFF [https://rooms-found-footage.fandom.com/wiki/I-30 I-30] 的旧设计作为占位符。
+* 如果门需要使用门卡才能打开，'''E-30'''无法破坏该门，只会直接穿过而不造成损坏。
+<h2>剧情设定</h2>
+* '''E-30'''就是M-30，它曾尝试逃跑但最终身亡，因此进入了类似无人机的状态，变成了现在的E-30。
+* '''E-30'''可能是在成功逃跑后死亡，被改造为E-30后进入了E区。
+
+<h2>画廊</h2>
+<gallery>
+I30Vote.png|最初将'''M-30'''Removed的社区投票
+E30Vote.jpg|最终决定将'''M-30'''以'''E-30'''的名义重新加入的社区投票
+E30Rushing.gif|在[[Section E|E区]]中冲刺的'''E-30'''
+E30OldScare.webp|预发布版'''E-30'''的跳杀
+30 & 30i trail.webp|'''E-30'''的拖尾粒子效果
+</gallery>
+
+|-|Section UI=
+'''UI区：'''
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-30
+|entity_image=Oldi30.png
+|previous_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+|next_entity=[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+|appears_at=I-430及以后
+|type=冲刺者
+|claustrophobia=否
+|behavior=会毫无预兆地冲向当前房间，碰到门后消失
+|speed=中等
+|damage=秒杀
+|related_monsters=[[A-20i]]
+|sound1=<center>环境音</center><center>[[File:I30Ambi.mp3]]</center>|nicknames=沉默的冲刺者
+|sound2=<center>跳杀</center><center>[[File:E-30ScareSfx.mp3]]</center>}}
+
+<h2>描述</h2>
+'''I-30'''是[[Section UI|UI区]]最后100个房间中出现的第一个实体，更多信息如下。
+
+<h2>机制</h2>
+生成后，它会出现在虚空墙后方，毫无征兆地以中等速度冲向主房间，撞到门后便会消失。
+
+<h2>应对策略</h2>
+* 由于'''I-30'''不会给出任何生成提示，你需要仔细聆听，听到它的声音后立刻躲藏。
+* 如果[[M-60#Section_UI|I-60]]处于激活状态，你要么在整个遭遇过程中全程躲藏，要么如果你身处之前的房间，就离开柜子回头查看先前经过的房间，因为[[M-60#Section_UI|I-60]]会完全盖过'''I-30'''发出的声音。
+
+<h2>画廊</h2>
+<gallery>
+OldI30Jump.gif|跳杀
+</gallery>
+</tabber>
+
+{{EntityNavBox}}
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]
+[[Category:Entities]]
+[[Category:Section E]]

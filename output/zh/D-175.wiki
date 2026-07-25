@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">D-175 (Impairment（削弱者）)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-140]]
+|next_entity=[[D-200]]
+|entity_name=D-175
+|entity_image=BlackBox.webp
+|caption-entity_image=
+|appears_at=D-175+
+|nicknames=Impairment（削弱者）
+|claustrophobia=是（处于其所在柜子内时）
+|locker_snipe=
+|gun_effect=无
+|type=固定者
+|behavior=将你困在它所在的柜子内
+|damage=??? 每秒伤害
+|speed=无
+|related_monsters=[[M-134]]（机制相似）<br>[[E-45]]（机制相似）
+|sound_info_header=|sound1=<center>'''D-175''' 音效（游戏内）</center><center>[[File:D-175_sound.mp3]]</center>}}
+
+==描述==
+'''D-175'''是一种若你放松警惕便可能造成严重威胁的实体，更多信息如下。
+
+==行为==
+
+'''D-175'''会与[[M-134]]类似，藏身于当前房间的任意柜子中，它所在的柜子会散发出黑雾。若你进入该柜子，游戏音频会变得闷沉，同时会持续受到若干每秒伤害；若你第二次进入，你将暂时无法离开柜子，持续受到伤害；若你第三次选择进入，便无路可逃，会直接死于它手。
+==攻略与提示==
+进入柜子前请仔细观察。
+
+==你知道吗==
+* '''D-175'''的“柜子陷阱”机制纯属意外。它最初是一个bug：当你再次进入D-175所在的柜子时会被它困住，该实体原本的设计仅仅是削弱你的状态，而非将你困在柜中。
+* '''D-175'''原计划于「Update Executive」版本中与[[D-55i]]、[[D-250]]一同上线，但由于会引发大量故障而被禁用。
+
+==画廊==
+<gallery>
+File:D-175.webp|柜子中的D-175
+File:D-175_in_a_Heavy_Blue_Locker.webp|重型蓝色柜子中的D-175
+</gallery>
+
+
+{{EntityNavBoxSectionD}}
+[[Category:Entities]]
+[[Category:Section D]]

@@ -1,0 +1,12 @@
+== 说明 ==
+本模板将调用您wiki的<code>SITENAME</code>并移除“wiki”字样，多数情况下剩余内容即为您wiki主题的描述文本。若要使用该模板的基础版本，只需在您希望主题名出现的句子或章节中添加{{T|{{BASEPAGENAME}}}}模板即可。
+
+如果您的wiki移除“wiki”后的<code>SITENAME</code>无法准确描述wiki主题，您也可以直接编辑本模板，将其替换为您想要展示的文本即可。
+
+== 语法 ==
+<pre>{{Topic}}</pre>
+
+== 示例输出 ==
+{{Topic}}
+
+<includeonly>[[Category:Templates]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

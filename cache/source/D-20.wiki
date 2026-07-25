@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">D-20 (The Tempered Observer)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity|previous_entity=[[D-5]]
+[[D-5i]]
+|next_entity=[[D-35]]
+|entity_name=[[File:D20sux.png|frameless|link=D-20]]
+|entity_image= <gallery>
+D20.png|Idle Design
+D-20Jumpscare.webp|Jumpscare/Shot design
+</gallery> 
+|caption-entity_image=pls help
+|appears_at=Anywhere Past D-020.
+|gun_effect=Makes it despawn immediately
+|claustrophobia=No
+|nicknames=The Tempered Observer
+|type=Stationary
+|locker_snipe=Yes
+|behavior=Damages players that are too close to it.
+|damage=~16 Damage Per Second
+10 Damage Per Second (player is hiding in a locker/cabinet)
+|speed=Stationary
+|sound1=<center>Spawn 1</center><center>[[File:D20Spawn.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:D20Ambi.mp3]]</center>
+|sound4=<center>Despawn</center><center>[[File:D20Despawn.mp3]]</center>
+|sound2=<center>Spawn 2</center><center>[[File:D20Blood.mp3]]</center>
+|sound5=<center>Jumpscare/Killed</center><center>[[File:D-20Jumpscaresfx.mp3]]</center>}}
+
+==Description==
+'''D-20''' is a stationary [[Entities|entity]]. It looks like an upside down face, with 2 big, dark eyes and mouth full of teeth.
+
+==Behavior==
+'''D-20''', when spawning, will warn other players by emitting a few particles in the location where it will spawn. After 2-3 seconds, '''D-20''' will spawn, making a loud beep sound and revealing it's face.
+
+After '''D-20''' has spawned, any player who get too close to it will get damaged. After approximately 1 minute and 45 seconds it will dissapear, making a low-pitched sound of it's spawn sound.
+
+==Strategy & Tips==
+*If you have some healing [[Items|items]], you can freely go though it but not stay for too long, as '''D-20''' still pose a threat.
+*If you don't have any healing items, avoid '''D-20'''.
+*'''D-20''' can block [[D-5]]'s view, so use it as your advantage. (The only good point of '''D-20''' tho).
+
+==Trivia==
+*'''D-20''' can be killed with any [[Items|weapon]].
+*There's a very low chance that '''D-20''' will spawn on every single slot in one room, having up to 6 clones.
+*[[SHA-120]] can run over '''D-20''' causing him to despawn instantly.
+
+==Gallery==
+<gallery>
+D20jump.gif|Jumpscare
+</gallery>
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Weapon Affected]]
+[[Category:Stationary]]

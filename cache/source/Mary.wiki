@@ -1,0 +1,23 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">Mary</span>}}
+{{Delete|reason=moved to [[Player Controlled]]}}
+{{InfoBox:Entity
+|entity_name=Mary
+|entity_image=Mary Blossom Lowell.png
+|caption-entity_image=Are you having fun?
+|appears_at=Only by Admins
+|nicknames=Mary
+|behavior=...
+|damage=None
+|speed=Stationary}}
+
+== Description ==
+Mary is a extremely rare admin spawned humanoid, Her existence is questionable mostly unseen by most. However those of importance or those in packs may have a better chance of catching her attention. If you are hunted by her, do not attempt to upset her or something much worse will come for you.
+
+==Gallery==
+<gallery>
+Hurtherhurtyou.png|alt=Sighting of Mary
+</gallery>Hurt Her, Hurt You.{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:Stationary]]

@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件属于公有领域''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:Public domain files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

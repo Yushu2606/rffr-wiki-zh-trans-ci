@@ -1,0 +1,41 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #7b0f9a;">SHA-55 (Catastrophe)</span>}}{{InfoBox:Entity|entity_name=[[File:Sha55logo.gif]]|entity_image=<gallery>
+SHA-55.png|Current Design
+Sha55.png|Old Design
+</gallery>
+|caption-entity_image=Truck
+|previous_entity=[[SHA-35]]
+|next_entity=[[SHA-60]]
+|nicknames=Catastrophe
+|gun_effect=No Shadow can be shot
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion
+|type=Fallbacker<br>Rebounder<br>Locker Checker<br>Shadow
+|claustrophobia=No
+|locker_snipe=No
+|behavior=Fallbacks and after some times comes back and break all lockers/supply cabinets that are not behind the Void Wall
+|speed=Moderate
+|damage=Instant Death
+|related_monsters=[[D-55]]
+|sound1=<center>Ambience</center><center>[[File:SHA55ambi.mp3]]</center>}}
+
+== Description ==
+'''SHA-55''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-55]].
+
+== Behavior ==
+SHA-55 will spawn on the front of the latest door, then he will proceed to backtrack/fallback. SHA-55 will wait for a few seconds while he is far from the main room, and then rushes back to the main room, while destroying all Lockers/Heavy Lockers & Supply cabinets that are not behind the void wall in its way. Once all the designated hiding spots are broken, he will backtrack back to the void wall where he will finally despawn.
+
+== Strategy & Tips ==
+* When SHA-55 spawns in, quickly hide in any locker until he falls back.
+* When SHA-55 starts to rush to the back behind the void wall, get out of the locker as [[Claustrophobia]] can still attack you.
+* Wait until SHA-55's car noises get really loud, and then hide in a blue locker, blue heavy locker or white cabinet.
+* SHA-55 can't locker snipe. Use that as your advantage and only hide when he is close to avoid getting damaged by Claustrophobia.
+* Do not rush when SHA-55 is active, since [[SHA-140]] may spawn and it will make a unfair combo.
+
+== Trivia ==
+
+* Used to use the same design as regular mouth, but now has a unique design.
+
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Snipeless]]

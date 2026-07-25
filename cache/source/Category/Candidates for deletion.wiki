@@ -1,0 +1,10 @@
+{{Spacer}}
+<big><center>'''You may be looking for the actual template, ''[[Template:Delete|Delete]]''.'''</center></big>
+----
+This category contains articles that have been marked as candidates for deletion with the {{T|Delete}} template.<br>
+Note: '''Administrators, before deleting these pages''' make sure you check each page's discussion page, what links to each page, and the history of each page before proceeding with the deletion.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]

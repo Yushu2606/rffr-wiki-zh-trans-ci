@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: -4px 0px 2px red, 4px 0px 2px blue; color: #41e0ff;">M-200（电工）</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{NoteBox|note=请勿与'''Rooms: Re-Established'''中的M-200或Ï-200混淆，二者外观非常相似}}
+{{Redesign|Collese|Vote}}
+{{InfoBox:Entity
+|entity_name=[[File:Bite_of_83.webp|frameless|link=M-200]]
+|entity_image=<gallery>
+NewM200.gif|当前设计
+M200Hurt.gif|当前受伤形态设计
+NewerM-200.gif|旧设计
+M200.gif|更早的旧设计
+</gallery>|previous_entity=[[M-150]]|next_entity=[[Mouth|M-300]]<br>[[M-340]]<br>[[Mori]]|nicknames=电工<br>「罗纳尔多」（旧绰号）
+|appears_at=在M-200之后的区域开启任意门时有概率生成。
+|claustrophobia=否
+|gun_effect=受击次数足够后会受伤，不再破坏蓝色柜子，移动速度降低，每秒伤害下降
+|behavior=在房间前方生成，经过蓝色重型柜子时会将其破坏。
+|speed=1.4个房间/秒（慢-中等）|damage=1000 每秒伤害（柜击伤害为400 每秒伤害）
+|type=后退者<br>柜子检查者
+|locker_snipe=是
+|sound1=<center>第一种环境音效</center><center>[[File:M-200Ambience.mp3]]</center>
+<center>第二种环境音效</center><center>[[File:M-200 Ambience.ogg]]</center>|caption-entity_image=你用不了蓝色柜子哦 >:D|related_monsters=[[A-200]]<br>[[D-200]]<br>[[D-140]]}}
+
+==描述==
+[[M-200]]是Rooms: Found Footage第二次测试中加入的少数I区实体之一（现在调整为M区实体）。下文将介绍更多关于[[M-200]]的信息。
+
+==外观==
+[[M-200]]外观是一张霓虹材质的脸，嘴巴大张，左眼的瞳孔是另一张嘴，右眼瞳孔是闪电标志。它的形状、大小以及身后的阴影会不断变化，嘴巴也会反复开合。
+
+如果用[[Weapons|武器]]射击足够次数，'''M-200'''的电流会被干扰，伤害大幅下降，同时失去[[:Category:Locker Checker|柜子检查]]能力，不会再破坏蓝色柜子。不过'''M-200'''仍会快速穿过房间，可以击杀玩家。
+
+==机制==
+[[M-200]]会出现在当前房间的门口，类似[[A-85]]、[[D-140]]或[[E-10]]，发出类似收音机的静电噪音。它会在原地停留几秒，随后向最近的''蓝色重型柜子''发射一道光束。接下来它会沿房间回溯，破坏近距离内所有上述类型的藏匿点，一段时间后最终消失。
+
+==策略与技巧==
+* 当'''M-200'''生成时，前往最近的重型柜子/补给柜，在里面停留几秒，以防[[M-70]]和'''M-200'''一同生成。
+* 射击足够次数可以使'''M-200'''失能，此时它会变得虚弱，不会破坏大部分蓝色柜子。 
+**但即使被射击，'''M-200'''仍然可以击杀玩家，所以失能后还是要躲起来。失能也会降低它的每秒伤害。（使用Perfectionist（完美主义者）射击3次即可让'''M-200'''失能，可以好好利用这一点）。
+
+==冷知识==
+*[[M-200]]曾自称罗纳尔多。
+**这一设定现已废弃，Renovated版本推出后[[M-200]]被重命名为「电工」。
+*[[M-200]]是所有和[[A-200]]相关的实体中，唯一会造成持续伤害而非即死的实体。
+*如果[[M-134]]待在蓝色柜子里时柜子被[[M-200]]破坏，[[M-134]]会爆炸。
+*M-200的第2种环境音效可在Roblox Creator Store（创作者商店）中找到，其名称为“[https://create.roblox.com/store/asset/705787045/Electric-shock-hit-looped Electric shock hit looped（循环电击命中音效）]”。
+*M-200确实能感知疼痛，设定中它可被枪击。（据M-200的创作者所述）
+**补充说明，M-200被击中/枪击时感受到的疼痛是正常人的2x（例如：扇M-200一巴掌会让它感觉像被捅了一刀）
+* 与其他编号为200的实体不同，'''M-200'''无法杀死躲在桌子下方的玩家。
+
+==画廊==
+<gallery>
+M200jump.gif|旧版跳杀
+</gallery>
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Weapon Affected]]
+[[Category:Entity Type Mix]]

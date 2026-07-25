@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-2 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-2
+|entity_image=Better L2.png
+|previous_entity=[[SHA-2]]<br>[[LAPSE-1]]
+|next_entity=[[SHA-3]]<br>[[LAPSE-3]]
+|nicknames=???
+|gun_effect=No Lapse can be shot
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=Fallbacker 
+|claustrophobia=No
+|behavior=Just like sha-2 but is barely audible and may chain
+|speed=Fast
+|locker_snipe=Yes
+|damage=Instant Death<br>35-50~ (Lapse Plague)
+|related_monsters=[[SHA-2]]
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]}}
+
+== Description ==
+'''LAPSE-2''' is one of the many Entities that is exclusive to the [[Alpha & Shadowpocalypse]] Modifier, it is the Lapse variant of [[SHA-2]].
+
+== Behavior ==
+It behaves almost exactly like [[SHA-2]], with a few differences. LAPSE-2 breaks down the door, and is effectively silent; only being able to be heard when you're really close to or in the same room as him. However, his screenshake is much more prominent so you have a way to detect him still. LAPSE-2 also has the chance to spawn himself upon despawning initially, creating a sort of "chain" of LAPSE-2s.
+
+== Strategies & Tips ==
+
+* Hide immediately when you see screenshake, as Lapse plague is much worse to have than Shadow plague.
+* Stick to a locker when LAPSE-2 despawns to check and make sure he doesn't chain.
+
+== Trivia ==
+TBA
+
+== Gallery ==
+<gallery>
+File:L2 ingame.gif|'''LAPSE-2''' seen breifly passing by (Low quality)
+</gallery>
+
+== Badges ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Lapse_Entities|Lapse entity]].}}

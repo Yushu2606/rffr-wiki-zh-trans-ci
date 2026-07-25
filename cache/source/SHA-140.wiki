@@ -1,0 +1,78 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-140 (Dissonant)</span>}}
+{{InfoBox:Entity|entity_name=[[File:Sha140logo.gif]]
+|entity_image=<gallery>
+File:SHA-140 str Design.png|New design
+BetterSha-140Remake.png|Old Recreated Design
+</gallery>
+|previous_entity=[[SHA-120]]
+|next_entity=[[SHA-180]] ([[Shadow Challenge|SC]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|A&SP]]) 
+|nicknames=Dissonant
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Shadow<br>Fallbacker<br>Rebounder<br>Locker checker
+|claustrophobia=No
+|behavior=Same as [[D-140]] but it can come from the back or the front.
+|gun_effect=No Shadow can be shot
+|speed=Fast
+|damage=Instant Death<br>??? Damage (Locker Snipe)
+|locker_snipe=Yes
+|related_monsters=[[D-140]]<br>[[A-135]]
+|sound1=<center>Spawn</center><center>[[File:SHA-140Spawn.mp3]]</center>
+|sound2=<center>Fallback</center><center>[[File:SHA-140Rush.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:SHA-140Ambience.mp3]]</center>
+|sound4=<center>Despawn</center><center>[[File:SHA-140Despawn.mp3]]</center>}}
+
+<tabber>
+|-|New=
+'''New:'''
+== Description ==
+'''SHA-140''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-140]].
+
+== Behavior ==
+* Upon spawning, '''SHA-140''' will act like [[D-140]], emitting a distorted version of its spawn sound. But when it falls back, it will break the main room's door and destroy all hiding spots in the past few rooms, killing the player if they were hidden in 2  previous rooms, it will now not be audible now that it is far away.
+
+* Now that it has fallen back, it will start its rebounding cycle, having a chance to rush back to the main room, or come from the front.
+
+** If it chooses to rush back to the main room, you will start hearing its ambiance again, a few seconds later it will smash into the door and break blue lockers while falling back.
+
+** If it chooses to come from the front, it will place itself behind the door and play a fake despawn sound, breaking the door after around 3 seconds and break blue lockers while falling back.
+
+* It will repeat this a few times, on its last rebound, it will place itself behind the door, playing its fake despawn sound once more before breaking it down and staying idle for a few seconds, then falling back and breaking all the lockers in the main room, like when it first spawned
+
+* Once far back, '''SHA-140''' will emit a loud despawn sound to indicate the end of its encounter.
+
+== Strategy & Tips ==
+* '''SHA-140''' will come back very quickly, so make sure to not open the door and just hide in a safe spot or any hiding spot that is not a Blue locker or White cabinet.
+* '''SHA-140''' won't extend Claustrophobia like [[D-140]] does, so its recommended you move up a few rooms to avoid any unnecessary damage from Claustrophobia.
+
+|-|Old=
+'''Old:'''
+== Description ==
+'''SHA-140''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-140]].
+
+== Behavior ==
+Upon spawning, '''SHA-140''' will act like [[D-140]], emitting a distorted version of it's spawn sound. But when fallbacking, '''SHA-140''' will break the main room's door and destroy all hiding spots in the room that he spawned at very high speed then will proceed to fallback like [[D-140]]. 
+
+But unlike [[D-140]], '''SHA-140''' will take a much shorter time to rebound due to it's extremely high speed. When '''SHA-140''' reach the main room, it will break the door once again and will proceed to Break all Blue lockers/White cabinets at the same speed as it's [[D-140 | Uninfected counterpart]].
+
+'''SHA-140''' will emit a loud despawn sound to indicate the end of its encounter.
+
+'''SHA-140''' only rebounds/rush to the main room once just like [[D-140]].
+
+== Strategy & Tips ==
+* Prefer to hide in the previous room once it initially falls back, even though he doesn't kill you if you hide in the main room, it's safer to hide in the previous.
+* '''SHA-140''' will come back very quickly, so make sure to not open the door and just hide in a safe spot or any hiding spot that is not a blue locker or White cabinet.
+* '''SHA-140''' won't extend Claustrophobia like [[D-140]] does, so its recommended you go to the Current room after it initially rushes back to avoid any unnecessary damage from Claustrophobia. It doesn't lockersnipe, so us it to your advantage.
+
+</tabber>
+== Trivia ==
+???
+
+== Gallery ==
+<gallery>
+SHA-140 ingame.png|'''SHA-140'''<nowiki/>'s new design in-game
+ParticleSha140.jpg|Old particle Face seen ingame
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]

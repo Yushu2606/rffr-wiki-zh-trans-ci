@@ -1,0 +1,1 @@
+Entities that can/could only spawn trough invasions.

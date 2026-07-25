@@ -1,0 +1,54 @@
+{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i (Inverting Smile Prime)'''</span}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-35]]<br>[[D-20]]
+|next_entity=[[D-55]]
+|entity_name=[[File:D-35iPlaceholder.gif|frameless|link=D-35i]]
+|entity_image= <gallery>
+D-35iRedesign.gif|Current Design
+NewD-35i.gif|Old Design
+OldestD35i.gif|Older Design
+LegacyD-35.gif|Oldest Design 
+</gallery> 
+|caption-entity_image=i always come back.
+|appears_at=After D-100 (Only by [[D-35]])
+|nicknames=Inverting Smile Prime<br>"Shadow Winner Prime" (Old Nickname)
+|claustrophobia=No
+|type=Rusher
+|gun_effect=None
+|locker_snipe=Yes (No in [[Red Rooms]])
+|behavior=Follows after it's original counterpart, or itself in a prime chain. Basic rusher.
+|damage=Instant Death (12 Damage locker snipe)
+|speed=Current room number divided by 5 + 450 (457 studs/s to 636 studs/s)
+|related_monsters=[[D-35]] (Normal counterpart)|sound1=<center>Ambience</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>Jumpscare</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
+
+==Description==
+*'''D-35i''' is a ''Prime'' [[Entities|entity]]. It looks like a wide, Navy Blue smile; Of which flickers to black and back to normal at high speeds.
+
+==Behavior==
+*'''D-35i''', when it spawns, will become louder as it rushes to the main room.
+*If '''D-35i''' spawned in the '''Derelict Lab''', then it will slam into the door; Otherwise, smashing it down.
+*After '''D-35i''' slams/smashes the door, it will form a portal beneath itself, swiftly escaping. There's a low chance it can spawn another '''D-35i''' (High chance in [[Red Rooms]])
+**This process can repeat itself unitil four '''D-35i''' have spawned, tho its not very common to get 4 at once, usually spawning one or two '''D-35i'''
+
+==Strategy & Tips ==
+*Stay near a locker when [[D-35]] despawns, and after approximately 0-5 seconds, ''D-35i'' will spawn with a little chance, and you will start to hear it.
+
+==Trivia==
+*'''D-35i''' cannot '''Locker Snipe''' in the [[Red Rooms]].
+*'''D-35i''' (and [[D-35|It's normal counterpart]]) can be dodge-rolled through to survive.
+
+== Gallery ==
+<gallery>
+File:NewD-35iJumpscare.gif|D-35i's Jumpscare
+File:D-35i scary.gif|Old D-35i Jumpscare
+</gallery>
+
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Ambusher]]

@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">D-175 (Impairment)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-140]]
+|next_entity=[[D-200]]
+|entity_name=D-175
+|entity_image=BlackBox.png
+|caption-entity_image=
+|appears_at=D-175+
+|nicknames=Impairment
+|claustrophobia=Yes (While inside its locker)
+|locker_snipe=
+|gun_effect=None
+|type=Stationary
+|behavior=Traps you inside his locker
+|damage=??? DPS
+|speed=None
+|related_monsters=[[M-134]] (similar mechanic)<br>[[E-45]] (similar mechanic)
+|sound_info_header=|sound1=<center>'''D-175''' sounds (In-Game)</center><center>[[File:D-175_sound.mp3]]</center>}}
+
+==Description==
+'''D-175''' is a entity that might be a severe threat if you don't pay attention, more info bellow.
+
+==Behavior==
+
+'''D-175''' will hide in any of the lockers within the current room similar to [[M-134]], he will emit a black fog from the locker he's in it, if you enter the locker it muffles your audio and deals some dps over time, if you enter on it a second time it makes you be unable to exit the locker for a bit, making you get damaged, the third time you decide to enter, there will be no escape and you'll die to it.
+==Strategy & Tips==
+Pay close attention before going to the locker.
+
+==Trivia==
+* '''D-175''''s “locker trap” mechanic was an accident. It was a bug originally that '''D-175''' trapped you in the locker when you re-entered his locker, he was originally meant to just impair you not trap you in.
+* '''D-175''' was meant to be release in "Update Executive" alongside [[D-55i]] and [[D-250]], but was left disabled due to it breaking a lot
+
+==Gallery==
+<gallery>
+File:D-175.png|D-175 in a cabinet
+File:D-175 in a Heavy Blue Locker.png|D-175 in a Heavy Blue Locker
+</gallery>
+
+
+{{EntityNavBoxSectionD}}
+[[Category:Entities]]
+[[Category:Section D]]

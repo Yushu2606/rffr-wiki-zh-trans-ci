@@ -1,0 +1,6 @@
+;说明
+:此模板用于标记从[[wikipedia:|维基百科]]或其他[[wikimedia:|维基媒体]]项目上传的图片。
+;语法
+:在图片信息页输入<code>{{t|From Wikimedia}}</code>即可。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,159 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66, 0 0 2.5px #FFFF66; color: black;">A区（办事处）</span>}}{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{SectionInfoBox
+|image=Agency (A-Section).png
+|previous_section=无
+|next_section=[[Section D|D区]]<br>[[Unnamed Sector|无名区域]]
+|entity_amount=11
+|i_entity_amount=5
+|sound1=<center>A-000 - A-020</center><center>[[File:BlueFeather.mp3]]</center>
+|sound2=<center>A-021 - A-100</center><center>[[File:Anxiety.mp3]]</center>
+|sound3=<center>A-100 - A-500</center><center>[[File:SectionAAmbience.mp3]]</center>
+|sound4=<center>A-500 - A-750</center><center>[[File:Depth.mp3]]</center>
+|sound5=<center>A-750 - A-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound6=<center>A-1000</center><center>[[File:A1000New.mp3]]</center>
+|sound7=<center>旧版A-1000</center><center>[[File:A1000.mp3]]</center>
+|sound8=<center>无尽模式</center><center>[[File:Endless.mp3]]</center>}}
+
+==概述==
+'''A区'''是玩家会遇到的第一个区，玩家需要打开标有'''A-001'''的门开启游戏。最初的几扇门流程十分直白：开门、穿过房间，再打开下一扇门。背景中可以听到钢琴乐，同时也不会生成任何柜子。不过一旦玩家穿过几个房间后，第一个实体[[A-20]]就会出现。再经历几次实体遭遇、抵达A-400号门后，就能找到下一个区域[[Section D|D区]]。
+
+这是唯一一个源自[https://www.roblox.com/games/5076734934/Rooms 原版游戏]的区，同时还有两个来自原版的实体：[[A-60]]和[[A-200]]。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-25MainFace.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA120.png|center|150px|link=A-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:ShadowMan.png|center|140px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}}
+
+==非专属实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-300.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+
+==Removed/已废弃==
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.gif|center|150px|link=Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A165.png|center|150px|link=A-165]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-165]]
+{{!}}}
+
+==Rooms==
+<gallery>
+File:Section A Starting Room.png|起始房间。
+File:Section A Metal Bridge.png|设有金属桥的房间，桥下堆放着物品。
+File:Section A Room 21.png|21号房间。
+File:Section A Basic Room1.png|方形房间。
+File:Section A L Shaped.png|L形房间，内有三个柜子。
+File:Section A L Shaped Opposite.png|同上，为镜像翻转版本。
+File:Section A 2 Floors Top.png|双层结构房间的上层。
+File:Section A 2 Floors Bottom.png|同上，为下层。
+File:Section A Boarded Door Entrance.png|侧面设有一扇门，正面是一扇用木板封死的门。
+File:Section A Boarded Door Exit.png|同上，为出口侧视角。
+File:Section A 8 Office Desks.png|摆放了8张办公桌的房间。
+File:Section A 1 Table Hallway.png|走廊右侧摆放着一张桌子。
+File:Section A L Shape Table Corner.png|L形房间，角落处摆放有一张桌子。
+File:Section A 6 Office Desks.png|摆放了8张办公桌的房间，右侧的桌子彼此紧邻。
+File:Section A E Shaped.png|E形房间。
+File:Section A Many Shelves.png|摆放有大量架子的房间。
+File:Section A Tight Hallway.png|狭窄走廊，堆放有大量箱子、架子、桌子与柜子。
+File:Section A Shelves + Tables.png|摆放有桌子与大量架子的房间。
+File:Section A Shelves -w Hideout.png|摆放大量架子的房间，中部设有一处小型躲藏点。
+File:Section A Staircase.png|楼梯间，堆放有箱子与架子。
+File:Section A Metal Bridge Bottom.png|同上，为桥下视角。
+File:Section A Basic Room2.png|基础房间，有一个箱子紧贴天花板放置。
+File:Section A 3 Pillars.png|设有3根立柱的房间。
+File:Section A Basic Room3.png|基础房间，侧面摆放有架子与柜子。
+File:Section A Library.png|图书室。
+File:Section A Room 400.png|400号房间。
+File:A-1400.png|1400号房间
+File:Fake unnamed enterance.png|这是假入口。
+File:Section A ending screen.png|结局画面。
+</gallery>
+
+== 简要攻略 ==
+*部分房间内设有安全点位，站在这些点位无需躲入柜子即可免遭击杀，当柜子位置不佳难以利用时，可借助这些点位避险。
+*躲入蓝色、绿色柜子或红色冰箱时，没有任何实体能对你造成威胁，因此这些是最安全的躲藏点位。
+*在[[Red Rooms|红区]]中，主要威胁是[[A-135]]，因为它出现时间极早且速度会提升。要应对它，你可以借助[[A-60]]的帮助，因为它能破坏门且不会生成''A-135''。如果附近没有蓝色柜子，就使用这个策略。
+
+== 完整指南 ==
+=== A-000 - A-021：===
+#首先，除了[[Void|虚空]]和[[Claustrophobia|幽闭恐惧]]之外没有任何威胁——这是仅有的两个在游戏开局就出现且不会消失的实体。应对它们的提示：不要躲藏太久，也不要掉队，否则你会死亡。
+#其次，要记住：A-000至A-100这段区域很容易找到能帮你推进流程的工具。因此另一个提示是：留意地面，等待交互提示——这是寻找道具的最佳策略，即使在漆黑的环境中也有效。
+#第三，不要害怕。没错，这款游戏看起来可能很恐怖，但这只是你第一次游玩的缘故。即使你死亡了，也能借此了解这些实体。啊对，你可以找资深玩家帮忙，但靠自己的力量通关不是要好得多吗？所以我再重复一遍：不要害怕。
+
+=== A-021 - A-060：===
+#首先，你现在多了两个威胁：[[A-20]]和[[A-20i]]。只要记住：如果你听到类似低语的声音，就前往任何不是桌子的躲藏点，等待屏幕静电效果变强，随后躲起来直到实体离开，你就安全了。
+#其次，正如之前所说，A-000至A-100是最适合搜刮物资的区域，所以尽情搜刮吧。
+#第三，A-20i会直接秒杀玩家，而A-20不会。为了你的安全，请牢记这点。
+
+=== A-060 - A-085：===
+又出现了两个威胁：[[A-60]]和[[A-60i]]。它们的机制和[[A-20]]、[[A-20i]]相似，但二者都会在最近打开的房间内徘徊，还会破坏门。此外[[A-60]]的声音要小得多，[[A-60i]]冲刺时完全静音，但它必须在[[A-60]]存在的前提下才会生成。要避免死于它们之手，就调高音量，如果你听到类似静电的噪音，就像应对[[A-20]]和[[A-20i]]时那样待在非桌子类的躲藏点附近，等待屏幕出现静电后躲藏。和应对[[A-20]]\[[A-20i]]的策略不同，你需要等声音完全消失后再从躲藏点出来。但如果你的屏幕静电没有消失，请立刻躲好。这是因为在远处的[[A-60i]]是静音的。以上就是全部要点。
+
+=== A-085 - A-100 ===
+名为[[A-85]]的新恐怖实体出现了。它的行为模式和[[A-20]]类似，但会从前方袭来。要存活下来，你必须躲进柜子里，因为它只会给你4秒的反应时间。
+
+=== A-100 - A-120 ===
+#游戏到这里才算真正开始。你现在已解锁A-100检查点。这些房间现在有概率出现灯具故障，甚至完全没有照明。这就需要你使用初始物品栏里的Flashlight（手电筒）（如果你拥有对应gamepass（游戏通行证），也可使用Faraday Shakelight（法拉第手摇灯））。它发出的光能让你在黑暗中视物，不过需要电池来充电（Faraday Shakelight（法拉第手摇灯）的放电速度快得惊人，不需要电池，通过摇晃即可充电），所以请确保你在A-000至A-100段搜刮了足够的电池（反正非各分区起点的检查点也会随机给你发放一定数量的电池）。
+#[[A-85]]的极其稀有变种[[A-85i]]开始出现。[[A-85i]]起初的行为与[[A-85]]一致，但经过1分钟或更长时间后，它会发生反弹。你需要在[[A-85i]]的两次反弹间隔内打开足够多的门：若你打开了足够数量的门，[[A-85i]]会将其计为一次''成功反弹''。累计3次''成功反弹''后，它会'''暴怒'''，移动速度随之提升。累计6-8次''成功反弹''后，它便会消失。
+
+=== A-120 - A-135 ===
+[[A-120]]开始出现。它会行进到当前房间的门后，随后向后撤退。它偶尔会发生故障、原地停滞，之后再恢复原有移动速度。当它向后撤退到足够远的位置时，有概率反弹返回、重复这一循环，或是伴随静电声消失。
+
+=== A-135 - A-200 ===
+#[[A-135]]开始出现。它会混淆视听，模仿[[A-120]]的行为。要辨别来者是否为[[A-135]]，需要留意它的声音：若听到鼓声与尖细吱叫声，说明来者是[[A-120]]；若听到缓慢的鼓声、没有尖细吱叫声，说明来者是[[A-135]]。它在房间前方停留片刻后，会破门而入，开始检查它生成点最近的3个房间内的灰色柜子。完成这一行为后，它会向后撤退并消失。
+#[[A-135]]有极低概率被[[A-135i]]替代。[[A-135i]]会从房间后方赶来，先发出笑声，随后是一声巨响。这提示你应当躲进蓝色柜子内（如果你有受虐倾向，也可以选择躲在桌子下）。[[A-135i]]会检查所有存在玩家的房间内的灰色柜子。完成检查后，它会向后撤退，有概率再次返回、重复这一循环，或是直接消失。
+
+=== A-200+ 后续！！！ ===
+
+== 冷知识 ==
+* '''A区'''是几乎每一部Rooms同人游戏中都会出现的唯一一个区。它有多种场景主题（公寓、事务所、档案馆等），但房间始终由浅灰色木材搭建，且始终配有灰色与蓝色柜子。尽管在原版Rooms游戏中玩家无法躲在桌子下，但大多数Rooms同人游戏的作者都添加了这一功能。
+
+== 背景故事 ==
+* '''A区'''与[[Section D|D区]]均遭到废弃，原因是SPAWN需要将原本供给两个分区的大量能源抽调出来，集中用于更重要的事务。
+** 这一安排本是临时措施，但由于缺乏直接管控，实体已经占领了这两个区。
+
+== 徽章 ==
+{{BadgeSectionA|Image=Agency Badge Image.png|Name=事务所|Description=旅程自此开启。踏入其中，便再无回头路。|Obtainment=加入游戏}}
+{{BadgeSectionA|Image=Hello Darkness (Badge).png|Name=你好，黑暗|Description=我的老友|Obtainment=打开A-500号门。}}
+{{BadgeSectionA|Image=Insanity. (Badge).png|Name=疯狂。|Description=噩梦即将结束。|Obtainment=打开A-900号门。}}
+{{BadgeSectionA|Image=A Thousand Ends (Badge).png|Name=千种结局|Description=经过漫长的旅程，你终于获得了自由，但这一切值得吗？纵使经历了这所有，你仍感觉有什么东西尚未寻得..|Obtainment=打开A-1000号门。}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]
+[[Category:From Original Rooms]]

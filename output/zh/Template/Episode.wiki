@@ -1,0 +1,14 @@
+<includeonly><infobox type="Episode">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="partOfSeason"><label>季</label></data>
+	<data source="episodeNumber"><label>集数</label></data>
+	<data source="airDate"><label>播出日期</label></data>
+	<data source="writer"><label>编剧</label></data>
+	<data source="director"><label>导演</label></data>
+	<group layout="horizontal">
+	    <header>剧集导航</header>
+	    <data source="previousEpisode"><label>上一集</label></data>
+	    <data source="nextEpisode"><label>下一集</label></data>
+	</group>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Episodes]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

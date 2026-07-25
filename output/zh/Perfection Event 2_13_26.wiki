@@ -1,0 +1,45 @@
+{{Removed|reason=Perfection Event（完美活动）2/13/26为限时活动，现已结束。}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{EventInfobox
+|image=ShadowScreen.jpg
+|next_event=[[Perfection Event 3/13/26|Perfection Event（完美活动）3/13/26]]
+|previous_event=[[Section Executive Invasion Event|Section Executive Invasion Event（区主管入侵活动）]]
+|timeline=2/13/2026 - 2/23/2026
+|rewards=无
+|entities=[[Overseer]]<br>[[LAPSE-1]]<br>[[SHA-4]]<br>[[SHA-7]]<br>[[SHA-22]]<br>[[SHA-150]]}}
+
+== 新增内容与改动 ==
+* [[Oblivion]]在本次活动中被[[Overseer]]替代，导致[[M-60]]和[[M-60i]]不会在各种柜子上留下标记（已回调）
+* [[暗影挑战]]的出现概率提升，从1/666调整为1/333（已回调）
+* 新增了[[SHA-4]]、[[SHA-7]]、[[SHA-22]]、[[SHA-150]]与[[LAPSE-1]]
+* [[E-10]]与[[E-60]]可自由入侵[[A区]]、[[D区]]与[[M区]]，触发概率为1/5000（已回调）
+* 所有来自[[Alpha & Shadowpocalypse|阿尔法 & Shadowpocalypse（暗影灾变）]]的实体都有较低概率入侵你的逃生轮次（已回调）
+<br><br><br><br><br><br><br>
+
+== 新增/重新加入的实体 ==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Overseer.png|center|150px|link=Overseer]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Better L-1.png|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA4.png|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Overseer]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[LAPSE-1]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-4]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-7]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-22]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.webp|center|150px|link=E-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}}}
+
+== 画廊 ==
+<gallery>
+PerfectionThumb.webp|游戏缩略图
+</gallery>

@@ -1,0 +1,6 @@
+;说明
+:此模板用于标记使用LGPL许可的图片。
+;语法
+:在图片信息页输入<code>{{t|LGPL}}</code>即可使用。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

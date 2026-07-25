@@ -1,0 +1,34 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-83Placeholder.gif|frameless|link=UI-83]]
+|entity_image=UI-83.webp
+|previous_entity=[[UI-60]]
+|next_entity=[[UI-110]]
+|appears_at=I-083+
+|type=后退者
+|damage=秒杀
+|related_monsters=[[A-85]]<br>[[D-120]]
+|sound1=<center>活跃状态'''已管控'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:UI-83Ambiance.mp3]]</center>}}
+
+== 描述 ==
+'''UI-83'''是你在[[Section Interchange|换乘区]]可能遇到的第5个实体，更多信息如下。
+
+== 行为 ==
+当'''UI-83'''生成时，会播放名为“Horror Race”的乐曲，和所有其他位于I区的实体一样。如果场上存在更多实体，会播放同一首曲目，但音调更高、速度更快。
+
+'''UI-83'''会从前方出现，在门前停留一小段时间后往回冲，穿过虚空墙后就会消失，整体运作方式与[[A-85]]非常相似。
+
+== 策略与技巧 ==
+一看到它就立刻躲藏，因为在[[Section Interchange|换乘区]]时，幽闭恐惧需要极长的时间才会发动攻击。
+
+== 冷知识 ==
+* 和大多数UI实体一样，'''UI-83'''是作为玩笑内容加入的。
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

@@ -1,0 +1,34 @@
+{{Clear}}
+{| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #202020; background:#a3a2a2; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
+! style="width:100px" |<center>BROWSING</center>
+|-
+|
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Browse</center>
+|-
+! width="15%" style="background: #a8a79b;" |<center>Browsing</center>
+| class="navigation-links" |[[Entities]] • [[Sections]] • [[Update Log]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Features</center>
+| class="navigation-links" |[[Modifiers]] • [[Shadow Challenge|Challenges]] • [[Items]] • [[Red Rooms]] • [[Badges]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Items</center>
+| class="navigation-links" |[[Utilities]] • [[Healing]] • [[Weapons]] • [[Artifacts]] • [[Salvage]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Other</center>
+| class="navigation-links" |[[Wiki Team Members]] • [[Open Beta Mode]] • [[Section Executive Invasion Event]] • [[Super Epic Mode]]
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Sections</center>
+|-
+! width="15%" style="background: #a8a79b;" |<center>Regular</center>
+| class="navigation-links" |[[Section A]] • [[Section D]] • [[Section M]] • [[Unnamed Sector]] • [[Section E]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Upcoming</center>
+| class="navigation-links" |[[Section R]]
+|-
+! width="15%" style="background: #a8a79b;" |<center>Mode Exclusive</center>
+| class="navigation-links" |[[Section I]] • [[Section Interchange]]
+|}
+|}
+<noinclude>''Note:I got all this code from [https://r-rooms.fandom.com/wiki/Template:Navigation this] template. THANK YOU!!!!!!''</noinclude>

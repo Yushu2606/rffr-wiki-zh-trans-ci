@@ -1,0 +1,4 @@
+{|width:100% style="border-radius: 5em; background:#999999; margin-top: 10px;"
+|style="vertical-align:top;text-align:center;width:600px;height:80px;background: linear-gradient({{{GradiantDetails}}});text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black;padding:7px;color:{{{TextColor}}};width;border-top-left-radius:5em;border-bottom-left-radius:5em;"|'''<big>{{{Name}}}</big>'''<br><small>{{{Details}}}</small>
+|style="vertical-align:top;text-align:center;width:600px;height:80px;background: linear-gradient({{{GradiantDetails}}});text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black;padding:7px;color:{{{TextColor}}};width;border-top-right-radius:5em;border-bottom-right-radius:5em;"|'''<big>获取方式</big>'''<br><small>{{{Obtainment}}}</small>
+|}

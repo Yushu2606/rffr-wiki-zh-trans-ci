@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #000000, #545454, #8B8B8B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-250（骚乱）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+<blockquote>'''"There will be nothing left（什么都不会剩下）"''' ——出自《Update Executive》第5支先导预告中的D-250</blockquote> 
+{{SectionDStub}}
+{{InfoBox:Entity
+|entity_name=[[File:D-250title.webp|frameless|link=D-250]]
+|entity_image=D250.png
+|previous_entity=[[D-200]]
+|next_entity=[[Mouth|D-300]]<br>[[M-22]]
+|nicknames=Tumult（骚乱）
+|locker_snipe=是
+|appears_at=D-250+
+|claustrophobia=否
+|type=大多为固定者
+|behavior=玩家靠近时会震动屏幕，抵达目标房间时会发射即使玩家躲藏也能造成伤害的法球，攻击结束后会破坏门。
+|gun_effect=无
+|speed=无→慢
+|damage=每秒75伤害（本体） <br>
+25（法球）
+|related_monsters=}}
+
+==描述==
+'''D-250'''是D区的实体，也是D区最后一个需要解锁对应区段才能遇到的实体。它首次在《Update Executive》的第5支先导预告中亮相。
+
+==机制==
+'''D-250'''会生成于当前已开启房间前方的3个房间处。玩家距离它的位置越近，屏幕震动幅度就越大，最初只是几乎难以察觉的轻微晃动。
+
+当玩家抵达目标房间时，该实体会从地面升起，周围会生成数个法球。数秒后，这些法球会被抛向当前房间的随机位置，爆炸后会对范围内的玩家造成伤害，即使玩家处于躲藏状态也会受到伤害。
+
+所有法球都发射完毕后，'''D-250'''会撞向下一扇门，无论门的类型是Depth（深度门）还是Derelict（废弃门）都会被直接破坏。
+
+==应对策略与提示==
+
+* '''D-250'''<nowiki/>的氛围音在它即将发起攻击时会非常清晰可闻。注意留意屏幕震动效果，当氛围音大到能清晰听见时，立刻往回跑，尽量远离下一个房间。
+* 不要躲在最新打开的房间里，因为'''D-250'''的法球数量足够在没有提升过最大生命值的玩家来得及回血前就将其击杀。
+
+==你知道吗==
+* D-250的设计大约花了一天时间完成。
+* 它的粒子效果复用自Collese为游戏制作的一个废弃概念设计。
+** 这些粒子原本是为[[E-245]]设计的，但最终被用在了D-250身上。
+** D-250的旧版法球设计原本计划用作[[E-245]]的外观，但后来被更改了。
+* [https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse 《Update Executive》第5支先导预告]
+
+==画廊==
+<gallery>
+File:D250Orb.png|法球
+File:Orb.webp|D-250的旧版法球设计/概念设计
+File:D-250_jumpscare.webp|D-250的跳杀
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]

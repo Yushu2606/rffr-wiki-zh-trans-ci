@@ -1,0 +1,92 @@
+<tabber>
+|-|Modes=
+'''Modes:'''
+{{Modifier|GradiantDetails=to bottom, #A8A80A, #808000|TextColor=#C9C918|Name=[[Pre-Executive Mode]]|Details=The version of R:FF: Renovated before '''Update Executive''' was added. This modifier will very rarely be updated, and may break at times.}}
+
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00AAAA|TextColor=#C0FFFF|Name=[[Legacy Mode]]|Details=The version of R:FF before it was closed. This modifier will very rarely be updated, and may break at times. [[Section I]] and old entities can be found here.}}
+
+{{Modifier|GradiantDetails=to bottom, #006DF8, #0022FF|TextColor=#BBDDFF|Name=[[True Legacy Mode]]|Details=The version of R:FF before the Restructured Update was released. This modifier does not have [[Section I]], and is more bare-bones. The Shadow Challenge is also forced at D-5000, but it only includes [[SHA-1]], [[SHA-2]], and [[SHA-3]].}}
+
+{{Modifier|GradiantDetails=to bottom, #0000FF, #000055|TextColor=#DDDDFF|Name=[[Open Beta Mode]]|Details=The version of R:FF when the game first opened. This version of the game does not have any other sections and only includes [[A-60]], [[A-200]], and [[Mouth]]}}
+
+{{Modifier|GradiantDetails=to bottom, #44FF44, #006600|TextColor=#DDFFDD|Name=[[Super Epic Mode]]|Details=The version of R:FF during the April Fools 2024 Event. It uses an older build on the game, and has many unique entities.}}
+
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00FFFF|TextColor=#DDFFFF|Name=[[April Fools 2026]]|Details=Play R:FFR like it was during its April Fools event! This build of the game will not be updated and progress will not save.}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #7700BB, #000000|TextColor=#AA00FF|Name=[[Alpha & Shadowpocalypse]]|Details=The shadows are free. Either survive until room 1000 or survive 3 [[SHA-200]].|Obtainment=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]}}
+
+|-|Negative Modifiers=
+'''Negative Modifiers:'''
+{{Locked Modifier|GradiantDetails=to bottom, #FF0000, #660000|TextColor=#FF9999|Name=Chaos Mode|Details=Entities from any part of the game (Excluding unreleased entities) can spawn no matter what section you are in.|Obtainment=[https://www.roblox.com/badges/2629617543515841/Power-Failure Power Failure]}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #FF9999, #FF4444|TextColor=#FF6666|Name=Endless Red Rooms|Details=The [[Red Rooms]] will trigger upon starting the game and will never end.|Obtainment=[https://www.roblox.com/badges/3208268682917747/Insanity Insanity.], [https://www.roblox.com/badges/3062052687568452/Caving-In Caving In], [https://www.roblox.com/badges/1786174360214330/Prohibited-Zone Prohibited Zone], AND [https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction Executive Dysfunction]}}
+
+{{Modifier|GradiantDetails=to bottom, #9999FF, #5555FF|TextColor=#CCCCFF|Name=Need For Speed|Details=All entities excluding [[Mouth]] will have their speed doubled. This includes [[Claustrophobia]].}}
+
+{{Modifier|GradiantDetails=to bottom, #CC5555, #992222|TextColor=#FFAAAA|Name=All Outta Stuff|Details=No [[Items]] other than batteries will spawn.}}
+
+{{Modifier|GradiantDetails=to bottom, #323232, #111111|TextColor=#FFFFFF|Name=Less To Hide|Details=Lockers will appear less.}}
+
+{{Modifier|GradiantDetails=to bottom, #AA5599, #773344|TextColor=#FFAADD|Name=Are You.. Supposed To Be Here?|Details="Special" [[Entities]] will spawn at times.}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #DD0000, #660000|TextColor=#FF8888|Name=You're In My Way.|Details=[[D-20]] becomes unkillable and will spawn in every room.|Obtainment=[https://www.roblox.com/badges/1396742298128730/Depth Depth]}}
+
+{{Modifier|GradiantDetails=to bottom, #222222, #000000|TextColor=#FFFFFF|Name=Lights Out|Details=Every light will be broken.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Stay Alert|Details=Timer spawns get triggered upon opening the first door.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Halt|Details=Void-90 has no spawn restrictions and has an increased spawn rate.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Prime Time|Details=Most variants start spawning more often.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=New Camera|Details=Entities no longer produce camera static.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=II Hate This|Details=[[A-20ii]], [[A-200ii]], [[D-35ii]], and [[D-60ii]] can spawn naturally, along with a few other rare entities.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Perfection Required|Details=You have permanent one health, V-Boosters will not change this.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Life-Link|Details=Every player’s health is affected by one another, this means if someone’s health (or max health) increases/decreases, everyone’s health will match.}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=The Arsonist|Details=Every hiding spot will be occupied by [[M-134]].|Obtainment=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Clocks Ticking|Details=A timer will constantly be active after opening the First door, opening doors adds time to the clock, if it reaches 0, [[X-000|There will be no survivors.]]}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Landlord|Details=[[Claustrophobia]] will always start attacking after 1-2 seconds upon entering a locker, no matter what.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Paranoia|Details=Most entities spawn more often.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Impatient|Details=[[Void|Void wall]] is now 3 rooms behind you instead of 10.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Totally Not Insane|Details=Fakeout entity sounds can start playing.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=That Hurts!|Details=All damage taken is transformed into malicious damage.}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Debuggin|Details=Only Debug bricks spawn. Have Fun.}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=Oh the Horrors|Details=Your speed is capped at 8 without the ability to sprint, and your starter inventory is locked only to the "Strange Lighter".|Obtainment=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]}}
+
+|-|Positive Modifiers=
+'''Positive Modifiers:'''
+{{Modifier|GradiantDetails=to bottom, #FFFFFF, #999999|TextColor=#FFFFFF|Name=Lights On|Details=Lights will be at full brightness and cannot be turned off.}}
+
+{{Modifier|GradiantDetails=to bottom, #4f1806, #3B0F00|TextColor=#984400|Name=Backpack|Details=The max amount of most items is doubled.}}
+
+{{Modifier|GradiantDetails=to bottom, #91D48A, #79BE71|TextColor=#218200|Name=Healthy|Details=Walkspeed is set to default Roblox walkspeed of 16.}}
+
+{{Modifier|GradiantDetails=to bottom, #2F8A06, #216800|TextColor=#2A9F00|Name=Vitality|Details=Players heal 1HP per second permanently.}}
+
+|-|Misc Modifiers=
+'''Misc Modifiers:'''
+{{Modifier|GradiantDetails=to bottom, #000000, #444444|TextColor=#FFFFFF|Name=Solstice|Details=Messages will now only appear above your head instead of the regular chat system.}}
+
+|-|Old/Removed Modifiers=
+'''Old/Removed Modifiers:'''
+{{Modifier|GradiantDetails=to bottom, #AAFFAA, #00DD00|TextColor=#FFFFFF|Name=We Speak for the Trees|Details=Previous name for <span style= "color:#000000">Solstice</span>}}
+</tabber>
+
+==Related Badges==
+{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]|Description=Why must this happen to me.|Obtainment=Encounter and survive [[D-60ii]].}}
+{{Badge|Image=The Apocalypse (Badge).png|Name=The Apocalypse|Description="Is.. Is it over yet..?" You weren’t supposed to last this long. Enable and survive the "Alpha & Shadowpocalypse" modifier.|Obtainment=Reach door 1000, or Survive 3 [[SHA-200]]s with the [[Alpha & Shadowpocalypse]] Modifier Enabled.}}
+
+{{BrowseNavBox}}
+[[Category:Browsing]]

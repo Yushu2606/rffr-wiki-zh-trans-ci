@@ -1,0 +1,35 @@
+{{Headphones}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-246Placeholder.gif|frameless|link=UI-246]]
+|entity_image=UI-246.png
+|previous_entity=[[UI-220]]
+|next_entity=[[UI-269]]
+|type=后退者<br>反弹者
+|appears_at=I-246+
+|damage=秒杀
+|related_monsters=[[D-180]]
+|sound1=<center>激活 '''已调整'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音 '''音量极高'''</center><center>[[File:UI-246.wav]]</center>}}
+
+== 描述 ==
+'''UI-246''' 是你在[[Section Interchange|交汇区]]中可能遇到的第11个实体，更多信息如下。
+
+== 行为 ==
+当'''UI-246'''生成时，它会播放名为「Horror Race」的乐曲，和所有其他位于I区的实体一样。如果当前存在更多实体，它会播放同一首乐曲，但音高更高、速度更快。
+它会出现在房间中央，向前冲刺约4秒后折返，向初始房间来回反弹数次，最终会在门的位置消失。
+
+== 攻略与提示 ==
+当你听到或看到它时请立刻躲藏，在它消失前保持隐蔽状态。
+
+== 你知道吗 ==
+* 它的音效听起来像是低音增强版的UI-5。
+* 和大多数UI区实体一样，'''UI-246''' 是作为玩笑内容加入的。
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Section UI]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Super Epic Mode]]

@@ -1,0 +1,51 @@
+{{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mori</Span>}}
+{{ArticleBackground|File=Unnamed .png}}{{InfoBox:Entity
+|entity_name=[[File:Morb.gif|frameless|link=Mori]]
+|entity_image=<gallery>
+IdleMori.webp|Design 
+JumpMori.webp|Jumpscare Face
+</gallery>
+|previous_entity=[[A-200]]<br>[[D-250]]<br>[[M-200]]<br>[[Mouth]]
+|next_entity=[[False Witness]]<br>[[Mortis]]
+|claustrophobia=No
+|appears_at=Anywhere in the [[Unnamed Sector]]/Rarely after 500/anytime in SUPER EPIC MODE
+|type=Rusher
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|gun_effect=None
+|behavior=
+|speed=depends on how far the player is
+|damage=Instant Death
+|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[D-35]]<br>[[E-30]]
+|caption-entity_image=:Skull:
+|sound1=<center>Spawn '''Unnamed Sector'''</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>Spawn '''After 500''' </center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>Spawn '''SUPER EPIC MODE''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>Far Ambience</center><center>[[File:MoriFar.mp3]]</center>
+|sound5=<center>Close Ambience</center><center>[[File:MoriClose.mp3]]</center>
+|sound6=<center>Jumpscare</center><center>[[File:Morijump.mp3]]</center>}}
+
+==Description==
+'''Mori''' will be an entity that you will easily find in the [[Unnamed Sector]], rarely after 500, and anytime in [[Super Epic Mode]].
+
+==Mechanics==
+When '''Mori''' spawns, it will flicker the lights before rushing to the door from voidwall at moderate speed, despawning right after hitting it, he will speed up the further u go.
+
+here are more things he can do:
+
+* he will have a chance to spawn without flickering the lights past door 50
+
+* he will have a chance to attack from the front once you are past 100
+
+* he has a chance of becoming a rebounder, rushing to the door, falling back, then rush back to the main room past door ???
+
+==Strategies==
+* Just hide when you hear his ambience.
+
+==Trivia==
+Mori can invade outside the unnamed sector when you are past door 500
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Table Affected]]
+[[Category:Rusher]]
+[[Category:Invader]]

@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: #4B0000;">D-120 (Sanguine Scribble)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=请勿与'''Rooms Re-Established'''中的D-120混淆。}}{{InfoBox:Entity
+|entity_name=[[File:Blud.gif|frameless|link=D-120]]
+|entity_image=D120.gif
+|previous_entity=[[D-60]]<br>[[D-60i]]
+|next_entity=[[D-140]]
+|nicknames=Sanguine Scribble（血色涂鸦）
+|appears_at=在D区中打开D-120之后任意房间的门时随机出现。
+|type=后退者
+|behavior=挡住最新生成房间的门，随后沿路折返穿过各个房间，击杀所有视野范围内的玩家。
+|claustrophobia=否
+|gun_effect=可被射击，但无任何效果
+|locker_snipe=是
+|speed=0.5 间/秒（慢）
+0.6 间/秒（处于红区中时）|damage=秒杀（柜击伤害为每秒250伤害）
+|related_monsters=[[A-85]]<br>
+[[A-120]]<br>
+[[A-200]]<br>
+[[D-5]]<br>
+[[SHA-120]]
+|sound1=<center>生成</center><center>[[File:D-120Spawn.mp3]]</center>
+|sound2=<center>在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中生成</center><center>[[File:D-120_Spawn_SEM.mp3]]</center>
+|sound3=<center>D-120 环境音效</center><center>[[File:D-120Ambience.mp3]]</center>|sound4=<center>跳杀</center><center>[[File:D-120Jumpscare.mp3]]</center>|sound5=<center>消失</center><center>[[File:D-120Despawn.mp3]]</center>}}
+
+== 描述 ==
+'''D-120'''是你在D区中会遇到的第六个实体。它的行为几乎与A-120和A-200完全一致，但危险性要高得多，你可在本页面了解相关详情。此处将呈现有关'''D-120'''的更多信息。它也是《Rooms: Found Footage》中第四个涂鸦类实体，排在A-200i之后，M-120之前。
+
+== 机制 ==
+D-120会在当前房间的门后方生成，同时发出敲击声。一段时间后，D-120会沿路折返穿过各个房间，随后不久消失。所有被D-120看到的玩家都会被跳杀并死亡。如果你试图打开被D-120挡住的门，会无法开启。
+
+如果[[Red Rooms|红区]]当前处于激活状态，'''D-120'''只会给玩家1,5秒的时间躲藏，之后就会开始折返。
+
+== 攻略与技巧 ==
+* 尽管属于涂鸦类实体，'''D-120'''不会在玩家离开柜子时折返追捕玩家，也不会自行反弹。这意味着如果'''D-120'''已经从你所在的房间经过，你就可以安全离开柜子继续推进了。
+* 如果[[D-60i]]处于激活状态，你应当小心前往主房间，因为[[D-60i]]破门时'''D-120'''有可能会生成，你应当留意屏幕震动，或者仔细聆听'''D-120'''<nowiki/>的环境音效，避免被其偷袭致死。
+* 当'''D-120'''从[[Red Rooms|红区]]中出现时，最好多躲藏几秒，因为[[D-60]]可能也会到来，'''D-120'''的音效可能会让你难以听清D-60的声音，你也可以选择躲在前一个房间里。
+* 如果'''D-120'''出现在[[Section D|D区]]废弃场景中带架子的房间里，最好躲在前一个房间，因为该房间里的柜子距离太远，要是你没注意到走到了破损柜子旁，你很可能没有足够时间换到另一个柜子，进而被'''D-120'''击杀。
+
+* '''D-120'''<nowiki/>的击杀半径比大多数实体都要大，因此最好等它至少离你有一个房间远的时候再出来。
+* 如果你不确定'''D-120'''是否存在，可以留意重复、近乎有节奏的镜头晃动。这是因为'''D-120'''会根据自身音效的音量大小震动镜头。如果你无法依靠声音提示进行判断（大概率是其他实体的声音掩盖了'''D-120'''<nowiki/>的音效），这一特征可以帮你确认'''D-120'''是否就在附近。
+
+* 在[[Red Rooms|红区]]中，'''D-120'''的威胁性会大幅提升，因为它的等待时间更短、移动速度更快。应对这一情况的方法是：打开一扇门后，你应当立刻走到新房间门的视野范围之外，以防'''D-120'''生成。这会为你带来更大的优势，因为'''D-120'''采用射线检测判定玩家位置。
+** 一旦你听到它的声音，要么冲刺冲进柜子，要么在听到它的生成音效后立刻进入柜子。
+
+== 冷知识 ==
+* '''D-120'''与[[M-120]]是目前仅有的不会反弹的scribbles（涂鸦类实体），同时也是目前少数没有任何'''I变种'''的实体。
+* '''D-120'''由血液构成。
+* '''D-120'''有极低概率被[[SHA-120]]替代。
+* '''D-120'''拥有一个速度远快于普通版本、且会反弹的Admin变种。
+
+
+==画廊==
+<gallery>
+File:ScareD-120aaa.gif|D-120的跳杀
+File:OLD D-120.png|出现在[[Super Epic Mode|Super Epic Mode（超史诗模式）]]中的D-120。
+</gallery>
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]

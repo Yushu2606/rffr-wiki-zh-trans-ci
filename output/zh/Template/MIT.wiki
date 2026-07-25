@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本作品基于[https://opensource.org/licenses/MIT MIT 许可证]授权。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:MIT license files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

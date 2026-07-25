@@ -1,0 +1,81 @@
+__NOTOC__
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">暗影挑战</span>}}
+{{InfoBox:Entity
+|entity_name=暗影挑战
+|entity_image=SCDoor.png
+|sound1=<center>生成</center><center>[[File:BossDespawn.mp3]]</center>
+|sound2=<center>语音</center><center>[[File:ShadowChallangeVoices.mp3]]</center>
+|sound3=<center>预热音效1</center><center>[[File:SCBuildUp1.mp3]]</center>
+|sound4=<center>预热音效2</center><center>[[File:SCBuildUp2.mp3]]</center>
+|sound5=<center>启动音效</center><center>[[File:VoiceDrone2.mp3]]</center>
+|sound6=<center>开始音效</center><center>[[File:SCStartSfx.mp3]]</center>
+|sound7=<center>环境音效1</center><center>[[File:RRSound1.mp3]]</center>
+|sound8=<center>环境音效2</center><center>[[File:RRSound2.mp3]]</center>
+|sound9=<center>环境音效3</center><center>[[File:RRSound3.mp3]]</center>
+|sound10=<center>环境音效4</center><center>[[File:SCMain.mp3]]</center>}}
+
+== 描述 ==
+* '''暗影挑战'''是游戏的秘密挑战，会将所有房间变为紫色，并使部分实体被暗影感染，其中[[SHA-200]]必定会至少生成一次。该挑战还拥有4个专属实体，分别为[[SHA-1]]、[[SHA-2]]、[[SHA-3]]与[[SHA-4]]。
+
+* '''暗影挑战'''共有3种不同的触发方式。
+
+** 第一种：任意区的1200号房间之后，每扇门有1/666的概率触发。
+
+** 第二种：若你从3000号之前的任意房间前往3333号房间，便会触发。
+
+** 第三种：当你在任意区传送到5980号房间后，会在6010号附近的位置触发。
+*** 若当前有活跃实体，它会等待该实体消失后才会生成。
+
+* 即使当前有活跃实体，'''暗影挑战'''也可以生成，但它会等待所有实体消失后才会开始预热。若满足触发条件，会传来一声低沉的闷响，随后所有灯光熄灭，对讲机中会传出语音。 
+
+* 过渡阶段不会有任何实体生成。预热结束后，一切都将变为紫色，意味着挑战已开始，挑战将持续整整666个房间。
+
+== 实体 ==
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.webp|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.webp|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
+{{!}}}
+
+==应对策略==
+* 当[[SHA-1]]生成时，一旦看到它引发的屏幕震动就立刻尝试躲藏。它的lockersnipe（柜狙攻击）仅造成非致命的低额每秒伤害，无需担心。在你的躲藏点等待，直到[[SHA-1]]检查完你当前躲藏位置前一个房间内所有被标记的点位——因为当它检查完该房间内所有躲藏点后，会先前往门的位置再折返。如果你躲在门附近，可以利用这一机制。
+* 当[[SHA-140]]或[[SHA-55]]折返时，尽量不要使用安全点位。它采用了特殊的寻路系统：不会像[[SHA-1]]那样使用常规实体寻路逻辑，而是会直接前往下一个蓝色柜子/蓝色重型柜子/白色储物柜。只有当你完全确认自己不在它的行进路径上时，才可使用安全点位。
+* 一旦看到[[SHA-60]]产生的静电就立刻冲刺躲藏，它的lockersnipe会造成秒杀。请确认[[SHA-2]]没有生成后，再安全离开躲藏点。
+* [[SHA-30]]、[[SHA-35]]、[[SHA-55]]、[[SHA-180]]和[[SHA-200]]没有lockersnipe机制；[[SHA-1]]、[[SHA-2]]、[[SHA-4]]和[[SHA-85]]的lockersnipe非致命；而[[SHA-140]]的lockersnipe会扣除你大量生命值。你可以利用这些信息获得优势。
+
+== 冷知识 ==
+* ''暗影挑战的语音内容为：Alert…Alert…Alert…Alert…Warning…（警报……警报……警报……警报……警告……）'' ''Bypass detected. Warning…Core reprogramming…（检测到绕过行为。警告……核心重编程中……）''  ''Deploy, diagnose. Deploy, diagnose, Resonant singularity…（部署，诊断。部署，诊断，共振奇点……）''  ''Resonant singularity. Priority alert: Internal stabilization teams…（共振奇点。优先警报：内部稳定小队……）''  ''deploy sterilizers…Alert…（部署消杀装置……警报……）''  ''Alert…Alert…Alert…Alert…（警报……警报……警报……警报……）''
+* [[SHA-7]]、[[SHA-22]]、[[SHA-150]]、[[SHA-300]]、[[Overseer|SHA-0]]、[[LAPSE-1]]、[[LAPSE-2]]、[[LAPSE-60]]和[[LAPSE-200]]是[[Alpha & Shadowpocalypse|阿尔法与Shadowpocalypse（暗影天启）]]修饰符的专属实体，因此在暗影挑战中完全不会生成。
+** 不过在'''暗影挑战'''中，[[SHA-7]]、[[SHA-22]]和[[SHA-150]]可被[[SHA-4]]生成。
+
+==徽章==
+{{Badge|Image=666 666 666 (Badge).png|Name=666 666 666|Description=秘密成就：完成“暗影挑战”活动。授予“黑暗之心”与“完美主义者”神器武器|Obtainment=完成暗影挑战。}}

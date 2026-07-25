@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-70 (???)</span>}}
+{{Upcoming}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-70
+|entity_image=Placeholder.webp
+|previous_entity=[[SHA-60]]
+|next_entity=[[SHA-85]]
+|nicknames=???
+|gun_effect=该暗影无法被枪击
+|appears_at=[[Alpha & Shadowpocalypse|A&SP（阿尔法与暗影灾变）]]
+|type=??? 
+|claustrophobia=???
+|behavior=???
+|speed=???
+|locker_snipe=???
+|damage=???
+|related_monsters=[[M-70]]}}
+
+== 描述 ==
+???
+
+== 行为 ==
+???
+
+== 攻略与提示 ==
+???
+
+== 冷知识 ==
+???
+
+== 画廊 ==
+<gallery>
+File:Placeholder.webp
+</gallery>

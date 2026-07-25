@@ -1,0 +1,51 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">A-20ii (Omega Smiler)</span>}}
+{{Modifier Exclusive|II Hate This, [[Super Epic Mode]], 或 [[April Fools 2026]]}}
+{{Headphones}}
+{{InfoBox:Entity
+|entity_name=[[File:A20iiPlaceHolder.png|frameless|link=A-20ii]]
+|entity_image=<gallery>
+NewA20ii.png|II Hate This 外观
+A-20ii.png|Super Epic Mode 外观
+AfA20ii.png|April Fools 2026 外观
+</gallery>
+|appears_at=A-020+(?)（[[Super Epic Mode]]/[[April Fools 2026]] 修饰符）
+开启'''II Hate This'''修饰符时可在任意位置出现
+|nicknames=Omega Smiler（欧米茄微笑者）
+|claustrophobia=否
+|behavior=冲向门并将其撞碎，随后检查一个随机柜子。
+|gun_effect=无
+|damage=秒杀
+|speed=5-6间/秒
+|related_monsters=[[A-20]]<br>[[A-20i]]
+|locker_snipe=是 '''II Hate This'''<br>否 '''Super Epic Mode/April Fools 2026
+|type=冲刺者<br>柜子检查者
+|sound1=<center>生成（Super Epic Mode/April Fools 2026）</center><center>[[File:A20iiSpawn.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:A-20iiAmbience.mp3]]</center>
+|sound3=<center>跳杀</center><center>[[File:A-20iiJumpscare.mp3]]</center>}}
+
+==描述==
+'''A-20ii''' 是[[Super Epic Mode]]中首批ii变体之一，外形类似旧版[[A-20i]]但呈黄色，管理员也可以生成该实体。
+
+==机制==
+<tabber>
+|-|II Hate This=
+'''II Hate This：'''
+一旦生成，它会先发出轻微但清晰可闻的声响，随后冲向当前房间，撞到门后会在房间中央停留数秒，接着前往最近存在蓝色柜子的房间，撞上随机一个蓝色柜子，将其炸毁后消失。
+
+|-|Super Epic Mode=
+'''Super Epic Mode：'''
+它生成时，会让玩家屏幕出现静电效果，就像有实体靠近一样，随后冲来撞破门，等待数秒后检查一个随机柜子，和[[M-60]]的机制类似。
+</tabber>
+
+==你知道吗==
+* 在[[April Fools 2026]]活动中，它会在A-020房间强制生成。
+** 开启'''II Hate This'''修饰符时也会触发同样效果。
+* II Hate This模式下的'''A-20ii'''是[[A-20i]]吃了太多辣椒后的产物。——别吃太多辣椒，不然你可能会变成a-20ii
+{{EntityNavBox}}
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Section A]]
+[[Category:Loud Entities]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Omega Variation]]

@@ -1,0 +1,6 @@
+;说明
+:将页面标记为消歧义页面，为页面添加横幅并将其归类至[[:Category:Disambiguations]]。
+;语法
+:在消歧义页面顶部添加<code>{{t|disambiguation}}</code>。
+
+<includeonly>[[Category:Notice templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

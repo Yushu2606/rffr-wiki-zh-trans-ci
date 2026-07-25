@@ -1,0 +1,62 @@
+{{Removed|reason=E Section Invasion was limited, and has ended.}}
+{{ArticleBackground|File=EINVASION.png}}
+{{EventInfobox
+|title=[[File:InvasionEventTitle.png|frameless|link=E Section Invasion Event]]
+|image=<gallery>
+E Section Invasion Thumbnail.png|Thumbnail
+EINVASION.png|No overlay
+</gallery>
+|next_event=[[Perfection Event 2/13/26]]
+|timeline=8/17/2025 - 9/20/2025
+|rewards=Radiant Experimental Flashlight
+|entities=[[E-10]]<br>[[E-60]]
+}}
+
+==Overview==
+E Section Invasion Event was an event that started 08/17/25 and has ended at 09/20/25.. The event was about surviving 2 invaders: [[E-10]] and [[E-60]], surviving it the player would be awarded with the [https://www.roblox.com/badges/3124983362195746/Sector-Breach| Sector Breach] Badge that would give '''Experimental Flashlight''', that is triple of the normal flashlight's battery life but need 5 batteries to fully recharge. It also has a Shakable/Radiant Variant.
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60anim.gif|center|150px|link=E-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}}}
+
+==Gallery==
+{{CollapsibleBox
+|Title=GALLERY
+|Content=
+<gallery>
+E Section Invasion Thumbnail.png|<span style="text-shadow: 0 0 5px yellow; color: yellow;>The Invasion Event Thumbnail</span>
+The Invasion Thumbnail 4 Days.png|4 Days Remain thumbnail.
+The Invasion 3 Days Left.png|3 Days Remain thumbnail.
+Invasion 2 Days Left.png|2 Days Remain thumbnail.
+The Invasion Final Day.png|<span style="text-shadow: 0 0 5px red; color: red;">Final Day thumbnail.</span>
+The Invasion 5 Hours Remain.png|Five Hours Remain thumbnail.
+E Section Invasion 4 Hours.png|Four Hours Remain thumbnail.
+E Section Invasion 3 Hours.png|Three Hours Remain thumbnail.
+E Section Invasion 2 Hours.png|Two Hours Remain thumbnail.
+E Section Invasion 1 Hour.png|One Hour Remains thumbnail.
+SectorBreachAwarded.jpg|A player being awarded the Sector Breach Badge
+</gallery>
+}}
+
+==Badges==
+{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment=Survive [[E-10]] or [[E-60]] in E Section Invasion Event. '''Unobtainable.'''}}
+
+==Trivia==
+* Both [[E-10]] and [[E-60]] had a 1 in 2500 chance to spawn at the start of the event, the rarity was bought down as the event went on, the chances were:
+** 1 in 2500 (Start of Event)
+** 1 in 2000 (5 Days Left)
+** 1 in 1750 (3 Days Left)
+** 1 in 1600 (Last Day)
+** 1 in 1500 (Final 4 Hours)
+** 1 in 1350 (Final Hour)
+** 1 in 690 (Final Minute)
+* [[E-60]] got his design changed mid-event
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

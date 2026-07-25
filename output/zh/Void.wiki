@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: white;"> Void（主权者）</span>}}
+{{ArticleBackground|File=Voiding3.png}}
+{{InfoBox:Entity
+|entity_name=Void
+|entity_image=<gallery>
+NewVoid.png|Void的常规形态
+Voidwall.jpg|Void的虚空墙形态
+Humanvoid.jpeg|Void的实体形态
+</gallery>
+|nicknames=主权者
+|appears_at=A/D/M/E-010及之后（虚空墙形态生成起点）<br>A/D/M/E-1200及之后（Void-90形态生成起点）<br>任意位置（虚空之眼形态）
+|type=A-90克隆体
+|behavior=吞噬之前的房间，接触到的玩家会被秒杀（虚空墙形态）<br>对玩家发起跳杀（跳杀形态）<br>提示玩家停止移动，若玩家不听从则造成90点伤害（Void-90形态）
+|speed=待公布
+|gun_effect=无
+|damage=秒杀（虚空墙形态）<br>0（虚空之眼形态）<br>90（Void-90形态）<br>60（实体形态）
+|related_monsters=[[Overseer]]}}
+
+== 描述 ==
+Void是一种拥有4种不同形态（？）的实体，所有形态如下所列。
+
+== 机制 ==
+如上所述，Void拥有4种可用于对抗玩家的不同形态。
+
+<tabber>
+|-|虚空墙=
+'''虚空墙：'''<br>虚空会在玩家当前位置后方10个房间处生成。玩家每打开一扇门，虚空就会吞噬它前方的一个房间。如果玩家触碰到虚空，会被直接秒杀。
+
+|-|虚空之眼=
+'''虚空之眼：'''<br>玩家打开门后有小概率触发该形态，虚空会现身试图惊吓玩家，随后会快速退去消失。这是唯一不会击杀玩家的形态。
+
+|-|Void-90=
+'''Void-90：'''<br>在任意区通过第1200扇门后，虚空有概率以该形态现身。它出现时会显示在玩家屏幕上，1到2秒后，你会收到消息“STOP（停下）”，如果玩家停止移动就会安全，可以继续前进，但如果玩家拒绝停下，虚空就会发动攻击，对玩家造成高额伤害。如果玩家死于该形态的虚空攻击，会看到一个专属的跳杀。
+
+Void-90还会在多人游戏中攻击抛下队友的排头玩家。
+
+|-|实体形态=
+'''实体形态：'''<br>请查阅[[Player Controlled#Corporeal_Void|玩家可控角色]]
+</tabber>
+
+== 冷知识 ==
+
+* Void的旧脸部形象仍可在[[Unnamed Sector|无名区域]]的死亡界面上看到。
+
+== 画廊 ==
+<gallery>
+File:Voideyesingame.jpg|游戏内的旧版虚空之眼
+File:Void.png|Void的旧设计
+File:NewVoidStop.png|Void-90的停止标识
+File:VoidHand.png|Void-90攻击玩家时显现的手
+File:VoidSlash.png|Void-90攻击玩家时的斩击特效
+File:Unnamed_Sector_death_screen.webp|游戏内仍可见的Void旧脸部形象（[[Unnamed Sector|无名区域]]死亡界面）
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Stationary]]
+[[Category:Scarer]]
+[[Category:Entity Type Mix]]
+[[Category:Harmless]]

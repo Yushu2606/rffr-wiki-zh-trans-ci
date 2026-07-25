@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px yellow, 0 0 65px yellow; color: yellow;">D-55ii (Omega Motormouth)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
+{{Modifier Exclusive|II Hate This}}
+{{InfoBox:Entity
+|entity_name=[[File:Newer 55ii tittle.png|frameless|link=D-55ii]]
+|entity_image=<gallery>
+File:Actual 55ii.png|New Design
+File:JokeD-55.png|Old Design
+</gallery>
+|caption-entity_image=Watch out, your gonna crash- VRHOOOOOOOOOOOOOOOOM
+|appears_at=Anywhere with the '''II Hate This''' Modifier enabled
+|nicknames=D-55ii<br>Omega Motormouth<br>"Joke D-55"
+|type=Fallbacker<br>Locker Checker
+|claustrophobia=No
+|gun_effect=None
+|behavior=Will spawn with an sound of a car starting up and it will start breaking gray lockers of the rooms
+|damage=Instant Death
+|speed=Very Fast
+|locker_snipe=No
+|sound1=<center>Spawn</center><center>[[File:D55iispawn.mp3]]</center>
+|sound2=<center>Old Far Ambience</center><center>[[File:jokeD55Far.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:D55iiclose.mp3]]</center>
+|related_monsters=[[D-55]]<br>[[D-55i]]
+|sound4=<center>Jumpscare Sound</center><center>[[File:D55iiscare.mp3]]</center>}}
+
+<tabber>
+|-|New=
+'''New:'''
+== Description ==
+'''D-55ii''' is one of the many ii variants, being the Omega Variant of [[D-55]].
+
+== Behavior ==
+It will display a yellow subtitle saying "<span style="text-shadow: 0 0 5px yellow; color: yellow;">You hear a car starting up...</span>", followed by a sped-up car starting sound, 2 seconds later it will spawn from the door and fall back while breaking gray lockers and brown cabinets, after some time passes, it will start playing its ambiance again from behind you, once it reaches the main room, it will smash the door down and fall back again, destroying all gray lockers in the main room and every hiding spot in the previous rooms. this will repeat 5-15 times, it will also leave a trail of yellow fire behind, similar to [[D-55i]]'s.
+
+== Strategies & Tips ==
+* Hide as fast as possible in a blue locker or under a table once you hear his spawn sound.
+* try to rush to the main room as soon as possible, delaying will only cause you to get damaged by the fire it leaves behind.
+
+|-|Old=
+'''Old:'''
+== Description ==
+'''D-55ii''' is an admin-only entity; it works almost the same as [[D-55]], except it's faster and seems to break more lockers.
+
+== Behavior ==
+When '''D-55ii''' spawns, it will make an car starting sound with an text saying "<span style="text-shadow: 0 0 5px black; color: hotpink;">You hear a car starting up...</span>", after that he will spawn from behind the door and starts breaking all gray lockers while falling back, it will despawn once it reaches Voidwall.
+If it finds a player, that player will instantly die.
+
+== Strategy & Tips ==
+* Be sure to be near blue lockers or white cabinets when the text appears, since '''D-55ii''' will rush as soon the text appears, giving almost no time to hide.
+* '''D-55ii''' has a very big hitbox compared to other entities, so make sure to stay hidden until you can no longer hear its close Ambience.
+* '''D-55ii''' will usually be spawned by Admins with the intention of ending your run, since '''D-55ii''' gives a few seconds of reaction. So if someone spawns '''D-55ii''' in your run without any warning and you still manage to survive '''D-55ii''', be aware, because you should have died, and whoever spawned '''D-55ii''' will probably spawn another hard entity to attempt to kill you.
+</tabber>
+
+== Gallery ==
+<gallery>
+JokeD-55Scare.gif|Old Jumpscare
+</gallery>
+
+{{EntityNavBoxAdmin}}
+[[Category:Fallbacker]]
+[[Category:Omega Variation]]
+[[Category:Locker Checker]]
+[[Category:Loud Entities]]
+[[Category:Rebounder]]
+[[Category:Table Affected]]

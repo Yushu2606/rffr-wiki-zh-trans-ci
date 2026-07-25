@@ -1,0 +1,7 @@
+{{Spacer}}
+以下为与其他模板类别无关的模板，例如[[:Category:Notice templates|通知模板]]或[[:Category:Navbox templates|导航框模板]]。
+----
+<center>''以下是属于该分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Templates]]

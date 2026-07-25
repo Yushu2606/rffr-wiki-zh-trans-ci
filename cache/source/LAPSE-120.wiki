@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-120 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Upcoming}}
+{{InfoBox:Entity
+|entity_name=LAPSE-120
+|entity_image=Placeholder.webp
+|previous_entity=[[SHA-85]]<br>[[LAPSE-60]]
+|next_entity=[[SHA-140]]<br>[[LAPSE-200]]
+|nicknames=???
+|type=???
+|behavior=???
+|speed=???
+|appears_at=???
+|locker_snipe=???
+|gun_effect=No Lapse can be shot
+|claustrophobia=???
+|damage=???
+|related_monsters=[[SHA-120]]}}
+
+== Description ==
+'''LAPSE-120''' is one of the many Lapse entity you may encounter, serving as an I variant to [[SHA-120]].
+
+== Behavior ==
+???
+
+== Strategy & Tips ==
+* ???
+
+== Trivia ==
+* ???
+
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>

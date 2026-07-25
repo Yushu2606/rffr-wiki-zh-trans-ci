@@ -1,0 +1,7 @@
+{{Spacer}}
+'''冲刺者'''类实体是指所有从[[Void|虚空]]出发、向当前房间移动的实体。
+----
+<center>''以下是属于该分类的所有条目。''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

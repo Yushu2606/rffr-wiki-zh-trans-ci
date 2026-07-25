@@ -1,0 +1,38 @@
+{{ArticleBackground|File=MultiSectional.gif}}
+{{DISPLAYTITLE:X-000 (Father Death)}}
+{{Modifier Exclusive|Clocks Ticking}}
+{{InfoBox:Entity
+|entity_name=X-000
+|entity_image=FatherDeath.png
+|appears_at=When the player runs out of time while using the '''Clocks Ticking''' Modifier
+|nicknames=Father Death
+|type=Aimscripter<br>Run ender
+|claustrophobia=No
+|behavior=Will Aimscript to the player once they run out of time
+|speed=Slow
+|gun_effect=None
+|damage=Instant Death
+|related_monsters=[https://doors-game.fandom.com/wiki/The_Backdoor#Haste Haste (DOORS)]|sound1=<center>Main Soundtrack</center><center>[[File:Stress.mp3]]</center>}}
+
+==Description==
+'''X-000''' will be the entity that appears once you run out of time with the '''Clocks Ticking''' Modifier, it being a run ender if spawned
+
+==Mechanics==
+Once the player fails to add time to the clock and it reaches 000, '''X-000''' will spawn, making the atmosphere red and chasing the player from behind, being able to be seen/going through walls, it will kill the player once it reaches them.
+
+==Strategies==
+* Open doors to add to the clock
+** if you fail, you are dead, there is no surviving '''Father Death'''.
+*** this means that, unlike Haste from DOORS, once '''X-000''' is active, there is no way to deactivate him
+
+==Trivia==
+'''X-000''' was originally going to be '''E-000'''
+
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Modifier Exclusive]]

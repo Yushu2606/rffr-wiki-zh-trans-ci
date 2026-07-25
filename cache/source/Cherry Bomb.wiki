@@ -1,0 +1,31 @@
+{{Removed|reason=Got replaced by [[Pipe Bomb]]}}
+{{InfoBox:Entity
+|entity_name=Cherry Bomb
+|entity_image=CherryBomb.png
+|previous_entity=[[DCAT-55]]
+|next_entity=[[Mori]]
+|appears_at=Anytime In Super Epic Mode (Removed, Now only by admins)
+|type=Stationary
+|behavior=Will spawn in the middle of the room with a sound like a time bomb, after some seconds it will explode
+|speed=None
+|claustrophobia=No
+|damage=Instant Death (Explosion)
+|related_monsters=[[Pipe Bomb]]
+|caption-entity_image=Cherry Bomb! *kaput*}}
+
+==Description==
+'''Cherry Bomb''' Will be an entity very common in the '''Super Epic Mode''' Game mode. With the aim of blowing up the lockers/cabinets in the room
+
+==Mechanics==
+'''Cherry Bomb''' will spawn 
+no the middle of the room, with a sound of time bomb, after some seconds it will explode, breaking all lockers in the room he was.
+
+==Strategies==
+Hide when it spawns or just get out of the sight.
+
+==Trivia==
+Cherry Bomb before would say "Cherry Bomb!" before exploding, but the audio was deleted.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]

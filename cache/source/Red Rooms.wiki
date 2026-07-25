@@ -1,0 +1,173 @@
+__NOTOC__
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">Red Rooms</span>}}
+{{ArticleBackground|File=RRBack.jpg}}
+{{InfoBox:Entity
+|entity_name=Red Rooms
+|entity_image=RRDoor.jpg
+|sound1=<center>Ambience 1</center><center>[[File:RRSound1.mp3]]</center>
+|sound2=<center>Ambience 2</center><center>[[File:RRSound2.mp3]]</center>
+|sound3=<center>Ambience 3</center><center>[[File:RRSound3.mp3]]</center>
+|sound4=<center>Ambience 4</center><center>[[File:RRSound4.mp3]]</center>}}
+
+== Description ==
+Upon opening ''Room 900'' in any given [[Sections|Section]], everything turns red and you are presented with the text, "Insanity sets in..." This is the beginning of the '''Red Rooms'''. The '''Red Rooms''' is a portion between ''Rooms 900-1000''(The [[Unnamed Sector]] being a few rooms after you obtain the keycard and the exit). During the '''Red Rooms''', spawn rates are higher for all [[Entities]] including [[:Category:I Variation|I Variants]]. Some front [[Entities]] are faster. This is considered to be the final hurdle before the goal. The S.P.A.W.N. Checkpoint system does not have the ability to teleport anywhere within the Red Rooms. When opening the ''1000th door'', the '''Red Rooms''' will end, and you will be presented with long hallway. Going to ''Room 1001'' will give you choice of either continuing the run or ending it for good, giving you an ending. Each [[Sections|Section]] has its own ending, however, only 3 of these endings can be achieved at the moment.
+
+<tabber>
+|-|Section A=
+'''Section A:'''
+<h2>Overall changes</h2>
+*[[A-20]] gets completely replaced by [[A-20i]] And it can spawn passively.
+*[[A-60]] can spawn passively, and when arrived, lingers much shorter.
+*[[A-60i]] is almost guaranteed to spawn from every [[A-60]] attack
+**It can stack multiple times, up to 4 times in total.
+*[[A-85]] Only gives 2 seconds to hide and travels much faster
+*[[A-135]] arrives and checks lockers much faster
+*[[A-200]] arrives much faster, almost guaranteed to rebound
+
+<h2>Strategies</h2>
+* Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* In Section A, the main difficulty is given by [[A-135]], due to arriving so quickly and checking lockers very hastily. You can use a strategy with [[A-60]], because when [[A-60]] slams the door, it won't summon any entities. You can use this strategy only if there're no blue lockers nearby.
+* Don't hide under tables at any circumstances. Even if [[A-135]]([[A-135i|i]]) can't see you under tables, the rest of the entities sure do.
+* Turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities like [[A-60]].
+
+<h2>Gallery</h2>
+<gallery>
+RRA.jpg|A Section A room seen during '''Red Rooms'''
+</gallery>
+
+
+
+|-|Section D=
+'''Section D:'''
+<h2>Overall changes</h2>
+*[[D-5]] bangs the door faster than normal.
+*[[D-35]] can spawn passively.
+*[[D-35i]] has a higher chance to spawn from every [[D-35]] attack.
+**It can stack multiple times, up to 4 times in total.
+**It can’t locker snipe.
+*[[D-60]] can spawn passively, it will react to its despawn faster, has more chance to fake despawn. 
+*[[D-60i]] spawn chance Decreases drastically, as well as losing ability to stall while rebounding
+*[[D-120]] gives less time to hide.
+
+<h2>Strategies</h2>
+* Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* Prioritize hiding in heavy blue lockers because these can be checked by only one entity, [[D-140]], which is by itself very rare
+** Even if ''D-140'' is active, you can always wait for it to check blue lockers and let it despawn until continuing forward
+* If any entities who disable Claustrophobia ([[D-5]], [[D-55]], [[D-140]]) are active at the moment, try using it as your advantage. For example, if you hear a horde of entities approaching you and one of these entities are active, you can wait in the locker without re-entering it.
+* Turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities like [[D-60]] and [[D-140]].
+
+<h2>Gallery</h2>
+<gallery>
+RRD.jpg|A Section D room seen during '''Red Rooms'''
+</gallery>
+
+
+
+|-|Section M=
+'''Section M:'''
+<h2>Overall changes</h2>
+*[[M-22]] can spawn passively and is faster.
+*[[M-60]] can spawn passively, as well as checking a locker much faster
+**It also has a decent chance to bust door open instead of slamming into it.
+*[[M-120]] mimic mechanic changes:
+**when mimicking as '''35-D''', will guaranteed spawn its clone  
+**when mimicking as '''55-D''', will check every single locker in a room instead of leaving some behind
+*[[M-150]] gives only 1.7 seconds of reaction time and checks faster 
+*[[M-200]] will give less seconds to hide like [[A-85]], moves faster and gives more damage.
+
+<h2>Strategies</h2>
+* Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* Prioritize hiding in heavy lockers to avoid [[M-200]], which in Red Rooms, gives you only 1 second to react and hide to locker. It's also extremely common here, so you better take the advice seriously.
+** Even if certain entities, like ''gray'' [[M-150]] or sometimes [[M-120]](135-A and 55-D mimics) are active, you can either try going 2 rooms back from the main room or hide in heavy blue lockers in previous room.
+* If you're getting combo-ed by [[M-22]] and [[M-60]], better hide in previous room to avoid [[M-60]] checking your locker(chance to check YOUR locker is very small but it still exists) and [[M-22]] preventing you to move since it's extremely fast in '''Red Rooms.'''
+* Turn off or atleast lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities like [[M-22]].
+
+<h2>Gallery</h2>
+<gallery>
+Placeholder.webp|A New Section M room seen during '''Red Rooms'''
+RRM.jpg|An old Section M room seen during '''Red Rooms'''
+</gallery>
+
+
+
+|-|Unnamed Sector=
+'''Unnamed Sector:'''
+<h2>Overall changes</h2>
+* [[Mortis]], [[False Prophet]], and [[Lunge]] now spawn regularly.
+* [[Mori]], [[Mortis]], [[False Witness]], [[False Prophet]], [[Tackle]], [[Lunge]] and [[False-60]] barely wait before going to the main room, and are a bit faster.
+* [[Execution]] breaks out its monitor quicker, and checks lockers faster.
+* [[False-120]] falls back quicker, and is faster.
+* [[False-200]] can no longer despawn by hiding for long enough, and the doors required to make it despawn have been slightly increased.
+
+<h2>Strategies</h2>
+Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* It's recommended to always hide in previous room immediately after opening the door, since [[False-60]]'s and maybe even [[Execution]]'s spawn sound is completely silenced by Red Rooms ambient. Wait until [[Claustrophobia]] sets in, and after that, leave (if nothing spawned ofc).
+* If [[False-200]] spawned, you SHOULD use mobility boost items, because now, it can easily outrun you. The recommended items are: Adrenaline, Coffee, Orange Soda. 
+** If you HAVEN'T GOT MOBILITY BOOST ITEMS, you SHOULD slam the locker and run until the speed boost dissapeared and hide in a locker. Repeat this until [[False-200]] despawns.
+* Turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities like [[Tackle]], [[False Witness]] and [[False-60]].
+
+<h2>Gallery</h2>
+<gallery>
+RRU.jpg|An Unnamed Sector room seen during '''Red Rooms'''
+</gallery>
+
+
+|-|Section E=
+'''Section E:'''
+<h2>Overall changes</h2>
+* [[E-30]] can now spawn passively, and is faster
+* [[E-60]] can spawn passively, is faster, and takes less to fall back
+* [[E-90]] can now spawn passively and is now able to do damage, though barely.
+* [[E-245]] can now spawn passively, is faster, takes less time to open its mouth, its Burning mechanic has insta-kill locker snipe and can no longer do its dodge mechanic.
+* [[E-10]] take less time to fall back, and are a lot faster
+* [[E-10i]] is faster
+* [[E-30i]] is faster
+* [[E-120]] is faster and does more damage
+* [[E-165]] isn't able to spawn at all
+* [[E-200]] is faster
+
+<h2>Strategies</h2>
+* hide as late as possible from [[E-30]], [[E-30i]] and [[E-60]], and use the extra hiding time to listen for any other entities that may be coming.
+** example being hiding from [[E-30]] as late as possible to listen for [[E-60]], or vise versa.
+* Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* spin around after entities despawn to check if [[E-90]] spawned, as the sound of the other entities might have covered his spawn sound, do this to prevent him from catching you off guard
+* Obviously listen for entities, but, try to listen for [[E-245]] specifically if you know there isn't anything active, as it is extremely fast.
+* Turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities like [[E-30i]], [[E-60]], and [[E-245]].
+
+<h2>Gallery</h2>
+<gallery>
+RRE.jpg|A Section E room seen during '''Red Rooms'''
+</gallery>
+
+
+
+|-|Alpha & Shadowpocalypse=
+'''Alpha & Shadowpocalypse:'''
+<h2>Overall changes</h2>
+* [[SHA-60]] despawns faster just like the regular [[A-60]] in the '''Red Rooms'''.
+* [[SHA-120]] fallbacks sooner like [[D-120]] and instantly fallbacks upon breaking the door. [[SHA-120]] is also faster.
+* [[SHA-22]] will have increased speed similar to '''Red Rooms''' [[M-22]].
+* [[SHA-7]] will be force spawned, and wont Despawn until door 1000 is reached.
+
+<h2>Strategies</h2>
+* Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
+* Stay hidden for a few seconds even after [[SHA-60]] despawn because it might spawn [[SHA-2]].
+* Hide soon/good timing to avoid getting snipe killed by [[SHA-120]], and time it to avoid getting damage from [[Claustrophobia]].
+* Hide and unhide quickly against [[SHA-22]] as it will be just fast as [[M-22]].
+* Stay near a locker at all times, since [[SHA-7]] will prevent you from hearing quiet entities like [[SHA-2]], [[SHA-4]], and [[SHA-60]].
+** additionally, completely turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities.
+</tabber>
+
+
+
+==BADGES==
+{{BadgeSectionA|Image=Insanity. (Badge).png|Name=Insanity.|Description=The nightmare is almost over.|Obtainment=Open door A-900.}}
+{{BadgeSectionD|Image=Caving In (Badge).png|Name=Caving In|Description=Mental breakdown.|Obtainment=Open door D-900.}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=Prohibited Zone|Description=THE VOICES. MAKE IT STOP.|Obtainment=Open door M-900.}}
+{{BadgeUnnamed|Image=SectorShutdown.png|Name=Sector Shutdown|Description=You caused this.|Obtainment=Get [[Red Rooms]] started by picking up the Strange keycard}}
+{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=Executive Dysfunction|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
+{{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks Insanity? No thanks.]|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

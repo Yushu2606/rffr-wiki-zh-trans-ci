@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px yellow, 0 0 65px yellow; color: yellow;">D-55ii（Omega Motormouth 欧米茄马达嘴）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
+{{Modifier Exclusive|II Hate This}}
+{{InfoBox:Entity
+|entity_name=[[File:Newer 55ii tittle.png|frameless|link=D-55ii]]
+|entity_image=<gallery>
+File:Actual 55ii.png|新设计
+File:JokeD-55.png|旧设计
+</gallery>
+|caption-entity_image=小心，你要被撞飞了——嗡呜——————————
+|appears_at=启用「'''II Hate This'''」修饰符的任意区域
+|nicknames=D-55ii<br>Omega Motormouth（欧米茄马达嘴）<br>“Joke D-55”
+|type=后退者<br>柜子检查者
+|claustrophobia=否
+|gun_effect=无效果
+|behavior=生成时会播放汽车启动的音效，随后开始破坏房间内的灰色柜子。
+|damage=秒杀
+|speed=极快
+|locker_snipe=否
+|sound1=<center>生成</center><center>[[File:D55iispawn.mp3]]</center>
+|sound2=<center>旧版远处环境音</center><center>[[File:jokeD55Far.mp3]]</center>
+|sound3=<center>近处环境音</center><center>[[File:D55iiclose.mp3]]</center>
+|related_monsters=[[D-55]]<br>[[D-55i]]
+|sound4=<center>跳杀音效</center><center>[[File:D55iiscare.mp3]]</center>}}
+
+<tabber>
+|-|新版=
+'''新版：'''
+== 描述 ==
+'''D-55ii'''是众多ii变种之一，为[[D-55]]的欧米茄变种。
+
+== 行为 ==
+它会显示黄色字幕：<span style="text-shadow: 0 0 5px yellow; color: yellow;">You hear a car starting up...（你听到了汽车启动的声音……）</span>，随后播放加速版的汽车启动音效，2秒后它会从门后生成并后退，同时破坏灰色柜子和棕色橱柜。一段时间后，它会再次从你的后方播放环境音效，抵达主房间后便会撞破门并再次后退，摧毁主房间内的所有灰色柜子以及之前房间里的所有躲藏点。该过程会重复5-15次，它还会在身后留下一串黄色火焰，效果与[[D-55i]]的类似。
+
+== 应对策略与技巧 ==
+* 听到它的生成音效后，请立刻躲进蓝色柜子或桌子下方。
+* 请尽快冲向主房间，拖延只会让你被它留下的火焰伤到。
+
+|-|旧版=
+'''旧版：'''
+== 描述 ==
+'''D-55ii'''是仅Admin可使用的实体；运作机制与[[D-55]]几乎一致，但速度更快，且会破坏更多柜子。
+
+== 行为 ==
+'''D-55ii'''生成时会播放汽车启动音效，同时显示字幕：<span style="text-shadow: 0 0 5px black; color: hotpink;">You hear a car starting up...（你听到了汽车启动的声音……）</span>，随后它会从门后生成，后退的同时破坏所有灰色柜子，抵达虚空墙时就会消失。
+如果它发现玩家，该玩家会被秒杀。
+
+== 应对策略与技巧 ==
+* 字幕出现时请确保你在蓝色柜子或白色储物柜附近，因为'''D-55ii'''会在字幕出现后立刻冲刺，几乎没有躲藏时间。
+* 相比其他实体，'''D-55ii'''的碰撞箱非常大，所以请确保完全躲好，直到完全听不到它的近处环境音为止。
+* '''D-55ii'''通常由管理员生成，目的是终结你的逃生，因为'''D-55ii'''仅会留出数秒反应时间。如果有人在你的逃生过程中毫无预警地生成了'''D-55ii'''，而你仍成功从'''D-55ii'''的袭击中存活，请务必当心：你本应在此死亡，生成'''D-55ii'''的人大概率会再生成一个高难度实体，试图将你击杀。
+</tabber>
+
+== 画廊 ==
+<gallery>
+JokeD-55Scare.gif|旧版跳杀
+</gallery>
+
+{{EntityNavBoxAdmin}}
+[[Category:Fallbacker]]
+[[Category:Omega Variation]]
+[[Category:Locker Checker]]
+[[Category:Loud Entities]]
+[[Category:Rebounder]]
+[[Category:Table Affected]]

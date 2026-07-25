@@ -1,0 +1,37 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|previous_entity=[[CAT-60]]
+|next_entity=[[Dorito]]
+|entity_name=CAT-120
+|entity_image=CAT-120.png|caption-entity_image= 喵
+|appears_at=超级史诗模式中A-120之后的任意位置。
+|nicknames=待公布
+|behavior=与[[A-120]]相同，但反弹后会立刻折返
+|damage=每秒200伤害
+|speed=与[[A-120]]相同(?)
+|related_monsters=[[A-120]]<br>
+[[A-135]]
+|claustrophobia=否
+|sound1=<center>播放音效</center><center>[[File:Dumbdrum.mp3]]</center>
+|sound2=<center>脚步声</center><center>[[File:CatEntity.mp3]]</center>
+|sound3=
+}}
+
+==描述==
+
+*'''CAT-120''' 可能是你在[[Super Epic Mode|超级史诗模式]]中遇到的第一个反弹者，如果你尚未遇到[[Tackle]]的话，它的机制实际上与[[A-120]]完全一致。
+
+==应对策略==
+
+遇到[[CAT-120]]时请躲入柜子，在它刚开始往回移动时请稍作等待，因为它可能会立刻折返。如果3秒后它仍未返回，你可以离开躲藏点稍作等候，直到你再次听到鼓点声；如果它没有再回来，即可安全前进。
+
+==你知道吗==
+
+待公布
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Admin Entities]]

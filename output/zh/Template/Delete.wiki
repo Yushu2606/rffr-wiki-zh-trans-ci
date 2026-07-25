@@ -1,0 +1,6 @@
+<includeonly>[[Category:Candidate for Deletion]]</includeonly>
+
+<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #FF0000, inset 0 0 15px #FF0000; background:#990000; margin-top: 20px; color:#FFF; border: 5px solid red; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+[[File:DeleteNotice.png|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}'''是[[:Category:Candidate for Deletion|待删除候选]]。这通常是出于开发者意愿、社区共识、页面名称有误或是描述的内容并不存在。如果你不希望该条目被删除，请前往[[Wiki Team Members|维基团队成员]]的留言墙联系他们。
+<br>
+<span style="font-size: 1.0em;">'''理由：{{{reason|在此处添加理由}}}'''</span></div></center><br/><noinclude>

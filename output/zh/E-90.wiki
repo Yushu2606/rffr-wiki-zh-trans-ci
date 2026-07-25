@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">E-90 (Espionage)</span>}}
+{{Suggested|[[User:CharlieTheGoober|Charlie]]}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-90
+|entity_image=<gallery>
+E90.png|模型
+E-90Eyes.png|眼睛
+</gallery>
+|previous_entity=[[E-60]]
+|next_entity=[[E-120]]
+|appears_at=E-090+
+|type=中立（致命）
+|claustrophobia=否
+|behavior=若玩家过长时间直视它，会对玩家造成眩晕效果
+|gun_effect=可被射击，但不会产生任何效果
+|speed=快
+|damage=5点伤害
+|related_monsters=
+|nicknames=间谍
+|sound1=<center>生成</center><center>[[File:E90Spawn.mp3]]</center>}}
+
+==描述==
+'''E-90'''是你在[[Section E|E区]]会遇到的第5个实体，玩家需要避免直视该实体。关于'''E-90'''的更多信息如下。
+
+==机制==
+'''E-90'''生成时会先播放一段可听见的哨声，随后会出现在随机方向的远处。如果玩家过长时间直视它，玩家的视野会逐渐变暗，直到'''E-90'''突然冲向玩家，致其失明并眩晕。
+
+==应对策略==
+* 听到'''E-90'''生成的声音时立刻原地转圈，找到它的位置后就不要再望向它所在的方向。
+* '''E-90'''不会立刻发起攻击，你可以利用这段反应时间。
+
+==你知道吗==
+* '''E-90'''是游戏中唯一一个不是由特效构成的3D实体。
+* '''E-90'''的设计灵感来源于《Sonic Saves Robloxia》中的一个彩蛋。
+* 最初'''E-90'''在投稿建议中被命名为'''E-5'''，但由于与[[E-10]]编号冲突而被更改。
+* '''E-90'''原本打算设计为2D实体，但为了让它和其他实体相比更独特、更有辨识度，最终改为了3D建模。
+* '''E-90'''尽管长有翅膀，但无法飞行，它仅仅是一个幻象。
+
+==画廊==
+<gallery>
+File:ConceptE90.webp|来自投稿论坛的'''E-90'''<nowiki/>概念设计稿
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]

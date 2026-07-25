@@ -1,0 +1,12 @@
+<includeonly>[[Category:Design not allowed]]</includeonly>
+<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #FF0000, inset 0 0 15px #FF0000; background:#000000; margin-top: 20px; color:#FFF; 
+border: 5px solid red; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+<div style="font-size:30px">[[File:DesignNotAllowed.png|center|225x225px|link=]]The designs mentioned below are [[:Category:Design not allowed|<span style="text-shadow: 0 0 5px red; color: red;"><u>'''NOT ALLOWED TO BE UPLOADED TO THIS WIKI.</u></span>]]'''
+</div>
+<br>
+<span style="font-size: 1.0em;">'''Design/s: {{{design|TBA}}}'''</span><br>
+
+<span style="font-size: 1.0em;">'''Reason/s: {{{reason|N/A}}}'''</span><br>
+
+<span style="font-size: 1.0em;">'''Exception/s: {{{exceptions|N/A}}}'''</span>
+</div></center><br/><noinclude>

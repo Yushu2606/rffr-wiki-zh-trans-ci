@@ -1,0 +1,187 @@
+{{DISPLAYTITLE:<span style="animation: m120i 5s infinite">M-120i (''???'')</span>}}
+{{Upcoming}}
+
+{{KevBox|note=put up this guys design again, you get smited down. -kev}}
+
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=M-120i
+|entity_image=<gallery>
+Placeholder.webp|████████
+Placeholder.webp|████████
+</gallery>
+|previous_entity=[[M-120]]
+|next_entity=[[M-134]]
+|appears_at=M-120 or after
+|type=Fallback.
+|behavior=TBA
+|gun_effect=TBA
+|claustrophobia=TBA (look at each mimic)
+|speed=TBA
+|damage=??? DPS (Look at each mimic)
+|locker_snipe=TBA (look at each mimic)
+|related_monsters=[[M-120]]
+|badges=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria Phantasmagoria]
+|sound2=<center>Ambience '''Recreation'''</center><center>[[File:M-120iAmbience.mp3]]</center>
+|sound1=<center>Spawning '''Recreation'''</center><center>[[File:M-120isound.mp3]]</center>
+|sound3=<center>Spawn Indicator</center><center>[[File:BossSpawn.mp3]]</center>
+|sound4=<center>Jumpscare Sound</center><center>[[File:M120iJump.mp3]]</center>}}
+
+==Description==
+???
+
+==Behavior==
+It will spawn in the middle of the current room, forming by taking energy from the door label, causing the lights to turn off. After its done forming it will wait a few seconds before falling back, the rest is unknown.
+
+<h2> Mimics </h2>
+<tabber>
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+|-|████████=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=???
+|entity_image=Placeholder.webp
+|nicknames=???
+|type=???
+|claustrophobia=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???}}
+
+<h2> Behavior </h2>
+???
+
+</tabber>
+
+==Strategies==
+???
+
+==Trivia==
+* [https://youtu.be/L0GkZYzxX1Y?si=U-2yC3CaSNZbd8vI Update Executive Teaser 4]
+
+==Gallery==
+<gallery>
+M-120_Hallway.png|M-120i Seen in a hallway 
+</gallery>
+
+==Badges==
+{{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=Phantasmagoria|Description=Encounter and survive an attack from ?????i|Obtainment=Encounter and survive '''M-120i''' '''Currently Unobtainable'''.}}
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:I Variation]]
+[[Category:Upcoming Entities]]
+[[Category:Boss]]

@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-1 (Apparition)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-1
+|entity_image=Better L-1.png
+|previous_entity=[[SHA-1]]
+|next_entity=[[SHA-2]]<br>[[LAPSE-2]]
+|nicknames=Apparition
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rusher<br>Locker Checker
+|behavior=Highlight random lockers and check them upon rushing to the main room
+|speed=fast
+|locker_snipe=Yes
+|gun_effect=No Lapse can be shot
+|claustrophobia=No
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]
+|damage=Instant Death (DPS snipe)<br>35-50~ (Lapse Plague)
+|related_monsters=[[SHA-1]]<br>[[M-60i]]|caption-entity_image=I'm very angry! >:C
+|sound1=<center>Ambience '''Recreation'''</center><center>[[File:Lapse1Ambi.mp3]]</center>}}
+
+== Description ==
+'''LAPSE-1''' is one of the many Lapse entity you may encounter, serving as an I variant to [[SHA-1]].
+
+== Behavior ==
+Upon spawning, LAPSE-1 will take on one of two mechanics.
+
+His first mechanic is putting a red outline with very faint red coloring on 75% of every hiding spot in every room. He will then rush forward and break the door, and break every highlighted locker. Functioning similary to SHA-1, but more aggressive and overall more difficult.
+
+His alternate mechanic is putting a stronger recoloring highlight of red without an outline on 1-3 lockers in every room. He will then break the door the same way he does in his other mechanic, and then check every locker he '''Didn't''' highlight. 
+
+In both mechanics, he breaks doors down, and breaks lockers he checks. He also has a chance to spawn SHA-2.
+
+== Strategy & Tips ==
+* [[Claustrophobia]] can attack while '''LAPSE-1''' active, so leave the locker when it is far from you.
+* quickly try to identify if '''LAPSE-1''' outlined or highlighted lockers and hide correctly.
+* '''LAPSE-1''' can't kill you if you are not fully hidden, and he also makes [[Claustrophobia]] take longer to attack. Use this to your advantage.
+* '''LAPSE-1''''s instakill can be avoided by dodge-rolling, use this in dire situations when no unmarked hiding spots are available! You will still be damaged as if you were being locker-sniped though.
+* '''LAPSE-1''' takes longer to reach the main room in the [[Section M]], so also use it as your advantage.
+
+== Trivia ==
+* '''LAPSE-1''' was released when [[Perfection Event 2/13/26]] started, alongside [[SHA-4]], [[SHA-7]], [[SHA-22]], [[SHA-150]], and the [[Overseer]]. 
+* In the [[April Fools 2026]] update, '''LAPSE-1''' replaces [[SHA-1]] in [[Alpha & Shadowpocalypse]] at door A-020.
+** However, It wont award you the badge.
+** This is no longer possible to reproduce due to the [[April Fools 2026]] event becoming a modifier, and [[Alpha & Shadowpocalypse]] modifier only being usable without other modifiers.
+
+==Gallery==
+<gallery>
+RedOutline.jpg|A locker being outlined by '''LAPSE-1'''.
+RedFull.jpg|A locker being Fully Highlighted by '''LAPSE-1'''.
+</gallery>
+
+== Badges ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Lapse_Entities|Lapse entity]].}}
+
+[[Category:Rusher]]
+[[Category:Locker Checker]]

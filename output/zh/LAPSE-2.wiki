@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-2 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法&暗影启示录]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-2
+|entity_image=Better L2.png
+|previous_entity=[[SHA-2]]<br>[[LAPSE-1]]
+|next_entity=[[SHA-3]]<br>[[LAPSE-3]]
+|nicknames=???
+|gun_effect=所有Lapse实体均无法被枪击
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=后退者
+|claustrophobia=否
+|behavior=与SHA-2基本一致，但几乎难以被听见，且可能连锁生成
+|speed=快
+|locker_snipe=是
+|damage=秒杀<br>35-50~（Lapse瘟疫）
+|related_monsters=[[SHA-2]]
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment 判断失误]}}
+
+== 描述 ==
+'''LAPSE-2''' 是[[Alpha & Shadowpocalypse|阿尔法&暗影启示录]]修饰符专属的众多实体之一，是[[SHA-2]]的Lapse变种。
+
+== 行为 ==
+它的行为几乎与[[SHA-2]]完全一致，只有少数区别：LAPSE-2会破坏途经的门，且几乎完全静音；只有当你离它极近或是与它处于同一房间时才能听到它的声音。不过它引发的屏幕震动要明显得多，你仍可通过这一特征察觉它。LAPSE-2在初次消失后还有概率再次生成，形成类似LAPSE-2“连锁”的效果。
+
+== 策略与提示 ==
+
+* 一旦看到屏幕震动请立刻躲藏，因为感染Lapse瘟疫比感染暗影瘟疫的后果要严重得多。
+* LAPSE-2消失后请先留在柜子里，确认它不会连锁生成再离开。
+
+== 你知道吗 ==
+TBA
+
+== 画廊 ==
+<gallery>
+File:L2_ingame.webp|'''LAPSE-2'''短暂经过的画面（低画质）
+</gallery>
+
+== 徽章 ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=判断失误|Description=遇到了一个……这根本不是######实体啊兄弟这是什么？|Obtainment=遇到并在[[Entities#Lapse_Entities|Lapse实体]]的攻击下存活。}}

@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">E-90 (Espionage)</span>}}
+{{Suggested|[[User:CharlieTheGoober|Charlie]]}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-90
+|entity_image=<gallery>
+E90.png|Model
+E-90Eyes.png|eyes
+</gallery>
+|previous_entity=[[E-60]]
+|next_entity=[[E-120]]
+|appears_at=E-090+
+|type=Neutral (Fatal)
+|claustrophobia=No
+|behavior=Stuns anyone that looks at it for too long
+|gun_effect=Can be shot, but does nothing
+|speed=Fast
+|damage=5 Damage
+|related_monsters=
+|nicknames=Espionage
+|sound1=<center>Spawn</center><center>[[File:E90Spawn.mp3]]</center>}}
+
+==Description==
+'''E-90''' will be the 5th entity you will encounter in [[Section E]], where the player must avoid looking at the instance. More info on '''E-90''' is shown below.
+
+==Mechanics==
+'''E-90''' will play an audible whistle before placing itself in the far distance in a random direction, if the player looks at it for too long, the player’s vision will darken until '''E-90''' suddenly charges at the player, blinding and stunning them.
+
+==Strategies==
+* Spin around once you hear '''E-90''' spawn, then refuse to look at '''E-90''''s direction once you locate it.
+* '''E-90''' doesn’t attack immediately, use that to your advantage.
+
+==Trivia==
+* '''E-90''' is the only 3D entity in the game that isn't made of effects.
+* '''E-90''' was inspired off of an easter egg in Sonic Saves Robloxia.
+* Originally, '''E-90''' was named '''E-5''' in their suggestion, this was changed due to clutter with [[E-10]].
+* '''E-90''' was almost going to be 2D, however was made 3D in an attempt to make them more unique and stand out from the rest of the entities. 
+* '''E-90''', despite having wings, is flightless, and is merely an apparition.
+
+==Gallery==
+<gallery>
+File:ConceptE90.webp|'''E-90'''<nowiki/>'s concept design from the suggestion forum.
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]

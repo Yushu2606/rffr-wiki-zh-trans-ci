@@ -1,0 +1,34 @@
+{{Stub}}{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False-120
+|entity_image=F-120.gif
+|previous_entity=[[False-60]]
+|next_entity=[[False-200]]
+|claustrophobia=No
+|appears_at=Past 59+ in the [[Unnamed Sector]]
+|type=Rebounder
+|behavior=Spawns from the front, then goes to the Void and comes back.
+|speed=Moderate
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|gun_effect=None
+|damage=Instant Death
+|related_monsters=[[A-120]]|sound1=<center>Ambience</center><center>[[File:F120Ambi.mp3]]</center>}}
+
+==Description==
+'''False-120''' will be one of the many Entities you may encounter within the [[Unnamed Sector]], being the False version of [[A-120]]
+
+==Mechanics==
+'''False-120''' will spawn behind the current door waiting a few seconds before rushing back to void wall, after it hits void wall it will return to the current door and slam on it before disappearing.
+
+==Trivia==
+False-120 used to be able to snipe, it being an instant kill
+
+==Gallery==
+<gallery>
+File:F-120 outside a locker.png|'''False-120''' outside a locker.
+File:False-120 Standing outside a door.png|Ditto, but outside a door
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]

@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px purple; color: purple;">D-60 (Multi Faced Darkness)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=Not to be confused with D-60 from '''Rooms Re-Established''', D-60 from '''Rooms: Reopened''', D-60 from '''Rooms of Insanity''' or with D-60 from '''Remastered Rooms'''.}}{{InfoBox:Entity
+|previous_entity=[[D-55]]<br>[[D-55i]]
+|next_entity=[[D-60i]]<br>[[D-120]]
+|entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
+|entity_image=<gallery>
+D60anim.gif| Mostly Accurate Animation
+D-60face1.png|First Face
+D-60Face2.png|Second Face
+D-60face3.png|Third Face
+D-60face4.png|Fourth Face
+D-604.png|Fifth Face
+D-60Face7.png|Sixth Face
+D-60Face8.png|Seventh Face
+</gallery>
+|caption-entity_image=scary
+|appears_at=D-060+
+|nicknames=Multi Faced Darkness
+|claustrophobia=No (Delays)
+|locker_snipe=Yes
+|gun_effect=None
+|type=Rusher<br>Rebounder
+|behavior=Screams before slamming the door. Either can start screaming again or makes wind noise and despawns.
+|damage=Instant Death (70 damage locker snipe) (20 MAL. Damage)
+|speed=750 studs/s (rushing)
+30 studs/s to 600 studs/s (fall-back phase)
+|related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
+|sound1=<center>First Far</center><center>[[File:D-60far1.mp3]]</center>
+|sound2=<center>Second Far</center><center>[[File:D-60far2.mp3]]</center>
+|sound3=<center>Close</center><center>[[File:D-60Close.mp3]]</center>
+|sound4=<center>Face Collision</center><center>[[File:D-60FaceCollision.mp3]]</center>
+|sound5=<center>Rebound Warning</center><center>[[File:D-60Rebound.mp3]]</center>
+|sound6=<center>Jumpscare</center><center>[[File:D-60Jumpscare.mp3]]</center>
+|sound7=<center>Despawn</center><center>[[File:D-60Die.mp3]]</center>
+|sound8=<center>First Far Origin</center><center>[[File:Radio Static Loop.mp3]]</center>
+|sound9=<center>Second Far Origin</center><center>[[File:A60farsoundorigin.mp3]]</center>
+|sound10=<center>Close Origin</center><center>[[File:85soundorigin.mp3]]</center>
+|sound11=<center>Face Collision Origin</center><center>[[File:Doomspire BrickBattle Sfx.mp3]]</center>
+|sound12=<center>Despawn Origin</center><center>[[File:Choral Winds 4.mp3]]</center>}}
+
+==Description==
+'''D-60''' is an [[Entities|entity]] made of two purple faces that constantly clash with eachother.
+
+==Behavior==
+When '''D-60''' spawns in, it will make increasingly-loud screaming sounds while rushing to the main room.
+After '''D-60''' has slammed into the door (or smashed it if in the Depth(Cave) part of the D section), it has a chance to either move to the middle of the room, or wait at the door for a short while before rebounding (skipping the waiting phase).
+
+If '''D-60''' decides to wait in the middle of the room, it's audio will fade out as it makes itself into a black ball. '''D-60''' cannot locker snipe you during this phase, but is still lethal.
+After '''D-60''' has waited for 5-7 (2.5 in [[Red Rooms]]) seconds at the middle, there's a 1 in 9 chance (1 in 4 in [[Red Rooms]]) that he will return back to his original state, moving to the door and then moving backwards, speeding up as time goes on.
+
+If '''D-60''' isn't lucky enough, he will instead make a loud wind sound while getting brighter, before fading out completely. This means '''D-60''' has despawned.
+
+==Strategy & Tips==
+*When you hear '''D-60'''<nowiki/>'s sound, wait nearby any hiding spot (reccomended a white/blue one because of [[D-55]] comboes) until the static has been on your screen for ~1 second(s).
+*After, get into your locker, and wait for it to leave. If '''D-60''' decides to rebound, you can open a few rooms while hes moving backwards. Just repeat this process!
+*It may be harder to hear it in the Red Rooms so beware of your screen's static
+
+==Trivia==
+*'''D-60''', when sniping; Gives you 20 MAL. DMG, aka Malicious Damage (Malicious Damage takes off of your Maximum Health and can be removed with V-Boosters).
+*'''D-60'''<nowiki/>'s locker snipe cannot kill you unless you were under 50 health when it happened.
+*'''D-60'''<nowiki/>'s rebound limit is '''7''' rebounds on maximum.
+*'''D-60'''<nowiki/>'''<nowiki/>'s''' jumpscare sound is Bonnies jumpscre from the FNAF Fangame, The Joy of Creation.
+
+==Gallery==
+<gallery>
+File:D-60 1.png|Old First Face
+File:D-622.png|Old Second Face
+File:D-63.png|Old Third Face
+File:D-64.png|Old Fourth Face 
+File:D-60Face5.png|Old Fifth Face
+File:D-60Jumpscareee.gif|D-60's Jumpscare
+</gallery>
+
+
+{{EntityNavBoxSectionD}} [[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Table Affected]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]

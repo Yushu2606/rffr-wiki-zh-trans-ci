@@ -1,0 +1,243 @@
+__NOTOC__
+该模板用于在维基百科中[[Wikipedia:WP:CITE|引用来源]]，专为非新闻类网站来源设计，可替代已弃用的[[Wikipedia:Template:Web reference|Template:Web reference]]，仅提供小写参数。
+
+关于使用模板为维基百科条目添加开源网页内容引用的通用说明，可参见[[Wikipedia:Citation templates|引用模板]]页面。
+
+本页面使用来自[[w:c:Wookieepedia:Template:Cite web|Wookieepedia]]的[[w:Wikia:Licensing|知识共享许可]]内容
+
+== 使用方法 ==
+;对页面作者信息知之甚少的场景的通用格式（带当前日期）
+<tt><nowiki>{{Cite web |url= |title= |accessdate=</nowiki>{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}<nowiki> |format= |work= }}</nowiki></tt>
+
+;使用姓氏、名字参数的格式（带当前日期）
+<tt><nowiki>{{Cite web |url= |title= |accessdate=</nowiki>{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}<nowiki> |last= |first= |authorlink= |coauthors= |date= |year= |month= |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}</nowiki></tt>
+
+;使用作者参数的格式（带当前日期）
+<tt><nowiki>{{Cite web |url= |title= |accessdate=</nowiki>{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}<nowiki> |author= |authorlink= |coauthors= |date= |year= |month= |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}</nowiki></tt>
+
+;使用非链接格式访问日期、姓氏、名字的格式
+<tt><nowiki>{{Cite web |url= |title= |accessmonthday= |accessyear= |last= |first= |authorlink= |coauthors= |date= |year= |month= |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}</nowiki></tt>
+
+;使用非链接格式访问日期、作者的格式
+<tt><nowiki>{{Cite web |url= |title= |accessmonthday= |accessyear= |author= |authorlink= |coauthors= |date= |year= |month= |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}</nowiki></tt>
+
+;全参数横向格式（删除你不需要的参数即可）
+<tt><nowiki>{{Cite web |url= |title= |accessdate= |accessmonthday= |accessdaymonth = |accessyear= |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |format= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= }}</nowiki></tt>
+
+;全参数纵向格式
+<pre>{{Cite web
+| url = 
+| title = 
+| accessdate = 
+| accessdaymonth = 
+| accessmonthday = 
+| accessyear = 
+| author = 
+| last = 
+| first = 
+| authorlink = 
+| coauthors = 
+| date = 
+| year = 
+| month = 
+| format = 
+| work = 
+| publisher = 
+| pages = 
+| language = 
+| archiveurl = 
+| archivedate = 
+| quote = 
+}}</pre>
+
+=== 必填参数 ===
+* '''url'''：在线内容的URL。
+* '''title'''：在线内容的标题。
+''若要生成[[Wikipedia:WP:CONTEXT#Dates|带维基链接]]的访问日期：''
+:* '''accessdate'''：访问内容的完整日期，使用[[Wikipedia:ISO 8601|ISO 8601]] YYYY-MM-DD格式，例如“accessdate = {{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}”。''不得添加维基链接''
+''若要生成不带维基链接的访问日期：''
+:* '''accessmonthday'''和'''accessyear'''：访问内容的月份与日期，例如“accessmonthday = May 10”，<u>以及</u>访问内容的年份，例如“accessyear = 2005”。生成效果为：''Retrieved on May 10, 2006.（于2006年5月10日访问）''
+:* '''accessdaymonth''' 和 '''accessyear''': 条目被访问的日期中的月和日，例如“accessmonthday = 10 May”，<u>以及</u>条目被访问的年份，例如“accessyear = 2005”。生成效果为：''Retrieved on 10 May 2006.''（''检索于2006年5月10日''）
+
+=== 可选参数 ===
+* '''author''': 作者
+** '''last''' 与 '''first''' 配合使用可生成 <code>last, first</code> 格式的作者名
+** '''authorlink''' 可与 '''author''' 或 '''last''' & '''first''' 配合，链接到对应的维基百科条目。不适用于URL。
+** '''coauthors''': 可添加额外作者
+* '''date''': 完整的发布日期，推荐使用 [[Wikipedia:ISO 8601|ISO 8601]] YYYY-MM-DD 格式，例如 ''2006-02-17''。可添加内链。
+** 或： '''year''': 发布年份，以及 '''month''': 发布月份的名称。如果你还有具体日期，请改用 ''date'' 参数。不得添加内链。
+* '''format''': 文件格式，例如PDF。未指定时默认为HTML。
+* '''work''': 若该条目属于某部更大型的作品，请填写该作品的名称。
+* '''publisher''': 发布方（如有）。
+* '''pages''': 格式为 ''pp. 5–7''：填写起始页码，结束页码为选填。该参数用于列出引用内容对应的页码，而非书籍的总页数。对于PDF格式的来源尤为有用，可以在URL末尾添加 <code>#page=''number''</code> 锚点直接链接到对应页面：
+*: <code><nowiki>pages = [http://www.example.org/file.pdf#page=123 p. 123]</nowiki></code>
+* '''language''': 发布内容使用的语言（无需填写“English”，因为这是默认值）。
+* '''archiveurl''': 条目存档位置的URL（必须搭配 '''archivedate''' 使用）
+* '''archivedate''': 条目被存档的日期（必须搭配 '''archiveurl''' 使用），格式为 [[Wikipedia:ISO 8601|ISO 8601]] YYYY-MM-DD，例如 ''2006-02-17''。不得添加内链，系统会自动为其添加链接。
+* '''quote''': 来自在线条目的相关引述。
+
+== 示例 ==
+;部分标准使用场景
+* <nowiki>{{Cite web
+ | author=Doe, John
+ | title=My Favorite Things Part II
+ | publisher=Open Publishing
+ | date=2005-04-30
+ | work=Encyclopedia of Things
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+}}</nowiki><br/>→ <span style="background:white">{{cite web | author=Doe, John | title=My Favorite Things Part II | publisher=Open Publishing | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org | accessdate=2005-07-06 }}</span>
+
+* <nowiki>{{Cite web
+ | author=Doe, John
+ | title=My Favorite Things Part II
+ | date=2005-04-30
+ | work=Encyclopedia of Things
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+}}</nowiki><br/>→ <span style="background:white">{{cite web | author=Doe, John | title=My Favorite Things Part II | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org | accessdate=2005-07-06 }}</span>
+
+* <nowiki>{{Cite web
+ | author=Doe, John
+ | title=My Favorite Things Part II
+ | date=2005-04-30
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+}}</nowiki><br/>→ <span style="background:white">{{cite web | author=Doe, John | title=My Favorite Things Part II | date=2005-04-30 | url=http://www.example.org | accessdate=2005-07-06}}</span>
+
+* <nowiki>{{Cite web
+ | author=Doe, John
+ | title=My Favorite Things Part II
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+}}</nowiki><br/>→ <span style="background:white">{{cite web | author=Doe, John | title=My Favorite Things Part II | url=http://www.example.org | accessdate=2005-07-06}}</span>
+
+* <nowiki>{{Cite web
+| title=My Favorite Things Part II
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+}}</nowiki><br/>→ <span style="background:white">{{cite web | title=My Favorite Things Part II | url=http://www.example.org | accessdate=2005-07-06}}</span>
+
+* <nowiki>{{Cite web
+ | url=http://www.nfl.com/fans/
+ | title=Digest of Rules
+ | publisher= National Football League
+ | accessdate=2005-07-06
+}}</nowiki><br>→ <span style="background:white">{{cite web | url=http://www.nfl.com/fans/
+ | title=Digest of Rules | publisher= National Football League | accessdate=2005-07-06 }}</span>
+
+;不带链接的检索日期（使用 accessmonthday 与 accessyear 参数）
+* <nowiki>{{Cite web
+ | title=My Favorite Things Part II
+ | work=Encyclopedia of Things
+ | url=http://www.example.org/
+ | accessmonthday=July 6
+ | accessyear=2005
+}}</nowiki><br/> → <span style="background:white">{{cite web 
+ | title=My Favorite Things Part II
+ | work=Encyclopedia of Things
+ | url=http://www.example.org/
+ | accessmonthday=July 6
+ | accessyear=2005
+}}</span>
+
+;使用 format 参数
+* <nowiki>{{Cite web 
+| title=List of psychotropic substances under international control
+| publisher = International Narcotics Control Board
+| url=http://www.incb.org/pdf/e/list/green.pdf
+| format = PDF
+| accessdate=2005-07-06
+}}</nowiki><br/> → <span style="background:white">{{cite web 
+| title=List of psychotropic substances under international control
+| publisher = International Narcotics Control Board | url=http://www.incb.org/pdf/e/list/green.pdf
+| format = PDF | accessdate=2005-07-06}}</span>
+
+;语言
+* <nowiki>{{Cite web
+ | author=Joliet, François
+ | title=Honnit soit qui mal y pense
+ | date=2005-04-30
+ | url=http://www.example.org/
+ | accessdate=2005-07-06
+ | language=French
+}}</nowiki><br/>→ <span style="background:white">{{cite web | author=Joliet, François | title=Honnit soit qui mal y pense | date=2005-04-30 | url=http://www.example.org | accessdate=2005-07-06 | language=French}}</span>
+
+;共同作者
+* <nowiki>{{Cite web | first=John | last=Doe | coauthors=Peter Smith, Jim Smythe | title=My Favorite Things Part II | publisher=Open Publishing | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2006-05-16 
+}}</nowiki><br/>→ <span style="background:white">{{cite web | first=John | last=Doe | coauthors=Peter Smith, Jim Smythe | title=My Favorite Things Part II | publisher=Open Publishing | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2006-05-16 }}</span>
+
+;无作者
+* <nowiki>{{Cite web | title=My Favorite Things Part II | publisher=Open Publishing | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2006-05-16 
+}}</nowiki><br/>→ <span style="background:white">{{cite web | title=My Favorite Things Part II | publisher=Open Publishing | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2006-05-16 }}</span>
+
+;无作者、无发布方
+* <nowiki>{{Cite web | title=My Favorite Things Part II | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2005-07-06
+}}</nowiki></br>→ <span style="background:white">{{cite web | title=My Favorite Things Part II | date=2005-04-30 | work=Encyclopedia of Things | url=http://www.example.org/ | accessdate=2005-07-06 }}</span>
+* <nowiki>{{Cite web | title=My Favorite Things Part II | date=2005-04-30 | url=http://www.example.org/ | accessdate=2005-07-06 }}</nowiki><br/>→ <span style="background:white">{{cite web | title=My Favorite Things Part II | date=2005-04-30 | url=http://www.example.org/ | accessdate=2005-07-06 }}</span>
+
+* <nowiki>{{Cite web 
+| title=List of psychotropic substances under international control
+| date=2005-04-30
+| url=http://www.incb.org/pdf/e/list/green.pdf
+| format = PDF
+| accessdate=2005-07-06
+| language=Greek 
+}}</nowiki><br/> → <span style="background:white">{{cite web 
+| title=List of psychotropic substances under international control | date=2005-04-30
+| url=http://www.incb.org/pdf/e/list/green.pdf | format = PDF | accessdate=2005-07-06
+| language=Greek }}</span>
+
+; 使用 archiveurl 与 archivedate 参数指代已失效但可通过归档站点访问的内容
+* <nowiki>{{Cite web
+| title=List of psychotropic substances under international control
+| date=2005-04-30
+| url=http://www.incb.org/pdf/e/list/green.pdf
+| format = PDF
+| accessdate=2005-07-06
+| archiveurl=http://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+| archivedate=2005-09-11
+}}</nowiki><br/> → <span style="background:white">{{cite web
+| title=List of psychotropic substances under international control
+| date=2005-04-30
+| url=http://www.incb.org/pdf/e/list/green.pdf
+| format = PDF
+| accessdate=2005-07-06
+| archiveurl=http://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+| archivedate=2005-09-11 }}</span>
+
+* <nowiki>
+{{Cite web
+|url=http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|title=Interview with Maggie Downs
+|date=2006-03-31
+|publisher=The Desert Sun
+|archiveurl=http://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archivedate=2006-04-26
+}}</nowiki><br/> → <span style="background:white">{{cite web
+|url=http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|title=Interview with Maggie Downs
+|date=2006-03-31
+|publisher=The Desert Sun
+|archiveurl=http://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archivedate=2006-04-26}}</span>
+
+; 使用 quote 参数
+* <nowiki>{{Cite web
+ | title = My Favorite Things Part II
+ | work = Encyclopedia of Things
+ | url = http://www.example.org/
+ | accessdate = 2005-07-06
+ | quote = Lorem ipsum dolor.
+}}</nowiki><br/>→ <span style="background:white">{{cite web
+ | title = My Favorite Things Part II
+ | work = Encyclopedia of Things
+ | url = http://www.example.org/
+ | accessdate = 2005-07-06
+ | quote = Lorem ipsum dolor.
+}}</span>
+
+; 无参数（报错）
+* <nowiki>{{Cite web}}</nowiki><br/>→ <span style="background:white">{{cite web}}</span>
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

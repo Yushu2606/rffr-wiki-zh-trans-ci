@@ -1,0 +1,7 @@
+{{Spacer}}
+'''柜子检查者'''类实体指所有会检查柜子的实体。
+----
+<center>''以下是归入该分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

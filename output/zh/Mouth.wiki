@@ -1,0 +1,176 @@
+{{DISPLAYTITLE:<span style="animation: mouf 4s infinite;">Mouth (A/D/M(I)/False/E-300)</span>}}
+<tabber>
+|-|基础=
+{{ArticleBackground|File=MultiSectional.gif}}
+{{NoteBox|note=请勿与《'''Rooms: Re-Established'''》中的'''A-300'''混淆}}
+{{InfoBox:Entity|entity_name=Mouth|entity_image=<gallery>
+MouthColorless.png|设定图
+A-300.png|A区 Mouth
+DSectionMouth.png|D区 Mouth
+MSectionMouth.png|M区 Mouth
+False300.png|无名区域 Mouth
+ESectionMouth.png|E区 Mouth
+Mouth.png|旧版A区 Mouth
+D mouth.png|旧版D区 Mouth
+M mouth.png|旧版M区 Mouth
+</gallery>
+|caption-entity_image=我要把你吃掉人类哈哈哈哈
+|previous_entity=[[A-200i]]
+------------------------
+[[D-250]]
+------------------------
+[[M-200]]
+------------------------
+[[False-200]]
+------------------------
+[[E-245]]
+|next_entity=[[D-5]]
+------------------------
+[[M-22]]
+------------------------
+[[M-340]]
+------------------------
+[[Mori]]
+------------------------
+[[E-10]]
+|gun_effect=无
+|nicknames=A/D/M(I)/False/E-300
+|appears_at=A/D/M(I)/E-300+
+|type=后退者<br>反弹者
+|behavior=当你试图打开后方有Mouth的门时，它会追逐你直到虚空墙处
+|speed=A/D-300（极慢）<br>M-300（快于玩家奔跑速度）
+|damage=秒杀|related_monsters=[[SHA-300]]
+|sound1=<center>生成</center><center>[[File:Mouthspawn.mp3]]</center>
+|sound2=<center>环境音效（'''[[Section A|A区]] Mouth'''）</center><center>[[File:Mouthambi.mp3]]</center>
+|sound3=<center>环境音效（'''[[Section D|D区]] Mouth'''）</center><center>[[File:DMouthAmbi.mp3]]</center>
+|sound4=<center>环境音效（'''[[Section M|M区]] Mouth'''）</center><center>[[File:MMouthAmbi.mp3]]</center>
+|sound5=<center>金属门碎裂</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound6=<center>跳杀音效（[[Section A|A区]]）</center><center>[[File:MouthJum.mp3]]</center>
+|sound7=<center>跳杀音效（[[Section D|D区]]）</center><center>[[File:DMouthScare.mp3]]</center>
+|sound8=<center>跳杀音效（[[Section M|M区]]）</center><center>[[File:M-300Scare.mp3]]</center>
+|sound9=<center>跳杀音效（[[Unnamed Sector|无名区域]]）</center><center>[[File:FalseMouthScare.mp3]]</center>
+|sound10=<center>跳杀音效（[[Section E|E区]]）</center><center>[[File:EMouthScare.mp3]]</center>
+|sound11=<center>[[Section A|A区]]/[[Section D|D区]] 原声</center><center>[[File:DEVOUR.mp3]]</center>
+|sound12=<center>[[Section M|M区]]/[[Section E|E区]] 原声</center><center>[[File:DEVOUREnraged.mp3]]</center>
+|sound13=<center>[[Unnamed Sector|无名区域]] 原声</center><center>[[File:Threshold of the Undefined.mp3]]</center>
+|sound14=<center>旧版原声</center><center>[[File:OldMouthOST.mp3]]</center>}}
+
+<h2>描述</h2>
+Mouth是一个你必须逃离的<s>BOSS</s>实体，仅会在任意区的300号房间之后生成，更多信息见下文。
+
+{{#tag:tabber
+|A区=
+'''A区：'''
+
+<h2>行为</h2>
+
+```
+'''A-300''' 会毫无预兆地生成在下一个房间的门后，'''A-300''' 生成的唯一提示是当玩家尝试开门时会收到消息“Something is blocking this door from opening...”（有东西挡住了这扇门，无法打开……）（如果此时有其他实体处于激活状态，'''A-300''' 会在2秒后直接破门，令上述实体消失）。片刻之后，'''A-300''' 会撞破房门，摧毁所有躲藏点，开始反向追击玩家。'''A-300''' 的速度比玩家行走速度快，但玩家可通过冲刺将其甩在身后。追击会持续到玩家抵达虚空所在的最远房间，或是'''A-300''' 与玩家距离过远——此时'''A-300''' 会在出口处反弹并折返，结束这场Boss战。任何被'''A-300''' 抓住的玩家都会立即死亡。
+
+<h2>策略与提示</h2>
+* 如果你尝试开门时出现提示“Something is stopping this door from opening.”（有东西挡住了这扇门，无法打开。），直接往远离门的方向跑即可。你甚至完全不用跑太快，因为'''A-300''' 的速度非常慢。 
+
+
+{{!}}-{{!}}
+Section D=
+'''D区：'''
+
+<h2>行为</h2>
+'''D-300''' 会毫无预兆地生成在下一个房间的门后，'''D-300''' 生成的唯一提示是当玩家尝试开门时会收到消息“Something is blocking this door from opening...”（有东西挡住了这扇门，无法打开……）（如果此时有其他实体处于激活状态，'''D-300''' 会在2秒后直接破门，令上述实体消失）。片刻之后，'''D-300''' 会撞破房门，摧毁所有躲藏点，开始反向追击玩家。'''D-300''' 的速度比玩家行走速度快，但玩家可通过冲刺将其甩在身后。追击会持续到玩家抵达虚空所在的最远房间，或是'''D-300''' 与玩家距离过远——此时'''D-300''' 会在出口处反弹并折返，结束这场Boss战。任何被'''D-300''' 抓住的玩家都会立即死亡。
+
+<h2>策略与提示</h2>
+* 如果你尝试开门时出现提示“Something is stopping this door from opening.”（有东西挡住了这扇门，无法打开。），直接往远离门的方向跑即可。你甚至完全不用跑太快，因为'''D-300''' 的速度非常慢。
+
+{{!}}-{{!}}
+Section M=
+'''M区：'''
+
+<h2>行为</h2>
+'''M-300''' 会毫无预兆地生成在下一个房间的门后，'''M-300''' 生成的唯一提示是当玩家尝试开门时会收到消息“Something is blocking this door from opening...”（有东西挡住了这扇门，无法打开……）（如果此时有其他实体处于激活状态，'''M-300''' 会在数秒后激活，令上述实体消失）。片刻之后，'''M-300''' 会撞破房门，摧毁所有躲藏点，开始反向追击玩家。'''M-300''' 的速度比玩家正常移动速度快，但在这段追逐流程中玩家会获得移动加速与无限体力。追击会持续到玩家抵达虚空所在的最远房间，此时'''M-300''' 会在出口处反弹并折返，结束这场Boss战。任何被'''M-300''' 抓住的玩家都会立即死亡。
+
+<h2>策略与提示</h2>
+* 如果你尝试开门时出现提示“Something is stopping this door from opening.”（有东西挡住了这扇门，无法打开。），请立刻转身，在它破门之前尽可能拉开距离。
+
+{{!}}-{{!}}
+Unnamed Sector=
+'''无名区域：'''
+
+<h2>行为</h2>
+当玩家抵达[[Unnamed Sector|无名区域]]内的第一个出口，走到长走廊尽头时，会被定在原地，视角自动转向身后，此时'''False-300'''会撞破玩家来时经过的门，穿过重重障碍向前追击玩家，直到玩家抵达第二个、也就是真正的出口。
+
+<h2>策略与提示</h2>
+* 追击过程中请使用你沿途获取的所有道具，尽可能拉开与它的距离
+** 请注意，连续使用多支Adrenaline Shots（肾上腺素针剂）会导致心脏病发作，请勿重复使用
+* 这场追击里'''False-300'''本身并不是主要威胁，沿途的障碍才是，请将更多注意力放在躲避障碍上。
+
+{{!}}-{{!}}
+Section E=
+'''E区：'''
+
+<h2>行为</h2>
+'''E-300'''会毫无预兆地生成在下一个房间的门后，其生成的唯一提示是玩家尝试开门时会收到消息：“Something is blocking this door from opening...（有东西挡住了这扇门，无法打开……）”（如果此时有其他激活的实体，'''E-300'''会在2秒后直接破门，让前述实体消失）。片刻之后，'''E-300'''会撞破房门，摧毁所有躲藏点，开始反向追击玩家。'''E-300'''的移动速度高于玩家的行走速度，但玩家可以通过冲刺将其甩在身后。追击会持续到玩家抵达虚空所在的最远房间，或是'''E-300'''与玩家距离过远——此时'''E-300'''会撞到出口后折返，有33%的概率再次躲在门后，等玩家走回主房间时重复触发追击。任何被'''E-300'''抓住的玩家会立刻死亡。
+
+<h2>策略与提示</h2>
+* 如果你尝试开门时弹出提示“Something is stopping this door from opening.（有东西挡住了这扇门，无法打开。）”，请立刻转身，在它破门之前尽可能拉开距离。
+* 第一次追击结束后，请在进入主房间前回满体力，以防它再次激活。
+}}
+
+<h2>冷知识</h2>
+* '''Mouth'''是唯一拥有'''6'''种变体的实体（目前已将[[SHA-300]]计入统计）。
+*实际上，Mouth确实会发出预警：门后会传来微弱的咆哮声。
+**该咆哮声在E区中会更加明显。
+* DEVOUR 原声曲目（追击主题曲）
+** https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyMraycast
+* Mouth的跳杀音效来源于《玩具熊的五夜后宫：安全漏洞》中的破碎奇卡
+**https://create.roblox.com/store/asset/9055267625 <-- 点击此处查看音效资源
+
+<h2>画廊</h2>
+<gallery>
+File:False-300_ingame.webp|游戏内出现的'''False-300'''
+File:MouthsScare.gif|跳杀动画（[[Section A|A区]]）
+File:DMouthJum.gif|跳杀动画（[[Section D|D区]]）
+File:M-300Scare.gif|跳杀动画（[[Section M|M区]]）
+F300Jump.gif|跳杀动画（[[Unnamed Sector|无名区域]]）
+File:ESectionMouthJumpscare.gif|跳杀动画（[[Section E|E区]]）
+File:MouthMessage.png|玩家尝试打开背后有Mouth的门时收到的提示消息。
+</gallery>
+
+<h2>徽章</h2>
+{{BadgeUnnamed|Image=Clipped Wings.png|Name=Clipped Wings（折翼）|Description=近在咫尺，却遥不可及。|Obtainment=在'''False-300'''的追击过程中死亡。}}
+
+|-|Section UI=
+'''UI区：'''
+{{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超史诗模式）]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-300
+|entity_image=UImouth.png
+|previous_entity=[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+|next_entity=[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+|appears_at=I-450+
+|type=后退者
+|claustrophobia=否
+|behavior=会在门后生成，破门后反向追击玩家，检查每一个柜子
+|speed=缓慢
+|damage=秒杀
+|related_monsters=???
+|nicknames=Mouth<br>I-300
+|sound1=<center>追击配乐</center><center>[[File:OldMouthOST.mp3]]</center>}}
+
+<h2>描述</h2>
+'''I-300'''是出现在[[Section UI|UI区]]最后100个房间中的第2个实体，关于'''I-300'''的更多信息如下。
+
+<h2>行为</h2>
+'''I-300'''会毫无预兆地在下一个房间的门后生成，'''I-300'''生成的唯一提示是玩家尝试开门时会收到消息：“Something is blocking this door from opening...”（有东西挡住了这扇门，无法打开……）（如果此时有其他处于激活状态的实体，'''I-300'''会在2秒后直接破门，令上述实体消失）。片刻之后，'''I-300'''会撞破房门，开始反向追击玩家，沿途检查每一个柜子。'''I-300'''的速度比玩家行走速度快，但玩家可以通过冲刺将其甩开。追击会持续到玩家抵达位于虚空处的最远房间，或是'''I-300'''与玩家距离过远——此时'''I-300'''会在出口处反弹后折返，本次Boss战结束。任何被'''I-300'''抓住的玩家都会被秒杀。
+
+<h2>策略与提示</h2>
+* 如果你尝试开门时出现消息“Something is stopping this door from opening.”（有东西挡住了这扇门，无法打开。），直接远离房门即可。你甚至不需要全程奔跑，因为'''I-300'''的速度不算快，且检查各种柜子会耗费大量时间。
+** 但仍建议你尽可能与'''I-300'''保持距离，因为[[Section I|I区]]的房间跨度较长。
+* 每次冲刺尽量不要持续太久，因为在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中你无法看到体力条。
+
+</tabber>
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Section UI]]
+[[Category:Fallbacker]]

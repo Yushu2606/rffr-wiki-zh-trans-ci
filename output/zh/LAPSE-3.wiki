@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-3 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-3
+|entity_image=LAPSE3.png
+|caption-entity_image=正在生成[[SHA-200]]
+|previous_entity=[[SHA-3]]<br>[[LAPSE-2]]
+|next_entity=[[SHA-4]]<br>[[LAPSE-60]]
+|nicknames=L-3
+|gun_effect=所有Lapse类实体都无法被枪击
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=破门者
+|claustrophobia=否
+|behavior=破门前进，等待玩家赶上后重复该行为。
+|speed=快
+|locker_snipe=否
+|damage=无
+|related_monsters=[[SHA-3]]
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]}}
+
+== 描述 ==
+'''LAPSE-3'''是[[Alpha & Shadowpocalypse]]专属的众多实体之一，是[[SHA-3]]的Lapse变种。
+
+== 行为 ==
+打开门后，'''LAPSE-3'''会生成在房间中央，数秒后它会向前突进并破坏8扇门，而非像SHA-3那样破坏10扇。这意味着虚空墙会直接追上你，但你并不''需要''推进任何房间即可避免死亡。当LAPSE-3抵达主房间后，它会等待玩家到达该房间，随后重复上述流程数次，每次循环都有概率生成其他实体。
+
+== 攻略与提示 ==
+* 由于'''LAPSE-3'''会等你抵达它所在的主房间后才会开始下一轮循环，你可以在进入该房间前先恢复体力。
+* '''LAPSE-3'''破门时有可能生成其他实体，因此请小心应对，优先处理这些实体，此时你无需担心'''LAPSE-3'''，因为它会等你进入它所在的房间后才会再次破门。
+
+== 冷知识 ==
+* '''LAPSE-3'''原本计划在[[Perfection Event 3/13/26]]期间加入游戏，但最终未被实装，转而在「Update Executive」版本中上线。
+
+== 画廊 ==
+<gallery>
+Placeholder.webp
+</gallery>
+
+== 徽章 ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment|Description=遇到了一个……这根本不是什么######实体啊兄弟，这啥啊？|Obtainment=遇到并在[[Entities#Lapse_Entities|Lapse类实体]]的攻击下存活。}}

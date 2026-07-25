@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-200Placeholder.png|frameless|link=UI-200]]
+|previous_entity=[[UI-173]]
+|next_entity=[[UI-220]]
+|entity_image=BetterUI-220.png
+|type=后退者<br>反弹者
+|appears_at=I-200+
+|damage=秒杀
+|related_monsters=[[E-10]]<br>[[SHA-120]]
+|sound1=<center>已激活 '''已审核'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI-200Ambiance.mp3]]</center>}}
+
+== 描述 ==
+'''UI-200''' 是你在[[Section Interchange|交界区]]可能遇到的第9个实体，更多信息如下。
+
+== 行为 ==
+当'''UI-200'''生成时，会播放名为“Horror Race”的配乐，和所有其他I区的实体一致。如果当前存在其他实体，它播放的同一首曲目音高会更高，速度也更快。
+
+它会和[[UI-83]]、[[UI-173]]一样停在门前方，往回冲，和这两个实体不同的是，它会在数秒后再次冲回门的位置。
+
+== 应对策略与提示 ==
+当你听到或看到它时立刻躲藏，保持躲藏状态直到它返回并撞到门为止。
+
+== 冷知识 ==
+* 和大多数UI类实体一样，'''UI-200''' 是作为玩笑内容被加入游戏的。
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rebounder]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

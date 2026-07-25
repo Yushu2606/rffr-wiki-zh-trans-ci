@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Rebounder''' Entities are any entities that start from [[Void]] and make their way to the current room, and then retreat back to Void and repeat the process.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

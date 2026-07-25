@@ -1,0 +1,41 @@
+{{SectionAStub}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Headphones}}
+{{InfoBox:Entity
+|previous_entity=[[A-20ii]]
+|next_entity=[[CAT-120]]
+|entity_name=CAT-60
+|entity_image=<gallery>
+File:Cat60face1.jpg|脸部 1
+File:Cat60face2.jpg|脸部 2
+File:Cat60face3.jpg|脸部 3
+</gallery> 
+|appears_at=[[Super Epic Mode]]中A-060之后的任意时刻。
+|nicknames=待公布
+|claustrophobia=否
+|type=冲刺者
+|behavior=快速冲向下一扇门，在房间内停留数秒后消失。
+|damage=瞬间死亡
+|speed=快
+|related_monsters=[[A-60]]
+[[A-60i]]
+|sound1=}}
+
+==描述==
+'''CAT-60''' 是你在[[Super Epic Mode]]中可能遇到的一种实体，它的运作逻辑与[[A-60]]完全一致，唯一区别是它的外观是一只猫。
+
+==机制==
+与[[A-60]]机制相同，但它会直接消失，而非沉入地板。
+==数据==
+
+==应对策略==
+当你听到'''CAT-60'''的音效时，稍等数秒，当屏幕开始出现静电噪点时立刻躲藏。
+
+==你知道吗==
+待公布
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

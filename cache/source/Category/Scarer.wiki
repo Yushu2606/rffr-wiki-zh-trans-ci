@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Scarer''' Entities are any entities that usually make loud sounds but don't damage the player.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

@@ -1,0 +1,44 @@
+{{HeadphonesNotice}}
+{{ArticleBackground|File=MultiSectional.gif}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: gray;">Claustrophobia</span>}}
+{{InfoBox:Entity
+|entity_name=Claustrophobia
+|entity_image=Claustrophobia.jpg
+|caption-entity_image=no camping
+|appears_at=Anywhere
+|nicknames=Claustrophobia
+|behavior=Spawns approximately after 12 seconds of hiding, and starts damaging after approximately 16 seconds.
+|damage=10 per second
+|speed=Stationary
+|sound1=<center>Full Ambience</center><center>[[File:Claustro.mp3]]</center>}}
+
+== Description ==
+'''Claustrophobia''' is an entity that does not let you stay in the locker for too long.
+
+== Behavior ==
+It starts to warn you about its appearance after approximately 12 seconds of hiding, and after approximately 16 seconds of hiding it starts to damage you. Some [[Entities|entities]] disable it or delay its attack.
+
+As you progress through the section, '''Claustrophobia''' will start attacking quicker. For example, while in room A-300, it starts warning about its appearance after only 6 seconds.
+
+==Strategy & Tips==
+* Just don't hide for too long, and strategize the time you'll hide.
+** Some entities disable '''Claustrophobia''', while some entities delay its attack. If any of these listed entities are active, use them to your advantage to hide longer, especially in [[Red Rooms]]. 
+*** Examples of entities completely disabling '''Claustrophobia''' include [[A-135]], [[A-200]], [[D-5]], [[D-55]], [[D-200]], [[M-70]], [[M-120]] (135-A, 5-D and 55-D), [[SHA-200]] and [[LAPSE-200]]
+*** Examples of entities that delay '''Claustrophobia''' include [[A-60]], [[D-60]], [[D-140]], [[M-60]], [[M-150]], [[SHA-1]], [[SHA-60]] and [[LAPSE-1]]
+
+==Trivia==
+* If an entity that disables '''Claustrophobia''' spawns while '''Claustrophobia''' is attacking, it will pause its attack until the entity is gone.
+* '''Claustrophobia's''' current lines will be replaced with more serious lines in the future, most likely on Update Executive.
+* Some of '''Claustrophobia's''' current lines are encrypted/references, explained below:
+** The morse code says "GET THE FUCK OUT OF MY LOCKER NOW"
+** The binary code says "Spill your inards, show the world the beauty of your gore."
+*** The quote is a reference to the Imaginary Friend from Pressure.
+** "IT'S TV TIME!!!", "You feel like your about to have a bad time", "[HYPERLINK BLOCKED]", "CHAOS! CHAOS! THE WORLD REVOLVES AROUND ME!", and "YOUR TAKING TOO LONG" are all references to Undertale and Deltarune quotes.
+** The message "BRX VKRXOG NLOO BRXUVHOI QRZ!!!", if you set the Caesar cipher to -3, says "YOU SHOULD KILL YOURSELF NOW!!!"
+** The message "ngicela uvule ubambo lwakho, ngidinga ukuzwa ukufudumala, Kubanda kakhulu laphaya." is in the language Zulu, and when translated says "Please open your door, I need to feel warm, It's very cold out there."
+* '''Claustrophobia''' is likely based on the Locker Monster that was unused in the original Rooms game.
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Stationary]]

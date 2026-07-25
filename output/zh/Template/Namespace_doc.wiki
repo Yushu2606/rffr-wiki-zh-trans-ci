@@ -1,0 +1,145 @@
+这是{{t|Namespace}}元模板，用于协助其他模板检测其所在的页面类型。
+
+它将Fandom上使用的所有不同[[Wikipedia:Namespace#Enumeration|命名空间]]识别并分为以下几类：
+
+; main : 主（即条目）空间，存放普通条目页面。
+; talk : 任意讨论空间，包括前缀为“Talk:”、“User talk:”、“File talk:”等的页面。
+;user
+;file
+;mediawiki
+;template
+;help
+;category
+: 其余命名空间。
+; other : 未在模板参数中指定的所有命名空间（见下文说明）。
+
+为了向后兼容，本模板将'''image'''等同于'''file'''处理。'''image'''（<nowiki>[[Image:...]]</nowiki>）用法现已弃用。
+
+'''注意：'''大多数情况下更推荐使用更简单的命名空间检测模板（见下文[[#See also|参见]]章节），本模板更容易出现参数名拼写错误等人为失误。
+
+本模板使用[[w:Help:Lua|Lua模板语言]]，更多信息可查阅[[w:c:dev:Global_Lua_Modules/Namespace_detect|全局Lua模块页面]]。'''如需本模板的传统wikitext版本，请参见[[w:c:templates:Template:Namespace_detect|模板Wiki上的Namespace_detect页面]]'''。
+
+== 使用方法 ==
+
+本模板接受一个或多个以上述页面类型命名的参数，示例如下：
+<pre>
+{{Namespace
+ | main  = Article text
+ | talk  = Talk page text
+ | other = Other pages text
+}}
+</pre>
+
+如果模板位于主（条目）页面，将会返回以下内容：
+: {{Namespace |demospace=main
+   | main  = Article text
+   | talk  = Talk page text
+   | other = Other pages text
+  }}
+
+如果模板位于条目、讨论页面之外的其他页面，将会返回以下内容：
+: {{Namespace
+   | main  = Article text
+   | talk  = Talk page text
+   | other = Other pages text
+  }}
+
+上述示例中模板会针对所有页面类型返回内容，但如果我们不使用'''other'''参数或将其留空，那么模板在其他页面类型下将不会返回任何内容，示例如下：
+<pre>
+{{Namespace
+ | file     = File page text
+ | category = Category page text
+ | other    =
+}}
+</pre>
+
+除文件和分类页面外，上述代码在其他任何页面都不会渲染出内容。
+<!-- Do not remove this one. It is supposed to render nothing, but we have it here for testing purposes. -->
+: {{Namespace
+   | file     = File page text
+   | category = Category page text
+   | other    =
+  }}
+
+通过使用空参数，你可以让模板在特定页面类型下不渲染任何内容，示例如下：
+<pre>
+{{Namespace
+ | main  = 
+ | other = Other pages text
+}}
+</pre>
+
+上述代码在主空间（条目）页面下不会渲染任何内容，但在其他页面下会返回以下内容：
+: {{Namespace
+   | main  = 
+   | other = Other pages text
+  }}
+
+== Demospace与page参数 ==
+
+出于测试与演示目的，本模板可接受两个名为'''demospace'''和'''page'''的参数。
+
+'''demospace'''可识别本模板使用的所有页面类型名称，包括'''other'''类型，它会让模板模拟处于某一特定类型页面下的行为，示例如下：
+<pre>
+{{Namespace
+ | main  = Article text
+ | other = Other pages text
+ | demospace = main
+}}
+</pre>
+
+无论上述代码用在什么类型的页面上，都会返回以下内容：
+: {{Namespace
+   | main  = Article text
+   | other = Other pages text
+   | demospace = main
+  }}
+'''page'''参数接受常规页面名称，使此模板的行为与在该页面上运行时完全一致。页面名称不必是已存在的页面。用法示例：
+<pre>
+{{Namespace
+ | user  = User page text
+ | other = Other pages text
+ | page  = User:Example
+}}
+</pre>
+
+无论上述代码在任何类型的页面上使用，都将返回以下内容：
+: {{Namespace
+   | user  = User page text
+   | other = Other pages text
+   | page  = User:Example
+  }}
+
+你可以让自己的模板识别'''demospace'''和/或'''page'''参数并将其传递给{{T|Namespace}}模板，使用起来会更方便。用法示例：
+<pre>
+{{Namespace
+ | main  = Article text
+ | other = Other pages text
+ | demospace = {{{demospace|}}}
+ | page  = {{{page|}}}
+}}
+</pre>
+
+如果'''demospace'''和'''page'''参数均为空或未定义，模板将按常规方式检测页面类型。
+
+== 参数 ==
+
+所有参数列表：
+<pre>
+{{Namespace
+| main  = 
+...
+| other =
+| demospace = {{{demospace|}}} / main / talk / user /
+              file / mediawiki / template /
+              help / category / other
+| page  = {{{page|}}} / User:Example
+}}
+</pre>
+
+== 技术细节 ==
+如果你打算将表格作为内容传入此模板的编号参数，需要注意以下事项：
+
+[[w:Help:Template|模板]]在处理包含竖线"<code>|</code>"的参数数据时会出现问题，除非该竖线位于另一个模板<code><nowiki>{{name|param1}}</nowiki></code>内部，或位于带别名的链接<code><nowiki>[[w:Help:Template|帮助页]]</nowiki></code>内部。因此模板无法将[[w:Help:Table|维基表格]]作为输入处理，除非你使用<code><nowiki>{{!}}</nowiki></code>[[w:Help:Magic words|魔法字]]对其进行转义。这导致维基表格很难作为参数传入模板。通常的替代解决方案是使用HTML维基标记编写表格代码，稳定性更高。
+
+<includeonly>[[Category:General wiki templates]]{{#ifeq:{{SUBPAGENAME}}|sandbox|[[Category:Namespace manipulation templates]]}}</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,49 @@
+{{DISPLAYTITLE:E-45（畸变体）}}
+{{Stub}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-45
+|entity_image=<gallery>
+E45.png|待机外观
+E45Attack.png|攻击外观
+</gallery>
+|previous_entity=[[E-30]]<br>[[E-30i]]
+|next_entity=[[E-60]]<br>[[E-90]]
+|claustrophobia=否
+|nicknames=畸变体
+|appears_at=E-045+
+|type=固定者
+|behavior=会生成在随机一个柜子中，若玩家试图躲入它所在的柜子就会受到伤害
+|speed=无
+|damage=50
+|locker_snipe=
+|gun_effect=无
+|related_monsters=[[M-134]]（机制相似）
+[[D-175]]（机制相似）
+}}
+
+==描述==
+'''E-45'''是你在[[Section E|E区]]中可能遇到的第3个实体，更多关于该实体的信息如下。
+
+==机制==
+'''E-45'''生成后会栖身于随机一个柜子中，该柜子会呈现不同的颜色，任何试图躲入它所在柜子的玩家都会受到伤害。
+
+==应对策略与提示==
+
+* 躲入柜子前请仔细检查。
+* 若有其他[[Entities|实体]]处于活跃状态，请检查你左右两侧的柜子，确认其中没有藏着'''E-45'''。
+
+==你知道吗==
+* 待公布
+
+==画廊==
+<gallery>
+E45Gray.png|藏有'''E-45'''的灰色柜子。
+E45Blue.png|藏有'''E-45'''的蓝色柜子。
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]

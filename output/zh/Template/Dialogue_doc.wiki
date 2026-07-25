@@ -1,0 +1,157 @@
+{{t|Dialogue}} 用于按标准格式编写对话内容。本模板支持绝大多数标准对话书写格式，可添加缩进、项目符号或编号。'''本模板**不可**使用 <code>subst:</code> 替换'''。
+
+本模板使用[[w:Help:Lua|Lua 模板语言]]，更多信息可查阅[[w:c:dev:Global_Lua_Modules/Dialogue|全局 Lua 模块页面]]。'''如需本模板的传统维基文本版本，请参见模板维基的[[w:c:templates:Template:Dialogue/wikitext|Dialogue]]页面'''。
+
+==语法==
+以下是在条目中使用[[w:Help:wikitext|维基文本]]调用本模板的方式：
+
+<pre>{{dialogue
+|short=full
+|short=full
+|short=full
+...
+|Character|Speech
+|Character|Speech
+|Character|Speech
+...
+|cite = dialogue description
+}}</pre>
+
+下文将详细说明这些参数。
+
+==参数==
+'''命名参数用于设置名称快捷方式，均为可选参数。'''需要放在模板调用的开头，示例如下：
+
+<pre>{{dialogue
+|short=full
+|short=full
+|short=full
+...</pre>
+
+名称快捷方式对主对话文本生效。如果你在角色名位置使用了此处定义的快捷方式，将会自动替换为对应的完整名称。
+
+格式为<code>mood1</code>、<code>mood2</code>、<code>mood3</code>直到<code>mood10</code>的命名参数，用于指定对应行对话的情绪（例如<code>mood1</code>对应第1行）。添加方式示例如下：
+
+<pre>...
+|Character|Speech|mood1=angry
+|Character|Speech|mood2=quiet
+|Character|Speech|mood3=ecstatic
+...</pre>
+
+位置参数用于构成对话内容（即所有不包含<code>=</code>的行都会被识别为对话的一部分）。
+
+:;<code>Parameter 1</code> ''（必填）'' : 发言角色名称
+:;<code>Parameter 2</code> ''（可选）'' : 发言内容
+:;<code>Parameter 3</code> ''（可选）'' : 下一位发言角色
+:;<code>Parameter 4</code> ''（可选）'' : 下一段发言内容
+:;<code>Parameter 5</code> ''（可选）'' : 下一位发言角色
+:;<code>Parameter 6</code> ''（可选）'' : 下一段发言内容
+:;<code>Parameter 7</code> ''（可选）'' : 以此类推……
+
+注意：如果角色名填<code>action</code>，该行会被识别为动作描述行，仍会被计入行号。
+
+如需添加对话说明/来源，请使用<code>cite =</code>参数。
+
+==示例==
+以下是完整调用模板的示例：
+
+<pre>{{dialogue
+|harry=Harry Enfield
+|bryan=Bryan Adams
+
+|harry|Hello!                |mood1=happy
+|bryan|Oh hello there        |mood2=surprised
+|harry|How are you?          |mood3=inquisitive
+|bryan|Quite fine thank you. |mood4=reserved
+|harry|Oh that's spiffing.   |mood5=spiffed
+|bryan|It is, isn't it?!     |mood6=multo-spiffed
+|harry|Quite so.             |mood7=bored
+|bryan|Well, I'm off!        |mood8=joyous
+|harry|Ta-ta!                |mood9=relieved
+|bryan|Au revoir!            |mood10=sarcastic
+}}</pre>
+
+以上代码会生成如下内容：
+
+{{dialogue
+|harry=Harry Enfield
+|bryan=Bryan Adams
+
+|harry|Hello!                |mood1=happy
+|bryan|Oh hello there        |mood2=surprised
+|harry|How are you?          |mood3=inquisitive
+|bryan|Quite fine thank you. |mood4=reserved
+|harry|Oh that's spiffing.   |mood5=spiffed
+|bryan|It is, isn't it?!     |mood6=multo-spiffed
+|harry|Quite so.             |mood7=bored
+|bryan|Well, I'm off!        |mood8=joyous
+|harry|Ta-ta!                |mood9=relieved
+|bryan|Au revoir!            |mood10=sarcastic
+}}
+以下代码展示了扩展用法示例：
+
+<pre>{{dialogue
+|george=乔治小子
+|rachel=瑞秋
+
+|action|登场：乔治与瑞秋
+|george|早上好啊，我最亲爱的瑞秋！|mood2=happy
+|action|瑞秋转身看向他
+|rachel|噢，乔治，是你啊！
+|george|...
+|rachel|你怎么什么都不说啊？！|mood6=worried
+|action|登场：守卫
+|守卫|我们奉命逮捕乔治！
+|rachel|我的天！|mood9=horrified
+|action|乔治被拖走了。
+}}</pre>
+
+以上代码将生成如下内容：
+
+{{dialogue
+|george=乔治小子
+|rachel=瑞秋
+
+|action|登场：乔治与瑞秋
+|george|早上好啊，我最亲爱的瑞秋！|mood2=happy
+|action|瑞秋转身看向他
+|rachel|噢，乔治，是你啊！
+|george|...
+|rachel|你怎么什么都不说啊？！|mood6=worried
+|action|登场：守卫
+|守卫|我们奉命逮捕乔治！
+|rachel|我的天！|mood9=horrified
+|action|乔治被拖走了。
+}}
+
+===注意事项===
+
+你可以给对话添加编号、项目符号或缩进：
+
+<pre>:{{dialogue|我|你好|你|你好啊！}}</pre>
+
+:{{dialogue|我|你好|你|你好啊！}}
+
+<pre>#{{dialogue|我|你好|你|你好啊！}}
+#{{dialogue|他们|下午好|我们|简直一派胡言！}}</pre>
+
+#{{dialogue|我|你好|你|你好啊！}}
+#{{dialogue|他们|下午好|我们|简直一派胡言！}}
+
+<pre>*{{dialogue
+|angel=坚韧
+|angel|我是天使！|众人|我们才不信你！}}
+*{{dialogue
+|angel=坚韧
+|angel|可我是认真的！|众人|那你可太倒霉了！}}</pre>
+
+*{{dialogue
+|angel=坚韧
+|angel|我是天使！|众人|我们才不信你！}}
+*{{dialogue
+|angel=坚韧
+|angel|可我是认真的！|众人|那你可太倒霉了！}}
+
+如果你将对话拆分为多行编写，可能会出现奇怪的空格错误（例如“台词<code><nowiki><空格></nowiki></code>”）。
+
+<includeonly>[[Category:Quote templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

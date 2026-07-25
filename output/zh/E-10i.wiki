@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #c800fe, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10i（Virtue/美德）</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{Redesign|Wawaman|未知}}
+{{DesignNotAllowed|design=Upcoming设计|reason=设计者要求|exceptions=游戏内截图}}
+{{SectionEStub}}
+{{InfoBox:Entity
+|entity_name=E-10i
+|entity_image=<gallery>
+Placeholder.webp|Upcoming设计
+E10i.png|当前闲置外观
+E10iJumpscare.png|当前跳杀外观
+</gallery>
+|previous_entity=[[E-10]]
+|next_entity=[[E-30]]<br>[[E-30i]]
+|claustrophobia=否
+|nicknames=Virtue（美德）
+|appears_at=E-100+
+|type=后退者<br>冲刺者<br>生成者
+|behavior=行为与[[E-10]]类似，但撞击门后不会消失，而是会传送至虚空墙并重复行动。
+|speed=中等偏快
+|damage=??? 每秒伤害
+|locker_snipe=是
+|gun_effect=待公布
+|related_monsters=[[A-85]]<br>[[SHA-120]]<br>[[E-10]]
+|sound1=<center>消失 '''（不准确）'''</center><center>[[File:E-10i_despawn_r.mp3]]</center>
+<center>跳杀</center><center>[[File:E-10iScare.mp3]]</center>}}
+
+== 描述 ==
+'''E-10i'''是你在[[Section E|E区]]中可能遇到的众多实体之一，它是[[E-10]]的i型变种，行为与E-10相同但速度更快，且拥有传送能力。
+
+== 行为 ==
+'''E-10i'''会在门前生成，约1-2秒后向后冲刺，随后会在虚空墙后等待，直到下一扇门被打开或破坏。门被打开或破坏后，它会冲刺返回主房间，撞击门后传送回虚空墙，等待下一扇门被打开或破坏，该流程会重复约1-4次，每次撞门都有几率生成一个实体。
+
+== 应对策略 ==
+* 建议在它生成后立刻躲藏，因为它只会给你1-2秒的反应时间。
+** 不过要注意选好要躲的柜子，不然你可能会死在[[E-45]]手上。
+* 如果有门被打开/破坏，请立刻躲藏，因为'''E-10i'''的速度比[[E-10|普通版本]]更快。
+* '''E-10i'''可能会触发或参与特定的连锁事件，比如它和[[E-60]]同时出现的情况。
+** [[E-60]]会先冲刺经过，破坏门并触发'''E-10i'''冲刺穿过。当[[E-60]]往回冲刺时，'''E-10i'''会上前破坏门。
+
+== 你知道吗 ==
+* '''E-10i'''曾在[[Perfection Event 2/13/26|完美事件 2/13/26]]和[[Perfection Event 3/13/26|完美事件 3/13/26]]期间入侵。
+** 但可能根本没人见过这个情况，因为它的生成概率仅为六百万分之一。
+
+== 背景故事 ==
+* '''E-10i'''是暗影感染失败的产物。
+
+== 画廊 ==
+<gallery>
+File:E-10i_teleport.webp|传送中的'''E-10i'''（低画质）
+File:Virtue_ingame.webp|消失中的'''E-10i'''（低画质）
+File:E10iScare.webp|跳杀
+File:Actual E-10i teleport.webp|'''E-10i'''的传送粒子效果
+File:E-10 despawn p.webp|'''E-10i'''的消失粒子效果
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

@@ -1,0 +1,90 @@
+顶注用于在需要补充更多上下文的文章之间添加链接。大致来说，顶注应该能回答读者的问题：我现在打开的页面是对的吗？
+
+== 使用方法 ==
+
+; 基础用法：
+ &#123;{hatnote|''text''}}
+
+; 全部参数：
+ &#123;{hatnote|''text''|extraclasses=''extra classes''|selfref=''yes''|category=''no''}}
+
+== 参数说明 ==
+
+本模板支持以下参数：
+* <code>1</code> - 顶注文本（必填）
+* <code>extraclasses</code> - 要添加的额外CSS类。
+* <code>selfref</code> - 若设为"yes"、"y"、"true"或"1"，会添加CSS类"selfref"，用于标记自我引用内容。
+* <code>category</code> - 若设为"no"、"n"、"false"或"0"，会禁用错误追踪分类（[[:Category:Hatnote templates with errors]]）。仅当最左侧参数（顶注文本）被省略时本参数才会生效。
+
+== 示例 ==
+
+* <code><nowiki>{{hatnote|Example hatnote text}}</nowiki></code> → {{hatnote|Example hatnote text}}
+
+== 常用变体 ==
+{{T|Main}}、{{T|Further}} 用法非常相似，分别用于指向某个主题的主页面，或是包含更多细节的相关主题页面，二者支持的参数几乎完全一致。
+
+;{{T|Main}}: 当文章篇幅较长时，通常会设有摘要，并指向对应的主条目。本模板用在摘要的标题之后，用于引导用户前往被摘要的子主题对应页面。
+;{{T|Further}}: 用于链接到包含本主题更多相关信息的文章。
+;{{T|See also}}: 用于链接到其他相关主题的文章。
+
+:;{{T|Main|Main Page}}  →:{{Main|Main Page}}
+:;{{T|Main|Main Page|Main Page}}  →:{{Main|Main Page|Main Page}}
+
+:*<code>1</code>、<code>2</code>、<code>3</code>…… – 要链接的页面。如果没有指定页面名称，会自动使用当前页面名称（不带命名空间前缀）。分类和文件链接会自动通过[[w:Help:Colon trick|冒号技巧]]转义，指向章节的链接会自动格式化为''页面 § 章节''，而非MediaWiki默认的''页面#章节''格式。
+:*<code>l1</code>、<code>l2</code>、<code>l3</code>……''或''<code>label 1</code>、<code>label 2</code>、<code>label 3</code>…… – 每个链接页面的可选显示文本（适用于需要使用管道链接的文章）。注意这些额外参数使用小写的“L”，例如<code>l1</code>，<u>而非</u><code>L1</code>。
+:*<code>selfref</code> – 若设为"yes"、"y"、"true"或"1"，会添加CSS类"selfref"，用于标记自我引用内容。
+
+
+== 消歧义相关 ==
+如{{T|About}}、{{T|For}}之类的模板适用于不需要单独设置消歧义页面的场景。一般来说，仅当存在4个及以上除了限定词之外标题大部分或完全相同的条目时，才需要单独设立消歧义页面。
+;{{T|About}}: 用于引导用户前往其他标题或概念相近、用户可能实际想要查找的文章。本模板有多种使用格式，包括：
+:;{{T|About|Use1}} →:{{About|}}
+:;{{T|About|Use1|<nowiki/>|Main Page}} →:{{About|Use1||Main Page}}
+:;{{T|About|Use1|<nowiki/>|Main Page|and|Main Page}} →:{{About|Use1||Main Page|and|Main Page}}
+:;{{T|About|Use1|Use2|Main Page}} →:{{About|Use1|Use2|Main Page}}
+:;{{T|About|Use1|Use2|Main Page|and|Main Page}} →:{{About|Use1|Use2|Main Page|and|Main Page}}
+:;{{T|About|Use1|Use2|Main Page|other uses}} →:{{About|Use1|Use2|Main Page|other uses}}
+或者，你也可以为{{T|About}}模板添加<code>section=yes</code>参数，用于放在区的顶部。使用该参数时，模板内的措辞会调整，表明它是用于区页面的：
+:;{{T|About|Use1|<nowiki>section=yes</nowiki>}} →:{{About|Use1|section=yes}}
+:;{{T|About|Use1|<nowiki/>|Main Page|<nowiki>section=yes</nowiki>}} →:{{About|Use1||Main Page|section=yes}}
+:;{{T|About|Use1|Use2|Main Page|<nowiki>section=yes</nowiki>}} →:{{About|Use1|Use2|Main Page|section=yes}}
+:;{{T|About|Use1|Use2|Main Page|and|Main Page|<nowiki>section=yes</nowiki>}} →:{{About|Use1|Use2|Main Page|and|Main Page|section=yes}}
+:;{{T|About|Use1|Use2|Main Page|other uses|<nowiki>section=yes</nowiki>}} →:{{About|Use1|Use2|Main Page|other uses|section=yes}}
+
+<var>text</var>选项可在末尾添加文本；请注意，仅当确实需要、且下方列出的其他顶注（hatnote）模板都不适用时才可使用该选项。本模板同时支持<var>selfref</var>参数。
+
+;{{T|For}}: 提供最多四个条目或消歧义页的链接。它接受0到5个参数。
+
+:;如果在名为''Foo''的页面不带参数使用，结果为
+::{{hatnote|For other uses, see [[:Foo (disambiguation)]].}}
+:;第一个参数会修改顶注文本本身，应当为纯文本，例如{{T|For|similar terms}}会得到
+::{{hatnote|For similar terms, see [[:Foo (disambiguation)]].}}
+:;第二个参数用于修改生成的链接，例如{{T|For|similar terms|Main Page}}会得到
+::{{For|similar terms|Main Page}}
+:;第三、第四、第五个参数用于添加1、2或3个补充链接：
+:*{{For|similar terms|Main Page|Main Page}}
+:*{{For|similar terms|Main Page|Main Page|Main Page}}
+:*{{For|similar terms|Main Page|Main Page|Main Page|Main Page}}
+:最后一项可通过例如{{T|For|similar terms|Main Page|Main Page|Main Page|Main Page}}生成。
+
+== 错误 ==
+
+如果未提供顶注文本，模板会输出以下消息：
+* {{hatnote|category=no}}
+
+如果你看到这条错误消息，是以下四个原因之一：
+# 未指定任何参数（模板代码为<code><nowiki>{{hatnote}}</nowiki></code>）。请改用<code><nowiki>{{hatnote|</nowiki>''文本''<nowiki>}}</nowiki></code>。
+# 指定了部分参数，但未包含顶注文本。例如，模板代码<code><nowiki>{{hatnote|extraclasses=seealso}}</nowiki></code>会触发此错误。请（举例）改用<code><nowiki>{{hatnote|</nowiki>''文本''<nowiki>|extraclasses=seealso}}</nowiki></code>。
+# 已指定顶注文本，但文本中包含等号（"="）。等号在模板代码中有特殊含义，因此不能用于未指定参数名的模板参数中。例如，模板代码<code><nowiki>{{hatnote|2+2=4}}</nowiki></code>会触发此错误。要解决此问题，你可以在顶注文本前使用<code>1=</code>显式指定参数名，如下：<code><nowiki>{{hatnote|1=2+2=4}}</nowiki></code>。
+# 你尝试通过<code><nowiki>{{#invoke:hatnote|hatnote|</nowiki>''文本''<nowiki>}}</nowiki></code>直接访问[[Module:Hatnote]]。出于性能考虑，这种调用#invoke的方式已被禁用。请改用<code><nowiki>{{hatnote|</nowiki>''文本''<nowiki>}}</nowiki></code>。
+包含此错误消息的页面会被归类至[[:Category:Hatnote templates with errors]]。
+
+
+== 技术细节 ==
+本模板使用[[w:Help:Lua|Lua模板语言]]，你可以在[[w:c:dev:Global_Lua_Modules/Hatnote|全局Lua模块页面]]查看更多信息。'''如需本模板的传统wikitext版本，请见[[w:c:templates:Template:Hatnote|Templates Wiki上的Hatnote]]'''。
+
+本模板生成的HTML代码如下所示：
+
+* <code><nowiki><div role="note" class="hatnote"></nowiki>''顶注文本''<nowiki></div></nowiki></code>
+
+<includeonly>[[Category:Notice templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

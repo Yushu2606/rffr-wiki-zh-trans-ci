@@ -1,0 +1,21 @@
+本分类的子分类包含因以下一项或多项原因需留意处理的页面：
+* 有建议修改的内容需先行讨论，或相关讨论正在进行中。
+* 页面存在缺陷，需要具备相关知识或技能的编辑进行修正。
+* 页面所需的操作需要特殊权限才可执行。
+
+''另见：''
+{{cols|2|
+* [[Special:BrokenRedirects|损坏的重定向]]
+* [[Special:DoubleRedirects|双重重定向]]
+* [[Special:UncategorizedCategories|未归类的分类]]
+* [[Special:UncategorizedFiles|未归类的文件]]
+* [[Special:UncategorizedPages|未归类的页面]]
+* [[Special:UncategorizedTemplates|未归类的模板]]
+* [[Special:WantedCategories|待创建分类]]
+* [[Special:WantedFiles|待创建文件]]
+* [[Special:WantedPages|待创建页面]]
+* [[Special:WantedTemplates|待创建模板]]
+* [[Special:TrackingCategories|其他特殊跟踪分类]]
+}}
+
+[[Category:{{SITENAME}}]]

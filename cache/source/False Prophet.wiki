@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px darkcyan; color: darkcyan;">False Prophet</span>}}
+{{Stub}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False Prophet
+|entity_image=<gallery>
+FalseProphet.png|Idle Design
+FalseProphetJumpscare.png|Jumpscare Design
+</gallery>
+|claustrophobia=No
+|previous_entity=[[False Witness]]
+|next_entity=[[Tackle]]<br>[[Lunge]]
+|appears_at=Dark/[[Red Rooms]] in the [[Unnamed Sector]]/Rarely normally
+|type=Rusher
+|gun_effect=None
+|behavior=Rushes to the door and rushes back after several seconds, like the [[False Witness|normal counterpart]], albeit being nearly silent and repeating it many times
+|speed=Moderate
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|damage=Instant Death
+|related_monsters=[[Mori]]<br>[[Tackle]]<br>[[False Witness]]
+|caption-entity_image=
+|sound1=<center>Spawn</center><center>[[File:Unnamedflicker.mp3]]</center>
+}}
+
+==Description==
+'''False Prophet''' will be one of the many entities that you may encounter through your journey in the [[Unnamed Sector]], Being the Alt version of [[False Witness]].
+
+==Mechanics==
+When '''False Prophet''' spawns, it will flicker the lights before rushing to the main room at moderate speeds, once it hits the door it will teleport back to voidwall and doing it again, this time missing its close sound or being totally silent. it will repeat this many times, speeding up each time it hits the door, it will despawn randomly at the door.
+
+==Strategies==
+
+* When you hear its spawn cue, hide, when he hits the door and "disappears", wait some seconds then enter the locker again, it will rush many times, so make sure it actually despawned before advancing.
+
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

@@ -1,0 +1,55 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #ce0afb, -1.5px 0.66px 2px #ce0afb; color: black;">SHA-180 (Repetition)</span>}}{{Headphones}}{{InfoBox:Entity
+|entity_name=SHA-180
+|entity_image=<gallery>
+File:SHA-180 str New design.png|New design
+Sha180.png|Old Design
+</gallery>
+|previous_entity=[[SHA-140]] ([[Shadow Challenge|SC]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-200]]
+|nicknames=Repetition
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Shadow<br>Rusher<br>Rebounder<br>Spawner
+|behavior=Same as [[D-180]], but takes a lot longer to rebound and can spawn [[SHA-1]] or [[SHA-2]] instead
+|gun_effect=No Shadow can be shot
+|locker_snipe=No
+|speed=Faster than [[D-180]] (probably)
+|damage=Same as [[D-180]] (3 damage per tick)
+|related_monsters=[[D-180]]
+|claustrophobia=No
+|sound1=<center>Spawn</center><center>[[File:Sha180spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:Sha180ambi.mp3]]</center>
+|sound3=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== Description ==
+'''SHA-180''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of the removed entity [[D-180]].
+
+== Behaviors ==
+Upon spawning in, '''SHA-180''' will make a loud engine-like yell, before rushing forward extremely quickly, breaking down the door and slowly falling back behind the void wall. He rebounds a maximum of 4 times. Each rebound, he has a chance to summon either [[SHA-1]] or [[SHA-2]] due to his loud scream attracting them. After his last rebound, he will despawn upon contact with the door of the main room.
+
+== Strategy & Tips ==
+
+* '''SHA-180''' instantly rush to the main room at a very high speed when its spawn clue stops, so you should hide when the spawn sound stops.
+* '''SHA-180''' rebounds to the front extremely quickly, but falls back a lot slower, so its best to stay in the most recent room as much as possible to avoid [[Claustrophobia]] from killing you.
+* '''SHA-180''' has no locker-snipe, so it's okay to hide late but make sure you still pay attention to how loud he is when he approaches.
+* Try to hide near many lockers when '''SHA-180''' is rebounding, as it can spawn [[SHA-1]]. This strategy will help you switch lockers quickly if your hiding spot is marked.
+* When '''SHA-180''' breaks the door, stay in the locker for a bit longer in case [[SHA-2]] spawns. You could however, exit and reenter the locker to prevent [[Claustrophobia]] damage.
+
+== Trivia ==
+
+* '''SHA-180''' is one of the two shadow infected entities without a currently active uninfected counterpart, the other being [[SHA-7]].
+* '''SHA-180''' is the 2nd fastest Shadow entity, only being behind [[SHA-85]].
+* '''SHA-180''' is the only shadow infected entity that is not made more common in the [[Alpha & Shadowpocalypse]] modifier. Instead, it was made way rarer.
+** Because of this, '''SHA-180''' is not guaranteed to spawn in [[Alpha & Shadowpocalypse]].
+** On the other hand, '''SHA-180''' is much more common in [[Shadow Challenge]].
+* If you are unlucky enough, '''SHA-180''' can spawn [[SHA-200]], but he will wait until he despawns before actually rebounding again.
+
+== Gallery ==
+<gallery>
+File:Ingame 180.png|'''SHA-180'''<nowiki/>'s new design in-game
+File:Boo180.gif|'''SHA-180''' Seen attacking during the [[Shadow Challenge]]
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Loud Entities]]
+[[Category:Snipeless]]

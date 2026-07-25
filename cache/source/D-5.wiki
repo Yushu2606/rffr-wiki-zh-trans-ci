@@ -1,0 +1,77 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px white, -1.5px 0.66px 2px gray; color: black;">D-5 (Seer)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[Mouth|A-300]]
+|next_entity=[[D-5i]]<br>[[D-20]]
+|entity_name=[[File:D-5iPlaceHolderpng.png|frameless|link=D-5]]
+|entity_image=<gallery>
+D-5.png|Design
+Eyescare.webp|Jumpscare Design
+</gallery>
+|caption-entity_image=I see you over there in the dark! C-come on out..
+|appears_at=D-005+.
+|nicknames=The Seer.
+|type=Fallbacker
+|claustrophobia=Yes
+|locker_snipe=No
+|gun_effect=Makes it unable to hurt the player, tho this will make it angry, force Spawning [[D-5i]] if done enough times
+|behavior=Knocks on the succeding door thrice before walking to Void.
+|damage=75 DPS
+|speed=17.1 Studs per second (0.34 Rooms/s)
+|related_monsters=[[D-5i]] (Miniboss Variant)
+|badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here] '''Unobtainable'''
+|sound1=<center>Spawn Sound in [[Super Epic Mode]]</center><center>[[File:VineBoom.mp3]]</center>
+|sound2=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound3=<center>Footsteps</center><center>[[File:D5walk.mp3]]</center>
+|sound4=<center>Despawn in True Legacy Mode</center><center>[[File:D-5TrueLegacyDespawn.MP3]]</center>
+|sound5=<center>Invasion Event Despawn</center><center>[[File:D5oldTrueDespawn.mp3]]</center>
+|sound6=<center>Jumpscare</center><center>[[File:D-5jumps.mp3]]</center>
+|sound7=<center>Old Jumpscare</center><center>[[File:D-5oldJump.mp3]]</center>}}
+
+==Description==
+'''D-5''' is a basic fallback entity, of which is compromised of simply one eyeball.
+
+==Mechanic==
+<tabber>
+|-|Current=
+'''Current'''<br>
+When '''D-5''' spawns, 3 bangs will be emitted from the door, meaning '''D-5''' is behind it. Shortly after, it will move out from the door, moving backwards through the rooms while making footstep sounds.
+'''D-5''' will continue to move until he has moved 5 rooms backwards, at which point a short piece of music will play as he despawns.
+Any player seen by D-5, regardless of distance will be damaged rapidly, so it is recommended to stay hiding until D-5 despawns
+If the player shoots D-5 many times, D-5 will start breaking the door shotly after spawning, meaning that it is angered.
+If the player keeps shooting D-5 even when it is angered, [[D-5i]] will eventually replace '''D-5''', [[D-5i]] will mimic D-5 once spawned this way, knocking on the door, but will immediately break the door down after the second knock.
+
+|-|Invasion=
+'''Invasion'''<br>
+Once It spawns, it will bang on the door, placing itself behind it before walking back, once far enough back, it will play a fake despawn sound before Zooming back to the main room, despawning when it reaches the door, any player caught by D-5 will be instantly killed.
+</tabber>
+
+==Strategy & Tips==
+* '''D-5''' Disables [[Claustrophobia]] while it is active, use this to your advantage, especially when there are other entities present.
+* When '''D-5''' is angered, you should instantly hide if it spawn in the same room as [[D-120]], because '''D-5''' will break the door, skipping the whole [[D-120]] cooldown before fallbacking. Or maybe even stop shooting D-5 to avoid [[D-5i]].
+
+==Trivia==
+* '''D-5'''<nowiki/>'s line of sight is infinite, just like [[D-5i]]'s.
+** How<nowiki/>ever, if '''D-20''' spawns on its path, it will block the sight of '''D-5''', meaning it won't harm the player if it gets out because of its line of sight beeing blocked off
+* '''D-5''', [[D-55]], and [[M-134]] are the only naturally spawning entities from '''OG RFF''' that haven't gotten their Designs changed since they were first released
+
+
+== Gallery ==
+<gallery>
+File:D-5AF26.png|D-5 seen in [[April Fools 2026]]
+File:Scary D-5.gif|D-5's jumpscare
+</gallery>
+
+== Badges ==
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''D-5''', [[D-35]], or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]
+[[Category:Table Affected]]
+[[Category:Weapon Affected]]
+[[Category:Invader]]
+[[Category:Snipeless]]

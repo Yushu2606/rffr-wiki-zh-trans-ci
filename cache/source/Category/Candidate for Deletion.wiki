@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''You may be looking for the template, ''[[Template:Delete|Delete]]''.'''</center></big>
+----
+A '''Candidate for Deletion''' are any articles that will be deleted.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">A-135 (Shadow Man)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}{{InfoBox:Entity
+|previous_entity=[[A-120]]
+|next_entity=[[A-135i]]<br>[[A-200]]
+|entity_name=[[File:A-135Placeholder.webp|frameless|link=A-135]]
+|entity_image= <gallery>
+ShadowMan.png|Current Idle Design
+ShadowManScare.png|Current Jumpscare Design
+UpdatedA-135.png|Old Design
+A135.png|Older Design
+</gallery> 
+|caption-entity_image=
+|appears_at=Anywhere Past A-135.
+|nicknames=The Shadow Man.
+|type=Fallbacker<br>Locker Checker
+|behavior=Locker Checker
+|claustrophobia=Yes
+|gun_effect=None
+|locker_snipe=No
+|damage=Instant Death<br>(22 stud kill radius)
+|speed=15 Studs/s (50 Studs/s in Red Rooms)|related_monsters=[[A-135i]] (Super Variant)
+|sound1=<center>Drumming Sound</center><center>[[File:Slowidiotdrummer.mp3]]</center>
+|sound2=<center>Close sound</center><center>[[File:Threat.mp3]]</center>
+|sound3=<center>A rare audio that may play when A-135 finds someone in a locker.</center><center>[[File:Check_kill.mp3]]</center>
+}}
+
+==Description==
+'''A-135'''<nowiki/>'s appearance appears to depict a creepy or eerie face emerging from darkness, with only the teeth and part of a circular mouth shape visible.
+
+==Behavior==
+A-135 spawns behind the current room’s door making drumming sounds. After 3-5 seconds, A-135 breaks the door before checking every gray locker in the current 5-6 rooms. After checking A-135 will backtrack and despawning once it reaches the void wall. Any player found or getting close will get jumpscared by A-135.
+ 
+==Lore==
+*'''A-135''' is also known as Void's "Special Boy".
+
+== Strategies & Tips ==
+
+* To survive '''A-135''', you need to hide in a blue locker, table, green locker, or fridge.
+
+==Trivia==
+*'''A-135''' was made to mimic [[A-120]]'s drumming sounds, meaning players mistake it for [[A-120]] and hide in a white locker and die.
+*'''A-135'''<nowiki/>'s old name was A-175
+*'''A-135's''' old design originally was a concept design for [[D-250]]
+*Tables only work on A-135 (and its [[A-135i|i Variant]]) within [[Section A]], As long with ''partially'' [[A-20i]]  and [[A-60i]]
+*It's safe to use fridges and green locker as they won't be checked by '''A-135'''
+*In Chaos Mode, '''A-135''' can spawn with D-140, M-150 or M-200. If it spawns with:
+**D-140: hide under a table ([[Section A]] and [[Section M|Section M {Tunnels}]]), quickly switch lockers after D-140 checks them or viceversa or go to the last room where Void is and hide (non of these two check the last room's lockers)
+**M-150: if its blue, hide under a table ([[Section A]] and [[Section M|Section M {Tunnels}]]), quickly switch lockers after it checks them or go 3 rooms back as M-150 only checks the first two rooms
+**M-200: hide under a table (A sector or M sector {tunnels}) or wait for a miracle to happen
+***Since it destroys blue lockers, all the player has are normal lockers, so pray for luck if you're not in [[Section A]] or [[Section M|Section M {Tunnels}]].
+*In [[Section D]] with Chaos Mode A-135 considers white cabinets as blue lockers and supply cabinets as normal lockers
+
+== Gallery ==
+<gallery>
+File:A-135Jumpscare.gif|Old A-135's jumpscare
+File:TrueLegacyA-135.webp|True Legacy Design
+File:A-135ViewedFromTable.png|Old A-135 Viewed From under a Table.
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

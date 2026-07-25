@@ -1,0 +1,6 @@
+;描述
+:本模板用于标记版权状态不明的图片，它会自动将这些图片添加到[[:Category:Unattributed files|无来源文件]]分类中，以便后续维护。
+;语法
+:在图片信息页输入<code>{{t|Nolicense}}</code>即可使用。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

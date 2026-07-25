@@ -1,0 +1,37 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, lime, lime, black, black); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-35ii（有毒废柴）</span>}}
+{{ArticleBackground|File=SEMD-Section.jpg}}
+{{Modifier Exclusive|II Hate This、[[Super Epic Mode|超级史诗模式]]或[[April Fools 2026|2026年愚人节]]}}
+{{InfoBox:Entity
+|entity_name=[[File:D-35iiPlaceholder.gif|frameless|link=D-35ii]]
+|entity_image=D-35ii.webp
+|nicknames=The Toxic Loser（有毒废柴）<br>Omega Shadow winner（欧米伽暗影优胜者）
+|gun_effect=无
+|appears_at=D-035+(?)（[[Super Epic Mode|超级史诗模式]]/[[April Fools 2026|2026年愚人节]]修饰符下）<br>开启'''II Hate This'''修饰符时的任意位置
+|locker_snipe=否
+|behavior=与[[D-35i]]行为一致，但撞门后会向若干房间释放毒气
+|damage=秒杀
+|claustrophobia=否
+|caption-entity_image=毒气糊你脸 >:)
+|type=冲刺者
+|related_monsters=[[D-35i]]
+|sound1=<center>氛围音</center><center>[[File:D-35iiAmbi.mp3]]</center>
+|sound2=<center>消失</center><center>[[File:D35iiDespawn.mp3]]</center>
+|sound3=<center>金属门碎裂</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== 描述 ==
+'''D-35ii'''是'''R:FF:R'''中第三个'''ii'''变种。
+
+== 行为 ==
+'''D-35ii'''是[[Super Epic Mode|超级史诗模式]]下的最后一个''ii''变种。它生成后会先锁门，再向当前房间冲刺，撞到门后就会爆炸，无论如何都会将门破坏，同时释放覆盖约2间房的毒气。
+
+== 应对策略与技巧 ==
+* 如果你身处当前房间，请尽快从躲藏处出来向后逃生，避免被毒气伤到
+** 你也可以向前跑继续推进进度，但会受到伤害（伤害不高）
+
+== 你知道吗 ==
+* '''D-35ii'''是目前唯一能在其作用范围内造成中毒伤害的实体。
+* '''D-35ii'''曾在[[April Fools 2026|2026年愚人节]]活动期间临时加入[[Section D|D区]]。
+* 目前D-35ii的跳杀存在一个漏洞：触发时没有音效，且会导致你的游戏软锁。
+
+[[Category:Omega Variation]]
+[[Category:Rusher]]

@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #cc00fb; color: #d380ff;">Lunge</Span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Lunge
+|entity_image=Lunge.png
+|previous_entity=[[Tackle]]
+|next_entity=[[Execution]]
+|claustrophobia=No
+|appears_at=Dark/[[Red Rooms]] in the [[Unnamed Sector]]/Rarely normally
+|type=Rebounder
+|behavior=Will rush to the door then it will start rebounding and making [[D-60]]'s rebound sound alert when rebounding at least 5 times
+|speed=Moderate
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|gun_effect=None
+|damage=Instant Death
+|related_monsters=[[Mori]]<br>[[False Witness]]<br>[[Tackle]]
+|sound1=<center>Spawn</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:LungeAmbience.mp3]]</center>
+|caption-entity_image=}}
+
+==Description==
+'''Lunge''' may be one of the entities you migth encounter through your journey in the [[Unnamed Sector]], it is the Alt version of [[Tackle]].
+
+==Mechanics==
+When '''Lunge''' spawns, it will rush to the door, hitting it and falling, then make the same rebound warning that [[D-60]] makes before coming back to the main room, Almost exactly like [[Tackle]], but with a difference, '''Lunge''' will rebound more, and each time it changes direction it will change speeds.
+
+==Strategies==
+When you hear its spawn cue, hide, when he goes a bit far leave the locker and enter again once you hear the [[D-60]]'s rebound alert sound
+
+==Trivia==
+'''Lunge''''s old name was Shulk
+
+== Gallery ==
+<gallery>
+File:Lunge ingame.png|'''Lunge''' seen in-game (Low quality)
+File:OtherLunge.webp|Ditto
+File:Lunge Fallbacking.png|Lunge falling back
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

@@ -1,0 +1,257 @@
+{{Stub}}
+
+<tabber>
+|-|R:FF:R OST Volume 1=
+'''R:FF:R OST Volume 1'''
+{| class="fandom-table" style="text-align:center"
+!Song Title
+!Where
+!Ingame Soundtrack
+!Link
+!Note
+|-
+!'''Abandon Hope'''
+|Lobby theme
+|[[File:Abandon Hope.mp3|middle]]
+|[https://www.youtube.com/watch?v=sl66hx1LRcg Youtube]
+|-
+!'''Ponderous Shopping'''
+|[[Endellion]]'s radio theme
+|[[File:PonderousShopping.mp3|middle]]
+|[https://www.youtube.com/watch?v=LWcFZ_8isLg Youtube]
+|-
+!'''Eventual Demise'''
+|Waiting for other players to load
+|[[File:Placeholder.mp3|middle]]
+|[https://www.youtube.com/watch?v=x8qet01-jYw Youtube]
+|-
+!'''Derelict'''
+|[[Section D]] during the Derelict section
+|[[File:Derelict.mp3|middle]]
+|[https://www.youtube.com/watch?v=b0SN5ehD3Jo Youtube]
+|-
+!'''Trepidation'''
+|Old theme that played while [[D-60i]] was active
+|[[File:TREPIDATION.mp3|middle]]
+|[https://www.youtube.com/watch?v=xhUaF0Ya1tE Youtube]
+|cant be heard naturally anymore
+|-
+!'''Maintenance'''
+|[[Section M]] intro
+|[[File:Interchange.mp3|middle]]
+|[https://www.youtube.com/watch?v=mr9PRHd94ak Youtube]
+|-
+!'''Devour'''
+|Whenever [[Mouth]] is active within [[Section A]] or [[Section D]]
+|[[File:DEVOUR.mp3|middle]]
+|[https://www.youtube.com/watch?v=Lv1vn8uvqtc Youtube]
+|-
+!'''Midnight Hour'''
+|Whenever a player has [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] loaded
+|[[File:MidnightHour.mp3]]
+|[https://www.youtube.com/watch?v=7qjcEAWs7sM Youtube]
+|cant be heard naturally
+|-
+!'''Escalation'''
+|During a [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] locker breach
+|[[File:Escalation.mp3]]
+|[https://www.youtube.com/watch?v=jNfhg-7yQyI Youtube]
+|-
+!'''Sovereignty'''
+|During a [[Player Controlled#Corporeal Void|Corporeal Void]] locker breach
+|[[File:VoidBreach.mp3]]
+|[https://www.youtube.com/watch?v=e-IfbNv5HGY&pp=0gcJCQMLAYcqIYzv Youtube]
+|-
+
+|-|R:FF:R OST Volume 2=
+'''R:FF:R OST Volume 2'''
+{| class="fandom-table" style="text-align:center"
+!Song Title
+!Where
+!Ingame Soundtrack
+!Link
+!Note
+|-
+!'''Thousand Ends'''
+|A-1000
+|[[File:A1000New.mp3]]
+|[https://youtu.be/1nJ0j0W7cZ4?si=eLsUk58m9EibSCCX Youtube]
+|-
+!'''Forget Us Not'''
+|D-190 - D-200
+|[[File:Forget Us Not.mp3]]
+|[https://youtu.be/X1cmbHLtFSE?si=AZIXtE62xdaonK5L Youtube]
+|-
+!'''System Lockdown'''
+|[[D-200]] Boss Fight
+|[[File:SystemLockdown.mp3]]
+|[https://youtu.be/ZP1KoAW5h-M?si=-8wjmO7wxGn_JdIm Youtube]
+|-
+!'''Trepidation V2'''
+|[[D-60i]]'s Theme
+|[[File:TrepidationV2.mp3]]
+|[https://youtu.be/gH1G7IonCoM?si=8GWlJjbR9B22kn9k Youtube]
+|-
+!'''Deeper Bellow'''
+|D-1000
+|[[File:DeepBellow.mp3]]
+|[https://youtu.be/_NwgmTBI-Cc?si=bYzOpdp2Q2NTnkR5 Youtube]
+|-
+!'''Emergency Evasion'''
+|M-1000
+|[[File:Emergency Exit.mp3]]
+|[https://youtu.be/GeB2HHlzx0U?si=dpY59a8iA8tfKlxZ Youtube]
+|-
+!'''Executive'''
+|[[Section E]] Intro
+|[[File:Executive.mp3]]
+|[https://youtu.be/XiD1k7wTjtE?si=oh7CzidCCh3s9uDF Youtube]
+|Origin slowed down to 0.98 ingame
+|-
+!'''Verge Of Breakdown'''
+|E-1000
+|[[File:Verge Of Breakdown.mp3]]
+|[https://youtu.be/71V6Fb1dW5E?si=xFQqVlCQqltzzt2T Youtube]
+|-
+!'''Devour (ENRAGED)'''
+|Whenever [[Mouth]] is active within [[Section M]] or [[Section E]]
+|[[File:DEVOUREnraged.mp3]]
+|[https://youtu.be/0em_O3MUDA0?si=PN4wacbpl77xJJDo Youtube]
+|-
+!'''Threshold of the Undefined'''
+|[[Mouth|False-300]]'s chase
+|[[File:Threshold of the Undefined.mp3]]
+|[https://youtu.be/Octbf_-KDm8?si=2EwIadvEb4x_9yMv Youtube]
+|-
+
+
+|-|Other Soundtracks=
+'''Other Soundtracks'''
+{| class="fandom-table" style="text-align:center"
+!Song Title
+!Where
+!Ingame Soundtrack
+!Orgin
+!Note
+|-
+!'''Blue Feather'''
+|A-000 - A-020
+|[[File:BlueFeather.mp3|middle]]
+|[https://youtu.be/tha0s1pg12o?si=badLB_Ox6zZCYjIL Youtube]
+|-
+!'''Anxiety'''
+|A-021 - A-100
+|[[File:Anxiety.mp3|middle]]
+|[https://youtu.be/qO1WG3P1T0I?si=qf3YJ2fZ-EoXV149 Youtube]
+|-
+!'''Niko's Journey'''
+|Kitchen room in [[Section A]]
+|[[File:NikosJourney.mp3|middle]]
+|[https://youtu.be/oRhq1-PAsEg?si=f37FyhGUdJqMA5w1 Youtube]
+|-
+!'''LOSTCORE'''
+|Kev's office
+|[[File:LOSTCORE.mp3|middle]]
+|[https://youtu.be/D86hsJQ1VuM?si=Zs_rNgFObl54vRa5 Youtube]
+|-
+!'''Doctor's Lab'''
+|[[Section D]] during the Derelict section in endless mode
+|[[File:OldSectorDOST.mp3|middle]]
+|[https://youtu.be/GqM4bvtzkow?si=qPjhIeFkFQ5YARTR Youtube]
+|-
+!'''We Gotta Run'''
+|Whenever [[Mouth]] is active in [[Super Epic Mode]]/[[True Legacy Mode]]
+|[[File:OldMouthOST.mp3|middle]]
+|[https://youtu.be/keC6yd7hQWg?si=zYqOl73ZMNO0Vv2u Youtube]
+|-
+!'''Escape From Darkness Suspense'''
+|During [[Red Rooms]]
+|[[File:RRSound4.mp3|middle]]
+|[https://youtu.be/ykBCMvrKDF4?si=6ILTlaAsw9wP-tw5 Youtube]
+|Orgin Slowed down to 0.4 ingame
+|-
+!'''Riots'''
+|Enrage [[D-5i]]
+|[[File:Riots.mp3]]
+|[https://create.roblox.com/store/asset/1837798101/Riots Roblox Marketplace]
+|-
+!'''Calm Waves'''
+|Loading in
+|[[File:CalmWaves.mp3|middle]]
+|[https://youtu.be/ykBCMvrKDF4?si=lc9Xidu1AouwzBsl Youtube]
+|-
+!'''Waking Up To Science [menu]'''
+|loading in
+|[[File:WakingUpToScience.mp3|middle]]
+|[https://youtu.be/AUFTyg2SXLc?si=izgNiZMDP-u_8nCb Youtube]
+|-
+!'''FNF Nightlight Menu Music'''
+|loading in
+|[[File:NightLight.ogg]]
+|[https://youtu.be/IFdSPI714Ic?is=U-5Wg9cd9YBFavyU Youtube]
+|-
+!'''All I Had To Do'''
+|when listening to [[Oblivion]]
+|[[File:OblivionDeath.mp3|middle]]
+|[https://youtu.be/JsKN_f5mSLk?si=FtSDFC43yQAAA_8X Youtube]
+|Orgin slightly slowed down ingame
+|-
+!'''GLACEIR'''
+|Beginning Theme of [[Unnamed Sector]]
+|[[File:IntoTheUnknown.mp3]]
+|[https://youtu.be/HkZROzxUvAo?si=7h_Ii7qslZUDyecx Youtube]
+|Slowed down to 0.96 ingame
+|-
+!'''Shadow Candy Theme'''
+|During the [[Shadow Challenge]]
+|[[File:SCMain.mp3|middle]]
+|[https://youtu.be/IEd4zLW3iWg?si=1G1AgPASnV54EKhT Youtube]
+|-
+!'''Good Luck'''
+|When being breached by [[SHA-200]]
+|[[File:SHA200Breach.mp3|middle]]
+|[https://youtu.be/ycYFr34dvX4?si=JXkm7LxfdMUGy92N Youtube]
+|-
+!'''The Binding of Isaac'''
+|when listening to [[Overseer]]
+|[[File:OverseerDeath.mp3]]
+|[https://youtu.be/of_2Bfh7ZhA?si=1y-J887v5nVwd614 Youtube]
+|Orgin slowed down to 0.7 and pitched down to 0.9 ingame
+|-
+!'''Temporal Tenacity'''
+|when being breached by [[LAPSE-200]]
+|[[File:TemporalTenacity.mp3]]
+|[https://youtu.be/8a2sfszREZc?si=BxA0XsYnbObdp24P Youtube]
+|-
+!'''FORSAKEN UST: YOURSELF JOHN DOE LMS'''
+|Rare chance when being breached by a [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] member
+|[[File:Rare breach soundtrack.mp3]]
+|[https://youtu.be/YR-fLn7RGK0?si=O1uHXc828u121s7a Youtube]
+|-
+!'''First Warning [Remix]'''
+|Reaching the Asiyah threat level by killing enough [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] members
+|[[File:Gate1.mp3]]
+|[https://youtu.be/Qd1XSVa18fo?si=BPx6w0sFEtNf1gCC Youtube]
+|-
+!'''Second Warning [Remix]'''
+|Reaching the Briah threat level by killing enough [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] members
+|[[File:Gate2.mp3]]
+|[https://youtu.be/zyoLNSUQJVE?si=aMD2pmEyO0Nwxdck Youtube]
+|-
+!'''Third Warning [Remix]'''
+|Reaching the Atziluth threat level by killing enough [[Player Controlled#Striketeam_Solstice|Striketeam Solstice]] members
+|[[File:Gate3.mp3]]
+|[https://youtu.be/0HKVd4WQzRY?si=ULNa8GreSNgpDr1p Youtube]
+|-
+!'''Fourth Warning'''
+|Getting attention from [[Player Controlled#Corporeal Void|Corporeal Void]]
+|[[File:Gate4.mp3]]
+|[https://youtu.be/Z7Hxuk7akdc?si=K18No4KCajxTxhuC Youtube]
+|Orgin slowed down to 0.9 and pitched down to 0.83 ingame
+|-
+!'''A Creation Of Sorrow'''
+|while being breached by [[Player Controlled#Lucy|Lucy]] or [[Player Controlled#Ava|Ava]]
+|[[File:ACreationOfSorrow.mp3]]
+|[https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO Youtube]
+|-
+</tabber>

@@ -1,0 +1,32 @@
+{{InfoBox:Entity
+|entity_name=[[File:U-5_title.png|frameless|link=U-5]]
+|entity_image= Spin.gif 
+|caption-entity_image=Miehahahahahha
+|appears_at=Admin Only.
+|nicknames=Chesire
+|type=Rusher
+|behavior=Rusher
+|gun_effect=None
+|claustrophobia=No
+|damage=None
+|speed=35 studs per second
+|related_monsters=[[UI-5]]<br>[[CARDBOARD-5]]<br>[[M-7]]
+|sound1=<center>Near Sound</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==Description==
+'''U-5''' is a simple rusher that can only be spawned by admins.
+
+==Behavior==
+'''U-5''' will play the [https://create.roblox.com/store/asset/1846862303/Horror-Race Horror Race Song] and after a long time it will rush to the door
+
+==Strategy & Tips==
+U-5 cant kill the player, so just let it pass
+
+==Trivia==
+
+* '''U-5''' it's the same entity from the April fools '''U-5''' from Interminable Rooms.
+* '''U-5''' is the 1st Interminable Rooms entity in game. The 2nd being [[A-258 (IR)]]
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

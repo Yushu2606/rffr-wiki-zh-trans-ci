@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件采用自由许可证授权。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:Freely licensed files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

@@ -1,0 +1,552 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">Oblivion</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{InfoBox:Entity
+|entity_name=Oblivion|link=<nowiki>Oblivion]]</nowiki>
+|entity_image=entity_image=<gallery>
+Oblivion.png|Normal Form
+Humanoblivion.jpeg|Corporeal Form
+</gallery>
+|nicknames=Oblivion, "Guiding light"
+|appears_at=At the death of any player.
+|type=Harmless (?)
+|behavior=Tells the players how to survive the entities that killed them. And also helps marking an X/✓ when [[M-60]]/[[M-60i]] spawns.
+|speed=???
+|damage=???
+|related_monsters=[[Overseer]]
+|sound1=<center>Main Theme</center><center>[[File:OblivionMain.mp3]]</center>
+|sound2=<center>[[Unnamed Sector]] Entrance</center><center>[[File:OblivionUnnamed.mp3]]</center>
+|sound3=<center>Death Screen Theme</center><center>[[File:OblivionDeath.mp3]]</center>
+|sound4=<center>During Perfection Events/Disable Oblivion Setting</center><center>[[File:NumberNotInService.mp3]]</center>}}
+
+== Description ==
+Oblivion is one of the VERY FEW passive entities and the only one that helps the player through communication.
+
+== Behavior ==
+<tabber>
+|-|Normal Form=
+'''Normal:'''<br>Oblivion is the entity that will tell you how to survive the entities and sometimes may say some extra information about them during it's dialogue. It will also warn you about other entities when inside a run with an example being [[M-60]] and [[M-60i]].
+
+Altrough, '''Oblivion''' is unable guide players on how to survive the Shadow entities due to not them fully understanding what the shadows are or how any of them work.
+
+|-|Corporeal Form=
+'''Corporeal Form:'''<br>Look at [[Player Controlled#Corporeal_Oblivion|Player Controlled]]
+</tabber>
+
+
+== Lore ==
+'''Oblivion''' Used to live in the [[Unnamed Sector]], that's all we know.
+
+==Trivia==
+* '''Oblivion''' lends some of his power to the player when their locker is breached by a [[Player Controlled#Striketeam_Solstice|Striketeam Solstice Member]], [[SHA-200]] or [[LAPSE-200]].
+* '''Oblivion''' was taken from the Doors ideas wiki, which can be found [https://doors-ideas.fandom.com/wiki/Oblivion here]
+* '''Oblivion''' is replaced by the [[Overseer]] for when a Perfection Event happens, which happen on any Friday the 13th
+* he canonically can chug three orange colas at record speeds. Along with that, strangely enough, oblivion was also seen downing an entire can of beans at surprisingly high speeds.
+* For the Perfection Events, '''Oblivion''' wont mark lockers for when [[M-60]] and [[M-60i]] spawns, due to [[Overseer]] taking their place for the events.
+* Oblivion's Death Screen theme is "All I Had To Do" by Keosz on YouTube, But slightly pitched down.
+** https://youtu.be/f640b8FC-eg?si=WawtXyhBdN5qJaKF
+
+== Death Messages ==
+<tabber>
+|-|Section A=
+<h2> [[A-20]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by A-20.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20 will announce their presence before rushing towards you from behind. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to any cues that may hint at its arrival.'''</span>
+
+<h2> [[A-20i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to A-20i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20i is a stronger version of A-20 that may rarely replace it.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If the lights are red, A-20i will alwaysreplace its twin.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to any cues that may hint at its arrival.'''</span>
+
+<h2> [[A-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-60...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is a tricky one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Listen closely to the sound of its appearance. </span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not leave hiding until it disappears.'''</span>
+
+<h2> [[A-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-60i...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-60i may rarely attack after A-60 does.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you suddenly see static after A-60 disappears, hide before A-60i reaches you!'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will give little to no warning as it approaches you, so hide as soon as you see the static.'''</span>
+
+<h2> [[A-85]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-85 has caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear from the front. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When it appears,  simply hide away from it.'''</span>
+
+<h2> [[A-85i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-85i, known as "Banshee."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear from the front.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will rebound many times.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-85i likes to think he is playing a game with you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You must win its game to make it go away.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You will do this by advancing a certain number of doors before it comes back each time.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''However,  it doesn't like when you are winning its game.</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After beating him enough times, he will get angry at you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''During this time, he will get faster.</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attentionfor his unique sound!'''</span>
+
+<h2> [[A-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-120, called "The Glitched Scribble"
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you hear drumming sounds and "chittering" from the next door, hide quickly away from it.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''However, do not rush. It may rebound.'''</span>
+
+<h2> [[A-135]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-135...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you hear subtle drumming from the next door, hide in a blue locker.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Ensure it is a blue locker.  It will check others.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Claustrophobia won't attack while A-135 is active.  Use this to your advantage!</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...Before i go,'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hiding underneath a table can also prove affective.</span>
+
+<h2> [[A-135i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-135i, known as "The Reporter."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It's a rare variant of A-135, and it shares some similarities to its normal counterpart. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you hear a distorted laughter followed by a bang sound, A-135i is approaching. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-135i will check all non-blue lockers in the current room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Stay on high alert, as A-135i can rebound back once leaving.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...Before i go,'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hiding underneath a table can also prove affective.</span>
+
+<h2> [[A-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-200 caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will knock on the door ahead before approaching. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not leave hiding too early, or it will rebound.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When it disappears,  it will howl. Then, you are safe to leave.'''</span>
+
+[[A-200|A-200's Trap]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''You fell for A-200's trap.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Make sure to avoid opening the door while A-200 is waiting behind it.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Instead, hide in a locker and try not to rush through rooms.'''</span>
+
+<h2> [[A-200i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-200i, Called "Insidæ Prime"'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is unpredictable,  nearly undetectable,  and exceptionally rare to encounter. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It may randomly attack after A-200 does.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you may have learned from A-60i!'''</span>
+|-|Section D=
+<h2> [[D-5]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were seen by D-5'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Its lone eye can see very far, and things we can't see.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''All it needs to kill you is a direct line of sight; how far away you are will not matter.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Its eye is vulnerable to damage. If you can, try shooting it out to prevent D-5 from harming you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Listen closely for the unique sound of its movement.  When you hear it, find a place out of its sight.</span>
+
+<h2> [[D-5i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-5i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Its many eyes can see very far, and things we can't see. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is a stronger version of D-5.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If D-5i sees you, it will harm you just like D-5 would.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''However, you must also not hide when it is far away.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Finally, do not allow it to fool you. It can fake its disappearance.'''</span>
+
+<h2> [[D-20]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-20...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It stares at people from afar.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not stay close by for too long.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It has a physical form, so it can be damaged and destroyed if you have a weapon. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, and dont be an idiot next time.'''</span>
+
+<h2> [[D-35]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-35.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He's a stronger version of A-20, so use what you learned from him!'''</span>
+
+<h2> [[D-35i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-35i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is a stronger and faster version of D-35.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It may attack after D-35.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-35i is a lot like D-35, except he doesn't have an alert to his presence,  so pay attention!'''</span>
+
+<h2> [[D-55]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-55 caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will break every dark locker or supply cabinet in the latest rooms.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hide in blue lockers or white cabinets.'''</span>
+
+<h2> [[D-55i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-55i caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It a stronger version of D-55, and it has its differences.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will come in through the front, blocking the door as it approaches.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-55i will then break through the next door and destroy every dark locker or supply cabinet in the 5 latest rooms while leaving a trail of fire behind it.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Just like D-55, hide in blue lockers or white cabinets, and stay out of its trail.'''</span>
+
+<h2> [[D-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by D-60.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is like A-60, but faster, and it can rebound.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not rush, do not fall behind. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When D-60 comes to the current room and has finished its rebounding cycle,  it will become silent.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not let this fool you. Wait until D-60 fully disappears.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Wait until you hear a wind-like sound, indicating its disappearance. </span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Beware that while D-60 is silent, it can start its rebounding cycle again.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Next time, be cautious and make sure that D-60 is gone.'''</span>
+
+<h2> [[D-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by D-60i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one's long,  so sit tight and pay attention. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-60i is like D-60 in many ways. However, it is significantly more powerful.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It has been a long time since this entity was awakened.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Some say it at one point invaded Section A, earning it its nickname. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This is how you are to fight against it...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When it spawns,  it will display a short countdown before it forms.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When D-60i finishes forming, it will become lethal. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hide away from it when it rebounds. Be wary, it is fast and unpredictable. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When it breaks down doors in front of you, it may spawn entities frequently. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Remember, Claustrophobia will not attack when certain entities like D-5 are active. Use this to your advantage. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Continue to do this until D-60i overcharges, indicated by its sound becoming higher pitched.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''While it is overcharging, it is still lethal, so wait until after it disappears before leaving hiding.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This may seem complicated, and it is. Fear not, D-60i is exceptionally rare to encounter. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Try to remember this information for the next time you meet it!'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, one other thing...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you manage to survive long enough,  be ready to think fast.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''In its enraged state, D-60i breaks lockers at random in each room he enters.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''To counter this, your strategy won't need drastic changes; just think faster and make sure you know where hiding spots are.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You'll do better next time. I believe in you.</span>
+
+<h2> [[D-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-120.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It comes from the front.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is like A-85 in many ways, so use what you learned from him!'''</span>
+
+<h2> [[D-140]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-140.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It spawns from the front before rebounding.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It then checks all blue lockers and white cabinets in the main room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-140 also checks a few rooms back, so make sure you've hidden correctly. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one in particular works a lot like D-55, so you should employ the same strategy here.'''</span>
+
+<h2> [[D-175]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-175...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-175 will hide in any locker in any locker in the room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hiding in a locker with D-175 inside it will make it harder to hear along with slow damage being dealt.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Beware of the fog that D-175 creates from the bottom of the locker.'''</span>
+
+<h2> [[D-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-200, known as "The Dementor. "'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''As you could probably tell, he's...different. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When you hear the trumpet signaling his arrival or see the lights turning white, hide.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Keep in mind, however. You *must* hide from him in a locker,  or something similar. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Trying to use out-of-sight places will not work.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Using safe spots can help you avoid Claustrophobia, but try to use locations that are close to a locker.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Something about him, the trumpets signaling his arrival have odd properties.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''They're supposed to make people drowsy,  granting D-200 an easier time securing kills...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Though, for whatever reason, it seems like you're immune.'''</span>
+
+<h2> [[D-250]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-250, who is known as "Tumult."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will Appear from underneath the floor, and will wait until the door is opened.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After the door is opened, D-250 will rise out from under the floor and into the room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''From there, he will summon orbs that deal damage, even in hiding!'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After a couple of seconds, he will smash into the door and disappear.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Remember to be sure of where you're at when dealing with D-250, and use what you've learned from other entities!'''</span>
+
+|-|Section M=
+<h2> [[M-22]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22 has caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He makes a distinct auditory cue. Keep your ears open; your hearing will be your best weapon against M-22.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It rushes to the door from behind you. Pay attention to know when it arrives.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22 will rebound once, so don't leave too early.'''</span>
+
+<h2> [[M-22i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-22i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It spawns after a normal M-22 rebounds back.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will rush silently to the front, break a door, and slam into the next door before rebounding.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22i can also bring along others when hitting the next door.'''</span>
+
+<h2> [[M-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by M-60...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It checks one locker at random in the most recently opened room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Whenever M-60 attacks,  I will mark the locker it intends to check.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not hide in the locker I mark.'''</span>
+
+[[M-60|M-60 check kill]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-60, "The Arbiter."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''*sigh* Let's just get this over with, thanks. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''I thought a giant red "X" means "no entry" last i checked.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Simple concept,  right...?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Whenever M-60 attacks, I will mark the locker it intends to check.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not hide in the locker I mark. Let my lights guide you.'''</span>
+
+<h2> [[M-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-60i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It checks lockers at random in the most recently opened rooms.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Whenever M-60i attacks, i will mark the lockers it does not intend to check.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not hide in the lockers i don't mark.'''</span>
+
+<h2> [[M-70]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-70, who is known as "The Broadcaster."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-70 closes the doors when he spawns. It will also actively light up any nearby signs. When he does, hide!'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-70 will return for those who leave their hiding spot before it leaves. Wait untill the doors reopen.'''</span>
+
+<h2> [[M-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by M-120...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will spawn at the front, and then backtrack after sabotaging the sign'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will then play another drumming sound, and then mimic a random entity from the A-Section or D-Section.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to sound and visual cues to determine the entity M-120 is mimicking'''</span>
+
+<h2> [[M-120i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+<h2> [[M-134]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-134.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It hides in lockers.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-134 makes a distinct crackling sound when it is in a locker. Listen closely to determine where it is.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not rush in or out of its locker too quickly.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If it catches you, hide in a different locker.  The fire will go out more quickly.'''</span>
+
+<h2> [[M-150]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It seems you've died to M-150...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It spawns either a white or blue light along with sabotaging the sign.</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will then appear and begin checking lockers with the same color as itself.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hide in lockers opposite to the color of M-150.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-150 will only check the latest 2 rooms before despawning.'''</span>
+
+<h2> [[M-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It seems you died to M-200...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one is a lot like D-140, so employ a similar strategy with this one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear from the front.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It breaks all blue lockers.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use other hiding spots to remain safe.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If there are only blue lockers, God help you.'''</span>
+
+<h2> [[M-340]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+|-|Unnamed Sector=
+<h2> [[Mori]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''That should make this easy to explain.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by Mori.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will flicker the lights upon spawning, but it might not at times.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Some have said it also has many other tricks up its sleeve...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from the other entities you have encountered thus far.'''</span>
+
+[[Mori|Invasion Message]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, the purple one...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Kev asked me not to help with this entity. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry.'''</span>
+
+<h2> [[Mortis]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one's a bit different than what you thought it was.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by Mortis, otherwise known as Mori-Alt.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Mortis is a variant of Mori that's mainly found if the lights are off or red, but it can rarely be found even if they aren't'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will flicker the lights upon spawning before rushing up to the door and despawning.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Mortis, like Mori, can sometimes use other tricks, so be careful.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from Mori, as it has a lot of similarities.'''</span>
+
+<h2> [[False Witness]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh boy... this one's a bit troublesome...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''The False Witness killed you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will rush through the rooms similar to Mori.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''However, do not be fooled. It will do this more than once before truly disappearing.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is completely silent when rushing after its first time.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After attacking silently 1 to 3 times, it will fully disappear.'''</span>
+
+[[False Witness|Invasion Message]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''Wait a second, I know that guy.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Yeah, Kev asked me not to help you with this one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Gonna need to leave you in the dark on this one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry about that, {User}.'''</span>
+
+<h2> [[False Prophet]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh... this one's a bit more troublesome than what you remember...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to The False Prophet, otherwise known as False Witness-Alt.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will act similarly to False Witness, but with a slight difference.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Once fake despawning, False Prophet will begin gaining more speed every time it comes back.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will return a similar amount of times as False Witness, if not, more.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''There will be no indication on when False Prophet will come back, so be careful.'''</span>
+
+<h2> [[Tackle]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, that one. This shouldn't be too hard...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to Tackle.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is but a simple rebounder.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from previous entities such as A-120 and D-60.'''</span>
+
+[[Tackle|Invasion Message]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, the blue rebounder...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Yeah, Kev asked me not to help you with this one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Need to leave you in the dark for now.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry about that, {User}.'''</span>
+
+<h2> [[Lunge]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, that one has a bit to it. Still shouldn't be that hard...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to Lunge, otherwise known as Tackle-Alt.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Similarly to Tackle, Lunge will rebound time and time again.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Only difference being that Lunge will rebound more, and each time it changes direction its speed will change.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from Tackle to your advantage, as Lunge isn't too much different.'''</span>
+
+<h2> [[Execution]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one is a bit harder than the others...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Execution killed you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will spawn in one of the monitors placed around the section.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will check every non-blue locker after breaking free from its monitor.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Be sure to hide in a blue locker or stay in a previous room.'''</span>
+
+<h2> [[False-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...A-60?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''That doesn't look like A-60...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''I don't know what that is.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Just try again.'''</span>
+
+<h2> [[False-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...A-120?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This isn't A-120...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''I don't know what that is.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Try again?'''</span>
+
+<h2> [[False-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...A-200?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''That doesn't look like A-200...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''I don't know what that is.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry about that, {User}.'''</span>
+
+|-|Section E=
+<h2> [[E-10]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to E-10, known as "Patience."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It can be a tricky one.</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He spawns to the front and rushes back, but thats not all he will do.'''</span>'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''he will then wait until a door is opened before rushing back to current room, this includes entities breaking a door.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Opening extra doors will cause E-10 to speed up, use this to your advantage.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''From here on, the entities have become stronger. Pay closer attention to them.'''</span>
+
+<h2> [[E-10i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to E-10i, known as "Virtue."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will act similarly to E-10, but a bit differently.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-10i can sometimes teleport back behind you upon hitting the door, waiting for another door to open'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He will teleport back a total of 1-4 times before truly despawning.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to if E-10i teleports back or despawns, as he can catch you off guard easily'''</span>
+
+<h2> [[E-30]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by E-30...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It can be a tricky one, being difficult to detect if you're not observant.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It rushes to the door from behind you, entering a faint rumbling sound.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He works similarly to D-35i, so see if you can work around him next time.'''</span>
+
+<h2> [[E-30i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-30i has caught you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It attacks after E-30 passes by.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will rush to the door just like E-30 does, however he is much quieter.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention after E-30 hits the door, as E-30i can be difficult to detect.'''</span>
+
+<h2> [[E-45]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to E-45, known as "Alteration."'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear as a locker, but with some differences.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-45 will attack anyone who tries hiding in its locker.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to the lockers, E-45's locker will be colored differently!'''</span>
+
+<h2> [[E-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by E-60...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It's difficult to detect if you're not listening.</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear behind you and rush to the door. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''But he isn't done after that.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He will wait behind the next door in order to try catch you off guard. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After which he will break down the door and rush backwards. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''At this point, he is gone. '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He works similarly E-10 and E-30!'''</span>
+
+<h2> [[E-90]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It seems you have died to...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...E-90? How?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Nevermind, I'm not gonna bother asking...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Besides, you should know what this guy does by now.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-90, also known as "Espionage", will appear as a mirage somewhere beside you.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Additionally, he will make a faint droning noise when he appears.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''He does not like being looked at, so try to look at him for the least amount of time.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After some time passes, he will eventually give up.'''</span>
+
+<h2> [[E-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to E-120.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It can be a tricky one.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-120 will appear ahead of the door, and its faint light and wisps can be seen.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will then destroy the hinge of the door and push it open after a few seconds.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After breaching the door, E-120 will wander around the room, moving towards anyone it hears.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-120 can also check lockers if you hide near it.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If your locker is searched, find a different spot hide.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh yeah, and a few more things...'''</span>
+
+<h2> [[E-165]] </h2>
+None as of now
+
+<h2> [[E-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''... You died to E-200.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It  isn't much like the others.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-200 will signal its arrival by filling the rooms in a dark red fog.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After a moment, it will begin moving up to the current room, breaking signs as it moves.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-200 is unable to break the door upon hitting it for the first time, it will movee back a few rooms before returning and hitting the door again.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will repeat this cycle until it manages to fully break the door down, only then will it go back and leave for good.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''There will be a noticeable audio cue whenever E-200 is about to rush back up, hide when you hear it.'''</span>
+
+<h2> [[E-245]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...You died to E-245.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one enjoys being the most unpredictable of them all.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-245 spawns from the back and begins rushing up the latest door, similar to many other entities.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Once hitting the door and moving to the middle of the room, it will then open its mouth and begin cycling through a few different symbols shown in its eye.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Each symbol ties to its own mechanic, making it difficult to determine what it will do upon first sight.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to the symbol shown in the eye of E-245, use that to determine what it will do!'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is unable to kill while it is rolling its mechanic, use that to your advantage!'''</span>
+
+<h3> Dodge </h3>
+TBA
+
+<h3> Burning </h3>
+TBA
+
+|-|Misc=
+<h2> [[Void]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+[[Void|Void-90]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+<h2> [[X-1200 Entities]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+|-|Other=
+<h2> [https://official-rooms-found-footage-renovated.fandom.com/wiki/Entities#Shadow_Entities Shadow Entity] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Alright, what was it this ti-...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Uhhh... well then.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Yeah, uh.. sorry, i really cant help you at this moment in time. Maybe later.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Need to leave you in the dark for now.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''I didn't make the rules. Sorry about that, {User}.'''</span>
+
+<h2> [[A-20ii]] </h2>
+
+*<span style="text shadow: 0 0 5px red; color: red;">'''Well, I don't know what's happening anymore, A-20ii exists now, apparently.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20i, at times, may eat too much chilli peppers depending on if you have the "II Hate This" modifier on.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It can check a random blue locker throughout the rooms, depending on how many there are in each room.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you're unlucky enough fo be caught in a blue locker, these peppers may explode in your face. So..'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to any deep wind sounds, that's been a trend with many of the smilers...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh wait, have you... Actually nevermind...'''</span>
+
+<h2> [[A-20ii|Old A-20ii]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by.. a yellow A-20? Great, this will be fun to explain.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20ii is an ultimate being of the all-knowing, it also may replace A-20i.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If pigs can fly, then A-20ii will always replace A-20i.'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''It can check one locker in the locker in the current room, so be sure to choose wisely.'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Otherwise you will be killed by a big yellow smiler. It's very scary. Even I'm scared of it.'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Pay attention to any cues that may hint its arrival.'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Oh wait, have you seen any birds around here? There might be one...'''</span>
+
+<h2> '''Other Player''' </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by {User}.'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Not everyone can be trusted.  Be careful!'''</span>
+
+<h2> '''Striketeam Solstice''' </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA'''</span>
+
+<h2> [[GOD-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Uhhh...'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''since when was this a thing?'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''well, either way, god200 is our savior'''</span>
+
+</tabber>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Harmless]]

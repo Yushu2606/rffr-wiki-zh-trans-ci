@@ -1,0 +1,35 @@
+{{Suggested|Collese（制作了该实体的原始模型，开发团队很喜欢）}}{{Stub}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=Pipe Bomb（管炸弹）
+|entity_image=PB.jpg
+|next_entity=???
+|previous_entity=???
+|appears_at=[[Super Epic Mode|超级史诗模式]]中随时出现
+|type=静止者
+|behavior=会生成在房间中央，数秒后爆炸
+|speed=无
+|claustrophobia=否
+|damage=秒杀
+|related_monsters=[[Cherry Bomb|樱桃炸弹]]
+|caption-entity_image=Pipe Bomb（管炸弹）:3
+|sound1=<center>Pipe Bomb（管炸弹）:3</center><center>[[File:PB.mp3]]</center>}}
+
+==描述==
+'''Pipe Bomb（管炸弹）'''是一种稀有实体，可在[[Super Epic Mode|超级史诗模式]]游戏模式中随时生成，是[[Cherry Bomb|樱桃炸弹]]的替代实体。
+==机制==
+它会生成在房间中央，数秒后爆炸，暴露在爆炸范围内的玩家会被击杀，同时还会摧毁同一房间内的所有柜子。
+
+==应对策略==
+躲在前一个房间的柜子里，或是任何爆炸视野外的位置。
+
+==你知道吗==
+* '''Pipe Bomb（管炸弹）'''是[[Cherry Bomb|樱桃炸弹]]的替代实体。
+* 该实体最初是Collese制作的玩笑实体，在Collese制作出'''Pipe Bomb（管炸弹）'''的模型后被正式加入游戏。
+* 巧合的是，Collese在制作完这个实体后不久就成为了福瑞。
+
+* [https://youtu.be/ueu8LbHNswo?si=ppmfpG8ldsv6Y_Oi Update Executive 预告 4.4]
+
+{{EntityNavBox}}
+[[Category:Entities]]

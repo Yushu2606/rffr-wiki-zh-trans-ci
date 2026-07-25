@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px green; color: lime;">A-20i (Smiler X)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-20]]
+|next_entity=[[A-60]]<br>[[A-60i]]
+|entity_name=[[File:NewA20iTitle.webp|frameless|link=A-20i]]
+|entity_image= <gallery>
+NewerA25i.png|Current Design
+25ijump.png|Current Jumpscare Design
+File:A-25iDesign.png|Old Design 
+File:A20i.png|Older Design
+</gallery> 
+|caption-entity_image=green train go brrr
+|appears_at=Anytime Past A-020 - 1 in 75 chance to replace A-20.
+|nicknames=Smiler X
+|type=Rusher
+|claustrophobia=No
+|gun_effect=None
+|locker_snipe=No
+|behavior=Spawns far back and rushes to current room.
+|damage=Instant Death<br>(36 Stud kill radius) 
+Cannot locker snipe
+|speed=150 Studs/s
+|related_monsters=[[A-20]]|sound1=<center>Spawn '''Recreation'''</center><center>[[File:A20iSpawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:A-20i's movement sound..mp3]]</center>
+|sound3=<center>Despawn</center><center>[[File:Despawn.mp3]]</center>
+|sound4=<center>Jumpscare</center><center>[[File:A-20iJumpscare.mp3]]</center>
+|sound5=<center>Old Spawn</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
+
+==Description:==
+A-20i is the first prime entity out of all primes, and is extremely easy to avoid. It is green and looks nearly similar to A-20.  It's movement speed sounds as if it was A-20 but sped up.
+
+==Behavior==
+Upon spawn, A-20i will make a breathing sound like its counterpart, but faster. A-20i will rush to the current room very quickly giving players a few seconds to hide. Once it touches the current rooms door, it will break apart and despawn. Unlike A-20, A-20i instantly kills. 
+
+==Trivia:==
+*'''A-20i''' is the first super entity.
+*'''A-20i''' will not kill the player if they decide to hide using a table (While in the table animation).
+*'''A-20i'''<nowiki/>'s name was previously going to get changed to A-25i, this has now been reverted.
+*Past A-1000, '''A-20i''' will start to replace A-20 more often
+*<nowiki>''Stay Alert'' modifier doesn'</nowiki>t affect '''A-20i'''
+'''A-20i''' has a  1 in 75 to replace A-20 when it attempts to spawn (Increases as room number increases (in endless) ) (Guaranteed to replace in [[Red Rooms]], room A-2000+ and in any modifier except Stay Alert).
+
+==Gallery==
+
+<gallery>
+Newa25ijump.gif|A-20i's Current Jumpscare
+NewA-25iJumpscare.gif|A-20i's Old Jumpscare
+A-25iScary.gif|A-20i's Older Jumpscare
+TrueLegacyA-25i.png|True Legacy/Super Epic Mode Design
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

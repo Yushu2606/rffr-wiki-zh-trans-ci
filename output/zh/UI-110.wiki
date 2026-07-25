@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-110Placeholder.gif|frameless|link=UI-110]]
+|entity_image=UI110.webp
+|previous_entity=[[UI-83]]
+|next_entity=[[UI-157]]
+|appears_at=I-110+
+|type=冲刺者
+|damage=秒杀
+|related_monsters=[[UI-157]]
+|sound1=<center>Active（活跃） '''Moderated（已调节）'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:Ui110.mp3]]</center>}}
+
+== 描述 ==
+'''UI-110'''是你在[[Section Interchange|Section Interchange（换乘区）]]内可能遇到的第6种实体，更多信息如下。
+
+== 行为 ==
+当'''UI-110'''生成时，它会播放名为「Horror Race（恐怖竞速）」的乐曲，和I区内的所有其他实体一样。如果当前存在更多实体，它会播放同一首歌，但音高更高、速度更快。
+
+'''UI-110'''会通过发出极其巨大的声响宣告自己的出现，随后会以极快的速度冲向门，抵达后就会消失。
+
+== 攻略与技巧 ==
+听到它的声音立刻躲藏，因为它的速度非常快。
+
+== 你知道吗 ==
+* 和大多数UI实体一样，'''UI-110'''是作为玩笑内容加入的。
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

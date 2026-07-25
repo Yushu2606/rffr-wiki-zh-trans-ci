@@ -1,0 +1,65 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #5b00f4; color: #985dfb;">SHA-4 (Recall)</span>}}
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{HeadphonesNotice}}
+{{NoteBox|note='''SHA-4'''目前存在漏洞，无法在[[Shadow Challenge|暗影挑战]]中生成。}}
+{{InfoBox:Entity
+|entity_name=SHA-4
+|entity_image=<gallery>
+NewSHA4.webp|Upcoming
+SHA4.png|当前
+</gallery>
+|previous_entity=[[SHA-3]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-30]] ([[Shadow Challenge|SC]])<br>[[SHA-7]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=回溯（Recall）
+|gun_effect=无法射击任何暗影实体
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=反弹者<br>生成者
+|claustrophobia=否
+|behavior=生成实体
+|speed=中等
+|locker_snipe=是
+|damage=300 每秒伤害<br>25~（Shadow Plague（暗影瘟疫））
+|related_monsters=[[SHA-120]]<br>[[SHA-180]]
+|sound1=<center>远距离音效 '''（取自游戏内）'''</center><center>[[File:SHA4Far.mp3]]</center>
+|sound2=<center>近距离音效 '''（高声警告）'''</center><center>[[File:SHA-4 near ambiance.mp3]]</center>|sound3=<center>金属门破碎音效</center><center>[[File:Door.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-4'''是[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法与暗影末日（Alpha & Shadowpocalypse）]]修饰符中出现的第4只、也是最后一只暗影“球体”实体。
+
+== 行为 ==
+'''SHA-4'''会在当前房间的门后生成，停留数秒，通常约为10秒。若有玩家与门交互，该等待时间会缩短至约3秒。当它冲入当前房间时，会破门而入，在房间中央短暂停留，随后后退。后退完成后，它会生成下列实体中的一只。待其生成的实体完全消失后，'''SHA-4'''会冲回当前房间，停在中央，随后消失。
+
+'''SHA-4'''可以生成：
+* [[SHA-1]]
+* [[SHA-2]]
+* [[SHA-7]]
+* [[SHA-22]]
+* [[SHA-30]]
+* [[SHA-55]]
+* [[SHA-60]]
+* [[SHA-85]]
+* [[SHA-120]]
+* [[SHA-140]]
+* [[SHA-150]]
+* [[SHA-180]]
+* [[SHA-200]]
+
+== 攻略与提示 ==
+* 如果你无法开门，请留意听它的远距离音效。
+** 如果你在[[Alpha & Shadowpocalypse|阿尔法与暗影末日（Alpha & Shadowpocalypse）]]中既听不到它的音效，也听不到[[SHA-2]]的音效，请立刻往回跑，此时门后的是[[SHA-300]]。
+
+== 冷知识 ==
+* '''SHA-4'''过去在消失时会在自身周围产生一个气泡，杀死气泡内的所有玩家。
+** 该气泡目前仍然存在，但不再会杀死玩家。
+* '''SHA-4'''可以在任何Perfection Event（完美事件）期间入侵。
+* '''SHA-4'''存在一个漏洞，导致它无法在[[Shadow Challenge|SC]]中生成。
+** 此外，SHA-4可能会直到其生成的实体消失后才会折返（该情况仅偶尔发生）
+
+== 画廊 ==
+<gallery>
+File:SHA-4 anim ingame.gif|'''SHA-4'''的游戏内动画（低画质）
+File:SHA-4 despawning.png|从柜子内部看到的'''SHA-4'''
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

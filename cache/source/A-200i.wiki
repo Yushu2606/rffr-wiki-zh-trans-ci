@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: blue;">A-200i (Insidæ Prime)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
+BlueRenovatedWater.gif|New Design
+BlueAir Renovated.gif|Old Anim
+A-200ijumpscare.png|Older Design
+</gallery>
+|previous_entity=[[A-200]]
+|next_entity=[[Mouth|A-300]]<br>[[D-5]]
+|nicknames=Insidæ prime, "Water"
+|caption-entity_image=Air Blue
+|gun_effect=None
+|locker_snipe=Yes (Non Lethal)
+|appears_at=Anytime after A-200.
+|type=Fallbacker<br>Rebounder
+|claustrophobia=No<br>Yes (Chaos Mode)
+|behavior=It will appear rarely after [[A-200]], and it will rebound a random number of times then despawning.
+|related_monsters=[[A-200]]
+|speed=Same as [[A-200]] (probably)|damage=??? DPS (200 DPS locker snipe)
+|sound1=<center>Old Ambience</center><center>[[File:A200iAmbi.mp3]]</center>|ent_info_header=}}
+
+==Description==
+'''A-200i''', also known as "Insidae Prime" (stylized "Insidæ Prime", pronounced "Inside Prime") is the 5th I variant you will meet in rooms found footage A section. It requires you to be patient after '''A-200''' disappears.
+
+==Mechanic==
+Like A-60i, '''A-200i''' cannot spawn on its own, instead, it only spawns after A-200 despawns, producing extra static on screen if it does spawn.  
+
+Once active, '''A-200i''' will make a wind noise similar to A-200’s, then '''A-200i''' will backtrack through the rooms very quietly. '''A-200i''' will go back a random number of rooms and rebound and random number of times. 
+
+Differently from A-200, '''A-200i''' does not deactivate Claustrophobia, so constantly getting in and out of your locker is mandatory to survive it.  
+
+After '''A-200i''' has finished rebounding, it creates a swirl under it and submerges into the swirl, similarly to [[D-35i]], while the static returns to normal. 
+
+== Strategy & Tips ==
+* Try using '''Safe spots''' when [[A-200]] spawn at first to avoid getting trouble with '''A-200i'''.
+* If '''A-200i''' spawns, you could just move to a '''Safe spot''', or just listen for its sound to hide when its close.
+* If [[A-135]] is active while '''A-200i''' spawns, you should just stay in the locker until '''A-200i''' despawn.
+* '''A-200i's''' locker snipe isn't lethal, so it's okay to not sprint-hide, but make sure to heal yourself if locker sniped.
+* If possible, try to look back to the previous rooms to try and see where '''A-200i''' is.
+
+== Trivia ==
+* '''A-200i''' is now (almost) guaranteed to spawn after [[A-200]] in [[Red Rooms]]
+
+== Gallery ==
+<gallery>
+File:A-200i scary.gif|A-200i's jumpscare
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]

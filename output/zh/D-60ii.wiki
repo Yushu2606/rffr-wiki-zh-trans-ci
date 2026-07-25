@@ -1,0 +1,122 @@
+{{SectionDStub}}
+{{HeadphonesNotice}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0ba300; color: #0ba300;">D-60ii（Omega Invader 欧米茄入侵者）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Modifier Exclusive|II Hate This}}
+{{InfoBox:Entity
+|entity_name=[[File:D-60iiPlaceholder.gif|frameless|link=D-60ii]]
+|entity_image=<gallery>
+D60iiAnim.gif|第一阶段动画
+D60iface1.png|第一阶段第1张脸
+D60iface2.png|第一阶段第2张脸
+D60iface3.png|第一阶段第3张脸
+D60iface4.png|第一阶段第4张脸
+D60iface5.png|第一阶段第5张脸
+D60iFace6.png|第一阶段第6张脸
+D60iface7.png|第一阶段第7张脸
+D60iface8.png|第一阶段第8张脸 
+D60iface9.png|第一阶段第9张脸 
+D60iface10.png|第一阶段第10张脸 
+D60iface11.png|第一阶段第11张脸 
+D60iface12.png|第一阶段第12张脸 
+D60iface13.png|第一阶段第13张脸
+D60iface1Phase2.png|第二阶段第1张脸
+D60iface2phase2.png|第二阶段第2张脸
+D60iface3phase2.png|第二阶段第3张脸
+D60iface4phase2.png|第二阶段第4张脸
+D60iface5phase2.png|第二阶段第5张脸
+D60iface6phase2.png|第二阶段第6张脸
+D60iface7phase2.png|第二阶段第7张脸
+D60iface8phase2.png|第二阶段第8张脸
+D60iface9Phase2.png|第二阶段第9张脸
+D60iface10phase2.png|第二阶段第10张脸
+D60iface11Phase2.png|第二阶段第11张脸
+D60iface12Phase2.png|第二阶段第12张脸
+D60iface13Phase2.png|第二阶段第13张脸
+</gallery>
+|caption-entity_image=绿家伙
+|appears_at=启用'''II Hate This'''修饰符的任意区域
+|nicknames=Omega Invader（欧米茄入侵者）
+|type=反弹者<br>后退者<br>头目
+|behavior=运作方式与[[D-60i]]相同，但外观为绿色，且反弹前留给玩家的反应时间短得多
+|claustrophobia=否
+|locker_snipe=否
+|damage=秒杀
+|gun_effect=无
+|badges=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 绝对肾上腺素狂飙]
+|speed=比[[D-60i]]更快
+|related_monsters=[[D-60]]<br>[[D-60i]]
+|sound2=<center>跳杀音效</center><center>[[File:D-60iiJumpscareSfx.mp3]]</center>
+|sound1=<center>倒计时（'''非准确版'''）</center><center>[[File:D-60iiCountdown.mp3]]</center>
+|sound3=<center>生成提示音</center><center>[[File:BossSpawn.mp3]]</center>
+|sound4=<center>金属门碎裂音效</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound5=<center>第二阶段柜子破坏/消失音效</center><center>[[File:D-60iPhase2DoorBreak.mp3]]</center>
+|sound6=<center>第二阶段碰撞音效</center><center>[[File:D-60iiFacecollide.mp3]]</center>}}
+
+==描述==
+'''D-60ii'''是你在[[Section D|D区]]中可能遇到的众多实体之一，是紧随[[D-60]]与[[D-60i]]之后的第60号实体，运作方式与[[D-60i]]类似，但难度要高得多。
+
+==行为==
+与[[D-60i]]机制类似，但反弹前需要等待9秒（从它撞到门后开始移动时计算），会破坏2扇门，且移动速度比[[D-60i]]快很多。
+
+在第二阶段，'''D-60ii'''会发出音量极大的[[D-60i]]原版消失音效的伪造版本，随后会播放速度大幅加快的[[D-60i]]第二阶段启动音效。每次'''D-60ii'''冲撞并破坏1到2个房间时，几乎总会在最后几个房间中仅留下1个柜子可供躲藏。在该阶段中，它只会破坏1扇门。
+
+==应对策略与技巧==
+* 如果你的逃生过程中生成了'''D-60ii'''，你应该停止打开任何门，等待'''D-60ii'''自行消失。
+* 这是因为如果此时生成了[[A-200]]、[[A-200i]]、[[D-5]]或[[M-70]]这类拖时间的实体，在这些实体存在的期间'''D-60ii'''可能会破坏大量的门，导致[[Void|虚空墙]]生成并击杀你。
+* 当'''D-60ii'''反弹时请尽可能往前冲，因为它会一次性破坏2个房间，你很容易被甩在后面。
+** 这正是它的设计意图。'''D-60ii'''的设计目的就是在它不停反弹时迫使你拼尽全力赶到主房间，所以请尽可能全力应对，必要时可以使用闪避翻滚。
+
+==冷知识==
+* '''D-60ii'''在[[D-55ii]]尝试生成时有千分之一的概率将其替代。
+* 与[[D-60i]]不同，'''D-60ii'''破门时不会生成任何实体，因为'''D-60ii'''速度极快，设计目的就是每次它出现时你都必须冲向主房间，以免被虚空墙追上。如果'''D-60ii'''真的生成了其他实体，你大概率会死亡。
+* 很久以前（2025年7月18日），大厅里的所有玩家都被变形为'''D-60ii'''，引发了极大的混乱。
+** [https://youtu.be/ZXxhC6l3W4U?si=9L8s6od1G_fYxxTR 视频] 
+*'''D-60ii'''<nowiki/>的假消失音效音量极大，当你注意到'''D-60ii'''即将触发第二阶段时，请务必调低音量。
+
+* '''D-60ii'''<nowiki/>的音效与[[D-60i]]相同，但经过修改后听起来更失真/滑稽。
+* '''D-60ii'''<nowiki/>的体型比[[D-60i]]更大。
+* '''D-60ii'''在第二阶段消失时，会快速连续产生14次爆炸，随后引发一次更大的爆炸并消失。
+* '''D-60ii'''的跳杀音效实际上与[[D-60]]或[[D-60i]]的跳杀音效相同，只是被大幅放慢了。
+* '''Astra'''是'''D-60ii'''的创作者。
+
+== <span style="text-shadow: 0 0 5px lime; color: lime;">实录片段</span> ==
+*（音量警告）'''OMEGA INVADER''' - 第一阶段演示：https://youtu.be/0garMpZaPSE
+*（音量警告）'''OMEGA INVADER -''' 第二阶段演示：https://youtu.be/kTJYQSVk_8w
+
+== 画廊 ==
+<gallery>
+File:D-60iiNewScare.webp|跳杀
+File:D-60iiJumpscare.gif|旧版跳杀
+ii9.png|倒计时 9
+ii8.png|倒计时 8
+ii7.png|倒计时 7
+ii6.png|倒计时 6
+ii5.png|倒计时 5
+FOUR.png|倒计时 4
+D60i3.webp|倒计时 3
+D60i2.webp|倒计时 2
+D60i1.webp|倒计时 1
+ii0.png|倒计时 0
+D-60iiFr.gif|旧版动画重制
+D60ii1.png|旧版面容 1
+D60ii2.png|旧版面容 2
+D60ii3.png|旧版面容 3
+D60ii4.png|旧版面容 4
+D60ii5.png|旧版面容 5
+D60ii6.png|旧版面容 6
+D60ii7.png|旧版面容 7
+BroisnotA-135.png|旧版面容 8
+</gallery>
+
+==徽章==
+{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 绝对肾上腺素狂飙]|Description=为什么这种事会发生在我身上。|Obtainment=遭遇并从'''D-60ii'''手中存活。}}
+
+{{EntityNavBoxAdmin}} 
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Boss]]
+[[Category:Fallbacker]]
+[[Category:Omega Variation]]

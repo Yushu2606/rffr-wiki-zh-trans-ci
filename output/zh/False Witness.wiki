@@ -1,0 +1,47 @@
+{{ArticleBackground|File=Unnamed .png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: black;">False Witness</span>}}{{InfoBox:Entity
+|entity_name=[[File:Fuck.png|frameless|link=False Witness]]
+|entity_image=<gallery>
+NewFalseWitness.png|当前设计
+FWJump.png|当前跳杀设计
+FalseWitnessIdle.webp|旧设计
+FalseWitnessJum.webp|旧跳杀设计
+</gallery>
+|claustrophobia=否
+|previous_entity=[[Mori]]<br>[[Mortis]]
+|next_entity=[[Tackle]]<br>[[False Prophet]]
+|appears_at=[[Unnamed Sector|无名区域]]任意位置/500关后少见/[[Super Epic Mode|超级史诗模式]]下随时出现
+|type=冲刺者
+|gun_effect=无
+|behavior=冲向门，数秒后会再次冲刺，但本次会非常安静/完全无声，多次重复该行为
+|speed=中等
+|locker_snipe=否（进入柜子时）<br>是（离开柜子时）
+|damage=秒杀
+|related_monsters=[[Mori]]<br>[[Tackle]]<br>[[False Prophet]]
+|caption-entity_image=ÆÆÆÆÆÆ
+|sound1=<center>生成'''无名区域''' </center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>生成'''500关后''' </center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>生成'''超级史诗模式''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>远处环境音</center><center>[[File:FalseWitnessFar.mp3]]</center>
+|sound5=<center>近处环境音</center><center>[[File:FalseWitnessClose.mp3]]</center>
+|sound6=<center>跳杀</center><center>[[File:FWjump.mp3]]</center>}}
+
+==描述==
+'''False Witness'''是你会在[[Unnamed Sector|无名区域]]中经常遇到的实体，很少在500关后出现，在[[Super Epic Mode|超级史诗模式]]中随时可能出现。
+
+==机制==
+当'''False Witness'''生成时，灯光会闪烁，随后它会以中等速度冲向主房间，一旦撞到门就会传送回虚空墙并再次冲刺，本次冲刺不会播放近处音效，或是完全无声。它会重复该过程1-4次后消失。
+
+==应对策略==
+当你听到它的生成提示音时立刻躲藏，当它撞到门“消失”后，等待数秒后需要再次躲进柜子，它会冲刺多次，因此请确认它确实已经消失后再继续前进。
+
+==画廊==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

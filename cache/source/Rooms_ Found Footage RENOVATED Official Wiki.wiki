@@ -1,0 +1,29 @@
+<center><div class="mainpagething" style=" width: 97%; border: 4px solid white; box-shadow: 0 0 20px 0 white, inset 0 0 20px white; margin-top: 30px; margin-bottom: 30px; text-align: center; padding:5px; border-radius: 30px;"><font size="6px;"><span style="text-shadow: 0 0 7px white">'''Welcome to the official Rooms: Found Footage <span style="text-shadow: 0 0 5px red; color: red;">RENOVATED</span> Wiki!'''</span></font></div>
+<small>''If you are looking for the original wiki, go [https://rooms-found-footage.fandom.com/wiki/Rooms:_Found_Footage_Wiki here].''</small><br>
+[https://www.roblox.com/share?code=6111888baf67a14da92d805207eaadd6&type=ExperienceDetails&stamp=1763215172924  Rooms: Found Footage RENOVATED] is an unofficial revival and continuation of Rooms: Found Footage first released on June 6th, 2025, and has been in development since February 23, 2025.
+
+<big>This wiki has:
+<center>
+'''{{NUMBEROFARTICLES}}''' articles '''|'''
+'''{{NUMBEROFFILES}}''' files '''|'''
+'''{{NUMBEROFEDITS}}''' edits '''|'''
+'''{{NUMBEROFACTIVEUSERS}}''' active users '''|'''
+'''{{PAGESINCATEGORY: Stubs}}''' stub(s) 
+</center>
+</big>
+
+<font size="6px;"><span style="text-shadow: 0 0 10px black">Navigation</span></font>
+<br>
+——————————————————————————
+<div class="tdx-container accent-left">
+{| class="hoverimage desktop-only" style="text-align:center; width:100px" align=center
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Sections Main Page.png|175px|link=Sections]][[Sections]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Challenges Main Page.png|175px|link=Modifiers]][[Modifiers]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Entities Main Page.png|175px|link=Entities]][[Entities]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Items Main Page.png|175px|link=Items]][[Items]]</div>
+|}
+</div>
+<mainpage-endcolumn />
+
+{{RandomSentenceBox}}
+{{FeaturedEntity}}

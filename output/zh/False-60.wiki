@@ -1,0 +1,65 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60</span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False-60
+|entity_image=<gallery>
+F60anim.gif|动画重制
+F601.png|第一张脸
+F602.png|第二张脸
+F603.png|第三张脸
+F604.png|第四张脸
+F605.png|第五张脸
+F606.png|第六张脸
+</gallery>
+|appears_at=[[Unnamed Sector|无名区域]]内29号门之后/其他区500号门后罕见出现
+|type=冲刺者<br>反弹者
+|behavior=冲向门，停留片刻后折返。
+|speed=快
+|locker_snipe=否（进入时）<br>是（离开时）
+|previous_entity=[[Execution]]
+|next_entity=[[False-120]]
+|claustrophobia=否
+|damage=秒杀
+|gun_effect=无
+|related_monsters=[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-60 IRUS U-60]<br>[[A-60]]<br>[[M-22]]<br>[[E-60]]
+|sound1=<center>'''500号门后'''生成</center><center>[[File:MoriSpawn.mp3]]</center>
+|sound2=<center>远处环境音</center><center>[[File:F60far.mp3]]</center>
+|sound3=<center>近处环境音'''（音量大）'''</center><center>[[File:F60Close.mp3]]</center>
+|sound4=<center>旧版近处环境音</center><center>[[File:F60near.mp3]]</center>
+|sound5=<center>跳杀音效</center><center>[[File:F60jump.mp3]]</center>}}
+
+==描述==
+'''False-60'''是[[A-60]]的仿制版本，是你在[[Unnamed Sector|无名区域]]内可能遇到的众多实体之一，极少数情况下会在任意其他区的500号门后出现。
+
+==行为==
+* '''False-60'''生成时会播放微弱的静电声，向前冲入当前房间，撞到房间的门后会在门前停留数秒，随后冲回虚空墙消失。
+
+* 当你通过75号门后，'''False-60'''有概率反弹回主房间，该反弹过程可能重复多次。
+
+* 当你通过400号门后，'''False-60'''还有概率在完全静音的状态下发动攻击。
+
+* 通过500号门后，若玩家通过使用V增益使最大生命值超过100，'''False-60'''有概率停留足够久的时间，强制触发[[Claustrophobia|幽闭恐惧]]造成伤害。
+
+==策略与提示==
+* 为了避免在400号门后被'''False-60'''迷惑，你可以像应对[[SHA-2]]时那样，尝试向前冲确认能否开门，或是留意屏幕震动。如果门无法打开，但[[Mori]]、[[False Witness]]、[[Tackle]]或它们的任意变体都未激活，那就说明'''False-60'''正在靠近。
+* 如果'''False-60'''在门前停留不到三秒就开始折返，就说明它接下来会反弹，此时请尽快离开柜子再重新躲入。
+
+==你知道吗==
+* '''False-60'''有极低概率出现在[[Unnamed Sector|无名区域]]之外，与[[Mori]]、[[False Witness]]和[[Tackle]]的情况一致。
+* '''False-60'''是唯一未加入[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]的无名区域入侵实体。
+* '''False-60'''的设计与'''Liminal Rooms'''中的[https://r-liminal-rooms.fandom.com/wiki/A-60 A-60]相同。
+* 曾有一段时间，'''False-60'''的跳杀仍使用其预发布版本的设计。
+
+==画廊==
+<gallery>
+F60Newscare.webp|新版跳杀
+F60scare.gif|旧版跳杀
+False60jump.webp|预发布版本设计
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

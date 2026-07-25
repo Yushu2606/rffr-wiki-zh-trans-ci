@@ -1,0 +1,62 @@
+{{Removed|reason=E 区入侵为限时活动，现已结束。}}
+{{ArticleBackground|File=EINVASION.png}}
+{{EventInfobox
+|title=[[File:InvasionEventTitle.png|frameless|link=E Section Invasion Event]]
+|image=<gallery>
+E Section Invasion Thumbnail.png|缩略图
+EINVASION.png|无叠加层
+</gallery>
+|next_event=[[Perfection Event 2/13/26]]
+|timeline=8/17/2025 - 9/20/2025
+|rewards=辉光实验型手电筒
+|entities=[[E-10]]<br>[[E-60]]
+}}
+
+==概述==
+E 区入侵活动是一项于2025年8月17日开启、2025年9月20日结束的限时活动。该活动的核心内容是躲避两名入侵者：[[E-10]]与[[E-60]]，成功存活的玩家将获得[https://www.roblox.com/badges/3124983362195746/Sector-Breach| 区域突破]徽章，该徽章会解锁'''实验型手电筒'''，它的电池续航是普通手电筒的三倍，但需要5节电池才能完全充能。该道具还有可摇晃/辉光变种。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60anim.gif|center|150px|link=E-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}}}
+
+==图库==
+{{CollapsibleBox
+|Title=图库
+|Content=
+<gallery>
+E Section Invasion Thumbnail.png|<span style="text-shadow: 0 0 5px yellow; color: yellow;>入侵活动缩略图</span>
+The Invasion Thumbnail 4 Days.png|剩余4天缩略图
+The Invasion 3 Days Left.png|剩余3天缩略图
+Invasion 2 Days Left.png|剩余2天缩略图
+The Invasion Final Day.png|<span style="text-shadow: 0 0 5px red; color: red;">最后一日缩略图</span>
+The Invasion 5 Hours Remain.png|剩余5小时缩略图
+E Section Invasion 4 Hours.png|剩余4小时缩略图
+E Section Invasion 3 Hours.png|剩余3小时缩略图
+E Section Invasion 2 Hours.png|剩余2小时缩略图
+E Section Invasion 1 Hour.png|剩余1小时缩略图
+SectorBreachAwarded.jpg|玩家获得区域突破徽章的截图
+</gallery>
+}}
+
+==徽章==
+{{BadgeSectionE|Image=SectorBreach.png|Name=区域突破|Description=[已绝版] 在任意区遭遇并成功躲避两名来源未知的异常实体之一，就算探索数千个房间都未必会出现它们的身影…|Obtainment=在E区入侵活动中成功躲避[[E-10]]或[[E-60]]。'''现已无法获取。'''}}
+
+==你知道吗==
+* [[E-10]]和[[E-60]]在活动开启时的生成概率为1/2500，随着活动推进概率会逐渐提升，各阶段概率如下：
+** 1/2500（活动开启时）
+** 1/2000（剩余5天时）
+** 1/1750（剩余3天时）
+** 1/1600（最后一日）
+** 1/1500（最后4小时）
+** 1/1350（最后1小时）
+** 1/690（最后1分钟）
+* [[E-60]]的外观在活动中途进行过调整
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

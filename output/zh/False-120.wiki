@@ -1,0 +1,34 @@
+{{Stub}}{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False-120
+|entity_image=F-120.gif
+|previous_entity=[[False-60]]
+|next_entity=[[False-200]]
+|claustrophobia=否
+|appears_at=[[Unnamed Sector|无名区域]]内59号房间之后的任意位置
+|type=反弹者
+|behavior=从前方生成，随后进入虚空并返回。
+|speed=中等
+|locker_snipe=否（前进时）<br>是（返回时）
+|gun_effect=无
+|damage=秒杀
+|related_monsters=[[A-120]]|sound1=<center>环境音效</center><center>[[File:F120Ambi.mp3]]</center>}}
+
+==描述==
+'''False-120'''是你在[[Unnamed Sector|无名区域]]中可能遇到的众多实体之一，为[[A-120]]的仿冒版本。
+
+==机制==
+'''False-120'''会生成在当前门的后方，等待数秒后冲向虚空墙，撞上虚空墙后它会返回当前门并猛撞门，随后消失。
+
+==冷知识==
+False-120过去能够命中玩家，造成秒杀。
+
+==画廊==
+<gallery>
+File:F-120 outside a locker.png|'''False-120'''在柜子外。
+File:False-120_Standing_outside_a_door.webp|同上，但位于门外。
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]

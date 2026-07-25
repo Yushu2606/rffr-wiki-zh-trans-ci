@@ -1,0 +1,9 @@
+{{Spacer}}
+所有归入'''社区'''分类的页面均为社区创作内容。[[:Category:Blog Posts|博客文章]]会被自动分配此分类。
+----
+<center>''以下是归入该分类的所有页面。''</center>
+{{Spacer}}
+
+
+
+[[Category:{{SITENAME}}]]

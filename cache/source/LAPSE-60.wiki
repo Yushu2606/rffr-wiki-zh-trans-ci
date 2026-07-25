@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60</span>
+|entity_image=L-60.png
+|previous_entity=[[SHA-60]]<br>[[LAPSE-3]]
+|next_entity=[[SHA-85]]<br>[[LAPSE-200]]
+|nicknames=???
+|gun_effect=No Lapse can be shot
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rusher
+|claustrophobia=No
+|behavior=Rushes to the door while being silent
+|speed=Fast
+|locker_snipe=Yes
+|damage=Instant Death
+|related_monsters=[[A-60i]]<br>[[SHA-60]]}}
+
+== Description ==
+'''LAPSE-60''' is one of the many Lapse Entities you may encounter, being the Lapse variant of [[SHA-60]].
+
+== Behavior ==
+Once '''LAPSE-60''' Spawns, it will begin rushing to the main room around the same way SHA-60 does, but being slightly quieter. The only way to detect it is watching for the small amount of static on the player's screen, or listening for the quiet audio. When LAPSE-60 reaches the current room, he will break down the door and sit in the center, similarly to regular A-60. Shortly after, he slowly rushes to the next door and collides with it, not breaking it but despawning. He has a chance to spawn SHA-2.
+
+== Strategies & Tips ==
+* lookout for any unexpected static and hide quickly, but not immediately.
+
+== Trivia ==
+* [[Overseer]] took inspiration from [[A-60i]] while making '''Lapse-60''', as seen in [[Overseer|A-60i's Overseer death message]].
+
+== Footage ==
+https://youtu.be/6VbYGZJKSZM?si=9wDpHzrGp-cRu8DF
+
+== Gallery==
+<gallery>
+LAPSE-60.png|LAPSE-60 Seen in from inside a locker
+</gallery>

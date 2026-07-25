@@ -1,0 +1,78 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-140（不谐者）</span>}}
+{{InfoBox:Entity|entity_name=[[File:Sha140logo.gif]]
+|entity_image=<gallery>
+File:SHA-140 str Design.png|新设计
+BetterSha-140Remake.png|旧重制设计
+</gallery>
+|previous_entity=[[SHA-120]]
+|next_entity=[[SHA-180]] ([[Shadow Challenge|暗影挑战]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|A&SP]]) 
+|nicknames=不谐者
+|appears_at=[[Shadow Challenge|暗影挑战]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=暗影<br>后退者<br>反弹者<br>柜子检查者
+|claustrophobia=否
+|behavior=与[[D-140]]行为相同，但它可能从后方或前方出现。
+|gun_effect=暗影类实体无法被射击
+|speed=快
+|damage=秒杀<br>??? 伤害（柜击）
+|locker_snipe=是
+|related_monsters=[[D-140]]<br>[[A-135]]
+|sound1=<center>生成</center><center>[[File:SHA-140Spawn.mp3]]</center>
+|sound2=<center>后退</center><center>[[File:SHA-140Rush.mp3]]</center>
+|sound3=<center>环境音</center><center>[[File:SHA-140Ambience.mp3]]</center>
+|sound4=<center>消失</center><center>[[File:SHA-140Despawn.mp3]]</center>}}
+
+<tabber>
+|-|新版=
+'''新版：'''
+== 描述 ==
+'''SHA-140'''是[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法&Shadowpocalypse（暗影灾变）]]修饰符中众多暗影实体的一员，是[[D-140]]的感染变体。
+
+== 行为 ==
+* 生成时，'''SHA-140'''的行为与[[D-140]]类似，会播放失真版的生成音效。但当它后退时，会破坏当前房间的门，并摧毁过往数个房间内的所有藏匿点，若玩家藏在前2个房间内则会被击杀；此时它距离过远，玩家不会听到它的声响。
+
+* 后退完成后，它会开始反弹循环，有概率冲回当前房间，或是从前方出现。
+
+** 若它选择冲回当前房间，你会再次听到它的环境音，数秒后它会撞破门，后退的同时会摧毁蓝色柜子。
+
+** 若它选择从前方出现，它会出现在门后并播放虚假的消失音效，约3秒后破门，后退时同时摧毁蓝色柜子。
+
+* 它会重复上述行为数次，在最后一次反弹时，它会出现在门后，再次播放虚假消失音效，随后破门并静止数秒，之后后退并摧毁当前房间内的所有柜子，与它刚生成时的行为一致。
+
+* 退到足够远的位置后，'''SHA-140'''会播放响亮的消失音效，提示本次遭遇结束。
+
+== 应对策略与技巧 ==
+* '''SHA-140'''返回速度极快，因此请不要开门，只需躲在安全的藏匿点，或是除蓝色柜子、白色储物柜以外的任何藏匿点即可。
+* '''SHA-140'''不会像[[D-140]]那样延长幽闭恐惧的持续时间，因此建议你向前走几个房间，避免受到不必要的幽闭恐惧伤害。
+
+|-|旧版=
+'''旧版：'''
+== 描述 ==
+'''SHA-140'''是[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法&Shadowpocalypse（暗影灾变）]]修饰符中众多暗影实体的一员，是[[D-140]]的感染变体。
+
+== 行为 ==
+生成时，'''SHA-140'''的行为与[[D-140]]类似，会播放其生成音效的失真版本。但在后退时，'''SHA-140'''会以极快的速度撞碎主房间的门，并摧毁它生成所在房间内的所有躲藏点，随后会像[[D-140]]一样继续后退。 
+
+但与[[D-140]]不同的是，由于速度极快，'''SHA-140'''反弹所需的时间要短得多。当'''SHA-140'''抵达主房间时，它会再次撞碎门，并以与其[[D-140 | 未感染对应实体]]相同的速度摧毁所有蓝色柜子/白色储物柜。
+
+'''SHA-140'''会播放响亮的消失音效，提示本次遭遇结束。
+
+'''SHA-140'''和[[D-140]]一样，只会向主房间反弹/冲刺一次。
+
+== 策略与提示 ==
+* 当它首次后退时，最好躲到前一个房间里；即使你躲在主房间里它不会杀死你，躲在前一个房间也更安全。
+* '''SHA-140'''返回的速度非常快，因此请确保不要开门，只需躲在安全点位，或是任何不属于蓝色柜子或白色储物柜的躲藏点即可。
+* '''SHA-140'''不会像[[D-140]]那样延长幽闭恐惧的时间，因此建议你在它首次冲回主房间后前往当前房间，以避免受到幽闭恐惧造成的不必要伤害。它不会lockersnipe（柜子狙杀），你可以利用这一点。
+
+</tabber>
+== 冷知识 ==
+???
+
+== 图集 ==
+<gallery>
+SHA-140 ingame.png|'''SHA-140'''<nowiki/>在游戏内的新设计
+ParticleSha140.jpg|游戏内出现的旧粒子面部
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]

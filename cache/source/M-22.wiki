@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px yellow, -1.5px 0.66px 2px yellow; color: yellow;">M-22 (Siren)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:M-22Placeholder.png|frameless|link=M-22]]
+|entity_image=<gallery>
+NewM22.png|Current Design
+M22.png|Old Design
+</gallery>
+|previous_entity=[[Mouth|D-300]]
+|next_entity=[[M-22i]]<br>[[M-60]]
+|nicknames=The Siren
+|claustrophobia=No
+|locker_snipe=Yes
+|appears_at=Room M-22+
+|gun_effect=will fall back immediately after being shot enough times
+|type=Rusher<br>
+Rebounder<br>
+|behavior=Emits some kind of siren noise, rushes, and upon hitting the door, fallback and despawn.
+|speed=400 (per second)
+1000 (in Red Rooms, per second)
+|damage=400 DPS (1000 DPS in Red Rooms)|sound2=<center>Proximity Ambience</center><center>[[File:M22close.mp3]]</center>
+|caption-entity_image=
+|related_monsters=[[SHA-22]]<br>[[M-22i]]
+|sound1=<center>Far Ambience</center><center>[[File:M22far.mp3|180x180px]]</center>
+|sound3=<center>Jumpscare</center><center>[[File:60-AFar.mp3]]</center>
+|sound4=<center>Old Ambience</center><center>[[File:M-22ambience.mp3]]</center>
+|sound5=<center>Proximity Ambience Origin</center><center>[[File:M22NearSoundOrigin.mp3]]</center>
+|sound6=<center>Old Ambience Origin</center><center>[[File:m22oldambienceorigin.mp3]]</center>}}
+
+==Description==
+'''M-22''' is the first hostile entity you will encounter within the [[Section M]], serving as a replacement for [[E-30|M-30]]. It behaves differently from the latter, as you will see throughout this page. More information on '''M-22''' will be provided below.
+
+==Mechanic==
+When '''M-22''' spawns, it will make a weird sound. '''M-22''' will then rush to the current room and rebounding back, eventually despawning. Any player seen by M-22 will start taking damage rapidly, while not being fully hidden will also result with rapid damage.
+
+==Strategy & Tips==
+*Once '''M-22''' passes you while it's heading back to its spawning point, you can exit your hiding spot, as it will no longer be a threat.
+** However, in certain situations, you may have to avoid [[Claustrophobia]] to counter another entity.
+*In certain situations, more likely in Red Rooms, you may have to quick-enter a locker to avoid damage from '''M-22'''.
+**Although this can come in handy if you're in a pinch, you will have to beware of M-134's presence in your designated hiding spot, if it's a locker.
+
+==Trivia==
+* '''M-22''' is the 2nd yellow entity in the game that you can currently encounter naturally, with [[D-60i]] ''(Invader is mostly declared yellow principally in phase 2).''
+* '''M-22''' can be shot, and enough hits will result in it instantly retreating back, it cannot damage the player in this state.
+* '''M-22''' doesn't care about tables, and will still damage players hiding under them.
+* For a time, '''M-22''' was completely silent due to the old audio getting moderated.
+** This was fixed with new audio a couple of hours later
+
+==Gallery==
+<gallery>
+M22jump.jpg|Jumpscare
+</gallery>
+
+{{EntityNavBoxSectionM}}
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Weapon Affected]]

@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 7px Black, 0 0 6px green, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime; color: lime;">D-55（马达嘴）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-35]]<br>[[D-35i]]
+|next_entity=[[D-55i]]<br>[[D-60]]
+|entity_name=[[File:D-55Placeholder.png|frameless|link=D-55]]
+|entity_image=<gallery>
+D55anim.gif|动画复刻
+D-55Face.gif|True Legacy 版本动画复刻
+D-55.webp|设计稿
+</gallery>
+|caption-entity_image=wwwhhhhhhooooommm
+|appears_at=D-055之后的任意区域。
+|nicknames=马达嘴（Motormouth）<br>小汽车（Car）
+|claustrophobia=是
+|gun_effect=无
+|type=冲刺者<br>柜子检查者
+|behavior=会在远处发出马达声，随后抵达当前房间并破坏所有灰色柜子。
+|locker_snipe=否
+|damage=秒杀
+|speed=快
+|sound2=<center>近距离音效 '''中音量预警''' </center><center>[[File:D-55Near.mp3]]</center>
+|related_monsters=[[SHA-55]]<br>
+[[A-135i]]<br>
+[[D-55i]]<br>|sound1=<center>远距离音效</center><center>[[File:D-55Arrival.mp3]]</center>|sound3=<center>跳杀音效</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound4=<center>远距离[[April Fools 2026|2026年愚人节]] '''并不准确..？'''</center><center>[[File:D55FarAF2026.mp3]]</center>|sound5=<center>近距离[[April Fools 2026|2026年愚人节]] '''并不准确..？'''</center><center>[[File:D55NearAF2026.mp3]]</center>}}
+== 描述 ==
+'''D-55''' 是一种会检查躲藏点的实体（详见行为章节）。它看起来像是一个没有眼睛的生物，只有一张满是尖牙、斜向旋转的嘴。
+
+== 行为 ==
+当'''D-55'''生成时，它会以高速向当前房间冲刺，同时发出在远处就能听到的巨大声响。抵达当前房间后，它会开始破坏最近生成的房间里所有的重型柜子（Heavy Locker）/补给柜（Supply Cabinet）（'''D-55'''冲刺过程中生成的所有房间都会被计入，它会破坏这些房间中所有指定的躲藏点）。
+
+破坏完补给柜（Supply Cabinet）/重型柜子（Heavy Locker）后，它会以较慢的速度折返。回到生成点后，它就会消失。
+
+如果它发现玩家，该玩家会被直接秒杀。
+
+== 策略与技巧 ==
+* 当你听到'''D-55'''<nowiki/>的音效时，寻找白色柜子（White Cabinet）/蓝色重型柜子（Blue Heavy Locker）（'''D-55'''需要一段时间才能抵达当前房间）。如果你找不到它们，就回到之前的房间，在那里找任意躲藏点（前提是你在<nowiki/>D-55出现期间没有开过任何门）。如果以上两种方法都做不到，就开下一扇门，寻找白色柜子（White Cabinet）/蓝色重型柜子（Blue Heavy Locker）。如果什么都找不到，那你大概率没救了。
+* 当[[D-60i]]生成时，[[D-140]]就不会生成，所以当[[D-60i]]处于激活状态时，优先躲在蓝色重型柜子（Blue Heavy Locker）/白色柜子（White Cabinet）里。
+* 其他实体可能会掩盖'''D-55'''<nowiki/>的音效提示，所以如果有嘈杂的实体存在或正在靠近你的房间，请保持警惕。
+* '''D-55'''可通过躲<nowiki/>在冰箱或绿色柜子里躲避。
+
+== 你知道吗 ==
+*'''D-55'''的昵称“马达嘴（Motormouth）”来源于它靠近时发<nowiki/>出的类似马达的声响。
+* '''D-55'''、[[D-5]]及[[M-134]]是'''OG RFF（原版RFF）'''中仅有的自首次发布以来设计未作改动的自然生成实体
+
+== 画廊 ==
+<gallery>
+File:D-55 scary.gif|D-55的跳杀
+</gallery>{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Rebounder]]
+[[Category:Table Affected]]
+[[Category:Snipeless]]

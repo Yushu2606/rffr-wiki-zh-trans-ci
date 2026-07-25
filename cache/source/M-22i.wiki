@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #0000FF; color: #0000FF;">M-22i (Siren Prime)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=M-22i
+|entity_image=M22i.png
+|previous_entity=[[M-22]]
+|next_entity=[[M-60]]<br>[[M-60i]]
+|nicknames=Siren Prime
+|claustrophobia=No
+|locker_snipe=Yes (dps)
+|appears_at=After [[M-22]] despawns
+|gun_effect=None
+|type=Rusher
+|behavior=Same as [[M-22]] but no spawn cue and breaks the door.
+|speed=Faster than M-22
+|damage=More than M-22. Probably
+|caption-entity_image=You are going down with me.
+|related_monsters=[[M-22]]
+|sound1=<center>Near</center><center>[[File:M22i_close.mp3.mp3]]</center>}}
+
+== Description ==
+'''M-22i''' is the 1st and only '''Prime''' (no, the other I variants aren't primes, they are supers) within [[Section M]]
+
+== Mechanic ==
+'''M-22i''' will have a chance of spawning after [[M-22]]'s attack. It will rush to the current room silently at fast speeds and not emitting any sound cue. When '''M-22i''' is close enough, it will fill all player's screen with static. Once '''M-22i''' make its way to the door, it will break it down and fallback and despawn.
+
+== Strategy & Tips ==
+If you see any sudden static appearing during M section, immediately hide regardless of if there's other entities active.
+
+== Trivia ==
+* '''M-22i''' does not have a reliable far ambience like [[M-22]].
+* '''M-22i''' is a failed experiment from the S.P.A.W.N agency to make a better version of [[M-22]]
+* [https://youtu.be/w_18sZCIezQ?si=7YIimhJCyUIEl458 Update Executive Teaser 6]
+
+==Gallery==
+<gallery>
+File:M22i ingame.gif|'''M-22i''' seen in-game (Low quality)
+File:M22i?.jpg|"You weren't meant to exist"
+</gallery>
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

@@ -1,0 +1,96 @@
+<includeonly>
+<infobox>
+  <title source="entity_name"/>
+  <image source="entity_image">
+    <caption source="caption-entity_image"/>
+  </image>
+  <group>
+    <header source="ent_info_header">Entity Information</header>
+    <group layout="horizontal">
+    <data source="previous_entity">
+      <label>Previous Entity(s)</label>
+    </data>
+    <data source="next_entity">
+      <label>Next Entity(s)</label>
+    </data>
+    </group>
+    <data source="nicknames">
+      <label>Nickname(s)</label>
+    </data>
+    <data source="appears_at">
+    	<label>Appears At</label>
+    </data>
+    <data source="type">
+      <label>Type</label>
+    </data>
+    <data source="behavior">
+      <label>Behavior</label>
+    </data>
+    <data source="speed">
+      <label>Speed</label>
+    </data>
+    <data source="damage">
+      <label>Damage</label>
+    </data>
+     <data source="locker_snipe">
+      <label>Locker Snipes</label>
+    </data>
+    <data source="gun_effect">
+      <label>Gun Effect</label>
+    </data>
+    <data source="claustrophobia">
+      <label>Disables [[Claustrophobia]]</label>
+    </data>
+    <data source="related_monsters">
+      <label>Related Monsters</label>
+    </data>
+    <data source="badges">
+      <label>Badges</label>
+    </data>
+    <data source="for_the_mobile_people">
+      <label>.</label>
+    </data>
+  </group>
+  <group>
+  	<group layout="vertical" show="complete" collapse="closed"></group>
+  <header source="sound_info_header">Sound Files</header>
+  <data source="sound1"/>
+  <data source="sound2"/>
+  <data source="sound3"/>
+  <data source="sound4"/>
+  <data source="sound5"/>
+  <data source="sound6"/>
+  <data source="sound7"/>
+  <data source="sound8"/>
+  <data source="sound9"/>
+  <data source="sound10"/>
+  <data source="sound11"/>
+  <data source="sound12"/>
+  <data source="sound13"/>
+  <data source="sound14"/>
+  <data source="sound15"/>
+  <data source="sound16"/>
+  <data source="sound17"/>
+  <data source="sound18"/>
+  <data source="sound19"/>
+  <data source="sound20"/>
+  <data source="sound21"/>
+  <data source="sound22"/>
+  <data source="sound23"/>
+  <data source="sound24"/>
+  <data source="sound25"/>
+  </group>
+</infobox>
+
+
+<noinclude>
+<templatedata>
+{"params":{"entity_name":{"suggested":true},"entity_image":{"suggested":true},"caption-entity_image":{"suggested":true},"previous_entity":{"suggested":true},"next_entity":{"suggested":true},"nicknames":{"suggested":true},"appears_at":
+{"suggested":true},"behavior":{"suggested":true},"speed":{"suggested":true},"damage":
+{"suggested":true},"locker_snipe":
+{"suggested":true},"gun_effect":
+{"suggested":true},"claustrophobia":{"suggested":true} "related_monsters":
+{"suggested":true} "badges":{"suggested":true},"sound1":{"suggested":true},"sound2":{"suggested":true},"sound3":{"suggested":true},"sound4":{"suggested":true},"sound5":{"suggested":true},"sound6":{"suggested":true},"sound7":{"suggested":true},"sound8":{"suggested":true},"sound9":{"suggested":true},"sound10":{"suggested":true},"sound11":{"suggested":true},"sound12":{"suggested":true},"sound13":{"suggested":true},"sound14":{"suggested":true},"sound15":{"suggested":true},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>
+</includeonly>

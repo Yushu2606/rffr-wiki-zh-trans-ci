@@ -1,0 +1,41 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|next_entity=[[UI-20]]
+|entity_name=[[File:UI-5PlaceHolder.png|frameless|link=U-5]]
+|entity_image=UI5.png
+|appears_at=I-005+
+|nicknames=Unknown
+|type=Rusher
+|behavior=Rusher
+|damage=Instant Death.
+|speed=35 studs per second
+|related_monsters=[[U-5]] (Same Entity)<br>[[CARDBOARD-5]] (Same Entity)<br>[[A-20]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Near Sound</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==Description==
+'''UI-5'' is the 1st entity you may encounter within [[Section Interchange]], more info below.
+
+==Behavior==
+Once '''UI-5''' spawns, it will spawn behind the player and make its presence known by a composition known as "Horror Race", which can be heard globally. It will very slowly make its way towards the current room. UI-5 is overall a very slow entity, and it's not a very huge threat. Once '''UI-5''' reaches the current room's door, it will then despawn. '''UI-5''' will also emit a laughing noise when players are near it.
+==Strategy & Tips==
+* '''UI-5''' isn't a huge threat, as it doesn't check any hiding spots and it's very slow. Therefore, it is very easy to deal with.
+** Hide in any hiding spot that's available once you hear it.
+
+* '''UI-5''' is very slow, however it may become a threat later on the further you go, considering its laughing can only be heard within close proximity, which means that if you aren't paying attention and you're not near a hiding spot, you may be killed by the entity.
+* '''UI-5''' is very slow, however it may become a threat later on the further you go, considering its laughing can only be heard within close proximity, which means that if you aren't paying attention and you're not near a hiding spot, you may be killed by the entity.
+** You can actually hug the nearby walls to easily avoid '''UI-5''', only use this method as a last resort since lockers are pretty much everywhere in every room.
+
+==Trivia==
+* '''UI-5''' comes from a game known as INTERMINABLE ROOMS within its 2023 April Fools Event.
+* '''UI-5''''s appearance comes from SCP-087-B, known as "The Haunted Staircase".
+* It is also featured in many other horror games, like Rooms: Found Footage:RENOVATED.
+* Unlike most entities using a directional image to display its appearance, '''UI-5''' uses an invisible block with decals on all sides, giving the entity a straightforward, yet goofy appearance.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

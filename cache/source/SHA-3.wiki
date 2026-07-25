@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #c164d0;">SHA-3 (Asunder)</span>}}
+{{InfoBox:Entity|entity_name=SHA-3|entity_image=<gallery>
+NewSHA3.png|Current
+sha3.png|Old
+</gallery>
+|previous_entity=[[SHA-2]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-4]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Asunder
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Shadow<br>Rusher
+|gun_effect=No Shadow can be shot
+|behavior=Spawn in the center of the room and break 10 doors
+|speed=fast
+|claustrophobia=No
+|damage=None
+|related_monsters=???
+|sound1=<center>Ambience</center><center>[[File:Sha3.mp3]]</center>
+|sound2=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== Description ==
+'''SHA-3''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier.
+
+== Behavior ==
+'''SHA-3''' will spawn in the center of the room upon opening the door, and after a few seconds he will rush forward and break 10 doors, meaning that you'll need to go forward to avoid getting killed by Void Wall. '''SHA-3''' also has a chance of spawning [[SHA-2]] upon breaking the doors, and a much rarer chance to spawn [[SHA-55]] or [[SHA-60]]
+
+== Strategy & Tips ==
+* Simply approach the main room's door and sprint forward when '''SHA-3''' rushes, and pay attention for [[SHA-2]] when you're in a safe area, or for [[SHA-55]]/[[SHA-60]]'s sounds.
+* Avoid sprinting against the door and wait for '''SHA-3''' to break it, because if '''SHA-3''' opens a large room, this room might take a bit longer to load, which will cause you to fall outside of the map, or get stuck in the ground, causing [[SHA-2]] to kill you if it spawns, or one of the other two if by chance they spawned.
+
+== Trivia ==
+* There seem to be a bug with '''SHA-3''' that, if it open a room with a locked side room, '''SHA-3''' won't break any doors past this room. (at least in the [[Section D]] Derelict room that have the [[Unnamed Sector]] entrance in the side-room).
+* '''SHA-3''' can invade During any Perfection Event.
+** this can be proven deadly if it happens while in [[Red Rooms]], since entities that are on a timer may still spawn.
+
+== Lore ==
+* '''SHA-3''' was the one who infected [[SHA-30]].
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]

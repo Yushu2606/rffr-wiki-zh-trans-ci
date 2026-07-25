@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:<span style="animation: m150 2s infinite;">M-150 (Bipolarity)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{Suggested|Creepet}}
+{{InfoBox:Entity
+|entity_name=[[File:M-150PlaceHolder.png|frameless|link=M-150]]
+|previous_entity=[[M-134]]
+|next_entity=[[M-200]]
+|nicknames=Bipolarity
+|appears_at=M-150+
+|claustrophobia=No (Delays)
+|speed=Slow
+|damage=145 DPS (Instant Death if found in locker)
+|sound_info_header=
+|gun_effect=None
+|locker_snipe=Yes (Non Lethal)
+|entity_image=<gallery>
+M150Anim.gif|Animation Recreation
+M-150thedepressed.png|Design
+</gallery>
+|sound1=<center>Spawn</center><center>[[File:M150.mp3]]</center>
+|sound2=<center>Ambience '''Recreation'''</center><center>[[File:M150ambi.mp3]]</center>
+|caption-entity_image=Guhhhh who is this goober|type=Fallbacker<br>Locker checker<br>
+|behavior=Checks Blue/White lockers depending on its color.
+|related_monsters=[[SHA-150]]<br>[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-150  U-150 IRUS]<br>[https://r-interminable-rooms.fandom.com/wiki/Upcoming_Content#S-150 S-150 IR]<br>[https://r-interminable-rooms.fandom.com/wiki/A-150 A-150 IR]}}
+
+==Appearance==
+'''M-150''' has both eyes having an + format with dots inside it, and a frowning smile with teeth, and it is also scribbly 
+
+==Behavior==
+'''M-150''' will spawn Infront the door, only being a ball of light, while also making the door sign either blue or white. After a few seconds M-150 will appear and starts checking lockers depending on what color he is. If he's white he will check gray lockers, if he's blue then he will check blue lockers. He will do this for the current room and 1 room back before going to the middle of the current room waiting a little and despawning.
+
+== Strategy & Tips ==
+* '''M-150''' only checks 2 rooms, so if it spawns just go 2/3 (depending in which room you are) rooms behind.
+* '''M-150''' barely gives any time to hide in red rooms, so it is recommended you're always paying attention to the door sign/sound of '''M-150'''.
+* It's recommended to wait until '''M-150''' is about to check your room before sprint hiding/normal hiding to avoid unnecessary [[claustrophobia]] damage.
+* If you hide too late, don't worry about it that much because the locker snipe isn't that punishing.
+
+==Trivia==
+*'''M-150''' is a direct reference to '''U-150''' from Catz's Interminable Rooms Hoax U-Section Thunderdome, both having similar appearance, and mechanic
+*'''M-150''' is non-canonically depressed.
+*Creepet originally made this entity under the name of "M-240"
+*'''M-150'''<nowiki/>'s design is made by Collese.
+*'''M-150''' likes grapes, as said by his creator.
+*If '''M-150''' checks a locker with [[M-134]], it will explode due to '''M-150''' slam-closing the locker when checked
+
+== Gallery ==
+<gallery>
+File:M-150 scary.gif|M-150's jumpscare
+</gallery>
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]

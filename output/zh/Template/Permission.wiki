@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件受版权保护，版权持有人已许可使用该文件。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:Files used with permission]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

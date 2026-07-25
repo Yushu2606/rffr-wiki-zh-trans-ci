@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #FF0000, #FFA500, #FFFF00); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">Old A-60i (Multi-Monster X)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Removed|reason=Replaced by [[A-60i]]}}
+{{InfoBox:Entity
+|entity_name=Old A-60i
+|entity_image=<gallery>
+A50iAnim.gif|Animation
+A50Main.webp|Main Face
+A501.webp|1st Face
+A502.webp|2nd Face
+A503.webp|3rd Face
+A504.webp|4th Face
+A505.webp|5th Face
+</gallery>
+|previous_entity=[[A-60]]
+|next_entity=[[A-85]]
+|nicknames=A-50i (Real Name)<br>Multi-Monster X
+|appears_at=A-050+ (Removed, Now only by admins)
+|type=Rebounder
+|locker_snipe=No
+|claustrophobia=No
+|behavior=Spawns from the back, and rebounds a couple times
+|speed=fast
+|gun_effect=None
+|damage=Instant Death
+|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[False-60]]
+|sound1=<center>Ambience '''Loud'''</center><center>[[File:A50iambi.mp3]]</center>}}
+
+==Description==
+Old A-60i is a Removed and now Admin Exclusive entity within Rooms: Found Footage: RENOVATED, more info show below
+
+==Mechanics==
+Behaves exactly like [[D-60]], rushing to the current room and Idling in the middle of the room before rushing back, it will repeat this many times, it will Despawn at voidwall, unlike [[D-60]].
+
+==Strategies==
+* Treat it like [[D-60]], hide when you hear him and stay hidden untill it backtracks
+* '''Old A-60i''' cannot snipe, use this to your advantage
+
+==Trivia==
+A-50i is Old A-60i's Real name, but was put as such for the wiki.
+
+Old A-60i looks like [https://r-rooms.fandom.com/wiki/A-60 A-60] From the original Rooms
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:I Variation]]
+[[Category:Multimonsters]]

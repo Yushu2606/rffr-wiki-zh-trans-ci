@@ -1,0 +1,40 @@
+==说明==
+要使用此模板，请输入以下代码并填写对应字段。多数留空的字段将不会显示。
+
+==语法==
+<pre>
+{{Quote
+ | quote   = 
+ | speaker = 
+ | source  = 
+}}
+</pre>
+
+作为替代方案，你也可以按位置顺序填入这些参数。
+==示例==
+{{Quote
+ | quote   = 在权力的游戏中，你不当赢家，就只有死路一条。
+ | speaker = [[w:c:gameofthrones:Cersei Lannister|瑟曦·兰尼斯特]]
+ | source  = [[w:c:gameofthrones:You Win or You Die|《成王败寇》]]
+}}
+<pre>
+{{Quote
+ | quote   = 在权力的游戏中，你不当赢家，就只有死路一条。
+ | speaker = [[w:c:gameofthrones:Cersei Lannister|瑟曦·兰尼斯特]]
+ | source  = [[w:c:gameofthrones:You Win or You Die|《成王败寇》]]
+}}
+</pre>
+或
+
+<pre>
+{{Quote
+ | 在权力的游戏中，你不当赢家，就只有死路一条。
+ | [[w:c:gameofthrones:Cersei Lannister|瑟曦·兰尼斯特]]
+ | [[w:c:gameofthrones:You Win or You Die|《成王败寇》]]
+}}
+</pre>
+
+
+==技术细节==
+本模板使用[[w:Help:Lua|Lua 模板语言]]，更多信息可查阅[[w:c:dev:Global_Lua_Modules/Quote|全局 Lua 模块页面]]。'''如需本模板的传统 wikitext 版本，请参见[[w:c:templates:Template:Quote|模板 Wiki 上的 Quote 页面]]'''。
+<includeonly>[[Category:Quote templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

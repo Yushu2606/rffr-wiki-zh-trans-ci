@@ -1,0 +1,35 @@
+{{Suggested|Collese (Made the original model of it and the dev team liked it)}}{{Stub}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=Pipe Bomb
+|entity_image=PB.jpg
+|next_entity=???
+|previous_entity=???
+|appears_at=Anytime in [[Super Epic Mode]]
+|type=Stationary
+|behavior=Will spawn in the middle of the room, exploding after a couple seconds
+|speed=None
+|claustrophobia=No
+|damage=Instant Death
+|related_monsters=[[Cherry Bomb]]
+|caption-entity_image=pipe bomb :3
+|sound1=<center>pipe bomb :3</center><center>[[File:PB.mp3]]</center>}}
+
+==Description==
+'''Pipe Bomb''' is an expensive entity that can spawn anytime when inside the [[Super Epic Mode]] game modes, its the replacement for the [[Cherry Bomb|Cherry Bomb]].
+==Mechanics==
+Will spawn in the middle of the room, after a few seconds it will explode, killing the player if they were exposed to it, it will also break all the lockers in the same room
+
+==Strategies==
+Hide in a locker in the previous room or anywhere out of sight
+
+==Trivia==
+* '''Pipe Bomb''' is a replacement for the [[Cherry Bomb]].
+* Collese, originally made this as a joke entity but it then became real after Collese made the model of '''Pipe Bomb'''.
+* Ironically, Collese became a furry shortly after making this entity
+
+* [https://youtu.be/ueu8LbHNswo?si=ppmfpG8ldsv6Y_Oi Update Executive Teaser 4.4]
+
+{{EntityNavBox}}
+[[Category:Entities]]

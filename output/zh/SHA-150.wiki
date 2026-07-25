@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="animation: sha150 8s infinite;">SHA-150（解离）</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-150
+|entity_image=<gallery>
+PinkSha150.gif|紫色形态
+BlackSha150.gif|黑色形态
+</gallery>
+|previous_entity=[[SHA-140]]
+|next_entity=[[SHA-180]]
+|nicknames=解离
+|gun_effect=无法射击任何暗影实体
+|appears_at=[[Shadow Challenge|暗影挑战]]（若由[[SHA-4]]生成）<br>[[Alpha & Shadowpocalypse|阿尔法与暗影启示录]]
+|locker_snipe=是
+|type=暗影<br>柜子检查者
+|claustrophobia=否
+|behavior=会检查与自身颜色相同的柜子，到达前一个房间时会切换颜色
+|speed=缓慢
+|damage=??? DPS 25~（暗影瘟疫）
+|related_monsters=[[M-150]]
+|caption-entity_image=邪恶的家伙}}
+
+== 描述 ==
+'''SHA-150'''是[[Alpha & Shadowpocalypse|阿尔法与暗影启示录]]修饰符中存在的众多暗影实体之一，是[[M-150]]的感染版本。
+
+== 行为 ==
+当'''SHA-150'''生成时，它会将所有柜子高亮为黑色轮廓或全紫色，同时锁上第3个房间的门以防止玩家逃课。约3秒后，它会以与M-150类似的方式生成，颜色为黑色或紫色。随后它会开始检查主房间内所有与自身颜色相同的柜子，检查完主房间后它会切换颜色，前往前一个房间，以新颜色检查所有柜子。检查完柜子后，它会以与M-150相同的方式消失。
+
+== 攻略与技巧 ==
+* 它生成时请待在前一个房间内与它初始颜色相同的柜子附近，因为它到达你所在位置时就会切换颜色了。
+** 你应该尽可能晚躲藏，并预判它前往前一个房间的时机，因为它不会像[[M-150]]那样延长[[Claustrophobia|幽闭恐惧]]的持续时间。
+
+== 冷知识 ==
+待公布
+
+== 画廊 ==
+<gallery>
+SHA-150 2nd form.png|游戏内的紫色形态
+SHA-150 first form.png|游戏内的黑色形态
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Locker Checker]]

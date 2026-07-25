@@ -1,0 +1,91 @@
+<tabber>
+|-|Modes=
+'''模式：'''
+{{Modifier|GradiantDetails=to bottom, #A8A80A, #808000|TextColor=#C9C918|Name=[[Pre-Executive Mode|执行前模式]]|Details=这是加入'''Update Executive'''之前的R:FF: Renovated版本。该修饰符极少更新，偶尔可能出现运行故障。}}
+
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00AAAA|TextColor=#C0FFFF|Name=[[Legacy Mode|旧版模式]]|Details=这是关服前的R:FF版本。该修饰符极少更新，偶尔可能出现运行故障。你可以在此找到[[Section I|I区]]和旧版实体。}}
+
+{{Modifier|GradiantDetails=to bottom, #006DF8, #0022FF|TextColor=#BBDDFF|Name=[[True Legacy Mode|真·旧版模式]]|Details=这是架构更新发布前的R:FF版本。该修饰符不含[[Section I|I区]]，内容更精简。当你到达D-5000时会强制触发暗影挑战，但该挑战仅包含[[SHA-1]]、[[SHA-2]]和[[SHA-3]]。}}
+
+{{Modifier|GradiantDetails=to bottom, #0000FF, #000055|TextColor=#DDDDFF|Name=[[Open Beta Mode|开放测试模式]]|Details=这是游戏刚开放时的R:FF版本。该版本不含任何其他分区，仅包含[[A-60]]、[[A-200]]和[[Mouth]]}}
+
+{{Modifier|GradiantDetails=to bottom, #44FF44, #006600|TextColor=#DDFFDD|Name=[[Super Epic Mode|超级史诗模式]]|Details=这是2024年愚人节活动期间的R:FF版本。它使用游戏的旧版本构建，拥有许多独特实体。}}
+
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00FFFF|TextColor=#DDFFFF|Name=[[April Fools 2026|2026愚人节模式]]|Details=体验2026年愚人节活动期间的R:FFR！该游戏版本不会更新，且进度不会保存。}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #7700BB, #000000|TextColor=#AA00FF|Name=[[Alpha & Shadowpocalypse|阿尔法&暗影天启]]|Details=暗影已经挣脱束缚。你要么存活到1000号房间，要么撑过3只[[SHA-200]]。|Obtainment=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]}}
+
+|-|Negative Modifiers=
+'''负面修饰符：'''
+{{Locked Modifier|GradiantDetails=to bottom, #FF0000, #660000|TextColor=#FF9999|Name=混乱模式|Details=无论你身处哪个区，游戏任意部分的实体（未发布的实体除外）都可能生成。|Obtainment=[https://www.roblox.com/badges/2629617543515841/Power-Failure 电力故障]}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #FF9999, #FF4444|TextColor=#FF6666|Name=无尽红区|Details=游戏启动时就会触发[[Red Rooms|红区]]，且永远不会结束。|Obtainment=[https://www.roblox.com/badges/3208268682917747/Insanity 精神错乱]、[https://www.roblox.com/badges/3062052687568452/Caving-In 塌方]、[https://www.roblox.com/badges/1786174360214330/Prohibited-Zone 禁区]，以及[https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction 执行功能障碍]}}
+
+{{Modifier|GradiantDetails=to bottom, #9999FF, #5555FF|TextColor=#CCCCFF|Name=速度需求|Details=除[[Mouth]]外的所有实体速度都会翻倍，包括[[Claustrophobia|幽闭恐惧]]。}}
+
+{{Modifier|GradiantDetails=to bottom, #CC5555, #992222|TextColor=#FFAAAA|Name=物资匮乏|Details=除了电池之外不会生成任何[[Items|道具]]。}}
+
+{{Modifier|GradiantDetails=to bottom, #323232, #111111|TextColor=#FFFFFF|Name=藏身点不足|Details=各种柜子的生成概率会降低。}}
+
+{{Modifier|GradiantDetails=to bottom, #AA5599, #773344|TextColor=#FFAADD|Name=你……不该出现在这里吧？|Details=偶尔会生成“特殊”[[Entities|实体]]。}}
+{{Locked Modifier|GradiantDetails=to bottom, #DD0000, #660000|TextColor=#FF8888|Name=你挡我路了。|Details=[[D-20]] 将不可被击杀，且会在每个房间生成。|Obtainment=[https://www.roblox.com/badges/1396742298128730/Depth Depth]}}
+
+{{Modifier|GradiantDetails=to bottom, #222222, #000000|TextColor=#FFFFFF|Name=熄灯|Details=所有灯光都会被破坏。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=保持警惕|Details=打开第一扇门时会触发计时器生成。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=止步|Details=Void-90 没有生成限制，且生成概率提升。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=黄金时段|Details=大多数变体的生成频率会更高。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=新摄像机|Details=实体不再产生摄像机静电干扰。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=我恨死这了|Details=[[A-20ii]]、[[A-200ii]]、[[D-35ii]]和[[D-60ii]]可自然生成，同时还会出现少量其他稀有实体。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=要求完美|Details=你将永久仅有1点生命值，V-Boosters（V型强化剂）无法改变这一状态。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=生命链接|Details=所有玩家的生命值会互相影响，也就是说如果任意玩家的生命值（或最大生命值）提升/下降，所有人的生命值都会与之同步。}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=纵火犯|Details=每个躲藏点都会被[[M-134]]占据。|Obtainment=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=时钟滴答|Details=打开第一扇门后会持续激活计时器，开门会增加计时器时长，若计时器归零，[[X-000|将无人生还。]]}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=房东|Details=无论何种情况，[[Claustrophobia|幽闭恐惧]]都会在你进入柜子后的1-2秒内开始攻击。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=偏执多疑|Details=大多数实体的生成频率更高。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=不耐烦|Details=[[Void|虚空墙]]现在位于你身后3个房间的位置，而非原本的10个。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=我绝对没疯|Details=可能会播放实体的虚假音效。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=好疼！|Details=所有受到的伤害都会转为恶意伤害。}}
+
+{{Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=调试中|Details=仅会生成调试砖块。玩得开心。}}
+
+{{Locked Modifier|GradiantDetails=to bottom, #BBBBBB, #222222|TextColor=#FFFFFF|Name=哦这也太恐怖了|Details=你的速度上限被锁定为8，无法冲刺，且初始背包被锁定，仅能持有「Strange Lighter（奇怪打火机）」。|Obtainment=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]}}
+
+|-|正面修饰符=
+'''正面修饰符：'''
+{{Modifier|GradiantDetails=to bottom, #FFFFFF, #999999|TextColor=#FFFFFF|Name=常亮照明|Details=灯光将保持满亮度，且无法被关闭。}}
+
+{{Modifier|GradiantDetails=to bottom, #4f1806, #3B0F00|TextColor=#984400|Name=扩容背包|Details=大部分物品的最大携带数量翻倍。}}
+
+{{Modifier|GradiantDetails=to bottom, #91D48A, #79BE71|TextColor=#218200|Name=健康体魄|Details=行走速度设置为Roblox默认的16。}}
+
+{{Modifier|GradiantDetails=to bottom, #2F8A06, #216800|TextColor=#2A9F00|Name=活力再生|Details=玩家永久每秒恢复1点生命值。}}
+
+|-|杂项修饰符=
+'''杂项修饰符：'''
+{{Modifier|GradiantDetails=to bottom, #000000, #444444|TextColor=#FFFFFF|Name=至日|Details=消息将仅显示在你的头顶，而非常规聊天系统中。}}
+
+|-|旧版/Removed修饰符=
+'''旧版/Removed修饰符：'''
+{{Modifier|GradiantDetails=to bottom, #AAFFAA, #00DD00|TextColor=#FFFFFF|Name=我们为树代言|Details=<span style= "color:#000000">至日</span>的曾用名}}
+</tabber>
+
+==相关徽章==
+{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 极致肾上腺素冲击]|Description=这种事为什么要发生在我身上。|Obtainment=遭遇并成功躲避[[D-60ii]]。}}
+{{Badge|Image=The Apocalypse (Badge).png|Name=末日降临|Description=“就……结束了吗？”你本不该撑这么久的。启用并在「阿尔法&暗影灾变」修饰符下存活。|Obtainment=抵达1000号门，或在启用[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符的情况下存活3只[[SHA-200]]的攻击。}}
+
+{{BrowseNavBox}}
+[[Category:Browsing]]

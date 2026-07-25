@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #b300f5;">SHA-30 (Shroud)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha30Title.gif|frameless|link=SHA-30]]
+|entity_image=Sha30.webp
+|previous_entity=[[SHA-4]] ([[Shadow Challenge|SC]])<br>[[SHA-22]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-35]]
+|nicknames=Shroud
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion
+|type=Rusher<br>Shadow
+|gun_effect=No Shadow can be shot
+|behavior=Rush to the main room slowly and despawn when touch the unopened door
+|speed=Slow-Medium
+|damage=200+ DPS
+|claustrophobia=No
+|related_monsters=[[E-30]]
+|locker_snipe=No
+|sound1=<center>Ambience</center><center>[[File:Sha30ambi.mp3]]</center>
+|sound2=<center>Despawn</center><center>[[File:Sha30desp.mp3]]</center>}}
+
+== Description ==
+'''SHA-30''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[E-30]].
+
+== Behavior ==
+'''SHA-30''' will act like [[E-30]], but much slower, rushing to the main room at a slow speeds, similar to [[A-20]]'s. '''SHA-30''' will despawn Upon hitting the door, emitting a loud sound upon doing so.
+
+== Strategy & Tips ==
+* '''SHA-30''' is easy to detect due to the sound and smoke that it emits when its near, so if you notice it just simply hide in the correct time to avoid getting damage from [[Claustrophobia]].
+
+==Trivia==
+* '''SHA-30''' used to give you subtitles when the door was opened while it was active, the subtitles  being '''"It feels as if something is not pleased with your action."'''
+* The subtitle displayed alerting '''SHA-30''' spawning used to say '''"It's not a great idea, but I'll continue anyways."'''
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Snipeless]]

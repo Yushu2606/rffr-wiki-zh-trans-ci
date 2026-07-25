@@ -1,0 +1,106 @@
+__NOTOC__
+{{ArticleBackground|File=Open Beta Crate Blocking with Lockers.png}}
+
+{{Modifier|GradiantDetails=to bottom, #0000FF, #000055|TextColor=#DDDDFF|Name=[[Open Beta Mode]]|Details=Play the game how it was when R:FF first opened. There are only 3 threats in this build of the game.}}
+
+==Overview==
+'''Open Beta Mode''', or rather the oldest version of R:FF, is a modifier that can be used to play the Open Beta of the game as the name suggests. This is the most barebones out of all the modifiers and contains the least entities, them being <span style= "color:#a60a03">'''A-60'''</span>, '''A-200''', and <span style= "color:#eb0c0c">'''Mouth'''</span>. Two of the three entities originate from the original rooms in this modifier.
+
+==Entities==
+<tabber>
+|-|A-60=
+{{InfoBox:Entity
+|next_entity='''A-200'''
+|entity_name=<span style= "color:#a60a03">A-60</span>
+|entity_image=A-60 Open Beta.gif
+|appears_at=Anytime Past A-060
+|nicknames=The Multi Monster
+|type=Rusher
+|behavior=Quickly rushes towards the succeding door and stays in the room for a few seconds before disappearing.
+|sound2=<center>PlaySound</center><center>[[File:A60sound.mp3]]</center>
+}}
+
+==Description==
+<span style= "color:#a60a03">'''A-60'''</span> is the first entity that will be found in <span style= "color:#000ED5">Open Beta Mode</span>. It is quite basic and retains most features from its [[A-60|modern counterpart]].
+
+==Mechanic==
+Spawns a random distance from the main room, being 50-60 rooms back. A faint static will then be heard in the distance before he stops in the main room. Static will be heard until he disappears. Afterward the player will be able to continue.
+
+==How to survive==
+<span style= "color:#a60a03">'''A-60'''</span> is relatively easy to survive, all you have to do is hide in any locker when you start to hear his static, while is quite noticeable. Also note that [[Claustrophobia]] does not exist in this modifier.
+
+==Trivia==
+*<span style= "color:#a60a03">'''A-60's'''</span> design is identical to the one in the original rooms.
+
+|-|A-200=
+{{InfoBox:Entity
+|next_entity=Mouth
+|previous_entity=<span style= "color:#a60a03">'''A-60'''</span>
+|entity_name=A-200
+|entity_image=A-200 Open Beta.gif
+|appears_at=Anytime Past A-200
+|nicknames=The Happy Scribble
+|type=Backtracker
+Rebounder
+|behavior=Knocks on the door thrice before rushing and rebounding.
+|damage=???
+|sound1=<center>Drumming</center><center>[[File:Dumbdrum.mp3]]</center>
+}}
+
+==Description==
+'''A-200''' the second entity that is found in the <span style= "color:#000ED5">Open Beta Mode</span> modifier. It is also the only rebounder and backtracker.
+
+==Mechanic==
+Knocks three times on the succeding door before breaking it and quickly rushing down the rooms. After around 23 seconds, it will come back where it will disappear and make its signature howling sound, to where the player can then proceed.
+
+==How to Survive==
+'''A-200''' is very easy to survive against, all the player needs to do is hide in a locker. However, him rushing and rebounding does take some time. It is suggested to run for about 20 seconds before hiding again.
+
+==Trivia==
+*'''A-200''' is the second entity you will encounter.
+
+|-|Mouth=
+{{InfoBox:Entity
+|previous_entity='''A-200'''
+|entity_name=<span style= "color:#eb0c0c">'''Mouth'''</span>
+|entity_image=Mouth_OpenBeta.png
+|appears_at=???
+|nicknames=Mouth
+|type=Backtracker
+|behavior=Breaks down the door before slowly falling back.
+|damage=???
+}}
+
+==Description==
+<span style= "color:#eb0c0c">'''Mouth'''</span> the last entity that is found in the <span style= "color:#000ED5">Open Beta Mode</span> modifier and is the rarest out of all the three.
+
+==Mechanic==
+Breaks down the door before slowly retreating back while following the player. After a few doors, <span style= "color:#eb0c0c">'''Mouth'''</span> retreats back and the player is safe to continue.
+
+==How to Survive==
+<span style= "color:#eb0c0c">'''Mouth'''</span> can be tricky at times if any entity is already approaching. If this happens, the player will have to run as far as they can before hiding in a locker. This <span style= "color:#eb0c0c">'''Mouth'''</span> does not break lockers. If no entities other then mouth are there, the player can just keep running before he retreats.
+
+==Trivia==
+*<span style= "color:#eb0c0c">'''Mouth'''</span> is the only monster that does not originate from the original rooms in this modifier.
+
+</tabber>
+
+==Rooms==
+<gallery>
+File:OPEN BETA START.png|The starting room
+File:Open Beta 4 Locker Room.png|A Room with 4 lockers.
+File:Open Beta 4 Desk.png|A room with 4 desks.
+File:Open Beta Crate Blocking with Lockers.png|A square room.
+File:Open Beta Tight Hallway Boxes.png|An L shaped room with three lockers.
+File:Open Beta Boxes Left.png|A room with boxes to the left.
+File:Open Beta Boxes + 2 Desks.png|A room with 2 carboard boxes and desks.
+File:Open Beta Many Crates.png|A room with many crates.
+</gallery>
+
+==Strategies==
+*Although sprinting does last 8 seconds, as soon as the player becomes exhausted, they can immediately start sprinting again for another 8 seconds.
+*[[Claustrophobia]] does not exist here. Use this to your advantage or if you have to become AFK.
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

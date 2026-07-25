@@ -1,0 +1,284 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">M-120（模仿者）</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity|entity_name=[[File:NewM120Title.webp|frameless|link=M-120]]
+|entity_image=File:<gallery>
+NewM120.gif|当前设计
+NewM120Scare1.png|跳杀设计1
+NewM120Scare2.png|跳杀设计2
+M-120 Design.gif|旧设计
+M-120 Anim.gif|更旧设计
+</gallery>
+|previous_entity=[[M-70]]
+|next_entity=[[M-120i]]（Upcoming）<br>[[M-134]]
+|nicknames=模仿者
+|gun_effect=若它仍在成型过程中标识被摧毁，将立刻消失；但和[[D-5]]类似，被如此干扰足够多次后会发怒
+|appears_at=打开M-120之后的任意门时随机生成。
+|type=冲刺者<br>反弹者<br>后退者<br>柜子检查者<br>固定者
+|behavior=向后冲刺，随后模仿来自A区或D区的随机实体的行为。
+|claustrophobia=否（参考其所模仿的每个实体的对应属性）
+|locker_snipe=是（参考其所模仿的每个实体的对应属性）
+|speed=常规形态：~0.65 Rooms/秒（中等）<br>模仿状态：取决于模仿的实体以及红区是否激活。
+|damage=??? 每秒伤害（参考其所模仿的每个实体的对应属性）
+|related_monsters=[[M-120i]]
+|sound1=<center>生成中</center><center>[[File:M120spawning.mp3]]</center>
+|sound2=<center>已生成</center><center>[[File:M120Spawn.mp3]]</center>
+|sound3=<center>环境音</center><center>[[File:M120Ambi.mp3]]</center>
+|sound4=<center>模仿提示</center><center>[[File:M-120Mimic.mp3]]</center>}}
+
+==描述==
+'''M-120'''，又称“模仿者”，是你在M区内会遇到的第四种实体。它在M-70实装后稍晚加入，拥有模仿其他实体（尤其是先前分区的实体）及其行为的独特能力，是所有120号变种中最为特殊的一个。下方将提供更多有关'''M-120'''的信息。
+
+==行为==
+生成后，'''M-120'''会在当前房间的门牌号位置显现。完全成型后，它会等待数秒再向后冲刺。抵达虚空墙后，'''M-120'''会发出敲击声，随后模仿下方「模仿形态」部分列出的8种实体之一的最初行为模式（对绝大多数实体而言）。
+
+==模仿形态==
+<tabber>
+|-|A-20=
+{{InfoBox:Entity
+|entity_name=A-20
+|entity_image=<gallery>
+NewM120A20.png|当前设计
+20-A.png|旧设计
+</gallery>
+|nicknames=20-A<br>A-25
+|type=冲刺者
+|behavior=冲向主房间，抵达门后立刻消失
+|speed=中等
+|damage=??? 每秒伤害
+|locker_snipe=是
+|related_monsters=[[A-20]]（模仿对象）<br>[[A-20i]]（行为参考）
+|claustrophobia=否
+|sound1=<center>旧生成音效</center><center>[[File:20ASpawn.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:20-A.mp3]]</center>|sound3=<center>跳杀音效</center><center>[[File:20-AJump.mp3]]</center>}}
+
+<h2>行为</h2>
+生成后，'''M-120'''的[[A-20]]模仿形态，即'''20-A'''，会从[[虚空]]边界墙后方冲出，一边发出短促的失真呼啸声一边冲向当前房间。尽管原版[[A-20]]会减速，但'''20-A'''不会，考虑到它中等偏快的速度与高伤害率，和其他[[Entities|实体]]相比威胁性更高。'''20-A'''抵达最新生成的门后会立刻消失。
+
+<h2>图册</h2>
+<gallery>
+File:20-A near a player.png|即将击杀玩家的旧版20-A
+File:20-AScare.gif|20-A的跳杀
+</gallery>
+
+|-|A-60=
+{{InfoBox:Entity
+|entity_name=A-60
+|entity_image=<gallery>
+NewM120A60.png|当前设计
+60-A.png|旧设计
+</gallery>
+|nicknames=60-A<br>A-50
+|type=冲刺者
+|claustrophobia=否
+|behavior=冲向门并将其撞碎
+|speed=快
+|locker_snipe=否
+|damage=秒杀
+|related_monsters=[[A-60]]（模仿原型）<br>[[D-35]]（行为参考）
+|sound1=<center>生成</center><center>[[File:60ASpawn.mp3]]</center>
+|sound2=<center>远距离环境音</center><center>[[File:60-AFar.mp3]]</center>
+|sound3=<center>近距离环境音</center><center>[[File:60-A.mp3]]</center>
+|sound4=<center>金属门撞击声</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound5=<center>近距离环境音音源</center><center>[[File:Static.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''对[[A-60]]的模仿变体（即'''60-A'''）会与[[A-60]]类似，从某一位置出发冲刺。它会冲向当前房间，途中发出柔和的静电声，秒杀所有视线内的玩家；靠近玩家时还会发出音调更高的静电声。'''60-A'''抵达最新生成的门时会立刻消失。此外，它还会像[[M-60]]一样撞碎门，并有概率生成[[M-150]]、[[M-200]]或另一个'''M-120'''。
+
+|-|A-85=
+{{InfoBox:Entity
+|entity_name=A-85
+|entity_image=<gallery>
+NewM120A85.png|当前设计
+85-A.png|旧设计
+</gallery>
+</gallery>
+|nicknames=85-A
+|type=Fallback（折返型）
+|locker_snipe=否
+|claustrophobia=否
+|behavior=在门处生成，随后折返冲刺
+|speed=快
+|damage=??? 每秒伤害
+|related_monsters=[[A-85]]
+|sound1=<center>环境音</center><center>[[File:85-A.mp3]]</center>|sound2=<center>跳杀</center><center>[[File:85-AJump.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''对[[A-85]]的模仿变体（即'''85-A'''）会与[[A-85]]本身一样转身，出现在门的正前方。它会播放响亮的失真静电声。数秒后，'''85-A'''会向后冲刺，对视线内的所有玩家快速造成伤害直至其死亡。它的终点是'''M-120'''的模仿生成点，抵达后便会消失。
+
+<h2> 冷知识 </h2>
+* 与大多数模仿者不同，'''M-120'''不会模仿[[A-85]]最早期的行为。
+** '''M-120'''对[[D-5]]的模仿变体同样如此。
+
+<h2> 画廊 </h2>
+<gallery>
+File:85-AScare.gif|85-A 跳杀
+</gallery>
+
+|-|A-135=
+{{InfoBox:Entity
+|entity_name=A-135
+|entity_image=<gallery>
+NewM120A135.png|当前设计
+135-A.png|旧设计
+</gallery>
+|nicknames=135-A<br>A-175
+|type=Fallback（折返型）<br>柜子检查者
+|locker_snipe=否
+|claustrophobia=是
+|behavior=在门后生成，折返途中检查灰色柜子
+|speed=慢
+|damage=秒杀
+|related_monsters=[[A-135]]
+|sound1=<center>环境音</center><center>[[File:135Aambiance.mp3]]</center>
+|sound2=<center>金属门撞击声</center><center>[[File:Metaldoorsmash.mp3]]</center>|sound3=<center>跳杀</center><center>[[File:135-AJump.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''对[[A-135]]的模仿变体（即'''135-A'''）会与[[A-135]]本身一样转身，在门后等待。'''135-A'''会播放与[[A-135]]几乎完全一致的敲击声。'''135-A'''会稍作等待再撞破门，之后与[[A-135]]一样，在前往下一个房间前检查每一个'''Heavy Locker（重型柜子）'''。检查完所有柜子后，'''135-A'''不会折返冲刺，而是会立刻消失。
+
+<h2> 画廊 </h2>
+<gallery>
+File:135-AScare.gif|135-A 跳杀
+</gallery>
+
+|-|D-5=
+{{InfoBox:Entity
+|entity_name=D-5
+|entity_image=<gallery>
+NewM120D5.png|当前设计
+5-D.png|旧设计
+</gallery>
+|nicknames=5-D
+|type=Fallback（回撤型）
+|claustrophobia=是
+|behavior=伴随着巨响在门后生成，向后回撤，若你处于它的视线内便会受到伤害
+|speed=中等
+|damage=??? DPS
+|locker_snipe=是
+|related_monsters=[[D-5]]
+|sound1=<center>生成</center><center>[[File:5Dspawn.mp3]]</center>
+|sound2=<center>旧环境音</center><center>[[File:5-DWalk.mp3]]</center>
+|sound3=<center>消失</center><center>[[File:5-DDespawn.mp3]]</center>|sound4=<center>跳杀</center><center>[[File:5-DJump.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''对[[D-5]]的模仿者，即'''5-D'''，会以与[[A-120]]和/或[[A-135]]相似的方式转动自身。它会播放爆炸音效，并用静电效果填满所有玩家的屏幕。静电会逐渐淡出，效果近似倒计时。待静电完全消散后，'''5-D'''会开始向'''M-120'''的模仿点位冲刺，随后播放一段随机的消失音效，该音效与[[D-5]]最古老的消失音效相似。
+
+<h2> 冷知识 </h2>
+* 与大多数模仿者不同，'''M-120'''不会模仿[[D-5]]最古老的行为模式。
+** '''M-120'''对[[A-85]]的模仿者也是如此。
+
+<h2> 画廊 </h2>
+<gallery>
+File:5-DScare.gif|5-D 跳杀
+</gallery>
+
+|-|D-20=
+{{InfoBox:Entity
+|locker_snipe=???
+|entity_name=D-20
+|entity_image=<gallery>
+NewM120D20.png|当前设计
+20-D.png|旧设计
+</gallery>
+|nicknames=20-D<br>D-1
+|type=固定者
+|claustrophobia=否
+|behavior=对范围内的玩家造成伤害
+|speed=静止
+|damage=??? DPS
+|related_monsters=[[D-20]]
+|sound1=<center>生成中</center><center>[[File:20Dspawning.mp3]]</center>
+|sound2=<center>生成</center><center>[[File:20Dspawn.mp3]]</center>
+|sound3=<center>环境音</center><center>[[File:20DAmbiance.mp3]]</center>
+|sound4=<center>消失</center><center>[[File:20Ddespawn.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''对[[D-20]]的模仿者，即'''20-D'''，会像M-120本体一样转动自身，释放与M-120相同的粒子效果并伴随光亮，数秒后便会显形。在此之后，'''20-D'''会在房间内保持闲置，对所有靠近的玩家造成快速持续伤害。随着时间推移，'''20-D'''的面部亮度、光源亮度以及造成的伤害都会逐渐衰减。最终，'''20-D'''会完全消失，完成消失流程。但与[[D-20]]不同的是，它无法被任何武器击杀，子弹会直接穿过它的身体（该设定后续会调整）
+
+|-|D-35=
+{{InfoBox:Entity
+|locker_snipe=否
+|entity_name=D-35
+|entity_image=<gallery>
+NewM120D35.png|当前设计
+35-D.png|旧设计
+</gallery>
+|nicknames=35-D
+|type=冲刺者
+|claustrophobia=否
+|behavior=向门冲刺，有时会将门破坏
+|speed=快速
+|damage=秒杀
+|related_monsters=[[D-35]]
+|sound1=<center>生成</center><center>[[File:35DSpawn.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:35-D.mp3]]</center>
+|sound3=<center>金属门撞击声</center><center>[[File:Metaldoorsmash.mp3]]</center>|sound4=<center>跳杀</center><center>[[File:35-DJump.mp3]]</center>}}
+
+<h2> 行为 </h2>
+生成时，'''M-120'''的[[D-35]]模仿者，即'''35-D'''，会像[[A-60]]一样转动自身。它会发出轰鸣声（距离过远，在M区内无法听到），随后冲向当前房间，杀死视线内的所有玩家；它有10%''<u>（若你处于[[Red Rooms|红区]]则概率为100%）</u>''的概率变为其i变种，速度远快于普通状态。抵达当前房间后，'''35-D'''会消失，根据自身速度不同，它要么撞击门，要么直接将门彻底撞碎。如果它撞碎了门，可能会生成[[M-150]]、[[M-200]]或另一只'''M-120'''。
+
+<h2> 画廊> </h2> 
+<gallery>
+File:35-DScare.gif|35-D 跳杀 
+</gallery>
+
+|-|D-55=
+{{InfoBox:Entity
+|locker_snipe=否
+|entity_name=D-55
+|entity_image=<gallery>
+NewM120D55.png|当前设计
+55DAnim.gif|旧动画重制
+55-D.png|旧设计
+</gallery>
+|nicknames=55-D
+|type=冲刺者<br>柜子检查者
+|behavior=冲向主房间并检查灰色柜子
+|speed=快速
+|damage=秒杀
+|claustrophobia=是
+|related_monsters=[[D-55]]
+|sound1=<center>远距离环境音</center><center>[[File:55Dfar.mp3]]</center>
+|sound2=<center>近距离环境音</center><center>[[File:55DClose.mp3]]</center>}}
+
+<h2> 行为</h2>
+生成时，'''M-120'''的模仿者，即'''55-D'''，会像[[A-60]]和/或[[D-55]]本身一样转动自身。'''55-D'''会开始冲向当前房间，发出与它所模仿的基础实体相似的噪音。抵达当前房间后，'''55-D'''会开始检查房间内的每一个'''重型柜子'''，行为与[[A-135]]相似，但速度稍快，它有10%''<u>（在[[Red Rooms|红区]]为50%）</u>''的概率破坏一个柜子。'''55-D'''完成柜子检查后，会返回其生成点，随后消失。
+</tabber>
+
+== 策略与提示 ==
+* 如前文所述，'''M-120'''无法命中玩家，因此当'''M-120'''与其他实体一同生成时，你可以利用这一点。
+* [[M-200]]和[[M-150]]在'''M-120'''处于活跃状态时不会生成，但如果二者在同一房间生成，[[M-150]]可以和'''M-120'''一同出现，因此'''M-120'''生成时要留意蓝光/白光。
+* '''M-120'''<nowiki/>的'''35-D'''模仿者会伏击玩家，能以极快的速度直冲主房间，因此如果你听到'''35-'''<nowiki/>'''D'''的声音，不要躲在蓝色柜子里，因为如果它撞破门，可能会生成[[M-200]]。
+* 如果你在'''M-120'''变形时射击门牌，打破门牌就可以解除它的威胁/让它消失。但这仅对普通武器有效，Perfectionists（完美主义者）无法触发该效果。
+* 如果'''M-120'''不是处于'''135-A'''或'''55-D'''模仿者状态，要躲在重型柜子里，因为其他模仿者可能会撞破门，生成[[M-200]]。
+* 如果'''M-120'''处于'''20-D'''模仿者状态，你可以利用这一点，在它变形、穿门的时候从它身边经过，因为它活跃时[[M-150]]和[[M-200]]无法生成。 
+
+== 冷知识 ==
+* 请注意不要与Interminable Rooms（无尽Rooms）中的'''M-120'''混淆，二者同名。
+* 如果你躲在桌子下方，'''20-A'''、'''85-A'''和'''35-D'''无法杀死你。但其他模仿者（'''60-A'''、'''135-A'''、'''5-D'''、'''20-D'''和'''55-D'''）即使你躲在桌子下也能杀死你。
+* 射击'''M-120'''<nowiki/>的门牌足够多次，会让它从前一个房间的门牌处变形生成。
+** 当'''M-120'''正从前一个房间的门牌处变形生成时，继续射击它更多次，会让它从更远一个房间的门牌处变形生成。
+* 如果[[M-70]]处于激活状态时'''M-120'''即将进行模仿，它会等待[[M-70]]消失后再变形为模仿者。
+* '''M-120'''曾长期存在一个漏洞：当它处于'''135-A'''或'''55-D'''的模仿状态时，不会击杀它正在检查的柜子内的玩家；不过该漏洞已于2/28/26修复，因此现在你无法躲在任何柜子中躲避'''135-A'''或'''55-D'''。
+
+== 画廊 ==
+<gallery>
+File:Screenshot 20260517 100705 Video Player.jpg|采用新设计的M-120
+File:Screenshot 20260517 100749 Video Player.jpg|即将后退的M-120
+File:Screenshot 20260517 100720 Video Player.jpg|蓄能完毕的M-120
+File:Screenshot 20260517 100810 Video Player.jpg|在M-120后退前，一名玩家正准备躲避它
+</gallery><gallery>
+File:M-120 scary.gif|M-120的旧版跳杀
+File:M-120 spawning.png|从门标识处生成的旧版M-120
+</gallery>{{EntityNavBoxSectionM}}
+
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Rusher]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Stationary]]
+[[Category:Entity Type Mix]]
+[[Category:Weapon Affected]]

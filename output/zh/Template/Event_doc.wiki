@@ -1,0 +1,32 @@
+== 说明 ==
+要使用此模板，添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom 信息框语法]]。
+
+== 语法 ==
+<pre>
+{{Event
+ | title         = 
+ | image         = [例如 "Example.jpg"]
+ | imagecaption  = 
+ | performers  = 
+ | date          = 
+ | location      = 
+}}
+</pre>
+
+== 示例输出 ==
+{{Event
+ | title         = 每日精选花卉
+ | image         = Example.jpg
+ | performers    = 优秀演出者
+ | date          = 永久开放
+ | location      = 所有地点
+}}
+<pre>
+{{Event
+ | title         = Flower du Jour
+ | image         = Example.jpg
+ | performers    = Awesome Ones
+ | date          = All the time
+ | location      = Everywhere
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

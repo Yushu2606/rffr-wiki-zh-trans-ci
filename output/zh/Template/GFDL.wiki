@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件以 GFDL 许可发布。在自由软件基金会发布的'''[[Wikipedia:Text of the GNU Free Documentation License|GNU 自由文档许可证]]'''1.2版或其任意后续版本的条款约束下，您被允许复制、分发和/或修改此图片；无恒常章节、无封面文本、无封底文本。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:GFDL files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

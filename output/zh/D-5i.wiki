@@ -1,0 +1,76 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px navy; color: #7f00ff;">D-5i（搜寻者）</span>}}
+{{Redesign|Unknown|当前设计由a predator制作}}{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-5]]
+|next_entity=[[D-20]]
+|entity_name=[[File:D-5iPlaceHolder.png|frameless|link=D-5i]]
+|entity_image=<gallery>
+D5i.png|设计图
+D5iMad.png|暴怒状态设计图
+Eyescare.webp|跳杀设计图
+</gallery>
+|appears_at=D-005之后的任意区域
+|claustrophobia=否
+|gun_effect=会激怒它，使其速度提升，反弹次数大幅增加
+|nicknames=搜寻者
+|locker_snipe=否
+|type=后退者<br>反弹者
+|behavior=在最新的房间生成，随后来回往返数次
+|damage=150 每秒伤害（位于视野内时）；30 每秒伤害（在远处躲藏时）
+|speed=每秒1.2个房间
+|related_monsters=[[D-5]]（基础变种）
+|sound1=<center>生成</center><center>[[File:D-5iSpawn.mp3]]</center>
+|sound2=<center>远距离环境音</center><center>[[File:D5ifar.mp3]]</center>
+|sound3=<center>近距离环境音</center><center>[[File:D5iclose.mp3]]</center>
+|sound4=<center>暴怒</center><center>[[File:D5iEnrage.mp3]]</center>
+|sound5=<center>消失</center><center>[[File:D-5iAccurateDespawn.mp3]]</center>
+|sound6=<center>生成提示音</center><center>[[File:BossSpawn.mp3]]</center>
+|sound7=<center>金属门碎裂音效</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound8=<center>暴怒状态背景音乐</center><center>[[File:Riots.mp3]]</center>}}
+
+==描述==
+'''D-5i'''是[[D-5]]速度更快、攻击性更强的变种。它有着一颗紫色的写实眼球，周围环绕着牙齿。
+
+==行为==
+'''D-5i'''会在门前方生成并停留。约2-4秒后，它会开始快速穿过多个房间，不断反弹，对所有位于其视线范围内的玩家造成伤害。不过，即便你躲在任意躲藏点内，只要'''D-5i'''距离足够远时你仍在躲藏，也会受到伤害，不过此伤害数值更低。它偶尔会假消失来欺骗玩家以为它已经离开，假消失期间'''D-5i'''仍然可以对你造成伤害。'''D-5i'''造成的伤害远高于[[D-5]]。
+
+除此之外，'''D-5i'''还有另一种生成方式：如果多次致盲[[D-5]]，[[D-5]]会在生成后2秒开始破坏门。如果玩家在[[D-5]]开始破坏门时继续射击它，就会生成'''D-5i'''，它会模仿[[D-5]]的行为敲门，但只会给玩家1.5秒的反应时间就会破门。之后'''D-5i'''会恢复正常行为，但由于是多次击杀[[D-5]]触发生成的，它的反弹次数会多得多。
+
+如果你用''R870 Express''或''APAR-16''这类强力武器射击'''D-5i'''，会激怒它，使其变为<span style="text-shadow: 0 0 5px red; color: red;">红色</span>，代表它已进入暴怒状态，此时D-5i的速度会变得极快，且会进行极多次反弹。
+
+==策略与提示==
+*'''D-5i'''在近距离时会无视安全点，因此'''D-5i'''处于活跃状态时不要使用安全点。
+*'''D-5i'''的伤害远高于[[D-5]]，因此在遇到'''D-5i'''前，请尽可能多收集治疗物品。
+*如果[[D-5]]处于暴怒状态时，[[D-140]]、[[D-60i]]正处于活跃状态，或是[[D-60]]正在反弹，请停止射击[[D-5]]——如果上述实体任意一个活跃时'''D-5i'''生成，你的存活概率会极低。
+*如果[[D-140]]处于激活状态时生成了'''D-5i'''，你应当前往主房间，在'''D-5i'''距离较远时利用安全点位，祈祷[[D-140]]和'''D-5i'''同时抵达，或是[[D-140]]不会花太久检查蓝色的各种柜子/白色柜子，能快速移动到下一个房间。
+*使用Perfectionist（完美主义者）射击4-6次即可激怒'''D-5i'''，你可以利用这一点……？（就算被激怒，你依然可以躲过'''D-5i'''存活，这不是明摆着的嘛）
+*'''D-5i'''存在期间，其他实体依然可以发动攻击。
+**所以哪怕你是在速通或是想要快速冲房，在它发动攻击时也不要打开任何门。
+*'''D-5i'''无法命中，你可以利用这一特性。
+
+==冷知识==
+*如果你对此感到好奇，答案是否定的——'''D-5i'''并不会禁用[[Claustrophobia|幽闭恐惧]]（在'''D-5i'''处于激活状态时，你根本没有足够的生命值撑到[[Claustrophobia|幽闭恐惧]]发动攻击，但我已经测试过这种情况了）。
+*'''D-5i'''<nowiki/>的视线是无限的，和[[D-5]]<nowiki/>的一致。
+
+== 背景设定 ==
+'''D-5i'''是一次暗影感染失败的产物，[[Overseer]]可能会尝试将他彻底感染。
+
+== 画廊 ==
+<gallery>
+D-5i scary.gif|D-5i的跳杀
+Eyes.png|[[April Fools 2026|2026年愚人节]]中的设计
+</gallery>
+
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:I Variation]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Weapon Affected]]
+[[Category:Entity Type Mix]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Miniboss]]

@@ -1,0 +1,70 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: white;">A-200 (Insidæ)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-135]]
+[[A-135i]]
+|next_entity=[[A-200i]]
+|entity_name=[[File:logoair.gif|frameless|link=A-200]]
+|entity_image=entity_image=<gallery>
+NewRenovatedair.gif|Current Design 
+Airyyy_renovated_air.gif|Old Design
+</gallery> 
+|caption-entity_image=the mf instakill oxygen that is APPROACHINGGGGGGGG!!
+|appears_at=Anywhere Past room A-200.
+|nicknames=Insidæ
+|claustrophobia=Yes
+|gun_effect=None
+|locker_snipe=Yes (No in [[Red Rooms]])
+|type=Fallbacker<br>Rebounder<br>Aimscripter (Chaos Mode)
+|behavior=spawn from behind the door and backtracks, turning around if theres a player not hiding
+|damage=Instant Death (Instant Death locker snipe)
+|speed=50 studs/s (1rps), or 80 studs/s in red rooms (1.6rps)
+|related_monsters=[[A-120]] (Similar mechanic) 
+[[A-200i]] (Prime Variant)
+|sound1=<center>Knocking Sound</center><center>[[File:A200Knock.mp3]]</center>
+|sound2=<center>Spawn</center><center>[[File:A200Spawn.mp3]]</center>
+|sound3=<center>Old Far Ambience</center><center>[[File:A200PlaySound.mp3]]</center>
+|sound4=<center>Close Ambience</center><center>[[File:A200CLOSE.mp3]]</center>
+|sound5=<center>Despawn</center><center>[[File:A200Despawn.mp3]]</center>
+|sound6=<center>Despawn [[Legacy Mode]]/[[True Legacy Mode]]</center><center>[[File:A200DespawnTL.mp3]]</center>
+|sound7=<center>Jumpscare</center><center>[[File:A-200JumpscareEcho.mp3]]</center>}}
+
+==Description==
+*'''A-200''' is an [[A-120]]-like entity, rebounding is a similar fashion, however with a twist. '''A-200''' has a Smart-Rebound system, where if a player is not hiding, he '''WON'T''' Aimscript, but will instantly turn around.
+
+==Mechanic==
+*'''A-200''' will begin its spawn by knocking on the door, as a clear indication of its trap. Interacting with the door will cause instant death (forced, '''A-200''' doesn't need to see you).
+*After a random of 3 to 5 knocks (2 to 3 in red rooms), '''A-200''' will do 5 extremely fast knocks before breaking the door.
+*'''A-200''' will wait a short while before moving (2 seconds normally, 0.5s if A-135 was active (and not red rooms), and 0 seconds if red rooms were active), before moving backwards to the Void-wall at mediocre speed.
+*From there, '''A-200''' has a 1 in 20 chance to rebound. Otherwise, he will de-spawn instantly.
+*When '''A-200''' de-spawns, it will produce a ''Howl'' kind of sound, which can be heard from anywhere.
+*While '''A-200''' is active, Claustrophobia is disabled until it de-spawns.
+*Any player seen, no matter what, will instantly die.
+*Does not locker snipe in red rooms.
+
+==Strategy & Tips==
+*Use a safe spot or hide until he de-spawns. That's it.
+
+==Trivia==
+*'''A-200''' 's rebound chance is a rare 1 in 20 chances (Unless someone in the server isn't hiding in a locker or table).
+*'''A-200''' can only touch the main door (this is how astra classifies rebounds) 4 times before being forced to de-spawn.
+*'''A-200''' will only knock once if [[A-135]] spawned in the same room.
+*'''A-200''' kills you under tables.
+*'''A-200'''<nowiki/>'s name is misspelled word "insidiae" ([een-SEE-dee-ae]), which means "ambush" in Latin.
+*'''A-200'''<nowiki/> cannot snipe in the [[Red Rooms]]. Use this to your advantage!
+
+== Gallery ==
+<gallery>
+File:A-200Spooky.gif|A-200's jumpscare
+File:TrueLegacyA-200.gif|True Legacy Design
+File:Sucky air.gif|Ditto, but Jumpscare/Enraged
+File:A-200 Open Beta.gif|Open Beta Design
+</gallery>
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:From Original Rooms]]
+[[Category:Aimscripter]]

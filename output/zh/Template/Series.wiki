@@ -1,0 +1,21 @@
+<includeonly><infobox>
+	<title source="title"><default>'' {{#explode:{{PAGENAME}}|(}} ''</default></title>
+	<image source="image"><caption source="caption" /></image>
+	<data source="release"><label>首次发布</label></data>
+	<data source="seasons"><label>季数</label></data>
+	<data source="episodes"><label>集数</label></data>
+	<data source="runtime"><label>播放时长</label></data>
+	<data source="genre"><label>类型</label></data>
+	<data source="network"><label>播出网络</label></data>
+	<data source="distrib"><label>发行商</label></data>
+	<data source="creator"><label>创作者</label></data>
+	<data source="writer"><label>编剧</label></data>
+	<data source="director"><label>导演</label></data>
+	<data source="composer"><label>作曲家</label></data>
+	<data source="based on"><label>改编自</label></data>
+	<data source="exec prod"><label>执行制片人</label></data>
+	<data source="producer"><label>制片人</label></data>
+	<data source="prod co"><label>制作公司</label></data>
+	<data source="country"><label>国家/地区</label></data>
+	<data source="language"><label>语言</label></data>
+</infobox></includeonly><noinclude>{{documentation}}</noinclude>

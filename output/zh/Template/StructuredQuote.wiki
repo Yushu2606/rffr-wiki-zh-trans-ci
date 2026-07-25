@@ -1,0 +1,76 @@
+<blockquote class="pull-quote">
+	<div class="pull-quote__text">{{{text|文本……}}}</div>
+	<p style="text-align: right"><cite>—{{{speaker|发言者}}}{{#if:{{{receiver|}}}|，致{{{receiver|}}}}}{{#if:{{{attribution|}}}|，{{{attribution|}}}}}{{#if:{{{source|}}}|，{{{source|}}}}}</cite></p>
+</blockquote>
+<noinclude>
+==描述==
+此模板用于展示结构化引言（''<nowiki>{{#SQuote:}}</nowiki>''）。若要完全发挥结构化引言的功能，请避免直接使用此模板，建议改用''<nowiki>{{#SQuote:}}</nowiki>''标记。
+有关结构化引言的更多信息，请参阅https://community.fandom.com/wiki/Help:Structured_Quotes。
+
+==语法==
+<pre>
+{{StructuredQuote
+| text   =
+| speaker =
+| receiver =
+| attribution =
+| source  =
+}}
+</pre>
+
+==示例==
+{{StructuredQuote
+|text=大小并不重要。看看我。你会以身材评判我，对吗？嗯？嗯。你可不该这么做。（……）
+|speaker=[[w:c:en.starwars:Yoda|尤达]]
+|receiver=[[w:c:en.starwars:Luke_Skywalker|卢克·天行者]]
+|source=[[w:c:en.starwars:Star_Wars:_Episode_V_The_Empire_Strikes_Back|《星球大战5：帝国反击战》]]
+}}
+<pre>
+{{StructuredQuote
+|text=大小并不重要。看看我。你会以身材评判我，对吗？嗯？嗯。你可不该这么做。（……）
+|speaker=[[Yoda|尤达]]
+|receiver=[[Luke Skywalker|卢克·天行者]]
+|source=[[Star Wars: Episode V The Empire Strikes Back|《星球大战5：帝国反击战》]]
+}}
+</pre>
+
+== 模板数据 ==
+
+<templatedata>
+	{
+		"params": {
+			"text": {
+				"label": "引用文本",
+				"description": "引用的内容",
+				"type": "content",
+				"required": true
+			},
+			"speaker": {
+				"label": "被引用的发言者",
+				"description": "说出或写下引用内容的个人（可使用Wiki文本链接，用逗号分隔）",
+				"type": "content",
+				"required": true
+			},
+			"receiver": {
+				"label": "引用的听众",
+				"description": "引用内容的诉说对象（可使用Wiki文本链接，用逗号分隔）",
+				"type": "content",
+				"suggested": true
+			},
+			"attribution": {
+				"label": "署名信息",
+				"description": "署名内容（可使用Wiki文本链接，用逗号分隔）",
+				"type": "content",
+				"suggested": true
+			},
+			"source": {
+				"label": "引用来源",
+				"description": "引用内容出现的位置（可使用Wiki文本链接）",
+				"type": "content",
+				"suggested": true
+			}
+		},
+		"format": "block"
+	}
+</templatedata>
+</noinclude>

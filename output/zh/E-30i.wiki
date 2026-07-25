@@ -1,0 +1,37 @@
+{{SectionEStub}} {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0b74df; color: #000000;">E-30i（缄默冲刺者 Prime）</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-30i
+|entity_image=E30i.png
+|previous_entity=[[E-10i]]<br>[[E-30]]
+|next_entity=[[E-45]]<br>[[E-60]]
+|claustrophobia=否
+|appears_at=E-050+
+|type=冲刺者
+反弹者
+|gun_effect=TBA（待公布）
+|behavior=当[[E-30]]消失后有概率伴随其出现，行为模式与E-30相同但动静更小
+|speed=中等
+|damage=??? 每秒伤害
+|nicknames=缄默冲刺者Prime
+|locker_snipe=是
+|related_monsters=[[A-20i]]<br>[[E-30]]<br>[[M-22]]<br>[[M-22i]]
+|sound1=<center>跳杀</center><center>[[File:E-30iScare.mp3]]</center>}}
+
+== 描述 ==
+
+'''E-30i'''是你可能在[[Section E|E区]]中遇到的众多实体之一，是[[E-30]]的Prime变种。
+
+== 机制 ==
+当[[E-30]]消失后，E-30i有概率生成。若成功生成，它会出现在虚空墙后方，以中等速度向主房间冲刺，使玩家屏幕布满静电；撞破门后便会向后折返，穿过虚空墙后消失。
+
+== 应对策略 ==
+
+由于'''E-30i'''生成时不会给出任何预警提示，你需要时刻留意声响，听到它的动静后立刻躲藏。
+
+== 画廊 ==
+
+<gallery>
+File:E-30iScary.gif|跳杀
+File:30 & 30i trail.webp|'''E-30i'''的拖尾粒子
+</gallery>

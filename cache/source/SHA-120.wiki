@@ -1,0 +1,47 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
+{{InfoBox:Entity
+|entity_name=SHA-120
+|entity_image=SHA-120.gif
+|previous_entity=[[SHA-85]]
+|next_entity=[[SHA-140]]
+|nicknames=Ichor
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion
+|type=Shadow<br>Fallbacker<br>Rebounder
+|behavior=Spawn behind the door, break the door and fallback, and then come back, breaking the door again and despawn
+|speed=Same as [[D-120]] (probably)
+|damage=Instant Death (HUGE DPS snipe)<br>25~ (Shadow Plague from the puddles)
+|related_monsters=[[D-120]]<br>[[SHA-4]]
+<br>[[E-10]]
+|claustrophobia=No
+|locker_snipe=Yes
+|gun_effect=No Shadow can be shot
+|caption-entity_image=The goo
+|sound1=<center>Spawn</center><center>[[File:Sha120spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:SHA120Ambi.mp3]]</center>
+|sound3=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== Description ==
+'''SHA-120''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-120]].
+
+== Behaviors ==
+'''SHA-120''' spawns from behind the main door, like his [[D-120|uninfected counterpart]]. However, he plays a slightly different drumming sound, and emits purple clouds close to the door. Shortly after, he breaks down the door and falls back towards the void wall. After reaching a certain distance, he rebounds back to the front and breaks the next door he comes in contact with, before slowly falling into the ground and despawning. '''SHA-120''' will leave puddles on the floor that if stepped on will give the player the shadow plague effect, causing them to lose some of their health overtime.
+
+== Strategy & Tips ==
+
+* The best way to hide from '''SHA-120''' without getting [[Claustrophobia]] is to sprint-hide when you hear the 2nd loud low-tone drum. Once he leaves the current room you're in, get out to avoid [[Claustrophobia]]. Wait for your screen to start shaking from '''SHA-120''', then sprint-hide in the locker again, and wait for '''SHA-120''' to despawn.
+* It's important to be careful since '''SHA-120''' is one of the few with a lethal lockersnipe, so make sure to not hide too late.
+*If you're in the current room where '''SHA-120''' is despawning at, wait ~2 seconds after '''SHA-120''' slams the door then get out.
+* Try not to rush while it is active, as other entities can spawn, creating potentially unfair combos. It can even stack on top of itself.
+
+== Trivia ==
+* '''SHA-120''' is one of two known shadow entities with a lethal lockersnipe.
+* '''SHA-120''' moves just as fast as [[D-120]] if spawned in [[Red Rooms]].
+* '''SHA-120''' has a very low chance of replacing [[D-120]]
+
+== '''Gallery''' ==
+<gallery>
+File:SHA-120 p.webp|'''SHA-120'''<nowiki/>'s puddle decal
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

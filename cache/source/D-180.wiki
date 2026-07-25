@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px maroon; color: black;">D-180 (Panic)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Removed|reason=Community vote}}
+{{Headphones}}
+{{InfoBox:Entity
+|entity_name=D-180
+|entity_image=<gallery>
+D-180Old.png|Current Design 
+D-180real.png|Reverted Design 
+</gallery>
+|previous_entity=[[D-175]]
+|next_entity=[[D-200]]
+|claustrophobia=No
+|appears_at=D-180+ (Removed, now only by admins)
+|type=Rusher<br>Rebounder<br>Spawner
+|behavior=Would've Rebounded back and forth, spawning entities while muffling their sounds with its ambience.
+|speed=16 rooms per second
+|damage=25 damage per tick
+|gun_effect=None
+|locker_snipe=No
+|caption-entity_image=I WILL SKIN YOU ALIVE WHEN I FIND YOU. YOU ARE NOT SAFE WHEN I AM PRESENT.
+|related_monsters=[[SHA-180]]<br>[[D-180i]]
+|nicknames=Panic
+|sound1=<center>Spawn</center><center>[[File:D180spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:D180ambi.mp3]]</center>
+|sound3=<center>Despawn</center><center>[[File:D180Desp.mp3]]</center>
+|sound4=<center>[[True Legacy Mode]] Ambience '''Loud Warning'''</center><center>[[File:D180old.mp3]]</center>
+|sound5=<center>[[True Legacy Mode]] Ambience Orgin</center><center>[[File:OldD-180.mp3]]</center>
+|sound6=<center>Jumpscare '''LOUD WARNING''' </center><center>[[File:D180jump.mp3]]</center>}}
+
+==Description==
+'''D-180''' was the 10th entity in [[Section D]] and the only [[Section D]] entity that is currently removed. However, his counterparts [[SHA-180]] and [[D-180i]] are out there to reminder you that '''D-180''' is a dangerous and powerful entity, capable of summoning other entities. So you better stop thinking bad of '''D-180''', because [[D-180i]] is <span style="text-shadow: 0 0 5px blue; color: blue;">ᴡᴀᴛᴄʜɪɴɢ.</span>
+
+==Mechanics==
+When '''D-180''' spawns, it will play a lower-pitch roar/scream before rushing to the main room quickly, when nearing the main room it will start screaming loudly, increasing the maximum Rolloff distance of its Ambience once it hits the door(causing its loud ambiance to be heard from everywhere during the whole encounter, making it hard to hear other entities), it will turn around and rush backwards extremely fast the second it touches the door, breaking it if in Depth, or just slam into it if in derelict, it will repeat this a couple times, rebounding after around 8-9 seconds each time, on its final rebound, it will despawn immediately after it hits the door, breaking it no matter what and making whispers noises, each time it hits the door there's a chance it spawns an entity.
+
+==Strategies==
+* Try to keep a look out for [[D-5]]'s and [[D-120]]'s spawn cues and be cautious when exiting in case [[D-60]] spawned.
+* '''D-180''' can't snipe. Use this in your advantage.
+* [https://youtu.be/6rLv068RgrM?si=4UYfdGqI48G7EyTE Video Representation]
+
+==Trivia==
+* '''D-180''' has been removed, [[D-140]] taking his place.
+* '''D-180''' couldn't spawn if [[D-60i]] was active.
+* '''D-180''' can still be spawn naturally in [[True Legacy Mode]].
+
+== Lore ==
+* All instances of '''D-180''' were Shadow infected into [[SHA-180]].
+
+==Gallery==
+<gallery>
+D180Jump.gif|'''D-180's''' Current Jumpscare.
+OldD180jump.gif|'''D-180's''' Reverted Jumpscare.
+D-180MSection.png|D-180 Seen in [[Section M]] after being spawned by a admin.
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]

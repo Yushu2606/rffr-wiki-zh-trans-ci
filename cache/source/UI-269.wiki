@@ -1,0 +1,38 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Headphones}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-269Placeholder.gif|frameless|link=UI-269]]
+|entity_image=BetterUI-269.png
+|previous_entity=[[UI-246]]
+|next_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+|type=Rebounder
+|appears_at=I-269+
+|damage=Instant Death.
+|related_monsters=[[D-180]]<br>[[UI-246]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-269Ambiance.mp3]]</center>}}
+
+== Description ==
+'''UI-269''' is the 12th entity you may encounter within [[Section Interchange]], more info below.
+
+It heavily resembles a badly made version of [https://doors-game.fandom.com/wiki/Rush Rush] from [https://www.roblox.com/games/6516141723/DOORS Doors].
+
+== Behavior ==
+When '''UI-269''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+it will appear from the back and rush to the main room, the only indicator of its presence being Horror Race Music increasing in volume, then it will rebound back and fourth a few times before despawning past voidwall.
+
+== Strategy & Tips ==
+At this point, if horror race plays, you should hide immediately, since UI-269 gives almsot no warning.
+
+== Trivia ==
+* Like most UI entities, '''UI-60''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Super Epic Mode]]
+[[Category:Entities]]
+[[Category:Section UI]]
+[[Category:Rebounder]]
+[[Category:Rusher]]

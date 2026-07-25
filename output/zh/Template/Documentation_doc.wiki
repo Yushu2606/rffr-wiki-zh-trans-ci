@@ -1,0 +1,51 @@
+==说明==
+此模板用于为模板页面添加说明文档。
+
+==语法==
+在模板页面末尾添加<code><nowiki><noinclude></nowiki>{{t|Documentation}}<nowiki></noinclude></nowiki></code>。
+
+若要嵌入/doc子页面以外的其他页面作为文档，可添加<code><nowiki><noinclude></nowiki>{{t|Documentation|documentation page}}<nowiki></noinclude></nowiki></code>。
+
+==使用方法==
+
+===模板页面用法===
+这是使用时的标准格式：
+
+<pre>
+TEMPLATE CODE
+<includeonly>模板要插入到文章中的所有分类</includeonly>
+<noinclude>{{Documentation}}</noinclude>
+</pre>
+
+''如果你的模板不是完整的div或table，你可能需要在插入<code><nowiki>{{Documentation}}</nowiki></code>之前（在noinclude标签内）闭合对应标签。''
+
+''在<code><nowiki>{{Documentation}}</nowiki></code>前加一个换行也很有用，能避免文档模板和前面的代码粘连。''
+
+===文档页面用法===
+文档页面通常位于模板的/doc子页面，但你可以通过模板的第一个参数指定其他页面作为文档（参见[[#Syntax|语法]]）。
+
+通常来说，你可以在文档页面中编写如下内容：
+
+<pre>
+==说明==
+此模板用于实现某功能。
+
+==语法==
+在对应位置输入<code>{{t|templatename}}</code>。
+
+==示例==
+<code>&lt;nowiki>{{templatename|input}}&lt;/nowiki></code> 
+
+输出结果为...
+
+{{templatename|input}}
+
+<includeonly>模板自身的所有分类</includeonly>
+<noinclude>[[Category:Template documentation]]</noinclude>
+</pre>
+
+你可以根据需要选用上述的说明/语法/示例输出部分的任意或全部内容，也可以添加“参见”或其他板块。
+
+请注意上述示例也使用了[[Template:T]]模板。
+
+<includeonly>[[Category:Documentation templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

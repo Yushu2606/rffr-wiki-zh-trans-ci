@@ -1,0 +1,26 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">Endellion</span>}}
+{{InfoBox:Entity|entity_image=<gallery>
+Endellion.png|Awake
+GooberEepy.png|Asleep
+GooberZ.png|Zzz
+</gallery>
+|appears_at=Lobby|behavior=Shopkeeper|speed=Slow|damage=None|nicknames=Endellion|sound1=<center>Ponderous Shopping OST</center><center>[[File:PonderousShopping.mp3]]</center>}}
+
+Endellion is one of the very few passive entities in R:FF:R serving as a shopkeeper in the lobby.
+
+== Behavior ==
+Endellion just wanders his own room either, eating, drinking, sleeping, or walking. Endellion does have the ability to talk but not through voice but through text but this really only happens when a player donates.
+
+== Trivia ==
+* Endellion didn't cause the 2025 Enderlin EF5 Tornado. The names are just a coincidence. (I had to put this here bc some people kept asking (ingame btw))
+* Endellion is an endangered species.
+* This specific Endellion is named Endellion#719
+* Endellions make [[Goober-200]]'s slaves if they ever capture them instead of kill them
+** Endellions also hate Goober-200's for no reason
+* Ponderous Shopping OST (Shop Theme)
+** https://youtu.be/LWcFZ_8isLg?si=E3bkLXii62gX-dVK
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:No Sections]]
+[[Category:Harmless]]

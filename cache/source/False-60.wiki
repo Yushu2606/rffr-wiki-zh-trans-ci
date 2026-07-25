@@ -1,0 +1,65 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60</span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False-60
+|entity_image=<gallery>
+F60anim.gif|Animation Re-creation 
+F601.png|1st Face
+F602.png|2nd Face
+F603.png|3rd Face
+F604.png|4th Face
+F605.png|5th Face
+F606.png|6th Face
+</gallery>
+|appears_at=Past 29+ in the [[Unnamed Sector]]/Rarely after 500
+|type=Rusher<br>Rebounder
+|behavior=Rushes to the door, idles, then backtracks.
+|speed=fast
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|previous_entity=[[Execution]]
+|next_entity=[[False-120]]
+|claustrophobia=No
+|damage=Instant Death
+|gun_effect=None
+|related_monsters=[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-60 IRUS U-60]<br>[[A-60]]<br>[[M-22]]<br>[[E-60]]
+|sound1=<center>Spawn '''After 500''' </center><center>[[File:MoriSpawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:F60far.mp3]]</center>
+|sound3=<center>Close Ambience '''(LOUD)'''</center><center>[[File:F60Close.mp3]]</center>
+|sound4=<center>Old Close Ambience</center><center>[[File:F60near.mp3]]</center>
+|sound5=<center>Jumpscare</center><center>[[File:F60jump.mp3]]</center>}}
+
+==Description==
+'''False-60''', the False version of [[A-60]], will be one of the many entities you may find within the [[Unnamed Sector]] or rarely after Door 500 in any other section.
+
+==Behavior==
+* When '''False-60''' spawns, it will Rush forward to the main room while playing faint static, hitting the main room's door and staying idle infront of it for a few seconds before rushing back to the void wall, despawning. 
+
+* However, '''False-60''' will have a chance to rebound back to the main room if you are past door 75. This may repeat multiple times.
+
+* '''False-60''' will also have a chance attack while being totally silent if you are past door 400.
+
+* Past door 500, if the player has more than 100 Max HP through the use of V-Boosters, '''False-60''' will have a chance to wait long enough to force damage from [[Claustrophobia]].
+
+==Strategies & Tips==
+* To avoid being fooled by '''False-60''' past door 400, try rushing forward to see if you are able to open doors or watch out for the screen shake like you would do against [[SHA-2]]. If the door can't be opened but [[Mori]], [[False Witness]], [[Tackle]] or any their variants arent active, '''False-60''' is on his way.
+* If '''False-60''' stays less than three seconds Infront the door before fallbacking that means that it'll rebound, so exit and re-enter the locker as fast as possible.
+
+==Trivia==
+* '''False-60''' has a rare chance of appearing outside the [[Unnamed Sector]].  Just like [[Mori]], [[False Witness]], and [[Tackle]].
+* '''False-60''' is the only Unnamed Sector Invader not present in [[Super Epic Mode]].
+* '''False-60'''s shares a design with [https://r-liminal-rooms.fandom.com/wiki/A-60 A-60] from '''Liminal Rooms'''.
+* For some time, '''False-60''' still used his Pre-release design for its Jumpscare.
+
+==Gallery==
+<gallery>
+F60Newscare.gif|Jumpscare
+F60scare.gif|Old Jumpscare
+False60jump.webp|Pre-release Design
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

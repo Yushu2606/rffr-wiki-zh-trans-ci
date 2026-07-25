@@ -1,0 +1,13 @@
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...''.'''</center></big>
+<big><center>[[D-55i]]</center></big>
+<center>[[File:D55i.png|150px|link=D-55i]]</center>
+{{Spacer}}
+'''D-55i''' is the new I variant of [[D-55]] added in ''Update Executive''. It comes from the front instead of the back, and has a higher-pitched version of the ambience from its normal counterpart. When you hear it, hide in a Blue Locker/White Cabinet, and make sure to hide away from its path, as it leaves a trail of fire that damages even while hidden.
+{{Spacer}}
+<br>
+<br>
+<noinclude>
+----
+{{FeaturedEntityList}}
+</noinclude>

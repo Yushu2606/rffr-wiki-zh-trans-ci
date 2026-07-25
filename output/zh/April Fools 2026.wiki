@@ -1,0 +1,173 @@
+{{ArticleBackground|File=GatoBackground.png}}
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00FFFF|TextColor=#DDFFFF|Name='''2026年愚人节活动'''|Details=体验愚人节活动期间版本的R:FFR！该游戏版本不会更新，且游玩进度不会保存。}}
+{{EventInfobox
+|image=AF26.webp
+|next_event='''待公布'''
+|previous_event=[[Perfection Event 3/13/26]]
+|timeline=2026年4月1日 - 2026年4月7日
+|rewards=???
+|image1=AF26.webp}}
+
+==概述==
+'''2026年愚人节活动'''顾名思义是一个玩笑类活动（现已成为常驻模式），部分实体的音效与外观有一定改动。除此之外，每通过10扇门就会触发随机事件，例如「'''我们来赌一把'''」事件会让3个[[M-60]]生成；同时[[A-20ii]]已被重新加入游戏，且会在A-020处强制生成。
+
+==新增/重新加入的实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20ii.png|center|150px|link=A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.jpg|center|150px|link=Fake Strange Keycard]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard]]
+{{!}}}
+
+ 
+==基础实体==
+<tabber>
+|-|A区实体=
+'''A区实体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135.png|center|150px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}}
+
+|-|D区实体=
+'''D区实体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5AF26.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Eyes.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfD55.png|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign D-60i Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewD200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}}}
+
+|-|M区实体=
+'''M区实体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.png|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120 Design.gif|center|150px|link=M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
+{{!}}}
+
+|-|杂项实体=
+'''杂项实体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+</tabber>
+
+
+
+==门事件==
+===I LIKE TRAINS（我喜欢火车）===
+* 强制生成数个[[A-20i]]
+
+===ARE YOU KIDDING ME...?（你在逗我吗……？）===
+* 强制生成数个[[M-7]]
+
+===LET'S GO GAMBLING!（我们去赌一把吧！）===
+* 强制生成数个[[M-60]]
+
+===HERE COMES THE SUN（太阳出来了）===
+* 强制生成数个[[E-10]]
+
+==={Random Number} MAX HEALTH（{随机数} 最大生命值）===
+* 提升或降低玩家的最大生命值
+
+==={Random Number}X SPEED（{随机数}倍速度）===
+* 提升或降低玩家的最大移动速度
+
+===BONK（砰）===
+* 造成约10-20点伤害
+
+===I THINK THE HINGES RUSTED（我看合页生锈了）===
+* 破坏主房间内的所有躲藏点
+
+
+==冷知识==
+* 本次活动期间，游戏被重命名为“[PEAKING] room lost recording demoted（[PEAKING] 房间遗失录像 降级）”
+* 与完美事件类似，来自[[Shadow Challenge|暗影挑战]]和[[Alpha & Shadowpocalypse|阿尔法与暗影灾变]]的所有暗影实体都有概率入侵你的逃生。
+* 你的冲刺速度会大幅提升，但效果仅持续约4秒。
+* 水晶可以被投掷，落地数秒后会爆炸。
+** [https://youtu.be/Dg6kIvfQAog?si=_dVewH5vwtF8OJuQ Update Executive 预告 8.8]
+
+==图集==
+<gallery>
+AF26.webp|游戏缩略图
+</gallery>

@@ -1,0 +1,160 @@
+{{DISPLAYTITLE:<span style="animation: D-section 4s infinite">'''Section D (Depth/Derelict)'''</span}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{SectionInfoBox
+|image=<gallery>
+Depths (D-Section).png|Depth Game page image 1
+Depths (D-Section) 2.png|Depth Game page image 2
+Derelict (D-Section).png|Derelict Game page image
+</gallery>
+|previous_section=[[Section A]]
+|next_section=[[Section M]]<br>[[Unnamed Sector]]<br>[[Section I]] <small>(If [[Legacy Mode|Legacy]])</small><br>[[Section UI]] <small>(If [[Super Epic Mode|SEM]])
+|entity_amount=14
+|i_entity_amount=4
+|sound1=<center>Section Opened</center><center>[[File:DSectionOpen.mp3]]</center>
+|sound2=<center>Depth Ambience</center><center>[[File:Depth.mp3]]</center>
+|sound3=<center>Derelict Ambience</center><center>[[File:Derelict.mp3]]</center>
+|sound7=<center>Derelict Endless Mode Ambience</center><center>[[File:OldSectorDOST.mp3]]</center>
+|sound5=<center>D-750 - D-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound6=<center>D-1000</center><center>[[File:DeepBellow.mp3]]</center>
+|sound8=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+
+==Overview==
+'''Section D''' is the second section the player will encounter, and has two areas, '''Depth''', a mineshaft, and '''Derelict''', a gray metal facility. The entities in this section are similar to [[Section A]], except their abilities are stronger. Take [[D-35]] for example. It is a abrupt and fast moving entity, similiar to [[A-20]], except fast reaction time is needed. More entities stronger I variations can be found here as well, including the infamous [[D-60i]]. Once the player has reached D-400, the next section can be found, [[Section M]]. Starting from D-100, areas will be swapped from the '''Depth''' to the '''Derelict''', and starting from D-500, it will switch back to the '''Depth'''. Starting from D-750, it will switch to '''Derelict''', one last time. After reaching room D-1000, it will switch back to the '''Depth''' and will now constantly switch every 100-200 rooms.
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.png|center|150px|link=D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.png|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-250]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DSectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+==Removed/Scrapped==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-180Old.png|center|150px|link=D-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
+{{!}}}
+
+==Rooms==
+<tabber>
+|-|Depth=
+<gallery>
+Section Depth Starting Room.png|The Starting Room.
+Section Depth Starting Room Bottom.png|Ditto, but passed the opening.
+Section Depth Hallway -w Two Siderooms.png|A room with two side rooms. 
+Section Depth Room 5.png|Room 5.
+Section Depth Hallway But Dark.png|A dark hallway.
+Section Depth Furnished Room.png|A furnished room with tools to the side.
+Section Depth Basic Hallway.png|A basic hallway.
+Section Depth Room -w 3 Planks.png|A room with 3 planks to the side.
+Section Depth Room Goes to the side.png|A room that turns to the left.
+Section Depth Hallway -w Two Siderooms 2.png|A room with two side rooms, except one is being blocked by a shelf.
+Section Depth Slope Downward.png|A room that has two shelves and is sloped downward.
+Section Depth Basic Hallway 2.png|A basic hallway.
+Section Depth Pitch Black Room.png|A pitch black hallway.
+Section Depth Basic Hallway 3.png|A partially dark hallway.
+Section Depth Much Stuff.png|A hallway with many cabinets and most of its lights turned on.
+Section Depth Basic Hallway 4.png|A hallway with one bulb and two cabinets.
+Section Depth Room -w Trashbags.png|A room with trash bags in the left corner.
+Section Depth Staircase.png|A Staircase.
+Section Depth Staircase Top.png|Ditto, but from the bottom.
+Section Depth Many Boxes.png|A basic room with many boxes.
+Section Depth Room Goes to the right.png|A room that goes to the right.
+Section Depth 2 Cabinets.png|A room with two cabinets.
+Section Depth Room 100.png|Room 100, a transition from Depth to Derelict.
+Water_cave.jpg|A rare flooded version of the hallway room.
+</gallery>
+
+|-|Derelict=
+<gallery>
+Section Derelict Room 101.png|Room 101.
+Section Derelict Starting Room.png|The Starting Room.
+Section Derelict Pipe Cluster.png|A room full of large pipes.
+Section Derelict Garden -w Filing Cabinets.png|A room with pipes, gardens, and filing cabinets.
+Section Derelict 2 Garden Right.png|Two gardens to the side.
+Section Derelict 4 Pillars.png|A room with 4 pillars.
+Section Derelict Lockers Middle.png|A room with a few lockers in the middle.
+Section Derelict Middle Paper.png|A room with tons of paper in the middle.
+Section Derelict 2 Silos Left.png|A room featuring a broken door and an exit to the left.
+Section Derelict Exit Bottom.png|The exit room at the bottom.
+Section Derelict Bottom Room.png|Exiting the exit, featuring this room to the next door.
+Section Derelict 6 Silos.png|A room with six silos and a purple light.
+Section Derelict 2 Laser Doors.png|A room with two laser doors, while one is deactivated.
+Section Derelict Many Shelves.png|A room with many shelves.
+Section Derelict Basic Room 1.png|A basic room.
+Section Derelict Basic Room 1 But Left.png|Ditto, but it's to the left.
+Section Derelict Room 200.png|Room 200.
+Section Derelict Room 200.png|Ditto, but the bottom of the room.
+Section Derelict Room 200 End.png|Ditto, but at the end of the room.
+Section Derelict Room 200 Door Sign.png|Door 201's door sign.
+Section Derelict Room 400.png|Room 400.
+</gallery>
+</tabber>
+
+==Strategies==
+*Most of Section D entities are either very fast or time consuming, such as [[D-5]], [[D-55]], [[D-60]], [[D-60i]], [[D-140]] and [[D-200]]. It's recommended to get into locker/cabinets as late as possible to avoid [[Claustrophobia]] damage.
+*Starting from D-500 and till D-750, its recommended to save your battery as much as possible due to Depth rooms being too tall and completely dark. It won't be a problem for Faraday Shakelight users though.
+*For [[Red Rooms]], you should be aware of entities' ambient due to Red Rooms' ambient being too loud sometimes, making a possibility to die to silent entities, such as ''D-60'', more probable. Also, do remember that some entities will begin to spawn passively. 
+*Try to keep track if [[D-140]] is active or not in the [[Red Rooms]], as knowing where to hide is crucial to prevent dying from either [[D-140]] or [[D-55]]. If it is, hide in Heavy Lockers. If it isn't, try hiding in Blue Heavy Lockers.<!-- We need more... -->
+
+== Trivia ==
+* '''D Section''' is one of the only two sections ( the other one being '''M Section''' ) that have 2 switching rooms generation type.
+* '''D Section''' is the section with the most Admin '''I variations''', with 6 Admin exclusive '''I variations''', that are [[D-20i]], [[D-35ii]], [[D-55ii]], [[D-60ii]], [[D-140i]] and [[D-180i]].
+* Lockpick rooms in the '''D Section''' are different. Unlike other sections that give you a handful of items, this section will only give you around 3-5 items. To compensate, it spawns with a guaranteed V-Booster and AD-STR, which increases your max health by 100 and increases max stamina by +100%.
+
+== Lore ==
+* [[Section A]] and '''Section D''' were both abandoned because SPAWN needed to take a lot of power that was being fed into both Sections and focus it on more important things.
+** this was ment to be a temporary thing, but the entities had overrun both Section due to lack of direct control.
+
+==Badges==
+{{BadgeSectionD|Image=Depth (Badge).png|Name=Depth|Description=Wait, when did this get here?|Obtainment=Transition sections to Section D.}}
+{{BadgeSectionD|Image=Level 15 (Badge).png|Name=Level 15|Description=Mining away... oh wait wrong game|Obtainment=Open door D-500.}}
+{{BadgeSectionD|Image=Caving In (Badge).png|Name=Caving In|Description=Mental breakdown.|Obtainment=Open door D-900.}}
+{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=Surface Breach|Description=Sometimes you wonder to yourself how much doing any of this mattered. you came here on your own terms, and for what?|Obtainment=Open door D-1000.}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

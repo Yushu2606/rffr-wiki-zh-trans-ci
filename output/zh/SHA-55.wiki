@@ -1,0 +1,41 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #7b0f9a;">SHA-55（灾厄）</span>}}{{InfoBox:Entity|entity_name=[[File:Sha55logo.gif]]|entity_image=<gallery>
+SHA-55.png|当前设计
+Sha55.png|旧设计
+</gallery>
+|caption-entity_image=卡车
+|previous_entity=[[SHA-35]]
+|next_entity=[[SHA-60]]
+|nicknames=灾厄
+|gun_effect=无法射击任何暗影实体
+|appears_at=[[Shadow Challenge|暗影挑战]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion（入侵）
+|type=后退者<br>反弹者<br>柜子检查者<br>暗影
+|claustrophobia=无
+|locker_snipe=无
+|behavior=后退后过段时间返回，破坏所有不在虚空墙后方的柜子/补给柜
+|speed=中等
+|damage=秒杀
+|related_monsters=[[D-55]]
+|sound1=<center>环境音</center><center>[[File:SHA55ambi.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-55'''是出没于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|A&SP]]修饰符中的众多暗影实体之一，是[[D-55]]的感染变种。
+
+== 行为 ==
+SHA-55会生成在最新一扇门的前方，随后开始回溯/后退。当它远离主房间时会停留数秒，随后冲回主房间，沿途破坏所有不在虚空墙后方的柜子/重型柜子与补给柜。所有指定藏身处都被破坏后，它会退回虚空墙并最终消失。
+
+== 攻略与提示 ==
+* SHA-55生成时，快速躲进任意柜子直到它后退。
+* 当SHA-55开始冲向虚空墙后方时，请离开柜子，因为[[Claustrophobia|幽闭恐惧]]仍会对你发起攻击。
+* 等到SHA-55的车辆噪音变得非常大时，再躲进蓝色柜子、蓝色重型柜子或白色补给柜。
+* SHA-55不会发动柜击。你可以利用这一优势，仅在它靠近时躲藏，避免受到幽闭恐惧的伤害。
+* SHA-55处于活跃状态时不要着急前进，因为[[SHA-140]]可能会生成，二者配合会让局面变得非常不利。
+
+== 你知道吗 ==
+
+* 曾经使用与普通Mouth相同的设计，但现在拥有专属的独特设计。
+
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Snipeless]]

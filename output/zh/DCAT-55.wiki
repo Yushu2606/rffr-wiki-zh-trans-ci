@@ -1,0 +1,40 @@
+{{Headphones}}
+{{ArticleBackground|File=SEMD-Section.jpg}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|previous_entity=[[D-35ii]]
+|next_entity=[[Pipe Bomb|Pipe Bomb（管型炸弹）]]
+|entity_name=DCAT-55
+|entity_image= DCAT-55.png 
+|caption-entity_image=喵 :car:
+|appears_at=在[[Super Epic Mode|超级史诗模式]]中，D-055之后的任意位置。
+|nicknames=DCAT-55
+|type=反弹者<br>柜子检查员
+|behavior=与旧版[[D-55]]行为一致，但会反弹两次
+|damage=即死
+|speed=快
+|claustrophobia=是
+|sound2=<center>临近音效</center><center>[[File:DCAT-55Near.mp3]]</center>
+|related_monsters=[[D-55]]<br>
+[[D-55i]]<br>}}
+== 描述 ==
+'''DCAT-55'''是[[Super Epic Mode|超级史诗模式]]中最后一个'''CAT'''类实体，其外观为老梗图“这是D猫”加上绿色特效。
+
+== 行为 ==
+当'''DCAT-55'''生成时，它会发出失真的猫叫声，随后冲向当前房间，检查重型柜子/补给柜后撤退，接着会再次返回重新检查柜子，之后会再次撤退并消失。
+
+== 应对策略与技巧 ==
+当你听到失真的猫叫声时，躲进蓝色柜子或者之前的房间即可，因为它只会检查当前房间的重型柜子/补给柜。它会禁用[[幽闭恐惧]]效果，你可以利用这一点。
+
+== 你知道吗 ==
+待补充
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Loud Entities]]

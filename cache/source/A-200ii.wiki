@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px orange, 0 0 65px gold; color: orange;">A-200ii (The Omega Scribble)</span>}}
+{{Modifier Exclusive|II Hate This, [[Super Epic Mode]], or [[April Fools 2026]]}}
+{{InfoBox:Entity
+|entity_name=[[File:A-200iititle.png|frameless|link=A-200ii]]
+|entity_image=A-200ii Anim .gif
+|nicknames=The Omega Scribble
+|behavior=Will make an weird thud then wait 5 seconds and start rebounding.
+|damage=Instant Death
+|appears_at=A-200+(?) ([[Super Epic Mode]]/[[April Fools 2026]] modifiers)
+Anywhere with the '''II Hate This''' modifier enabled
+|caption-entity_image=Muehehehehe >:)
+|locker_snipe=No
+|gun_effect=None
+|claustrophobia=No
+|type=Rebounder
+|related_monsters=[[A-200]]<br>[[A-200i]]
+|sound1=<center>Spawn</center><center>[[File:A200iiSpawn.mp3]]</center>
+|sound2=<center>Rush Back</center><center>[[File:A200iirush.mp3]]</center>}}
+
+==Description==
+A-200ii, also known as The Omega Scribble, is the second “ii” variant of the A section and in the game. A-200ii has a chance to replace with A-200 in Super Epic Mode. 
+
+==Appearance==
+A-200ii is a badly drawn scribble that colored to orange. A-200ii looks angry and happy at the same time. 
+
+==Behavior==
+A-200ii will make a deep bang sound with making players static. Its particles can also be seen going through the room which mainly consists of the Greek symbol, Omega. Then, A-200ii will rush to the back and will kill any player that didn’t hide on any locker. 
+
+When A-200ii stops rushing, A-200ii will make less static than before to trick players that it despawned. Then, A-200ii rushes back to current room and rebounds back to the room 0 and will despawn. 
+
+==Strategy & Tips==
+
+* When you heard unknown bang sound and unknown static, find a hiding spot fast!
+* A-200ii will see the player in safe spot still and will kill the player if they are using them.
+
+[[Category:Omega Variation]]
+[[Category:Fallbacker]]
+[[Category:Aimscripter]]
+[[Category:Ambusher]]

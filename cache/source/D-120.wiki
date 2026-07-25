@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: #4B0000;">D-120 (Sanguine Scribble)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=Not to be confused with D-120 from '''Rooms Re-Established'''. }}{{InfoBox:Entity
+|entity_name=[[File:Blud.gif|frameless|link=D-120]]
+|entity_image=D120.gif
+|previous_entity=[[D-60]]<br>[[D-60i]]
+|next_entity=[[D-140]]
+|nicknames=Sanguine Scribble
+|appears_at=Randomly upon opening a door past D-120 in the D-Section.
+|type=Fallbacker
+|behavior=Blocks the latest generated room's door and backtracks through the rooms, killing anyone on sight.
+|claustrophobia=No
+|gun_effect=Can be shot, but does nothing
+|locker_snipe=Yes
+|speed=0.5 Rooms Per Second (Slow)
+0.6 Rooms Per Second (in Red Rooms)|damage=Instant Death (250 DPS locker snipe)
+|related_monsters=[[A-85]]<br>
+[[A-120]]<br>
+[[A-200]]<br>
+[[D-5]]<br>
+[[SHA-120]]
+|sound1=<center>Spawn</center><center>[[File:D-120Spawn.mp3]]</center>
+|sound2=<center>Spawn in [[Super Epic Mode]]</center><center>[[File:D-120_Spawn_SEM.mp3]]</center>
+|sound3=<center>D-120 Ambience</center><center>[[File:D-120Ambience.mp3]]</center>|sound4=<center>Jumpscare</center><center>[[File:D-120Jumpscare.mp3]]</center>|sound5=<center>Despawn</center><center>[[File:D-120Despawn.mp3]]</center>}}
+
+== Description ==
+'''D-120''' is the sixth entity you will encounter throughout the D-Section. It acts almost the exact same as A-120 and A-200, except being much deadlier, as you'll see throughout this page. More information on '''D-120''' will be presented here. It is also the fourth scribble in all of Rooms: Found Footage, following A-200i and prescending M-120.
+
+== Mechanic ==
+D-120 will spawn behind the current rooms door making drumming sounds. After a bit, D-120 will backtrack though the rooms despawning after a bit. Any player seen by D-120 will get jumpscared and die. D-120 also blocks the door if you try to open it.
+
+If [[Red Rooms]] is currently active, '''D-120''' will only give players 1,5 seconds to hide before fallbacking.
+
+== Strategy & Tips ==
+* Despite being a scribble, '''D-120''' will not come back for any players when they exit their lockers, and it will additionally not rebound on its own. This means that if '''D-120''' passes you, it is safe to leave your locker and continue progression.
+* If [[D-60i]] is active, you should proceed to the main room cearfuly as '''D-120''' might spawn when [[D-60i]] breaks the door, so you should look for screenshake or pay very attention to '''D-120'''<nowiki/>'s ambience to avoid getting caught by surprise and killed by '''D-120'''.
+* When '''D-120''' spawns out of the [[Red Rooms]], it is best to remain hidden for a few seconds, because [[D-60]] might be comming, and '''D-120''' can make it difficult to hear its sound, or just hide in the previous room.
+* If '''D-120''' spawn in the room with shelves in the [[Section D|D section]]'s derelict, is best to hide in the previous room, as in this room the lockers are too far away, and if you go to a broken locker without noticing, you probably won't have enough time to move to another locker and will be killed by '''D-120'''.
+
+* '''D-120'''<nowiki/>'s kill radius is longer than most entities, so it is best to wait until it is at least one room away.
+
+* If you don't know if '''D-120''' is present, look for repetitive, almost rhythmic camera movement. This is because '''D-120''' shakes the camera based off of how loud its sound is. This can help you determine if '''D-120''' is close to you in case you cannot rely on audio cues, likely due to other entities blocking '''D-120'''<nowiki/>'s sounds.
+
+* In the [[Red Rooms]], '''D-120''' poses a much greater threat due to its shortened wait time and faster speed. To counter this, you should open a door and immediately walk out of sight from the new room's door in case of '''D-120''' spawning. This gives you a bigger advantage, since '''D-120''' uses raycast.
+** Once you do hear it, either rush into a locker by sprinting or enter a locker immediately after you hear its appearing sound.
+
+== Trivia ==
+* '''D-120''' and [[M-120]] are currently the only scribbles that doesn't rebound. And also the few entities that doesn't have any '''I variation''' currently.
+* '''D-120''' is made of blood.
+* '''D-120''' has an very low chance of getting replaced by [[SHA-120]].
+* '''D-120''' has an Admin variant that is much faster and rebounds.
+
+
+==Gallery==
+<gallery>
+File:ScareD-120aaa.gif|D-120's Jumpscare
+File:OLD D-120.png|D-120 seen in [[Super Epic Mode]].
+</gallery>
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]

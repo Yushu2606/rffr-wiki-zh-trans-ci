@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">SHA-7（亡魂）</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-7
+|entity_image=<gallery>
+SHA7CLOSED.gif|阖脸动画
+SHA7OPENED.gif|开脸动画
+Better face.png|设计（裁切）
+</gallery>
+|previous_entity=[[SHA-4]]
+|next_entity=[[SHA-22]]
+|nicknames=亡魂
+|gun_effect=无法射击任何暗影实体
+|appears_at=[[Shadow Challenge|SC]]（若由[[SHA-4]]生成）<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=噪音制造者
+|claustrophobia=否
+|behavior=屏蔽实体音效
+|speed=静止者<br>快（移动至主房间时）
+|damage=25~（暗影瘟疫）
+|related_monsters=[[M-7]]
+|sound1=<center>环境音</center><center>[[File:SHA-7Ambi.mp3]]</center>
+|sound2=<center>开脸低语</center><center>[[File:SHA7Whispers.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-7'''是可在[[Alpha & Shadowpocalypse|阿尔法与暗影天启]]修饰符中发现的众多暗影实体之一。它是现已Removed的实体[[M-7]]的受感染变体。
+
+== 行为 ==
+当'''SHA-7'''生成时，它可以出现在房间内的任意位置，和D-20类似。不同的是，它的生成位置、以及下一扇门打开时的移动位置几乎没有任何限制。
+
+'''SHA-7'''属于噪音制造者，几乎能完全屏蔽部分低音量实体发出的声音。它会周期性张开面部，此时发出的声响会更大，但大多数时候它的面部是闭合的。当它张开面部时，玩家听到的第二种声响为全局播放。
+
+若'''SHA-7'''处于活跃状态时玩家打开了门，它会立刻移动到下一个房间，并停在房间内的随机位置。
+
+如果玩家直接接触'''SHA-7'''——尽管它本身没有接触伤害——玩家会感染暗影瘟疫效果，生命值会随时间缓慢流失。
+
+要让它消失，它至少需要移动过14个房间，且活跃时长至少达到1分钟。
+
+== 应对策略与小贴士 ==
+* 时刻待在柜子附近，因为'''SHA-7'''会掩盖部分暗影实体发出的声音。
+* 仅在'''SHA-7'''阖脸时前进，因为它开脸时发出的低语声会让你几乎听不到其他实体的动静。
+
+== 你知道吗 ==
+* 一旦你抵达[[Red Rooms|红区]]，'''SHA-7'''不会消失，直到你到达1000号房间。祝你好运。
+* '''SHA-7'''是两个没有对应现存未感染版本的受感染暗影实体之一，另一个是[[SHA-180]]。
+* 同一时间最多只能有1个'''SHA-7'''处于活跃状态。
+* '''SHA-7'''可在任意完美事件中单独入侵。
+* '''SHA-7'''是唯一不会在玩家死亡时触发眼睛跳杀的暗影实体。这是因为它仅能通过暗影瘟疫对玩家造成伤害，而暗影瘟疫造成的伤害不会触发眼睛跳杀。
+
+== 画廊 ==
+<gallery>
+Sha7NextToD20.jpg|'''SHA-7'''在一次完美事件中出现在[[D-20]]旁边。
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Loud Entities]]

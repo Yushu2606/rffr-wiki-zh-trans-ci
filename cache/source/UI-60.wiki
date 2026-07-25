@@ -1,0 +1,37 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-60Placeholder.png|frameless|link=UI-60]]
+|entity_image=<gallery>
+UI-60.png|Design
+UI-60Jumpscare.png|Jumpscare
+</gallery>
+|appears_at=I-060+
+|type=Rusher
+|damage=Instant Death.
+|related_monsters=[[UI-20]]<br>[[A-20i]]
+|previous_entity=[[UI-30]]
+|next_entity=[[UI-83]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-60Ambiance.mp3]]</center>}}
+
+==Description==
+'''UI-60''' is the 4th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-60''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+It will appear very far away from the main room. It will rush quickly to the main room despawning as soon as it touches the door.
+
+== Strategy & Tips ==
+* If not already, hide when you hear his laughter.
+
+== Trivia ==
+* Like most UI entities, '''UI-60''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

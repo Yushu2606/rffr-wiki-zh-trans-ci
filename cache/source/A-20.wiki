@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">A-20 (Smiler)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[Jimmy]]
+[[Claustrophobia]]
+|next_entity=
+[[A-20i]]
+[[A-60]]
+|entity_name=[[File:NewA-20Title.png|frameless|link=A-20]]
+|entity_image=
+<gallery>
+A-25MainFace.png|V.3 Design
+A-25 scream.png|V.3 Jumpscare Design
+File:A-25ReRedesign.png|V.2 Design 
+File:A20.png|V.1 Design
+</gallery>
+|appears_at=A-020+
+|nicknames=Smiler
+|behavior=Slowly rushes towards the succeeding door.
+|damage=
+|speed=70 studs/s (far from main room), 25 studs/s close to main room
+|claustrophobia=No
+|gun_effect=None
+|locker_snipe=Yes (Non Lethal)
+|related_monsters=[[A-20i]]
+|sound1=<center>Spawn</center><center>[[File:A-20 Spawn..mp3|190x190px]]</center>
+|sound2=<center>Ambience</center><center>[[File:2025-06-08 02-49-16.mp3]]</center>
+|type=Rusher|sound3=<center>Jumpscare</center><center>[[File:A-20Jumpscare.mp3]]</center>}}
+
+==Description==
+'''A-20''' is the first entity a new player will meet. It has a blue smiley face, has a trail and sounds like a train. It is very slow and can be avoided easily.
+
+==Behavior==
+When A-20 spawns, it will make a breathing sound. A-20 will rush to the current room at a slow pace and will slow down once it’s 2 rooms away. Once A-20 touches the door to the next room, A-20 will break in half and despawn. Instead of instantly killing the player, A-20 does rapid damage to them. The further the player goes, the rarer it becomes.
+
+==Trivia==
+*The movement sound of '''A-20''' is the edited sound of a mechanical keyboard.
+*'''A-20''' does not care about tables, and will act as if the player isn't hiding at all
+*'''A-20's''' name was previously going to get changed to A-25, this has now been reverted.
+*'''A-20''' will be rarer past A-1000 and will stop spawning past A-2000
+*As of the Executive Update, '''A-20''' can now spawn in the [[Red Rooms]]
+*The modifier <nowiki>''Stay Alert''</nowiki> adds a timer to '''A-20''' which can cause multiple A-20's being active at the same time
+
+== Bugs ==
+· A-20 cannot spawn if any modifier that isn't <nowiki>''</nowiki>Stay Alert<nowiki>''</nowiki> is active. Instead, [[A-20i]] will always replace it
+
+==Gallery==
+<gallery>
+A-20VeryScary.gif|A-20's Jumpscare
+File:A-20anim.gif|Older Design animation Recreation
+NewA-25Jumpscare.gif|Old A-20's Jumpscare
+File:A-25Design.png|Scrapped V.2 Design
+File:A-25Jumpscare.gif|Older A-20's Jumpscare
+TrueLegacyA-25.png|True Legacy/Super Epic Mode Design
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]

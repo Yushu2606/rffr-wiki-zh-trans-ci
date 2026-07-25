@@ -1,0 +1,1 @@
+'''Aimscripter''' are entities that '''aim''' for your current location. They can either just keep passing over your location, like [[A-200]] or really go towards you if you're out of hiding, like [[D-200]] and [[SHA-200]].

@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #c800fe, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10i (Virtue)</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{Redesign|Wawaman|Unknown}}
+{{DesignNotAllowed|design=Upcoming Design|reason=Designer's Request|exceptions=In-Game Screenshots}}
+{{SectionEStub}}
+{{InfoBox:Entity
+|entity_name=E-10i
+|entity_image=<gallery>
+Placeholder.webp|Upcoming Design
+E10i.png|Current Idle Design
+E10iJumpscare.png|Current Jumpscare Design
+</gallery>
+|previous_entity=[[E-10]]
+|next_entity=[[E-30]]<br>[[E-30i]]
+|claustrophobia=No
+|nicknames=Virtue
+|appears_at=E-100+
+|type=FallBack<br>Rusher<br>Spawner
+|behavior=Will act as [[E-10]] but instead of dissapearing after hitting the door it will teleport to void wall and do it again.
+|speed=Moderate-Fast
+|damage=??? DPS
+|locker_snipe=Yes
+|gun_effect=TBA
+|related_monsters=[[A-85]]<br>[[SHA-120]]<br>[[E-10]]
+|sound1=<center>Despawn '''(Inaccurate)'''</center><center>[[File:E-10i_despawn_r.mp3]]</center>
+<center>Jumpscare</center><center>[[File:E-10iScare.mp3]]</center>}}
+
+== Description ==
+'''E-10i''' is one of the many entities you may encounter within [[Section E]], it being the i variant of [[E-10]], acting the same but faster and having the ability to teleport
+
+== Behaviour ==
+'''E-10i''' will spawn infront the door, rushing back after around 1-2 seconds, it will then wait behind the void wall until the next door is opened or broken down. After the door is opened or is broken down, it will rush back to the main room, hitting the door and teleporting back to voidwall and wait for another door to be opened or broken, it will repeat this around 1-4 times, having a chance of Spawning an entity each time it hits the door.
+
+==Strategies==
+* It is recommended to hide right after it spawned, as it will only give you 1-2 seconds to react.
+** Think about what locker you're about to use though, since you might end up dying to [[E-45]].
+* If a door gets opened/broken, hide immediately as '''E-10i''' is faster than the [[E-10|normal counterpart]].
+* '''E-10i''' may cause or partake in a certain chain of events, like '''it''' and [[E-60]] together.
+** [[E-60]] rushes through first, breaking the door and causing '''E-10i''' to rush through. '''E-10i''' will come through to break the door whilst [[E-60]] rushes back.
+
+==Trivia==
+* '''E-10i''' could invade during [[Perfection Event 2/13/26]] and [[Perfection Event 3/13/26]].
+** This however was probably not seen by anyone, as his chance to spawn was 1 in 6 million.
+
+==Lore==
+* '''E-10i''' is the result of a failed shadow infection.
+
+==Gallery==
+<gallery>
+File:E-10i teleport.gif|'''E-10i''' seen teleporting (Low quality)
+File:Virtue ingame.gif|'''E-10i''' seen despawning (Low Quality)
+File:E10iScare.gif|Jumpscare
+File:Actual E-10i teleport.webp|'''E-10i''''s teleport particle
+File:E-10 despawn p.webp|'''E-10i''''s despawn particle 
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

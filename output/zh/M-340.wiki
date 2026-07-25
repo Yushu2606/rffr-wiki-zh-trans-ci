@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #CA720D; color: #080100;">M-340（反叛者）</span>}}
+{{NoteBox|note=请勿与'''Rooms Re-Established'''中的M-340混淆}}
+{{ArticleBackground|File=M340Background.webp}}
+{{Upcoming}}
+'''''“当黑暗在你心中扎根时，火焰正蔓延至整个世界，要不要放弃，和黑暗融为一体？” ~M-340'''''
+{{InfoBox:Entity
+|entity_name=[[File:M340logo.png|frameless|link=M-340]]
+|entity_image=entity_image=<gallery>
+Placeholder.webp|Upcoming 设计
+OldM-340.png|当前设计
+</gallery>
+|previous_entity=[[Mouth|M-300]]<br>[[M-200]]
+|next_entity=[[E-10]]<br>[[Mori]]
+|appears_at=M-340
+|type=首领
+|claustrophobia=???
+|behavior=???
+|speed=???
+|locker_snipe=???
+|gun_effect=???
+|damage=???
+|related_monsters=???
+|nicknames=反叛者
+憎恶}}
+
+==描述==
+'''M-340'''是一个衰弱的黑洞，是R:FF:R的中期游戏首领，它的核心目标是用尽一切可能的方法、形态、手段残忍地杀死玩家，哪怕这意味着它需要为此自我毁灭。
+
+==机制==
+???
+
+==应对策略与技巧==
+???
+
+==你知道吗==
+* '''M-340'''是一名无政府主义者。
+* Collese证实，该实体的最初设定是女性，但出于Collese自己也遗忘的原因，该设定被修改。
+* '''M-340'''最初只是普通实体，而非首领。
+* '''M-340'''将拥有专属配音演员。
+
+==背景设定==
+* '''M-340'''是一次失败的暗影感染的产物，它也因此获得了力量。
+* '''M-340'''是M区的主要动力来源。
+
+==画廊==
+<gallery>
+M340Containment.jpg|'''M-340'''的收容状态标识。
+OutsideM340PostUE.webp|Update Executive发布后M-340房间的外部
+InsideM340PostUE.webp|Update Executive发布后M-340房间的内部
+RoomM340Outside.jpg|Update Executive发布前M-340房间的外部
+RoomM340Inside.jpg|Update Executive发布前M-340房间的内部
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Upcoming Entities]]

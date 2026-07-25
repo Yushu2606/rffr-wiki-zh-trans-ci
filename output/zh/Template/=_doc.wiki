@@ -1,0 +1,7 @@
+;说明
+:本模板用于在[[w:Help:Parser functions|解析器函数]]中包含<code>=</code>时对其进行转义。
+;本模板不可被替换。
+;语法
+:使用<code>{{t|{{=}}}}</code>插入此模板。
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

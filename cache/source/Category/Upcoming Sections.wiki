@@ -1,0 +1,5 @@
+{{Spacer}}
+An '''Upcoming Section''' are sections that are eventually going to be released, and are in development.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

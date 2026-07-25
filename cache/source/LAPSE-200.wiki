@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: red;">LAPSE-200 (???)</span>}}{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-200
+|entity_image=LAPSE-200.gif
+|previous_entity=[[SHA-200]]<br>[[LAPSE-60]]
+|next_entity=[[SHA-300]]
+|nicknames=???
+|gun_effect=No Lapse can be shot
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=Aimscripter 
+|claustrophobia=???
+|behavior=Sha-200 but harder
+|speed=Fast
+|locker_snipe=No
+|damage=Instant Death
+|related_monsters=[[A-200]]<br>[[SHA-200]]
+|sound1=<center>Breach Soundtrack</center><center>[[File:TemporalTenacity.mp3]]</center>}}
+
+== Description ==
+'''LAPSE-200''' is one of the many Lapse Entities you may encounter, it being the Lapse variant of [[SHA-200]], also being the rarest entity in the entire game, having a 1 in 600000 chance to spawn
+
+== Behavior ==
+* Will spawn with a loud wind sound, Aimscripting to the player at fast speeds after the words "<span style="text-shadow: 0 O 5px #6A0908; color: #6A0908;">Something wicked this way comes.</span>" appears. if the player is in a locker when '''LAPSE-200''' reaches them, they will start a minigame similar to its shadow counterpart [[SHA-200]], but WAY harder. unlike [[SHA-200]]'s minigame, '''LAPSE-200''''s minigame will go through many Phases, similar to the now removed Harbinger minigame from pressure.
+
+* These are the known phases of '''LAPSE-200''':
+** Phase 1: same as [[Player Controlled#Striketeam_Solstice|Striketeam Solstice's]] minigame, occasionally hitting twice at once.
+** Phase 2: same as [[SHA-200]]'s minigame (FOV darkens and focuses on your cursor).
+** Phase 3: the circle shrinks instead of just moving.
+** Phase 4: a red circle is added. The red circle drains your energy faster.
+** Phase 5: another red circle is added.
+** Phase 6: the last red circle is added. (total = 3)
+** Phase 7: randmonly blinds you but also reduces your drain time to 1/3 of it.
+** Phase 8: Your healthbar goes completely invisible.
+
+== Strategies & Tips ==
+* Pray. This is all you can do.
+
+== Music/Soundtracks ==
+* Temporal Tenacity - Breach Soundtrack: https://youtu.be/8a2sfszREZc?si=zUo15awAcQAUabIV
+
+== Footage ==
+https://youtu.be/HpZdCh9qvtw?si=kz9exN3phsh4Sl-f

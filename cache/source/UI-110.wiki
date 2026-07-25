@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-110Placeholder.gif|frameless|link=UI-110]]
+|entity_image=UI110.webp
+|previous_entity=[[UI-83]]
+|next_entity=[[UI-157]]
+|appears_at=I-110+
+|type=Rusher
+|damage=Instant Death.
+|related_monsters=[[UI-157]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:Ui110.mp3]]</center>}}
+
+== Description ==
+'''UI-110''' is the 6th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-110''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+'''UI-110''' makes its appearance know by making extremely loud sounds, then it rushes EXTREMELY quickly to the door, at which point it despawns
+ 
+== Strategy & Tips ==
+Hide as soon as you hear him, since its extremely fast
+
+== Trivia ==
+* Like most UI entities, '''UI-110''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

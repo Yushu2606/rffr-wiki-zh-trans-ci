@@ -1,0 +1,173 @@
+{{ArticleBackground|File=GatoBackground.png}}
+{{Modifier|GradiantDetails=to bottom, #00FFFF, #00FFFF|TextColor=#DDFFFF|Name='''April Fools 2026'''|Details=Play R:FFR like it was during its April Fools event! This build of the game will not be updated and progress will not save.}}
+{{EventInfobox
+|image=AF26.webp
+|next_event='''TBA'''
+|previous_event=[[Perfection Event 3/13/26]]
+|timeline=4/1/2026 - 4/7/2026
+|rewards=???
+|image1=AF26.webp}}
+
+==Overview==
+'''April Fools 2026''', as the name suggests, is a joke event(now mode), and there's a few changes to some entities sounds and its designs, not just that but every 10 doors a random event happens, like "'''Let's go gambling'''" event, that makes that 3 [[M-60|M-60's]] spawn, also [[A-20ii]] is re-added, also being forcefully spawned at A-020.
+
+==New/Readded Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20ii.png|center|150px|link=A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.jpg|center|150px|link=Fake Strange Keycard]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard]]
+{{!}}}
+
+ 
+==Base Entities==
+<tabber>
+|-|Section A Entities=
+'''Section A Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135.png|center|150px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}}
+
+|-|Section D Entities=
+'''Section D Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5AF26.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Eyes.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfD55.png|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign D-60i Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewD200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}}}
+
+|-|Section M Entities=
+'''Section M Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.png|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.png|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120 Design.gif|center|150px|link=M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
+{{!}}}
+
+|-|Misc Entities=
+'''Misc Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+</tabber>
+
+
+
+==Door Events==
+===I LIKE TRAINS===
+* Force Spawns a couple of [[A-20i]]s
+
+===ARE YOU KIDDING ME...?===
+* Force Spawns a couple of [[M-7]]s
+
+===LET'S GO GAMBLING!===
+* Force Spawns a couple of [[M-60]]s
+
+===HERE COMES THE SUN===
+* Force Spawns a couple of [[E-10]]s
+
+==={Random Number} MAX HEALTH===
+* Increases or Decreases the player's max Health
+
+==={Random Number}X SPEED===
+* Increases or Decreases the Player's Max Speed
+
+===BONK===
+* Does around 10-20 damage
+
+===I THINK THE HINGES RUSTED===
+* Breaks every hiding spot in the main room
+
+
+==Trivia==
+* The game was renamed to "[PEAKING] room lost recording demoted" for the event
+* like the Perfection Events, every shadow entity from the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] have a chance of invading your run.
+* your sprint speed is increased by a LOT, tho it only lasts around 4 seconds.
+* Crystal can be thrown, exploding a few seconds after landing.
+** [https://youtu.be/Dg6kIvfQAog?si=_dVewH5vwtF8OJuQ Update Executive Teaser 8.8]
+
+==Gallery==
+<gallery>
+AF26.webp|Game Thumbnail
+</gallery>

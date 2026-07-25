@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">Execution</span>}}
+{{Section?Stub}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Execution
+|type=Locker Checker
+|behavior=Spawn inside a monitor,  then breaks out and checks gray lockers
+|speed=Slow
+|appears_at=Anywhere in the [[Unnamed Sector]]
+|damage=Instant Death
+|gun_effect=None
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|related_monsters=[[A-135]]<br>[[M-150]]<br>[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-80 U-80 IRUS]
+|caption-entity_image=
+|entity_image=Execution.png
+|previous_entity=[[Tackle]]<br>[[Lunge]]
+|next_entity=[[False-60]]
+|claustrophobia=yes
+|sound1=<center>Spawn</center><center>[[File:EXspawn.mp3]]</center>
+|sound2=<center>Jumpscare Sound</center><center>[[File:EXJump.mp3]]</center>}}
+
+== Description ==
+This entity is the entity that appeared in Teaser 3 for the [[Unnamed Sector]].
+
+== Behavior ==
+Once a door is opened, It will place itself inside one of the Monitors in the room and play a distorted version of bass.wav, moments later breaking out and checking every gray locker in the main room, after it is done checking it will go back into the monitor and despawn.
+
+
+==Gallery==
+<gallery>
+File:EXjump.gif|Jumpscare
+File:EXOFF.jpg|Monitor without Execution in it
+File:EXON.jpg|Ditto, but with Execution in it
+File:Execution Checking Locker.png|Execution Checking a locker
+</gallery>
+
+== Trivia ==
+* [https://youtu.be/GJ12qRgxM2Y?si=K_3Lx5yx9FiWe0Yz Update Executive Teaser 3]

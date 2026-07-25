@@ -1,0 +1,126 @@
+{{ArticleBackground|File=EBackground.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow; color: white;">E区（Executive）</span>}}
+{{SectionEStub}}
+{{SectionInfoBox
+|image=ExecutiveUpd.png
+|previous_section=[[Section M|M区]]<br>
+[[Unnamed Sector|无名区域]]
+|next_section=[[Section R|R区]]
+|entity_amount=11
+|i_entity_amount=2
+|sound1=<center>分区已开启</center><center>[[File:ESectionOpen.mp3]]</center>
+|sound2=<center>开场主题曲</center><center>[[File:Executive_In_Game.mp3]]</center>
+|sound3=<center>E-750 - E-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound4=<center>E-1000</center><center>[[File:Verge Of Breakdown.mp3]]</center>
+|sound5=<center>无尽模式</center><center>[[File:Endless.mp3]]</center>}}
+
+==概述==
+'''E区'''是玩家在游戏中会遇到的第5个区，需要使用特殊门禁卡才能进入。该分区面向经验丰富的玩家设计，难度比此前的所有分区更高，本分区总共有9种主要威胁（如果计入带i的变体则为11种）。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E10i.png|center|150px|link=E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE30.webp|center|150px|link=E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E30i.png|center|150px|link=E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E45.png|center|150px|link=E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE601.webp|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E90.png|center|150px|link=E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-120 Design.png|center|150px|link=E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E165.png|center|150px|link=E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200 Design.gif|center|150px|link=E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E245Idle.png|center|150px|link=E-245]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-245]]
+{{!}}}
+
+==非专属实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:ESectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+
+==Removed/已废弃==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''???'''
+{{!}}}
+
+==应对策略==
+*待公布
+
+==冷知识==
+* [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive 第一支预告]
+* '''E区'''是首个不存在能禁用[[Claustrophobia|幽闭恐惧]]的实体的分区
+* [[Section Executive Invasion Event|Executive Invasion（高管入侵）]]
+* E区是唯一一个没有专属环境音效的分区（内容可能随版本变动）
+
+== 剧情设定 ==
+* 在[[Section A|A区]]与[[Section D|D区]]被废弃后，[[Section E|E区]]被用于安置S.P.A.W.N，以此为该分区供能。
+
+==房间==
+<gallery>
+File:Elobby.jpg|大厅
+File:ERoom1.jpg
+File:ERoom2.jpg
+File:ERoom3.jpg
+File:ERoom4.jpg
+File:ERoom5.jpg
+File:ERoom6.jpg
+File:ERoom7.jpg
+File:ERoom8.jpg|经常引发内存泄漏的房间
+File:ERoom9.jpg
+File:ERoom10.jpg
+File:ERoom11.jpg
+File:EGardenStart.jpg|花园房间的起点/终点
+File:Egarden.jpg|花园房间
+File:ELockpickRoom.jpg|Lockpick（撬锁工具）房间
+File:ERoom12.jpg
+File:ERoom13.jpg|经常引发内存泄漏的房间
+File:ERoom250.jpg|250号房间
+File:ERoom400.jpg|400号房间
+File:EElevator.jpg|向下通往[[Section R|R区]]入口的电梯井
+File:ERoomR1.jpg|设有[[Section R|R区]]入口的房间
+File:ERoomR2.jpg|同上，为房间内部视角
+File:ECheckpoint.jpg|检查点房间
+</gallery>
+
+==其他==
+<gallery>
+File:Executive (Badge).png|旧版「Executive」徽章图标
+File:Power Failure (Badge).png|旧版「Power Failure」徽章图标
+File:Executive Dysfunction (Badge).png|旧版「Executive Dysfunction」徽章图标
+File:E-1000 (Badge).png|旧版「E-1000」徽章图标
+</gallery>
+
+==徽章==
+{{BadgeSectionE|Image=NewExecutiveBadge.png|Name=Executive（高管）|Description=但愿这番折腾是值得的……|Obtainment=切换分区进入E区。}}
+{{BadgeSectionE|Image=NewPowerFailureBadge.png|Name=Power Failure（断电）|Description=这一切还要持续多久？|Obtainment=打开E-500号门。}}
+{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=Executive Dysfunction（执行功能障碍）|Description=此处插入关于精神错乱的俏皮文案|Obtainment=打开E-900号门。}}
+{{BadgeSectionE|Image=NewE1000Badge.png|Name=E-1000|Description=E-1000结局目前尚未实装。但即便如此，你仍毫无意义地不断前行。你已经记不起自己为何来到这里，但看来你马上就要找到答案了。|Obtainment=打开E-1000号门。}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

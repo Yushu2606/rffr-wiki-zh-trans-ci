@@ -1,0 +1,95 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}{{Headphones}}
+{{InfoBox:Entity
+|previous_entity=[[A-60i]]<br>[[A-85]]
+|next_entity=[[A-120]]
+|entity_name=[[File:A-85iPlaceholder.webp|frameless|link=A-85i]]
+|entity_image= <gallery>
+NewBanshee.gif|Animation Recreation 
+85i.png|Current Design
+BansheeAccurate.gif| Old Animation Recreation
+A-85icolor.png|Old Design
+</gallery>
+|caption-entity_image=meow
+|appears_at=Anywhere Past A-100. (1 in 100 to replace A-85 spawn)
+|nicknames=The Banshee
+|claustrophobia=No
+|gun_effect=None
+|locker_snipe=No
+|type=Rusher<br>Rebounder
+|behavior=Miniboss (Complex rebounder)
+|damage=Instant Death<br>(30 stud kill radius)
+|speed=130 stud/s (enraged 220 stud/s) [2.6 rooms/s (enraged 4.4 rooms/s)]
+|related_monsters=[[A-85]]<br>[[SHA-85]]
+|sound2=<center>Beginning</center><center>[[File:A-85iambiencebegin.mp3]]</center>
+|sound1=<center>Spawn</center><center>[[File:A-85iveryaccuratespawn.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:A-85imoreaccurate.mp3]]</center>
+|sound4=<center>Spawn Indicator</center><center>[[File:BossSpawn.mp3]]</center>
+|sound5=<center>Despawn</center><center>[[File:A-85idespawn.mp3]]</center>
+|sound6=<center>Boss Despawn</center><center>[[File:BossDespawn.mp3]]</center>
+|sound7=<center>Jumpscare '''Loud Warning''' </center><center>[[File:A-85ijumpscare.mp3]]</center>
+|sound8=<center>Successful Rebound</center><center>[[File:SuccessfulRebound.mp3]]</center>
+|sound9=<center>Enrage</center><center>[[File:A-85iEnrage.mp3]]</center>
+|sound10=<center>Enraged Ambience Start '''Recreation'''</center><center>[[File:A-85ienragedstart.mp3]]</center>
+|sound11=<center>Enraged Ambience</center><center>[[File:A-85ienragedambience.mp3]]</center>|sound_info_header=
+|sound12=<center>Atmospheric Ambience</center><center>[[File:A-85iOST.mp3]]</center>}}
+
+==Description==
+*'''A-85i''' is a purple, three-eyed face, which contains a wide smile with a set of large, purple teeth, and eyes with no visible pupils. It can easily be identified by its loud whispers.
+==Behavior==
+*When '''A-85i''' spawns, it will make loud whispers that decrease in pitch. After it's done whispering, it will move backwards.
+*After '''A-85i''' moves backwards, a door counter will begin, starting at 5. (Each '''successful rebound''' increases this by 1)
+*Each door opened will decrease the door counter by one.
+*'''A-85i''' will wait a random time between 45 and 100 seconds, '''ENRAGED''' or not.
+*After '''A-85i's''' wait time is over, he will rush forward to the current room.
+*If you got the door counter to 0, he will make 2 loud "Beep" sounds and then leave shortly after. This is known as a ''Successful rebound''.
+*If the door counter is above 0, he will not make the beep sound, but rather make you want to leave your hiding spot. The door counter will reset. This is known as an '''Unsuccessful rebound'''.
+*After 3 '''successful rebounds''', '''A-85i''' will become '''ENRAGED''', making a loud scream when it charges up.
+*When '''A-85i''' is '''ENRAGED''', his sound will play at a faster speed, and he will be faster. Giving barely any time to react.
+*'''A-85i''' OST (og rooms ambience) will now start playing, as soon he screams.
+*After 6 to 8 '''Successful rebounds''', '''A-85i''' will produce a loud wind sound and disappear once it rushes to the front.
+
+==Strategy & Tips==
+* When '''A-85i''' spawns, wait 2-3 seconds or after the Spawn sound ends, and then hide inside of a locker.
+
+* '''A-85i''' cant locker snipe, use this to your advantage!
+
+* [https://youtu.be/ZHSpOVpi7ho&t Video Representation]
+
+==Trivia==
+*'''A-85i''' is a '''Mini-boss''' entity.
+*'''A-85i''' is the prime variant of [[A-85]], with a 1/100 chance of replacing him.
+*'''A-85i''' is forced to spawn at door A-901 (if there is no lockers in A-901 he will wait for a room with lockers to spawn) if the player started from door A-000.
+
+== Failed Rebound Messages ==
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disapproving voice whispers in your ear.'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your impotence seems to relieve your new "friend".'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disembodied voice clouds your thoughts,  telling you to proceed.'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A calling commands you to proceed. '''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''The whispers of your new "playmate" call out to you.'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your thoughts are filled with only one word: "CONTINUE".'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''a calmed whisper glees at your failure. '''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear a whisper calling you out of hiding.'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your new "friend" seems happy watching your failure.'''</span>
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear whispers getting louder as you proceed, getting angrier at you for your success.'''</span>
+
+==Gallery==
+<gallery>
+File:Banshee scare.gif|A-85i's Jumpscare
+File:A-85iSEM.png|A-85i seen in [[Super Epic Mode]]. ''(Recreation)''
+File:SemA85ijump.gif|Jumpscare in [[Super Epic Mode]]
+File:Eletric.webp|A-85's particle
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Boss]]
+[[Category:Miniboss]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]

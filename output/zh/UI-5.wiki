@@ -1,0 +1,41 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|next_entity=[[UI-20]]
+|entity_name=[[File:UI-5PlaceHolder.png|frameless|link=U-5]]
+|entity_image=UI5.png
+|appears_at=I-005+
+|nicknames=未知
+|type=冲刺者
+|behavior=冲刺者
+|damage=秒杀
+|speed=35 Studs每秒
+|related_monsters=[[U-5]]（同一实体）<br>[[CARDBOARD-5]]（同一实体）<br>[[A-20]]
+|sound1=<center>激活 '''已审核'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>靠近音效</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==描述==
+'''UI-5'''是你在[[Section Interchange|交汇区]]中可能遇到的第一个实体，更多信息如下。
+
+==行为==
+当'''UI-5'''生成时，它会出现在玩家身后，并播放一首名为《Horror Race》的全局可闻乐曲来宣告它的到来。它会以非常缓慢的速度向当前房间移动。UI-5整体是速度极慢的实体，算不上很大的威胁。当'''UI-5'''抵达当前房间的门时，它就会消失。玩家靠近'''UI-5'''时还能听到它发出的笑声。
+==应对策略与技巧==
+* '''UI-5'''的威胁性不高，因为它不会检查任何躲藏点，而且速度极慢，因此非常容易应对。
+** 听到它的声音后随便躲进任何可用的躲藏点即可。
+
+* '''UI-5'''速度很慢，但你推进得越远，它的威胁性就会越高，因为你只能在很近的距离听到它的笑声，如果你注意力不集中且附近没有躲藏点，就可能被它击杀。
+* '''UI-5'''速度很慢，但你推进得越远，它的威胁性就会越高，因为你只能在很近的距离听到它的笑声，如果你注意力不集中且附近没有躲藏点，就可能被它击杀。
+** 你其实可以贴紧附近的墙壁来轻松避开'''UI-5'''，但只有在走投无路时再用这个方法，毕竟每个房间里基本到处都有各种柜子。
+
+==你知道吗==
+* '''UI-5'''来自游戏《INTERMINABLE ROOMS》2023年的愚人节活动。
+* '''UI-5'''的外观来自SCP-087-B，也就是“闹鬼楼梯”。
+* 它也在许多其他恐怖游戏中登场，比如Rooms: Found Footage:RENOVATED。
+* 和大多数使用定向图片展示外观的实体不同，'''UI-5'''使用一个所有面都贴了贴纸的隐形方块，这让它的外观看起来直白又蠢萌。
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

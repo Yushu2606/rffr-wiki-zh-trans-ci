@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">A-135（暗影人）</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}{{InfoBox:Entity
+|previous_entity=[[A-120]]
+|next_entity=[[A-135i]]<br>[[A-200]]
+|entity_name=[[File:A-135Placeholder.webp|frameless|link=A-135]]
+|entity_image= <gallery>
+ShadowMan.png|当前待机设计
+ShadowManScare.png|当前跳杀设计
+UpdatedA-135.png|旧设计
+A135.png|更早的旧设计
+</gallery> 
+|caption-entity_image=
+|appears_at=A-135之后的任意区域
+|nicknames=The Shadow Man.（暗影人。）
+|type=后退者<br>柜子检查者
+|behavior=柜子检查者
+|claustrophobia=是
+|gun_effect=无
+|locker_snipe=否
+|damage=秒杀<br>（击杀半径为22 Stud）
+|speed=15 Studs/秒（红区中为50 Studs/秒）|related_monsters=[[A-135i]]（强化变种）
+|sound1=<center>敲击声</center><center>[[File:Slowidiotdrummer.mp3]]</center>
+|sound2=<center>接近音效</center><center>[[File:Threat.mp3]]</center>
+|sound3=<center>A-135在柜子中发现玩家时可能播放的稀有音效。</center><center>[[File:Check_kill.mp3]]</center>
+}}
+
+==描述==
+'''A-135'''的外观呈现为一张从黑暗中浮现的诡异可怖的脸，只有牙齿和部分圆形嘴部轮廓可见。
+
+==行为==
+A-135会在当前房间的门后方生成，同时发出敲击声。3-5秒后，A-135会破门而入，随后检查当前5-6个房间内的所有灰色柜子。检查完成后A-135会原路返回，抵达虚空墙后消失。任何被A-135发现或靠近它的玩家都会被其跳杀。
+             
+==你知道吗==
+*'''A-135'''被设计为会模仿[[A-120]]的敲击声，这意味着玩家会将其误认为[[A-120]]从而躲进白色柜子导致死亡。
+*'''A-135'''的旧名称为A-175。
+*'''A-135'''的设计最初是[[D-250]]的概念设计。
+*桌子仅对[[Section A|A区]]内的A-135（及其[[A-135i|i型变种]]）生效，对[[A-20i]]与[[A-60i]]也''部分''生效。
+*躲进冰箱与绿色柜子是安全的，因为'''A-135'''不会检查这些柜子。
+*在Chaos Mode中，'''A-135'''可能与D-140、M-150或M-200一同生成。如果它与以下实体一同出现：
+**D-140：躲在桌子下（[[Section A|A区]]），在D-140检查完柜子后快速更换藏身的柜子（反之亦然），或者前往靠近虚空的最后一个房间躲藏。（这两个实体都不会检查最后一个房间的柜子）
+**M-150：如果是蓝色的，躲在桌子下（[[Section A|A区]]），在它检查完柜子后快速更换藏身的柜子，或者退回3个房间，因为M-150只会检查前两个房间。
+**M-200：躲在桌子下（[[Section A|A区]]）或者祈祷奇迹发生。
+***由于它会摧毁蓝色柜子，玩家仅能使用普通柜子，因此如果你不在[[Section A|A区]]的话就祝你好运吧。
+*在Chaos Mode的[[Section D|D区]]中，A-135会将白色储物柜视为蓝色柜子，将补给柜视为普通柜子。
+
+==画廊==
+<gallery>
+File:A-135Jumpscare.gif|旧版A-135的跳杀
+File:TrueLegacyA-135.webp|真正的遗留设计
+File:A-135ViewedFromTable.png|从桌子下方观察到的旧版A-135
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]

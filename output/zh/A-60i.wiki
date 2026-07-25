@@ -1,0 +1,76 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">A-60i (Multi-Faced Monster Prime)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
+{{DesignNotAllowed|design=旧版跳杀脸}}
+{{InfoBox:Entity
+|entity_name=[[File:NewA60iTitle.webp|frameless|link=A-60i]]
+|entity_image=<gallery>
+A-60iCurrentAnimation.gif|动画重制
+60i1.png|第1张脸
+60i2.png|第2张脸
+60i3.png|第3张脸
+60i4.png|第4张脸
+60i5.png|第5张脸
+A60i3.webp|第6张脸
+60i6.png|第7张脸
+60i .png|第8张脸
+</gallery>
+|previous_entity=[[A-60]]
+|next_entity=[[A-85]]
+|nicknames=MultiMonster Prime（多面怪物 素数）
+|type=冲刺者
+|gun_effect=无
+|claustrophobia=否
+|behavior=它有小概率在A-60消失后生成。
+|speed=快
+|locker_snipe=是
+|related_monsters=[[A-60]]<br>[https://roblox-rooms-doors.fandom.com/wiki/MultiMonster_Prime A-60′ R&D]
+|sound1=<center>环境音效</center><center>[[File:A-60isound.mp3]]</center>
+|caption-entity_image=我和R&D里的A-60'没有关系，别提这个..
+|ent_info_header=
+|appears_at=A-100之后的任意时间（仅由[[A-60]]触发）
+|sound2=<center>跳杀</center><center>[[File:A-60iJumpscare.mp3]]</center>
+|damage=秒杀（1 每秒伤害 命中）（5 MAL. 伤害）}}
+
+==描述==
+A-60i是你会遇到的第1个素数变种（A-20i为强化变种），它仅会在A-60消失后出现。
+
+==行为==
+A-60i无法自行生成，而是有概率在A-60消失后生成。如果A-60i成功出现，你会看到和听到更强烈的静电效果。A-60i会几乎不发出任何声音，安静地冲向当前房间，直到它非常靠近主房间。一旦A-60i抵达，它会以和A-60类似的方式消失，但速度更快。A-60i的伤害机制在各方面都与A-60完全一致。如果玩家在A-60i完全消失前离开房间，A-60i会对其造成快速持续伤害。
+
+==策略与提示==
+* 如果你发现[[A-60]]完全消失后屏幕上仍然有静电效果，请立刻回去躲藏，这意味着'''A-60i'''即将到来。
+* 如果'''A-60i'''发动攻击后静电效果仍未消失，请再次躲藏，因为下一只'''A-60i'''即将到来。 
+* 出于某些原因，'''桌子'''可以防御'''A-60i'''，你只需冲刺到其下方即可避免被'''A-60i'''命中。
+* 在红区中，A-60或者另一只'''A-60i'''消失后几乎必定会出现'''A-60i'''。
+* '''A-60i'''可以在另一只'''A-60i'''消失后出现。
+** 如果你的屏幕上持续有高强度静电效果，请立刻躲藏，因为又有一只'''A-60i'''出现了。
+* 如果[[A-60]]被枪击，'''A-60i'''将无法生成。
+* 和[[A-60]]一样，你可以通过翻滚闪避来躲避'''A-60i'''的攻击存活，但仍会被命中。
+
+==画廊==
+<gallery>
+Newa60ijump.gif|A-60i 当前的跳杀画面
+A-60IAnimNew.gif|旧版动画重制
+Old60i1.png|旧版第1张脸
+Old60i5.png|旧版第5张脸
+File:A-60i scary.gif|旧版/更旧版本的A-60i跳杀画面
+A-60iwow.gif|更旧版本动画重制
+OldestA60i1.png|更旧版第1张脸
+OldestA60i2.png|更旧版第2张脸
+OldestA60i3.png|更旧版第3张脸
+OldestA60i4.png|更旧版第4张脸
+OldestA60i5.png|更旧版第5张脸
+OldestA60i6.png|更旧版第6张脸
+Og60i.gif|真正的遗留/遗留/超级史诗模式动画
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]
+[[Category:I Variation]]
+[[Category:Ambusher]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

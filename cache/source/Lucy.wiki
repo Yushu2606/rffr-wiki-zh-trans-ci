@@ -1,0 +1,42 @@
+{{DISPLAYTITLE:<font color= "BB0FFF" /font>
+<span style="text-shadow: black -3px 3px 15px;">
+Lucy}}
+{{Delete|reason=moved to [[Player Controlled]]}}
+{{InfoBox:Entity
+|entity_name=Lucy
+|caption-entity_image=Hello.. I hope we can be friends?
+|nicknames=̶D̶e̶v̶i̶n̶<br>The Darkheart
+|appears_at=Only by Admins|type=Player Controlled<br>Anti-Raider
+|speed=Players speed
+|entity_image=LucyMain.png}}
+
+<font color="000000"/font>
+== 𝒜𝓅𝓅𝑒𝒶𝓇𝒶𝓃𝒸𝑒 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝒾𝓈 𝒶 𝓅𝒾𝓉𝒸𝒽-𝒷𝓁𝒶𝒸𝓀 𝒽𝓊𝓂𝒶𝓃𝑜𝒾𝒹 𝒷𝑒𝒾𝓃𝑔 𝓉𝒽𝒶𝓉 𝒽𝒶𝓈 𝓁𝑜𝓃𝑔 𝒷𝓁𝒶𝒸𝓀 𝒽𝒶𝒾𝓇 𝓌𝒾𝓉𝒽 𝒶 𝓈𝓅𝒾𝓀𝑒-𝒷𝒶𝓈𝑒𝒹 𝒽𝒶𝓁𝑜 𝒸𝑜𝓃𝓈𝒾𝓈𝓉𝒾𝓃𝑔 𝑜𝒻 𝒷𝓁𝒶𝒸𝓀 𝓈𝒽𝒶𝓇𝒹𝓈. 𝒮𝒽𝑒 𝓌𝑒𝒶𝓇𝓈 𝒶 𝒷𝓁𝒶𝒸𝓀 𝓈𝓊𝒾𝓉 𝓌𝒾𝓉𝒽 𝓅𝓊𝓇𝓅𝓁𝑒 𝒸𝑜𝓂𝓅𝓁𝒾𝓂𝑒𝓃𝓉𝓈 𝒽𝒶𝓈 𝒶 𝒷𝓁𝒶𝒸𝓀 𝓈𝓌𝑜𝓇𝒹 𝑜𝓃 𝒽𝑒𝓇 𝒽𝒾𝓅, 𝒶𝓃𝒹 𝒽𝒶𝓈 𝑔𝓁𝑜𝓌𝒾𝓃𝑔 𝓌𝒽𝒾𝓉𝑒 𝑒𝓎𝑒𝓈.
+<font color="000000"/font>
+== 𝐵𝑒𝒽𝒶𝓋𝒾𝑜𝓇 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝓌𝒾𝓁𝓁 𝓊𝓈𝓊𝒶𝓁𝓁𝓎 𝑜𝓃𝓁𝓎 𝓈𝒽𝑜𝓌 𝓊𝓅 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃 𝒾𝒻 𝓎𝑜𝓊 𝒶𝓇𝑒 𝒶𝓉 𝓇𝒾𝓈𝓀 𝑜𝒻 𝒷𝑒𝒾𝓃𝑔 𝓇𝒶𝒾𝒹𝑒𝒹 𝒷𝓎 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒, 𝑜𝓇 𝒶𝒸𝓉𝒾𝓋𝑒𝓁𝓎 𝒷𝑒𝒾𝓃𝑔 𝓇𝒶𝒾𝒹𝑒𝒹 𝒷𝓎 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒. 𝒮𝒽𝑒'𝓈 𝑔𝑒𝓃𝑒𝓇𝒶𝓁𝓁𝓎 𝒶 𝓅𝑒𝒶𝒸𝑒𝒻𝓊𝓁 𝒷𝑒𝒾𝓃𝑔, 𝓈𝑒𝓇𝓋𝒾𝓃𝑔 𝒶𝓈 𝒶 𝓂𝒶𝓀𝑒𝓈𝒽𝒾𝒻𝓉 𝒷𝑜𝒹𝓎𝑔𝓊𝒶𝓇𝒹/𝓅𝓇𝑜𝓉𝑒𝒸𝓉𝑜𝓇. 𝐼𝒻 𝓈𝒽𝑒 𝓈𝒽𝑜𝓌𝓈 𝓊𝓅 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃 𝓌𝒾𝓉𝒽𝑜𝓊𝓉 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒 𝒷𝑒𝒾𝓃𝑔 𝒶𝒸𝓉𝒾𝓋𝑒, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝓌𝒶𝓁𝓀 𝓌𝒾𝓉𝒽 𝓎𝑜𝓊 𝓉𝒽𝓇𝑜𝓊𝑔𝒽 𝓉𝒽𝑒 𝓇𝑜𝑜𝓂𝓈, 𝑜𝒸𝒸𝒶𝓈𝒾𝑜𝓃𝒶𝓁𝓁𝓎 𝓈𝓅𝑒𝒶𝓀𝒾𝓃𝑔 𝓉𝑜 𝓎𝑜𝓊. 𝐻𝑜𝓌𝑒𝓋𝑒𝓇, 𝒾𝒻 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒 𝒾𝓈 𝒶𝒸𝓉𝒾𝓋𝑒 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝒹𝑒𝒻𝑒𝓃𝒹 𝓎𝑜𝓊 𝒷𝓎 𝒻𝒾𝑔𝒽𝓉𝒾𝓃𝑔 𝑜𝒻𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝒹𝑒𝓇𝓈, 𝓅𝓇𝑜𝓋𝒾𝒹𝒾𝓃𝑔 𝓎𝑜𝓊 𝒶 𝒸𝒽𝒶𝓃𝒸𝑒 𝓉𝑜 𝑒𝓈𝒸𝒶𝓅𝑒 𝑜𝓇 𝓇𝓊𝓃 𝒶𝓌𝒶𝓎.
+
+<span style="text-shadow: black -3px 3px 3px;">𝒮𝑜𝓂𝑒𝓉𝒽𝒾𝓃𝑔 𝓎𝑜𝓊 𝓈𝒽𝑜𝓊𝓁𝒹 𝓃𝑜𝓉 𝒹𝑜 𝒽𝑜𝓌𝑒𝓋𝑒𝓇, 𝒾𝓈 𝓈𝒽𝑜𝓌 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝑜𝓃 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝐿𝓊𝒸𝓎. 𝐼𝒻 𝓎𝑜𝓊 𝒸𝒽𝑜𝑜𝓈𝑒 𝓉𝑜 𝒷𝑒 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝓋𝑒 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝒽𝑒𝓇 𝒷𝓎 𝓈𝒽𝑜𝑜𝓉𝒾𝓃𝑔 𝒶 𝒻𝒾𝓇𝑒𝒶𝓇𝓂 𝒶𝓉 𝒽𝑒𝓇, 𝓇𝑒𝓅𝑒𝒶𝓉𝑒𝒹𝓁𝓎 𝓈𝓁𝒶𝓂𝓂𝒾𝓃𝑔 𝓉𝒽𝑒 𝓁𝑜𝒸𝓀𝑒𝓇 𝒹𝑜𝑜𝓇 𝒾𝓃 𝒽𝑒𝓇 𝒻𝒶𝒸𝑒, 𝑜𝓇 𝓊𝓈𝒾𝓃𝑔 𝒶 𝓂𝑒𝓁𝑒𝑒 𝓌𝑒𝒶𝓅𝑜𝓃, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝒾𝓃 𝓉𝓊𝓇𝓃 𝑔𝑒𝓉 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝓋𝑒 𝒶𝓃𝒹 𝓉𝒽𝓇𝑒𝒶𝓉𝑒𝓃 𝓉𝑜 𝓀𝒾𝓁𝓁 𝓎𝑜𝓊 𝒷𝓎 𝑒𝒾𝓉𝒽𝑒𝓇 𝓈𝒽𝑜𝓌𝒾𝓃𝑔 𝒽𝑒𝓇 𝑔𝓊𝓃 𝑜𝓇 𝓈𝑒𝓋𝑒𝓇𝑒𝓁𝓎 𝒽𝒶𝓇𝓂𝒾𝓃𝑔 𝓎𝑜𝓊 𝓌𝒾𝓉𝒽 𝒾𝓉. 𝐹𝓊𝓇𝓉𝒽𝑒𝓇 𝒶𝒸𝓉𝓈 𝑜𝒻 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝑜𝓃 𝓌𝒾𝓁𝓁 𝑔𝑒𝓉 𝓎𝑜𝓊 𝓀𝒾𝓁𝓁𝑒𝒹.
+<font color="000000"/font>
+== 𝐿𝑜𝓇𝑒 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝒾𝓈 𝓉𝒽𝑒 𝒻𝑜𝓇𝓂𝑒𝓇 𝒽𝑜𝓈𝓉 𝑜𝒻 𝓉𝒽𝑒 𝒟𝒶𝓇𝓀𝒽𝑒𝒶𝓇𝓉, 𝓌𝒽𝒾𝒸𝒽 𝒾𝓈 𝓉𝒽𝑒 𝓈𝓌𝑜𝓇𝒹 𝓎𝑜𝓊 𝒸𝒶𝓃 𝓈𝑒𝑒 𝑜𝓃 𝒽𝑒𝓇 𝒽𝒾𝓅. 𝒮𝒽𝑒 𝓌𝒶𝓈 𝒸𝒶𝓅𝓉𝓊𝓇𝑒𝒹 𝒷𝓎 𝓉𝒽𝑒 𝒮.𝒫.𝒜.𝒲.𝒩 𝑜𝓇𝑔𝒶𝓃𝒾𝓏𝒶𝓉𝒾𝑜𝓃 𝒹𝓊𝑒 𝓉𝑜 𝒽𝑒𝓇 𝒶𝓃𝑜𝓂𝒶𝓁𝑜𝓊𝓈 𝓅𝓇𝑜𝓅𝑒𝓇𝓉𝒾𝑒𝓈 𝒶𝓃𝒹 𝓅𝓇𝑒𝓈𝓊𝓂𝑒𝒹 𝒶𝓉𝓉𝓊𝓃𝑒𝓂𝑒𝓃𝓉 𝓉𝑜 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈. 𝒮𝒽𝑒 𝓌𝒶𝓈 𝓉𝒽𝑒𝓃 𝑒𝓍𝓅𝑒𝓇𝒾𝓂𝑒𝓃𝓉𝑒𝒹 𝑜𝓃 𝒷𝓎 𝒮.𝒫.𝒜.𝒲.𝒩 𝓈𝑜𝓂𝑒𝓌𝒽𝑒𝓇𝑒 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓊𝓃𝑒𝓍𝓅𝓁𝑜𝓇𝑒𝒹 𝒾𝓃 𝒽𝑜𝓅𝑒𝓈 𝓉𝑜 𝒻𝒾𝓃𝒹 𝑜𝓊𝓉 𝓂𝑜𝓇𝑒 𝒶𝒷𝑜𝓊𝓉 𝒽𝑒𝓇 𝓈𝒶𝒾𝒹 𝒶𝓃𝑜𝓂𝒶𝓁𝑜𝓊𝓈 𝓅𝓇𝑜𝓅𝑒𝓇𝓉𝒾𝑒𝓈 𝒶𝓃𝒹 𝓉𝒽𝑒 𝒸𝑜𝓃𝓃𝑒𝒸𝓉𝒾𝑜𝓃 𝓈𝒽𝑒 𝒽𝒶𝓈 𝓌𝒾𝓉𝒽 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈. 𝒪𝓃𝒸𝑒 𝒮.𝒫.𝒜.𝒲.𝒩 𝒽𝒶𝒹 𝑔𝑜𝓉𝓉𝑒𝓃 𝓉𝒽𝑒 𝒾𝓃𝒻𝑜𝓇𝓂𝒶𝓉𝒾𝑜𝓃 𝓉𝒽𝑒𝓎 𝒽𝒶𝒹 𝓌𝒶𝓃𝓉𝑒𝒹 𝒻𝓇𝑜𝓂 𝒽𝑒𝓇, 𝓈𝒽𝑒 𝓌𝒶𝓈 𝒷𝓇𝑜𝓊𝑔𝒽𝓉 𝓉𝑜 𝓉𝒽𝑒 𝑀𝒶𝒾𝓃𝓉𝑒𝓃𝒶𝓃𝒸𝑒 𝓉𝓊𝓃𝓃𝑒𝓁𝓈 𝒶𝓃𝒹 𝓁𝑜𝒸𝓀𝑒𝒹 𝒶𝓌𝒶𝓎 𝓈𝑜𝓂𝑒𝓌𝒽𝑒𝓇𝑒 𝒾𝓃 𝓉𝒽𝑒𝓇𝑒. 𝐻𝑜𝓌𝑒𝓋𝑒𝓇, 𝒹𝓊𝑒 𝓉𝑜 𝒶 𝓂𝓎𝓈𝓉𝑒𝓇𝒾𝑜𝓊𝓈 𝑜𝓊𝓉𝒷𝓇𝑒𝒶𝓀 𝓌𝒾𝓉𝒽 𝒶𝓃 𝓊𝓃𝓀𝓃𝑜𝓌𝓃 𝒸𝒶𝓊𝓈𝑒, 𝑜𝓃𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈 𝒽𝒶𝒹 𝒷𝓇𝑜𝓀𝑒𝓃 𝓉𝒽𝑒 𝑒𝓃𝓉𝓇𝒶𝓃𝒸𝑒 𝓉𝑜 𝐿𝓊𝒸𝓎'𝓈 𝒸𝑒𝓁𝓁, 𝓈𝑒𝓉𝓉𝒾𝓃𝑔 𝒽𝑒𝓇 𝒻𝓇𝑒𝑒.</span>
+<font color="000000"/font>
+== 𝒯𝓇𝒾𝓋𝒾𝒶 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝒾𝓈 𝓉𝒽𝑒 𝑜𝓃𝓁𝓎 𝓀𝓃𝑜𝓌𝓃 𝓃𝑜𝓃-𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝓋𝑒 𝒷𝑒𝒾𝓃𝑔 𝓉𝒽𝒶𝓉 𝒸𝒶𝓃 𝓈𝒽𝑜𝓌 𝓊𝓅 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃.
+
+<span style="text-shadow: black -3px 3px 3px;"><big>𝒮𝒽𝑒 𝓂𝒶𝓎 𝒷𝑒 𝓀𝒾𝓃𝒹, 𝒷𝓊𝓉 𝑒𝓋𝑒𝓃 𝓈𝒽𝑒 𝒽𝒶𝓈 𝒽𝑒𝓇 𝓁𝒾𝓂𝒾𝓉𝓈...</big>
+<font color="000000"/font>
+== 𝒢𝒶𝓁𝓁𝑒𝓇𝓎 ==
+<gallery widths="180">
+File:Lucy Eyes.png|Lucy in the dark, where only her eyes are visible.
+File:Lucy LockerBreachOpening.png| "I thought I could trust you.. Good luck."
+File:Lucy Minigun.png|Lucy holding the Void Minigun, or the VM-244
+File:Lucy HOD.png|Lucy holding the Heart of Darkness
+File:Lucy Perf.png|Lucy holding the perfectionist
+File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."
+</gallery>{{EntityNavBox}}

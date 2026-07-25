@@ -1,0 +1,229 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 7px white; color: gray;">D-200</span>}}
+{{NoteBox|note=Not to be confused with D-200 from '''Rooms Re-Established'''}}
+{{ArticleBackground|File=D200Background.jpg}}
+{{InfoBox:Entity
+|entity_image=D200Background.jpg
+|entity_name=D-200's Boss Fight
+|sound1=<center>Build Up</center><center>[[File: Forget Us Not.mp3]]</center>
+|sound2=<center>Boss Fight Soundtrack</center><center>[[File:SystemLockdown.mp3]]</center>}}
+
+
+<h2> Description </h2>
+* '''D-200''''s Boss Fight is the first True "Boss Fight" within the game. It will start when room D-200 is opened. An alarm will go off as the room gets locked down, '''D-200''' spawning a few seconds after the alarm stops.
+* Several levers that are scattered around the room will power on once '''D-200''' despawns. You have to successfully pull every lever to be able to escape.
+** To successfully pull a lever, you will have to match the moving black box to the color displayed above, when you do, interact with the lever. You may have to do this 2-3 or 5 times with a ~0.0043% chance if Phase 2/3 is active. 
+* You have to pull 8 levers on the top floor, 12 on the middle floors, and 7 on the bottom floor. 
+** Phase 1 will begin once the first lever is pulled, with both '''Spike''' and '''Alarm''' now being able to spawn.
+** Phase 2 will begin once 10 levers are pulled, with '''Checker''' now being able to spawn.
+** Phase 3 will begin once 18 levers are pulled, with '''Chaser''' now being able to spawn.
+* Every entity will stop spawning and the exit door will open once all 27 levers are pulled.
+
+
+<h2> Strategy & Tips </h2>
+TBA
+
+
+<h2> Entities </h2>
+<tabber>
+|-|D-200=
+'''D-200:'''
+{{InfoBox:Entity
+|entity_name=[[File:Ifuckasure.gif|frameless|link=D-200]]
+|entity_image=<gallery>
+NewD200.png|Idle Design
+D200Jump.png|Jumpscare Design
+NewerD-200.png|Old Design
+D200.png|Older Design
+</gallery>
+|previous_entity=[[D-175]]
+|next_entity=[[D-250]]
+|nicknames=Dementor<br>"Dementia"
+|behavior=Spawns from the front, starts rushing backwards. Targeting any players not hiding.
+|speed=Fast
+|gun_effect=None
+|locker_snipe=Yes
+|claustrophobia=Yes
+|type=Fallbacker<br>Aimscripter
+|damage=Instant Death
+|sound1=<center>Spawn</center><center>[[File:D200SpawnEffects.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:D200near.mp3]]</center>
+|sound3=<center>Despawn</center><center>[[File:D200DespawnEffects.mp3]]</center>}}
+
+<h2> Description </h2>
+'''D-200''' is one of the many Entities present within the D-200 boss-fight, behaving like a more extreme version of [[A-200]], it will spawn at the start of the boss fight, and if '''Alarm''' is angered. More info shown below.
+
+<h2> Behavior </h2>
+Upon spawn, D-200 will turn all the room's light to white, making an organ noise while turning the lights white, after that D-200 will backtrack through the rooms. If a player exits their hiding spot before D-200 despawns, D-200 will come back to them in attempt to kill them. Players know when D-200 despawns when they hear a slower version of the spawn sound. Any player caught by D-200 will be instantly killed.
+
+<h2> Strategy & Tips </h2>
+{{#tag:tabber
+|Boss Fight=
+'''Boss Fight:'''
+* '''D-200''' may only regularly spawn if '''Alarm''' is angered, so avoid '''Alarm''' at all costs!
+** You should hide immediately if '''Alarm''' is angered since '''D-200''' is very fast.
+** Do not try using any safe spots against '''D-200''', as it will go through walls to reach you.
+** Be sure to remain hidden while '''D-200''' is present, as '''D-200''' will come back to finish off any player that isn't hidden within an infinite radius.
+*** This also increases '''D-200'''<nowiki/>'s despawning timer, which means the only way to get rid of it is to just stay hidden and it will despawn eventually.
+
+{{!}}-{{!}}
+Post Boss Fight=
+'''Post  Boss Fight:'''
+*'''D-200''' is very fast, so if it spawns you should hide <nowiki/>in the previous room to avoid getting killed by [[D-55]] if it spawns and you couldn't find a blue locker/white cabinet.
+* Once you see the room lights turning white or hear '''D-20'''<nowiki/>'''0''''s organ sound, get into a hiding spot before it begins moving. This is because '''D-200''' is a fallback entity, and it will target the closest player that isn't in a hiding spot by the time it begins its movement.
+** This means that safe spots are ineffective against '''D-200''', as it can go through walls to target and kill players properly.
+* Be sure to remain hidden while '''D-200''' is present, as '''D-200''' will come back to finish off any player that isn't hidden within an infinite radius.
+** This also increases '''D-200'''<nowiki/>'s despawning timer, which means the only way to get rid of it is to just stay hidden and it will despawn eventually.
+}}
+
+<h2> Trivia </h2>
+* '''D-200''' can still spawn even after the boss fight ends, now becoming a normal entity.
+* '''D-200'''s nickname in the NVCS used to show as "Dementia", however this was changed, now displaying his actual Nickname, "Dementor".
+* If the player doesn't enter the Boss Fight room, the player will get teleported with the message '''"I'M TELEPORTING YOU TO THE FRONT, DON'T BE AFRAID OF ME"'''.
+
+<h2> Jumpscare Messages </h2>
+* '''I DON'T HAVE TO SAY ANYTHING, YOU'RE ALREADY DEAD, I DID MY JOB.'''
+* '''LOUD DOES NOT EQUAL SCARY.'''
+* '''I DON'T CARE ABOUT YOUR FLASHY JUMPSCARES.'''
+
+<h2> Gallery </h2>
+<gallery>
+D200jump.jpg|Jumpscare
+</gallery>
+
+
+
+|-|Spike=
+'''Spike:'''
+{{InfoBox:Entity
+|entity_name=Spike
+|entity_image=<gallery>
+Spike.png|Design
+D-200-SPK-OLD.png|Pre release Design
+</gallery>
+|nicknames=SPK
+|behavior=Spawns on the ceiling before falling down in attempt to crush the player.
+|gun_effect=None
+|locker_snipe=No
+|claustrophobia=No
+|damage=???
+|sound1=<center>Impact</center><center>[[File:SpikeImpact.mp3]]</center>
+}}
+
+<h2> Description </h2>
+'''Spike''' or '''D-200-SPK''' is one of the 4 minions you'll encounter in '''D-200's boss fight'''. It will start spawning in Phase 1.
+
+<h2> Behavior </h2>
+'''Spike''' will emerge from the ceiling, hanging for a few seconds before falling on the ground, damaging and ragdolling anyone near its fall location. '''Spike''' also marks an alert symbol at the point where it will fall.
+
+<h2> Strategy & Tips </h2>
+Just pay attention to either the ground or the ceiling.
+
+
+
+|-|Alarm=
+'''Alarm:'''
+{{InfoBox:Entity
+|entity_name=Alarm
+|entity_image=<gallery>
+AlarmIdle.png|Idle Design
+AlarmScream.png|Screaming Design
+D-200-RLA-OLD.png|Pre release Idle Design
+D-200-RLA-SCREAM-OLD.png|Pre release Screaming Design
+</gallery>
+|nicknames=RLA
+|behavior=Screams if you're near it for too long, Spawning '''D-200'''.
+|speed=None
+|gun_effect=None
+|locker_snipe=
+|claustrophobia=No
+|type=Spawner
+|damage=None
+|sound1=<center>Ambience</center><center>[[File:AlarmAmbi.mp3]]</center>
+|sound2=<center>Teleport</center><center>[[File:AlarmTeleport.mp3]]</center>
+|sound3=<center>Scream</center><center>[[File:AlarmScream.mp3]]</center>
+}}
+
+<h2> Description </h2>
+'''Alarm''' or '''D-200-RLA''' is one of the 4 minions you'll encounter in '''D-200's boss fight'''. It will start spawning in Phase 1.
+
+<h2> Behavior </h2>
+'''Alarm''' will teleport to a random location within the D-200 room and will stay stationary for a few seconds before teleporting to another location. It will scream if any players are in its sights at a vicinity by the time it tries to teleport and will spawn '''D-200''' upon doing so.
+
+<h2> Strategy & Tips </h2>
+Get away as fast as possible from its range.
+
+
+
+|-|Checker=
+'''Checker:'''
+{{InfoBox:Entity
+|entity_name=Checker
+|entity_image=<gallery>
+Chaser.png|Design
+D-200-CHS-OLD.png|Pre release Design
+</gallery>
+|nicknames=CKR
+|behavior=Highlights a single locker, seconds later appearing Infront of it and checking it.
+|speed=None
+|gun_effect=None
+|locker_snipe=???
+|claustrophobia=No
+|type=Locker checker
+|damage=??? DPS
+|sound1=<center>Teleport</center><center>[[File:CheckerTeleport.mp3]]</center>
+}}
+
+<h2> Description </h2>
+'''Checker''' or '''D-200-CKR''' is one of the 4 minions you'll encounter in '''D-200's boss fight'''. It will start spawning in Phase 2.
+
+<h2> Behavior </h2>
+'''Checker''' will emit a brief [[D-200]] trumpet sound followed by a highlight on a random locker. Shortly after the locker is highlighted, it will inspect the locker and despawn, instantly killing anyone in the locker.
+
+<h2> Strategy & Tips </h2>
+look at your surroundings and be cautious when pulling a lever that is near lockers.
+
+
+
+|-|Chaser=
+'''Chaser'''
+{{InfoBox:Entity
+|entity_name=Chaser
+|entity_image=<gallery>
+Checker.png|Design
+D-200-CKR-OLD.png|Pre release Design
+</gallery>
+|nicknames=CHS
+|behavior=Spawns in a random spot, chasing the player if they get too close.
+|speed= slower than a player running
+|gun_effect=None
+|locker_snipe=???
+|claustrophobia=No
+|type=Chaser
+|damage=40-50 DPS
+|related_monsters=[https://rooms-low-detailed.fandom.com/wiki/G-235 Old G-235 RLD]
+|sound1=<center>Idle Ambience</center><center>[[File:ChaserIdleAmbi.mp3]]</center>
+|sound2=<center>Chasing Ambience</center><center>[[File:ChaserAngryAmbi.mp3]]</center>
+}}
+
+<h2> Description </h2>
+'''Chaser''' or '''D-200-CHS''' is one of the 4 minions you'll encounter in '''D-200's boss fight'''. It will start spawning in Phase 3.
+
+<h2> Behavior </h2>
+'''Chaser''', will spawn on a random spot around the room and will stay stationary until the boss fight ends. If anyone gets in its range, '''Chaser''' will immediately start to chase the player with acceleration, damaging the player if it gets too close. If you keep coming close to him, he will eventually start chasing the player at a faster speed than a player running until he'll kill you.
+
+<h2> Strategy & Tips </h2>
+Avoid getting near it at all costs, because the closer you get, the more it accelerates and eventually overspeeds you.
+
+</tabber>
+
+<h2> Badges </h2>
+{{BadgeSectionD|Image=ProtocolProcedureBadge.png|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure Protocol Procedure]|Description=Exit room D-200.|Obtainment=Beat '''D-200''''s boss fight.}}
+
+{{EntityNavBoxSectionD}}
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Aimscripter]]
+[[Category:Boss]]

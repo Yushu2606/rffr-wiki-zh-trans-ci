@@ -1,0 +1,4 @@
+;说明
+:本模板用于标识小作品（存根）。所有使用此模板的页面都会被自动归入[[:Category:Stubs|小作品]]分类。
+
+<includeonly>[[Category:Notice templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

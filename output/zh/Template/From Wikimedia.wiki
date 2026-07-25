@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件最初上传于维基百科或其他维基媒体项目。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:Files from WikiMedia projects]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px Blue; color: black;">D-20i (The Gaze)</span>}}
+{{InfoBox:Entity
+|entity_name=D-20i
+|entity_image= D-20i.png 
+|caption-entity_image=I live for one second
+|appears_at=Admin Only.
+|nicknames=Gaze
+|claustrophobia=No
+|type=Stationary/Aimscripter
+|behavior=Spawns, and chases the non-hiding players and despawns.
+|damage=TBA
+|gun_effect=None
+|locker_snipe=Unknown 
+|speed=TBA|related_monsters=[[D-20]]
+|sound3=<center>Attack</center><center>[[File:D20i.mp3]]</center>}}
+
+==Description==
+'''D-20i''' is an admin only i variant for [[D-20|D-20,]] it works like his [[D-20|normal counterpart]] but will charge to the player to attack it.
+
+==Behavior==
+'''D-20i''' will spawn exactly like [[D-20]], but with a blue light sucking particles from the center of the room. Shortly after this, '''D-20i''' will get fully transformed and become lethal, emmiting aloud and high pitched spawn sound of the [[D-20]], charging at any player that it spots. But unlike [[D-20]], '''D-20i''' will just stay in the center of the room for a short period of time before despawning.
+
+'''D-20i''' has also another behavior, that instead of spawning in the center of the room, it instantly spawns, charging at the nearest spotted player, however it won't be insta kill, and will just deal a bit of damage, and instantly despawning upon damaging the player or despawning instantly once it spawns if it didn't spot any player.
+
+== Strategy & Tips ==
+
+* If you see a blue light coming out of the main room center, Immediately get behind a wall to leave '''D-2'''<nowiki/>'''0i''''s range or hide, as '''D-20i''' don't stay spawned for too long like [[D-20]].
+* But if '''D-20i''' gets spawned in the insta charge form, you can't do such a thing, and just ignore the damage or go to the previous room if admins keep spawning it.
+
+==Trivia==
+*'''D-20i''' despawns almost immediately when spawning.
+
+{{EntityNavBoxAdmin}}
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:Stationary]]
+[[Category:Aimscripter]]
+[[Category:Ambusher]]
+[[Category:I Variation]]

@@ -1,0 +1,51 @@
+;说明
+本模板可用于清除页面左侧、右侧或两侧的浮动元素。清除操作意味着模板后的内容需要等指定侧已有的内容（例如“悬挂”或浮动的图片、块级元素）完全显示后才会渲染。本模板通常用于避免文字环绕在不相关的图片周围。
+
+本模板会向页面添加如下代码：<code><nowiki><div style="clear:left/right/both;"></div></nowiki></code>（<code>clear</code>后的值取决于传入的参数）。该代码会作用于带有CSS <code>float</code>属性的元素，包括向侧边浮动的文件（例如<code><nowiki>[[File:Image.png|right]]</nowiki></code>）。
+
+;语法
+* 要清除页面两侧的浮动，添加代码{{t|Clear}}。
+* 仅清除页面左侧的浮动，添加代码{{t|Clear|left}}。
+* 仅清除页面右侧的浮动，添加代码{{t|Clear|right}}。
+
+你也可以使用{{t|-}}代替{{t|Clear}}作为本模板的简写调用方式。
+__NOTOC__
+;示例
+<pre style="display:table">
+
+=== 章节 1 ===
+[[File:Example.jpg|200px|right]]
+章节1的文字内容。
+
+=== 章节 2 ===
+章节2的文字内容。
+{{Clear|right}}
+
+=== 章节 3 ===
+章节3的文字内容。
+</pre>
+
+这段代码会产生如下效果：
+
+----
+
+=== 章节 1 ===
+[[File:Example.jpg|200px|right]]
+章节1的文字内容。
+
+=== 章节 2 ===
+章节2的文字内容。
+{{Clear|right}}
+
+=== 章节 3 ===
+章节3的文字内容。
+
+----
+
+如上所示，章节1中添加的示例图片显示在右侧，向下延伸穿过了章节2，而在章节2末尾调用了{{t|Clear}}模板，因此示例图片不会出现在章节3的旁边。因此，{{t|Clear}}模板的一个用途就是控制哪些元素可以相邻显示。
+
+== 参见 ==
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/clear MDN 上的 CSS <code>clear</code> 属性说明]
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/float MDN 上的 CSS <code>float</code> 属性说明]
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

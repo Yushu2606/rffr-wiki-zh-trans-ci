@@ -1,0 +1,7 @@
+{{Spacer}}
+This category contains articles that are incomplete and are tagged with the {{T|Stub}} template.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]

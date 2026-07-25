@@ -1,0 +1,81 @@
+__NOTOC__
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">Shadow Challenge</span>}}
+{{InfoBox:Entity
+|entity_name=Shadow Challenge
+|entity_image=SCDoor.png
+|sound1=<center>Spawn</center><center>[[File:BossDespawn.mp3]]</center>
+|sound2=<center>Voices</center><center>[[File:ShadowChallangeVoices.mp3]]</center>
+|sound3=<center>Build up 1</center><center>[[File:SCBuildUp1.mp3]]</center>
+|sound4=<center>Build up 2</center><center>[[File:SCBuildUp2.mp3]]</center>
+|sound5=<center>Start Up</center><center>[[File:VoiceDrone2.mp3]]</center>
+|sound6=<center>Start</center><center>[[File:SCStartSfx.mp3]]</center>
+|sound7=<center>Ambience 1</center><center>[[File:RRSound1.mp3]]</center>
+|sound8=<center>Ambience 2</center><center>[[File:RRSound2.mp3]]</center>
+|sound9=<center>Ambience 3</center><center>[[File:RRSound3.mp3]]</center>
+|sound10=<center>Ambience 4</center><center>[[File:SCMain.mp3]]</center>}}
+
+==Description==
+* The '''Shadow Challenge''' is a Secret Challenge of the game that makes every room purple and make some entities infected with the shadows. 1 of them being forced to spawn atleast once ([[SHA-200]]). it also has 4 exclusive Entities, those being [[SHA-1]], [[SHA-2]], [[SHA-3]] and [[SHA-4]].
+
+* The '''Shadow Challenge''' can be encountered in 3 different ways.
+
+** 1st way: It can appear after room 1200 in any section at a 1/666 chance per door.
+
+** 2nd way: It can appear if you travel to room 3333 from any room before 3000.
+
+** 3rd way: It will appear at somewhere at 6010 after you teleport to 5980 in any section.
+*** If there's an entity active, it won't spawn until the entity despawns.
+
+* The '''Shadow Challenge''' can spawn even if entities are active, however, it will wait untill all entities despawn for the build up to start. if the requirements are met there will be a deep thud where then all the lights will go out and voices will be audible through the intercom. 
+
+* No entities will not be able to spawn during this transition. After the build up finishes, everything will turn purple which means that the test has begun, it lasts exactly 666 rooms.
+
+== Entities ==
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.png|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.png|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.png|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
+{{!}}}
+
+==Strategies==
+* When [[SHA-1]] spawns, try to hide as soon as you see its screenshake. It has a non-lethal small lockersnipe DPS, so don't worry. Wait in your hiding spot until [[SHA-1]] checks all marked spots in the previous room from where you are hiding, because when it finishes checking all hiding spots in the room, it will go to the door before backtracking. This can be used when you are hiding near the door.
+* When [[SHA-140]] or [[SHA-55]] is rebounding back, try not to use safespots. It uses a different pathing system, as it immediately goes to the next Blue Locker/Blue Heavy Locker/White Cabinet instead of using the normal entity pathing system, like [[SHA-1]] uses. Only use safespots when you are absolutely sure you are not in its path.
+* Sprint hide as soon as you see static from [[SHA-60]], it has an instant death lockersnipe. Confirm [[SHA-2]] didn't spawn before you can safely exit your hiding spot.
+* [[SHA-30]], [[SHA-35]], [[SHA-55]], [[SHA-180]] and [[SHA-200]] have no lockersnipe, and [[SHA-1]], [[SHA-2]], [[SHA-4]] and [[SHA-85]] has non-lethal lockersnipe, while [[SHA-140]] has a lockersnipe that takes a good part from your health. Use this knowledge to your advantage.
+
+== Trivia ==
+* ''Shadow Challenge's Voices says Alert…Alert…Alert…Alert…Warning…'' ''Bypass detected. Warning…Core reprogramming…''  ''Deploy, diagnose. Deploy, diagnose, Resonant singularity…''  ''Resonant singularity. Priority alert: Internal stabilization teams…''  ''deploy sterilizers…Alert…''  ''Alert…Alert…Alert…Alert…''
+* [[SHA-7]], [[SHA-22]], [[SHA-150]], [[SHA-300]], [[Overseer|SHA-0]], [[LAPSE-1]], [[LAPSE-2]], [[LAPSE-60]] and [[LAPSE-200]] are exclusive to the [[Alpha & Shadowpocalypse]] modifier so they can't spawn at all in the challenge
+** However, [[SHA-7]], [[SHA-22]] and [[SHA-150]] can be spawned by [[SHA-4]] in the '''Shadow Challenge'''
+
+==Badges==
+{{Badge|Image=666 666 666 (Badge).png|Name=666 666 666|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons|Obtainment=Complete The Shadow Challenge.}}

@@ -1,0 +1,161 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">X-1200 Entities</span>}}
+{{ArticleBackground|File=X1200Background.png}}
+Despite them all having the same denotation, none of these entities are related to each other. They do not have true names nor true numbers; they have just been labelled like that per prior police reports. Why they exist is unknown.<br><br>
+list of the X-1200 Entities, aka the endless mode entities
+
+==X-1200 Entities==
+<tabber>
+|-|=
+{{InfoBox:Entity
+|entity_name=.
+|for_the_mobile_people=.}}
+|-|X-1200-A=
+{{InfoBox:Entity
+|entity_name=X-1200-A
+|entity_image=<gallery>
+X1200A1.png|1st Face
+X1200A2.png|2nd Face
+</gallery>
+|nicknames=Speedy
+|type=Rusher
+|behavior=rushes to the main room Extremely fast, despawning past the door
+|speed=Fast
+|damage=???<br>??? DPS Snipe
+|locker_snipe=Yes
+|related_monsters=[[D-35i]]
+|claustrophobia=No
+|sound1=<center>Jumpscare</center><center>[[File:X-1200Jump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Once '''X-1200-A''' spawns, it will begin rushing to the main room, giving no indicator that it spawned, only way to detect it is by hearing the ambiance it makes, it being similar to [[SHA-180]]'s, once nearing the main room it will begin to fill the player's screen with static, a warning for them to hide immediately, it will despawn once it hits the door.
+
+==Strategies & Tips==
+* Once you hear him, get near a locker and enter when you see your screen being filled with static, that's it.
+
+==Trivia==
+* '''X-1200-A''' spawns 98 rooms behind the current room.
+
+
+
+|-|X-1200-B=
+{{InfoBox:Entity
+|entity_name=X-1200-B
+|entity_image=<gallery>
+X1200B1.png|1st Face
+X1200B2.png|2nd Face
+</gallery>
+|nicknames=Noisy
+|type=Noismaker
+|claustrophobia=No
+|behavior=Spawns in the main room, making Extremly loud noises in attempt to cover other entities.
+|speed=None
+|locker_snipe=
+|damage=None
+|related_monsters=[[A-258 (IR)]]<br>[[M-7]]<br>[[SHA-7]]
+|sound1=<center>Ambience</center><center>[[File:X-1200 B.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Once '''X-1200-B''' spawns, it will place itself somewhere in the main room, it being black and white rings, seconds later it will activate and start making extremely loud noises to cover the sound from other entities for 15 seconds, despawning after said 15 seconds are over.
+
+==Strategies & Tips==
+* Stay near a locker at all times in case something spawned.
+
+==Gallery==
+<gallery>
+File:X-1200-B in A-Sector.jpeg|'''X-1200-B''' seen in [[Section A]]
+File:Image 1780306514271 546.png|'''X-1200-B''' seen in [[Section D]] Derelict
+File:X-1200-B in depth.png|'''X-1200-B''' seen in [[Section D]] Depth (low quality)
+File:X-1200-B in Sector E.png|'''X-1200-B''' seen in [[Section E]]
+</gallery>
+
+
+
+|-|X-1200-C=
+{{InfoBox:Entity
+|entity_name=X-1200-C
+|entity_image=<gallery>
+X1200C1.png|1st Face
+X1200C2.png|2nd Face
+</gallery>
+|nicknames=Stalker
+|type=Aimscripter
+|locker_snipe=Yes
+|claustrophobia=Yes
+|behavior=spawns in a random direction, targeting unhidden players
+|speed=Fast
+|damage=???<br>??? DPS Snipe
+|related_monsters=[[E-90]]
+|sound1=<center>Close Ambience</center><center>[[File:X-CCloseAmbi.mp3]]</center>
+|sound2=<center>Jumpscare</center><center>[[File:X-1200Jump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Upon spawning, '''X-1200-C''' will place itself in a random direction, being able to be seen through walls similar to [[E-90]], then will start playing its ambiance and shake the screen of the player, moving and targeting anyone who isn't hiding, if everyone is hiding it will freeze in place, despawning after around 30 seconds.
+
+==Strategies & Tips==
+Keep a lookout for it, as it can be seen through walls, and if you do see it hide immediately.
+
+Hiding in tables are also an option however only do this in case you are sure theres isnt an entity that can see you through them 
+
+==Gallery==
+<gallery>
+File:X-1200-C-Photo.png|X-1200-C in game
+X-CCloser.webp|Ditto, but closer
+</gallery>
+
+
+
+|-|X-1200-D=
+{{InfoBox:Entity
+|entity_name=X-1200-D
+|entity_image=<gallery>
+X1200D1.png|1st Face
+X1200D2.png|2nd Face
+</gallery>
+|nicknames=Delay
+|type=Rusher<br>Fallback
+|locker_snipe=Yes
+|claustrophobia=No
+|behavior=makes an alarm Alarm noise, rushes to the door, and upon hitting the door, falls back and despawns.
+|speed=Fast
+|damage=???<br>??? DPS Snipe
+|related_monsters=[[M-22]]<br>[[M-22i]]
+|sound1=<center>Spawn</center><center>[[File:X-1200-DSpawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:X-DFarAmbi.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:X-DCloseAmbi.mp3]]</center>
+|sound4=<center>Jumpscare</center><center>[[File:X-1200Jump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+When '''X-1200-D''' spawns, it will make a alarm sound and wait for around 30 seconds before rushing the the main room at fast speeds, it fill the players screen with static when nearby, a warning to hide immidietly, once it hits the door it will fallback, despawning past voidwall.
+
+==Strategies & Tips==
+* once you hear its spawn que get near a locker and hide once you see your screen being filled with static
+
+==Gallery==
+<gallery>
+File:X-1200-D Derelict Section.png|X-1200-D In-Game
+</gallery>
+
+
+|-|X-1200-E=
+{{InfoBox:Entity
+|entity_name=X-1200-E
+|entity_image=<gallery>
+X1200E1.png|1st Face
+X1200E2.png|2nd Face
+</gallery>
+|nicknames=Ghost
+|type=Rusher
+|locker_snipe=Yes
+|claustrophobia=No
+|behavior=Spawns at voidwall and rushes to main room very quietly
+|speed=Slow
+|damage=???<br>??? DPS Snipe
+|related_monsters=[[SHA-30]]
+|sound1=<center>Jumpscare</center><center>[[File:X-1200Jump.mp3]]</center>}}
+
+<h2> Behavior </h2>
+Once '''X-1200-E''' Spawns, it will begin slowly rushing to the main room, being almost silent, the only way to detect it being through the small amount of static it makes, it will despawn once it hits the door.
+
+==Strategies & Tips==
+Keep a lookout for its static, as it will be the only way you can detect it.
+</tabber>

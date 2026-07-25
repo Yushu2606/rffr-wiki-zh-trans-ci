@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Fallbacker（后退者）'''实体指并非从[[Void|虚空]]生成，而是从最新的房间/[[Door|门]]处生成的所有实体。
+----
+<center>''以下是属于该分类的所有条目。''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

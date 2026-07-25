@@ -1,0 +1,29 @@
+<center><div class="mainpagething" style=" width: 97%; border: 4px solid white; box-shadow: 0 0 20px 0 white, inset 0 0 20px white; margin-top: 30px; margin-bottom: 30px; text-align: center; padding:5px; border-radius: 30px;"><font size="6px;"><span style="text-shadow: 0 0 7px white">'''欢迎来到Rooms: Found Footage <span style="text-shadow: 0 0 5px red; color: red;">RENOVATED</span> 中文Wiki，仅部分内容原文来自官方英文Wiki！'''</span></font></div>
+<small>''如果你正在查找原版Wiki，请前往[https://rooms-found-footage.fandom.com/wiki/Rooms:_Found_Footage_Wiki 此处]。''</small><br>
+[https://www.roblox.com/share?code=6111888baf67a14da92d805207eaadd6&type=ExperienceDetails&stamp=1763215172924  Rooms: Found Footage RENOVATED] 是《Rooms: Found Footage》的非官方重置续作，于2025年6月6日首次发布，自2025年2月23日起便一直在开发中。
+
+<big>本Wiki目前包含：
+<center>
+'''{{NUMBEROFARTICLES}}''' 篇条目 '''|'''
+'''{{NUMBEROFFILES}}''' 个文件 '''|'''
+'''{{NUMBEROFEDITS}}''' 次编辑 '''|'''
+'''{{NUMBEROFACTIVEUSERS}}''' 名活跃用户 '''|'''
+'''{{PAGESINCATEGORY: Stubs}}''' 个存根页面
+</center>
+</big>
+
+<font size="6px;"><span style="text-shadow: 0 0 10px black">导航</span></font>
+<br>
+——————————————————————————
+<div class="tdx-container accent-left">
+{| class="hoverimage desktop-only" style="text-align:center; width:100px" align=center
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Sections Main Page.png|175px|link=Sections]][[Sections|各分区]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Challenges Main Page.png|175px|link=Modifiers]][[Modifiers|Modifiers（挑战 modifier）]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Entities Main Page.png|175px|link=Entities]][[Entities|实体]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Items Main Page.png|175px|link=Items]][[Items|物品]]</div>
+|}
+</div>
+<mainpage-endcolumn />
+
+{{RandomSentenceBox}}
+{{FeaturedEntity}}

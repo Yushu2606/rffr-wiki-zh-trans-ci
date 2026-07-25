@@ -1,0 +1,68 @@
+{{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-20]]
+|next_entity=[[D-35i]]<br>[[D-55]]
+|entity_name=[[File:Floory.gif|frameless|link=D-35]]
+|entity_image=<gallery>
+File:D-35Redesign.gif|当前设计
+NewD-35.gif|旧设计
+OldestD35.gif|更旧设计
+LegacyD35.gif|最旧设计
+</gallery>
+|appears_at=D-035之后的任意区域
+|nicknames=Inverting Smile（反转笑脸）<br>"Shadow Winner"（「暗影胜者」）（旧昵称）
+|type=冲刺者
+|behavior=发出低响后朝最远的门冲刺
+|damage=秒杀（柜击造成35点伤害）
+|speed=慢~极快
+|locker_snipe=是
+|gun_effect=无
+|related_monsters=[[D-35i]]（素数变种）<br>[[SHA-35]]
+|claustrophobia=否
+|badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该来这里] '''已绝版'''
+|sound1=<center>生成</center><center>[[File:D35Spawn.mp3]]</center>
+|caption-entity_image=你是个笨蛋
+|sound2=<center>在[[Super Epic Mode|超级史诗模式]]中生成</center><center>[[File:SEMD-35Spawn.wav]]</center>
+|sound4=<center>环境音来源</center><center>[[File:Police Radio 22.ogg]]</center>
+|sound5=<center>跳杀</center><center>[[File:D-35Jumpscare.mp3]]</center>
+|sound6=<center>2026年3月6日-25日临时跳杀音效</center><center>[[File:D-35TempJumpscare.mp3]]</center>|sound3=<center>[[Legacy Mode|遗留模式]]环境音</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
+
+==描述==
+'''D-35'''是基础的冲刺者实体，但它仍然较难应对。
+
+==行为==
+*当'''D-35'''生成时，会播放一段低沉的隆隆声，同时触发全局屏幕震动。根据当前房间的门号，'''D-35'''的冲刺速度可能很慢（门号较低时），也可能快得离谱（门号极高时）。'''D-35'''靠近时会发出强烈的静电噪音，提示你应该躲藏。
+*当'''D-35'''触碰到下一个房间的门时，会在自身下方生成一个传送门，然后借由传送门快速离开。在此过程中，'''D-35'''会撞碎脆弱的（洞穴类）门，或是重重撞上厚重的（实验室类）门。
+*被D-35发现时没有躲藏的玩家会被秒杀，而当D-35抵达当前房间时没有完全躲好的玩家会损失一半生命值。
+
+==策略与提示==
+*当你听到'''D-35'''<nowiki/>的生成音效时，请立刻靠近躲藏点。之后等到静电噪音开始变大，再快速进入躲藏点。
+*建议在'''D-35'''消失后仍待在柜子附近，因为[[D-35i]]可能会生成。
+*在[[Red Rooms|红区]]中，'''D-35'''可以被动生成
+**因此可能同时生成两只D-35
+*'''D-35'''<nowiki/>的秒杀可以通过dodge-rolling（翻滚闪避）规避，在没有可用躲藏点的危急情况下可以使用这一技巧！不过你仍然会受到等同于柜击的伤害。
+
+==你知道吗==
+*过去'''D-35'''的柜击伤害是10点，而非现在的35点。
+*'''D-35'''的跳杀音效来自《Jollibee's Phase 2》的跳杀音效，但音调被大幅调高。
+* '''D-35'''的跳杀音效曾被平台临时审核调整，因此在2026年3月6日至5月16日期间使用替换音效。
+** 目前它已经恢复了原本的跳杀音效
+
+==画廊==
+<gallery>
+File:NewD-35Jumpscare.gif|D-35 跳杀画面
+File:D-35JumpscareAaaa.gif|旧版D-35 跳杀画面
+File:OlderD-35Jump.gif|更旧版D-35 跳杀画面
+LegacyD35.gif|遗留模式设计
+</gallery>
+
+==徽章==
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=你不该出现在这里|Description=[无法获取] 遭遇并从一个稀有的入侵实体手中存活。该徽章可在「入侵」活动期间获取。|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动期间，遭遇并从[[D-5#Invasion|D-5]]、'''D-35'''或[[D-60i|D-60]]手中存活}}
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Invader]]

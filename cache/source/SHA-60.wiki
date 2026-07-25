@@ -1,0 +1,51 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #6600FF, #6600FF, #3A0091, #3A0091); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-60 (Assimilation)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:SHA60logo.gif]]
+|entity_image=<gallery>
+File:SHA-60.png|Current Design
+File:Sha60InGame.png|Current Design In-Game
+File:OLDSHA60.webp|Old Design
+File:Sha60.webp|Old Crop
+</gallery>
+|previous_entity=[[SHA-55]]
+|next_entity=[[SHA-85]]<br>[[LAPSE-60]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Assimilation
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion
+|type=Rusher<br>Shadow
+|locker_snipe=Yes
+|gun_effect=No Shadow can be shot
+|claustrophobia=No (Delays)
+|behavior=Same as [[A-60]] but quieter and might spawn [[SHA-2]]
+|speed=Same as [[A-60]] or slower (probably)
+|damage=Instant Death (Instant Death locker snipe)
+|related_monsters=[[A-60]]<br>[[LAPSE-60]]
+|sound1=<center>Far Ambience</center><center>[[File:Sha60Far.mp3]]</center>
+|sound2=<center>1st Close Ambience</center><center>[[File:Sha60NearRecrated.mp3]]</center>
+|sound3=<center>2nd Close Ambience</center><center>[[File:SHA60CloseOld.mp3]]</center>}}
+
+== Description ==
+'''SHA-60''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[A-60]].
+
+== Behaviors ==
+'''SHA-60''' spawns from the back, playing a low-pitched rumbling sound. He rushes to the main room and hits the door, before going to the center of the room. When he gets to the center, he becomes stationary for a few seconds before falling into the ground, despawning. '''SHA-60''' has the chance to spawn [[SHA-2]] upon coming in contact with the door of the main room.
+
+== Strategy & Tips ==
+
+* When you hear the sound '''SHA-60''' makes, stop progressing and stay close to a locker, because '''SHA-60''' can spawn on-top of himself, causing trouble.
+* The best way to avoid '''SHA-60''' is to use sprint to quickly get into the locker once static on your screen starts to appear, as [[Claustrophobia]] can still attack.
+* During [[Red Rooms]], keep hiding and make sure [[SHA-2]] didn't spawn when '''SHA-60''' despawns. This is because '''SHA-60''' despawns faster in [[Red Rooms]], and [[SHA-2]] arrives later.
+* If [[SHA-1]] spawns with '''SHA-60''', wait until [[SHA-1]]'s screenshake appears or '''SHA-60''''s close ambience can be heard, then sprint-hide.
+
+== Trivia ==
+* '''SHA-60''' is the only 60 entity that has an instant-kill as its locker-snipe.
+
+* '''SHA-60''''s near ambience can actually play in the [[Shadow Challenge]].
+
+* '''SHA-60''' used to have the same chatter sound as [[A-60]], but was later updated.
+
+* '''SHA-60''' despawns just as fast as [[A-60]] if spawned in [[Red Rooms]].
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Ambusher]]

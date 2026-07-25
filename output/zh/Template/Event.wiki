@@ -1,0 +1,7 @@
+<includeonly><infobox type="Event">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="performers"><label>表演者</label></data>
+	<data source="date"><label>日期</label></data>
+	<data source="location"><label>地点</label></data>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Events]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

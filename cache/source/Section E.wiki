@@ -1,0 +1,126 @@
+{{ArticleBackground|File=EBackground.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px yellow, 0 0 2.5px yellow, 0 0 2.5px yellow; color: white;">Section E (Executive)</span>}}
+{{SectionEStub}}
+{{SectionInfoBox
+|image=ExecutiveUpd.png
+|previous_section=[[Section M]]<br>
+[[Unnamed Sector]]
+|next_section=[[Section R]]
+|entity_amount=11
+|i_entity_amount=2
+|sound1=<center>Section Opened</center><center>[[File:ESectionOpen.mp3]]</center>
+|sound2=<center>Beginning theme</center><center>[[File:Executive_In_Game.mp3]]</center>
+|sound3=<center>E-750 - E-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound4=<center>E-1000</center><center>[[File:Verge Of Breakdown.mp3]]</center>
+|sound5=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+
+==Overview==
+'''Section E''' is the 5th section the player will encounter within the game, being one that requires the strange keycard to enter, this section is supposed to be for experienced players, since its more difficult than the previous sections, overall there's 9 main threats in this section (11 if counting the i variants).
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E10i.png|center|150px|link=E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE30.png|center|150px|link=E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E30i.png|center|150px|link=E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E45.png|center|150px|link=E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE601.png|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E90.png|center|150px|link=E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-120 Design.png|center|150px|link=E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E165.png|center|150px|link=E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200 Design.gif|center|150px|link=E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E245Idle.png|center|150px|link=E-245]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-245]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:ESectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+==Removed/Scrapped==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''???'''
+{{!}}}
+
+==Strategies==
+*TBA
+
+==Trivia==
+* [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive Teaser 1]
+* '''Section E''' is the first section to not have a entity that disables [[Claustrophobia]]
+* [[Section Executive Invasion Event|The Executive Invasion]]
+* E Section is the only section without a unique ambience (subject to change)
+
+== Lore ==
+* [[Section E]] is the section used to house the S.P.A.W.N after Sections [[Section A|A]] and [[Section D|D]] were abandoned, in order to power this section.
+
+==Rooms==
+<gallery>
+File:Elobby.jpg|The lobby
+File:ERoom1.jpg
+File:ERoom2.jpg
+File:ERoom3.jpg
+File:ERoom4.jpg
+File:ERoom5.jpg
+File:ERoom6.jpg
+File:ERoom7.jpg
+File:ERoom8.jpg|A Room Causing Memory Leaks Often
+File:ERoom9.jpg
+File:ERoom10.jpg
+File:ERoom11.jpg
+File:EGardenStart.jpg|The start/end to the garden room
+File:Egarden.jpg|The garden room
+File:ELockpickRoom.jpg|Lockpick room
+File:ERoom12.jpg
+File:ERoom13.jpg|A Room Causing Memory Leaks often
+File:ERoom250.jpg|Room 250
+File:ERoom400.jpg|Room 400
+File:EElevator.jpg|The elevator shaft leading down to the entrance to [[Section R]]
+File:ERoomR1.jpg|Room containing the entrance to [[Section R]]
+File:ERoomR2.jpg|Ditto, but inside
+File:ECheckpoint.jpg|Checkpoint room
+</gallery>
+
+==Other==
+<gallery>
+File:Executive (Badge).png|Old "Executive" badge icon
+File:Power Failure (Badge).png|Old "Power Failure" badge icon
+File:Executive Dysfunction (Badge).png|Old "Executive Dysfunction" badge icon
+File:E-1000 (Badge).png|Old "E-1000" badge icon
+</gallery>
+
+==Badges==
+{{BadgeSectionE|Image=NewExecutiveBadge.png|Name=Executive|Description=This better be worth the struggle...|Obtainment=Transition sections to Section E.}}
+{{BadgeSectionE|Image=NewPowerFailureBadge.png|Name=Power Failure|Description=How long will this go on?|Obtainment=Open door E-500.}}
+{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=Executive Dysfunction|Description=insert witty insanity text here|Obtainment=Open door E-900.}}
+{{BadgeSectionE|Image=NewE1000Badge.png|Name=E-1000|Description=The E-1000 Ending has not yet been added. and yet, you keep pushing on for a nil purpose. You cant remember why you came here but it seems like you're about to find out.|Obtainment=Open door E-1000.}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

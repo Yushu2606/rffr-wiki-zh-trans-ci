@@ -1,0 +1,159 @@
+{{DISPLAYTITLE:<span style="animation: D-section 4s infinite">'''D区（深矿/废置设施）'''</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{SectionInfoBox
+|image=<gallery>
+Depths (D-Section).png|深矿游戏页面图1
+Depths (D-Section) 2.png|深矿游戏页面图2
+Derelict (D-Section).png|废置设施游戏页面图
+</gallery>
+|previous_section=[[Section A|A区]]
+|next_section=[[Section M|M区]]<br>[[Unnamed Sector|无名区域]]<br>[[Section I|I区]] <small>（若开启[[Legacy Mode|Legacy（遗产）]]模式）</small><br>[[Section UI|UI区]] <small>（若开启[[Super Epic Mode|SEM（超级史诗模式）]]）
+|entity_amount=14
+|i_entity_amount=4
+|sound1=<center>D区开启</center><center>[[File:DSectionOpen.mp3]]</center>
+|sound2=<center>深矿环境音</center><center>[[File:Depth.mp3]]</center>
+|sound3=<center>废置设施环境音</center><center>[[File:Derelict.mp3]]</center>
+|sound7=<center>废置设施无尽模式环境音</center><center>[[File:OldSectorDOST.mp3]]</center>
+|sound5=<center>D-750 - D-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound6=<center>D-1000</center><center>[[File:DeepBellow.mp3]]</center>
+|sound8=<center>无尽模式</center><center>[[File:Endless.mp3]]</center>}}
+
+==概述==
+'''D区'''是玩家会遇到的第二个区，包含两个区域：'''深矿（Depth）'''——一处矿井巷道，以及'''废置设施（Derelict）'''——一座灰色金属设施。该区的实体与[[Section A|A区]]的类似，但能力更强。以[[D-35]]为例：它是突发出现、移动速度极快的实体，与[[A-20]]相似，但要求玩家反应更快。此处也会出现更多能力更强的i变体实体，包括恶名昭彰的[[D-60i]]。玩家到达D-400后即可进入下一个区[[Section M|M区]]。从D-100开始，场景会从'''深矿'''切换为'''废置设施'''；从D-500开始，会切回'''深矿'''；从D-750开始会最后一次切换为'''废置设施'''。到达D-1000号房间后，场景会切回'''深矿'''，此后每100-200个房间就会随机切换一次场景。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.webp|center|150px|link=D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.webp|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-250]]
+{{!}}}
+
+==非专属实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DSectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+
+==Removed/废弃==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-180Old.png|center|150px|link=D-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
+{{!}}}
+
+==Rooms==
+<tabber>
+|-|Depth=
+<gallery>
+Section Depth Starting Room.png|起始房间。
+Section Depth Starting Room Bottom.png|同上，为穿过入口后的视角。
+Section Depth Hallway -w Two Siderooms.png|带有两个侧室的房间。
+Section Depth Room 5.png|5号房间。
+Section Depth Hallway But Dark.png|昏暗的走廊。
+Section Depth Furnished Room.png|配有家具、侧边摆放有工具的房间。
+Section Depth Basic Hallway.png|普通走廊。
+Section Depth Room -w 3 Planks.png|侧边放有3块木板的房间。
+Section Depth Room Goes to the side.png|向左转弯的房间。
+Section Depth Hallway -w Two Siderooms 2.png|带有两个侧室的房间，其中一个侧室被架子遮挡。
+Section Depth Slope Downward.png|设有两个架子、向下倾斜的房间。
+Section Depth Basic Hallway 2.png|普通走廊。
+Section Depth Pitch Black Room.png|漆黑的走廊。
+Section Depth Basic Hallway 3.png|部分区域昏暗的走廊。
+Section Depth Much Stuff.png|设有大量柜子、多数照明处于开启状态的走廊。
+Section Depth Basic Hallway 4.png|装有1个灯泡、设有2个柜子的走廊。
+Section Depth Room -w Trashbags.png|左角落堆放有垃圾袋的房间。
+Section Depth Staircase.png|楼梯间。
+Section Depth Staircase Top.png|同上，为从底部向上拍摄的视角。
+Section Depth Many Boxes.png|堆放有大量箱子的普通房间。
+Section Depth Room Goes to the right.png|向右转弯的房间。
+Section Depth 2 Cabinets.png|设有两个柜子的房间。
+Section Depth Room 100.png|100号房间，是Depth区前往Derelict区的过渡房间。
+Water_cave.jpg|走廊房间的稀有积水变种。
+</gallery>
+|-|Derelict（废弃区）=
+<gallery>
+Section Derelict Room 101.png|101号房间。
+Section Derelict Starting Room.png|初始房间。
+Section Derelict Pipe Cluster.png|布满大型管道的房间。
+Section Derelict Garden -w Filing Cabinets.png|设有管道、景观区与文件柜的房间。
+Section Derelict 2 Garden Right.png|侧边有两处景观区的房间。
+Section Derelict 4 Pillars.png|设有4根立柱的房间。
+Section Derelict Lockers Middle.png|中间摆放着数个柜子的房间。
+Section Derelict Middle Paper.png|中间堆满纸张的房间。
+Section Derelict 2 Silos Left.png|设有破损门体、左侧为出口的房间。
+Section Derelict Exit Bottom.png|最底层的出口房间。
+Section Derelict Bottom Room.png|走出出口后通往下一扇门的房间。
+Section Derelict 6 Silos.png|设有六座筒仓、亮着紫色灯光的房间。
+Section Derelict 2 Laser Doors.png|设有两扇激光门，其中一扇处于停用状态的房间。
+Section Derelict Many Shelves.png|摆满货架的房间。
+Section Derelict Basic Room 1.png|基础房型。
+Section Derelict Basic Room 1 But Left.png|同上，为左侧变体。
+Section Derelict Room 200.png|200号房间。
+Section Derelict Room 200.png|同上，为房间底部视角。
+Section Derelict Room 200 End.png|同上，为房间尽头视角。
+Section Derelict Room 200 Door Sign.png|201号门的门牌。
+Section Derelict Room 400.png|400号房间。
+</gallery>
+</tabber>
+
+==攻略==
+*D区的大多数实体要么速度极快，要么需要耗费大量时间等待其离开，例如[[D-5]]、[[D-55]]、[[D-60]]、[[D-60i]]、[[D-140]]与[[D-200]]。建议尽可能晚进入柜子/储物柜，避免受到[[Claustrophobia|幽闭恐惧]]的伤害。
+*从D-500到D-750的区间内，由于Depth rooms（深层房间）层高过高且完全黑暗，建议尽可能节省电量。不过对于Faraday Shakelight（法拉第手摇灯）的使用者来说这不算问题。
+*在[[Red Rooms|红区]]中，你需要留意实体的环境音效，因为红区的环境音有时音量过大，会提升你被''D-60''这类静音实体击杀的概率。此外请记住，部分实体会开始被动生成。
+*在[[Red Rooms|红区]]内请时刻留意[[D-140]]是否处于激活状态，选对躲避位置是避免被[[D-140]]或[[D-55]]击杀的关键。如果D-140已激活，请躲入Heavy Lockers（重型柜子）；如果未激活，可以尝试躲入Blue Heavy Lockers（蓝色重型柜子）。<!-- We need more... -->
+
+== 冷知识 ==
+* '''D区'''是仅有的两个拥有两种交替房间生成类型的区之一（另一个是'''M区'''）。
+* '''D区'''是拥有最多Admin '''I型变体'''的区，共有6种Admin专属'''I型变体'''，分别为[[D-20i]]、[[D-35ii]]、[[D-55ii]]、[[D-60ii]]、[[D-140i]]与[[D-180i]]。
+* '''D区'''的Lockpick rooms（撬锁房间）与其他区不同。其他区的撬锁房间会给出大量道具，而D区仅会掉落3-5件左右的道具。作为补偿，这类房间必定生成V-Booster与AD-STR，前者可将你的最大生命值提升100点，后者可将最大体力提升100%。
+
+== 背景故事 ==
+* [[Section A|A区]]与'''D区'''均遭到废弃，原因是SPAWN需要抽取原本供给这两个区的大量电力，将其集中用于更重要的事务。
+** 这一安排本应是临时措施，但由于缺乏直接管控，实体已经占领了这两个区。
+
+==徽章==
+{{BadgeSectionD|Image=Depth (Badge).png|Name=Depth（深渊）|Description=Wait, when did this get here?（等等，这东西是什么时候出现在这儿的？）|Obtainment=切换分区进入D区。}}
+{{BadgeSectionD|Image=Level 15 (Badge).png|Name=Level 15（15层）|Description=Mining away... oh wait wrong game（挖个不停……哦不对，串游戏了）|Obtainment=打开D-500的门。}}
+{{BadgeSectionD|Image=Caving In (Badge).png|Name=Caving In（塌方）|Description=Mental breakdown.（精神崩溃。）|Obtainment=打开D-900的门。}}
+{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=Surface Breach（突破地表）|Description=Sometimes you wonder to yourself how much doing any of this mattered. you came here on your own terms, and for what?（有时你会暗自思索，做这一切到底有什么意义。你是自愿来到这里的，可究竟是为了什么？）|Obtainment=打开D-1000的门。}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

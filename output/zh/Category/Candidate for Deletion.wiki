@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''你可能正在查找模板''[[Template:Delete|Delete]]''。'''</center></big>
+----
+'''待删除候选'''指所有将会被删除的条目。
+----
+<center>''以下是归属于本分类的所有条目。''</center>
+{{Spacer}}

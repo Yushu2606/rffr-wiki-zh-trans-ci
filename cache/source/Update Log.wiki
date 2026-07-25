@@ -1,0 +1,873 @@
+__NOTOC__
+<center><font size="5px;">'''for more immediate updates, Please Join [https://discord.gg/j89fpEN6bX The Discord Server]'''</font></center>
+
+==June 2, 2025 "Renovated Open Beta"==
+* '''Rooms: Found Footage: RENOVATED''' released
+* Every Section has been Renovated, replaced [[Section I]] with [[Section M]]
+* introduced Broken hiding spots
+* New loadscreen music, new loadscreen tips, new lore, new lobby
+===Post update===
+* fixed [[Shadow Challenge]] being disabled in [[Section D]]
+
+==June 3, 2025==
+* radiant industrial torch still referencing a I-███ was fixed, now saying "[[M-120i]]"
+* fixed various anchored items* the rarity of a derelict room was changed
+-
+* Added room D-101
+-
+* depth doors won't get stuck anymore
+
+==June 4, 2025==
+* a brick was temporarily put over the console due to changing the X-section button to R breaking the game
+
+==June 7, 2025==
+* a vast amount of A-sections doors were updated
+* fixed rooms that shouldnt be spawning more at 11
+-
+* [[A-200]]'s knocking being silent was fixed
+* agency and derelict lab doors were redesigned
+-
+* fixed Agency doors not being broken down by entities
+-
+* fixed the endless derelict transition softlocking the game
+-
+* fixed [[M-22]] and [[M-60]] having 30 second timer spawns
+-
+* [[Shadow Challenge]] can now spawn in [[Section M]]
+
+==June 8, 2025==
+* [[Shadow Challenge]] will now only start spawning after 1200.
+-
+* fixed an unanchored parts issue
+
+==June 9, 2025==
+* [[D-35]] and [[D-35i]] got new despawn animations
+* The Torch of Divination got a new model
+* [[D-60i]] will no longer stall at the door if hes inside [[Red Rooms]]
+* [[A-85]] whisper sound was readded.
+* some changes to shadow entity sounds
+
+==June 10, 2025==
+* fixed the game softlocking at room 11
+* fixed a typo in room M-002
+* [[Oblivion]] now knows that [[A-135i]] exists
+* scanners correctly name [[A-135i]], [[M-22]] [[SHA-30]], and [[M-200]].
+* scanners now use the new nickname for [[D-35]] and [[D-35i]]
+
+==June 12, 2025==
+* fixed [[SHA-2]] spawning right at the door
+* [[SHA-55]] no longer spawns clipping inside the door
+
+==June 13, 2025==
+* [[SHA-120]] was introduced
+-
+* alot of a section alt rooms were added
+* new lab room was added
+* [[SHA-2]] can now spawn after [[SHA-3]] again
+
+==June 14, 2025==
+* fixed [[Section M]] softlocking every 60 rooms rooms
+-
+* fixed some turn rooms being able to make rooms generate into themselves
+* fixed [[A-200]] not smart-rebounding properly when the room generation is sideways
+* fixed [[Void|Voidwall]] being unable to kill you while hiding
+-
+* stamina changes
+* new room types were added
+* two new items were given original holders of the R:FF [https://www.roblox.com/badges/1856954486738491/666-666-666 Shadow Challenge badge]
+* fixed item giver bugs
+* turn rooms were temporarily disabled
+-
+* [[A-200]] now instantly rebounds when passing someone instead of waiting until he gets to the exit of the room behind
+* console players are now ableto skip oblivion lines
+===lobby Jimmy is now effectively useless===
+* no more slam sound
+* no more loud hiss from [[Jimmy]]
+* gives you a dumb message for being a little brat spamming the lockers
+
+
+==June 15, 2025==
+* [[Jimmy]]'s hiss is now attached to jumpscare audio SO the jumpscare audio setting affects him
+* [[A-135]] should no longer clip walls
+-
+* A new sky was added to [[Red Rooms]]
+* [[M-60]]s particles were remade
+-
+* [[M-60]]s particles were edited (again)
+* some changes and bug fixes were made to [[Section M]] [[Shadow Challenge]]
+* fixed [[Red Rooms]] sky always being active
+
+==June 18, 2025==
+* Fixed [[Void]] being unable to kill you
+-
+* fixed [[D-60i]] music not stopping if he's force despawned by room 500 or 1000
+-
+* fixed section teleports being extremely laggy (to the point of game crash)
+* fixed the section opening sound playing early)
+-
+* room M-750 was added
+* a new semi rare Maintenance room was added
+
+==June 19, 2025==
+* added a 1200 checkpoint to every section
+* m-section closed due to worries for performance issues, but also redesigned minorly
+-
+* [[Section M]] reopened
+
+==June 20, 2025==
+* fixed eco dispensor giving gummy
+
+==June 21, 2025==
+* made [[D-60i]] quieter
+
+==June 22, 2025==
+* made [[M-70]]'s "Fake Intercom" ambient a little easier to hear casually
+-
+* [[D-60]] + [[D-60i]] should get louder as they approach now
+* D-60i, when being despawned byrender inert (500 or 1000 or [[Mouth]]) shouldn't make his sound for like 10s after dissapearing
+* [[A-85]], [[A-85i]] and [[A-200]] pathing bugs fixed (don't need to touch the door before moving)
+* attempted to fix lockers being softlocked after a player dies in it?
+* fixed [[D-60i]] waiting at the door when just spawning
+* [[D-60i]] now paths to the main room after his countdown instead of just moving straight to the exit, which would let him clip walls
+* [[A-20]] + [[A-20i]] no longer need to touch the door before their despawn animation starts
+-
+* fixed [[A-20]] and [[A-20i]] instantly despawning
+* room 1500 is no longer required for 1200 checkpoint
+* fixed [[A-60]] never deloading when despawning in a portal blacklisted room
+
+==June 23, 2025==
+* removed duplicate items and other [[Items]] that were iust tiems but worse
+
+==June 24, 2025==
+* Fixed a bug with ████-60 where he would camp and never despawn
+* Fixed a bug with lockers where after you were respawned you could get randomly kicked out
+
+==June 26, 2025==
+* [[A-20i]] should become more common leading up to redrooms
+
+==June 28, 2025==
+* fixed all variants of the electrical burn autopsy referring to [[A-60]]
+-
+* completely fixed speed bug with limping animation
+* changed how static and screenshake work with the [[A-60]] despawn
+* made changes to [[D-60i]] music and sounds
+* [[D-60i]] when moving to the center of the room (eg for phase 2 start) is slower
+* fixed [[D-60i]] taking too long in red rooms when he's intended to move instantly
+-
+* fixed softlocks with the unnamed side rooms
+* fixed the [[Section D]] [[Unnamed Sector]] door having the old derelict look (ew)
+-
+* items when dropped no longer break
+* fixed inventory bug
+* cave doors when smashed by entities are instead ripped from the doorframe, this alsofixes the doors regularly getting stuck
+-
+* emergency patch: disabled [[Section M]] because every front entity causes a softlock
+** and also fixed the door prompts being shy and hiding behind the door
+
+==June 29, 2025==
+* [[A-135i]] is now a little smarter (go figure out what i did to him, lol)
+* fixed lag with NVCS and admin NVCS
+* specific entities when spawned in the [[Section D]] cave shouldn't spawn in the wrong position (Like [[D-120]])
+* [[D-55]] now gets faster everytime he checks a hiding spot
+-
+* fixed lag with entities when smashing doors
+* [[A-60]] is slightly slower when moving to the center of his room
+* fixed [[Void|V-90]] warning when playing normally
+* ACTUALLY fixed desync with hiding animations
+-
+* re-added [[A-200i]]* added auto-sync to the smug emote
+-
+* [[A-60]] and [[A-60i]] can now deal malicious damage upon sniping (it isnt much, dw)
+* nerfed [[D-60]] and [[M-60]] malicious damage by 10 each
+* [[Oblivion]] has been updated a little, looks nicer
+
+==July 2, 2025==
+* temp disabled the UR Prompts because they kept lagging the fuck out of the game, lmk if shit breaks
+* reverted proximity prompts ingame to their og state (game playable yay)
+* fixed like 15 path bugs with [[A-200]]
+* [[A-200i]] has blacklisted spawn rooms (like the bridge)
+* more tweaks to [[A-60]] despawn
+* changed [[A-60i]] sounds ([[A-60i]] is still not active.)
+* [[A-60]]'s close radio sound has no long delay anymore
+* [[A-60]] shouldn't suddenly dissapear when he despawns from far
+* new [???] entity redesigns
+* fixed [[D-35]] despawn in that one lab room
+
+==July 3, 2025==
+* added potato mode settings menu in lobby
+** removes all VFX
+*** removes all textures, excluding the floor
+-
+* added subtitles mode settings menu in lobby, explains itself in the settings menu 1 makes less important messages not appear, like the prompt to recharge your flashlight, 2 means that stuff like "Insanity sets in...' won't appear)
+* bug fixes to the silly new command
+* text dialogue cmd text is larger
+
+==July 4, 2025==
+* fixed the settings bug
+-
+* new emote
+==July 5, 2025==
+* added some stupid room somewhere between 160 and 200
+* shooting [[D-5]] too much can lead to.. issues the next time he appears
+* A-1000 room uses new [[Section A]] design (can we finish this redesign for next update)
+* also fixed the fuckass subtitles bug
+-
+* all sounds in new LOBBY servers for the lockers are now client sided
+-
+* fixed stupid door breakers softlock
+-
+* fixed fuckass anti-crash every 600 rooms, 500 if you teleported or was teleported by anti-crash previously) bugging entity pathing and spawns
+-
+* unlocked the game, despawn bug has been patched
+* also [[A-135i]] got his sound changed a lil to not sound exactly like [https://rooms-low-detailed.fandom.com/wiki/A-105 RLD A-105]
+** yes, i just pitched it down enough to the point it sounds different. ill fully change it later. shut up and let me be lazy for a bit
+
+==July 6, 2025==
+* fixed anti-crash completely (i tested it don't worry)
+-
+* fixed [[D-5]] always breaking the door
+-
+* new derelict rooms
+* renovated more A-section rooms
+* fixed a derelict room having the incorrect D-20 spawn locations
+-
+* fixed anticrash just killing you for no reason
+
+==July 7, 2025 "the funny ass update"==
+* Updated the lobby (go walk you idiots)
+* Renovated the entire [[Section A]]
+* [[D-60i]] has static when charging
+* [[D-60i]] explosions get faster each time he explodes during despawns
+* fixed an issue with [[A-60]] static not dissapearing fast enough in Red Rooms
+* [[A-135]] pathing fixes(?)
+* [[A-200]] pathing fixes (0 clipping or any other bugs FUCKING FINALLY AFTER LIKE 5 PATH FIXES!!!
+* Are we readding A-60i!!!!
+* More Derelict rooms
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* Bug fixes 
+* OTHER THINGS I FORGOT
+* added an update screen oh dancing kev
+* ahem ahem
+* readded [[A-60i]]
+===Post Update===
+* [[A-60]] is now almost 2x faster by default because COMPLAINTS.
+-
+* fixed AD-STR
+* changed the artifact drop ambient
+* added an indicator to the legacy game showing that its in the legacy build
+
+==July 9, 2025==
+* added more stupid emotes
+* changed [[D-60i]] countdown
+* changed [[D-60]] and [[D-60i]] rebound sounds for sm reason
+-
+* fixed the 1200 checkpoint
+
+==July 11, 2025==
+* entities shouldn't randomly pause at times
+* ragdolls are less cursed
+
+==July 12, 2025==
+* fixed [[D-55]] having favourite cabinets
+* fixed the lobby(?)
+===holy shit actual game optimizations????===
+* props now deload after 15 rooms in an effort to retain fps
+* sc changes
+* i do believe the endless cave transitions are optional now, if only partially, id have to check
+-
+* any room behind the [[Void|voidwall]] has it's lockers and props removed (everything runs faster, likesection teleports take 2 seconds :>)
+* disabled anticrash because [[GOD-200]] IS STRIKING DOWN EVERYONE
+* misc other things, such as:
+** fixed an old door moment in depth
+** fixed A-899 having old shelves
+-
+* redesigned [[A-200]], [[A-200i]] and [[SHA-200]]
+* also if you die in a solo run, hold K (or tap on mobile, B button on consoles or whatevs) for seconds after reaching the end of the text to enter a new run straight away, in multi player runs there should be a vote to join another run thing which i made lazily hahahaha So funny AAAAAAAAAAAAAAA
+
+==July 14, 2025==
+* you now get a speed boost for slamming your locker open for a short while
+
+==July 16, 2025 "how many stupid updates do you people need?"==
+* redesigned [[M-120]] and [[M-200]]
+* slight SPAWN terminal changes
+* changed [[A-20i]]'s spawn sound
+* flashlight battery bar changes
+* [[A-60]] now has 8 different radio chatter sounds that it can randomly pick from
+* chaos mode is in testing and should hopefully be added later today
+===Post Update===
+* added ChaosMode elevator in the question mark lobby zone
+
+==July 17, 2025==
+* [[A-85i]] pointlight fades out after he hits a door
+* [[A-85i]] pointlight range increases and decreases when you validate a rebound
+* [[A-85i]] pointlight range increases while hes charging up again
+* [[A-85i]] pointlight flickers when he screams (3rd rebound success)
+* hopefully fixed bugs with [[SHA-1]],[[SHA-2]] and [[SHA-3]]
+-
+* removed the [[A-60]] chatter sound that was 3/4 static and replaced it with the OG [[A-60]] radio sound. aka the one before his 'multi-chatter" update but sped up again)
+-
+* fixed a notifier when modifiers are enabled not showing up
+* quick entering a new game now (hopefully) saves the modifiers you had on
+
+==July 19, 2025==
+* hopefully fixed the gun models
+* made every default flashlight radius 40 studs over previous 45/55/60
+-
+* fixed [[M-120]] and [[D-55]] spawns in Chaos Mode
+* every shadow entity can spawn in Chaos Mode now
+** (excluding [[SHA-3]] that would be impossible)
+* also changed how [[SHA-85]] works. have fun he gets a little pissed if you win
+-
+* fixed problems with doors sometimes not moving when smashed down
+* attempted to fix Begin New Game button
+* fixed :printroom not existing for some reason
+
+==July 26, 2025 "The stupid update because we haven't updated in like 2 weeks or something!!"==
+* [[Section A]]:
+** [[A-60]] radio 6 sound changed
+** [[A-60]] now has a special interaction with guns
+** [[A-85]] has 2 gun interactions
+* [[Section D]]:
+** [[D-140]] when starting to rush gives intense screen-shake for a short amount of time
+** Increased item spawns in the cave (long last)
+** Fixed a major issue where [[D-60i]] in phase 2 would soft-lock doors
+** Redesigned [[D-35]] and [[D-35i]], thank you @wawaman_real for your designs!
+* [[Section M]]:
+** Added M-340 unique room
+** Added [[M-150]] (fear)
+** [[M-200]] has a special interaction with guns
+** A new flashlight can now spawn in this section 
+* other shit:
+* Removed locker [[Jimmy]] 
+* Fixed a few soft-locks 
+* Moved "Join New Game" voteGUI to the autopsy screen instead of spectate GUI (please tell me if voting is still broken., kthx)
+* Fixed spectate GUI 
+* Fixed the iniured animations 
+* [[Oblivion]] shouldn't be bleeding out anymore if you died in the Red Rooms
+* If any door gets stuck, it should after a delay of 4 seconds, starting afterevery player is no longer in hiding
+* Hopefully stopped doors from bugging??
+** ..though anti cheat above should help if it happens
+===THE MODIFIER UPDATE===
+* Added [[Modifiers]]:
+* Chaos mode (already existed, now on the Modifier Panel) 
+* [[Legacy Mode]] (same situation as Chaos mode)
+* Endless Red rooms
+* Need for speed 
+* [[Alpha & Shadowpocalypse]]
+* Please suggest more! More modifiers makes the game a more enjoyable experience! Hopefully..
+* Thanks to [[M-340]] for creating the modifier panel. your efforts are appreciated.
+* Removed Herobrine
+** (sorry guys, I know you would have loved to see his 1 in 15k chance while it lasted)
+* added a setting that stops your server from being affected by Global Spawn Sunday
+* [[D-200]] was also redesigned by @Collese, (hii)
+===Post update patches===
+* fixed tac light
+* fixed custom lobbies
+* fixed custom lobbies not being removed
+===more patches===
+* fixed [[A-85]] with guns
+* [[A-60]] new gun mechanic changed a lil
+===post update patch the second:===
+* fixed [[M-150]] not spawning at all
+* slightly buffed [[M-150]]s spawn chance
+
+==July 27, 2025==
+* fixed legacy modifier not doing shit
+-
+* spectate shouldn't be bricked anymore
+-
+* a few updates to [[Endellion]]
+* added [[Goober-200]] in the library :)
+
+==July 28, 2025==
+* added 4 more [[Modifiers]]
+* and fixed [[A-200]] pathing being shitty again
+-
+* the lobby templates in the join custom lobby UI now show player count as intended
+** regular lobbies now show
+-
+* fixed begin new game button
+** and fixed [[SHA-60]] bs
+-
+* fixed doors slamming randomly (door slam cd wouldn't reset properly in specific situations)
+* LightsOut and LightsOn mods can't be used at the same time
+* LightsOut now overrides EVERYTHING even [[Shadow Challenge]] and [[Red Rooms]]
+* Endless Red Rooms shouldn't spawn entities in the lobby anymore
+* LightsOut now also affects the lobby
+
+==July 31, 2025==
+* cabinets now instantly break if you lockerslam them
+** (exit specifically)
+
+==August 3,  2025==
+* small hotfix because stupid (and the main update is not ready yet)
+* fixed shitter-55 softlocking and added a new setting as a side effect
+
+==August 6,  2025 "aaaaaaaaaa mini update full of stupidity"==
+* overhauled the entire loading screen
+* [[SHA-3]] and [[SHA-180]] have been unleashed into [[Alpha & Shadowpocalypse]] 
+* [[Mouth]] has been [[SHA-300|infected]] by the shadows. ([[Alpha & Shadowpocalypse]] exclusive)
+* some random small changes
+
+==August 7, 2025 "balancing shit"==
+* [[SHA-3]] has been murdered from chaos mode
+* [[SHA-3]] can now only spawn solo in [[Alpha & Shadowpocalypse]] to avoid impossible combos
+* removed herobrine
+* i prob forgot something
+-
+* fixed multiple bugs across [[True Legacy Mode]] and [[Open Beta Mode]]
+
+==August 8, 2025==
+* [[Super Epic Mode]] modifier was added
+-
+* fixed SEM mode softlock
+** (the baseplate wasnt deleting itself)
+
+==August 17,  2025 "Hey who's that outside my locke- AAAAAAAAAAAAAAAAAAAAAAAAAA"==
+* Starring [[Striketeam Solstice]]!
+===BUG FIXES===
+* Resolved a glitch with [[SHA-85]] where he would be softlocked upon summoning [[SHA-200]]
+* Fixed being able to have temporary god-mode using cabinet locker slamming (gyly monster moment)
+* [[D-140]]'s issues are still not resolved. More testing necessary (get at it testers)
+===ENTITY CHANGES===
+* [[SHA-200]] will stick to your locker while locker breaching you 
+* [[SHA-200]] was made ~1.4x louder 
+* Redesigned [[SHA-200]] (we forgot for a long time)
+* Sliahtly increased [[D-140]]'s screen shake (woah bia deal)!!! 
+* Made [[A-60]] slightly more redder (trust) 
+* Redesigned [[D-60]] (by Raptor) 
+* Redesigned [[M-70]] 
+* Redesigned [[D-140]] 
+* Changed the way [[A-85i]] spawns in (this accidentally led to him spawning MUCH more, this is already fixed so don't worry)
+===OTHER ADDITIONS===
+* Re-animated everything to do with hiding animations
+* Gave the HoD a kil animation (which is slightly buggy if you and the target are moving, my bad
+* Slightly nerfed the HoD damage output to character packages 
+* Main locker breach music changed to [https://youtu.be/1-M8u3recTo?si=QOBOlh5EuPQKgNNr Escalation]
+* (IF KEV WAS STUPID) Added the [[D-200|D-200 boss-fight]], otherwise be patient my rffians
+* Added the '''Experimental''' and '''Radiant E.''' Flashlights as rewards for '''"the invasion"'''
+* Placed functional cabinets into the Derelict Lab rooms 
+* Updated some models within the sections
+* Re-added the '''"original"''' A-899 and D-899 rooms
+* The [[Section Executive Invasion Event|Executive Invasion]] has begun
+* a bunch of other things, we forgot
+* removed herobrine, again 
+* ERROR 404: ? [[M-60i|UNKNOWN ANOMALY]] DETECTED WITHIN THE M SECTOR
+-
+* "hey yeah so kev was stupid enjoy [[D-200#Boss_fight|D-200 boss]] early"
+** "will be removed, btw"
+*** "it has been removed"
+
+==August 20, 2025==
+* small patch
+* sped up the locker animations they were slow for some reason 
+* injured animations shouldn't be ass to play with anymore 
+* [[A-60]] DPS isnt sucky anymore when hes despawning 
+* [[A-20i]] is never guaranteed.
+* Fixed [[M-150]] spawning in rooms where you couldn't see him until it was already over for you
+
+==August 22,  2025==
+* miniscule patch (this was meant to happen with the modifier update but its become apparent that it was deleted before modifier update was publishedsomehow)
+* the [[Shadow Challenge]] will never spawn if you beat it previously in renovated
+* also added 4 new room types across the sections
+
+==August 29, 2025==
+* actually fixed the locker animations
+* additionally fixed [[SHA-3]] bugging in rooms like 750, forgot who reported that one
+
+==August 31,  2025==
+* fixed flashlight animations glitching when held during flashlight dispensor interaction
+* fixed heart of darkness crouch animation glitch, and removed the kill animation
+* fixed the lobby gui and [[Claustrophobia]] sounds/visuals* maybe fixed the intense lag when playing [[Section D]]
+
+==September 3, 2025==
+* nerfed [[M-150]] idk what kev did but that was too evil speed reduced to roughly what it was before
+* no more lethal locker snipe
+* can no longer Spawn with [https://official-rooms-found-footage-renovated.fandom.com/wiki/M-120#A-60 60-A] or [[M-60]] active
+* at the cost of [[M-150]] is fast as FUCK in [[Red Rooms]]
+* reduced [[M-150]] dps to 145 instead of 175 removed his 350 dps in [[Red Rooms]]
+
+==September 5, 2025==
+* patched revolver doing 120 damage headshot for some fuckass reason
+* fixed revolver description
+* [[M-120]] does 10 dps lockersnipe
+* you can now shoot [[M-22]] to make him immediately fallback
+
+==September 7, 2025==
+* corrected [[Alpha & Shadowpocalypse]] not giving the [[Shadow Challenge]] rewards
+
+==September 12, 2025==
+* fixed [[True Legacy Mode]] loading screen taking 6.66 years
+* [[True Legacy Mode]] death correctly teleports u to the lobby
+===5 Days Remain===
+* [[E-10]] and [[E-60]] are beginning to get restless. Spawn rates decreased to 1/2000.
+
+==September 13, 2025==
+* Fixed [[M-150]] spawning once every 2 years
+
+==September 14, 2025 "5 Days Remain."==
+[[E-10]] and [[E-60]] continue persisting. Spawn rates decreased to 1/1750
+
+==September 15, 2025==
+* added a silly into the in-game [[Section A]] lobby, interacting allows the [[Shadow Challenge]] to spawn if everyone in the server has [https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666 badge]
+* also fixed [[D-140]] (and other locker checkers) softlocking randomly
+
+==September 16, 2025==
+* [[E-10]] and [[E-60]] were made a bit rarer due to the invasion being extended by 3 days
+* fixed HoD hitbox being ass (i think weapons shouldn't bug you out ever-so-often anymore)
+
+==September 18, 2025==
+==="Dawn of the last day."===
+* All attempts to contain [[E-10]] and [[E-60]] again have failed, they seem to be getting more aggressive after every attempt. Spawn rates decreased to 1/1600
+-
+* fixed derelict lag(hopefully)
+==September 20, 2025==
+===Final 4 Hours.===
+* Containment process has been starting to show positive results, the two idiots should be contained again shortly. (Spawn rates dropped to 1/1500, new servers only)
+===FINAL HOUR.===
+* Containment process is continuing to show positive results, the two idiots were nearly contained twice by now but keep escaping last second. (Spawn rates dropped to 1/1350, new servers only)
+===WHAT THE FUCK!===
+* [[E-10]] and [[E-60]] are actually going insane holy shit.
+** (Spawn rates dropped to 1/690, new servers only)
+-
+* [[E-10]] and [[E-60]] can no longer spawn
+
+==September 24, 2025==
+* published [[D-140]] softlock fix due to multiple instances of bug abuse
+-
+* maybe fixed V not doing anything
+
+==September 26, 2025==
+* you will automatically slam any dooropened while sprinting under the adrenaline effect (unsure if you still have to press e)
+* regardless of sprint, every hiding spot entry and exit will automatically be rushed under the adrenaline effect
+
+==September 27, 2025==
+* the [[Shadow Challenge]] can no longer trigger during [[A-85i]] [[D-60i]]. [[D-5i]] and [[M-120i]] (whenever he's added)
+** if [[Shadow Challenge|SC]] stalls for more than 150s then it just despawns [[Shadow Challenge|SC]] instead
+*** shhh guys don't tell anyone that makes it a 1 in 333 if that happens as compensation shhhhh
+* gave HoD a temporarv reskin for now
+* also fixed V-Booster having misinfo in it's description
+
+==September 29, 2025==
+* removed an item that wasnt supposed to be in live build yet
+
+==September 30, 2025==
+* fixed [[D-140]]
+
+==October 1, 2025==
+* fixed [[D-140]] despawn sound playing twice (this is kev's fault for not removing PlayOnRemove)
+
+==October 4, 2025==
+* fixed settings not saving
+* fixed jumpscare visuals setting being in... audio settings for some reason
+
+==October 5, 2025==
+*temporarily changed [[M-22]]'s playsound [[E-30]]'s until further notice
+
+==October 9, 2025 "Random Bullshit, GO!"==
+* Spookified [[Jimmy]] and [[D-200]], i got bored, shut
+* added.. a [[False-60|new entity?]] wait who the hell is this guy?
+===Post Update===
+* fixed [[D-200]] not disabling claustro
+
+==October 10, 2025==
+* new [[M-22]] design and sounds
+
+==October 15, 2025 "Redesigns Galore (and more random stuff)"==
+* as compliance to the removal request from a bit ago, [[A-20]], [[A-20i]], [[A-85i]], [[D-35]], [[D-35i]], [[D-60i]], and [[Mouth]] have been redesigned
+* also dragged along a new [[D-200]] design because why tf not
+* fixed [[D-200]] not properly registering on scanners
+* changes to the loading screen and [[Section A]] for the spooky month
+* new ambient during the [[Section M]] blackout (M-500 through M-900)
+===EMERGENCY PATCH===
+* fixed [[D-35]] and [[D-35i]] softlocking themselves in their despawn animation
+
+==October 24, 2025 "UNNAMED DEMO"==
+* Unlocked the doors. you can now access a demo of the [[Unnamed Sector]]. Limited time, go crazy.
+
+==November 10, 2025 "Post Spooky Demo (whole lotta shit)"==
+* [[Unnamed Sector]] demo has ended
+* No more spooky
+* Redesigned [[A-20]], [[A-20i]], [[A-60]], [[A-60i]], and [[SHA-35]]
+* Replaced the damage sound (mf roblox moderation)
+* Fixed entity softlocks at A-750
+===holy grail of SC A&SP changes===
+* [[SHA-140|New Entity]]: Originally was meant to be used for the halloween event. but that never ended up happening, so have fun 
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse A&SP badge] holders now have the Shadow Shakelight and Shadow Orb
+* [[Alpha & Shadowpocalypse|A&SP]] now has faint purple lights 
+* Released [[SHA-35]] and [[SHA-55]] into [[Shadow Challenge|SC]] :troll;
+* Fixed [[SHA-30]] only being noticeable through its door opening text (and updated its text)
+* Revoked [[SHA-1]]'s ability to hack (he now pathfinds to the previous room instead of going right to the next locker. should fix him being able to clip through walls) 
+* New animation for [[SHA-35]]
+* THE MOMENT YOU ALL HAVE BEEN WAITING FOR: NERFED [[SHA-35]]. Speed slightly increased and he now goes back less rooms, causing him to despawn a lot quicker
+===Post Update===
+* fixed the loading screen, [[D-200]], and [[Jimmy]] still being spooky
+
+==November 25, 2025==
+* revived the SC announcer thing, roblox moderation fucking sucks
+
+==December 19, 2025==
+* [[Super Epic Mode]] updated
+* Changes:
+* [[D-35ii]] recoded (the only change you may notice is the warning mechanic) 
+* [[Pipe Bomb]] is now in [[Super Epic Mode]]. This means [[Cherry Bomb]] is now removed
+* fixed [[UI-220]] being silent.
+
+==December 20, 2025==
+* fixed the "youre in my way' [[Modifiers|Modifier]]. [[D-20]] is now unkillable
+
+==December 28, 2025 "yeah, more uselessness"==
+* funny BLUE lobby lights for the winter season. Yes, a bit late, i know, shut up 
+* after a good 4 or so months of it being there but never working, finally added badge equipping
+* new badge. [https://www.roblox.com/badges/2106297071924256/Agency "Agency"] is given upon joining the game and serves no purpose other than being a badge for the display to default to
+* funny chat tags for the people with cool names
+* re-added the [[Section A]] [[Unnamed Sector]] entrance room. not like it changes anything, the door is still locked
+* ugc ucg prism.
+* removed herobrine (hopefully fr this time)
+===Post Update===
+* A bug where the players could use the :Directspawn command in [[Legacy Mode]], [[True Legacy Mode]], and [[Super Epic Mode]] was fixed
+
+==January 23, 2026==
+* Fixed LightsOn and LightsOut not doing anything
+
+==January 25, 2026==
+* Fixed The [[Shadow Challenge]] badge not being awarded sometimes
+
+==February 3, 2026==
+* fixed a bug with [[A-135]] where he'd softlock your run when spawning in room 750
+
+==February 10, 2026 "i hope i didnt publish something i shouldn't have"==
+* fixed a typo relating to [[Alpha & Shadowpocalypse|shadowpocalypse]]
+* fixed double [[SHA-200]] happening in room 666 rarely
+
+==February 11, 2026 "Thank you for 500,000 visits"==
+* revamped the entire lobby outside
+* who lotta new lobby stuff
+* new thing in the lobby that i think you all have been waiting long enough for.
+===Post Update===
+* The option for 1st person was added to the lobby
+
+==February 12, 2026==
+* [[Oblivion]] wouldn't appear after the player died, this was intentional
+** This was done leading up to Friday the 13th, which was the next day
+
+==February 13, 2026==
+* new animations
+* Fixed a bug where your speed wouldn't go down to 0.9 when injured
+===[[Perfection Event 2/13/26|Set Us Free]]===
+* [[Shadow Challenge]] is now a 1/333 chance for a limited time
+* "Perfected multiple new entities." ([[SHA-4]], [[SHA-7]], [[SHA-22]], [[SHA-150]], and  [[LAPSE-1]]). 
+** "[[E-10i|One of these entities may have been... something... and refused our perfection but gained our power.]] Alert us if you find this being, we must retract their power as soon as possible."
+* Redesigned [[SHA-140]], [[SHA-180]], and [[SHA-200]].
+* [[E-10]] and [[E-60]] were set free, being able to invade [[Section A]], [[Section D]],  and [[Section M]]
+* Fixed [[M-60i]] only checking rooms with players
+
+==February 14, 2026==
+* fixed a bug with the [[SHA-1]](s) that would make him path to the door twice.
+-
+* Redesigned [[SHA-55]]
+* [[SHA-22]] can no longer deal shadow plague inside lockers
+* Made [[SHA-120]]'s trail a bit more visible
+* Fixed multiple [[SHA-7]]s spawning, now there can only be 1 active at a time
+-
+* [[Section M]] is now enabled in [[Alpha & Shadowpocalypse|A&SP]]
+* the [[Overseer]] will attack less, and now only attacks after door 1200
+
+==February 14, 2026==
+* fixed a stupid where having unlockable flashlights in the main build didn't award them in the legacy versions
+
+==February 23, 2026 "Containment"==
+* [[Perfection Event 2/13/26]] ended, meaning:
+** The [[Shadow Challenge]] is back to being 1/666
+** The [[Overseer]] no longer replaces [[Oblivion]] once you die.
+** [[Oblivion]] now marks a lockers when [[M-60]] and [[M-60i]] spawn.
+** The entities from the [[Alpha & Shadowpocalypse]] now are back to having a rare chance of invading your run, and not uncommon.
+** [[E-10]] and [[E-60]] were recontained
+** [[Overseer|SHA-0]] is now exclusive to the [[Alpha & Shadowpocalypse]],  and may spawn after door 750.
+
+==February 28, 2026==
+* Fixed [[M-120]]'s [[M-120#A-135|135-A]] and [[M-120#D-55|55-D]] mimics not killing you when finding you in a locker.
+
+==March 6, 2026==
+* Temporarily replaced [[D-35]]'s jumpscare audio with the ignited bonnie jumpscare
+* Fixed the side menu not working for console players
+
+==March 10, 2026==
+* changed the description of the '''Heart of Darkness''', '''Shadow Shakelight''', and the '''Shadow Orb'''.
+
+==March 13, 2026==
+* [[D-35]] and [[D-35i]] don't softlock you anymore when you die in a Legacy Mode
+===[[Perfection Event 3/13/26|Can’t Keep Us Away Forever]]===
+* [[Shadow Challenge]] is now a 1/333 chance for a limited time
+* [[E-10]] and [[E-60]] were set free, being able to invade [[Section A]], [[Section D]],  and [[Section M]]
+* 2 new friends are joining us this time([[LAPSE-2]] and [[LAPSE-200]]), with more to come down the line!
+
+==March 15, 2026==
+* Spectate mode now has light around the player you are spectating 
+* console locker breach cursor now moves twice as fast
+
+==March 16, 2026 [[Perfection Event 3/13/26|“Thought We Were Stopping Here?”]]==
+* 2 new friends have now joined us. 
+* Changes to a few entities
+
+==March 24, 2026==
+* [[Perfection Event 3/13/26]] ended, meaning:
+** The [[Shadow Challenge]] is back to being 1/666
+** The [[Overseer]] no longer replaces [[Oblivion]] once you die.
+** [[Oblivion]] now marks a lockers when [[M-60]] and [[M-60i]] spawn.
+** The entities from the [[Alpha & Shadowpocalypse]] now are back to having a rare chance of invading your run, and not uncommon.
+** [[E-10]] and [[E-60]] were recontained
+
+==April 1, 2026 "UPDAET EXECUTIV"==
+* [[April Fools 2026]] Event Started
+
+==April 7, 2026 ==
+* [[April Fools 2026]] Event Ended
+
+==April 18, 2026==
+* changed clock tower to actually say we are going into maintenance for UE instead of just dropping it right then and there
+* fixed an invisible wall being missing in lobby
+
+==April 22, 2026==
+* Removed progress saving in the [[April Fools 2026]] Modifier
+
+==May 16, 2026 "Update Executive"==
+===New Sections===
+* Added [[Unnamed Sector]] and [[Section E]]
+
+===Section Changes===
+====[[Section A]]====
+* Few small tweaks
+* New rooms
+* [[A-20]] tutorial room now randomly spawns
+* [[A-60]] no longer spawns [[A-60i]] if shot
+* [[A-85]] has a karma mechanic
+* Added [[A-120]]
+* Redesigned and changed [[A-135]] a bit
+
+====[[Section D]]====
+* Few new rooms between both Depth and Derelict
+* [[D-5]] tutorial room now randomly spawns
+* "Doctors Lab" has been re-added as an ambience to endless more Derelict
+* Added [[D-55i]], [[D-175]], and [[D-250]]
+* New soundtrack and a few tweaks to [[D-60i]]
+* [[D-200]] boss has been added
+* [[D-5i]] can now be outraged
+* [[D-120]] can now be shot
+* [[D-140]] can now be shot to delay him from rushing by a bit
+
+====[[Section M]]====
+* Overhauled the entire sections room design
+* Removed the I Section lighting system
+* Added 2 new subsections. Flooded rooms can now be found in endless mode, and Mini change can be found in both endless mode and from M-300 to M-380 for the upcoming boss fight, and might show up again some time later
+* Small tweaks to error doors
+* Added [[M-22i]]
+* [[M-60]] can now check multiple lockers
+* [[M-120]] when mimicking [[D-20]] can now be "killed"
+* [[M-150]] now moves faster
+* [[M-200]] has a unique design when it has been shot enough
+* [[M-60i]] has received not only a redesign but an entire visual overhaul
+* Redesigned [[M-70]], [[M-120]], and [[M-200]]
+
+====Misc Entities====
+* New design for [[Void]] and V-90 hit effect
+
+====Global Entity Changes====
+* [[Red Rooms]] timer entities will stop breaking doors if progression isn't made
+* Locker checker entities will now pathfind to lockers when they are about to check them, making it so they no longer clip through walls
+* New... entities? Or not entities, have been spotted past room 1200 in any section
+
+===Other Things===
+* Few new items have been added
+* The "Color Module" gamepass has been added
+* After room 5000 in every section, the lights will begin to flicker off and never turn back on
+* Good number of new [[Modifiers]], ranging from giving you more speed or regeneration to putting you on a time limit throughout the rooms or making ever bit of damage turn into malicious damage
+* Some [[Modifiers]] are now locked behind badges
+* [[Modifiers]] that give positive effects now disable progress from being given
+* World Records have been reset back down to 1000 in every section
+-
+===Post Update Patch 1===
+* Fixed [[Unnamed Sector]] BREAKING the game
+* [[Unnamed Sector]] checkpoint now requires a badge
+* You now need to escape the [[Unnamed Sector]] to be eligible to receive the keycard
+* Fixed [[E-90]] softlocking players
+-
+===Post Update Patch 2===
+* Reverted The Perfectionist's new model due to it being visually buggy
+* [[Unnamed Sector]] checkpoint now works
+* [[Execution]]'s computer now emits light, this should make his arrival more obvious
+
+==May 21, 2026==
+===Post patch update something or other===
+* Fixed [[Red Rooms]] contrast bug
+* [[D-5i]] softlock shouldn't exist anymore
+
+==June 4, 2026==
+===Post-Executive Patch 1===
+====[[Section A]] Changes====
+* [[A-120]] should rebound less on average
+* ([[Modifiers|II Hate This]]) [[A-20ii]] changes the appearance of the locker it breaks.
+* New rooms
+====[[Section D]] changes====
+* [[D-175]] has been fixed and added to the game
+* Lights in Derelict past D-500 should be fixed
+* ([[Modifiers|II Hate This]]) [[D-55ii]] now has a fire trail. Suffer.
+====[[Section M]] changes====
+* [[M-70]] has a new kill sound and a got a few fixes
+* [[M-120]]'s main form DPS has been buffed and has gained a DPS locker snipe
+* [[M-150]] will always be blue if [[M-22]] ([[Red Rooms]] only), [[M-60]], [[M-120]] are active, or if there are broken blue lockers up to 2 rooms back.
+* [[M-134]], [[M-200]] and [[Mouth]] can no longer spawn in flooded rooms
+* [[M-22i]] will not break the door if [[M-70]] is active.
+====[[Unnamed Sector]] changes====
+* [[Mori]] should now be the most common entity. [[Mori]] variants and alt variants have cooldowns, which decrease in value each [[Mori]] spawn.
+* Nerfed [[False-60]]. He only rebounds if you're past door 75, his earliest special mechanic can be triggered past room 400, and his infamous camping mechanic only happens past room 500.
+* Nerfed V-Booster and AD-STR's spawn weight.
+* [[False-200]]'s pathfinding should no longer break at times.
+* [[False-120]] cant have any other entities spawn when initially flickering the lights outside of [[Red Rooms]]
+* [[False-200]] and [[Execution]] can no longer spawn on the same door
+** In return, [[Execution]] will wait less time before attacking in [[Red Rooms]]
+* [[Mouth|False-300]]'s chase has a better ending and chase music is no longer listed as music in the game files so it can't be muted
+* Keycard in the [[Unnamed Sector]] gets more common the further you go
+* Removed a few items from the [[Unnamed Sector]] item pool, essentially making the keycard more common from the start
+====[[Section E]] changes====
+* [[E-30i]] now rebounds back when breaking a door and has static
+* Final anti-softlock updates for [[E-90]], hopefully.
+* Nerfed [[E-120]], he only checks lockers if a player starts hiding near him instead of checking anyone who was already hiding too close to him
+* Nerfed [[E-200]]'s kill radius from 42 to 36 studs.
+* Gave [[E-90]] and [[E-245]] timers in [[Red Rooms]].
+* Fixed the E-1000 badge not being awarded
+* Nerfed [[E-10i]], no longer annoying in [[Red Rooms]]
+* Disabled [[E-245]] dodge roll mechanic in red rooms
+* [[E-245]] bugfixes
+====Miscellaneous Changes====
+* [[Void|V-90]]'s movement detection system changes when you're swimming now to specifically to accommodate for flooded rooms
+* Updated swimming system a bit, should no longer force you to go up and makes swimming overall a lot better (hopefully)
+-
+* Fixed the [[Unnamed Sector]] Banning the player upon entering, and hopefully unbanned everyone affected.
+
+
+<br><br><br><br><br>
+{{BrowseNavBox}}
+[[Category:Browsing]]

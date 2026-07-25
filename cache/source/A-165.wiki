@@ -1,0 +1,36 @@
+{{DISPLAYTITLE:A-165 (???)}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Scrapped|reason=<br>1: "The concept given was just [[E-45]] but worse"<br>2: "Felt Unnecessary"}}
+{{InfoBox:Entity
+|entity_name=A-165
+|entity_image=A165.png
+|previous_entity=[[A-135]]<br>[[A-135i]]
+|next_entity=[[A-200]]<br>[[A-200i]]
+|nicknames=???
+|appears_at=
+|type=Stationary
+|locker_snipe=
+|claustrophobia=
+|behavior=Will spawn in a random locker, taking some stamina from the player if they try to hide in it
+|speed=Stationary
+|gun_effect=None
+|damage=None
+|related_monsters=[[D-175]]<br>[[M-134]]<br>[[E-45]]
+}}
+
+==Description==
+'''A-165''' is currently the only scrapped entity from [[Section A]]
+
+==Mechanics==
+'''A-165''' once spawned would have placed itself inside a random locker and take stamina away from anyone who tried to hide in the locker it was in.
+
+== Trivia ==
+
+* The design was made all the way back in December
+* The design's file name is stoic in Collese's (the designers) folders
+** meaning this design was going to be used for a game Collese was making, its unknown what became of that game. 
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Section A]]

@@ -1,0 +1,120 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px green, -1.5px 0.66px 2px Lime; color:Lime;">M-60（仲裁者）</span>}}
+<tabber>
+|-|M区=
+{{NoteBox|note=请勿与《Rooms Re-Established》中的M-60混淆}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:M-60Title.png|frameless|link=M-60]]
+|entity_image=<gallery>
+M60 1.png|表情1
+M60 2.png|表情2
+M60 3.png|表情3
+M60 4.png|表情4
+M60 5.png|表情5
+</gallery>
+|previous_entity=[[M-22]]<br>[[M-22i]]
+|next_entity=[[M-60i]]<br>[[M-70]]
+|nicknames=多面轮盘、仲裁者
+|appears_at=M-060+
+|locker_snipe=是
+|gun_effect=无
+|claustrophobia=否（会延迟触发）
+|type=冲刺者<br>
+柜子检查者
+|behavior=从后方冲刺，抵达当前房间后会检查该房间内一个随机的躲藏点。
+|speed=约8.8个房间/秒（快 - 极快）
+|damage=秒杀（柜击造成85点伤害）（柜击造成30点MAL伤害）
+|related_monsters=[[A-60]]<br>[[M-60i]]
+|badges=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here 你该出现在这里吗？] '''已不可获取'''
+|sound1=<center>柜子被标记为Ⅹ</center><center>[[File:OblivionX.mp3]]</center>
+|sound2=<center>远处音效 '''非原档复刻'''</center><center>[[File:M60Far.mp3]]</center>
+|sound3=<center>近处音效</center><center>[[File:M60near.mp3]]</center>
+|sound4=<center>[[Legacy Mode|Legacy Mode（旧版模式）]]下的近处音效</center><center>[[File:LegacyI60Near.mp3]]</center>
+|sound5=<center>破门音效</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound6=<center>跳杀音效</center><center>[[File:M-60Scare.wav]]</center>}}
+
+<h2> 描述 </h2>
+'''M-60'''是你在[[Section M|M区]]会遇到的第2个实体。
+
+<h2> 行为 </h2>
+当'''M-60'''生成时，[[Oblivion]]会用红色“Ⅹ”标记主房间内的一个或多个随机柜子，代表'''M-60'''会检查这些柜子。柜子被标记数秒后，'''M-60'''会以与[[A-60]]相近的速度冲向主房间。撞到门时，'''M-60'''有概率将门摧毁，这可能会生成一只[[Section M|M区]]的实体。撞门或破门后，'''M-60'''会前往所有被标记的柜子进行检查，全部检查完成后立刻消失。
+
+<h2> 应对策略与技巧 </h2>
+* 应对'''M-60'''并不难，只要躲在没有被标记的柜子里或者上一个房间就能存活。
+* 不要推进得太快。'''M-60'''生成后可能需要稍等一段时间才会抵达，但如果你因为遇到[[M-120]]需要躲进蓝色柜子时，那个蓝色柜子可能刚好被标记，你就会被'''M-60'''杀死；如果[[M-120]]模仿的是[[A-135]]或[[D-55]]，你也可能会被[[M-120]]杀死。
+* 如果[[Oblivion]]没有出现，尽可能躲在上一个房间是最优选择。
+
+<h2> 冷知识 </h2>
+* '''M-60'''是少数会检查柜子的''多面实体（Multimonsters）''之一。目前仅有'''M-60'''、[[M-60i]]和[[D-140i]]属于会检查/破坏柜子的正统''多面实体（Multimonsters）''（[[D-60i]]在第二阶段会破坏柜子，但它不属于柜子检查者，因此不算在内）。
+* '''M-60'''现在可以检查桌子，机制与A-60相同（先尝试命中，若玩家在视线内则直接杀死）。但它的素数变体[[M-60i|调停者（Mediator）]]仍然无法检查桌子。因此必要时你可以将桌子作为躲藏点，不会被该实体发现。
+* '''M-60'''有极低概率检查前<nowiki/>一个房间内的柜子（若主房间内几乎没有各种柜子，触发该行为的概率会更高）。
+* Perfection Events（完美事件）期间，各种柜子不会被[[Oblivion]]标记，因为该事件中[[Overseer]]会替代它执行相关工作。
+
+== 画廊 ==
+<gallery>
+File:M-60 scary.gif|跳杀
+M-60 checking a locker.png|在柜子外被目击的'''M-60'''
+M-60 checking a locker 2.png|同上
+OblivionX.jpg|正在标记'''M-60'''打算检查的柜子的[[Oblivion]]
+</gallery>
+
+|-|UI区=
+'''UI区：'''
+{{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-60
+|entity_image=<gallery>
+Oldi60animation.gif|动画还原
+I-601.webp|第一幅面孔
+I-602.webp|第二幅面孔
+I-603.webp|第三幅面孔
+UI-60Jumpscare.png|第四幅面孔
+I-605.webp|第五幅面孔
+</gallery>
+|nicknames=多面轮盘
+|previous_entity=[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+|next_entity=[[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato（加托）</span>]]
+|appears_at=I-460+
+|type=冲刺者<br>
+柜子检查者
+|behavior=从玩家后方冲来，抵达当前房间后会随机检查房内的一个躲藏点。
+|speed=快
+|claustrophobia=否
+|damage=秒杀
+|related_monsters=[[A-60]]
+|sound1=<center>远距离环境音<center><center>[[File:SEMI60Far.mp3]]
+|sound2=<center>近距离环境音<center><center>[[File:SEMI60Close.mp3]]}}
+
+<h2> 描述 </h2>
+'''I-60'''是[[Section UI|UI区]]最后100个房间中出现的第3个、也是最后一个实体（不包括[[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato（加托）</span>]]），关于'''I-60'''的更多信息如下。
+
+<h2> 行为 </h2>
+当'''I-60'''生成时，它会在冲向主房间前从你身后发出巨大的静电噪音；一旦抵达门的位置，它就会走向主房间内的随机一个柜子并进行检查，在柜子前停留4秒后消失。
+
+<h2> 策略与提示 </h2>
+* 你应当始终躲在前一个房间里，只有万不得已时才躲在主房间，因为I-60有可能检查你所在的柜子。
+* 你应当在整个遭遇过程中保持躲藏状态；如果你身处前一个房间，也可以出来回头查看后方的房间，避免被[[E-30#Section_UI|I-30]]突袭杀死。
+
+== 画廊 ==
+<gallery>
+SEMI-60Jum.gif|跳杀
+SEMI-60Move.gif|I-60从一名玩家身旁经过
+</gallery>
+</tabber>
+
+== 徽章 ==
+{{BadgeSectionM|Image=Isecinvasion.png|Name=你不该出现在这吧？|Description=该徽章曾可在“I-Section Invasion（I区入侵）”活动期间获得，获取条件为在A区或D区躲过I-60的袭击。该徽章现已退役，无法再获取。|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的I-Section Invasion（I区入侵）活动期间，遭遇并躲过'''I-60'''的袭击}}
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Super Epic Mode]]
+[[Category:Section UI]]
+[[Category:Rusher]]
+[[Category:Invader]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

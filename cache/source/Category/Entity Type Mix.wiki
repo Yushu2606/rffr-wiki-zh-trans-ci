@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Entity Type Mix''' means an entity has multiple types of abilities. An example is [[D-60]], it is a [[:Category:Rusher|Rusher]] and [[:Category:Rebounder|Rebounder]].
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

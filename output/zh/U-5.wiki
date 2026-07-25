@@ -1,0 +1,32 @@
+{{InfoBox:Entity
+|entity_name=[[File:U-5_title.png|frameless|link=U-5]]
+|entity_image= Spin.gif 
+|caption-entity_image=Miehahahahahha
+|appears_at=仅Admin可生成
+|nicknames=Chesire（柴郡）
+|type=冲刺者
+|behavior=冲刺者
+|gun_effect=无
+|claustrophobia=否
+|damage=无
+|speed=35 studs 每秒
+|related_monsters=[[UI-5]]<br>[[CARDBOARD-5]]<br>[[M-7]]
+|sound1=<center>接近音效</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==描述==
+'''U-5''' 是一类仅可由Admin生成的简易冲刺者。
+
+==行为==
+'''U-5''' 会播放[https://create.roblox.com/store/asset/1846862303/Horror-Race 《Horror Race Song（恐怖竞速曲）》]，在经过一段较长时间后冲向门。
+
+==应对策略与提示==
+U-5无法击杀玩家，因此只需等待它经过即可。
+
+==你知道吗==
+
+* '''U-5''' 与《Interminable Rooms（无尽房间）》愚人节活动推出的'''U-5'''是同一实体。
+* '''U-5''' 是游戏中首个来自《Interminable Rooms》的实体，第二个是[[A-258 (IR)]]
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

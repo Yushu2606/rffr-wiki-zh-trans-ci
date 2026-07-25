@@ -1,0 +1,92 @@
+en,zh,note
+Rooms,Rooms,游戏名保持英文
+Found Footage,Found Footage,游戏名保持英文
+Renovated,Renovated,游戏名保持英文
+RFFR,RFFR,游戏简称保持英文
+Roblox,Roblox,平台名保持英文
+Fandom,Fandom,平台名保持英文
+
+Section A,A区,场景名翻译
+Section D,D区,场景名翻译
+Section E,E区,场景名翻译
+Section M,M区,场景名翻译
+Section R,R区,场景名翻译
+A-Section,A区,同 Section A
+Sections,各分区,场景集合名
+Section,区,泛指 Section
+Unnamed Sector,无名区域,场景名翻译
+Red Rooms,红区,场景名翻译
+Void,虚空,场景术语
+Voidwall,虚空墙,场景术语
+Void wall,虚空墙,场景术语
+
+Locker,柜子,机制名翻译
+Lockers,各种柜子,机制名翻译
+Door,门,机制名翻译
+Vent,Vent,机制名保持英文
+Run,逃生,游戏轮次翻译
+Jumpscare,跳杀,机制名翻译
+Snipe,命中,机制名翻译
+Locker Snipe,柜击,机制名翻译
+Footsteps,脚步声,音效名翻译
+
+Spawn,生成,机制名翻译
+Despawn,消失,机制名翻译
+Despawning,消失,同上
+Rebound,反弹,行为名翻译
+Rebounds,反弹,同上
+Rebounder,反弹者,实体行为分类
+Fallbacker,后退者,实体行为分类
+Teleporter,瞬移者,实体行为分类
+Mimic,模仿者,实体行为分类
+Spawner,生成者,实体行为分类
+Rusher,冲刺者,实体行为分类
+Stationary,固定者,实体行为分类
+Aimscript,锁定,行为名翻译
+Aimscripter,锁定者,实体行为分类
+Locker Checker,柜子检查者,实体行为分类
+Multimonster,多面怪物,实体类型分类
+Variant,变种,实体类型分类
+Super Variant,强化变种,实体类型分类
+i Variant,i型变种,实体类型分类
+Prime,素数,实体类型分类
+
+Entity,实体,术语翻译
+Entities,实体,术语翻译
+Shadow Entities,暗影实体,挑战类实体集合
+Lapse Entities,过失实体,挑战类实体集合
+Modifier,修饰符,游戏机制翻译
+Modifier Exclusive Entities,修饰符专属实体,集合名翻译
+Admin,Admin,管理员实体保持英文
+Removed,Removed,实体状态保持英文
+Upcoming,Upcoming,实体状态保持英文
+Instant Death,秒杀,游戏机制翻译
+
+Shadow Challenge,暗影挑战,挑战名翻译
+Alpha,阿尔法,挑战难度翻译
+Shadowapocalypse,暗影启示录,挑战名翻译
+
+Mori,Mori,实体名保持英文
+Mortis,Mortis,实体名保持英文
+False Witness,False Witness,实体名保持英文
+False Prophet,False Prophet,实体名保持英文
+Tackle,Tackle,实体名保持英文
+Lunge,Lunge,实体名保持英文
+Execution,Execution,实体名保持英文
+Jimmy,Jimmy,实体名保持英文
+Mouth,Mouth,实体名保持英文
+Oblivion,Oblivion,实体名保持英文
+Endellion,Endellion,实体名保持英文
+Goober-200,Goober-200,实体名保持英文
+Overseer,Overseer,实体名保持英文
+X-1200 Entities,X-1200 实体,集合名翻译
+Claustrophobia,幽闭恐惧,机制/实体名翻译
+
+Stamina,体力,玩家属性翻译
+Sanity,理智,玩家属性翻译
+DPS,每秒伤害,术语翻译
+Studs/s,Studs/秒,Roblox 距离单位保持英文
+Update Executive,Update Executive,版本名保持英文
+
+Helical,Helical,人名/编辑者署名保持原样
+official wiki,仅部分内容原文来自官方英文 Wiki,声明改写见 system 规则 10

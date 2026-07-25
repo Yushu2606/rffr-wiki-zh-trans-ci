@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px maroon; color: black;">D-180（恐慌）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Removed|reason=社区投票}}
+{{Headphones}}
+{{InfoBox:Entity
+|entity_name=D-180
+|entity_image=<gallery>
+D-180Old.png|当前设计
+D-180real.png|回退设计
+</gallery>
+|previous_entity=[[D-175]]
+|next_entity=[[D-200]]
+|claustrophobia=否
+|appears_at=D-180+（已移除，目前仅管理员可召唤）
+|type=冲刺者<br>反弹者<br>生成者
+|behavior=会来回反弹，生成实体的同时用自身环境音掩盖它们的声音。
+|speed=16间/秒
+|damage=每刻25点伤害
+|gun_effect=无
+|locker_snipe=否
+|caption-entity_image=I WILL SKIN YOU ALIVE WHEN I FIND YOU. YOU ARE NOT SAFE WHEN I AM PRESENT.（我找到你的时候会活剥了你的皮。我在场的时候你没有安全可言。）
+|related_monsters=[[SHA-180]]<br>[[D-180i]]
+|nicknames=Panic（恐慌）
+|sound1=<center>出现音效</center><center>[[File:D180spawn.mp3]]</center>
+|sound2=<center>环境音</center><center>[[File:D180ambi.mp3]]</center>
+|sound3=<center>消失音效</center><center>[[File:D180Desp.mp3]]</center>
+|sound4=<center>[[True Legacy Mode|真正的遗留模式]] 环境音 '''音量警告'''</center><center>[[File:D180old.mp3]]</center>
+|sound5=<center>[[True Legacy Mode|真正的遗留模式]] 原始环境音</center><center>[[File:OldD-180.mp3]]</center>
+|sound6=<center>跳杀音效 '''高音量警告''' </center><center>[[File:D180jump.mp3]]</center>}}
+
+==描述==
+'''D-180'''是[[Section D|D区]]的第10个实体，也是D区目前唯一已被移除的实体。不过它的对应变体[[SHA-180]]和[[D-180i]]仍在时刻提醒你，'''D-180'''是一只危险且强大的实体，能够召唤其他实体。所以你最好别在心里非议'''D-180'''，因为[[D-180i]]正<span style="text-shadow: 0 0 5px blue; color: blue;">注视着你。</span>
+
+==机制==
+当'''D-180'''生成时，会先播放一段低沉的咆哮/尖啸，随后快速向当前房间冲刺；接近当前房间时，它会开始大声尖啸，撞到门的瞬间会提升自身环境音的最大衰减距离（导致在整个遭遇过程中，它响亮的环境音在任何位置都能听到，令玩家难以听清其他实体的声音）；刚碰到门它就会立刻转身，以极快的速度向后冲刺：若玩家位于Depth（深处区域），它会将门撞破；若位于废弃区域，则只会重重撞在门上；它会重复这一过程数次，每次反弹间隔约8-9秒；在最后一次反弹时，它撞到门后会立刻消失，无论如何都会将门破坏并发出低语声，每次撞门都有概率生成一只实体。
+
+==应对策略==
+* 尽量留意[[D-5]]和[[D-120]]的生成提示，离开躲藏点时保持警惕，以防[[D-60]]已经生成。
+* '''D-180'''无法命中躲在储物柜中的玩家，你可以利用这一点。
+* [https://youtu.be/6rLv068RgrM?si=4UYfdGqI48G7EyTE 演示视频]
+
+==你知道吗==
+* '''D-180'''已被移除，其位置由[[D-140]]取代。
+* 若[[D-60i]]处于激活状态，'''D-180'''就无法生成。
+* 在[[True Legacy Mode|真正的遗留模式]]中，'''D-180'''仍可自然生成。
+
+==背景设定==
+* 所有'''D-180'''个体都被暗影感染，变成了[[SHA-180]]。
+
+==画廊==
+<gallery>
+D180Jump.gif|'''D-180'''的当前跳杀动画。
+OldD180jump.gif|'''D-180'''的回退版本跳杀。
+D-180MSection.png|D-180被Admin生成后出现在[[Section M|M区]]中。
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]

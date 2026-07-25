@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''你可能要找的是''[[Items|物品]]''。'''</center></big>
+----
+目前共有五种'''物品类型'''，分别是<span style="color:blue">功能道具</span>、<span style="color:red">武器</span>、<span style="color:green">回复道具</span>、<span style="color:Yellow">神器</span>以及<span style="color:Orange">回收物</span>。
+----
+<center>''以下是属于该分类的所有条目。''</center>
+{{Spacer}}

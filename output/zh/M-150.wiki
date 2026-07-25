@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:<span style="animation: m150 2s infinite;">M-150 (双相)</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{Suggested|Creepet}}
+{{InfoBox:Entity
+|entity_name=[[File:M-150PlaceHolder.png|frameless|link=M-150]]
+|previous_entity=[[M-134]]
+|next_entity=[[M-200]]
+|nicknames=双相
+|appears_at=M-150+
+|claustrophobia=否（会延迟触发）
+|speed=慢
+|damage=145 每秒伤害（若躲在柜子中被发现则秒杀）
+|sound_info_header=
+|gun_effect=无
+|locker_snipe=是（非致命）
+|entity_image=<gallery>
+M150Anim.gif|重制动画
+M-150thedepressed.png|设计图
+</gallery>
+|sound1=<center>生成</center><center>[[File:M150.mp3]]</center>
+|sound2=<center>环境音'''重制版'''</center><center>[[File:M150ambi.mp3]]</center>
+|caption-entity_image=呃啊这小家伙是谁|type=后退者<br>柜子检查者<br>
+|behavior=根据自身颜色检查蓝色/白色柜子
+|related_monsters=[[SHA-150]]<br>[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-150  U-150 IRUS]<br>[https://r-interminable-rooms.fandom.com/wiki/Upcoming_Content#S-150 S-150 IR]<br>[https://r-interminable-rooms.fandom.com/wiki/A-150 A-150 IR]}}
+
+==外观==
+'''M-150'''的双眼呈带内部圆点的十字形，嘴部是露齿的皱眉状弧度，整体画风潦草。
+
+==行为==
+'''M-150'''会在门前方生成，初始状态仅为一团光球，同时会将门牌变为蓝色或白色。数秒后M-150会现身，开始根据自身颜色检查柜子：如果为白色，它会检查灰色柜子；如果为蓝色，则会检查蓝色柜子。它会对当前房间和前1个房间执行检查，之后移动到当前房间中央稍作等待，随后消失。
+
+== 策略与提示 ==
+* '''M-150'''只会检查2个房间，因此如果它生成，只需向后退2/3个房间即可（具体数量取决于你当前所在的房间）。
+* '''M-150'''在红区留给玩家躲藏的时间极短，因此建议你时刻留意门牌变化和'''M-150'''的声音。
+* 建议等到'''M-150'''即将检查你所在的房间时再冲刺躲藏/正常躲藏，以避免受到不必要的[[claustrophobia|幽闭恐惧]]伤害。
+* 如果你躲得太晚也不必过于担心，因为它的柜击惩罚并不严重。
+
+==冷知识==
+*'''M-150'''直接致敬了Catz制作的《Interminable Rooms》U区Hoax模组Thunderdome中的'''U-150'''，二者外观与机制都十分相似。
+*'''M-150'''在非官方设定中处于抑郁状态。
+*Creepet最初设计该实体时将其命名为“M-240”。
+*'''M-150'''的形象由Collese创作。
+*据创作者所述，'''M-150'''喜欢葡萄。
+*如果'''M-150'''检查的柜子里藏有[[M-134]]，检查时'''M-150'''会猛力关上柜门，进而引发爆炸。
+
+== 画廊 ==
+<gallery>
+File:M-150 scary.gif|M-150的跳杀
+</gallery>
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]

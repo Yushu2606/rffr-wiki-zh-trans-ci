@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-3 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-3
+|entity_image=LAPSE3.png
+|caption-entity_image=Spawning [[SHA-200]]
+|previous_entity=[[SHA-3]]<br>[[LAPSE-2]]
+|next_entity=[[SHA-4]]<br>[[LAPSE-60]]
+|nicknames=L-3
+|gun_effect=No Lapse can be shot
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=Door Breaker
+|claustrophobia=No
+|behavior=Breaks doors down and waits for the player to catch up before repeating it.
+|speed=Fast
+|locker_snipe=No
+|damage=None
+|related_monsters=[[SHA-3]]
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]}}
+
+== Description ==
+'''LAPSE-3''' is one of the many [[Alpha & Shadowpocalypse]] exclusive Entities, it's the Lapse variant of [[SHA-3]].
+
+== Behavior ==
+'''LAPSE-3''' will spawn in the center of the room upon opening the door, and after a few seconds he will rush forward and break 8 doors instead of 10 like SHA-3. Meaning that the void wall will catch up to you directly, but you won't ''need'' to progress any rooms to prevent death. Once LAPSE-3 reaches the main room, it will wait for the player to reach the main room and repeat the process a few times, each time having a chance to spawn entities.
+
+== Strategies & Tips ==
+* Since '''LAPSE-3''' waits for you to reach the main room before repeating its cycle, you should recover your stamina before entering the room.
+* '''LAPSE-3''' can spawn entities when it breaks the door, so be careful and deal with them first, no need to wary about '''LAPSE-3''' at the moment, since it will wait for you to enter the room it is in before breaking doors again.
+
+== Trivia ==
+* '''LAPSE-3''' was meant to be added to the game during [[Perfection Event 3/13/26]], but was left out, instead being added in "Update Executive".
+
+== Gallery ==
+<gallery>
+Placeholder.webp
+</gallery>
+
+== Badges ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Lapse_Entities|Lapse entity]].}}

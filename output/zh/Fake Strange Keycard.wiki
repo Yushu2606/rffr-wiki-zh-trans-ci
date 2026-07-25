@@ -1,0 +1,24 @@
+{{Modifier Exclusive|[[April Fools 2026|2026年愚人节活动]]}}
+{{InfoBox:Entity
+|entity_name=伪造的奇怪钥匙卡
+|entity_image=<gallery>
+EvilCard.jpg|游戏内
+EvilCardJump.jpg|跳杀
+</gallery>
+|type=静止者
+|damage=秒杀。
+|appears_at=[[April Fools 2026|2026年愚人节活动]]模式下的任意位置}}
+
+==描述==
+伪造的奇怪钥匙卡是[[April Fools 2026|2026年愚人节活动]]期间可在任意位置找到的物品。
+
+==行为==
+它会出现在房间的任意位置，伪装成进入[[Section E|E区]]所需的钥匙卡，如果玩家试图捡起这张伪造的奇怪钥匙卡，会先触发跳杀，随后被击杀。
+
+==攻略与提示==
+不要在没有确认物品是否为真钥匙卡的情况下点击拾取。如果你看到了它，不要拾取即可。
+
+==画廊==
+<gallery>
+Strange design.webp|跳杀来源
+</gallery>

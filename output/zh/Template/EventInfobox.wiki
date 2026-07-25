@@ -1,0 +1,50 @@
+<infobox>
+	<title source="title">
+    	<default>{{PAGENAME}}</default>
+	</title>
+	<image source="image">
+		<default>Placeholder.png</default>
+	</image>
+	<header>活动信息</header>
+	<group layout="horizontal">
+		<data source="previous_event">
+    		<label><div>上一个活动</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+		<data source="next_event">
+    		<label><div>下一个活动</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+    </group>
+     <data source="timeline">
+    	<label><div>时间线</div></label>
+    </data>
+        <data source="rewards">
+    	<label><div>奖励</div></label>
+    </data>
+    <data source="entities">
+    	<label><div>实体</div></label>
+    </data>
+</infobox>
+<noinclude>{{Documentation}}</noinclude>
+
+<noinclude>
+使用示例：
+{{SectionInfoBox
+  | title1=示例
+  | image1=Example.jpg
+  | caption-image1=示例
+  | row1=示例
+  | row2=示例}}
+<pre>
+{{SectionInfoBox
+  | title1=示例
+  | image1=Example.jpg
+  | caption-image1=示例
+  | row1=示例
+  | row2=示例}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"row1":{"suggested":true},"row2":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

@@ -1,0 +1,33 @@
+{{ArticleBackground|File=MultiSectional.gif}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: black;">Jimmy</span>}}
+{{InfoBox:Entity
+|entity_name=Jimmy
+|entity_image=Jimmy.png
+|appears_at=Anytime past A-0001
+|behavior=Meeting new People
+|speed=Stationary
+|gun_effect=None
+|damage=None
+|badges=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy Hi Jimmy]
+|sound1=<center>Hiss</center><center>[[File:JimmyHiss.mp3]]</center>}}
+
+== Description ==
+Jimmy Is an entity that can spawn in any section. Having a 1 in 2000 chance of spawning.
+
+== Appearance ==
+Jimmy looks a face with insanely dark. Eyes are very small white pupils. The head isn't fully black and has some gray and transparency.
+
+== Behavior ==
+when a door is opened past A-000, theres a 1 in 2000 chance for Jimmy to be behind the door, it will hiss very loudly before disappearing.
+
+== Trivia ==
+* Locker jimmy has been removed
+
+{{Badge|Image=Hi Jimmy (Badge).png|Name=Hi Jimmy|Description=Well that was unnecessary.|Obtainment=Be jumpscared by Jimmy.}}
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Scarer]]
+[[Category:Harmless]]

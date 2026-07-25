@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Entity Type Mix（实体混合类型）'''指实体拥有多种类型的能力。例如[[D-60]]，它同时属于[[:Category:Rusher|冲刺者]]和[[:Category:Rebounder|反弹者]]。
+----
+<center>''以下是属于该分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

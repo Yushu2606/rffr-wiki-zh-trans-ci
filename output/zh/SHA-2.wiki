@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7234d0, 0 0 65px #7234d0; color: #0C0414;">SHA-2（Wraith/怨灵）</span>}}
+{{InfoBox:Entity|entity_name=SHA-2
+|entity_image=<gallery>
+NewSHA2.png|当前外观
+Sha2.png|旧版外观
+</gallery>
+|previous_entity=[[SHA-1]]<br>[[LAPSE-1]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-3]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Wraith（怨灵）
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=暗影<br>后退者
+|gun_effect=所有暗影实体均无法被枪击
+|behavior=行为与[[A-85]]相同，但会在门后生成且无移动声响
+|speed=快
+|locker_snipe=是（非致命）
+|claustrophobia=否
+|damage=秒杀（每秒伤害命中）<br>25~（暗影瘟疫）
+|related_monsters=[[A-85]]<br>[[D-120]]<br>[[LAPSE-2]]
+|sound1=<center>环境音</center><center>[[File:Sha2ambi.wav]]</center>}}
+
+== 描述 ==
+'''SHA-2'''是[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|A&SP]]修饰符中众多暗影实体的一种。
+
+== 行为 ==
+'''SHA-2'''在暗影挑战活动期间，玩家进入房间时有概率生成在主房间的门后。'''SHA-2'''开始移动时会导致屏幕轻微震动，并发出几乎难以察觉的声响。当'''SHA-2'''返程后退时，会一路回到虚空墙处然后消失。如果玩家在进出躲藏点时被它发现，就会被施加暗影瘟疫效果，随时间持续损失部分生命值。
+
+== 应对策略与技巧 ==
+* 留意预示它到来的音效提示与屏幕震动。如果你处于'''A&SP'''模式中，会更容易察觉到它的声响。
+** 在'''A&SP'''模式中，'''SHA-2'''可能会与'''受感染'''的暗影实体一同生成，因此如果有受感染暗影实体生成时务必及时躲藏。
+** 如果你听不到'''SHA-2'''的声响，可以在开门时留意屏幕震动（但不要将其与[[SHA-1]]等其他暗影实体造成的屏幕震动混淆）。
+* '''SHA-2'''与[[SHA-1]]的秒杀效果都可以通过翻滚躲避，在没有可用躲藏点的紧急情况下可以使用该方法！不过你仍会受到类似被储物柜命中的伤害。
+
+== 冷知识 ==
+* '''SHA-2'''可在任何完美模式活动中独自入侵。
+* '''SHA-2'''可被[[SHA-180]]、[[SHA-60]]与[[SHA-3]]召唤生成。
+* 如果你处于[[Alpha & Shadowpocalypse|A&SP]]模式中，'''SHA-2'''会在教程房间取代[[D-5]]的位置。
+* 你在[[Alpha & Shadowpocalypse|A&SP]]中推进得越远，'''SHA-2'''的移动速度就越快，你可以通过它环境音的音调察觉到这一点。
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]

@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本文件受版权保护。我们对它的使用符合美国版权法下的合理使用范畴。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:Fairuse files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

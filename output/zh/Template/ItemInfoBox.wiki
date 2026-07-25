@@ -1,0 +1,84 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+    <header source="names">名称</header>
+    <data source="icon_name">
+      <label>图标名称</label>
+    </data>
+    <data source="desc_name">
+      <label>描述名称</label>
+    </data>
+  <group>
+    <header source="don'tusethis">基础属性</header>
+    <data source="item_type">
+      <label>物品类型</label>
+    </data>
+    <data source="type">
+      <label>类型</label>
+    </data>
+  </group>
+  <group collapse="open">
+    <header source="don'tusethis2">物品属性</header>
+    <data source="lifetime">
+      <label>持续时长</label>
+    </data>
+    <data source="batteries_needed">
+      <label>所需电池数</label>
+    </data>
+    <data source="health_given">
+      <label>提供生命值</label>
+    </data>
+    <data source="sprint_given">
+      <label>提供冲刺值</label>
+    </data>
+    <data source="damage">
+      <label>伤害</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+使用示例：
+{{ItemInfoBox
+  | title1=示例
+  | image1=Example.jpg
+  | caption-image1=示例
+  | names=示例
+  | icon_name=示例
+  | desc_name=示例
+  | don&#039;tusethis=示例
+  | item_type=示例
+  | type=示例
+  | don&#039;tusethis2=示例
+  | lifetime=示例
+  | batteries_needed=示例
+  | health_given=示例
+  | sprint_given=示例
+  | damage=示例}}
+<pre>
+{{ItemInfoBox
+  | title1=示例
+  | image1=Example.jpg
+  | caption-image1=示例
+  | names=示例
+  | icon_name=示例
+  | desc_name=示例
+  | don&#039;tusethis=示例
+  | item_type=示例
+  | type=示例
+  | don&#039;tusethis2=示例
+  | lifetime=示例
+  | batteries_needed=示例
+  | health_given=示例
+  | sprint_given=示例
+  | damage=示例}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"names":{"suggested":true},"icon_name":{"suggested":true},"desc_name":{"suggested":true},"don'tusethis":{"suggested":true},"item_type":{"suggested":true},"type":{"suggested":true},"don'tusethis2":{"suggested":true},"lifetime":{"suggested":true},"batteries_needed":{"suggested":true},"health_given":{"suggested":true},"sprint_given":{"suggested":true},"damage":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

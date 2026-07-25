@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px lime, -1.5px 0.66px 2px lime; color:black;">Glongoflorp-60</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=Glongoflorp-60
+|entity_image=gflorp-60.png
+|appears_at=Only by Admins
+|nicknames=Joke M-60
+|behavior=identical to [[M-60]], except Oblivion does not X the locker it intends to check
+|speed=Fast
+|damage=Instant Death.
+|gun_effect=None
+|claustrophobia=No
+|locker_snipe=No
+|related_monsters=[[M-60]] (Similar mechanic)<br>[[A-20ii]] (Similar mechanic)
+|sound1=<center>Spawn</center><center>[[File:GL60spawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:GL60far.mp3]]</center>
+|sound3=<center>Proximity Ambience</center><center>[[File:GL60close.mp3]]</center>}}
+
+== Description ==
+Glongoflorp-60 is one of the ''Admin Entities'' in '''Rooms: Found Footage: RENOVATED'''.
+
+== Appearance ==
+Glongoflorp-60 looks like a face with a lime outline, Glongoflorp-60 looks sad with lime teeth and lime eyes with black pupils.
+
+== Behavior ==
+When its spawned by an admin. It will play a boom sound before rushing to the current room at fast speeds, breaking the door no matter what. Once it breaks the door it will then move quickly to a random locker and check it. Once Glongoflorp-60 has checked a locker it will despawn.
+
+== Strategy & Tips ==
+* if Glongoflorp-60 spawns while you are in the main room, open the door to cause it to check that room instead.
+** always hide in a previous room, or you might get your locker checked
+* hide immediately after you see its screenshake, since it doesn't extend [[Claustrophobia]].
+
+== Trivia ==
+* '''Glongoflorp-60's''' design uses [[w:c:r-interminable-rooms:U-10#Original|Hoax U-10]] from Interminable Rooms, but hue shifted to green
+
+== Gallery ==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

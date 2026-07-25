@@ -1,0 +1,65 @@
+{{Headphones}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #F80211, -1.5px 0.66px 2px #ff55bb; color: black;">D-140i (Devious)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:D-140iTitle.png|frameless|link=D-140i]]
+|entity_image=<gallery>
+D-140irecreation.gif|Animation
+D-140iface1.png|Design 1
+D-140iface2.png|Design 2
+</gallery>
+|gun_effect=None
+|claustrophobia=No
+|nicknames=Devious, Koinkerkoink
+|appears_at=Only by Admins
+|locker_snipe=No
+|behavior=Acts like [[D-140]] but rebound multiple times & destroy all hiding spots in the previous rooms
+|speed=Very Fast
+|damage=Instant Death
+|related_monsters=[[D-140]]<br>[[SHA-140]]
+|sound1=<center>Spawn</center><center>[[File:D140ispawn.mp3]]</center>
+|sound2=<center>Rushing Start</center><center>[[File:D-140irush.mp3]]</center>
+|sound3=<center>Fallback Ambience </center><center>[[File:D-140iAmbience.mp3]]</center>
+|sound4=<center>Rebounding Ambience</center><center>[[File:D140irebound.mp3]]</center>
+|sound5=<center>Proximity Ambience </center><center>[[File:D140iproxi.mp3]]</center>
+|sound6=<center>Spawn Indicator</center><center>[[File:BossSpawn.mp3]]</center>
+|caption-entity_image=
+|type=Miniboss<br>Rebounder<br>Locker Checker<br>
+|sound7=<center>Despawn</center><center>[[File:D-140iDespawn.mp3]]</center>}}
+
+== Description ==
+'''D-140i''' is an Admin exclusive entity, acting as a miniboss version of [[D-140]].
+
+== Behavior ==
+'''D-140i''' will spawn on the front of the door, just like [[D-140]], killing any players within a three-room radius in one to two seconds since '''D-140i''' have spotted them. but will give less time to hide. Once '''D-140i''' fallback, it will start playing a global ambience and then pause the ambience and display a text in the subtitles saying "Have fun, because you won't.", then '''D-140i''' will return to play its global ambience, and will begin its rebounding cycle.
+
+'''D-140i''' will then proceed to rush back to the main room, and upon reaching, will fallback again, but will break all '''Blue lockers/White Cabinets''' upon doing so. '''D-140i''' will also destroy all the hiding spots in the previous rooms.
+
+In the 2nd time '''D-140i''' rush back to the main room, it won't destroy any hiding spots, and will just act like [[M-22]] but extremely fast. So in the 3rd time '''D-140i''' will do his behavior and destroy all '''Blue Lockers/White Cabinets''' in the main room and all the other hiding spots in the previous rooms.
+
+'''D-140i''' will keep that rebound cycle, breaking and not breaking lockers time by time. And '''D-140i''' won't stop rebounding until '''60''' doors are opened and '''D-140i''' has completed a 55-70 rebounds. Once 60 doors have been opened and '''D-140i''' have completed the determinated rebound cycle, '''D-140i''' will rush back to the main room but will despawn upon hitting the door, emmiting a high-pitched despawn sound that is like a doorbell. 
+
+== Strategy & Tips ==
+
+* '''D-140i''' is very difficult to deal because of its complex mechanic. So if an Admin spawns it, it's better to all players go to the last opened room, and stay there until '''D-140i''' has completed 70 rebounds, and then proceed to open 60 doors.
+* This is probably the best way to deal with '''D-140i''', since it's guaranteed that it will despawn once 60 doors are opened.
+* Since '''D-140i''' destroy/don't destroy hiding spots rebound per rebound, you should use it as your advantage, and rush more when '''D-140i''' is not going to destroy hiding spots, so you don't need to worry about finding a Locker/Cabinet if '''D-140i''' is coming back.
+* [[D-55]] cannot spawn while '''D-140i''' is active just like [[D-140]], so only hide in '''Blue Lockers''' or '''White Cabinets''' if in emergency to avoid getting comboe'd by '''D-140i''' + another entity. 
+* Finally, don't let '''D-140i''' trick you, and deal carefully, hiding in perfect timing to avoid getting killed by [[Claustrophobia]] or by the own '''D-140i'''.
+
+== Trivia ==
+
+* '''D-140i''' was made as a joke, being an Admin entity.
+* Obviously because '''D-140i''' is very difficult to deal and will mostly be spawned by Admins to ruin your run, since is very hard to survive his attack.
+* '''XYZ''' is the creator of '''D-140i'''.
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:I Variation]]
+[[Category:Rebounder]]
+[[Category:Rusher]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Miniboss]]
+[[Category:Ambusher]]

@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px orange, 0 0 65px gold; color: orange;">A-200ii（欧米茄涂鸦）</span>}}
+{{Modifier Exclusive|II Hate This、[[Super Epic Mode|超级史诗模式]]或[[April Fools 2026|2026年愚人节]]}}
+{{InfoBox:Entity
+|entity_name=[[File:A-200iititle.png|frameless|link=A-200ii]]
+|entity_image=A-200ii Anim .gif
+|nicknames=The Omega Scribble（欧米茄涂鸦）
+|behavior=会发出奇怪的重击声，随后等待5秒开始反弹。
+|damage=秒杀
+|appears_at=A-200及之后（？）（[[Super Epic Mode|超级史诗模式]]/[[April Fools 2026|2026年愚人节]]修饰符下）
+开启'''II Hate This'''修饰符时可在任意位置出现
+|caption-entity_image=哞嘿嘿嘿 >:)
+|locker_snipe=否
+|gun_effect=无
+|claustrophobia=否
+|type=反弹者
+|related_monsters=[[A-200]]<br>[[A-200i]]
+|sound1=<center>生成</center><center>[[File:A200iiSpawn.mp3]]</center>
+|sound2=<center>折返冲刺</center><center>[[File:A200iirush.mp3]]</center>}}
+
+==描述==
+A-200ii，又称The Omega Scribble，是A区以及游戏中第二个带“ii”后缀的变种。在超级史诗模式下，A-200ii有概率替换A-200生成。
+
+==外观==
+A-200ii是一个绘制粗糙的橙色涂鸦，看起来同时兼具愤怒和开心的神态。
+
+==行为==
+A-200ii会发出低沉的重击声，同时给玩家施加静电效果，你还能看到主要由希腊字母欧米茄组成的粒子穿过房间。随后A-200ii会冲向房间尽头，击杀所有未躲进柜子的玩家。
+
+当A-200ii停止冲刺时，它产生的静电效果会比之前弱，以此误导玩家以为它已经消失了。随后A-200ii会冲回当前房间，接着反弹回0号房间后消失。
+
+==对策与提示==
+
+* 当你听到未知的重击声和陌生的静电音效时，立刻找到藏身点！
+* A-200ii仍能发现躲在安全点的玩家，如果你使用这些点位会被它击杀。
+
+[[Category:Omega Variation]]
+[[Category:Fallbacker]]
+[[Category:Aimscripter]]
+[[Category:Ambusher]]

@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Scarer（惊吓者）'''实体是指所有通常会发出巨大声响但不会对玩家造成伤害的实体。
+----
+<center>''以下是属于该分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

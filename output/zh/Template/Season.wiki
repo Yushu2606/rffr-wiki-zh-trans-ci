@@ -1,0 +1,12 @@
+<includeonly><infobox type="Season">
+	<title source="title"><default>{{PAGENAME}}</default></title>
+	<image source="image"><caption source="caption"/></image>
+	<data source="season"><label>季</label></data>
+	<data source="episodes"><label>集数</label></data>
+	<data source="premiere"><label>发布日期</label></data>
+	<group layout="horizontal">
+	    <header>导航</header>
+	    <data source="previous"><label>← 上一季</label></data>
+	    <data source="next"><label>下一季 →</label></data>
+	</group>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Seasons]]}}</includeonly><noinclude>{{documentation}}</noinclude>

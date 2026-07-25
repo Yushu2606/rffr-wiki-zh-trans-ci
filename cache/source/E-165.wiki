@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:E-165 (Photosensitivity)}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{Stub}}
+{{InfoBox:Entity
+|entity_name=E-165
+|entity_image=E165.png
+|nicknames=Photosensitivity
+|previous_entity=[[E-120]]
+|next_entity=[[E-200]]
+|appears_at=E-165+
+|type=Stationary
+|claustrophobia=No
+|locker_snipe=
+|behavior=Will place itself in dark rooms, damaging the player if they flash a light on it
+|gun_effect=None
+|speed=None
+|damage=A quarter of the player's health
+|related_monsters=|caption-entity_image=Spare your battery lad|sound1=<center>Ambience Origin</center><center>[[File:PortalRadio.mp3]]</center>}}
+
+==Description==
+'''E-165''' will be one of the many entity you will encounter in [[Section E]], more info shown below.
+
+==Mechanics==
+'''E-165''' once spawned will place itself in the middle of the room, staying stationary, it will damage anyone who flashes a light onto it<br>he spawns on a timer when in dark rooms, and may not spawn in [[Red Rooms]].
+
+==Strategies==
+
+* Just don't shine a light on it
+*
+
+==Trivia==
+
+* There are sometimes that '''E-165''' will despawn immediately after you flash a light in it.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Stationary]]

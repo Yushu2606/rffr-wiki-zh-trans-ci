@@ -1,0 +1,72 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-135]]
+|next_entity=[[A-200]]
+|entity_name=[[File:A-135iTitle.png|frameless|link=A-135i]]
+|entity_image=<gallery>
+NewA135i.png|Current Design
+A135i.png|Old Design
+</gallery>
+|caption-entity_image=vroom, vroom, (im rebounding if you cant tell)
+|appears_at=Any room past A-135.
+|nicknames=Reporter
+|type=Rusher<br>Rebounder<br>Locker Checker
+|behavior=Rebounder.
+|claustrophobia=No
+|damage=Instant Death
+|gun_effect=None
+|locker_snipe=No
+|speed=1000 Studs/second [20 ROOMS/S]
+|related_monsters=[[A-135]] (Normal variant)<br>
+[[M-60i]] (Similar mechanic)<br>
+|sound1=<center>Spawn</center><center>[[File:A-135iSpawnNew.mp3]]</center>
+|sound2=<center>Rush sound</center><center>[[File:A-135iRushNew.mp3]]</center>
+|sound3=<center>Play sound</center><center>[[File:A-135iFarNew.mp3]]</center>
+|sound4=<center>Proximity</center><center>[[File:A-135iNearNew.mp3]]</center>
+|sound5=<center>Jumpscare</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>Spawn Origin</center><center>[[File:135ispawnorigin.mp3]]</center>}}
+
+==Description==
+'''A-135i''' is a Super variant, having a chance to replace [[A-135]] when it attempts to spawn. '''A-135i'''<nowiki/>'s appearance consists of what seems to be a distorted green face, with a creepy, half smile and circular eyes.
+
+==Behavior==
+'''A-135i''' has a small chance to replace [[A-135]] when it attempts to spawn. When it does spawn, it starts to laugh, after some time it will play a loud bang that warns the player that it is moving. After it reaches the current room, it will move to the room with the player and will check all gray Lockers in the room. Once '''A-135i''' finishes checking the room, it will move back to the main room and fallback, or will move to the next room with a player (if you are in multiplayer).
+
+'''A-135i''' can repeat this cycle multiple times (1-5 rebounds), tricking new players by making them think that '''A-135i''' is gone.
+
+==Stats==
+* Kill Radius: TBA
+* Cannot kill under tables.
+* Snipe Type: Doesn't Lockersnipe. 
+* Tracking Type: Line of sight.
+
+==Strategy & Tips==
+*Standing near a blue locker is a good strategy if you are in current room and in previous room(s) there are no hiding spots.
+**However, if there ARE lockers in previous room(s), regardless of type, '''A-135i''' will not check them.
+*'''A-135i''' does NOT disable [[Claustrophobia]], and I recommend that you should wait until '''A-135i''' will get closer, and then hide.
+*'''A-135i''' <u>'''CANNOT'''</u> locker snipe. Use it to your advantage
+
+*'''NOTE:''' '''A-135i''' only check rooms with player in it, so you'll have to hide in a '''Blue locker'''/'''Table'''/'''Safe Spot''' to survive '''A-135i'''. So if you're in a multiplayer run and '''A-135i''' spawns, you should tell all players to hide in the same room if have enough '''Blue lockers''' or has a '''Safe spot''', so '''A-135i''' won't take an eternity to check all lockers.
+
+==Trivia==
+*'''A-135i''' is the fourth prime variant.
+*'''A-135i''' is the only locker checker entity that has '''Aimscript''' (which means it '''AIMS''' for your location. In '''A-135i''''<nowiki/>s case, it aims for rooms with players).
+
+== Gallery ==
+<gallery>
+File:A-135i scary.gif|A-135i's jumpscare
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Aimscripter]]
+[[Category:Table Affected]]

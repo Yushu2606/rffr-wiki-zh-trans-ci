@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #CA720D; color: #080100;">M-340 (The Rebel)</span>}}
+{{NoteBox|note=Not to be confused with M-340 from '''Rooms Re-Established'''}}
+{{ArticleBackground|File=M340Background.jpg}}
+{{Upcoming}}
+'''''"A fire is spreading throughout the world as the darkness settles within your mind, care to give up and become one with the darkness?" ~M-340'''''
+{{InfoBox:Entity
+|entity_name=[[File:M340logo.png|frameless|link=M-340]]
+|entity_image=entity_image=<gallery>
+Placeholder.webp|Upcoming Design
+OldM-340.png|Current design
+</gallery>
+|previous_entity=[[Mouth|M-300]]<br>[[M-200]]
+|next_entity=[[E-10]]<br>[[Mori]]
+|appears_at=M-340
+|type=Boss
+|claustrophobia=???
+|behavior=???
+|speed=???
+|locker_snipe=???
+|gun_effect=???
+|damage=???
+|related_monsters=???
+|nicknames=The Rebel
+DETESTATION}}
+
+==Description==
+'''M-340''' is a weakened blackhole who is the mid game boss of R:FF:R who's main goal is to brutally kill the player in any way, shape, or form possible. Even if it means it will have to kill itself for that to come true.
+
+==Mechanics==
+???
+
+==Strategies & Tips==
+???
+
+==Trivia==
+* '''M-340''' is an anarchist.
+* Collese confirmed that in his first concept he was originally Female. But that was changed for reasons that Collese forgot.
+* '''M-340''' was originally just going to be a normal entity and not a boss.
+* '''M-340''' will have a voice actor.
+
+== Lore ==
+* '''M-340''' is the result of a failed shadow infection, that's how he gained his power.
+* '''M-340''' is the main supply of power for the M section.
+
+==Gallery==
+<gallery>
+M340Containment.jpg|'''M-340''''s containment status sign.
+OutsideM340PostUE.jpg|The Outside of Room M-340 After Update Executive
+InsideM340PostUE.jpg|The Inside of Room M-340 After Update Executive
+RoomM340Outside.jpg|The Outside of Room M-340 before Update Executive
+RoomM340Inside.jpg|The Inside of Rooms M-340 before Update Executive
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Upcoming Entities]]

@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #0C0414;">SHA-22 (Dread)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-22
+|entity_image=SHA22.png
+|previous_entity=[[SHA-7]]
+|next_entity=[[SHA-30]]
+|nicknames=恐惧
+|gun_effect=所有暗影实体均无法被枪械击中
+|appears_at=[[Shadow Challenge|SC]]（若由[[SHA-4]]生成）<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=反弹者
+|claustrophobia=否
+|behavior=在主房间生成并反弹数次
+|speed=快
+|locker_snipe=是
+|damage=400 每秒伤害<br>25~（暗影瘟疫）
+|related_monsters=[[M-22]]<br>[[SHA-120]]<br>[[SHA-180]]}}
+
+== 描述 ==
+'''SHA-22'''是[[Alpha & Shadowpocalypse|阿尔法&暗影末日]]修饰符下众多暗影实体中的一员，是[[M-22]]的感染版本。
+
+== 行为 ==
+SHA-22生成时，会播放其普通原版本警报声的低音调扭曲版本。数秒后，它会从主房间的地板中出现并后退。片刻后，它会再次发出一段严重扭曲的警报声，随后冲向主房间。当SHA-22撞到门时，会将门撞破并再次后退至虚空墙。抵达虚空墙后，它会掉头冲回房间前方，此次撞上门时不会将其破坏。之后它便会消失，有可能生成[[SHA-1]]、[[SHA-2]]或[[SHA-60]]。如果玩家在进出躲藏点时被它发现，就会受到暗影瘟疫效果影响，随时间持续损失生命值。
+
+== 策略与提示 ==
+* 听到它的警报声时请立刻躲藏，避免被击杀或遭到瘟疫狙击。
+* 在它活跃期间不要贸然前进。
+* 它消失时请保持躲藏，确认无实体生成再行动。若有实体生成，请按对应方式应对。
+
+== 冷知识 ==
+* 若在[[Red Rooms|红区]]生成，'''SHA-22'''的移动速度与[[M-22]]一致。
+* 此前'''SHA-22'''在后退后的反弹阶段不会击杀玩家，该漏洞已被修复。
+
+== 图库 ==
+<gallery>
+File:SHA-22.png|游戏内的SHA-22
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

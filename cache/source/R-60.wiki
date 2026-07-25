@@ -1,0 +1,50 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;">R-60 (???)</span>}}
+{{ArticleBackground|File=RDoor.jpg}}
+{{Stub}}
+{{NoteBox|note=Please note that a LOT of info here might be wrong as we only have a single logged sighting of this entity}}
+{{InfoBox:Entity
+|entity_name=R-60
+|entity_image=Placeholder.webp
+|previous_entity='''???'''
+|next_entity='''???'''
+|nicknames=???
+|appears_at=Anywhere past 1200
+|locker_snipe=Yes
+|gun_effect=???
+|claustrophobia=No
+|type=Rusher<br>Fallback
+|behavior=Will rush to the main room, idling for around 10 seconds before falling back, poisoning lockers.
+|speed=Similar to [[D-55]]
+|damage=Instant Death (50 MAL damage locker snipe)
+|related_monsters=[[M-22]]<br>[[X-1200_Entities#X-1200-D|X-1200-D]]
+|badges=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]
+|sound1=<center>Poison</center><center>[[File:R60Poisen.mp3]]</center>}}
+
+== Description ==
+'''R-60''' will be one of the many entities you will encounter within [[Section R]]. It currently has a 1 in 200,000 chance to invade your run if you are past door 1200. It will award you the [https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG "Congrats, You Got Good RNG"] badge if you survive the encounter. 
+
+== Behavior ==
+All that is known is that it will rush to the main room from behind you, taking around 10 seconds to reach you after you first start hearing it. breaking down the door if it isn't reenforced and idle for around 10 seconds before falling back and filling lockers with poison. 
+
+The lockers containing poison will damage any players rapidly if they are inside of it. The poison will disappear after some time.
+
+== Strategy & Tips ==
+* ???
+
+== Trivia ==
+* '''R-60''' is the only invasive entity with a badge that doesn't give a Radiant Flashlight.
+
+== Gallery ==
+<gallery>
+R60poisencabinet.jpg|A brown cabinet filled with poison.
+</gallery>
+
+== Badges ==
+{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]|Description=Meet #-##. This does nothing lol.|Obtainment=Encounter and survive '''R-60''' outside of [[Section R]]}}
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Section R]]
+[[Category:Multimonsters]]
+[[Category:Invader]]

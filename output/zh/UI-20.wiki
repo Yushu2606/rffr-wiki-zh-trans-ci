@@ -1,0 +1,37 @@
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px green; color: lime";>UI-20</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-20Title.png|frameless|link=UI-20]]
+|entity_image=UI-20.png
+|type=冲刺者
+|previous_entity=[[UI-5]]
+|next_entity=[[UI-30]]
+|sound1=<center>活跃 '''已审核'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI20ambi.wav]]</center>
+|damage=秒杀
+|related_monsters=[[A-20i]]|appears_at=I-020+}}
+
+==描述==
+'''UI-20'''是栖息于[[Section UI|UI区]]的第二个愚人节专属实体。下方将呈现更多有关'''UI-20'''的信息。
+
+==行为==
+当'''UI-20'''生成时，它会播放名为“Horror Race”的乐曲，和所有栖息在I区的其他实体一样。如果当前存在更多实体，它会播放同一首歌但音调更高、速度更快。当有玩家靠近它时，它还会发出奇怪的快速笑声。
+一旦'''UI-20'''开始移动，它会冲向当前房间，速度比玩家冲刺的速度更快。当'''UI-20'''抵达当前房间的门时，它会消失并停止发出所有声音。该实体的整体行为与UI-5非常相似，但移动速度更快。
+
+==策略与提示==
+*一旦你听到'''UI-20'''的声音，立刻躲藏，因为它会以不慢的速度接近当前房间。'''UI-20'''算不上重大威胁，整体非常容易躲避，因为它不会检查任何躲藏点，而且速度也不算特别快。
+*不要试图甩开'''UI-20'''，因为它的移动速度比你冲刺的速度更快。
+**这个想法非常不明智，尤其是在你已经深入Rooms后。
+*'''UI-20'''在发出声音前就能从很远的地方被看到，所以很容易判断什么时候需要应对它。
+
+==趣闻==
+* '''UI-20'''是作为玩笑加入的，因为该实体与I区都在2024年4月1日超级史诗模式发布时推出。
+*'''UI-20'''<nowiki/>的外观可以和其他Rooms同人游戏的实体作对比，比如来自INTERMINABLE ROOMS的'''UI-10'''。
+* 与大多数使用定向图片展示外观的实体不同，'''UI-20'''使用了一个所有面都贴有贴花的隐形方块，让该实体的外观直白又滑稽。
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

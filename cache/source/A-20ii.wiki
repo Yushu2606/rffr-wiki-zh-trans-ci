@@ -1,0 +1,51 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">A-20ii (Omega Smiler)</span>}}
+{{Modifier Exclusive|II Hate This, [[Super Epic Mode]], or [[April Fools 2026]]}}
+{{Headphones}}
+{{InfoBox:Entity
+|entity_name=[[File:A20iiPlaceHolder.png|frameless|link=A-20ii]]
+|entity_image=<gallery>
+NewA20ii.png|II Hate This Design
+A-20ii.png|Super Epic Mode Design
+AfA20ii.png|April Fools 2026 Design
+</gallery>
+|appears_at=A-020+(?) ([[Super Epic Mode]]/[[April Fools 2026]] modifiers)
+Anywhere with the '''II Hate This''' modifier enabled
+|nicknames=Omega Smiler
+|claustrophobia=No
+|behavior=rushes towards the door breaking it, then checks a random locker.
+|gun_effect=None
+|damage=Instant Death
+|speed=5-6 rooms per-seconds
+|related_monsters=[[A-20]]<br>[[A-20i]]
+|locker_snipe=Yes '''II Hate This'''<br>No '''Super Epic Mode/April Fools 2026
+|type=Rusher<br>Locker Checker
+|sound1=<center>Spawn '''Super Epic Mode/April Fools 2026'''</center><center>[[File:A20iiSpawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:A-20iiAmbience.mp3]]</center>
+|sound3=<center>Jumpscare</center><center>[[File:A-20iiJumpscare.mp3]]</center>}}
+
+== Description ==
+'''A-20ii''' is one of the first ii variants of the [[Super Epic Mode]], It's appearance is like older [[A-20i]] but yellow, as it can be also be spawned by Admins.
+
+== Mechanic ==
+<tabber>
+|-|II Hate This=
+'''II Hate This:'''
+Once spawned, it will make a quiet but noticable sound before rushing to the main room, once it hits the door it will idle in the middle for a few seconds before going to the to the nearest room with a blue locker, then collide with a random blue locker, exploding and destroying said locker, despawning
+
+|-|Super Epic Mode=
+'''Super Epic Mode:'''
+When it spawns, it will make the player screen static like there's an entity close, then it will rush and break down the door then wait an couple of seconds and check one random locker, Like [[M-60]].
+</tabber>
+
+==Trivia==
+* In [[April Fools 2026]] he is forced-spawn at room A-020
+** The same happens with '''II Hate This''' modifier.
+*The II Hate This '''A-20ii''' is the result of an [[A-20i]] when he eats too many chilli peppers. —don’t eat too many chili peppers or you might become a-20ii
+{{EntityNavBox}}
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Section A]]
+[[Category:Loud Entities]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Omega Variation]]

@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">D-20（温和观察者）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity|previous_entity=[[D-5]]
+[[D-5i]]
+|next_entity=[[D-35]]
+|entity_name=[[File:D20sux.png|frameless|link=D-20]]
+|entity_image= <gallery>
+D20.png|待机设计
+D-20Jumpscare.webp|跳杀/射击造型
+</gallery> 
+|caption-entity_image=求帮忙
+|appears_at=D-020之后的任意位置
+|gun_effect=使其立即消失
+|claustrophobia=否
+|nicknames=The Tempered Observer（温和观察者）
+|type=固定者
+|locker_snipe=是
+|behavior=对距离过近的玩家造成伤害
+|damage=每秒约16点伤害
+每秒10点伤害（玩家躲在柜子/文件柜中时）
+|speed=静止
+|sound1=<center>出现音效1</center><center>[[File:D20Spawn.mp3]]</center>
+|sound3=<center>环境音效</center><center>[[File:D20Ambi.mp3]]</center>
+|sound4=<center>消失音效</center><center>[[File:D20Despawn.mp3]]</center>
+|sound2=<center>出现音效2</center><center>[[File:D20Blood.mp3]]</center>
+|sound5=<center>跳杀/击杀音效</center><center>[[File:D-20Jumpscaresfx.mp3]]</center>}}
+
+==描述==
+'''D-20''' 是一种固定型[[Entities|实体]]。它的外观是一张倒置的脸，长有两只巨大的深色眼睛和满口尖牙。
+
+==行为==
+'''D-20''' 即将生成时，会在其生成位置释放若干粒子效果对玩家发出警告。2-3秒后，'''D-20''' 会正式生成，发出响亮的哔声并显现出它的脸。
+
+'''D-20''' 生成后，任何距离它过近的玩家都会受到伤害。约1分45秒后它会消失，消失时会播放音调更低版本的生成音效。
+
+==攻略与提示==
+* 如果你持有治疗类[[Items|物品]]，你可以直接穿过它，但不要停留过久，因为'''D-20''' 依然存在威胁。
+* 如果你没有任何治疗物品，请避开'''D-20'''。
+* '''D-20''' 可以遮挡[[D-5]]的视线，你可以利用这一点（不过这是'''D-20''' 唯一的优点）。
+
+==你知道吗==
+* '''D-20''' 可以被任意[[Items|武器]]消灭。
+* 有极低概率'''D-20'''会在同一个房间的所有生成点位同时出现，最多可生成6个复制体。
+* [[SHA-120]]可以碾过'''D-20'''，使其立即消失。
+
+==画廊==
+<gallery>
+D20jump.gif|跳杀
+</gallery>
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Weapon Affected]]
+[[Category:Stationary]]

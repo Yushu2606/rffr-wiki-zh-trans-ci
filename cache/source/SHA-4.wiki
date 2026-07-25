@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #5b00f4; color: #985dfb;">SHA-4 (Recall)</span>}}
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{HeadphonesNotice}}
+{{NoteBox|note='''SHA-4''' is currently bugged and cannot spawn in the [[Shadow Challenge]].}}
+{{InfoBox:Entity
+|entity_name=SHA-4
+|entity_image=<gallery>
+NewSHA4.png|Upcoming
+SHA4.png|Current
+</gallery>
+|previous_entity=[[SHA-3]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-30]] ([[Shadow Challenge|SC]])<br>[[SHA-7]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Recall
+|gun_effect=No Shadow can be shot
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rebounder<br>Spawner
+|claustrophobia=No
+|behavior=Spawns entities
+|speed=Moderate
+|locker_snipe=Yes
+|damage=300 DPS<br>25~ (Shadow Plague)
+|related_monsters=[[SHA-120]]<br>[[SHA-180]]
+|sound1=<center>Far Ambience '''Taken From Game'''</center><center>[[File:SHA4Far.mp3]]</center>
+|sound2=<center>Close Ambience '''(Loud Warning)'''</center><center>[[File:SHA-4 near ambiance.mp3]]</center>|sound3=<center>Metal Door Smash</center><center>[[File:Door.mp3]]</center>}}
+
+== Description ==
+'''SHA-4''' is the 4th and final Shadow "Orb" entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier.
+
+== Behavior ==
+'''SHA-4''' spawns behind the current room's door, idling for a few seconds, usually around 10. If the door is interacted with, the time is cut short to around 3. When he travels to the current room he will break down the door, idle for a short period in the center, and then fall back. After he falls back, he will spawn one of the entities listed below. Once that entity fully despawns, '''SHA-4''' will rush to the current room, sit in the center, and then despawn.
+
+'''SHA-4''' can spawn:
+* [[SHA-1]]
+* [[SHA-2]]
+* [[SHA-7]]
+* [[SHA-22]]
+* [[SHA-30]]
+* [[SHA-35]]
+* [[SHA-55]]
+* [[SHA-60]]
+* [[SHA-85]]
+* [[SHA-120]]
+* [[SHA-140]]
+* [[SHA-150]]
+* [[SHA-180]]
+* [[SHA-200]]
+
+== Strategies & Tips ==
+* Listen for its far ambiance if you aren't able to open the door.
+** If you don't hear it or [[SHA-2]] while in [[Alpha & Shadowpocalypse]] then run back immediately, [[SHA-300]] is the one behind the door. 
+
+== Trivia ==
+* '''SHA-4''' used to make a bubble around itself when despawning, killing anyone inside it.
+** The bubble is still present but won't kill you anymore.
+* '''SHA-4''' can invade by During any Perfection Event.
+* '''SHA-4''' has a glitch that makes it so he cannot spawn in [[Shadow Challenge|SC]].
+** additionally, SHA-4 may not backtrack until the spawned entity despawns (it will happen SOMETIMES)
+
+== Gallery ==
+<gallery>
+File:SHA-4 anim ingame.gif|'''SHA-4''''s animation in-game (low quality)
+File:SHA-4 despawning.png|'''SHA-4''' seen from inside a locker
+</gallery>
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]

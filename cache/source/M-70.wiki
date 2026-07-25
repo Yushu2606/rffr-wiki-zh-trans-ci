@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="animation: m70 0.75s infinite;">M-70 (Broadcaster)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:Gayness.gif|frameless|link=M-70]]|entity_image=<gallery>
+NewM70.png|Idle
+NewM70Jumpscare.png|Jumpscare
+NewM-70.png|Old Idle
+NewM-70Jumpscare.png|Old Jumpscare
+M70.png|Older Idle
+M-70!.webp|Older Jumpscare
+</gallery>
+|previous_entity=[[M-60]]<br>
+[[M-60i]]<br>
+|next_entity=[[M-120]]<br>[[M-120i]] (Upcoming)
+|nicknames=The Broadcaster
+|claustrophobia=Yes
+|gun_effect=None
+|locker_snipe=Yes
+|appears_at=M-70+
+|type=Fallbacker<br>
+Aimscripter<br>
+|behavior=Acts almost same as [[D-200]] but closes doors instead.
+|speed=1.1 - 2.5 Rooms Per Second (Moderate-Fast)|damage=Instant Death (Instant Death locker snipe)
+|sound1=<center>Pings</center><center>[[File:M-70Ping.mp3]]</center>
+|sound2=<center>Ambush Spawn</center><center>[[File:M70ambush.mp3]]</center>
+|sound3=<center>Ambush Ambience</center><center>[[File:M-70Ambush.mp3]]</center>|related_monsters=[[D-200]] (Similar mechanic)|sound4=<center>Kill Sound</center><center>[[File:M-70KillSound.mp3]]</center>}}
+
+==Description==
+'''M-70''' is the fourth entity you will encounter within the M-Section. It was added in the third Restructured update test and it is a more diverse, unique entity compared to others. More information about '''M-70''' will be presented below.
+
+==Mechanic==
+When M-70 spawns, the doors behind you will all close. After a bit the next doors label will ping a couple of times, M-70 will then appear behind the door and backtrack though the rooms. If a player exits their hiding spot, M-70 will come back for them. After 10-15 seconds, M-70 will despawn. If M-70 catches a player not being fully hidden, they will instantly die.  
+
+However, there's a chance for M-70 to ambush player by playing a weird music-like sound, not closing any doors behind. M-70 still blocks the next door from opening. If you hear a faint music - it's best to hide.   
+
+== Note ==
+'''M-70''' sometimes doesn't close the doors and instead play its jumpscare sound's initial beeps, so pay attention for this.
+
+== Strategy & Tips ==
+
+* '''M-70''' might wait for [[M-60]] to finish checking the locker before fallbacking, so when [[M-60]] despawns wait a few seconds in the locker to avoid getting killed by '''M-70'''.
+* '''M-70''' sometimes doesn't close the doors and instead play its Jumpscare sound's initial beeps, so pay attention for this.
+* '''M-70'''<nowiki/>'s snipe is instakill, so if needed, slam-enter in the locker if you're going to die by '''M-70''', but that's risky because of [[M-134]].
+
+==Trivia==
+* '''M-70''' now can ambush the player as with the most recent update, it will not close the doors and instead will make a weird beep sound, as it will backtrack silently with whispers.
+* Using tables as hiding spot against '''M-70''' is bad idea, as it will still aim at you just like if you aren't hiding.
+* '''M-70''' can spawn alongside with locker checker entities like [[M-150]], or [[M-200]].
+
+== Gallery ==
+<gallery>
+File:M-70 close.webp|'''M-70''' seen close up in-game.
+File:M-70Jumpscare.gif|M-70's jumpscare
+</gallery>{{EntityNavBoxSectionM}}
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Aimscripter]]

@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">Execution</span>}}
+{{Section?Stub}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Execution
+|type=柜子检查者
+|behavior=生成在显示器内部，随后破屏而出并检查灰色柜子
+|speed=慢
+|appears_at=[[Unnamed Sector|无名区域]]的任意位置
+|damage=秒杀
+|gun_effect=无
+|locker_snipe=否（进入时）<br>是（离开时）
+|related_monsters=[[A-135]]<br>[[M-150]]<br>[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-80 U-80 IRUS]
+|caption-entity_image=
+|entity_image=Execution.png
+|previous_entity=[[Tackle]]<br>[[Lunge]]
+|next_entity=[[False-60]]
+|claustrophobia=是
+|sound1=<center>生成</center><center>[[File:EXspawn.mp3]]</center>
+|sound2=<center>跳杀音效</center><center>[[File:EXJump.mp3]]</center>}}
+
+== 描述 ==
+该实体是[[Unnamed Sector|无名区域]]第三支预告片中登场的实体。
+
+== 行为 ==
+当一扇门被打开后，它会出现在房间内的其中一台显示器里，并播放失真版本的bass.wav，片刻后破屏而出，检查主房间内的所有灰色柜子，检查完毕后它会回到显示器中并消失。
+
+
+== 画廊 ==
+<gallery>
+File:EXjump.gif|跳杀
+File:EXOFF.jpg|未容纳Execution的显示器
+File:EXON.jpg|同上，但容纳了Execution
+File:Execution_Checking_Locker.webp|正在检查柜子的Execution
+</gallery>
+
+== 冷知识 ==
+* [https://youtu.be/GJ12qRgxM2Y?si=K_3Lx5yx9FiWe0Yz Update Executive 第三支预告片]

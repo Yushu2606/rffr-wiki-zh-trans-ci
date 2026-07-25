@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-173Placeholder.png|frameless|link=UI-173]]
+|entity_image=UI-173.png
+|previous_entity=[[UI-157]]
+|appears_at=I-173+
+|type=Fallback
+|next_entity=[[UI-200]]
+|damage=Instant Death.
+|related_monsters=[[A-85]]<br>[[D-120]]<br>[[UI-83]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-173Ambiance.mp3]]</center>}}
+
+== Description ==
+'''UI-173''' is the 8th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-173''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+'''UI-173''' will appear at the front, rushing back after 3 seconds at a speed comparable to that of [[UI-110]]
+
+== Strategy & Tips ==
+Hide immediately when you see/Hear him
+
+== Trivia ==
+* Like most UI entities, '''UI-173''' was added as a joke.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

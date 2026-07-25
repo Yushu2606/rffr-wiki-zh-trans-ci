@@ -1,0 +1,60 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200 (Hypoxia)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha200logo.gif]]
+|entity_image=<gallery>
+NewSHA200.gif|Current Design
+Sha200.gif|Old Design
+SHA-200Older.gif|Older Design
+OldSHA200.gif|Oldest Design
+</gallery>
+|caption-entity_image=me when Connor at door 30
+|previous_entity=[[SHA-180]]
+|next_entity=None ([[Shadow Challenge|SC]])<br>[[LAPSE-200]]([[Alpha & Shadowpocalypse|A&SP]])<br>[[SHA-300]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Hypoxia
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>Invasion
+|type=Shadow<br>Aimscripter
+|claustrophobia=Yes
+|behavior=Same as [[D-200]] but will always approach you to play the minigame even if you're hidden
+|speed=Same as <br>[[A-200]]
+|gun_effect=No Shadow can be shot
+|sound1=<center>Spawn</center><center>[[File:SHA200Spawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:SHA200Far.mp3]]</center>
+|sound3=<center>Proximity Ambience</center><center>[[File:Shadow-200.mp3]]</center>
+|sound4=<center>Breach Soundtrack</center><center>[[File:SHA200Breach.mp3]]</center>
+|damage=Instant Death (cannot locker snipe)
+|locker_snipe=No
+|related_monsters=[[A-200]]<br>[[LAPSE-200]]}}
+
+== Description ==
+'''SHA-200''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[A-200]].
+
+== Behavior ==
+'''SHA-200''' spawns at the very back, playing a sound akin to wind slightly blowing. He is one of the "forced entities" in [[Shadow Challenge]]. He will aim-script to the player, no matter where you are. If he reaches you and you're not inside of a locker, you die. If he reaches you and you're in a locker, you get breached. '''SHA-200'''<nowiki/>'s breach is similar to the breach used by [[Striketeam Solstice]], however the screen becomes dark, only revealing the area around your cursor.
+
+== Strategy & Tips ==
+<tabber>
+|-|Unhidden=
+'''Unhidden:'''
+* If you hear or are sure that the '''SHA-200''' has appeared, you should immediately hide, as [[Claustrophobia]] does not appear during its attack
+* Don't try to hide in a safe place, because the '''SHA-200''' can easily find you there, because it always knows where you are.
+* You have the opportunity to escape from the '''SHA-200''', as its speed is equal to the speed of [[Mouth|A-300]], so he's faster than you, but if you run as fast as you can, you'll be faster
+** But note that if there are <u>multiple players</u> in the game, then it will be impossible to escape from the '''SHA-200'''
+|-|Hidden=
+'''Hidden:'''
+* Wait for '''SHA-200'''
+*  Wait for the mini-game to start, as with [[Striketeam Solstice]]
+** Keep the cursor in the center of the circle
+** If you've lost the circle (and it's moving), wiggle the cursor back and forth to find it, or take a closer look
+</tabber>
+
+== Trivia ==
+* SHA-200 is forced to spawn after having gone completed around 80-90% Of the [[Shadow Challenge]] (if you haven't encountered it yet), and room 666 in [[Alpha & Shadowpocalypse|A&SP]] after the words:
+** <span style="text-shadow: 0 0 5px black; color: #5509D2;">You've gone too far for your own good.</span>
+** <span style="text-shadow: 0 0 5px black; color: #390789;">Now put on a great show for us.</span>
+** <span style="text-shadow: 0 0 5px black; color: #5E0A0B;">..You heard something in the distance.</span>
+* SHA-200's Breach Soundtrack is called "Good luck" by Musicmanaz on YouTube.
+** https://youtu.be/ycYFr34dvX4?si=Ov1gEmJDwXzpQmat
+* Surviving SHA-200 3 times during [[Alpha & Shadowpocalypse]] will award you "[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocolypse]" badge
+[[Category:Shadow Entities]]
+[[Category:Aimscripter]]
+[[Category:Rusher]]

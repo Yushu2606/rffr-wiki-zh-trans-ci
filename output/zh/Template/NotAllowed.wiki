@@ -1,0 +1,6 @@
+<includeonly>[[Category:Design Not Allowed]]</includeonly>
+
+<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 16px 0 #FFFF00, inset 0 0 15px #FFFF00; background:none; margin-top: 20px; color:#FFF; border: 5px solid Yellow; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+[[File:NotAllowedStub.png|top|550x550px|link=]]<div style="font-size:25px">{{PAGENAME}}的设计属于[[:Category:Design Not Allowed|本Wiki不予收录的内容]]，原因如下：<br>'''{{{1|（请在此处添加原因）}}}'''
+<br></span>
+</div></center><br/><noinclude>

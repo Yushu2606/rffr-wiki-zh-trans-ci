@@ -1,0 +1,65 @@
+{{Removed|reason=Community vote}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">M-7 (Zobie)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=M-7
+|entity_image=<gallery>
+M7Anim.gif|Animation
+M7eyes.gif|Eyes Form Animation
+M-7.webp|Recreated Design
+</gallery>
+|previous_entity=[[Mouth|D-300]]
+|next_entity=[[M-22]]
+|nicknames=Zobie
+|appears_at=M-007+ (Removed, Now only by admins)<br>I-900 - I-1000 ([[Legacy Mode]])
+|behavior=Noisemaker
+|damage=None
+|claustrophobia=No
+|gun_effect=None
+|sound1=<center>Ambience</center><center>[[File:M7.mp3]]</center>
+|sound2=<center>Ambience During Eye Form</center><center>[[File:M7Eye.mp3]]</center>
+|sound3=<center>Eye Form Whispers</center><center>[[File:M7whispers.wav]]</center>
+|sound4=<center>Switch 1</center><center>[[File:M7Switch1.mp3]]</center>
+|sound5=<center>Switch 2</center><center>[[File:M7Switch2.mp3]]</center>
+|sound6=<center>Switch 3</center><center>[[File:M7Switch3.mp3]]</center>
+|sound7=<center>Switch 4</center><center>[[File:M7Switch4.mp3]]</center>
+|sound8=<center>Switch 5</center><center>[[File:M7Switch5.mp3]]</center>
+|related_monsters=[[SHA-7]]|caption-entity_image=|ent_info_header=}}
+
+== Description ==
+'''M-7''' is currently the only removed entity in the [[section M|M Sector]].
+
+== Behavior ==
+When '''M-7''' Spawns, it will place itself in a random position in the room, just like [[D-20]], except it can be anywhere, even through walls.
+
+'''M-7''' cannot directly kill the player, instead, it will make loud sounds, blocking the sound from quiet entities. Sometimes, '''M-7''' will become just a pair of eyes, making whispering sounds that play Globally, further blocking entity sounds.
+
+If doors are opened while '''M-7''' is active, '''M-7''' will instantly move to the most recent opened room and will go to a random position.
+
+For it to Despawn, it has to travel atleast 7 rooms, while also having to be active for atleast 15 seconds.
+
+== Strategy & Tips ==
+* It is Recommended that you keep moving forward, since '''M-7''' will never despawn if doors aren't opened.
+** You should stay near hiding spots at all times, so that you aren't ambushed by a quiet entity.
+
+== Trivia ==
+* '''M-7''' is one of the few entities that cannot kill the player.
+* '''M-7''' would have been force spawned at M-900 and wouldn't despawn until M-1000 was reached.
+* '''M-7''' was temporally readded in the [[April Fools 2026]] event beeing able to spawn by an event in-game
+** The event "Are you kidding me...?" was the one spawning some '''M-'''<nowiki/>'''7''''s
+
+== Lore ==
+* All instances of '''M-7''' were Infected into [[SHA-7]].
+
+== Gallery ==
+<gallery>
+MF-7.jpg|M-7 seen in [[Section A]] after being spawned by an admin
+BroLEAVE.gif|M-7 seen in [[Red Rooms]] while in [[Legacy Mode]]
+I7Vote.jpg|The community vote that removed '''M-7'''
+</gallery>
+
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Harmless]]

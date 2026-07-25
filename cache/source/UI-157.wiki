@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Headphones}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-157Placeholder.png|frameless|link=UI-157]]
+|entity_image=UI157.webp
+|previous_entity=[[UI-110]]
+|next_entity=[[UI-173]]
+|appears_at=I-157+
+|type=Rusher
+|damage=Instant Death.
+|related_monsters=[[UI-110]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-157Ambiance.mp3]]</center>}}
+
+==Description==
+'''UI-157''' is the 7th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-157''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+'''UI-157''' behaves just like [[UI-110]] rushing to the door very quickly before despawning, just a bit slower than [[UI-110]].
+
+== Strategy & Tips ==
+Hide immediately when you hear him, since its very fast.
+
+== Trivia ==
+* Like most UI entities, '''UI-157''' was added as a joke.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

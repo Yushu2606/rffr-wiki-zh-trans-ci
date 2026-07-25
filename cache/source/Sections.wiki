@@ -1,0 +1,35 @@
+
+== Description ==
+Sections are the main place where actions of the game take place. Every Section has unique entities that inhabitate in their respective Sections, as well as unique architecture for each one. All Sections have different difficulty, but for most part they all are the same difficulty. Upon reaching ''Room 100'', rooms will slowly begin to be darker, and upon reaching ''Room 500''''',''' from here and onward, the Section will be completely dark. Upon reaching ''Room 900,'' the [[Red Rooms]] will begin, and will last exactly 100 Rooms. Upon reaching ''Room 1000'', Red Rooms will end and you can choose to either continue in the endless run or get an ending.
+
+==[[Section A]]==
+Section A (Agency) is the first section players will encounter, and is fairly the easiest. It contains the most basic entities, such as the slow [[A-20]] and infamous [[A-60]]. This is the only section for all its inhabitants to have [[:Category:I Variation|I variants]] except [[A-120]], harder but rarer versions of the same entity.
+
+==[[Section D]]==
+Section D (Depth & Derelict) is the second section players will encounter once A-400 is passed. It first starts out as a mineshaft, and is like so until D-100. However, a ladder leads you up to the Derelict. This is the second hardest section by far, containing difficult entities like [[D-55]] and [[D-140]]. This section also contains the extremely rare [[D-60i]].
+
+==[[Section M]]==
+Section M (Maintenance) is the third section as of now, being the easiest, with the least amount of entities and almost no I variants, only with [[M-22i]] (Siren Prime), [[M-60i]] (Mediator), [[M-120i]] (Upcoming) and [[M-70i]] (Admin only/Angrered M-70 version). Since of its easily understable entity mechanics, this section is a breather for players, and is a quick way to lead to the next section, [[Section E]].
+
+==[[Unnamed Sector]]==
+Unnamed Sector is more of a "side quest": not necessary, but mandatory to reach [[Section E]]. Unlike other sections, all entities that reside here can spawn at any moment instead of after certain door (except [[False-120]] and [[False-200]]). It contains very simple entities, but also has unique ones, like [[False Witness]] and [[False-200]]. This section also has a unique item for it - Strange Keycard, which starts spawning after ''door 100.'' After picking up keycard, lights will turn off, and after some rooms, [[Red Rooms]] will set in. Upon reaching the "exit" of a section, it will begin with a chase sequence with [[Mouth|False-300]]. By finishing chase sequence, the player will be teleported back into '''Section A''' lobby, while keeping [[Items|Strange Keycard]] indefinitely.
+
+==[[Section E]]==
+Section E (Executive) is the fourth(technically fifth if we include Unnamed Sector) section that the player will come across. This section is by far the hardest in the game, including silent entities such as [[E-10]], [[E-30]], [[E-60]]; and very complicated entities such as [[E-200]] and [[E-245]]. This section also has unique mechanic: every 100th door, you need a [[Items|Strange Keycard]] equipped to proceed. Otherwise, players will be stopped from progressing any further.
+
+==[[Section R]]==
+Section R (Radiation) is the fifth(technically sixth if we include Unnamed Sector) section that the player will come across.
+
+==[[Section I]]==
+Section I (Interchange) is a legacy mode exclusive, being the original Section M. Most of Section M's entities can be found here.
+
+==[[Section UI]]==
+Section UI (Unknown Interchange) is a [[Super Epic Mode]] exclusive, being a Joke/Earliest version of Section I. Theres a total of 17 entities that reside within this section.
+
+== Trivia ==
+
+* All Sections are technically infinite.
+* TBA
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

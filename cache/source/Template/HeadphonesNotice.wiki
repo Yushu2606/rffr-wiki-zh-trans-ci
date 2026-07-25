@@ -1,0 +1,6 @@
+<includeonly>[[Category:Loud Entities]]</includeonly>
+
+{| style="margin: auto; font-family:Urbanist; margin-bottom: 16px; margin-top: 16px; font-size: 12pt; border: 4px solid #D80055; background:radial-gradient(#35000D,#490000); width: 96%; border-radius: 20px; box-shadow: 0 0 20px 0 #D80000, inset 0 0 10px #D80000;
+| style="text-align: center; padding-bottom: 1px; color:#ffffff; border-radius: 15px; padding: 2px 15px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black;" | [[File:Somethinge.webp|right|18px|link=]] [[File:Somethinge.webp|left|18px|link=]] <big>'''Headphones Warning'''</big><br>'''{{BASEPAGENAME}}''' is very loud by nature. if you are sensitive to the loud noises. Take care when at high volume or proceed with caution.
+|}
+<noinclude>

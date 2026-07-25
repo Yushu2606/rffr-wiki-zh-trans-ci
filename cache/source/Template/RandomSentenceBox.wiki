@@ -1,0 +1,42 @@
+<center><div class="mainpagething" style=" width: 97%; border: 4px solid white; box-shadow: 0 0 20px 0 white, inset 0 0 20px white; margin-top: 30px; margin-bottom: 30px; text-align: center; padding:5px; border-radius: 30px;"><font size="4px;"><span style="text-shadow: 0 0 7px white">
+<center>
+<choose uncached>
+<option><font size="5px">NOTE:</font><br>''The makers of 'Rooms: Found Footage: RENOVATED' are not associated with Catz or Feline Fine Productions in any way.''</option>
+<option><font size="5px">LORE FACT:</font><br>''All the entities canonically do not have a gender, but prefer male pronouns.''</option>
+<option><font size="5px">LORE FACT:</font><br>''It is believed that the S.P.A.W.N. Organization is responsible for this Anomaly.''</option>
+<option><font size="5px">TIP:</font><br>''Play Every Section. They May Have Changed!''</option>
+<option><font size="5px">NOTE:</font><br>''Renovated.''</option>
+<option><font size="5px">LORE FACT:</font><br>''Your reason for being here is indeterminate, and we encourage you to make up your own personal story!''</option>
+<option><font size="5px">TIP:</font><br>''It's recommended that you play at an acceptable level of volume''</option>
+<option><font size="5px">LORE FACT:</font><br>''███████████████████████████████████████████████''</option>
+<option><font size="5px">LORE FACT:</font><br>''With some exceptions, it is believed that nobody remains here alive.''</option>
+<option><font size="5px">LORE FACT:</font><br>''With some exceptions, it is believed that nobody remains here alive.''</option>
+<option><font size="5px">TIP:</font><br>''Hiding in lockers is not the only option to escape death.''</option>
+<option><font size="5px">TIP:</font><br>''When playing with friends, remember to look out for each other.''</option>
+<option><font size="5px">TIP:</font><br>''It's recommended you play this game at high volume, but not too high.''</option>
+<option><font size="5px">TIP:</font><br>''If the lights are red, you're in deep trouble.''</option>
+<option><font size="5px">TIP:</font><br>''Don't fall behind in multiplayer sessions.''</option>
+</choose>
+</center>
+</center>
+</span></font></div>
+<noinclude>
+<h2>List of Outcomes</h2>
+===Notes===
+*NOTE: The makers of 'Rooms: Found Footage: RENOVATED' are not associated with Catz or Feline Fine Productions in any way.
+*NOTE: Renovated.
+===Tips===
+*TIP: Play Every Section. They May Have Changed!
+*TIP: It's recommended that you play at an acceptable level of volume
+*TIP: Hiding in lockers is not the only option to escape death.
+*TIP: When playing with friends, remember to look out for each other.
+*TIP: It's recommended you play this game at high volume, but not too high.
+*TIP: If the lights are red, you're in deep trouble.
+*TIP: Don't fall behind in multiplayer sessions.
+===Lore===
+*LORE FACT: All the entities canonically do not have a gender, but prefer male pronouns.
+*LORE FACT: It is believed that the S.P.A.W.N. Organization is responsible for this Anomaly.
+*LORE FACT: Your reason for being here is indeterminate, and we encourage you to make up your own personal story!
+*LORE FACT: ████████████████████████████████████████████████
+*LORE FACT: With some exceptions, it is believed that nobody remains here alive.
+</noinclude>

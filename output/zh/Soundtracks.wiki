@@ -1,0 +1,257 @@
+{{Stub}}
+
+<tabber>
+|-|R:FF:R OST Volume 1=
+'''R:FF:R 原声带 第一卷'''
+{| class="fandom-table" style="text-align:center"
+!歌曲名
+!出现场景
+!游戏内原声
+!链接
+!备注
+|-
+!'''Abandon Hope'''
+|大厅主题曲
+|[[File:Abandon Hope.mp3|middle]]
+|[https://www.youtube.com/watch?v=sl66hx1LRcg Youtube]
+|-
+!'''Ponderous Shopping'''
+|[[Endellion]]的收音机主题曲
+|[[File:PonderousShopping.mp3|middle]]
+|[https://www.youtube.com/watch?v=LWcFZ_8isLg Youtube]
+|-
+!'''Eventual Demise'''
+|等待其他玩家加载时
+|[[File:Placeholder.mp3|middle]]
+|[https://www.youtube.com/watch?v=x8qet01-jYw Youtube]
+|-
+!'''Derelict'''
+|废弃阶段的[[Section D|D区]]
+|[[File:Derelict.mp3|middle]]
+|[https://www.youtube.com/watch?v=b0SN5ehD3Jo Youtube]
+|-
+!'''Trepidation'''
+|[[D-60i]]激活时播放的旧主题曲
+|[[File:TREPIDATION.mp3|middle]]
+|[https://www.youtube.com/watch?v=xhUaF0Ya1tE Youtube]
+|已无法在正常游玩过程中听到
+|-
+!'''Maintenance'''
+|[[Section M|M区]]开场曲
+|[[File:Interchange.mp3|middle]]
+|[https://www.youtube.com/watch?v=mr9PRHd94ak Youtube]
+|-
+!'''Devour'''
+|[[Mouth]]在[[Section A|A区]]或[[Section D|D区]]激活时播放
+|[[File:DEVOUR.mp3|middle]]
+|[https://www.youtube.com/watch?v=Lv1vn8uvqtc Youtube]
+|-
+!'''Midnight Hour'''
+|玩家加载[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日打击小队）]]时播放
+|[[File:MidnightHour.mp3]]
+|[https://www.youtube.com/watch?v=7qjcEAWs7sM Youtube]
+|无法在正常游玩过程中听到
+|-
+!'''Escalation'''
+|[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日打击小队）]]破开柜子时播放
+|[[File:Escalation.mp3]]
+|[https://www.youtube.com/watch?v=jNfhg-7yQyI Youtube]
+|-
+!'''Sovereignty'''
+|[[Player Controlled#Corporeal Void|Corporeal Void（实体虚空）]]破开柜子时播放
+|[[File:VoidBreach.mp3]]
+|[https://www.youtube.com/watch?v=e-IfbNv5HGY&pp=0gcJCQMLAYcqIYzv Youtube]
+|-
+
+|-|R:FF:R OST Volume 2=
+'''R:FF:R 原声带 第二卷'''
+{| class="fandom-table" style="text-align:center"
+!歌曲名
+!出现场景
+!游戏内原声
+!链接
+!备注
+|-
+!'''Thousand Ends'''
+|A-1000
+|[[File:A1000New.mp3]]
+|[https://youtu.be/1nJ0j0W7cZ4?si=eLsUk58m9EibSCCX Youtube]
+|-
+!'''Forget Us Not'''
+|D-190 - D-200
+|[[File:Forget Us Not.mp3]]
+|[https://youtu.be/X1cmbHLtFSE?si=AZIXtE62xdaonK5L Youtube]
+|-
+!'''System Lockdown'''
+|[[D-200]] Boss战
+|[[File:SystemLockdown.mp3]]
+|[https://youtu.be/ZP1KoAW5h-M?si=-8wjmO7wxGn_JdIm Youtube]
+|-
+!'''Trepidation V2'''
+|[[D-60i]]的主题曲
+|[[File:TrepidationV2.mp3]]
+|[https://youtu.be/gH1G7IonCoM?si=8GWlJjbR9B22kn9k Youtube]
+|-
+!'''Deeper Bellow'''
+|D-1000
+|[[File:DeepBellow.mp3]]
+|[https://youtu.be/_NwgmTBI-Cc?si=bYzOpdp2Q2NTnkR5 Youtube]
+|-
+!'''Emergency Evasion'''
+|M-1000
+|[[File:Emergency Exit.mp3]]
+|[https://youtu.be/GeB2HHlzx0U?si=dpY59a8iA8tfKlxZ Youtube]
+|-
+!'''Executive'''
+|[[Section E|E区]]开场曲
+|[[File:Executive.mp3]]
+|[https://youtu.be/XiD1k7wTjtE?si=oh7CzidCCh3s9uDF Youtube]
+|游戏内会将原曲放慢至0.98倍速播放
+|-
+!'''Verge Of Breakdown'''
+|E-1000
+|[[File:Verge Of Breakdown.mp3]]
+|[https://youtu.be/71V6Fb1dW5E?si=xFQqVlCQqltzzt2T Youtube]
+|-
+!'''Devour (ENRAGED)'''
+|[[Mouth]]在[[Section M|M区]]或[[Section E|E区]]激活时播放
+|[[File:DEVOUREnraged.mp3]]
+|[https://youtu.be/0em_O3MUDA0?si=PN4wacbpl77xJJDo Youtube]
+|-
+!'''Threshold of the Undefined'''
+|[[Mouth|False-300]]的追逐战
+|[[File:Threshold of the Undefined.mp3]]
+|[https://youtu.be/Octbf_-KDm8?si=2EwIadvEb4x_9yMv Youtube]
+|-
+
+
+|-|Other Soundtracks=
+'''其他原声带'''
+{| class="fandom-table" style="text-align:center"
+!曲目名称
+!出现位置
+!游戏内原声
+!来源
+!备注
+|-
+!'''Blue Feather'''
+|A-000 - A-020
+|[[File:BlueFeather.mp3|middle]]
+|[https://youtu.be/tha0s1pg12o?si=badLB_Ox6zZCYjIL Youtube]
+|-
+!'''Anxiety'''
+|A-021 - A-100
+|[[File:Anxiety.mp3|middle]]
+|[https://youtu.be/qO1WG3P1T0I?si=qf3YJ2fZ-EoXV149 Youtube]
+|-
+!'''Niko's Journey'''
+|[[Section A|A区]]的厨房房间
+|[[File:NikosJourney.mp3|middle]]
+|[https://youtu.be/oRhq1-PAsEg?si=f37FyhGUdJqMA5w1 Youtube]
+|-
+!'''LOSTCORE'''
+|Kev的办公室
+|[[File:LOSTCORE.mp3|middle]]
+|[https://youtu.be/D86hsJQ1VuM?si=Zs_rNgFObl54vRa5 Youtube]
+|-
+!'''Doctor's Lab'''
+|endless mode（无尽模式）下Derelict section（废弃区段）期间的[[Section D|D区]]
+|[[File:OldSectorDOST.mp3|middle]]
+|[https://youtu.be/GqM4bvtzkow?si=qPjhIeFkFQ5YARTR Youtube]
+|-
+!'''We Gotta Run'''
+|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]/[[True Legacy Mode|True Legacy Mode（真遗产模式）]]中[[Mouth]]处于激活状态时
+|[[File:OldMouthOST.mp3|middle]]
+|[https://youtu.be/keC6yd7hQWg?si=zYqOl73ZMNO0Vv2u Youtube]
+|-
+!'''Escape From Darkness Suspense'''
+|[[Red Rooms|红区]]期间
+|[[File:RRSound4.mp3|middle]]
+|[https://youtu.be/ykBCMvrKDF4?si=6ILTlaAsw9wP-tw5 Youtube]
+|原曲在游戏内减速至0.4倍速
+|-
+!'''Riots'''
+|[[D-5i]]被激怒时
+|[[File:Riots.mp3]]
+|[https://create.roblox.com/store/asset/1837798101/Riots Roblox 商城]
+|-
+!'''Calm Waves'''
+|加载界面
+|[[File:CalmWaves.mp3|middle]]
+|[https://youtu.be/ykBCMvrKDF4?si=lc9Xidu1AouwzBsl Youtube]
+|-
+!'''Waking Up To Science [menu]'''
+|加载界面
+|[[File:WakingUpToScience.mp3|middle]]
+|[https://youtu.be/AUFTyg2SXLc?si=izgNiZMDP-u_8nCb Youtube]
+|-
+!'''FNF Nightlight Menu Music'''
+|加载界面
+|[[File:NightLight.ogg]]
+|[https://youtu.be/IFdSPI714Ic?is=U-5Wg9cd9YBFavyU Youtube]
+|-
+!'''All I Had To Do'''
+|聆听[[Oblivion]]时
+|[[File:OblivionDeath.mp3|middle]]
+|[https://youtu.be/JsKN_f5mSLk?si=FtSDFC43yQAAA_8X Youtube]
+|原曲在游戏内略微减速
+|-
+!'''GLACEIR'''
+|[[Unnamed Sector|无名区域]]的开场主题曲
+|[[File:IntoTheUnknown.mp3]]
+|[https://youtu.be/HkZROzxUvAo?si=7h_Ii7qslZUDyecx Youtube]
+|游戏内减速至0.96倍速
+|-
+!'''Shadow Candy Theme'''
+|[[Shadow Challenge|暗影挑战]]期间
+|[[File:SCMain.mp3|middle]]
+|[https://youtu.be/IEd4zLW3iWg?si=1G1AgPASnV54EKhT Youtube]
+|-
+!'''Good Luck'''
+|被[[SHA-200]]突破时
+|[[File:SHA200Breach.mp3|middle]]
+|[https://youtu.be/ycYFr34dvX4?si=JXkm7LxfdMUGy92N Youtube]
+|-
+!'''The Binding of Isaac'''
+|聆听[[Overseer]]时
+|[[File:OverseerDeath.mp3]]
+|[https://youtu.be/of_2Bfh7ZhA?si=1y-J887v5nVwd614 Youtube]
+|原曲在游戏内减速至0.7倍速，音调降低至0.9
+|-
+!'''Temporal Tenacity'''
+|被[[LAPSE-200]]突破时
+|[[File:TemporalTenacity.mp3]]
+|[https://youtu.be/8a2sfszREZc?si=BxA0XsYnbObdp24P Youtube]
+|-
+!'''FORSAKEN UST: YOURSELF JOHN DOE LMS'''
+|被[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日突击队）]]成员突破时小概率播放
+|[[File:Rare breach soundtrack.mp3]]
+|[https://youtu.be/YR-fLn7RGK0?si=O1uHXc828u121s7a Youtube]
+|-
+!'''First Warning [Remix]'''
+|击杀足够数量的[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日突击队）]]成员，达到Asiyah（阿西亚）威胁等级时
+|[[File:Gate1.mp3]]
+|[https://youtu.be/Qd1XSVa18fo?si=BPx6w0sFEtNf1gCC Youtube]
+|-
+!'''Second Warning [Remix]'''
+|击杀足够数量的[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日突击队）]]成员，达到Briah（布利亚）威胁等级时
+|[[File:Gate2.mp3]]
+|[https://youtu.be/zyoLNSUQJVE?si=aMD2pmEyO0Nwxdck Youtube]
+|-
+!'''Third Warning [Remix]'''
+|击杀足够多的[[Player Controlled#Striketeam_Solstice|Striketeam Solstice（至日突击队）]]成员以达到Atziluth威胁等级
+|[[File:Gate3.mp3]]
+|[https://youtu.be/0HKVd4WQzRY?si=ULNa8GreSNgpDr1p Youtube（优兔）]
+|-
+!'''第四次警告'''
+|引起[[Player Controlled#Corporeal Void|Corporeal Void（实体虚空）]]的注意
+|[[File:Gate4.mp3]]
+|[https://youtu.be/Z7Hxuk7akdc?si=K18No4KCajxTxhuC Youtube（优兔）]
+|游戏内Orgin（原版）速度调慢至0.9，音调降至0.83
+|-
+!'''A Creation Of Sorrow（悲伤造物）'''
+|在被[[Player Controlled#Lucy|Lucy（露西）]]或[[Player Controlled#Ava|Ava（艾娃）]]突破时
+|[[File:ACreationOfSorrow.mp3]]
+|[https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO Youtube（优兔）]
+|-
+</tabber>

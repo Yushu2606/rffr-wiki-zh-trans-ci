@@ -1,0 +1,128 @@
+{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">M区（维护/小幅改动）</span>}}{{ArticleBackground|File=MBackground.webp}}
+{{SectionMStub}}
+{{SectionInfoBox
+|image=Placeholder.webp
+|previous_section=[[Section D|D区]]
+|next_section=[[Section E|E区]]<br>[[Unnamed Sector|无名区域]]
+|entity_amount=9
+|i_entity_amount=2
+|sound1=<center>区域已开启</center><center>[[File:MSectionOpen.mp3]]</center>
+|sound2=<center>开场主题曲</center><center>[[File:Interchange.mp3]]</center>
+|sound3=<center>第一环境音</center><center>[[File:Sector M First Ambi.mp3]]</center>
+|sound4=<center>第二环境音</center><center>[[File:SectorMAmbience.mp3]]</center>
+|sound5=<center>M-500 - M-900</center><center>[[File:M500M900Ambi.mp3]]</center>
+|sound6=<center>M-750 - M-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound7=<center>M-1000</center><center>[[File:Emergency Exit.mp3]]</center>|sound8=<center>无尽模式</center><center>[[File:Endless.mp3]]</center>}}
+
+==概述==
+'''M区'''是玩家将要遇到的第三个区。这个区十分荒凉，仅存在少量实体。实体的难度跨度极大，[[M-60]]会快速冲过并检查标有X的柜子。难度最高的实体[[M-120]]可以复制来自[[Section A|A区]]和[[Section D|D区]]的部分实体。抵达M-400后，你就能找到下一个区[[Section E|E区]]。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22i.webp|center|150px|link=M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i15.webp|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM70.png|center|150px|link=M-70]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
+{{!}}}
+
+==非专属实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MSectionMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+
+==Removed/已废弃==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
+{{!}}}
+
+==背景设定==
+用于发电。
+
+==房间==
+<tabber>
+|-|维护通道=
+<gallery>
+Placeholder.webp
+</gallery>
+|-|Minichange（小型变更区）=
+<gallery>
+Placeholder.webp
+</gallery>
+</tabber>
+
+==旧版房间==
+<gallery>
+File:Section M Starting Room.png|起始房间。
+File:Section M Door 1.png|1号门。
+File:Section M Door 1 Start.png|2号门。
+File:Section M Door 2 Start Bottom.png|同上，为进入房间时的视角。
+File:Section M Basic Hallway 1.png|普通走廊。
+File:Section M Pipes -w Water Tank.png|设有管道与水箱的房间。
+File:Section M Storage Sideroom.png|标有“Storage（储藏室）”字样的侧室。
+File:Section M Storage Sideroom.png|侧面有一扇门，前方是一扇用木板封死的门。
+File:Section M Pipe in walking path.png|侧面有两扇无法开启的门的房间。
+File:Section M 4 Way Ruins.png|同上，但为废墟样式。
+File:Section M Crate Room 1.png|堆放有大量灰色板条箱的房间。
+File:Section M Water Tank Side.png|整面左墙均为水箱的房间。
+File:Section M 4 Pipes in walking path.png|通行路径上横有4根管道的房间。
+File:Section M Basic Hallway Ruins.png|损毁的普通走廊。
+File:Section M Crawl Space Room.png|带有匍匐通行空间的房间。
+File:Section M Crawl Space Room in Room.png|同上，匍匐穿过之后可找到一个房间。
+File:Section M Pipe Blocking Door Sign.png|管道挡住了门牌号的走廊。
+File:Section M 1 Red Reactor.png|房间内的大型红色反应堆。
+File:Section M Room 400 Not Released.png|E区上线前的400号房间。
+File:M-1002.png|Update Executive版本更新前的M-1002号房间。
+</gallery>
+
+==其他==
+<gallery>
+Maintenance (M-Section).png|旧版游戏页面图片
+Maintenance (Badge).png|旧版“Maintenance（维护）”徽章图标
+Prohibited Zone (Badge).png|旧版“Prohibited Zone（禁区）”徽章图标
+</gallery>
+
+==应对策略==
+* 本区的主要难点在于大多数实体都能检查/破坏各种柜子。建议逐一熟悉每个实体的行为模式，和/或提前找到该实体无法检查/破坏的柜子。
+* [[M-200]]经过后，请始终待在柜子附近，因为它会掩盖[[M-22]]的生成提示。
+* 若[[M-200]]已经经过，开门时请做好往回跑的准备，因为[[M-150]（白色）可能会生成。
+
+== 冷知识 ==
+* '''M区'''是唯一一个无需任何修饰符或特殊操作即可正常遭遇的分区，其拥有的'''I变体'''实体数量最少，仅有3个实体拥有'''I变体'''，分别为[[M-60]]（[[M-60i]]）、[[M-120]]（[[M-120i]] | Upcoming）以及[[M-70]]（[[M-70i]] | Admin专属，且/或尚未在游戏中实装）。
+* [https://youtu.be/NvWbZ1qtFe0?si=ZzhIS3y_N-dBaF7r Update Executive 第8支预告]
+
+==徽章==
+{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=Maintenance（维护）|Description=我真的该待在这里吗？？？|Obtainment=切换分区进入M区即可获得。}}
+{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=Dark Exchange（黑暗交换）|Description=已经深入此地，如今已无法回头。|Obtainment=打开M-500号门即可获得。}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=禁区|Description=那些声音。快停下。|Obtainment=打开M-900的门。}}
+{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=突破地表|Description=M-1000结局尚未实装。你已经走了这么远，究竟是为了什么？再也没人能找到你了，你也开始觉得来到这里是个错误。|Obtainment=打开M-1000的门。}}
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

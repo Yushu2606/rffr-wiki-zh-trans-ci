@@ -1,0 +1,6 @@
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" |<center>{{{Title}}}</center>
+|-
+| class="navigation-class" |
+{{{Content}}}
+|}

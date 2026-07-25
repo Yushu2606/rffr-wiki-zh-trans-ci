@@ -1,0 +1,6 @@
+;说明
+:此模板用于将图片标记为合理使用。
+;语法
+:在图片信息页面输入<code>{{t|fairuse}}</code>即可使用。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

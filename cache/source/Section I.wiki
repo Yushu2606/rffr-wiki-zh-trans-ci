@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">Section I (Interchange)</span>}}{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{Modifier Exclusive|[[Legacy Mode]]}}
+{{SectionInfoBox
+|image=Section I Tables Lights Both Sides.png
+|previous_section=[[Section D]]
+|next_section=None
+|entity_amount=7
+|i_entity_amount=0
+|sound1=<center>Section Opened</center><center>[[File:ISectionOpen.mp3]]</center>
+|sound2=<center>Beginning theme</center><center>[[File:Interchange.mp3]]</center>
+|sound3=<center>First Ambience</center><center>[[File:Sector M First Ambi.mp3]]</center>
+|sound4=<center>Second Ambience</center><center>[[File:SectorMAmbience.mp3]]</center>|sound5=<center>I-500 - I-900</center><center>[[File:A-85iOST.mp3]]</center>|sound6=<center>I-750 - I-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>|sound7=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+
+==Overview==
+'''Section I''' is the only section the player will encounter in Legacy versions of the game. It contains the same entities as [[Section M]], with the main diffence being the rooms themselves. Since of the original game not going past this section, this is the farthest section in the legacy modes. [[M-150]] doesn't exist here due to the suggestion being made in renovated.
+
+This section has been reworked into Section M.
+
+==Entities==
+<small>Note: All of these redirect to the [[Section M]] entities.</small>
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22.png|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60|I-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70|I-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]
+{{!}}}
+
+==Rooms==
+<gallery>
+Section I Door.png|The Door to Section I
+Section I Starting Room.png|The Starting Room.
+Section I Starting Hallway.png|The Starting Hallway.
+Section I Starting Lights Left.png|A hallway where the lights are to the left.
+Section I Starting Lights Right.png|Ditto, but to the right.
+Section I Starting Bridge.png|A room with a bridge.
+Section I Tables Lights Both Sides.png|A hallway with tables and lockers.
+Section I Lights Both Sides.png|Ditto, but no tables.
+</gallery>
+
+==Strategies==
+*Use a similar strategy to [[Section M]], as this '''section''' is mostly similar to its [[Section M|new version]].
+<!-- We need more... -->
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]

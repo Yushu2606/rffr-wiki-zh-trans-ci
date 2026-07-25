@@ -1,0 +1,64 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: cyan;">A-85 (Whisperer)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
+{{DesignNotAllowed|design=[[True Legacy Mode]] design|reason=Stealing|exceptions=Ingame Screenshots}}
+{{InfoBox:Entity
+|previous_entity=[[A-60]]
+|next_entity=[[A-85i]]
+[[A-120]]
+|entity_name=[[File:A-85Placeholder.webp|frameless|link=A-85]]
+|entity_image= <gallery>
+A-85Help.gif|A-85 Animation [Recreation]
+A-85NewDesign.png|Current design
+A85.png|Old design
+</gallery>
+|caption-entity_image=how to die to me
+|appears_at=Anywhere Past A-85.
+|nicknames=Whisperer
+|type=Fallbacker
+|gun_effect=Despawns immediately when shot enough times
+|behavior=Spawns in the newest opened room before falling back.
+|damage=90 (tick).
+|speed=~1.2 rooms per second
+|claustrophobia=No
+|locker_snipe=Yes (Non Lethal)
+|related_monsters=[[A-85i]]<br>
+[[SHA-85]]
+|sound1=<center>Spawn</center><center>[[File:A85Spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:A-85static.mp3]]</center>
+|sound3=<center>Whispers</center><center>[[File:A-85Whispers.mp3]]</center>
+|sound4=<center>Despawn</center><center>[[File:A85Despawn.mp3]]</center>
+|sound5=<center>Jumpscare (LOUD WARNING)</center><center>[[File:A-85jumpscare.mp3]]</center>
+|sound6=<center>Ambience Origin</center><center>[[File:85soundorigin.mp3]]</center>}}
+
+==Description==
+'''A-85''' is an electric blue face, which contains a wide smile with a set of small, black teeth, and eyes with black pupils. It can easily be identified by its electrical ambience.
+
+==Behavior==
+'''A-85''' spawns at the newly generated room's center and stays here while making whispering noises. After 4 seconds of staying, '''A-85''' proceed to move backwards. Any player seen by A-85 will get rapidly damaged, killing them quickly. A-85 will despawn once it goes for enough.
+
+==Strategy & Tips==
+*When you hear it's spawn sound, immediately hop into a locker. Although '''A-85''' doesn't pose a threat, don't risk it.
+*In [[Red Rooms]], '''A-85'''<nowiki/>'s health is reduced to 2 shots (with Perfectionist). So use it on advantage if it spawns together with other entity in [[Red Rooms]] like [[A-135]].
+
+==Trivia==
+*'''A-85''' is easy to survive if you are expecting it.
+*'''A-85''', like A-20, does not care for tables, and will treat them as if the player isn't hiding at all.
+*'''A-85''' can be shot, causing him to despawn immediatly after enough shots (5 shots with Perfectionist).
+*If a player opens the next doors before '''A-85''' falls back, '''A-85''' will rush fowards until reaching the unopened door and then will fall back.
+**To do this, simply open the next door and quickly hide
+
+==Gallery==
+<gallery>
+File:A85jump.gif|Jumpscare
+File:TrueLegacyA-85.webp|True Legacy Mode Design (In-game)
+File:A85real.webp|Legacy Mode Design
+File:SEMA85.png|Super Epic Mode
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Fallbacker]]
+[[Category:Weapon Affected]]

@@ -1,0 +1,320 @@
+{{Out of Date}}
+== 描述 ==
+'''道具'''是可提升你游戏体验的物品。共分为5类：<span style="color:#4767B7">实用道具</span>、<span style= "color:green">治疗道具</span>、<span style= "color:red">武器</span>、<span style= "color:Yellow">神器</span>与<span style= "color:Orange">打捞品</span>。请注意，同类下的部分道具生成概率更低。
+
+<tabber>
+|-|实用道具=
+<span style="color:#4767B7">实用道具</span>是能为生存提供有效增益的道具，绝大多数为手电筒类道具。
+
+== 手电筒 ==
+=== 基础手电筒 ===
+'''''“款式有点普通，但足够可靠，能满足使用需求。需2节电池供电，续航时长2:30。”'''''<br><br>
+玩家生成时会免费获得的手电筒。需2节电池充电，续航时长比Eco Flashlight（环保手电筒）更长。<gallery>
+File:Battery.png|电池
+</gallery>
+
+
+== 医疗道具 ==
+=== 肾上腺素针剂 ===
+'''''“使用后可获得30秒无限体力。”'''''
+
+也可简称为肾上腺素，外观为印有十字标志的棕色盒子。正如其名，使用后可在30秒内不受限制地冲刺或躲避。<gallery>
+File:Adrenaline Shot.png|肾上腺素针剂
+</gallery>
+
+=== 肾上腺类固醇 ===
+'''''“Vita-Shot（生命针剂）配方的非法改造版本。前两次使用可永久提升100%体力上限。后续使用则会提供更长时间的无限体力。但……它是有副作用的。”'''''
+
+也可简称为AD-STR，外观为印有十字标志的青色盒子。仅可在D区和[[Section M|M区]]找到。每次使用扣除30%生命值。前两次使用可永久提升100%最大体力上限，后续使用提供的无限体力时长比普通肾上腺素更长。
+<gallery>
+File:Adrenal Steroid.png|肾上腺类固醇
+</gallery>
+
+== 饮品 ==
+=== Bloxiade™ 能量饮料 ===
+'''''“短时间内提升你的基础移动速度、体力上限与体力恢复速度。效果可叠加。”'''''<br><br>
+也可简称为Bloxiade，这款饮料为紫色瓶身，配有蓝色包装与闪电标志。饮用者可获得多项体力增益。<gallery>
+File:Bloxiade.png|Bloxiade
+</gallery>
+
+=== Bloxy Cola ===
+'''''“使用后15秒内体力上限提升60%，同时体力恢复速度提升40%。”'''''
+
+基础饮品，是经典Bloxy Cola的复刻版本。可提供几项小幅体力增益。<gallery>
+File:Bloxy Cola.png|Bloxy Cola
+</gallery>
+
+=== Miri's Bloxy-Orange Soda ===
+'''''“余味是带点冲劲的橘子味。15秒内临时提升移动速度与跳跃高度，效果可叠加。”'''''
+
+一款橙色苏打水，可在15秒内提升移动速度与跳跃高度，效果可叠加。<gallery>
+File:Orange Soda.png|香橙苏打
+</gallery>
+
+== 工具 ==
+=== 撬锁器 ===
+'''''“可强行打开上锁的门，但极易损坏。为一次性消耗品。”'''''<br><br>
+可一次性打开部分侧门以获取高级战利品，这类道具较难找到。每次最多可携带3个。<gallery>
+File:Lockpick.png|撬锁器
+</gallery>
+
+=== 远程破解设备 ===
+'''''“可破解电子门锁的设备。”'''''<br><br>
+也可简称为RHD平板，可打开上锁的电子门，仅能在[[Section M|M区]]找到。它的用途是打开标有“WAREHOUSE（仓库）”的门以获取大量道具，数量远多于普通撬锁房间。<gallery>
+TabletNEW.webp|远程破解设备
+</gallery>
+
+== 其他 ==
+=== Radiant Crystal（辐射水晶） ===
+'''''“一种简易的全向光源。其表面会散发出温暖的热量。”'''''<br><br>
+也可简称为水晶，是一块会发出橙色光芒的橙色宝石。除此之外没有任何作用。
+<gallery>
+File:Radiantcrystal.png|辉光水晶
+</gallery>
+
+|-|治疗物品=
+<span style= "color:green">治疗物品</span> 包含医疗补给品或食品类道具，核心作用是回复你的生命值。
+
+==医疗用品==
+===绷带===
+'''''“在2.5秒内为你恢复25%的生命值。”'''''<br><br>
+所有分区内都可找到绷带，它是一种快速治疗道具，玩家单次最多可携带10个。<gallery>
+File:Bandage.png|绷带
+</gallery>
+
+===Vita-Shot™（生命注射剂）===
+'''''“Vita奇效™！使用后可快速为你恢复90%的生命值。”'''''<br><br>
+也可简称为“Vita-Shot”，在所有[[Sections|各分区]]中以绿色医疗箱的形式出现。正如其描述所示，使用后即可恢复90%的生命值，单次最多可携带5个。
+<gallery>
+File:VitaShot.png|Vita-Shot（生命注射剂）
+</gallery>
+
+===<span style= "color:red">Vita-Booster（生命强化剂）</span>===
+'''''“Vita-Shot配方的非法改装版本。可永久提升最大生命值上限，最多生效3次，后续使用时可近乎瞬间回满生命值。还可治疗最多300点恶意伤害。”'''''<br><br>
+也可简称为V-Booster，是Vita-Shot的稀有版本。它每次使用可提升100点最大生命值上限，最多生效4次，超过次数后使用会近乎瞬间回满生命值。它还能治疗最多300点来自储物柜偷袭的恶意伤害（恶意伤害会降低最大生命值上限）。<gallery>
+File:VBooster.jpg|Vita-Booster（生命强化剂）
+</gallery>
+
+==饮品类==
+===Rutta葡萄汽水===
+'''''“一款气味浓烈的葡萄汽水，但口感顺滑。使用后获得临时生命回复效果，该效果无法重复叠加。”'''''
+
+是玩家可找到的多种葡萄汽水之一，使用后提供生命回复效果，但无法与其他葡萄汽水的效果叠加。<gallery>
+File:Grape Soda.png|葡萄汽水
+</gallery>
+
+==罐装食品==
+'''''“耐储存食品，可多次使用，每次恢复一定生命值。”'''''
+===豆子===
+也可称“罐装豆子”，外观为金属罐，罐顶印有豆子图案，罐身中部还印有一颗巨大的豆子。使用后可恢复32%的生命值，总共可使用5次。<gallery>
+File:Can of Beans.png|罐装豆子
+</gallery>
+
+== 其他道具 ==
+=== <span style= "color:Yellow">芝士片</span> ===
+'''''<small>“据传拥有魔力…之类的效果。使用后可瞬间将你的生命值回满。”</small>'''''
+
+正如其名字所示，食用芝士片后，你的生命值会直接回满。<gallery>
+File:Cheese.png|芝士片
+</gallery>
+
+|-|武器=
+<span style= "color:red">武器</span> 是可对[[entities|实体]]造成伤害甚至将其消灭的道具。可被武器影响的[[Entities|实体]]包括[[A-60]]、[[A-85]]、[[D-5]]、[[D-20]]、[[M-22]]、[[M-120]]和[[M-200]]。对它们射击足够次数后，可通过某种方式消解它们，或是削弱它们的能力。
+
+==手枪类==
+===格洛克17手枪===
+'''''“半自动消音手枪。对大多数实体无法造成有效物理伤害，但仍有其用处…”'''''<br><br>
+也常被称为“G17”，是游戏中所有枪械里伤害最低的版本。自带手电筒，需要1节电池来充电。
+
+==自动步枪类==
+===通用突击步枪（16型）===
+'''''“全自动通用型突击步枪。对大多数实体无法造成有效伤害，但仍有其用处…”'''''<br><br>
+也可简称为“APAR-16”，是游戏中火力迅猛、射速最快的步枪。自带手电筒，充能需要1节电池。
+<gallery>
+File:APAR-16.png|All-Purpose Assault Rifle（16型通用突击步枪）
+</gallery>
+
+==霰弹枪==
+===Remington 870 Express（雷明顿870快速型）===
+'''''"泵动式霰弹枪。对大多数实体无效，但另有其他用途..."'''''<br><br>
+它在物品栏图标中的名称为“R870”，可一次射出多枚弹丸。自带手电筒，充能需要1节电池。
+
+|-|神器=
+<span style= "color:Yellow">神器</span>是拥有特殊属性的稀有物品。
+
+== '''Heart of Darkness（黑暗之心）''' ==
+'''''"这是给通过暗影挑战证明自身实力者的奖励，对Striketeam Solstice（至日突击小队）和其他“特殊”单位有额外伤害加成。"'''''<br><br>
+这是游戏中唯一的近战类武器，会发放给所有通关[[Shadow Challenge|暗影挑战]]的玩家。它仅能秒杀[[D-20]]，但对至日突击小队有额外伤害加成。该武器附带吸血效果：击杀D-20时你会恢复生命值，每次命中可获得150点生命值。用它攻击其他玩家会造成30点伤害。如果玩家被持有黑暗之心的人击杀，会遭遇暗影实体的跳杀。
+
+'''徽章：'''
+* [https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666 ] (RFFR)
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启 ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''无法获取'''
+<gallery>
+HoD.jpg|Heart of Darkness（黑暗之心）
+OldHod.webp|旧模型
+</gallery>
+
+== '''Perfectionist（完美主义者）''' ==
+'''''"一款六发转轮手枪，与黑暗之心一同发放。子弹可弹跳三次，命中目标时会为你恢复生命值。"'''''<br><br>
+这款转轮手枪与黑暗之心一同发放。它可以射击所有可被攻击的实体，但伤害不足以直接击杀目标。命中所有实体都会触发吸血效果，每次命中恢复15点生命值。它对至日突击小队同样有额外伤害加成，是对抗该单位的最佳武器之一。子弹最多可弹跳3次。如果玩家被'''Perfectionist（完美主义者）'''击中，会获得暗影瘟疫效果，随时间持续损失部分生命值。与黑暗之心不同，玩家使用完美主义者击杀其他玩家时，不会触发暗影实体的跳杀。
+
+'''徽章：'''  
+* [https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666 ] (RFFR)
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启 ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''无法获取'''
+<gallery>
+Perf.jpg|Perfectionist（完美主义者）
+</gallery>
+
+== '''Shadow Orb（暗影法球）''' ==
+'''''"悬浮法球，颁发给在阿尔法与Shadow-Pocalypse（暗影天启）中存活的玩家，或是在原版《Rooms Found Footage》中完成初代暗影挑战的玩家。"'''''<br><br>
+该法球会发放给在原版《Rooms: Found Footage》中通关暗影挑战的玩家，亦或是通关“[[Alpha & Shadowpocalypse|阿尔法与暗影天启]]”修饰符的玩家。它是和水晶灯类似的光源，但性能更优，会发出深紫色的光。
+
+'''徽章：''' 
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启 ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''无法获取'''
+<gallery>
+SHAORB.jpg|Shadow Orb（暗影法球）
+</gallery>
+
+== '''Shadow Shakelight（暗影摇电筒）''' ==
+'''''“融合了暗影1、2、3的力量，这款手摇灯是颁发给那些在阿尔法&暗影末日中存活下来，或是完成了《Rooms: Found Footage》原版暗影挑战的玩家的奖励。”'''''<br><br>
+它是法拉第手摇灯的变种，性能更为出色，拥有更长的续航时长与更远的光照范围，是与虚空宝珠一同发放的奖励。它会发出带有暗影火焰特效的紫色光芒，效果与[[SHA-30]]类似。
+
+'''徽章：'''
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse 末日 ]（RFFR）
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ]（RFF） '''无法获取'''
+<gallery>
+SHAlight.jpg|[[File:SHASHAKE.mp3]]
+</gallery>
+
+== '''辉光深渊灯、辉光工业火炬、辉光实验手电筒''' ==
+“辉光”系列手电筒是可供玩家选择使用的道具，这类手电筒同样可通过摇晃充能，无需使用电池。此外，这些手电筒都融合了首领实体的力量：辉光深渊灯融合了[[D-60i]]的力量，辉光工业火炬融合了[[M-120i]]的力量，辉光实验手电筒则融合了E-???的力量。每款道具都可在对应的入侵活动期间获取。
+
+'''徽章：'''
+* 辉光深渊灯（D区入侵活动）：[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该出现在这里 ]（RFF） '''无法获取'''
+
+* 辉光工业火炬（I区入侵活动）：[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here 你该出现在这里吗 ]（RFF） '''无法获取'''                           
+
+* 辉光实验手电筒（E区入侵活动）：[https://www.roblox.com/badges/3124983362195746/Sector-Breach 分区突破 ]（RFFR） '''无法获取'''
+<gallery>
+Deeplig.png|[[File:deepshake.mp3]]
+Indu.png|[[File:indushake.mp3]]
+Experimental.png|[[File:experishake.mp3]]
+</gallery>
+持有[https://www.roblox.com/badges/3318829810908238/The-invasion 入侵 ]徽章原本也可以解锁'''辉光深渊灯'''和'''辉光工业火炬'''，但该徽章的关联已被移除，现已无法生效。
+
+== '''占卜火炬''' ==
+'''''“一簇永恒的火焰，由实体“GATO”赠予那些有资格的人。”'''''<br><br>
+这种全向光源仅在2024年愚人节活动期间，供到达[[Section UI|UI区]]内[[Gato|I-500]]的玩家获取，其性能相当于强化版的辉光水晶。
+
+'''徽章：'''
+* [https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision 至福异象 ]（RFF） '''无法获取'''
+
+<gallery>
+Divination.png|新模型
+OLDToD.png|旧模型
+</gallery>
+
+== '''辉光碎片''' ==
+'''''“据说它曾是用来疏导大量能量的催化剂，摸起来暖暖的。”'''''<br><br>属于稀有可拾取道具，是水晶的强化版本，同样发出青色光芒。
+
+<gallery>
+File:RadiantFragment.png|辉光碎片
+</gallery>
+
+== '''调试砖块''' ==
+'''''“一个奇怪的……盒子？这东西为什么会在这里？”'''''
+
+<gallery>
+File:RedBrick.png|红色调试砖块
+File:PurpleDebugBox.png.webp|玩家手持的紫色调试盒
+</gallery>
+
+== <span style= "color:purple">'''NVCS-13793-C'''</span> ==
+这是一种十分稀有的可拾取扫描仪。它能让你看见实体、物品和电池，还带有淡紫色调的夜视功能。它在应对实体时十分实用，尤其是面对D-60i时效果显著，但它也会让你更难看清Derelict（遗弃区）的门牌号。PC端按N键、移动端点击NVCS、主机端按D-PAD左键即可开关该设备。要为它充电的话，你需要先关闭扫描仪：PC端按住N键3秒，或是主机端按住D-PAD左键将其取下，之后就可以为扫描仪装入电池充电，最多可容纳5节电池。
+
+<gallery>
+File:EvilCamara.webp|NVCS-13793-C
+</gallery>
+
+== <span style= "color:Yellow">'''奇异钥匙卡'''</span> ==
+这是进入[[Section E|E区]]所需的钥匙卡，它有极低概率在100号门之后的[[Unnamed Sector|无名区域]]内生成，你需要成功逃出无名区域才能保留这张钥匙卡。
+
+<gallery>
+File:Unnamed4.webp|奇异钥匙卡
+</gallery>
+
+== <span style= "color:White">'''宿主之源'''</span> ==
+'''''"This doesn't belong here."'''''（“这东西不该出现在这里。”）<br>
+
+这是一种仅能由管理员生成的物品，它和Crystal（水晶）类似，但亮度更高、呈白色；它被生成时通常意味着[[The Host|The Host（宿主）]]即将出现，但也存在宿主不会现身的概率。<gallery>
+File:HostsSource.png|持有'''宿主之源'''的玩家与持有'''Shadow Orb（暗影法球）'''的玩家
+</gallery>
+
+|-|Salvage=
+<span style= "color:Orange">Salvage（回收品）</span>的出现概率可能极低，但通常都十分实用。
+
+==手电筒==
+===战术摇力手电筒===
+'''''"A customly modeled Faraday Flashlight, rumored to be used by a now defunct unit of guards positioned around the Rooms. Pressing Z and X could be useful."'''''（“这是一款定制建模的法拉第手电筒，据传曾由驻扎在Rooms周边的一支现已解散的警卫部队使用。按下Z键与X键会有特殊作用。”）<br>
+它是一款大幅强化的摇力手电筒，摇动时的音效为咔哒声。手持该手电筒时按下X键，战术摇力手电筒会向左上方轻微倾斜；按下Z键则会恢复正常握持姿势。它的续航时间为29s，不会像法拉第摇力手电筒那样因过充而损坏。
+<gallery>
+File:Tactical.png|战术摇力手电筒
+</gallery>
+
+===左轮手枪===
+'''''"A six-shooter revolver, based from the MP-412 REX model. Headshots are very rewarding & it fires faster then average G-17."'''''（“这是一款六发式左轮手枪，模型基于MP-412 REX制作。爆头收益极高，射速比普通G-17更快。”）<br>
+这是一把不带内置手电筒的左轮手枪。（它此前被归类为Artifact（神器），但这只是一个bug，后续已被修正为Salvage（回收品）。）
+<gallery>
+File:RevolverButInRedRooms.png|左轮手枪
+</gallery>
+
+|-|Gamepass Exclusive=
+<span style= "color:Purple">Gamepass（游戏通行证）专属</span>物品是指需要购买对应Gamepass（游戏通行证）才能获取的武器、光源等道具。
+
+===节能手电筒===
+'''''"An environmentally friendly flashlight that takes one battery instead of two. Has a lifetime of 1:40."'''''（“这是一款环保手电筒，仅需1节电池即可驱动（普通手电筒需2节），续航时长为1:40。”）<br><br>
+这款手电筒仅能通过购买Gamepass（游戏通行证）获取。购买后，你可以在所有大厅的对应分发器中取用它。它的外观为棕色与浅棕色配色，发出的光为棕白色而非普通的白色光。<gallery>
+File:Eco.png|节能手电筒
+</gallery>
+
+===法拉第手电筒===
+'''''"An infinitely renewable light source, right where it belongs in your hands. Over-shaking causes the battery to short, disabling the light for 10 seconds."'''''（“这是一款可无限循环使用的光源，正适合握在你的手中。过度摇动会导致电池短路，让手电筒在10秒内无法发光。”）<br><br>
+该物品仅可通过游戏通行证购买。购买后，可在所有大厅的对应分发器中使用。它外观为半透明绿色手电筒，正如其名，可通过摇晃发电。但如果摇晃过度，它会停止工作，10秒内无法点亮。玩家必须在这10秒内将其持握在手中，手电筒才能恢复正常使用。即使未购买该游戏通行证，Faraday Shakelight（法拉第手摇手电筒）也可作为战利品被找到。
+<gallery>
+File:Fara.png|Faraday Shakelight（法拉第手摇手电筒）
+</gallery>
+
+===Heart of Darkness+（黑暗之心+）===
+'''''"A replica of the "Heart of Darkness" artifact, but can be customized for one's preferences and has a heat marker which can be seen from great distances."'''''<br>
+'''''“是「Heart of Darkness（黑暗之心）」神器的复制品，但可根据个人喜好自定义，还带有一个在极远距离外就能看到的热量标记。”'''''<br>
+它是Heart of Darkness（黑暗之心）的变体，可根据喜好更改其轮廓与灯光的颜色。
+<gallery>
+File:HoD+.png|HoD+（黑暗之心+）默认颜色。
+</gallery>
+
+
+===Orb+（暗影球+）===
+'''''"A replica of the "Shadow Orb", although it can be fully customized to fit one's preferences. It seems to retain properties from the original "Faraday Shakelight+"."'''''<br>
+'''''“是「Shadow Orb（暗影球）」的复制品，可完全根据个人喜好自定义。它似乎保留了原版「Faraday Shakelight+（法拉第手摇手电筒+）」的属性。”'''''<br>
+它是Orb（暗影球）光源的变体，可根据喜好更改其模型、特效与灯光的颜色。
+<gallery>
+File:Orb+.png|Orb+（暗影球+）默认颜色。
+</gallery>
+
+===Faraday Shakelight+（法拉第手摇手电筒+）===
+'''''"An upgraded version of the normal Faraday Shakelight. This version of the light is capable of lasting longer, incapable of being over-charged, as well as being customizable to fit your preferences."'''''<br>
+'''''“是普通Faraday Shakelight（法拉第手摇手电筒）的升级版本。该版本手电续航更长，不会出现过充问题，同时支持根据个人喜好自定义。”'''''<br>
+它是Faraday Shakelight（法拉第手摇手电筒）的强化版本，性能更强且不会过充，同时支持更改其模型与灯光颜色。
+<gallery>
+File:Shakelight+.png|Faraday Shakelight+（法拉第手摇手电筒+）默认颜色。
+</gallery>
+
+</tabber>
+
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

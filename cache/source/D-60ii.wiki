@@ -1,0 +1,122 @@
+{{SectionDStub}}
+{{HeadphonesNotice}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0ba300; color: #0ba300;">D-60ii (Omega Invader)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Modifier Exclusive|II Hate This}}
+{{InfoBox:Entity
+|entity_name=[[File:D-60iiPlaceholder.gif|frameless|link=D-60ii]]
+|entity_image=<gallery>
+D60iiAnim.gif|Phase 1 Animation
+D60iface1.png|Phase 1 1st Face
+D60iface2.png|Phase 1 2nd Face
+D60iface3.png|Phase 1 3rd Face
+D60iface4.png|Phase 1 4th Face
+D60iface5.png|Phase 1 5th Face
+D60iFace6.png|Phase 1 6th Face
+D60iface7.png|Phase 1 7th Face
+D60iface8.png|Phase 1 8th Face 
+D60iface9.png|Phase 1 9th Face 
+D60iface10.png|Phase 1 10th Face 
+D60iface11.png|Phase 1 11th Face 
+D60iface12.png|Phase 1 12th Face 
+D60iface13.png|Phase 1 13th Face
+D60iface1Phase2.png|Phase 2 1st Face
+D60iface2phase2.png|Phase 2 2nd Face
+D60iface3phase2.png|Phase 2 3rd Face
+D60iface4phase2.png|Phase 2 4th Face
+D60iface5phase2.png|Phase 2 5th Face
+D60iface6phase2.png|Phase 2 6th Face
+D60iface7phase2.png|Phase 2 7th Face
+D60iface8phase2.png|Phase 2 8th Face
+D60iface9Phase2.png|Phase 2 9th Face
+D60iface10phase2.png|Phase 2 10th Face
+D60iface11Phase2.png|Phase 2 11th Face
+D60iface12Phase2.png|Phase 2 12th Face
+D60iface13Phase2.png|Phase 2 13th Face
+</gallery>
+|caption-entity_image=Green boi
+|appears_at=Anywhere with the '''II Hate This''' Modifier
+|nicknames=Omega Invader
+|type=Rebounder<br>Fallbacker<br>Boss
+|behavior=Works the Same as [[D-60i]] but green and give way too less time before rebounding
+|claustrophobia=No
+|locker_snipe=No
+|damage=Instant Death
+|gun_effect=None
+|badges=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]
+|speed=Faster than [[D-60i]]
+|related_monsters=[[D-60]]<br>[[D-60i]]
+|sound2=<center>Jumpscare Sound</center><center>[[File:D-60iiJumpscareSfx.mp3]]</center>
+|sound1=<center>Countdown '''Inaccurate'''</center><center>[[File:D-60iiCountdown.mp3]]</center>
+|sound3=<center>Spawn Indicator</center><center>[[File:BossSpawn.mp3]]</center>
+|sound4=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound5=<center>Phase 2 Locker Break/Despawning</center><center>[[File:D-60iPhase2DoorBreak.mp3]]</center>
+|sound6=<center>Phase 2 Collide</center><center>[[File:D-60iiFacecollide.mp3]]</center>}}
+
+==Description==
+'''D-60ii''' is one of the many Entities you may find within [[Section D]], it being the 60 following [[D-60]] and [[D-60i]], He works like [[D-60i]], but a lot harder.
+
+==Behavior==
+Just like [[D-60i]], but takes 9 seconds to rebound (once he starts moving when he hits the door), breaks 2 doors and also much faster than [[D-60i]].
+
+In phase 2, '''D-60ii''' will emit a very loud fake despawn sound version of the original [[D-60i]], and then will play a very speed-up version of the [[D-60i]] phase 2 start. '''D-60ii''' will almost always leave only 1 locker on the last rooms every time he hits and break 1 or 2 rooms. In this phase, it will only break 1 door.
+
+== Strategy & Tips ==
+* If '''D-60ii''' spawns in your run, you should refuse to open any doors and let '''D-60ii''' despawn by itself.
+* That's because, if a time waster entity like [[A-200]], [[A-200i]], [[D-5]] or [[M-70]] spawns, '''D-60ii''' might destroy so many doors meanwhile these entities are spawned, that [[Void|Void Wall]] will kill you.
+* Rush much as possible when '''D-60ii''' rebounds, as it breaks 2 rooms at once, it's very easy to fall behind.
+** And that's the intention. '''D-60ii''' was meant to make you fight to reach the main room while he rebounds nonstop, so fight him best as possible, and use dodge rolls if necessary.
+
+==Trivia==
+* '''D-60ii''' has a 1 in 1000 chance to replace [[D-55ii]] once it attempts to spawn.
+* Unlike [[D-60i]], '''D-60ii''' can't spawn any entities upon breaking the door, as '''D-60ii''' is very fast and is meant to make you have to rush to the main room each time he arrives to avoid getting catched by the void wall. And if '''D-60ii''' spawned someone, it is likely that you would die.
+* A long time ago, everyone in lobby had been morphed to '''D-60ii,''' (07/18/25) causing a huge chaos.
+** [https://youtu.be/ZXxhC6l3W4U?si=9L8s6od1G_fYxxTR Video] 
+*'''D-60ii'''<nowiki/>'s fake despawn sound is very loud, so make sure to lower your volume when you notice that '''D-60ii''' will trigger phase 2.
+
+* '''D-60ii'''<nowiki/>'s sound is the same as [[D-60i]], but modified to sound more distorted/funny.
+* '''D-60ii'''<nowiki/> is bigger than [[D-60i]].
+* '''D-60ii''' when despawning in his phase 2 will make 14 constant explosions very rapidly before making a bigger one and despawning.
+* '''D-60ii's''' jumpscare sound is actually the same as [[D-60]] or [[D-60i]] one but except it's slowed down deeply.
+* '''Astra''' is the creator of '''D-60ii'''.
+
+== <span style="text-shadow: 0 0 5px lime; color: lime;">Footages</span> ==
+*(Loud warning) '''OMEGA INVADER''' - Phase 1 representation: https://youtu.be/0garMpZaPSE
+*(Loud warning) '''OMEGA INVADER -''' Phase 2 representation: https://youtu.be/kTJYQSVk_8w
+
+== Gallery ==
+<gallery>
+File:D-60iiNewScare.gif|Jumpscare
+File:D-60iiJumpscare.gif|Old Jumpscare
+ii9.png|Countdown 9
+ii8.png|Countdown 8
+ii7.png|Countdown 7
+ii6.png|Countdown 6
+ii5.png|Countdown 5
+FOUR.png|Countdown 4
+D60i3.webp|Countdown 3
+D60i2.webp|Countdown 2
+D60i1.webp|Countdown 1
+ii0.png|Countdown 0
+D-60iiFr.gif|Old Animation Recreation
+D60ii1.png|Old Face 1
+D60ii2.png|Old Face 2
+D60ii3.png|Old Face 3
+D60ii4.png|Old Face 4
+D60ii5.png|Old Face 5
+D60ii6.png|Old Face 6
+D60ii7.png|Old Face 7
+BroisnotA-135.png|Old Face 8
+</gallery>
+
+==Badges==
+{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]|Description=Why must this happen to me.|Obtainment=Encounter and survive '''D-60ii'''.}}
+
+{{EntityNavBoxAdmin}} 
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Boss]]
+[[Category:Fallbacker]]
+[[Category:Omega Variation]]

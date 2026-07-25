@@ -1,0 +1,488 @@
+==Player Controlled==
+The following beings present below are '''Player Controlled''', meaning that they are actual players that have invaded your run, typically being a(n) Developer/Admin of the game.
+
+<tabber>
+|-|=
+{{InfoBox:Entity
+|entity_name=.
+|for_the_mobile_people=.}}
+|-|Striketeam Solstice=
+'''Striketeam Solstice:'''
+{{InfoBox:Entity
+|entity_name=Striketeam Solstice
+|entity_image=riflemen male.png
+|caption-entity_image=Run
+|nicknames=Solstice
+|appears_at=[[Section A|A-900+]]<br>[[Section D|D-900+]]<br>[[Section M|M-500+]]<br>[[Section E|E-250+]]<br>[[Section R|R-???+]]
+|behavior=Will try to kill the player
+|speed=Same as normal player.
+|damage=Depends on the weapon.
+|sound1=<center>Commander Morphed Announcement</center><center>[[File:SolsticeSpawn.mp3]]</center>
+|sound2=<center>Unauthorized (players past "appears at" points) Announcement</center><center>[[File:Announcementnew.mp3]]</center>
+|sound3=<center>No Unauthorized Personnel (players are in rooms before the "appears at" points) Announcement</center><center>[[File:EVERYONEISALREADYDEAD.mp3]]</center>
+|sound4=<center>Escalation Breach OST</center><center>[[File:Escalation.mp3]]</center>
+|sound5=<center>Rare Breach Soundtrack</center><center>[[File:Rare breach soundtrack.mp3]]</center>
+|sound6=<center>Breach Failed</center><center>[[File:Solsticekill.mp3]]</center>
+|sound7=<center>Asiyah threat level Soundtrack</center><center>[[File:Gate1.mp3]]</center>
+|sound8=<center>Briah threat level Soundtrack</center><center>[[File:Gate2.mp3]]</center>
+|sound9=<center>Atziluth threat level Soundtrack</center><center>[[File:Gate3.mp3]]</center>}}
+
+== Description ==
+'''Striketeam Solstice''' has a chance of invading your run if you are past door 900 in the A or D section, past 500 in the M section, or past 250 in the E section. Their only known objective is to end your run by killing you. 
+
+== Appearance ==
+'''Striketeam Solstice''' can take on various appearances. They can be seen wearing either full sets of tactical gear, or tactical gear with a cloak. The ones in the cloak are said to be medics.
+== Behavior ==
+The player will hear a sound over the intercom indicating their arrival. It will sound something like someone notifying a group that they will scan the area for potential threats, and later another intercom sound will play saying that there's someone ahead to take down.
+
+Once that's done with, the Solstice member(s) will be about halfway to your room. They continue to walk or run towards the most recent room, (usually) faster than you're able to progress. Once they get close, they will pull out their gun/weapon to play an audible sound indicating that they are close. 
+
+Once they reach you, they will softly fire their pistol at you, with intent to harm but not fully kill. If the target happens to be incompetent, they will inevitably die anyways. If you are to hide in a locker, they will walk over to it and try to open the door, quickly followed by you slamming it shut. Once that happens, a locker breach sequence commences as they try to breach your locker while you attempt to hold it shut.
+
+==Strategy & Tips==
+* Hide in a locker once you are certain they're close to you, as claustrophobia is not affected during this time.
+* Striketeam Solstice has a moderately strict rulebook they are forced to follow when raiding the individual, so try to use that to your advantage in any way possible.
+* Do NOT show aggression towards Solstice, as if any amount of aggression is shown, they are permitted to break almost every single rule that they originally have to follow just in order to kill you.
+
+== Trivia ==
+* The old name for Striketeam Solstice was Fireteam Darklight.
+
+== Music/Soundtrack ==
+* Escalation - Normal Solstice breach OST: https://youtu.be/jNfhg-7yQyI?si=9d1VuvuyQlz1_P_A
+* FORSAKEN UST: YOURSELF JOHN DOE LMS - Rare Solstice Breach Soundtrack: https://youtu.be/YR-fLn7RGK0?si=xg1pnptZf71ZzFUL (Slightly slowed down)
+* Gate I breach "Asiyah" threat level Soundtrack - https://youtu.be/Qd1XSVa18fo?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+* Gate II breach "Briah" threat level Soundtrack - https://youtu.be/zyoLNSUQJVE?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+* Gate III breach "Atziluth" threat level Soundtrack - https://youtu.be/0HKVd4WQzRY?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+
+==Gallery==
+<gallery>
+Male breacher.png|Male Breacher
+Female breacher.png|Female Breacher
+Male medic.png|Male Medic
+Female medic.png|Female Medic
+riflemen male.png|Male Riflemen
+Female riflemen.png|Female Riflemen
+MaleLeader.jpg|Male Leader
+FemaleLeader.jpg|Female Leader
+1stGate.png|1st Gate Label
+2ndGate.png|2nd Gate Label
+3rdGate.png|3rd Gate Label
+</gallery>
+
+
+
+|-|Corporeal Void=
+'''Corporeal Void:'''
+{{ArticleBackground|File=Voiding3.png}}
+{{InfoBox:Entity
+|entity_name=Corporeal Void
+|entity_image=Humanvoid.jpeg
+|nicknames=The Sovereign
+|appears_at=When the 4th Gate is reached
+|damage=60 per hit
+|speed=Same as the Player(?)
+|sound1=<center>Midnight threat level Soundtrack</center><center>[[File:Gate4.mp3]]</center>
+|sound2=<center>Sovereignty OST</center><center>[[File:VoidBreach.mp3]]</center>}}
+
+==Description==
+The Corporeal or "Human" version of [[Void]]. This form of void is player controlled, making it unpredictable, it has a sword that does 60 damage to the player, and a locker breach so hard nobody has beaten it, It can appear if the player reaches the 4th Threat level after killing enough Striketeam Solstice members, though this threat level and Corporeal Void himself are Rarely used.
+
+== Music/Soundtrack ==
+* Sovereignty OST: https://youtu.be/e-IfbNv5HGY?si=JuoTnYQsjVgqn7PY
+* Gate IV breach Midnight Soundtrack - https://youtu.be/Z7Hxuk7akdc?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg (Slowed/Pitched down)
+
+==Gallery==
+<gallery>
+4thGate.png|4th Gate Label
+</gallery>
+
+|-|Corporeal Oblivion=
+'''Corporeal Oblivion:'''
+{{ArticleBackground|File=OblivionScreen.png}}
+{{InfoBox:Entity
+|entity_name=Corporeal Oblivion
+|entity_image=Humanoblivion.jpeg
+|nicknames=Oblivion
+|appears_at=Only by admins
+|type=Harmless (?)
+|speed=Same as the player(?)}}
+
+==Description==
+The Corporeal or "Human" version of [[Oblivion]]. What they do is pretty unknown, but its easy to assume they intend to help the player.
+
+
+|-|NULLITY=
+'''NULLITY:'''
+{{InfoBox:Entity
+|entity_name=NULLITY
+|entity_image=ParticleEffect.png
+|appears_at=Only by admins
+|nicknames=NULL<br>VOID
+|damage=inf
+|speed=???
+}}
+
+== Description ==
+A mysterious entity that has recently been sighted again within the Rooms Anomaly. More information is required to form a higher quality description.
+
+== Appearance ==
+NULL appears to be a void-like corporeal entity. It consists of red, white and black colours. Most prominently shining in bright red.
+
+==Lore==
+Not much is known about this entity. Perhaps the red colouration on it is Oblivion?
+
+==Gallery==
+<gallery>
+Maybe_It%27s_him.png|An edited version of Void's old design to look similar to what we have observed.
+Old_Null.png|An old sighting of the entity NULL.
+</gallery>
+
+''Creator's note: This entity is no longer within this realm. Do not fear it.''
+
+
+|-|Corporeal Overseer=
+'''Corporeal Overseer:'''
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=Corporeal Overseer
+|entity_image=CorporealOverseer.png
+|nicknames=The Overseer<br>Shadow-000
+|appears_at=Only by admins
+|damage=Depends on  the  weapon
+|speed=Same as the player}}
+
+==Description==
+The Corporeal or "Human" version of [[Overseer]], not much else to say, what they do is Unknown, they have Shadow weaponry exclusive to them.
+
+
+
+|-|Lucy=
+'''Lucy:'''
+{{InfoBox:Entity
+|entity_name=Lucy
+|caption-entity_image=Hello.. I hope we can be friends?
+|nicknames=Devin<br>The Darkheart
+|appears_at=Only by Admins
+|type=Anti-Raider
+|speed=Players speed
+|entity_image=Lucy new.png
+|sound1=<center>Breach Soundtrack</center><center>[[File:ACreationOfSorrow.mp3]]}}
+
+<font color="000000"/font>
+== 𝒜𝓅𝓅𝑒𝒶𝓇𝒶𝓃𝒸𝑒 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝒾𝓈 𝒶 𝓅𝒾𝓉𝒸𝒽 𝒷𝓁𝒶𝒸𝓀 𝒽𝓊𝓂𝒶𝓃𝑜𝒾𝒹 𝒷𝑒𝒾𝓃𝑔 𝓉𝒽𝒶𝓉 𝒽𝒶𝓈 𝓁𝑜𝓃𝑔 𝒷𝓁𝒶𝒸𝓀 𝒽𝒶𝒾𝓇 𝓌𝒾𝓉𝒽 𝒶 𝓈𝓅𝒾𝓀𝑒-𝒷𝒶𝓈𝑒𝒹 𝒽𝒶𝓁𝑜 𝒸𝑜𝓃𝓈𝒾𝓈𝓉𝒾𝓃𝑔 𝑜𝒻 𝒷𝓁𝒶𝒸𝓀 𝓈𝒽𝒶𝓇𝒹𝓈. 𝒮𝒽𝑒 𝓌𝑒𝒶𝓇𝓈 𝒶 𝒷𝓁𝒶𝒸𝓀 𝒿𝒶𝒸𝓀𝑒𝓉 𝓌𝒾𝓉𝒽 𝓅𝓊𝓇𝓅𝓁𝑒 𝒸𝑜𝓂𝓅𝓁𝒾𝓂𝑒𝓃𝓉𝓈, 𝒽𝒶𝓈 𝒶 𝒷𝓁𝒶𝒸𝓀 𝓈𝓌𝑜𝓇𝒹 𝑜𝓃 𝒽𝑒𝓇 𝒽𝒾𝓅, 𝓌𝑒𝒶𝓇𝓈 𝒶 𝒷𝓁𝒶𝒸𝓀 𝓈𝒸𝒶𝓇𝒻 𝒶𝓇𝑜𝓊𝓃𝒹 𝒽𝑒𝓇 𝓃𝑒𝒸𝓀, 𝒶𝓃𝒹 𝒽𝒶𝓈 𝑔𝓁𝑜𝓌𝒾𝓃𝑔 𝓌𝒽𝒾𝓉𝑒 𝑒𝓎𝑒𝓈.
+
+<font color="000000"/font>
+== 𝐵𝑒𝒽𝒶𝓋𝒾𝑜𝓇 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝓌𝒾𝓁𝓁 𝓊𝓈𝓊𝒶𝓁𝓁𝓎 𝑜𝓃𝓁𝓎 𝓈𝒽𝑜𝓌 𝓊𝓅 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃 𝒾𝒻 𝓎𝑜𝓊 𝒶𝓇𝑒 𝒶𝓉 𝓇𝒾𝓈𝓀 𝑜𝒻 𝒷𝑒𝒾𝓃𝑔 𝓇𝒶𝒾𝒹𝑒𝒹 𝒷𝓎 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒, 𝑜𝓇 𝒶𝒸𝓉𝒾𝓋𝑒𝓁𝓎 𝒷𝑒𝒾𝓃𝑔 𝓇𝒶𝒾𝒹𝑒𝒹 𝒷𝓎 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒. 𝒮𝒽𝑒'𝓈 𝑔𝑒𝓃𝑒𝓇𝒶𝓁𝓁𝓎 𝒶 𝓅𝑒𝒶𝒸𝑒𝒻𝓊𝓁 𝒷𝑒𝒾𝓃𝑔, 𝓈𝑒𝓇𝓋𝒾𝓃𝑔 𝒶𝓈 𝒶 𝓂𝒶𝓀𝑒𝓈𝒽𝒾𝒻𝓉 𝒷𝑜𝒹𝓎𝑔𝓊𝒶𝓇𝒹/𝓅𝓇𝑜𝓉𝑒𝒸𝓉𝑜𝓇. 𝐼𝒻 𝓈𝒽𝑒 𝓈𝒽𝑜𝓌𝓈 𝓊𝓅 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃 𝓌𝒾𝓉𝒽𝑜𝓊𝓉 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒 𝒷𝑒𝒾𝓃𝑔 𝒶𝒸𝓉𝒾𝓋𝑒, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝓌𝒶𝓁𝓀 𝓌𝒾𝓉𝒽 𝓎𝑜𝓊 𝓉𝒽𝓇𝑜𝓊𝑔𝒽 𝓉𝒽𝑒 𝓇𝑜𝑜𝓂𝓈, 𝑜𝒸𝒸𝒶𝓈𝒾𝑜𝓃𝒶𝓁𝓁𝓎 𝓈𝓅𝑒𝒶𝓀𝒾𝓃𝑔 𝓉𝑜 𝓎𝑜𝓊. 𝐻𝑜𝓌𝑒𝓋𝑒𝓇, 𝒾𝒻 𝒮𝑜𝓁𝓈𝓉𝒾𝒸𝑒 𝒾𝓈 𝒶𝒸𝓉𝒾𝓋𝑒 𝒾𝓃 𝓎𝑜𝓊𝓇 𝓇𝓊𝓃, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝒹𝑒𝒻𝑒𝓃𝒹 𝓎𝑜𝓊 𝒷𝓎 𝒻𝒾𝑔𝒽𝓉𝒾𝓃𝑔 𝑜𝒻𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝒹𝑒𝓇𝓈, 𝓅𝓇𝑜𝓋𝒾𝒹𝒾𝓃𝑔 𝓎𝑜𝓊 𝒶 𝒸𝒽𝒶𝓃𝒸𝑒 𝓉𝑜 𝑒𝓈𝒸𝒶𝓅𝑒 𝑜𝓇 𝓇𝓊𝓃 𝒶𝓌𝒶𝓎.
+
+<span style="text-shadow: black -3px 3px 3px;">𝒮𝑜𝓂𝑒𝓉𝒽𝒾𝓃𝑔 𝓎𝑜𝓊 𝓈𝒽𝑜𝓊𝓁𝒹 𝓃𝑜𝓉 𝒹𝑜 𝒽𝑜𝓌𝑒𝓋𝑒𝓇, 𝒾𝓈 𝓈𝒽𝑜𝓌 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝑜𝓃 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝐿𝓊𝒸𝓎. 𝐼𝒻 𝓎𝑜𝓊 𝒸𝒽𝑜𝑜𝓈𝑒 𝓉𝑜 𝒷𝑒 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝓋𝑒 𝓉𝑜𝓌𝒶𝓇𝒹𝓈 𝒽𝑒𝓇 𝒷𝓎 𝓈𝒽𝑜𝑜𝓉𝒾𝓃𝑔 𝒶 𝒻𝒾𝓇𝑒𝒶𝓇𝓂 𝒶𝓉 𝒽𝑒𝓇, 𝓇𝑒𝓅𝑒𝒶𝓉𝑒𝒹𝓁𝓎 𝓈𝓁𝒶𝓂𝓂𝒾𝓃𝑔 𝓉𝒽𝑒 𝓁𝑜𝒸𝓀𝑒𝓇 𝒹𝑜𝑜𝓇 𝒾𝓃 𝒽𝑒𝓇 𝒻𝒶𝒸𝑒, 𝑜𝓇 𝓊𝓈𝒾𝓃𝑔 𝒶 𝓂𝑒𝓁𝑒𝑒 𝓌𝑒𝒶𝓅𝑜𝓃, 𝓈𝒽𝑒 𝓌𝒾𝓁𝓁 𝒾𝓃 𝓉𝓊𝓇𝓃 𝑔𝑒𝓉 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝓋𝑒 𝒶𝓃𝒹 𝓉𝒽𝓇𝑒𝒶𝓉𝑒𝓃 𝓉𝑜 𝓀𝒾𝓁𝓁 𝓎𝑜𝓊 𝒷𝓎 𝑒𝒾𝓉𝒽𝑒𝓇 𝓈𝒽𝑜𝓌𝒾𝓃𝑔 𝒽𝑒𝓇 𝑔𝓊𝓃 𝑜𝓇 𝓈𝑒𝓋𝑒𝓇𝑒𝓁𝓎 𝒽𝒶𝓇𝓂𝒾𝓃𝑔 𝓎𝑜𝓊 𝓌𝒾𝓉𝒽 𝒾𝓉. 𝐹𝓊𝓇𝓉𝒽𝑒𝓇 𝒶𝒸𝓉𝓈 𝑜𝒻 𝒶𝑔𝑔𝓇𝑒𝓈𝓈𝒾𝑜𝓃 𝓌𝒾𝓁𝓁 𝑔𝑒𝓉 𝓎𝑜𝓊 𝓀𝒾𝓁𝓁𝑒𝒹.
+
+<font color="000000"/font>
+== 𝐿𝑜𝓇𝑒 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">𝐿𝓊𝒸𝓎 𝒾𝓈 𝓉𝒽𝑒 𝒻𝑜𝓇𝓂𝑒𝓇 𝒽𝑜𝓈𝓉 𝑜𝒻 𝓉𝒽𝑒 𝒟𝒶𝓇𝓀𝒽𝑒𝒶𝓇𝓉, 𝓌𝒽𝒾𝒸𝒽 𝒾𝓈 𝓉𝒽𝑒 𝓈𝓌𝑜𝓇𝒹 𝓎𝑜𝓊 𝒸𝒶𝓃 𝓈𝑒𝑒 𝑜𝓃 𝒽𝑒𝓇 𝒽𝒾𝓅. 𝒮𝒽𝑒 𝓌𝒶𝓈 𝒸𝒶𝓅𝓉𝓊𝓇𝑒𝒹 𝒷𝓎 𝓉𝒽𝑒 𝒮.𝒫.𝒜.𝒲.𝒩 𝑜𝓇𝑔𝒶𝓃𝒾𝓏𝒶𝓉𝒾𝑜𝓃 𝒹𝓊𝑒 𝓉𝑜 𝒽𝑒𝓇 𝒶𝓃𝑜𝓂𝒶𝓁𝑜𝓊𝓈 𝓅𝓇𝑜𝓅𝑒𝓇𝓉𝒾𝑒𝓈 𝒶𝓃𝒹 𝓅𝓇𝑒𝓈𝓊𝓂𝑒𝒹 𝒶𝓉𝓉𝓊𝓃𝑒𝓂𝑒𝓃𝓉 𝓉𝑜 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈. 𝒮𝒽𝑒 𝓌𝒶𝓈 𝓉𝒽𝑒𝓃 𝑒𝓍𝓅𝑒𝓇𝒾𝓂𝑒𝓃𝓉𝑒𝒹 𝑜𝓃 𝒷𝓎 𝒮.𝒫.𝒜.𝒲.𝒩 𝓈𝑜𝓂𝑒𝓌𝒽𝑒𝓇𝑒 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓊𝓃𝑒𝓍𝓅𝓁𝑜𝓇𝑒𝒹 𝒾𝓃 𝒽𝑜𝓅𝑒𝓈 𝓉𝑜 𝒻𝒾𝓃𝒹 𝑜𝓊𝓉 𝓂𝑜𝓇𝑒 𝒶𝒷𝑜𝓊𝓉 𝒽𝑒𝓇 𝓈𝒶𝒾𝒹 𝒶𝓃𝑜𝓂𝒶𝓁𝑜𝓊𝓈 𝓅𝓇𝑜𝓅𝑒𝓇𝓉𝒾𝑒𝓈 𝒶𝓃𝒹 𝓉𝒽𝑒 𝒸𝑜𝓃𝓃𝑒𝒸𝓉𝒾𝑜𝓃 𝓈𝒽𝑒 𝒽𝒶𝓈 𝓌𝒾𝓉𝒽 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈. 𝒪𝓃𝒸𝑒 𝒮.𝒫.𝒜.𝒲.𝒩 𝒽𝒶𝒹 𝑔𝑜𝓉𝓉𝑒𝓃 𝓉𝒽𝑒 𝒾𝓃𝒻𝑜𝓇𝓂𝒶𝓉𝒾𝑜𝓃 𝓉𝒽𝑒𝓎 𝒽𝒶𝒹 𝓌𝒶𝓃𝓉𝑒𝒹 𝒻𝓇𝑜𝓂 𝒽𝑒𝓇, 𝓈𝒽𝑒 𝓌𝒶𝓈 𝒷𝓇𝑜𝓊𝑔𝒽𝓉 𝓉𝑜 𝓉𝒽𝑒 𝑀𝒶𝒾𝓃𝓉𝑒𝓃𝒶𝓃𝒸𝑒 𝓉𝓊𝓃𝓃𝑒𝓁𝓈 𝒶𝓃𝒹 𝓁𝑜𝒸𝓀𝑒𝒹 𝒶𝓌𝒶𝓎 𝓈𝑜𝓂𝑒𝓌𝒽𝑒𝓇𝑒 𝒾𝓃 𝓉𝒽𝑒𝓇𝑒. 𝐻𝑜𝓌𝑒𝓋𝑒𝓇, 𝒹𝓊𝑒 𝓉𝑜 𝒶 𝓂𝓎𝓈𝓉𝑒𝓇𝒾𝑜𝓊𝓈 𝑜𝓊𝓉𝒷𝓇𝑒𝒶𝓀 𝓌𝒾𝓉𝒽 𝒶𝓃 𝓊𝓃𝓀𝓃𝑜𝓌𝓃 𝒸𝒶𝓊𝓈𝑒, 𝑜𝓃𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝒽𝒶𝒹𝑜𝓌𝓈 𝒽𝒶𝒹 𝒷𝓇𝑜𝓀𝑒𝓃 𝓉𝒽𝑒 𝑒𝓃𝓉𝓇𝒶𝓃𝒸𝑒 𝓉𝑜 𝐿𝓊𝒸𝓎'𝓈 𝒸𝑒𝓁𝓁, 𝓈𝑒𝓉𝓉𝒾𝓃𝑔 𝒽𝑒𝓇 𝒻𝓇𝑒𝑒.</span>
+
+==Music/Soundtracks==
+* A Creation Of Sorrow - Breach Soundtrack: https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
+
+<font color="000000"/font>
+== 𝒯𝓇𝒾𝓋𝒾𝒶 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;"><big>𝒮𝒽𝑒 𝓂𝒶𝓎 𝒷𝑒 𝓀𝒾𝓃𝒹, 𝒷𝓊𝓉 𝑒𝓋𝑒𝓃 𝓈𝒽𝑒 𝒽𝒶𝓈 𝒽𝑒𝓇 𝓁𝒾𝓂𝒾𝓉𝓈...</big>
+<font color="000000"/font>
+== 𝒢𝒶𝓁𝓁𝑒𝓇𝓎 ==
+<gallery widths="180">
+File:Lucy eyes.png|Lucy's eyes.
+File:Lucy breach.png| "I thought I could trust you.. Good luck."
+File:Lucy gun.png|Lucy holding the VM-244.
+File:Lucy katana.png|Lucy holding a purple and black katana.
+File:New lucy perf.png|Lucy holding The Perfectionist.
+File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."
+</gallery>
+<font color="E6E6E6"/font>
+
+
+
+|-|Avalanche=
+'''Avalanche:'''
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=Avalanche
+|entity_image=Ava.jpg
+|appears_at=Anywhere. Raids SC/A&SP
+|nicknames=Ava/Avalanche
+|damage=Depends on weapon
+|speed=14 studs/second
+|related_monsters=[[Overseer]]
+|sound1=<center>Breach Soundtrack</center><center>[[File:ACreationOfSorrow.mp3]]</center>}}
+
+==Description==
+Ava, who also goes by Avalanche or Avalanchette, is a relatively unknown being. She always carries the shadow lights and shadow weapons on her, sometimes carrying the VM as well. 
+
+She has a black glitch effect that has purple outlines covering the majority of her face, which blinds her. This can be seen as sometimes Ava might run into things. However, she still can sort of create an image of her surroundings because of something she doesn't want shared shooting out ultraviolet rays in every direction. She is either wearing purple military-style equipment, or wearing her purple dress. She has complete white skin, and has 2 long chain links hovering behind her at all times.
+
+Most of the time You see her, she'll be kind, and try to aid you in any way she can. If she finds something that she thinks would be useful, she'll give it to you. And in the event of solstice raiding when she's present (which is nearly impossible to encounter), Ava will do her best to assist you, but sometimes she won't do anything.
+
+However, if the Shadows are invading, be it the [[Alpha & Shadowpocalypse]] or the [[Shadow Challenge]], Ava act's different. Almost as if there's someone, or something, giving her orders. In this case, Ava will try to kill you in any way she can. She'll go easy, similarly to how solstice works, by only firing the perfectionist until shown aggression. If a player hides in a locker, she will breach the locker in attempts to kill you. 
+
+If you survive it, she'll overtime become docile, and then disappear shortly after.
+
+However, there's one thing you never want to do, as this will cause her to become aggressive. If you provoke her by doing this, she will either shoot you until you're moderately injured, or just leave. Whatever you do, do NOT call her "Juliette."
+
+==Lore/Background Information==
+Ava's entry of the building was in 1984 at 22 years old. She was born in 1962. One day during college, she was falsely accused of murdering her missing roommate shortly after the body was found. A day later, she was taken into custody and brutally questioned and pressured. Her family, for some reason, had chosen to testify against her in the court proceeding. Seeing her own family testify against her for something she didn't do had hurt her a lot, and with the brutal questioning she went through prior, things started piling up on her mental state.
+
+However, her lawyer had successfully proved her innocent, and days later they actually caught the murderer and sentenced them. Ava was unfortunately expelled from college due to the accusation, so she was sent home. Her family, shockingly welcomed her with open arms and acted like everything was normal. Her family pushed everything to the past by only saying a shallow apology and saying it is best to just move on. Seeing that, made something snap in ava's head. In her eyes, her entire family just undermined and ignored the severe suffering she just went through, and the expulsion from her schooling. To ava, her dreams and future was practically ruined, and they're ignoring that. So after dinner had finished, she grabbed a knife and killed her father. Her mother died as well shortly after. Ava's brother, Mason, tried fighting back and called the cops. He almost subdued Ava, but she ended up killing him too. 
+
+Once she heard the police was after her, she ran. She ran far, and she ran fast. Her life as she knew it was gone, and the blood of her family was on her hands. The police had issued a search warrant and a helicopter to help find ava. She had then ran into a large building, thinking it'd be a good place to hide. In there, she found an elevator, and decided to go down, with hopes and prayers it led to a basement of sort given how the building looked. From then on, everything's a blur. To her knowledge, she blacked out and woke up in a small area with two weirdly long couches. She looked back, and the elevator was one-sided. She was trapped.
+
+Following that, ava had traversed through the sections, learning every entity's behaviors as she goes. As she went on, she slowly became paranoid, thinking that there wasn't an end to it. However, she ran into a door that led to a new area. And so, she kept on going, hoping that she'd find an exit eventually. However, during her time in [[Section M|Maintenance]], she was faced with a grueling encounter, leading to her being infected by the shadows and used as a puppet for [[Overseer]]. However, she was left with her consciousness and mind intact due to her being abnormal via unknown means.
+
+==Music/Soundtracks==
+* A Creation Of Sorrow - Breach Soundtrack: https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
+
+==Gallery==
+<gallery>
+AvaBreaching.jpg|Ava seen about to breach the player's locker
+Avabreaching2.png|Succumb to the infection and DIE!
+Avabreachingsolstice1.png|Maybe this time you'll learn!
+Avareactiontoshadowchallenge1.png|What have you... done?
+Avareactiontoshadowchallenge2.png|Do you realize what's even happened?!
+Avareactiontoshadowchallenge3.png|When the time comes, I won't be here to help you.
+Avastalking1.png|Ava stalking from a close distance.
+Avastalking2.png|Ava stalking from a farther distance.
+</gallery>
+
+
+
+|-|The Record Keeper=
+'''The Record Keeper:'''
+{{InfoBox:Entity
+|entity_name=The Record Keeper
+|entity_image=TheRecordKeeper.png
+|appears_at=Only by Admins
+|type=Mercenary
+|nicknames=Lilly
+|damage=Depends on weapon
+|speed=14 studs per second
+}}
+
+== Description ==
+A high ranking S.P.A.W.N. Employee who seems to always carry a tired expression, as well as an AK47. Due to the nature of how S.P.A.W.N. conducts its business, not much is known about The Record Keeper.
+
+== Appearance ==
+The Record Keeper sports fox ears, deer antlers, and a fox tail. When questioned on her species, she refers to herself as a "foxdeer thing."
+
+Her clothing consists of a suit that has been modified to better fit combat scenarios, having shoulder and knee pads, presumably to reduce harm from maneuvers during combat. Around her waist is a belt, as well as a tied jacket. She also carries a scythe on her back, which seems to be a sort of artifact.
+
+==Lore==
+According to internal documents located in [[Section E|Executive]], The Record Keeper is a high-ranking employee, seemingly just below the founder of the company. 
+
+According to this same documentation, her involvement with the organization links to it's founding as a cult, where, as noted by medical examination papers found in her office, is the direct cause of her animal-like mutations. 
+
+Her job, as designated by her given title, was to keep records of any and all information that S.P.A.W.N. deems as important. This documentation has information including but not limited to: entities, sections, employees, artifacts, weapons, products, meetings, and business rivals. Her documentation includes multiple pages on whatever an employee could request for. 
+
+The Record Keeper seems to have close ties to the entities, so much so that reported sightings of her denotes that entities will avoid harassing her, similar to that of Striketeam Solstice.
+
+==Gallery==
+<gallery>
+RecordKeeperHoD+.png|The Record Keeper seen holding the Heart of Darkness+
+RecordKeeperPerfectionist.png|The Record Keeper seen holding the Perfectionist
+RecordKeeperAK47.png|The Record Keeper seen holding an AK-47
+RecordKeeperIntroduction.png|The Record Keeper Introducing themselves
+</gallery>
+
+
+
+|-|The Host=
+'''The Host:'''
+{{InfoBox:Entity
+|entity_name=The Host
+|entity_image=Unknown Humanoid.png
+|appears_at=Only by Admins
+|nicknames=The Host<br>Fate
+|damage=None(?)
+|speed=Same as the player
+|related_monsters='''Host's Source'''}}
+
+== Description ==
+Not much is known about the Host, tho we know that they are tied to the '''Host's Source''', a white crystal that will appear when '''The Host''' raids your run.
+
+==Lore==
+* Host is a abstract being who is TECHNICALLY fake, unless you hold it's life source
+* they are 2 months old
+* they can be seen mentioning a character named "Onxy".
+* fate cannot be interacted with unless you have it's source in your inventory. do note that Fate can take items from your inventory IF you have them in your inventory since it's "linked" in some way"
+
+
+
+|-|Brad Felony=
+'''Brad Felony:'''
+{{InfoBox:Entity
+|entity_name=Brad Felony
+|entity_image=<gallery>
+Brad1.webp|Ingame image
+Brad2.webp|Ditto
+</gallery>
+|appears_at=Only by admins
+|nicknames=Brad Felony, Mustard Man
+|damage=Unknown
+|speed=same as the player}}
+
+==Description==
+Unknown
+
+==Lore==
+Used to be a vlogger before entering the building, Also used to steal items from people before he started feeling guilty and afraid of people getting mad at them. Seems to know someone named "Bips" who is a crystal retrival specialist worker. Brad can be seen carrying an event item called "Radiant Fragment" which the only difference between the event version and the version Brad is holding is that Brad's version of the fragment always has a different description if he ever drops it to you.
+"Bips" is also an enemy of brad/seems to hate eachother.
+
+==Gallery==
+<gallery>
+BradWeddingOutfit.png|Brad seen wearing a wedding outfit.
+Bradnbips.png|Brad hiding in a blue locker with Bips staring at it.
+Bradnbipsdiff.png|Ditto but Brad outside of the locker.
+</gallery>
+
+
+|-|Traveler=
+'''Traveler:'''
+{{InfoBox:Entity
+|entity_name=Traveler
+|entity_image=Traveler.png
+|appears_at=Only by Admins
+|nicknames=Avery
+|damage=Depends on the weapon
+|speed=Same as the Player}}
+
+==Description==
+???
+
+==Loadout==
+* Personal use NVCS-13793-C
+* Loanable NVCS-3000
+* 4 bandages
+* 1 Vita-Shot
+* 2 Lockpicks
+* 1 Bloxiade 
+* 1 Bloxy Cola
+* A Revolver 
+* A Tactical Shakelight
+
+==Lore==
+The following messages were stated by [[Oblivion]] during the Misleading Darkness event that occurred on April 28, 2026
+
+"I heard at one point they were a former employee of SPAWN, yet regrets being part of it. They have an emblem of the SPAWN logo on them they normally keep hidden."
+
+"I heard they had almost died to the shadow plague at one point, I'm not sure how exactly they cured themself from it."
+
+"One last thing I heard from them is that they apparently forced himself to stay here as a punishment for his own actions."
+
+
+
+|-|???=
+'''???:'''
+{{InfoBox:Entity
+|entity_name=???
+|entity_image=EvilBountyHunter.jpg
+|appears_at=Only by Admins
+|nicknames=???
+|damage=???
+|speed=}}
+
+== Description ==
+Unknown
+
+
+
+|-|The Mimic=
+'''The Mimic:'''
+{{InfoBox:Entity
+|entity_name=The Mimic
+|entity_image=<gallery>
+Mimic fixed.png|Spooky mimic entity
+</gallery>
+|appears_at=Only by admins
+|damage=20-50 DPS / Passive
+|speed=10/17 studs}}
+
+==Description==
+'''The Mimic''' is a player controlled(?) entity you can rarely find on every section in the game, more information below.
+
+==Behaviour==
+When '''The Mimic''' spawns it will spawn behind the door that was opened when it spawned. After that, if the player is far away from it will either follow the player and keep the same distance as before they walked away or get really close to them. If the player isnt looking at it then '''The Mimic''' will walk faster so it is reccomended you stare at it but not for too long, the reason why will be explained below.
+
+'''The Mimic''' has 2 documented moves it can do. If you stare at it for too long it can do a dash move, it will start running at you while screaming while being able to damage you if you get too close. After a few seconds of running it will calm down and stop being able to damage you. It can also do a sort of speed up move that speeds it up for a few seconds while forcing it to move to the nearest player. These moves can be countered by just hiding from it.
+
+==Strategy & Tips==
+*It is reccomended that if you have a weapon and encounter it you should always shoot it.
+*You should look at '''The Mimic''' most of the time but this is not reccomended to do for a long time.
+*Always keep your distance from '''The Mimic''' as he can do his dash move anytime.
+
+==Trivia==
+*'''The Mimic''' can kill [[D-20]] and other killable entities with his dash.
+*'''The Mimic''' is immune to entities, but one sighting of it shows him hiding.
+
+==Gallery==
+<gallery>
+Mimic up close.png|Mimic but up close.
+Mimic kill message.png|TAKEN WHAT IS MINE
+Mimictrueform.png|Mimic's true form, without any clones.
+</gallery>
+
+
+
+|-|Mary=
+'''Mary:'''
+{{InfoBox:Entity
+|entity_name=Mary
+|entity_image=Mary Blossom Lowell.png
+|caption-entity_image=Are you having fun?
+|appears_at=Only by Admins
+|nicknames=Mary
+|damage=None
+|speed=Stationary}}
+
+== Description ==
+Mary is a extremely rare humanoid, Her existence is questionable mostly unseen by most. However those of importance or those in packs may have a better chance of catching her attention. If you are hunted by her, do not attempt to upset her or something much worse will come for you.
+
+==Gallery==
+<gallery>
+Hurtherhurtyou.png|alt=Sighting of Mary
+</gallery>Hurt Her, Hurt You.
+
+
+
+|-|Crystal Retrieval Agency=
+'''Crystal Retrieval Agency:'''
+{{InfoBox:Entity
+|entity_name=Crystal Retrieval Agency
+|entity_image=CrystalRetrievalAgencyLogo.png
+|caption-entity_image=
+|appears_at=Only by Admins
+|nicknames=
+|damage=None
+|speed=}}
+
+== Description ==
+A group of people that retrieve crystals (as the name suggests) from other players in runs.
+
+Once any Crystal Retrieval agent in the team raids your run, you will most likely hear beeping coming from afar which indicates they are searching for radiant crystals. If they get to the current room, they will most likely ask if there are any crystals if you have one, since they will most likely have detected it. If you give them the crystal, they may give you items in return and retreat, such as the AD-STR and others. It is unknown what happens if you dont have a crystal or dont hand them a crystal you have.
+
+== Trivia ==
+Crystal Retrival Agents wont look for crystals in places they deem too dangerous, this including the [[Unnamed Sector]]. 
+
+Bips is confirmed to be female.
+
+==Members==
+<gallery>
+Placeholder.webp|???
+Bips.png|Bips
+</gallery>
+
+</tabber>
+
+
+{{EntityNavBox}}

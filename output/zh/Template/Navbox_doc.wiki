@@ -1,0 +1,38 @@
+;说明
+:此模板用于创建基础导航框。你可以通过“语法”章节下的步骤调用该模板来实现，但更推荐你通过“创建导航框”章节下的步骤'''逐字复制代码'''来完成。
+;创建导航框
+<inputbox>
+type=create
+prefix=Template:
+preload=Template:Navbox
+editintro=Template:Navbox/doc
+buttonlabel=创建你的导航框！
+default = Navbox Foo
+</inputbox>
+#为你的导航框想一个名字，例如“Navbox Foo”。在上方输入框中填入该名称，点击按钮，然后立即保存页面。请准备好返回''本''页面查看剩余说明。
+#在源代码模式下编辑生成的页面。
+#将<code>{{{header}}}</code>替换为你想要在头部显示的文本。
+#将<code>{{{body}}}</code>替换为你想要在正文显示的文本。
+#如果要新增另一个区，请将以下四行代码复制到现有代码中结构相似行的正下方：
+<pre>|-
+! style="padding:0.2em 0.5em;" nowrap="nowrap" class="color1" | {{{header}}}
+|-
+| style="padding:0.2em 0.5em;" | {{{body}}}</pre>
+
+添加完所需的所有区并填入内容后即可保存页面。你也可以创建一个/doc子页面，说明调用该生成的模板只需输入<code>{<nowiki/>{Navbox Foo}}</code>即可，或者你在步骤1中给模板取的任意名称。
+
+;语法
+
+<pre>{{navbox
+|header=Land of Bob
+|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.
+}}</pre>
+
+:显示效果如下...
+
+{{navbox
+|header=Land of Bob
+|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.
+}}
+
+<includeonly>[[Category:Navbox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,9 @@
+;描述
+此模板可将文本排版为指定列数的分栏格式。
+
+;语法
+<pre>{{cols|<# of columns>|<content>}}</pre>
+
+尤其适合将较长的项目列表拆分为多列显示。
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

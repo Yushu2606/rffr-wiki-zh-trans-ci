@@ -1,0 +1,19 @@
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=Troll Face（巨魔脸）
+|behavior=极速冲向主房间
+|related_monsters=[[A-20]]<br>[[D-35]]
+|speed=快
+|entity_image=TrollFace.webp
+|claustrophobia=否
+|sound1=<center>生成</center><center>[[File:8bit hit.mp3]]</center>}}
+
+==描述==
+Troll Face是[[Super Epic Mode|超级史诗模式]]专属的众多实体之一。
+
+==行为==
+仅会冲向主房间，在门口处消失，速度相当快。
+
+==策略与提示==
+* 听到它的环境音效后请立刻躲藏。

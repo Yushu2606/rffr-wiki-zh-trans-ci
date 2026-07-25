@@ -1,0 +1,37 @@
+{{Headphones}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-246Placeholder.gif|frameless|link=UI-246]]
+|entity_image=UI-246.png
+|previous_entity=[[UI-220]]
+|next_entity=[[UI-269]]
+|type=Fallback<br>Rebounder
+|appears_at=I-246+
+|damage=Instant Death.
+|related_monsters=[[D-180]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience '''LOUD'''</center><center>[[File:UI-246.wav]]</center>}}
+
+== Description ==
+'''UI-246''' is the 11th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-246''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+It will appear in the center of the room, rushing back after 4- seconds it will rush back, rebounding back to the main room a few times, it will depsawn at the door.
+
+== Strategy & Tips ==
+Hide immediately when you hear/See him, and stay hidden untill it despawns
+
+== Trivia ==
+* it sounds like a bass boosted UI-5.
+* Like most UI entities, '''UI-246''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Section UI]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Super Epic Mode]]

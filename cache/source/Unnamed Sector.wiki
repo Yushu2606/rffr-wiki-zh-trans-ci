@@ -1,0 +1,101 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC; color: black;">Section ? (Unnamed Sector)</span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{Section?Stub}}
+
+{{SectionInfoBox
+|image=Unnamed .png
+|previous_section=[[Section A]]<br>[[Section D]]<br>[[Section M]]
+|next_section=[[Section E]]
+|entity_amount=10
+|title1=UNNAMED Section|sound1=<center>Beginning Soundtrack</center><center>[[File:IntoTheUnknown.mp3]]</center>}}
+
+==Overview==
+'''Unnamed Sector''' is a Side Quest Section for R:FF:R.
+The door will spawn after both a 1 in 90, and a 1 in [Number of rare rooms in the section] is rolled successfully, it can Spawn in Section
+[[Section A| A (A-100+)]] [[Section D| D (Derelict only)]], and [[Section M| M (Maintenance Tunnels Only)]]. The objective of the player in the '''Unnamed Sector''' is to find the '''Strange Keycard''', Which can spawn after door 100, and find an escape Door, which can spawn if the player has the Keycard in their inventory, once past the 1st exit door, [[Mouth|False-300]] will chase them forward until they reach the true exit door, leading to an elevator that goes back to the [[Section A]] lobby, where they can use the S.P.A.W.N Terminal to teleport to '''M-400''' if reached already, and use the Keycard to unlock the door for [[Section E]]
+
+
+
+
+
+
+
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center"{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.png|center|150px|link=Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.png|center|150px|link=False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:FalseProphet.png|center|150px|link=False Prophet]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.png|center|150px|link=Tackle]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Mori]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False Prophet]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Tackle]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.png|center|150px|link=Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.png|center|150px|link=Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-200]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:False300.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+== Rooms ==
+<gallery>
+File:AUnnamed.jpg|Room containing the Unnamed Sector entrance in [[Section A]]
+File:DUnnamed.jpg|Room containing the Unnamed Sector entrance in [[Section D]]
+File:Unnamed Sector entrance in M-Section.png|Room containing the Unnamed Sector entrance in [[Section M]]
+File:Unnamed .png
+</gallery>
+
+== Other ==
+<gallery>
+MUnnamed.jpg|Old Room containing the Unnamed Sector entrance in [[Section M]]
+UnnamedAdoor.jpg|The old door to the Unnamed Sector in [[Section A]]
+UnnamedDdoor.jpg|The old door to the Unnamed Sector in [[Section D]]
+OldunnamedMdoor.webp|The old door to the Unnamed Sector in [[Section M]]
+Unnamed1.png|The Elevator to the Unnamed Sector
+newUnnamedDoor.jpg|the Current door model of the Unnamed Sector
+Unnamed2.png|the Old door model of the Unnamed Sector
+Unnamed4.png|the strange keycard, needed to enter [[Section E]], seen on the Ground of the Unnamed Sector
+File:UnnamedDemoThumbnail.webp|The games thumbnail for the Unnamed Demo release
+</gallery>
+
+==Lore==
+where failed entities are casted
+
+==Strategies==
+* TBA
+
+==Badges==
+{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=Into The Unknown|Description=0000|Obtainment=Enter the Unnamed Sector}}
+{{BadgeUnnamed|Image=SectorShutdown.png|Name=Sector Shutdown|Description=You caused this.|Obtainment=Get [[Red Rooms]] started by picking up the Strange keycard}}
+{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=The Beginning of The End.|Description=Escape.|Obtainment=Escape  from the Unnamed Sector with the Strange keycard}}
+{{BadgeUnnamed|Image=MoneyWalks.png|Name=Money Walks|Description=0500|Obtainment=Reach door 0500 in the Unnamed Sector.}}
+{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=Wasted My Time For This Badge 👍|Description=1000|Obtainment=reach door 1000 in the Unnamed Sector.}}
+
+== Trivia ==
+* [[Mori]], [[Tackle]], [[False Witness]], and [[False-60]] Have a 1 in 2000 chance of spawning outside of the Unnamed Sector after door 500
+** Unless the '''Are you.. supposed to be here''' [[Modifiers|Modifier]] is active, in which case its 1 in 200
+* The Unnamed Sector had a demo that lasted 50 rooms, and [[Mori]], [[False Witness]],  and [[Tackle]] were the only threats
+* [https://youtu.be/3nOKl6moUYs?si=jDmMUtkWP--cy1yb Update Executive Teaser 2]
+* [https://youtu.be/utl2B4LcVic?si=Tpo3g6BzId8MvFDw Update Executive Teaser 9]
+
+[[Category:Sections]]

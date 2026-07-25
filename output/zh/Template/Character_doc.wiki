@@ -1,0 +1,77 @@
+== 描述 ==
+要使用此模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom的信息框语法]]。
+
+== 语法 ==
+<pre>
+{{Character
+ | name         = 
+ | image        = 
+ | imagecaption = 
+ | aliases      = 
+ | relatives    = 
+ | affiliation  = 
+ | occupation   = 
+ | marital      = 
+ | birthDate    = 
+ | birthPlace   = 
+ | deathDate    = 
+ | deathPlace   = 
+ | species      = 
+ | gender       = 
+ | height       = 
+ | weight       = 
+ | eyes         = 
+ | portrayedby  = 
+ | appearsin    = 
+ | debut        = 
+
+}}
+</pre>
+
+== 示例输出 ==
+{{Character
+ | name         = Flowa
+ | image        = Example.jpg
+ | imagecaption = Flowa, at rest
+ | aliases      = Flo
+ | relatives    = 
+ | affiliation  = 
+ | occupation   = 
+ | marital      = 
+ | birthDate    = July 21st, 2013
+ | birthPlace   = Iowa
+ | deathDate    = 
+ | deathPlace   = 
+ | species      = Plant
+ | gender       = 
+ | height       = 
+ | weight       = 
+ | eyes         = 
+ | portrayedby  = 
+ | appearsin    = 
+ | debut        = 
+}}
+<pre>
+{{Character
+ | name         = Flowa
+ | image        = Example.jpg
+ | imagecaption = Flowa, at rest
+ | aliases      = Flo
+ | relatives    = 
+ | affiliation  = 
+ | occupation   = 
+ | marital      = 
+ | birthDate    = July 21st, 2013
+ | birthPlace   = Iowa
+ | deathDate    = 
+ | deathPlace   = 
+ | species      = Plant
+ | gender       = 
+ | height       = 
+ | weight       = 
+ | eyes         = 
+ | portrayedby  = 
+ | appearsin    = 
+ | debut        = 
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

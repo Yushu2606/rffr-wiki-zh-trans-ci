@@ -1,0 +1,76 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">A-60i (Multi-Faced Monster Prime)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
+{{DesignNotAllowed|design=Old Jumpscare Face}}
+{{InfoBox:Entity
+|entity_name=[[File:NewA60iTitle.webp|frameless|link=A-60i]]
+|entity_image=<gallery>
+A-60iCurrentAnimation.gif|Animation Recreation 
+60i1.png|1st Face
+60i2.png|2nd Face
+60i3.png|3rd Face
+60i4.png|4th Face
+60i5.png|5th Face
+A60i3.webp|6th Face
+60i6.png|7th Face
+60i .png|8th Face
+</gallery>
+|previous_entity=[[A-60]]
+|next_entity=[[A-85]]
+|nicknames=MultiMonster Prime
+|type=Rusher
+|gun_effect=None
+|claustrophobia=No
+|behavior=With an small chance of spawning he spawns after A-60 despawns.
+|speed=Fast
+|locker_snipe=Yes
+|related_monsters=[[A-60]]<br>[https://roblox-rooms-doors.fandom.com/wiki/MultiMonster_Prime A-60′ R&D]
+|sound1=<center>Ambience</center><center>[[File:A-60isound.mp3]]</center>
+|caption-entity_image=I'm not related to A-60' from R&D, don't even say it..
+|ent_info_header=
+|appears_at=Anytime after A-100 (Only by [[A-60]])
+|sound2=<center>Jumpscare</center><center>[[File:A-60iJumpscare.mp3]]</center>
+|damage=Instant death (1 DPS snipe) (5 MAL. damage)}}
+
+==Description==
+A-60i is the 1st prime variant (A-20i is a super variant) you can encounter, it can spawn only after A-60 despawns.
+
+==Behavior==
+A-60i cannot spawn on its own, instead it has a chance to spawn after A-60 despawns. If A-60i does spawn, increased static would be seen and heard. A-60i will rush to the current room silently making very little noise until it is very close to the main room. Once A-60i makes it, A-60i will despawn similar fashion to A-60 although faster. A-60i does the same damage as A-60 in every way. If a player exits before A-60i fully disappears, A-60i deals rapid damage to them.
+
+== Strategy & Tips ==
+* If you notice that static continue in your screen even after [[A-60]] have completely despawned, go back to hiding because means that '''A-60i''' is coming.
+* If static continue even after '''A-60i''' attacked, hide again, because another '''A-60i''' is coming. 
+* For some reason, '''tables''' work for '''A-60i''', just use sprint to get under it to avoid getting sniped by '''A-60i'''.
+* '''A-60i''' will be almost guaranteed in the Red Rooms after A-60 or another '''A-60i'''
+* '''A-60i''' can spawn after another '''A-60i'''
+** If you keep having high static on your screen, hide as another '''A-60i''' has spawned
+* '''A-60i''' cannot spawn if [[A-60]] gets shot
+* Just like [[A-60]], '''A-60i''' can be dodge rolled to survive though you'll get sniped
+
+== Gallery ==
+<gallery>
+Newa60ijump.gif|A-60i's Current Jumpscare
+A-60IAnimNew.gif|Old Animation Recreation
+Old60i1.png|Old 1st Face
+Old60i5.png|Old 5th Face
+File:A-60i scary.gif|Old/Older A-60i's jumpscare
+A-60iwow.gif|Older animation Recreation
+OldestA60i1.png|Older face 1
+OldestA60i2.png|Older face 2
+OldestA60i3.png|Older face 3
+OldestA60i4.png|Older face 4
+OldestA60i5.png|Older face 5
+OldestA60i6.png|Older face 6
+Og60i.gif|True Legacy/Legacy/Super Epic Mode Animation
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]
+[[Category:I Variation]]
+[[Category:Ambusher]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

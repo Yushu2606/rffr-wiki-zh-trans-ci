@@ -1,0 +1,73 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-135]]
+|next_entity=[[A-200]]
+|entity_name=[[File:A-135iTitle.png|frameless|link=A-135i]]
+|entity_image=<gallery>
+NewA135i.png|当前设计
+A135i.png|旧设计
+</gallery>
+|caption-entity_image=嗡——嗡——（要是你没看出来的话我正在反弹哦）
+|appears_at=A-135之后的任意房间。
+|nicknames=Reporter（报道者）
+|type=冲刺者<br>反弹者<br>柜子检查者
+|behavior=反弹者。
+|claustrophobia=否
+|damage=秒杀
+|gun_effect=无
+|locker_snipe=否
+|speed=1000 Studs/秒 [20间/秒]
+|related_monsters=[[A-135]]（普通变种）<br>
+[[M-60i]]（机制类似）<br>
+|sound1=<center>生成</center><center>[[File:A-135iSpawnNew.mp3]]</center>
+|sound2=<center>冲刺音效</center><center>[[File:A-135iRushNew.mp3]]</center>
+|sound3=<center>远距音效</center><center>[[File:A-135iFarNew.mp3]]</center>
+|sound4=<center>临近音效</center><center>[[File:A-135iNearNew.mp3]]</center>
+|sound5=<center>跳杀</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>出现来源音效</center><center>[[File:135ispawnorigin.mp3]]</center>}}
+
+==描述==
+'''A-135i''' 是一种强化变种，当[[A-135]]尝试生成时，它有概率取而代之。'''A-135i'''<nowiki/>的外观是一张扭曲的绿色面孔，带着诡异的半咧笑容和圆形眼睛。
+
+==行为==
+'''A-135i'''有小概率在[[A-135]]尝试生成时将其替换。它生成时会先发出笑声，一段时间后会播放一声巨响，警告玩家它即将开始移动。在抵达当前房间后，它会移动到有玩家所在的房间，并检查该房间内的所有灰色柜子。'''A-135i'''检查完该房间后，会返回主房间后退，或是移动到下一个有玩家的房间（如果你处于多人模式下的话）。
+
+'''A-135i'''会多次重复这个循环（1-5次反弹），让新玩家误以为'''A-135i'''已经离开，从而中招。
+
+==数据==
+* 击杀范围：待公布
+* 无法击杀躲在桌子下方的玩家。
+* 命中类型：不会柜击。 
+* 追踪类型：视线追踪。
+
+==应对策略与提示==
+*如果你在当前房间且前面的房间没有躲藏点，站在蓝色柜子附近是个不错的选择。
+**但如果前面的房间确实有柜子，无论是什么类型，'''A-135i'''都不会去检查它们。
+*'''A-135i'''不会禁用[[Claustrophobia|幽闭恐惧]]，建议你等'''A-135i'''靠近后再躲藏。
+*'''A-135i''' <u>'''不会'''</u>柜击，你可以利用这一点。
+
+*'''注意：''' '''A-135i'''只会检查有玩家所在的房间，所以你需要躲在'''蓝色柜子'''/'''桌子'''/'''安全点'''里才能从'''A-135i'''手下存活。如果你在多人逃生局中遇到'''A-135i'''生成，要是房间里有足够的蓝色柜子或者有安全点，你应该告诉所有玩家都躲在同一个房间里，这样'''A-135i'''就不用花很长时间检查所有柜子了。
+
+==你知道吗==
+*'''A-135i'''是第四个素数变种。
+*'''A-135i'''是唯一一种带有'''锁定'''的柜子检查实体（意味着它会'''瞄准'''你的位置。就'''A-135i'''<nowiki/>的情况而言，它会瞄准有玩家的房间）。
+*'''A-135i'''的跳杀音效与[[D-55]]相同。
+
+==图库==
+<gallery>
+File:A-135i scary.gif|A-135i的跳杀
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Ambusher]]
+[[Category:Snipeless]]
+[[Category:Aimscripter]]
+[[Category:Table Affected]]

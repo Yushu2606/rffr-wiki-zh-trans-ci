@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px purple; color: purple;">D-60（多面暗魂）</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=请勿与'''Rooms Re-Established'''的D-60、'''Rooms: Reopened'''的D-60、'''Rooms of Insanity'''的D-60或'''Remastered Rooms'''的D-60混淆。}}{{InfoBox:Entity
+|previous_entity=[[D-55]]<br>[[D-55i]]
+|next_entity=[[D-60i]]<br>[[D-120]]
+|entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
+|entity_image=<gallery>
+D60anim.gif| 大致准确的动画
+D-60face1.png|第一张脸
+D-60Face2.png|第二张脸
+D-60face3.png|第三张脸
+D-60face4.png|第四张脸
+D-604.png|第五张脸
+D-60Face7.png|第六张脸
+D-60Face8.png|第七张脸
+</gallery>
+|caption-entity_image=惊悚
+|appears_at=D-060+
+|nicknames=多面暗魂
+|claustrophobia=否（仅推迟）
+|locker_snipe=是
+|gun_effect=无效果
+|type=冲刺者<br>反弹者
+|behavior=猛烈撞门之前会发出尖叫，之后要么再次开始尖叫，要么发出风声后消失。
+|damage=秒杀（柜击造成70点伤害）（20点MAL伤害）
+|speed=750 Studs/秒（冲刺阶段）
+30 Studs/秒至600 Studs/秒（后撤阶段）
+|related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
+|sound1=<center>第一种远处音效</center><center>[[File:D-60far1.mp3]]</center>
+|sound2=<center>第二种远处音效</center><center>[[File:D-60far2.mp3]]</center>
+|sound3=<center>近处音效</center><center>[[File:D-60Close.mp3]]</center>
+|sound4=<center>面部碰撞音效</center><center>[[File:D-60FaceCollision.mp3]]</center>
+|sound5=<center>反弹预警音效</center><center>[[File:D-60Rebound.mp3]]</center>
+|sound6=<center>跳杀音效</center><center>[[File:D-60Jumpscare.mp3]]</center>
+|sound7=<center>消失音效</center><center>[[File:D-60Die.mp3]]</center>
+|sound8=<center>第一种远处音效来源</center><center>[[File:Radio Static Loop.mp3]]</center>
+|sound9=<center>第二种远处音效来源</center><center>[[File:A60farsoundorigin.mp3]]</center>
+|sound10=<center>近处音效来源</center><center>[[File:85soundorigin.mp3]]</center>
+|sound11=<center>面部碰撞音效来源</center><center>[[File:Doomspire BrickBattle Sfx.mp3]]</center>
+|sound12=<center>消失音效来源</center><center>[[File:Choral Winds 4.mp3]]</center>}}
+
+==描述==
+'''D-60'''是由两张不断互相碰撞的紫色面孔组成的[[Entities|实体]]。
+
+==行为==
+当'''D-60'''生成时，它会发出音量逐渐升高的尖叫声，同时向当前房间冲刺。
+'''D-60'''撞上门后（如果位于D区的深处（洞穴）段则会直接将门砸碎），它可能移动到房间中央，或是在门口短暂等待后直接反弹（跳过等待阶段）。
+
+如果'''D-60'''选择在房间中央等待，它的音效会逐渐淡出，同时自身变为一个黑色球体。该阶段下'''D-60'''不会发动柜击，但仍然具有致命性。
+'''D-60'''在房间中央等待5-7秒（[[Red Rooms|红区]]内为2.5秒）后，有1/9的概率（[[Red Rooms|红区]]内为1/4）变回原本形态，移动到门口后开始向后撤退，速度会随时间逐渐加快。
+
+如果没有触发反弹，'''D-60'''会在亮度提升的同时发出巨大的风声，之后完全淡出，代表它已经消失。
+
+==应对策略与技巧==
+*当你听到'''D-60'''<nowiki/>的声音时，请在任意躲藏点附近等待（由于[[D-55]]的组合攻击，推荐选择白色/蓝色躲藏点），直到屏幕上的静电效果持续约1秒。
+*之后进入柜子，等待它离开。如果'''D-60'''触发反弹，你可以在它往回移动时打开几个房间的门。重复此流程即可！
+*在红区中可能更难听到它的声音，因此请留意屏幕上的静电效果。
+
+==冷知识==
+*'''D-60'''发动命中时，会对你造成20点MAL. DMG，即恶意伤害（Malicious Damage，该伤害会扣除你的最大生命值，可通过V-Boosters移除）。
+*'''D-60'''<nowiki/>的柜击无法击杀你，除非触发柜击时你的生命值低于50。
+*'''D-60'''<nowiki/>的反弹次数上限最高为'''7'''次。
+*'''D-60'''<nowiki/>'''<nowiki/>的'''跳杀音效取自FNAF同人游戏《The Joy of Creation》中邦尼的跳杀音效。
+
+==画廊==
+<gallery>
+File:D-60 1.png|旧版第一版面部
+File:D-622.png|旧版第二版面部
+File:D-63.png|旧版第三版面部
+File:D-64.png|旧版第四版面部
+File:D-60Face5.png|旧版第五版面部
+File:D-60Jumpscareee.gif|D-60的跳杀
+</gallery>
+
+
+{{EntityNavBoxSectionD}} [[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Table Affected]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]

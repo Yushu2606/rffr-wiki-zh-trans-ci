@@ -1,0 +1,30 @@
+{{InfoBox:Entity
+|entity_name=CARDBOARD-5
+|entity_image= CARDBOARD-5.png
+|appears_at=仅Admin可生成
+|nicknames=???
+|type=冲刺者
+|behavior=冲刺者
+|damage=秒杀
+|speed=35 Studs/秒
+|claustrophobia=否
+|gun_effect=无
+|related_monsters=[[UI-5]]<br>[[U-5]]
+|sound1=<center>接近音效</center><center>[[File:U5Giggle.wav]]</center>}}
+
+==描述==
+'''CARDBOARD-5''' 是一种仅可由Admin生成的简单冲刺者。
+
+==行为==
+'''CARDBOARD-5''' 会播放[https://create.roblox.com/store/asset/1846862303/Horror-Race?keyword=horror+race&pageNumber=1&pagePosition=0| 恐怖竞速歌曲]，经过一段较长时间后会冲向门。
+
+==攻略与提示==
+听到'''CARDBOARD-5'''的笑声时请躲藏。
+
+==你知道吗==
+'''CARDBOARD-5''' 只是换了红色皮肤的[[U-5]]。
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

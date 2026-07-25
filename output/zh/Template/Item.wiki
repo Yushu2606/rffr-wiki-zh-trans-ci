@@ -1,0 +1,9 @@
+<includeonly><infobox type="Item">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="type"><label>类型</label></data>
+	<data source="effects"><label>效果</label></data>
+	<data source="source"><label>来源</label></data>
+	<data source="buy"><label>购买价格</label></data>
+	<data source="sell"><label>出售价格</label></data>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Items]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

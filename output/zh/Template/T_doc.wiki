@@ -1,0 +1,14 @@
+;描述
+用于生成模板链接的模板，可传入数量可变的参数（0到20个）。
+
+;语法
+:{{t|t|参数1|参数2|参数3|参数4|...|参数20}} <!-- self-referential examples! -->
+
+;来源
+:本模板为无需t/piece子模板的改进版本，最初开发于[http://templates.fandom.com Fandom模板Wiki]，可查看[http://templates.fandom.com/index.php?title=Template:T&action=history 作者列表]。本模板依据CC-By-SA 3.0协议复制至此。
+
+;示例
+:{{t|t|参数1|参数2}}
+
+<includeonly>[[Category:General wiki templates]]</includeonly>
+<noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-1</span>}}
+{{ArticleBackground|File=GAMMABack.png}}
+{{Stub}}
+{{InfoBox:Entity
+|entity_name=GAMMA-1
+|entity_image=Gamma-1.png
+|next_entity=[[GAMMA-2]]
+|appears_at=Only by admins
+|type=Shadow<br>Rusher<br>Locker Checker
+|behavior=same as [[SHA-1]], but faster.
+|speed=Very fast
+|damage=Instant Death
+|locker_snipe=Most likely yes
+|gun_effect=No gammas can be shot
+|claustrophobia=No (Delays)
+|related_monsters=[[SHA-1]]<br>[[LAPSE-1]]}}
+
+== Description ==
+'''GAMMA-1''' is the 2nd variant of [[SHA-1]], being admin-exclusive
+
+== Behavior ==
+Upon spawning, will highlight random lockers in green, however it will highlight most of the lockers across the entire section, likely to not leave a hiding spot for you, and will rush to the main room faster than [[SHA-1]], and will also check lockers faster than [[SHA-1]].
+
+== Strategy & Tips ==
+* Just hide in non-highlighted lockers or in safe spots.
+* And don't get tricked by it's green indicating highlight, do not hide in there, it's not an invite like [[M-60i]].
+
+== Trivia ==
+TBA.
+
+== Gallery ==
+<gallery>
+File:GAMMA Entities Jumpscare.jpg|Jumpscare
+</gallery>{{EntityNavBoxAdmin}}
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Admin Entities]]

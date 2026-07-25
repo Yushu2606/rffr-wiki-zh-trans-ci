@@ -1,0 +1,175 @@
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{NoteBox|note=Not to be confused with L-60i from '''Rooms Re-Established''' due to having similiar mechanics to '''D-60i'''}}
+{{Headphones}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #FCC300; color: #FCC300;">D-60i (Invader)</span>}}
+{{InfoBox:Entity
+|previous_entity=[[D-55i]]<br>[[D-60]]
+|next_entity=[[D-120]]<br>[[D-140]]
+|entity_name=[[File:D-60iTitle.gif|frameless|link=D-60i]]
+|entity_image=<gallery>
+Redesign_D-60i_Animation.gif|D-60i Phase 1 Animation Recreation
+D60iface1.png|Phase 1 1st Face
+D60iface2.png|Phase 1 2nd Face
+D60iface3.png|Phase 1 3rd Face
+D60iface4.png|Phase 1 4th Face
+D60iface5.png|Phase 1 5th Face
+D60iFace6.png|Phase 1 6th Face
+D60iface7.png|Phase 1 7th Face
+D60iface8.png|Phase 1 8th Face 
+D60iface9.png|Phase 1 9th Face 
+D60iface10.png|Phase 1 10th Face 
+D60iface11.png|Phase 1 11th Face 
+D60iface12.png|Phase 1 12th Face 
+D60iface13.png|Phase 1 13th Face
+D60iface1Phase2.png|Phase 2 1st Face
+D60iface2phase2.png|Phase 2 2nd Face
+D60iface3phase2.png|Phase 2 3rd Face
+D60iface4phase2.png|Phase 2 4th Face
+D60iface5phase2.png|Phase 2 5th Face
+D60iface6phase2.png|Phase 2 6th Face
+D60iface7phase2.png|Phase 2 7th Face
+D60iface8phase2.png|Phase 2 8th Face
+D60iface9Phase2.png|Phase 2 9th Face
+D60iface10phase2.png|Phase 2 10th Face
+D60iface11Phase2.png|Phase 2 11th Face
+D60iface12Phase2.png|Phase 2 12th Face
+D60iface13Phase2.png|Phase 2 13th Face
+</gallery>
+|caption-entity_image=Hi my names D-60i! Nice to meet ya! Now let me invade your run!
+|appears_at=Anywhere Past D-220
+D-750 (forced if the player goes from D-0)
+|nicknames=The Invader
+|behavior=Fallbacker<br>Rebounder<br>Boss
+|damage=Instant Death
+|locker_snipe=Yes
+|gun_effect=None
+|speed=800 studs/s (Rushing)
+30 studs/s to 800 studs/s (Fall-back Phase)
+|claustrophobia=No
+|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[M-60]]<br>[[A-85i]]<br>[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60]
+|badges=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion]<br>[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here] '''Unobtainable'''
+|sound1=<center>Countdown</center><center>[[File:D-60CountdownAccurate.mp3]]</center>
+|sound2=<center>Charging</center><center>[[File:D60iSpawning.mp3]]</center>
+|sound3=<center>D-60i Phase 1 Ambience </center><center>[[File:D-60iAmbi.mp3]]</center>
+|sound4=<center>Spawn Indicator</center><center>[[File:BossSpawn.mp3]]</center>
+|sound5=<center>Jumpscare</center><center>[[File:D-60Jumpscare.mp3]]</center>
+|sound6=<center>Rebound Warning</center><center>[[File:D-60iRebound.mp3]]</center>
+|sound7=<center>Phase 1 Despawning</center><center>[[File:D60igoingpha2.mp3]]</center>
+|sound8=<center>D-60i Phase 1 Despawn '''Recreation'''</center><center>[[File:D-60iPhase1Despawn.mp3]]</center>
+|sound9=<center>D-60i Phase 2 Start</center><center>[[File:PHASE2D60iSPAWN.mp3]]</center>
+|sound10=<center>D-60i Phase 2 Locker Break/Despawning</center><center>[[File:D-60iPhase2DoorBreak.mp3]]</center>
+|sound11=<center>D-60i Phase 2 Far Ambience</center><center>[[File:D-60iFarPh2Ambience.mp3]]</center>
+|sound12=<center>D-60i Phase 2 Far 2</center><center>[[File:D-60ifar2.mp3]]</center>
+|sound13=<center>D-60i Phase 2 Near</center><center>[[File:D-60iPh2Close.mp3]]</center>
+|sound14=<center>Phase 2 Face Collision</center><center>[[File:D-60iCollide.mp3]]</center>
+|sound15=<center>Trepidation V2 OST</center><center>[[File: TrepidationV2.mp3]]</center>
+|sound16=<center>Trepidation OST (Old Soundtrack)</center><center>[[File:TREPIDATION.mp3]]</center>}}
+
+== Description ==
+'''D-60i''' is an [[Entities|entity]] made of 2 different faces that constantly change appearances, it also takes the form of the numbers "3", "2", and "1" when it first spawns in.
+
+== Behavior ==
+When '''D-60i''' spawns in, a large countdown starting at 3 will appear in the middle of the room.
+
+When this countdown is complete, '''D-60i''' will charge up, getting ready for its attack.
+
+After 6 seconds of charging, '''D-60i''' will become lethal, and move to the latest room.
+
+Once '''D-60i''' has completed its movement to the latest room, it's rebounding-cycle will begin.
+
+'''D-60i''', in it's "Fall-back" phase, will get slightly faster per every room it passes, capping at a speed of 800 studs/s.
+
+'''D-60i''' will proceed to move backwards until it has reached 50 rooms behind the main room, at which point it will make a loud bang sound as it rushes to the main room, making heavy static as it approaches. Once '''D-60i''' touches the door, it will smash it down (regardless of if it's a Derelict Lab door or a Cave door).
+
+'''D-60i''' will then repeat this process after a short delay of 0.5 to 1.5 seconds, unless he is in the [[Red Rooms]], where he won't stall at all.
+
+Okay, so what makes '''D-60i''' difficult then? His '''Phase 2.'''
+
+After 60 rooms have passed since the countdown was seen, the '''D-60i''' OST (Trepidation) will begin to play. At which point everytime it smashes a door, there will be a 1 in 7 chance for '''D-60i''' to enter phase 2.
+
+
+When '''D-60i''' enters phase 2, it will move to the center of the room, before over-charging. It's still lethal while over-charging, so don't leave your hiding place. The music will fade out when he's moved to the center of the room.
+
+When 6 seconds have passed, '''D-60i''' will very swiftly dissapear, with an edited version of [[D-60]]'s old despawn sound playing shortly after.
+
+While '''D-60i''' is gone, it will delay it's phase 2 start until either:
+
+# 15 seconds have passed
+# the door has been opened by a player or an entity.
+
+After either of the requirements are met, '''D-60i''' will break the door of the main room down, and play [[D-140]]'s spawn sound while in the center of the next room. '''D-60i''' will wait there for ~5 seconds, before it makes a loud explosion and moves backwards at lightspeed (800 studs/s), breaking every locker/cabinet in the next room in the process.
+
+The second part of Trepidation will now play;
+
+From then on, '''D-60i''' will break completely random lockers in the room it breaks into every time it smashes a door.
+
+After '''D-60i''' has existed for 30 rooms, there will be a 1 in 15 that '''D-60i''' despawns.
+
+When '''D-60i''' despawns, it will make constant loud explosion sounds, and then make one, longer explosion with many large particle effects coming out of it.
+
+'''D-60i''' has dissapeared, and you will be awarded the [https://www.roblox.com/badges/3050908394432290/Invasion-Evasion|Invasion Invasion Evasion badge].
+
+== Strategy & Tips ==
+
+* Use entities like [[D-5]] and [[D-55]] as [[Claustrophobia]] deniers, as they can be very helpful in hard entity comboes.
+* Since '''D-60i''' can spawn entities, you should be careful of [[D-5]] surprise attacks after leaving your hiding place, a good way to check this is waiting inside of your hiding place until you see [[Claustrophobia]]'s message, or roughly ~10 seconds have passed.
+
+* [https://youtu.be/It4dFf4mmTQ?si=tRC6jRYLOlszR4BS Video Representation]
+
+== Trivia ==
+
+* <s>'''D-60i''' cannot locker-snipe, use this to your advantage to avoid unnecessary [[Claustrophobia]] damage!</s>
+* ↑ This is no longer true, as '''D-60i''' can locker-snipe you in Phase 2b. Dealing around 10% damage of your health. 
+* '''D-60i''' can only spawn once in your run.
+* '''D-60i''' can spawn entities when smashing doors.
+* '''D-60i's''' Phase 2 is has somewhat like wise similarites to [https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60] from Interminable Rooms Recoded
+* '''D-60i''' has a 1 in 1000 to spawn every door past D-220, so long as [[D-60]] isn't currently active.
+* '''D-60i''' is forced to spawn at door D-750 if player starts at door D-0, but '''D-60i''' won’t despawn until some point in [[Red Rooms]] is reached. (If he reaches [[Red Rooms]] but isnt in Phase 2 (b), he won't despawn until he actually goes phase 2 (b).
+* Old Trepidation OST (Old Bossfight theme)
+** https://youtu.be/xhUaF0Ya1tE?si=zf6Rf-AJh2xwbd_s
+* '''D-60i'''<nowiki/>'s (old) phase 1 music is a loop of his (old) OST from: 0:00 to 1:24 minutes (though after it plays the first time, it loops back to 0:12 seconds in).
+* '''D-60i'''<nowiki/>'s (old) phase 2(a) music is a loop of his (old) OST from: 1:28 to 2:48 minutes (though after it plays the first time, it loops back to 1:48 minutes in).
+* '''D-60i'''<nowiki/>'s (old) phase 2(b) (plays when his 1 in 15 to despawn per rebound starts) music is a loop of his (old) OST from: 2:36 to 3:24 minutes (though after it plays for the first time, it loops back to 3:00 minutes in).
+* Once '''D-60i''' is about to despawn, a subtitle appears, with the text "<span style="color: orange;>kaput</span>" for a split second.
+
+
+==Gallery==
+<gallery>
+D60i1.webp|Countdown 1
+D60i2.webp|Countdown 2
+D60i3.webp|Countdown 3
+OldD-60i1.png|Old Countdown 1
+OldD-60i2.png|Old Countdown 2
+OldD-60i3.png|Old Countdown 3
+D-60iPhase2Jumpscare.gif|Jumpscare
+Newest_D-60i_AnimV2.gif|Old Phase 1 Anim Recreation
+D60i.png|Old First Face
+D-62i.png|Old Second Face
+D-63i.png|Old Third Face
+D-64i.png|Old Fourth Face
+D-65i.png|Old Fifth Face
+D-66i.png|Old Sixth Face
+D-67i.png|Old Seventh Face
+BroisnotA-135.png|Old Eighth Face
+Invasion Evasion (Badge).png|Old Invasion Evasion Badge Icon
+File:D-60iJumpscare.gif|D-60i's Old jumpscare
+</gallery>
+
+==Badges==
+{{BadgeSectionD|Image=Invasion_EvasionNew.png|Name=Invasion Evasion|Description=Wonder what that was all about. Encounter and survive the rare entity D-60i|Obtainment=Survive and beat D-60i.}}
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], [[D-35]], or '''D-60''' during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+
+
+{{EntityNavBoxSectionD}}
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Boss]]
+[[Category:Ambusher]]
+[[Category:Multimonsters]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]
+[[Category:Invader]]

@@ -1,0 +1,2 @@
+{{#if: {{{Regular|}}}||<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #5f55e0, inset 0 0 15px #3ee65a; background:#5f55e0; margin-top: 20px; color:#FFF; border: 5px solid Black; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+[[File:RegularVariantNotice.png|left|120px|link=]]<div style="font-size:25px">'''{{PAGENAME}}''' is the a regular variant of [[{{{IEntity|}}}]].</div></center><br/><noinclude>}}

@@ -1,0 +1,36 @@
+{{Removed|reason=Perfection Event 3/13/26 was limited and has ended.}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{EventInfobox
+|image=ShadowScreen.jpg
+|next_event=[[April Fools 2026]]
+|previous_event=[[Perfection Event 2/13/26]]
+|timeline=3/13/2026 - 3/24/2026
+|rewards=None
+|entities=[[Overseer]]<br>[[LAPSE-2]]<br>[[LAPSE-60]]<br>[[LAPSE-200]]}}
+
+== Additions & Changes ==
+* [[Oblivion]] was replaced by the [[Overseer]] for this event, causing [[M-60]] and [[M-60i]] to have no marks on lockers (Reverted)
+* [[LAPSE-2]], [[LAPSE-60]], and [[LAPSE-200]] were added.
+* [[E-10]] and [[E-60]] were set free, being able to invade [[Section A]], [[Section D]], and [[Section M]] at a 1 in 5000 chance (Reverted)
+* all of the entities from the [[Alpha & Shadowpocalypse]] have an uncommon chance of invading your run (Reverted)
+<br><br><br><br><br><br><br><br>
+
+== New/Readded Entities ==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-2.png|center|150px|link=LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.gif|center|150px|link=E-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}}}
+
+== Gallery ==
+<gallery>
+PerfectionThumb.webp|Games Thumbnail
+</gallery>

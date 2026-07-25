@@ -1,0 +1,40 @@
+{{Headphones}}
+{{ArticleBackground|File=SEMD-Section.jpg}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|previous_entity=[[D-35ii]]
+|next_entity=[[Pipe Bomb]]
+|entity_name=DCAT-55
+|entity_image= DCAT-55.png 
+|caption-entity_image=Meow :car:
+|appears_at=Anywhere Past D-055 in [[Super Epic Mode]].
+|nicknames=DCAT-55
+|type=Rebounder<br>Locker Checker
+|behavior=Same as Old [[D-55]] but rebounds twice
+|damage=Instant  Death
+|speed=Fast
+|claustrophobia=Yes
+|sound2=<center>Near Sound</center><center>[[File:DCAT-55Near.mp3]]</center>
+|related_monsters=[[D-55]]<br>
+[[D-55i]]<br>}}
+== Description ==
+'''DCAT-55''' is the final '''CAT''' entity in The [[Super Epic Mode]], His appearance is an old "This is Cat D" meme but with green effect.
+
+== Behavior ==
+When '''DCAT-55''' spawns, it will make distorted cat sounds then it will rush to current room and check the heavy lockers/supply cabinets then retreat, then it will come back again and check lockers again, after that it will retreat again and despawn.
+
+==Strategy & Tips==
+When you hear Distorted Meowing Sounds, hide in a blue locker or in a previous room, as he will check the heavy lockers/supply cabinets in current room, he disables [[Claustrophobia]] so use for your advantage
+
+== Trivia ==
+TBA
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Loud Entities]]

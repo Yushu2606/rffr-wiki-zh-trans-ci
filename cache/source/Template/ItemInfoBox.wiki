@@ -1,0 +1,84 @@
+<includeonly>
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+    <header source="names">Names</header>
+    <data source="icon_name">
+      <label>Icon Name</label>
+    </data>
+    <data source="desc_name">
+      <label>Desc. Name</label>
+    </data>
+  <group>
+    <header source="don'tusethis">Base Statistics</header>
+    <data source="item_type">
+      <label>Item Type</label>
+    </data>
+    <data source="type">
+      <label>Type</label>
+    </data>
+  </group>
+  <group collapse="open">
+    <header source="don'tusethis2">Item Statistics</header>
+    <data source="lifetime">
+      <label>Lifetime</label>
+    </data>
+    <data source="batteries_needed">
+      <label>Batteries Needed</label>
+    </data>
+    <data source="health_given">
+      <label>Health Given</label>
+    </data>
+    <data source="sprint_given">
+      <label>Sprint Given</label>
+    </data>
+    <data source="damage">
+      <label>Damage</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Example usage:
+{{ItemInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | names=Example
+  | icon_name=Example
+  | desc_name=Example
+  | don&#039;tusethis=Example
+  | item_type=Example
+  | type=Example
+  | don&#039;tusethis2=Example
+  | lifetime=Example
+  | batteries_needed=Example
+  | health_given=Example
+  | sprint_given=Example
+  | damage=Example}}
+<pre>
+{{ItemInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | names=Example
+  | icon_name=Example
+  | desc_name=Example
+  | don&#039;tusethis=Example
+  | item_type=Example
+  | type=Example
+  | don&#039;tusethis2=Example
+  | lifetime=Example
+  | batteries_needed=Example
+  | health_given=Example
+  | sprint_given=Example
+  | damage=Example}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"names":{"suggested":true},"icon_name":{"suggested":true},"desc_name":{"suggested":true},"don'tusethis":{"suggested":true},"item_type":{"suggested":true},"type":{"suggested":true},"don'tusethis2":{"suggested":true},"lifetime":{"suggested":true},"batteries_needed":{"suggested":true},"health_given":{"suggested":true},"sprint_given":{"suggested":true},"damage":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

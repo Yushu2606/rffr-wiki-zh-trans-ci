@@ -1,0 +1,554 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">Oblivion</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{InfoBox:Entity
+|entity_name=Oblivion|link=<nowiki>Oblivion]]</nowiki>
+|entity_image=entity_image=<gallery>
+Oblivion.png|常规形态
+Humanoblivion.jpeg|实体形态
+</gallery>
+|nicknames=Oblivion、「指引之光」
+|appears_at=任何玩家死亡时出现。
+|type=无害（？）
+|behavior=告知玩家如何躲避击杀他们的实体。同时在[[M-60]]/[[M-60i]]生成时会标记X/✓提供帮助。
+|speed=???
+|damage=???
+|related_monsters=[[Overseer]]
+|sound1=<center>主题曲</center><center>[[File:OblivionMain.mp3]]</center>
+|sound2=<center>[[Unnamed Sector|无名区域]]入口</center><center>[[File:OblivionUnnamed.mp3]]</center>
+|sound3=<center>死亡界面主题曲</center><center>[[File:OblivionDeath.mp3]]</center>
+|sound4=<center>完美事件期间/禁用Oblivion设置期间</center><center>[[File:NumberNotInService.mp3]]</center>}}
+
+== 描述 ==
+Oblivion是极少数被动实体之一，也是唯一会通过交流为玩家提供帮助的实体。
+
+== 行为 ==
+<tabber>
+|-|常规形态=
+'''常规：'''<br>Oblivion是会在对话中告诉你如何躲避实体，有时还会提供额外相关信息的实体。在逃生过程中它也会对其他实体发出预警，例如[[M-60]]和[[M-60i]]。
+
+不过，'''Oblivion'''无法指导玩家如何躲避暗影实体，因为它并不完全清楚暗影实体的本质与运作机制。
+
+|-|实体形态=
+'''实体形态：'''<br>参见[[Player Controlled#Corporeal_Oblivion|玩家可控角色]]
+</tabber>
+
+
+== 背景设定 ==
+'''Oblivion'''曾居住在[[Unnamed Sector|无名区域]]，目前我们仅知晓这一信息。
+
+== 冷知识 ==
+* 当玩家躲藏的柜子被[[Player Controlled#Striketeam_Solstice|Striketeam Solstice成员]]、[[SHA-200]]或[[LAPSE-200]]突破时，'''Oblivion'''会将自身的部分力量借给玩家。
+* '''Oblivion'''取自Doors创意wiki，你可以[https://doors-ideas.fandom.com/wiki/Oblivion 在此]查看相关内容
+* 所有13号星期五都会触发完美事件，事件期间Oblivion会被[[Overseer]]替代
+* 官方设定中它能以创纪录的速度灌下三瓶橙味可乐。除此之外奇怪的是，还有人见过Oblivion以惊人的速度吃完一整罐豆子。
+* 完美事件期间，[[M-60]]和[[M-60i]]生成时'''Oblivion'''不会标记各种柜子，因为[[Overseer]]会在事件期间接替它的职责。
+* Oblivion的死亡界面主题曲是YouTube创作者Keosz的作品《All I Had To Do》，仅略微调低了音调。
+** https://youtu.be/f640b8FC-eg?si=WawtXyhBdN5qJaKF
+
+== 死亡提示 ==
+<tabber>
+|-|A区=
+<h2> [[A-20]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by A-20.（你被A-20击杀了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20 will announce their presence before rushing towards you from behind. （A-20会先发出存在提示，再从你身后快速冲来。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to any cues that may hint at its arrival.（请注意任何暗示它即将到来的提示。）'''</span>
+
+<h2> [[A-20i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to A-20i.（你死于A-20i。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20i is a stronger version of A-20 that may rarely replace it.（A-20i是A-20的更强变体，有极低概率取代A-20生成。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果灯光为红色，A-20i将始终取代它的孪生实体。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''留意任何可能预示它到来的线索。'''</span>
+
+<h2> [[A-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被A-60杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它是个十分棘手的对手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''仔细聆听它出现时的声响。 </span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''在它彻底消失前不要离开躲藏位置。'''</span>
+
+<h2> [[A-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被A-60i杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-60i有极低概率在A-60袭击结束后发动攻击。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果A-60消失后你突然看到静电噪点，请在A-60i追上你前立刻躲藏！'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它接近你时几乎不会给出任何预警，因此一看到静电噪点就要马上躲藏。'''</span>
+
+<h2> [[A-85]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-85抓住了你。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从前方出现。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它出现时，只要躲到远离它的位置即可。'''</span>
+
+<h2> [[A-85i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被A-85i杀死了，它也被称为“Banshee（女妖）”。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从前方出现。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会多次反弹。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-85i自认为在和你玩一场游戏。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你必须赢下这场游戏才能让它离开。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''取胜的方式是在它每次折返前，前进通过一定数量的门。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''但它可不乐意看到你在它的游戏里占据上风。</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''在你赢它足够多次后，它会被你激怒。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这段时间内它的移动速度会加快。</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''留意它独特的声响！'''</span>
+
+<h2> [[A-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被A-120杀死了，它被称为“The Glitched Scribble（乱码涂痕）”
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你听到下一扇门的方向传来鼓声与“叽喳”异响，请快速躲到远离它的位置。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''但不要太过急躁，它可能会反弹。'''</span>
+
+<h2> [[A-135]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被A-135杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你听到下一扇门的方向传来微弱的鼓声，就躲进蓝色柜子里。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''一定要确认躲的是蓝色柜子，它会检查其他柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Claustrophobia won't attack while A-135 is active.  Use this to your advantage!（幽闭恐惧在A-135活跃期间不会发动攻击，好好利用这一点！）</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...Before i go,（……在我离开之前，）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hiding underneath a table can also prove affective.（躲在桌子底下也能起到效果。）</span>
+
+<h2> [[A-135i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-135i, known as "The Reporter."（你被A-135i杀死了，它的称号是“报道者”。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It's a rare variant of A-135, and it shares some similarities to its normal counterpart. （它是A-135的稀有变种，与普通版本有一些相似之处。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If you hear a distorted laughter followed by a bang sound, A-135i is approaching. （如果你听到失真的笑声之后伴随一声巨响，就说明A-135i正在靠近。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-135i will check all non-blue lockers in the current room.（A-135i会检查当前房间内所有非蓝色的各种柜子。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Stay on high alert, as A-135i can rebound back once leaving.（请保持高度警惕，因为A-135i离开后可能会反弹回来。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''...Before i go,（……在我离开之前，）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hiding underneath a table can also prove affective.（躲在桌子底下也能起到效果。）</span>
+
+<h2> [[A-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-200 caught you.（你被A-200抓住了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will knock on the door ahead before approaching. （它在靠近之前会先敲响前方的门。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not leave hiding too early, or it will rebound.（不要过早离开躲藏处，否则它会反弹。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''When it disappears,  it will howl. Then, you are safe to leave.（它消失时会发出嚎叫，之后你就可以安全离开了。）'''</span>
+
+[[A-200|A-200的陷阱]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''You fell for A-200's trap.（你中了A-200的陷阱。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Make sure to avoid opening the door while A-200 is waiting behind it.（当A-200在门后等待时，务必避免打开这扇门。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Instead, hide in a locker and try not to rush through rooms.（你应该躲进柜子里，尽量不要仓促穿过房间。）'''</span>
+
+<h2> [[A-200i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by A-200i, Called "Insidæ Prime"（你被A-200i杀死了，它名为“Insidæ素数”。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is unpredictable,  nearly undetectable,  and exceptionally rare to encounter. （它行踪不定，几乎无法被探测到，是极其稀有的遭遇对象。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It may randomly attack after A-200 does.（它可能会在A-200发动攻击后随机发起袭击。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you may have learned from A-60i!（活用你从A-60i身上学到的经验！）'''</span>
+|-|D区=
+<h2> [[D-5]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were seen by D-5（你被D-5发现了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Its lone eye can see very far, and things we can't see.（它的独眼能看到极远的地方，还能看到我们看不见的事物。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''All it needs to kill you is a direct line of sight; how far away you are will not matter.（只要与它有直接视线接触它就能杀死你，你离得多远都没有用。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Its eye is vulnerable to damage. If you can, try shooting it out to prevent D-5 from harming you.（它的眼睛容易受损。如果可以的话，试着开枪打坏它，避免D-5伤害你。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Listen closely for the unique sound of its movement.  When you hear it, find a place out of its sight.（仔细聆听它移动时的独特声响，听到声音后就找一个它视线之外的地方躲起来。）</span>
+
+<h2> [[D-5i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to D-5i.（你死于D-5i。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它的众多眼睛能望到极远之处，能看见我们无法看见的事物。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它是D-5的强化版本。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果D-5i发现了你，它会像D-5一样对你造成伤害。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''但即便它离你很远，你也绝对不能躲藏。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''最后，别被它骗了——它会假装自己已经消失。'''</span>
+
+<h2> [[D-20]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-20……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从远处盯着玩家。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''别在它附近停留过久。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它拥有实体形态，所以如果你持有武器，就可以对它造成伤害并将其消灭。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦对了，下次别犯傻了。'''</span>
+
+<h2> [[D-35]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-35之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它是A-20的强化版本，用上你对付A-20时学到的经验就行！'''</span>
+
+<h2> [[D-35i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-35i之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它是D-35的强化版本，速度更快。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它可能会在D-35出现后发动袭击。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-35i和D-35十分相似，只不过它出现时不会有任何警示，所以一定要集中注意力！'''</span>
+
+<h2> [[D-55]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被D-55抓住了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会破坏最近几个房间里的所有深色柜子与补给柜。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''躲进蓝色柜子或白色储物柜里。'''</span>
+
+<h2> [[D-55i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被D-55i抓住了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它是D-55的强化版本，和D-55存在不少区别。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从正面袭来，靠近时会挡住门。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''随后D-55i会冲破下一扇门，摧毁最近5个房间内的所有深色柜子与补给柜，同时在身后留下一道火焰轨迹。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''和对付D-55时一样，躲进蓝色柜子或白色储物柜里，同时远离它留下的轨迹。'''</span>
+
+<h2> [[D-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被D-60杀死了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它和A-60类似，但速度更快，还会反弹。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''不要冲太急，也不要落在后面。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''当D-60抵达当前房间、完成整套反弹循环后，它就会安静下来。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''别被这假象骗了，一定要等D-60完全消失再行动。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''等你听到类似风声的音效，就说明它已经彻底消失了。 </span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''注意，D-60处于静默状态时，可能会再次开启反弹循环。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''下次一定要多加小心，确认D-60真的离开了再动。'''</span>
+
+<h2> [[D-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被D-60i杀死了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这部分内容比较长，请耐心坐好，认真留意。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-60i在很多方面和D-60很像，但威力要大得多。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这个实体已经被唤醒很长时间了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''有人说它曾经入侵过A区，它的绰号也由此而来。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''以下是你对抗它的方法……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它生成时，会在完全成形前显示一段短暂的倒计时。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-60i完全成形后，就会具备致命杀伤力。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它反弹时要躲好。小心，它速度极快，行动轨迹难以预测。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它破坏你前方的门时，可能会频繁生成其他实体。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''记住，当D-5等特定实体处于活跃状态时，幽闭恐惧不会发动攻击，你可以利用这一点。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''持续这样做，直到D-60i过载——它的音效音调升高就代表进入了过载状态。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它处于过载状态时仍然具备致命性，所以要等它完全消失后再离开躲藏点。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这看起来可能很复杂，事实也确实如此。不过别担心，D-60i极其罕见，很难遇到。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''下次遇到它的时候，尽量记住这些信息！'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦，还有一件事……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你成功存活了足够久，要做好快速反应的准备。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''在狂怒状态下，D-60i进入每个房间时都会随机破坏各种柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''应对这种情况不需要大幅改变你的策略；只要反应更快，确认好所有躲藏点的位置就行。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''下次你会做得更好的，我相信你。</span>
+
+<h2> [[D-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-120之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它从前方袭来。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它在很多方面都和A-85很像，所以用上你从对付它时学到的经验！'''</span>
+
+<h2> [[D-140]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-140之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它在折返前会从前方生成。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''之后它会检查主房间内所有的蓝色柜子和白色橱柜。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-140还会检查往回数的几个房间，所以请确保你躲藏的位置正确。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这个实体的机制和D-55非常相似，你在这里可以采用相同的应对策略。'''</span>
+
+<h2> [[D-175]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于D-175……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''D-175会躲在房间内的任意一个柜子里。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''躲在藏有D-175的柜子里会让你更难听清声响，同时会持续受到缓慢伤害。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''小心D-175从柜子底部散发出的雾气。'''</span>
+
+<h2> [[D-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于外号“摄魂怪”的D-200之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你大概也能察觉，它……不太一样。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''当你听到预示它到来的小号声，或是看到灯光变为白色时，立刻躲藏。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''不过请牢记：你*必须*躲在柜子或是类似的掩体里才能躲开它。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''试图躲在它视线之外的点位是没用的。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''待在安全点位可以帮你避免触发幽闭恐惧，但尽量选择离柜子较近的位置。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''关于它有一点特殊之处：预示它到来的小号声有着奇特的性质。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这种声音本应使人昏昏欲睡，让D-200更容易得手击杀……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''但不知出于什么原因，你似乎对这种效果免疫。'''</span>
+
+<h2> [[D-250]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于外号“骚乱”的D-250之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从地板下方出现，一直等到门被打开。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''门被打开后，D-250会从地板下升起，进入房间。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''进入房间后，它会召唤可造成伤害的法球，就算你躲在掩体里也会被击中！'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''数秒过后，它会猛撞上门然后消失。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''应对D-250时务必确认自己所处的位置，活用你从其他实体身上学到的经验！'''</span>
+
+|-|M区=
+<h2> [[M-22]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22抓住了你。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会发出辨识度很高的声音提示。竖起耳朵仔细听，听觉是你对抗M-22的最佳武器。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从你身后朝门冲来，注意留意它抵达的时机。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22会反弹一次，因此切勿过早离开。'''</span>
+
+<h2> [[M-22i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于M-22i之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在普通M-22反弹返回后生成。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会悄无声息地向前冲刺，破坏一扇门，猛撞到下一扇门后才会反弹。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-22i撞到下一扇门时，还可能顺带引来其他实体。'''</span>
+
+<h2> [[M-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被M-60杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在最近打开的房间里随机检查一个柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''每当M-60发动攻击时，我会标记出它打算检查的柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''不要躲在我标记的柜子里。'''</span>
+
+[[M-60|M-60查柜击杀]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于M-60——「仲裁者」之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''*叹气* 赶紧把这茬翻篇吧，谢了。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''我记得上次就确认过，巨大的红色叉号代表「禁止进入」。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这概念很简单，对吧……？'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''每当M-60发动攻击时，我会标记出它打算检查的柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''不要躲在我标记的柜子里，让我的光为你指路。'''</span>
+
+<h2> [[M-60i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于M-60i之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在最近打开的数个房间里随机检查各种柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''每当M-60i发动攻击时，我会标记出它不打算检查的各种柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''不要躲在我未做标记的各种柜子里。'''</span>
+
+<h2> [[M-70]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于M-70——「广播员」之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-70生成时会关闭所有门，还会主动点亮附近的所有标识。当它这么做时，立刻躲藏！'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-70 will return for those who leave their hiding spot before it leaves. Wait untill the doors reopen.（若在M-70离开前就离开藏身点，它会折返回来，请等待门重新打开。）'''</span>
+
+<h2> [[M-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by M-120...（你被M-120杀死了……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will spawn at the front, and then backtrack after sabotaging the sign（它会在前方生成，破坏标识牌后折返。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will then play another drumming sound, and then mimic a random entity from the A-Section or D-Section.（随后它会再次播放击鼓音效，模仿A区或D区的随机实体。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Pay attention to sound and visual cues to determine the entity M-120 is mimicking（请注意音效与视觉线索，判断M-120正在模仿的实体。）'''</span>
+
+<h2> [[M-120i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA（待公布）'''</span>
+
+<h2> [[M-134]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to M-134.（你死于M-134之手。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It hides in lockers.（它藏在各种柜子里。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-134 makes a distinct crackling sound when it is in a locker. Listen closely to determine where it is.（M-134待在柜子里时会发出独特的噼啪声，请仔细聆听判断它的位置。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Do not rush in or out of its locker too quickly.（不要太快冲进或冲出它所在的柜子。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If it catches you, hide in a different locker.  The fire will go out more quickly.（如果它抓到你，请躲进另一个柜子，火焰会更快熄灭。）'''</span>
+
+<h2> [[M-150]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It seems you've died to M-150...（看来你死于M-150之手……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It spawns either a white or blue light along with sabotaging the sign.（它生成时会出现白光或蓝光，同时破坏标识牌。）</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will then appear and begin checking lockers with the same color as itself.（随后它会出现，开始检查与自身颜色相同的柜子。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Hide in lockers opposite to the color of M-150.（请躲进与M-150颜色相反的柜子里。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''M-150 will only check the latest 2 rooms before despawning.（M-150消失前只会检查最近的2个房间。）'''</span>
+
+<h2> [[M-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It seems you died to M-200...（看来你死于M-200之手……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one is a lot like D-140, so employ a similar strategy with this one.（这个实体和D-140非常相似，请采用相近的策略应对。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will appear from the front.（它会从前方出现。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It breaks all blue lockers.（它会破坏所有蓝色柜子。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use other hiding spots to remain safe.（请使用其他藏身点保证安全。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If there are only blue lockers, God help you.（如果周围只有蓝色柜子，那愿上帝保佑你。）'''</span>
+
+<h2> [[M-340]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA（待公布）'''</span>
+
+|-|无名区域=
+<h2> [[Mori]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''That should make this easy to explain.（这样就好解释了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by Mori.（你被Mori抓住了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will flicker the lights upon spawning, but it might not at times.（它生成时会让灯光闪烁，但有时也可能不闪。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Some have said it also has many other tricks up its sleeve...（有人说它还藏着不少其他花招……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from the other entities you have encountered thus far.（运用你到目前为止从遭遇过的其他实体身上学到的经验。）'''</span>
+
+[[Mori|入侵提示]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh, the purple one...（哦，是那个紫色的家伙……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Kev asked me not to help with this entity.（Kev 嘱咐我不要在应对这个实体时给你提供帮助。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry.（抱歉。）'''</span>
+
+<h2> [[Mortis]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''This one's a bit different than what you thought it was.（这个实体和你预想的不太一样。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were caught by Mortis, otherwise known as Mori-Alt.（你被 Mortis 抓住了，它也被称为 Mori-Alt。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Mortis is a variant of Mori that's mainly found if the lights are off or red, but it can rarely be found even if they aren't（Mortis 是 Mori 的一个变种，主要在灯光熄灭或呈红色时出现，但极少数情况下即使灯光正常也可能生成。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will flicker the lights upon spawning before rushing up to the door and despawning.（它生成时会先让灯光闪烁，随后冲向门并消失。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Mortis, like Mori, can sometimes use other tricks, so be careful.（和 Mori 一样，Mortis 有时也会耍其他花招，务必小心。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Use what you learned from Mori, as it has a lot of similarities.（运用你从 Mori 身上学到的经验，二者有很多相似之处。）'''</span>
+
+<h2> [[False Witness]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh boy... this one's a bit troublesome...（哎呀……这个有点麻烦……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''The False Witness killed you.（你被 False Witness 杀死了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will rush through the rooms similar to Mori.（它会像 Mori 一样冲过各个房间。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''However, do not be fooled. It will do this more than once before truly disappearing.（但千万别上当，它会反复冲刺多次才会真正消失。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It is completely silent when rushing after its first time.（第一次冲刺过后，它后续的冲刺会完全没有声音。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''After attacking silently 1 to 3 times, it will fully disappear.（在进行1到3次无声攻击后，它才会彻底消失。）'''</span>
+
+[[False Witness|入侵提示]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''Wait a second, I know that guy.（等等，我认识这家伙。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Yeah, Kev asked me not to help you with this one.（对，Kev 嘱咐我不要在应对这个实体时帮你。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Gonna need to leave you in the dark on this one.（这一次我没法给你提供任何提示，你得靠自己应对。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Sorry about that, {User}.（对此我很抱歉，{User}。）'''</span>
+
+<h2> [[False Prophet]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Oh... this one's a bit more troublesome than what you remember...（哦……这个比你记忆里的还要麻烦一点……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You died to The False Prophet, otherwise known as False Witness-Alt.（你死于 False Prophet 之手，它也被称为 False Witness-Alt。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will act similarly to False Witness, but with a slight difference.（它的行为模式和 False Witness 类似，但有一点细微的差别。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Once fake despawning, False Prophet will begin gaining more speed every time it comes back.（在假消失之后，False Prophet 每一次返回时速度都会变得更快。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''It will return a similar amount of times as False Witness, if not, more.（它返回的次数和 False Witness 相近，甚至可能更多。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''There will be no indication on when False Prophet will come back, so be careful.（False Prophet 返回时不会有任何征兆，务必小心。）'''</span>
+
+<h2> [[Tackle]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦，是这个啊。这应该没什么难的……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被 Tackle 杀死了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它只是个简单的反弹者。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''活用你从 A-120、D-60 等之前遇到的实体身上学到的经验即可。'''</span>
+
+[[Tackle|入侵提示]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦，那个蓝色的反弹者……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''嗯，Kev 要求我这次不能帮你。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''现在我不能给你提供任何提示。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''很抱歉，{User}。'''</span>
+
+<h2> [[Lunge]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦，这个实体的机制要稍微复杂一点，但应该也不会太难……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被 Lunge 杀死了，它也叫 Tackle-Alt。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''和 Tackle 类似，Lunge 会不断来回反弹。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''唯一的区别是 Lunge 反弹的次数更多，而且每次改变方向时速度都会发生变化。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''活用你应对 Tackle 时学到的技巧就好，Lunge 和它没有太大区别。'''</span>
+
+<h2> [[Execution]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这个比之前的几个要难应付一些……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被 Execution 杀死了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会生成在本区各处放置的其中一个显示器里。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它从显示器里挣脱出来后，会检查所有非蓝色的柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''一定要躲进蓝色柜子里，或是待在之前经过的房间中。'''</span>
+
+<h2> [[False-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……A-60？'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这看起来不像 A-60 啊……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''我不知道这是什么东西。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''再试一次吧。'''</span>
+
+<h2> [[False-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……A-120？'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这不是 A-120……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''我不知道这是什么东西。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''要再试一次吗？'''</span>
+
+<h2> [[False-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……A-200？'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这看起来不像 A-200 啊……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''我不知道这是什么东西。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''很抱歉，{User}。'''</span>
+
+|-|E区=
+<h2> [[E-10]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于E-10，它的称号是“耐心”。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这是个相当棘手的实体。</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在前方生成并往回冲刺，但它的能力不止于此。'''</span>'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''之后它会等待有门被打开，再冲回当前房间；实体破坏门的情况也会触发这个效果。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''开启额外的门会让E-10加速，你可以利用这一点。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''从这里开始，实体的强度会更高，请更加留意它们的动向。'''</span>
+
+<h2> [[E-10i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于E-10i，它的称号是“美德”。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它的行为模式和E-10相近，但存在一些区别。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-10i撞到门后有时会传送回你身后，等待下一扇门被打开'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''在真正消失前，它总共会传送回1-4次。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''留意E-10i是传送回来了还是已经消失，它很容易趁你不备发起袭击'''</span>
+
+<h2> [[E-30]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被E-30杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这是个相当棘手的实体，如果你不够留心就很难察觉到它。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会从你身后朝门冲来，同时发出微弱的隆隆声。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它的机制和D-35i相近，下次你可以试着找出应对它的方法。'''</span>
+
+<h2> [[E-30i]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-30i抓住了你。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在E-30经过后发起袭击。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会和E-30一样朝门冲去，但它的声响要小得多。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-30撞上门后请保持警惕，因为E-30i很难被察觉。'''</span>
+
+<h2> [[E-45]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于E-45，它的称号是“畸变”。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会伪装成柜子，但和普通柜子存在一些区别。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''任何试图躲进它伪装的柜子里的玩家都会被E-45袭击。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''仔细观察周围的各种柜子，E-45伪装的柜子颜色和普通柜子不一样！'''</span>
+
+<h2> [[E-60]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你被E-60杀死了……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你不仔细听就很难察觉到它。</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会出现在你身后，朝着门直冲过来。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''但这还不算完。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会在下一扇门后埋伏，试图趁你不备抓住你。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''之后它会破门，反向往回冲。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''到这时候，它才会离开。 '''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它的机制和E-10、E-30相似！'''</span>
+
+<h2> [[E-90]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''看来你死于……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……E-90？怎么会？'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''算了，我也懒得问……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''毕竟你现在应该知道这家伙的机制了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-90，又名“Espionage（间谍）”，会以幻影的形式出现在你身旁的某处。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''此外，它出现时会发出微弱的低沉嗡鸣。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它不喜欢被盯着看，所以尽量缩短直视它的时间。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''一段时间过后，它最终会放弃并离开。'''</span>
+
+<h2> [[E-120]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''你死于E-120。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这个实体挺棘手的。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-120会出现在门的前方，你能看到它微弱的光芒和飘散的烟缕。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''数秒后它会破坏门的铰链，将门推开。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''破门后，E-120会在房间内游荡，朝所有它听到动静的目标移动。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你躲在E-120附近，它还会检查各种柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你藏身的柜子被搜查了，就换个地方躲藏。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦对了，还有几点要注意……'''</span>
+
+<h2> [[E-165]] </h2>
+目前暂无相关内容
+
+<h2> [[E-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……你死于E-200。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它和其他实体不太一样。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-200会让整片房间区域笼罩在暗红色浓雾中，以此预示它即将到来。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''片刻后，它会开始向当前房间移动，沿途会破坏标识牌。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-200第一次撞击门时无法将门破坏，它会向后退数个房间，之后再返回再次撞门。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会不断重复这个循环，直到彻底破门为止，只有在那之后它才会原路返回并永久离开。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''每当E-200即将冲回时，会出现明显的音频提示，听到后请立刻躲藏。'''</span>
+
+<h2> [[E-245]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''……你死于E-245之手。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''这东西是所有实体里最难以预测的，它还挺享受这点的。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''E-245会从房间后方生成，随后朝着最新的门冲去，行为模式和其他许多实体类似。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''在撞到门、移动到房间中央后，它会张开嘴，眼部开始循环显示几种不同的符号。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''每种符号对应一种专属机制，这让你第一次见到它时很难判断它会采取什么行动。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''注意观察E-245眼部显示的符号，以此来判断它的行动！'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它在滚动切换机制的过程中无法击杀玩家，好好利用这一点！'''</span>
+
+<h3> Dodge（闪避） </h3>
+待补充
+
+<h3> Burning（灼烧） </h3>
+待补充
+
+|-|杂项=
+<h2> [[Void|虚空]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''待补充'''</span>
+
+[[Void|Void-90]]
+*<span style="text shadow: 0 0 5px red; color: red;">'''待补充'''</span>
+
+<h2> [[X-1200 Entities|X-1200 实体]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''待补充'''</span>
+
+|-|其他=
+<h2> [https://official-rooms-found-footage-renovated.fandom.com/wiki/Entities#Shadow_Entities 暗影实体] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''好吧，这次又是什么——……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''呃……好吧，行吧。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''是的，呃……抱歉，我现在真的帮不了你，或许以后可以。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''眼下只能先把你蒙在鼓里了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''规则不是我定的。非常抱歉，{User}。'''</span>
+
+<h2> [[A-20ii]] </h2>
+
+*<span style="text shadow: 0 0 5px red; color: red;">'''好吧，我现在已经搞不懂状况了，看样子A-20ii现在已经实装了。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''当你启用了“II Hate This（我也恨这个）”修饰符时，A-20i有时可能会吃下过多辣椒。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''它会根据每个房间内蓝色柜子的数量，在所有房间中随机检查一个蓝色柜子。'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''如果你运气够差，正躲在被检查的蓝色柜子里，这些辣椒可能会直接炸在你脸上。所以……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''留意任何低沉的风声，很多笑魇类实体都有这个特征……'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''哦等等，你是不是已经……算了当我没说……'''</span>
+
+<h2> [[A-20ii|旧版A-20ii]] </h2>
+
+```
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by.. a yellow A-20? Great, this will be fun to explain.（你被……一个黄色的A-20杀死了？太好了，这解释起来肯定很有意思。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''A-20ii is an ultimate being of the all-knowing, it also may replace A-20i.（A-20ii是全知的终极存在，它也可能替换A-20i。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''If pigs can fly, then A-20ii will always replace A-20i.（要是猪都能飞，那A-20ii就会永远替换A-20i。）'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''It can check one locker in the locker in the current room, so be sure to choose wisely.（它会检查当前房间内柜子中的一个柜子，所以请务必谨慎选择。）'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Otherwise you will be killed by a big yellow smiler. It's very scary. Even I'm scared of it.（否则你会被一个巨大的黄色smiler（微笑者）杀死。它非常吓人，连我都怕它。）'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Pay attention to any cues that may hint its arrival.（留意任何可能预示它到来的线索。）'''</span>
+*<span style="text shadow: 0 0 5px red; color:red;">'''Oh wait, have you seen any birds around here? There might be one...（哦对了，你在这附近见过鸟吗？说不定就有一只……）'''</span>
+
+<h2> '''其他玩家''' </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''You were killed by {User}.（你被{User}杀死了。）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Not everyone can be trusted.  Be careful!（不是所有人都值得信任，一定要小心！）'''</span>
+
+<h2> '''Striketeam Solstice（至日突击队）''' </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''TBA（待公布）'''</span>
+
+<h2> [[GOD-200]] </h2>
+*<span style="text shadow: 0 0 5px red; color: red;">'''Uhhh...（呃……）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''since when was this a thing?（这东西是什么时候出现的？）'''</span>
+*<span style="text shadow: 0 0 5px red; color: red;">'''well, either way, god200 is our savior（好吧，不管怎么说，god200是我们的救星）'''</span>
+
+</tabber>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Harmless]]

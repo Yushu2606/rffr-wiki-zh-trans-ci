@@ -1,0 +1,6 @@
+;描述
+:此模板用于标记持有其他图像模板未覆盖的自由许可证的图像。
+;语法
+:在图像信息页面输入<code>{{t|Other free}}</code>。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px darkgreen; color: green;">'''UI-30'''</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-30Placeholder.png|frameless|link=UI-30]]
+|entity_image=UI-30.png
+|previous_entity=[[UI-20]]
+|next_entity=[[UI-60]]
+|appears_at=I-030+
+|type=Rebounder
+|damage=Instant Death.
+|related_monsters=[[M-22]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI30ambi.wav]]</center>}}
+
+== Description ==
+'''UI-30''' is the 3rd entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+Like many other I-Section entities, it will play the "Horror Race" theme song upon being spawned. '''UI-30''' will spawn behind the player and rush to the current room at a moderately fast pace. It will play UI-20's sound but with a lower pitch. Once '''UI-30''' reaches the current room, it will then rebound back to its spawning room. Once '''UI-30''' reaches the room he spawned in when he rebounded, he will then disappear.
+
+== Strategy & Tips ==
+* As soon as you see or hear '''UI-30''', hide as it will approach you quickly, faster than UI-20.
+** '''UI-30''' can catch you off guard when exiting a hiding spot, as it is decently fast, which can get you killed if you aren't paying too close attention.
+
+* If you're unsure whether '''UI-30''' has spawned or not, wait for the entity to pass by or wait for its ambient theme to stop.
+
+* '''UI-30''' will rebound once. Once it passes, it will not appear again.
+** In rare cases, '''UI-30''' may appear twice, giving the impression that it rebounded again. Be careful of this when you're further in the I-Section.
+
+== Trivia ==
+* Like all the other I-Section entities, '''UI-30''' was added as an April Fools joke.
+* '''UI-30''' can look like A-60 due to the similarities of A-60's faces with '''UI-30'''.
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rebounder]]
+[[Category:Section UI]]
+[[Category:Rusher]]

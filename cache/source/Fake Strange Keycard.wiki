@@ -1,0 +1,24 @@
+{{Modifier Exclusive|[[April Fools 2026]]}}
+{{InfoBox:Entity
+|entity_name=Fake Strange Keycard
+|entity_image=<gallery>
+EvilCard.jpg|Ingame
+EvilCardJump.jpg|Jumpscare
+</gallery>
+|type=Stationary
+|damage=Instant Death.
+|appears_at=Anywhere in [[April Fools 2026]] mode}}
+
+==Description==
+The Fake Strange Keycard is an item that can be found Anywhere during April Fools 2026
+
+==Behavior==
+It will place itself Anywhere in the room, being disguised as the Keycard Needed to enter [[Section E]], if the player tries to pick the Fake Strange Keycard up, they will be met with a jumpscare before being killed
+
+==Strategies & Tips==
+Avoid clicking to pick up items without looking to see if its not the keycard. And if you see it, just don't pick it up.
+
+==Gallery==
+<gallery>
+Strange design.webp|Jumpscare origin
+</gallery>

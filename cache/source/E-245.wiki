@@ -1,0 +1,156 @@
+{{ArticleBackground|File=EBackground.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px White; color: Black;">E-245 (Trickster)</span>}}
+{{InfoBox:Entity
+|entity_name=E-245
+|entity_image=E245Idle.png
+|previous_entity=[[E-165]]<br>[[E-200]]
+|next_entity=[[Mouth|E-300]]
+|claustrophobia=No
+|nicknames=Trickster
+|appears_at=E-245+
+|type=Rusher<br>
+Fallbacker<br>
+Passive (When choosing/After choosing the mechanic)
+|behavior=Will rush to the main room before picking a random mechanic
+|speed=Fast
+|damage=Extremely high DPS (Moderate DPS snipe)
+|locker_snipe=Yes
+|gun_effect=None
+|related_monsters=[[M-120]]
+|sound1=<center>Ambience</center><center>[[File:E245Ambi.mp3]]</center>
+|sound2=<center>Choosing mechanic</center><center>[[File:E245Choosing.mp3]]</center>}}
+
+
+<h2> Description </h2>
+'''E-245''' Will be the one of the entities you may encounter in [[Section E]], Possibly being the most complicated within the section. More info shown below.
+
+<h2> Mechanic </h2>
+Once spawned, it will rush to the main room at fast speeds, reaching the main room after around 5 seconds from when you first are able to hear it, once it reaches the main room it will stay idle for around 2 seconds before opening its mouth, becoming non-lethal and begin choosing a mechanic, it being shown in the center of its eye, which is located in the center of its mouth.
+
+these mechanics are shown below under '''Chosen Mechanics'''.
+<br><br><br><br><br><br>
+
+<h2> Chosen Mechanics </h2>
+<tabber>
+|-|Burning=
+'''Burning:'''
+{{InfoBox:Entity
+|entity_name=Burning
+|entity_image=E245Mechanic1.png
+|type=Rusher<br>Fallback
+|behavior=rushes to the main room, hitting the door then falling back, leaving a trail of fire behind.
+|speed=Moderate
+|damage=Instant Death (DPS Snipe (Instant Death Snipe in [[Red Rooms]]))
+|locker_snipe=Yes
+|related_monsters=[[M-22]]<br>[[D-55i]]<br>[[D-55ii]]
+|claustrophobia=No
+|sound1=<center>Rush Sound</center><center>[[File:E245BurnSpawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:E245BurnFar.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:E245BurnClose.mp3]]</center>
+}}
+
+<h2> Behavior </h2>
+Once this mechanic is chosen, '''E-245''' will backtrack at moderate speeds, then after some time will rush to the main room again, hitting the door, then falling back once more, Leaving a trail of fire behind that damages you if in contact.
+
+Simply hide, and avoid stepping on the fire.
+
+|-|Dodge=
+'''Dodge:'''
+{{InfoBox:Entity
+|entity_name=Dodge
+|entity_image=E245Mechanic2.png
+|type=Rusher<br>Fallback
+|behavior=rushes to the main room while destroying every locker, hitting the door then falling back, killing everyone who didn't Roll through it
+|speed=Fast
+|damage=Instant Death
+|locker_snipe=
+|related_monsters=[[M-22]]
+|claustrophobia=No
+|sound1=<center>Rush Sound</center><center>[[File:E245DodgeSpawn.mp3]]</center>
+|sound2=<center>Far Ambience</center><center>[[File:E245DodgeFar.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:E245DodgeClose.mp3]]</center>
+}}
+
+<h2> Behavior </h2>
+Once this mechanic is chosen, '''E-245''' will fall back at moderate speeds, then after a few seconds it will begin rushing back to the main room at fast speeds, destroying every single hiding spot, hitting the door, then falling back, despawning past voidwall.
+
+To survive, the player has to dodge roll through it, or hide in a safe spot.
+
+|-|Chain=
+'''Chain:'''
+{{InfoBox:Entity
+|entity_name=Chain
+|entity_image=E245Mechanic3.png
+|type=Fallback
+|behavior=Chains the player, slowing them down before falling back.
+|speed=Fast
+|damage=??? (DPS Snipe)
+|locker_snipe=Yes
+|related_monsters=[[E-60]]
+|claustrophobia=No
+|sound1=<center>Chaining</center><center>[[File:E245ChainSpawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:E245ChainAmbi.mp3]]</center>
+}}
+
+<h2> Behavior </h2>
+{{#tag:tabber
+|Upcoming=
+'''Upcoming:'''
+TBA
+
+{{!}}-{{!}}
+Current=
+'''Current:'''
+Once this mechanic is chosen, '''E-245''' will go through the door, a few seconds after chaining the player with a chain, slowing them down, after a few seconds it will fill the player's screen with static and fall back like [[E-60]] does, it will despawn past voidwall.
+}}
+
+|-|Sneak=
+'''Sneak:'''
+{{InfoBox:Entity
+|entity_name=Sneak
+|entity_image=E245Mechanic4.png
+|type=Rusher<br>Fallback
+|behavior=rushes to the main room, hitting the door then falling back, killing players who aren't hiding or crouched.
+|speed=Moderate
+|damage=Instant Death
+|locker_snipe=No
+|related_monsters=[[M-22]]
+|claustrophobia=No
+|sound1=<center>Far Ambience</center><center>[[File:E245CrouchFar.mp3]]</center>
+|sound2=<center>Close Ambience</center><center>[[File:E245CrouchClose.mp3]]</center>
+}}
+
+<h2> Behavior </h2>
+Once this mechanic is chosen, '''E-245''' will backtrack at moderate speeds, then after some time will rush to the main room again slowly, filling the player's screen with static when nearby to warn players, hitting the door, then falling back once more.
+
+To survive, you'll have to either hide or stay crouched.
+</tabber>
+
+
+<h2> Strategies </h2>
+* '''E-245''' is extremely dangerous, especially with other entities active, so it is advised you wait for him to despawn before progressing.
+** this can be deadly if not followed, as if it chooses '''Dodge''', you won't have anywhere to hide unless you find a safe spot.
+
+* '''E-245'''<nowiki/>'s ''Burning'' mechanic has an insta-kill snipe in [[Red Rooms]], so prefer hiding quickly after '''E-245''' chooses that mechanic.<h2> Trivia </h2>
+* '''E-245''' used to be able to do its '''Dodge''' mechanic inside of [[Red Rooms]].
+** This was changed due to it creating unfair combos, as [[E-30]] and [[E-60]] could still spawn during the encounter.
+** E-245 was going to be D-250's old orb design/concept design for its main design, but this was changed.
+
+== Bugs ==
+· In some cases, E-245 might do a different mechanic than the one chosen (for example, it chooses the chain mechanic but it later does the dodge roll mechanic)
+
+== Gallery ==
+<gallery>
+File:E245Opening.gif|'''E-245''''s Mouth opening designs.
+File:E245Gambling.gif|'''E-245'''' Mechanic designs.
+File:Orb.png|E-245's concept design
+</gallery>
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Rusher]]
+[[Category:Fallbacker]]
+[[Category:Stationary]]
+[[Category:Entity Type Mix]]

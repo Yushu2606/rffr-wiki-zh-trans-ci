@@ -1,0 +1,52 @@
+== 说明 ==
+要使用此模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom的信息框语法]]。
+
+== 语法 ==
+<pre>{{Game
+ | title         = 游戏名称，显示在信息框顶部
+ | image         = [例如 "Example.jpg"]
+ | developer     = 
+ | publisher     = 
+ | engine        = 游戏运行所用的引擎
+ | version       = 游戏最新发布的版本。如果你的wiki有更新日志，可以链接到对应页面。
+ | platform      = 游戏支持的平台
+ | releasedate   = 游戏发布日期
+ | genre         = 游戏所属的类型
+ | mode          = 单人、多人等
+ | rating        = ESRB / PEGI 等分级
+ | media         = 游戏的发行媒介（数字版、卡带、CD等）
+ | requirements  = 系统需求
+}}</pre>
+
+== 示例输出 ==
+{{Game
+ | title         = 《花之游戏》
+ | image         = Example.jpg
+ | developer     = 
+ | publisher     = 
+ | engine        = 
+ | version       = 
+ | platform      = PC
+ | releasedate   = 即将推出
+ | genre         = RPG
+ | mode          = 单人
+ | rating        = 
+ | media         = 
+ | requirements  = 高端硬件
+}}
+<pre>{{Game
+ | title         = 《花之游戏》
+ | image         = Example.jpg
+ | developer     = 
+ | publisher     = 
+ | engine        = 
+ | version       = 
+ | platform      = PC
+ | releasedate   = 即将推出
+ | genre         = RPG
+ | mode          = 单人
+ | rating        = 
+ | media         = 
+ | requirements  = 高端硬件
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

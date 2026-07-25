@@ -1,0 +1,157 @@
+{{ArticleBackground|File=EBackground.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px White; color: Black;">E-245 (骗术师)</span>}}
+{{InfoBox:Entity
+|entity_name=E-245
+|entity_image=E245Idle.png
+|previous_entity=[[E-165]]<br>[[E-200]]
+|next_entity=[[Mouth|E-300]]
+|claustrophobia=否
+|nicknames=骗术师
+|appears_at=E-245+
+|type=冲刺者<br>
+后退者<br>
+被动（选择机制时/选择机制后）
+|behavior=会先冲向主房间，随后随机选择一种机制
+|speed=快
+|damage=极高每秒伤害（命中时为中等每秒伤害）
+|locker_snipe=是
+|gun_effect=无效
+|related_monsters=[[M-120]]
+|sound1=<center>环境音</center><center>[[File:E245Ambi.mp3]]</center>
+|sound2=<center>选择机制中</center><center>[[File:E245Choosing.mp3]]</center>}}
+
+
+<h2>描述</h2>
+'''E-245''' 是你在[[Section E|E区]]中可能遇到的实体之一，可能是该区域内机制最复杂的实体。更多信息见下文。
+
+<h2>机制</h2>
+生成后，它会快速冲向主房间，从你首次听到它的声音算起，大约5秒就能抵达主房间。到达后它会原地静止约2秒，随后张开嘴，此时不再具有杀伤力，并开始选择一种机制，机制图标会显示在它位于嘴中央的眼睛的中心位置。
+
+这些机制会在下文的'''选中机制'''部分列出。
+<br><br><br><br><br><br>
+
+<h2>选中机制</h2>
+<tabber>
+|-|灼烧=
+'''灼烧：'''
+{{InfoBox:Entity
+|entity_name=灼烧
+|entity_image=E245Mechanic1.png
+|type=冲刺者<br>后退者
+|behavior=冲向主房间，撞上门后后退，沿途留下火焰轨迹。
+|speed=中等
+|damage=秒杀（命中时造成每秒伤害；在[[Red Rooms|红区]]中命中会直接秒杀）
+|locker_snipe=是
+|related_monsters=[[M-22]]<br>[[D-55i]]<br>[[D-55ii]]
+|claustrophobia=否
+|sound1=<center>冲刺音效</center><center>[[File:E245BurnSpawn.mp3]]</center>
+|sound2=<center>远处环境音</center><center>[[File:E245BurnFar.mp3]]</center>
+|sound3=<center>近处环境音</center><center>[[File:E245BurnClose.mp3]]</center>
+}}
+
+<h2>行为</h2>
+选中该机制后，'''E-245''' 会以中等速度折返，一段时间后会再次冲向主房间，撞上门后再一次后退，沿途会留下火焰轨迹，接触到火焰就会受到伤害。
+
+你只需躲好，避免踩到火焰即可。
+
+|-|闪避=
+'''闪避：'''
+{{InfoBox:Entity
+|entity_name=闪避
+|entity_image=E245Mechanic2.png
+|type=冲刺者<br>后退者
+|behavior=冲向主房间，沿途摧毁所有柜子，撞上门后后退，会杀死所有没有翻滚穿过它的玩家
+|speed=快
+|damage=秒杀
+|locker_snipe=
+|related_monsters=[[M-22]]
+|claustrophobia=否
+|sound1=<center>冲刺音效</center><center>[[File:E245DodgeSpawn.mp3]]</center>
+|sound2=<center>远处环境音</center><center>[[File:E245DodgeFar.mp3]]</center>
+|sound3=<center>近处环境音</center><center>[[File:E245DodgeClose.mp3]]</center>
+}}
+
+<h2>行为</h2>
+选中该机制后，'''E-245''' 会以中等速度后退，几秒后会开始高速冲回主房间，摧毁所有躲藏点，撞上门后后退，穿过虚空墙后消失。
+
+想要存活，玩家需要通过翻滚躲过它，或者躲在安全点位中。
+
+|-|锁链=
+'''锁链：'''
+{{InfoBox:Entity
+|entity_name=锁链
+|entity_image=E245Mechanic3.png
+|type=后退者
+|behavior=用锁链束缚玩家，使其减速后再后退。
+|speed=快
+|damage=???（每秒伤害 命中）
+|locker_snipe=是
+|related_monsters=[[E-60]]
+|claustrophobia=否
+|sound1=<center>锁链束缚</center><center>[[File:E245ChainSpawn.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:E245ChainAmbi.mp3]]</center>
+}}
+
+<h2> 行为 </h2>
+{{#tag:tabber
+|Upcoming=
+'''Upcoming：'''
+待公布
+
+{{!}}-{{!}}
+当前=
+'''当前：'''
+当选中该机制后，'''E-245'''会穿过门，数秒后用锁链束缚玩家使其减速；再过数秒，它会让玩家屏幕布满静电，并像[[E-60]]一样后退，穿过虚空墙后消失。
+}}
+
+|-|Sneak（潜袭）=
+'''Sneak（潜袭）：'''
+{{InfoBox:Entity
+|entity_name=Sneak（潜袭）
+|entity_image=E245Mechanic4.png
+|type=冲刺者<br>后退者
+|behavior=冲向主房间，撞击门后后退，会杀死未躲藏或未保持蹲下的玩家。
+|speed=中等
+|damage=秒杀
+|locker_snipe=否
+|related_monsters=[[M-22]]
+|claustrophobia=否
+|sound1=<center>远距离环境音</center><center>[[File:E245CrouchFar.mp3]]</center>
+|sound2=<center>近距离环境音</center><center>[[File:E245CrouchClose.mp3]]</center>
+}}
+
+<h2> 行为 </h2>
+当选中该机制后，'''E-245'''会以中等速度折返，一段时间后会再次缓慢冲向主房间；靠近时会让玩家屏幕布满静电以警告玩家，撞击门后会再次后退。
+
+想要存活，你必须要么躲藏起来，要么保持蹲下。
+</tabber>
+
+
+<h2> 应对策略 </h2>
+* '''E-245'''极其危险，尤其是在有其他实体活动的情况下，因此建议你等它消失后再前进。
+** 不遵守该建议可能会致命，因为如果它选中了'''Dodge（闪避）'''机制，除非你找到安全点，否则将无处可躲。
+
+* '''E-245'''<nowiki/>的''Burning（燃烧）''机制在[[Red Rooms|红区]]中会触发秒杀命中，因此在'''E-245'''选中该机制后最好立刻躲藏。
+<h2> 冷知识 </h2>
+* '''E-245'''曾经可以在[[Red Rooms|红区]]内使用其'''Dodge（闪避）'''机制。
+** 该设定被修改是因为这会形成不公平的组合技，在遭遇E-245期间[[E-30]]和[[E-60]]仍可能生成。
+** E-245原本是D-250的旧球体设计，是其主要设计的概念方案，但该方案后来被修改了。
+
+== 漏洞 ==
+· 在某些情况下，E-245可能会使用与选中机制不同的机制（例如，选中了锁链机制，但后续却使用了闪避翻滚机制）
+
+== 画廊 ==
+<gallery>
+File:E245Opening.gif|'''E-245''''的Mouth张开设计。
+File:E245Gambling.gif|'''E-245''''的机制设计。
+File:Orb.png|E-245的概念设计
+</gallery>
+
+
+{{EntityNavBox}}
+[[Category:Entities|实体]]
+[[Category:Section E|E区]]
+[[Category:Rusher|冲刺者]]
+[[Category:Fallbacker|后退者]]
+[[Category:Stationary|固定者]]
+[[Category:Entity Type Mix|实体类型混合]]

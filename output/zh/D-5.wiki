@@ -1,0 +1,77 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px white, -1.5px 0.66px 2px gray; color: black;">D-5 (Seer)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[Mouth|A-300]]
+|next_entity=[[D-5i]]<br>[[D-20]]
+|entity_name=[[File:D-5iPlaceHolderpng.png|frameless|link=D-5]]
+|entity_image=<gallery>
+D-5.png|设计图
+Eyescare.webp|跳杀设计图
+</gallery>
+|caption-entity_image=我看见你在暗处躲着啦！快、快出来呀..
+|appears_at=D-005及之后
+|nicknames=The Seer.（预见者）
+|type=后退者
+|claustrophobia=是
+|locker_snipe=否
+|gun_effect=使其无法伤害玩家，但这会激怒它，射击次数足够多的话会强制生成[[D-5i]]
+|behavior=敲下一扇门三次，随后走向虚空
+|damage=每秒75伤害
+|speed=17.1 Studs/秒（0.34 间/秒）
+|related_monsters=[[D-5i]]（小首领变种）
+|badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该来这里] '''已无法获取'''
+|sound1=<center>[[Super Epic Mode|超级史诗模式]]出现音效</center><center>[[File:VineBoom.mp3]]</center>
+|sound2=<center>金属门撞击声</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound3=<center>脚步声</center><center>[[File:D5walk.mp3]]</center>
+|sound4=<center>[[True Legacy Mode|真正 Legacy 模式]]消失音效</center><center>[[File:D-5TrueLegacyDespawn.MP3]]</center>
+|sound5=<center>入侵活动消失音效</center><center>[[File:D5oldTrueDespawn.mp3]]</center>
+|sound6=<center>跳杀音效</center><center>[[File:D-5jumps.mp3]]</center>
+|sound7=<center>旧版跳杀音效</center><center>[[File:D-5oldJump.mp3]]</center>}}
+
+==描述==
+'''D-5'''是基础的后退者实体，外形仅为一只眼球。
+
+==机制==
+<tabber>
+|-|当前版本=
+'''当前版本'''<br>
+当'''D-5'''生成时，门会发出3声撞击声，意味着'''D-5'''就在门后。不久后它会从门里出来，一边发出脚步声一边向后穿过多个房间。
+'''D-5'''会持续后退5个房间，随后会播放一段短音效，之后消失。
+无论距离多远，只要被D-5看到的玩家都会快速受到伤害，因此建议你一直躲藏直到D-5消失。
+如果玩家多次射击D-5，D-5会在生成后不久开始破门，这代表它已被激怒。
+如果玩家在D-5被激怒后仍继续射击，最终会由[[D-5i]]取代'''D-5'''；以此方式生成的[[D-5i]]会模仿D-5的行为敲门，但会在第二次敲门后立刻破门而入。
+
+|-|入侵版本=
+'''入侵版本'''<br>
+它生成后会先敲门，待在门后再开始后退，退到足够远的地方时会播放假的消失音效，随后飞速冲回当前房间，抵达门后消失，被D-5抓到的玩家会被直接秒杀。
+</tabber>
+
+==攻略与提示==
+* '''D-5'''处于活跃状态时会禁用[[Claustrophobia|幽闭恐惧]]机制，你可以利用这一点，尤其是在场还有其他实体的时候。
+* 当'''D-5'''被激怒时，如果它和[[D-120]]在同一个房间生成，你应该立刻躲藏，因为'''D-5'''会破门，跳过[[D-120]]的全部冷却时间再后退。你也可以干脆停止射击D-5来避免[[D-5i]]出现。
+
+==你知道吗==
+* '''D-5'''<nowiki/>的视线范围为无限，与[[D-5i]]相同。
+** 但<nowiki/>是，如果'''D-20'''生成在它的行进路径上，会阻挡'''D-5'''的视线，这意味着若它因视线被阻断而现身，将不会伤害玩家。
+* '''D-5'''、[[D-55]]和[[M-134]]是'''原版RFF'''中仅有的三个自首次发布以来设计从未改动的自然生成实体。
+
+
+== 图集 ==
+<gallery>
+File:D-5AF26.png|出现在[[April Fools 2026|2026年愚人节]]中的D-5
+File:Scary D-5.gif|D-5的跳杀
+</gallery>
+
+== 徽章 ==
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=你不该出现在这里|Description=[无法获取] 遭遇一只稀有入侵实体并成功存活。该徽章可在「入侵」活动期间获取。|Obtainment='''[无法获取]'''<br>在D区入侵活动期间遭遇'''D-5'''、[[D-35]]或[[D-60i|D-60]]并成功存活，仅限原版<br>'''Rooms: Found Footage'''}}
+
+
+{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]
+[[Category:Table Affected]]
+[[Category:Weapon Affected]]
+[[Category:Invader]]
+[[Category:Snipeless]]

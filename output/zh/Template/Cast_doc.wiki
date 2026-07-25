@@ -1,0 +1,56 @@
+== 描述 ==
+要使用此模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom的信息框语法]]。
+
+== 语法 ==
+<pre>
+{{Cast
+ | name       = 
+ | image      = 
+ | caption    = 
+ | birthname  = 
+ | birthdate  = 
+ | birthplace = 
+ | deathdate  = 
+ | deathplace = 
+ | gender     = 
+ | height     = 
+ | occupation = 
+ | appears in = 
+ | portrays   = 
+}}
+</pre>
+
+
+== 示例输出 ==
+{{Cast
+ | name       = Test
+ | image      = Wiki.png
+ | caption    = Test
+ | birthname  = Name
+ | birthdate  = Date
+ | birthplace = Place
+ | deathdate  = Date
+ | deathplace = Place
+ | gender     = Test
+ | height     = Test
+ | occupation = Test
+ | appears in = Test
+ | portrays   = Test
+}}
+<pre>
+{{Cast
+ | name       = Test
+ | image      = Wiki.png
+ | caption    = Test
+ | birthname  = Name
+ | birthdate  = Date
+ | birthplace = Place
+ | deathdate  = Date
+ | deathplace = Place
+ | gender     = Test
+ | height     = Test
+ | occupation = Test
+ | appears in = Test
+ | portrays   = Test
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

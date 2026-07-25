@@ -1,0 +1,86 @@
+{{Stub}}
+{{ArticleBackground|File=TLegacyBack.jpg}}
+{{Modifier|GradiantDetails=to bottom, #006DF8, #0022FF|TextColor=#BBDDFF|Name=[[True Legacy Mode]]|Details=The version of R:FF before the Restructured Update was released. This modifier does not have [[Section I]], and is more bare-bones. The Shadow Challenge is also forced at D-5000, but it only includes [[SHA-1]], [[SHA-2]], and [[SHA-3]].}}
+
+==Overview==
+'''True Legacy Mode''' is a modifier that allows you to play the Original '''Rooms: Found Footage''' like it was right before the Restructured Update. This mode is ''Too'' different main game, 2 big changes though are The [[Shadow Challenge]] now being guaranteed at D-5000, though [[SHA-1]], [[SHA-2]], and [[SHA-3]] being the only threats, and [[Section I]] being inaccessible, due to still being under development at the time.
+
+==Entities==
+<tabber>
+|-|Section A=
+'''Section A:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.gif|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-85.webp|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA85i.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-120 Recreated.png|center|150px|link=A-120#Old]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-135.webp|center|150px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200i.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-120#Old|A-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+
+
+|-|Section D=
+'''Section D:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-1.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35Anim.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35iAnim.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20|D-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-55Face.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-180.png|center|150px|link=D-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+
+
+|-|Misc=
+'''Misc:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+
+</tabber>
+
+==Trivia==
+'''True Legacy Mode''' is the only mode that allows [[D-180]] to spawn naturally.
+
+{{BrowseNavBox}}

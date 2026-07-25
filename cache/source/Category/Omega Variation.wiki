@@ -1,0 +1,2 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, red, orange, yellow, lime, cyan, blue, purple, magenta); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">The OMEGAS Ω (II Variation)</span>}}
+II Variation entities (Mostly admin ones).

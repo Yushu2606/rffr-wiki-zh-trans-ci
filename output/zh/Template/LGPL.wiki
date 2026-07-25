@@ -1,0 +1,2 @@
+{{LicenseBox|text=''本作品采用 [https://www.gnu.org/copyleft/lesser.html GNU 宽通用公共许可证] 进行许可。''}}{{#ifeq: {{NAMESPACENUMBER}} | 0 | <includeonly>[[Category:LGPL files]]</includeonly>}}<noinclude>
+{{documentation}}</noinclude>

@@ -1,0 +1,220 @@
+{{DISPLAYTITLE:<span style="color: black;text-shadow: -1px 1px yellow, 1px -1px yellow;">Gato</span>}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:GatoTitle.gif|frameless|link=Gato]]
+|entity_image=<gallery>
+UI500.gif|Post Event Animation
+GatoJumpAnimation.gif|Post Event speech Animation
+Gato.png|Post Event Design
+OldUI500.gif|Event Animation
+OldGatoSpeach.gif|Event speech Animation
+OldGato.webp|Event Design
+</gallery>
+|nicknames=UI-500<br>Hisholiness
+|related_monsters=[[GOD-200]]
+|appears_at=I-500
+|previous_entity=[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+|next_entity=None
+|type=Stationary
+|damage=Instant Death
+|badges=[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision] '''Unobtainable'''
+|sound1=<center>Spawn</center><center>[[File:Gatospawn.mp3]]</center>
+|sound2=<center>Speach Ambience (Post Event)</center><center>[[File:GatoSpeach.mp3]]</center>
+|sound3=<center>Speach Ambience (During Event)</center><center>[[File:GatoOldSpeach.mp3]]</center>}}
+
+== Description ==
+'''GATO''' will be the Last thing the player see inside [[Section UI]], there is no way to avoid it,  and marks the end of the Section. 
+
+== Behavior ==
+* Once Door I-500 is opened, it will place itself infront The Next rooms door, making a loud sound and killing any living player, like [[Oblivion]], Gato will talk to the player.
+
+== Strategies ==
+Like [[GOD-200]], there is no way to survive it, so just wait for it to kill you.
+
+== Speach ==
+[https://youtu.be/MQXQCnJqUIY?si=o4tA5Lhm3M-UwuNW Post Event Speach Video]
+
+[https://youtu.be/VBMQn8qyLyg?si=pRFeXkTz0sdiZaqs Event Speach Video]
+
+<tabber>
+|-|Post Event Speach Text=
+'''Post Event Speach Text'''
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Greetings, human {User}. Do not be afraid.  I mean you no ill will.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Your actions here confuse me.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''What did you hope to find? The only thing left back here is an incomplete painting...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''One that depicts times to come. '''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Unfortunately, you are too late.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I must applaud your faith,  Watcher. However, I have no special reward left for you.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''What is a Watcher, you may wonder?'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Such a question is easy to answer,  but many of you fail to understand...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I refer to you, Watcher. No, not {User} or anyone in this world...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I'm talking to YOU. The person advancing text behind the monitor screen.</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''That is what a "Watcher" is. It is how mortal beings of this world refer to a power they cannot understand.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''But i know how you function.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''It is a curious case. One i have not been able to fully understand.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''The Watchers come.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They take a body.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They do whatever they wish, without consequences to themselves. '''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''And then they leave.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''and the body vanishes, never seen again. As if it never existed.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''From what I can determine...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Many Watchers simply wish to manipulate the course of history in some way they deem fit.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Or, perhaps... They are guided by a higher power, other than myself.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''And in search of methods with which to gain power affect the world around them...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They will go to great lengths,  potentially dying many times, to acquire such power.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I remember someone.  It was the first watcher who came here. All this way...to meet me.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Their name was Jethro Snowcats. They had come a long way, it seemed. So, i rewarded their faith.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''It had been a long time since i had come into contact with any mortal being...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I, unfortunately, had no idea what would follow.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''In the end, eleven Watchers acquired the Torch of Divination from myself.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''But they did not reflect on it as a gift to be shared.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They saw it as nothing more than a tool.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They were not prophets. They were not disciples. They were greedy. And by abusing my power...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''They became unstoppable.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''So, i shall soon no longer fuel the flames of that torch endlessly.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''For what you look upon right now is the husk of a once great god.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Betrayed. Destroyed. Abandoned and left behind.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I'm lying to you, of course. Higher beings such as myself...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''We are not subject to rot and decay. But we can be forgotten. '''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''When that happens...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Most of us became little more than a memory.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I have been left without significant power in this world. And soon, so shall you.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Soon, you will encounter an enemy you cannot defeat.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Soon, you will seek more power than you can have.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''And then, you will die. Pointlessly, blindly, just wanting more.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Not knowing when to quit the "game" you see in front of you.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''When that happens... Come find me. And we'll toast... to the end of the world.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Oh, before you go...'''</span>
+
+* <span style="text shadow: 0 0 5px red; color: red;">'''Don't say i didn't warn you.'''</span>
+
+|-|Event Speach Text=
+'''Event Speach Text'''
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Your prayer reached me, Watcher.  Greetings, human {User}. Do not be afraid.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I may appear familiar, but I am actually from a distant alternate reality. I am GATO. Also known as "HISHOLINESS."</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Your actions have opened the door for my appearance. For that, I thank you.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Curious. It seems your "Rooms Anomaly is much different than other similar places I have encountered. </span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''This timeline appears to have become unstable due to the actions of its own protagonist.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''It would be prudent for me to act quickly,  before the spacetime continuum at large is endangered.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''The actions of this world's heroes in an attempt to destabilize it--an action normally impossible by mortals--have provided me with a tremendous amount of data for my research.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''You are curious to know more, I detect?'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Very well...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I, GATO, have traveled far and wide, searching through many alternative universes.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Within each one, I have documented their blessings,  and their flaws.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''You may know a few of these alternative worlds as "Experiences"'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''DOORS. Interminable Rooms. Murder Mystery 2. 3008. Natural Disaster Survival. SCP: Roleplay. Rooms: Low Detailed. Warzone 162 Evolved.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Through my research on these worlds and many others, I seek to create the perfect universe.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''A perfect utopia. An oasis within the MULTIVERSE.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Now, I must stabilize this reality, before many other worlds are put at stake. Then, I intend to continue my research.'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Before I go...'''</span>
+
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Allow me to reward your faith. '''</span>
+
+* <span style="text shadow: 0 0 5px black; color: black;">'''You have been awarded the Torch of Divination.'''</span>
+</tabber>
+
+==Death Messages==
+===[[Oblivion]] Message (Post Event Exclusive)===
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''He's right, you know.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''The Watchers, maybe yourself, maybe others, have in the past gone as far as killing gods.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Just to get what they want, or something like that.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Some even tried turning on me'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Please don't do the same.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''I will not hesitate to be that enemy you can't defeat if you do.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''I've seen it enough times to not want a repeat.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Alright,  let's get out of here.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''We never had this conversation.'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...Please.'''</span>
+
+
+== Trivia ==
+* If Encountered in the original Rooms: Found Footage, During its 2024 April Fools Event, the player would have been awarded with the [https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision ] Badge, making the player spawn with the '''Torch of Divination''' every Run
+** The '''Torch of Divination''' was awarded to 13 Players, with only 6 currently known, those being  [https://www.roblox.com/users/656906114/profile @jethrosnowcats], [https://www.roblox.com/users/1419694932/profile @GylyDragon], [https://www.roblox.com/users/4553883008/profile @NeoClemintine], [https://www.roblox.com/users/641473767/profile @SkyeTheFloofer], [https://www.roblox.com/users/926604831/profile @XYZ123lose], and [https://www.roblox.com/users/810082571/profile @ItsKev_Her3].
+
+== Gallery ==
+<gallery>
+HiGato.gif|A player Encountering '''Gato''' Post event
+Divination.png|The Torch of Divination
+OLDToD.png|Old Torch of Divination model
+</gallery>
+
+== Badges ==
+{{Badge|Image=Beatificvision.png|Name=Beatific Vision|Description=Encounter HIM. Awarded for completing the April Fools 2024 event. (...Or maybe it's obtainable after all?)|Obtainment='''[UNOBTAINABLE]'''<br>Encounter '''Gato''' by reaching I-500 during the 2024 April Fools Event in the Original<br>'''Rooms: Found Footage'''}}
+
+{{EntityNavBox}}
+[[Category:Super Epic Mode]]
+[[Category:Modifier Exclusive]]
+[[Category:Section UI]]
+[[Category:Entities]]
+[[Category:Run Ender]]

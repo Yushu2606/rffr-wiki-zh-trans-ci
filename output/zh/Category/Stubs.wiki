@@ -1,0 +1,7 @@
+{{Spacer}}
+本分类包含所有标记了{{T|Stub}}模板的未完成条目。
+----
+<center>''以下是归属于该分类的所有条目。''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]

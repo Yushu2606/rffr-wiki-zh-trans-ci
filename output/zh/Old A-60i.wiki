@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #FF0000, #FFA500, #FFFF00); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">Old A-60i（多重怪物X）</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Removed|reason=被[[A-60i]]替代}}
+{{InfoBox:Entity
+|entity_name=Old A-60i
+|entity_image=<gallery>
+A50iAnim.gif|动画
+A50Main.webp|主脸
+A501.webp|第1张脸
+A502.webp|第2张脸
+A503.webp|第3张脸
+A504.webp|第4张脸
+A505.webp|第5张脸
+</gallery>
+|previous_entity=[[A-60]]
+|next_entity=[[A-85]]
+|nicknames=A-50i（正式名称）<br>多重怪物X
+|appears_at=A-050及以后（已Removed，当前仅Admin可召唤）
+|type=反弹者
+|locker_snipe=不会
+|claustrophobia=不会
+|behavior=从后方生成，并反弹数次
+|speed=快
+|gun_effect=无
+|damage=秒杀
+|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[False-60]]
+|sound1=<center>环境音 '''响亮'''</center><center>[[File:A50iambi.mp3]]</center>}}
+
+==描述==
+Old A-60i是《Rooms: Found Footage: RENOVATED》中一个已Removed、当前仅Admin可使用的专属实体，更多信息如下。
+
+==机制==
+它的行为与[[D-60]]完全一致：冲向当前房间，在房间中央停留片刻后往回冲刺，该过程会重复多次；与[[D-60]]不同的是，它会在接触虚空墙时消失。
+
+==应对策略==
+* 像应对[[D-60]]一样对待它，听到声音时立刻躲藏，并一直保持藏匿状态直到它折返。
+* '''Old A-60i'''不会命中玩家，你可以利用这一点。
+
+==你知道吗==
+A-50i是Old A-60i的正式名称，本wiki以此命名该条目。
+Old A-60i的外观与原版Rooms的[https://r-rooms.fandom.com/wiki/A-60 A-60]相似。
+
+==画廊==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:I Variation]]
+[[Category:Multimonsters]]

@@ -1,0 +1,75 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #c53434, -1.5px 0.66px 2px #c53434; color: #3d1310;">M-60i (Mediator)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:M-60i tittle.png|frameless|link=M-60i]]
+|entity_image=<gallery>
+M60i1.png|1st Face
+M60i2.png|2nd Face
+M60i3.png|3th Face
+M60i4.png|4th Face
+M60i5.png|5th Face
+M60i6.png|6th Face
+M60i7.png|7th Face
+M60i8.png|8th Face
+M60i9.png|9th Face
+M60i10.png|10th Face
+M60i11.png|11th Face
+M60i12.png|12th Face
+M60i13.png|13th Face
+M60i14.png|14th Face
+M60i15.png|15th Face
+</gallery>
+|previous_entity=[[M-22i]]<br>[[M-60]]
+|next_entity=[[M-70]]
+|claustrophobia=No
+|gun_effect=None
+|locker_snipe=Yes
+|appears_at=Randomly upon opening any door past M-060
+|type=Rusher<br>Locker Checker<br>Rebounder<br>
+|behavior=Acts like [[M-60]] but checks unmarked lockers instead, and can check multiple lockers
+|speed=Same as [[M-60]] or faster (probably)
+|nicknames=The Mediator
+|damage=Instant Death (55 MAL. Damage locker snipe)
+|related_monsters=[[M-60]]<br>[[A-135i]]<br>[[SHA-1]]
+|sound1=<center>locker being ✓'ed</center><center>[[File:OblivionX.mp3]]</center>
+|sound2=<center>Far Ambience '''Recreation'''</center><center>[[File:M60iFar.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:M60iClose.mp3]]</center>
+|sound4=<center>Jumpscare</center><center>[[File:M-60iJum.mp3]]</center>}}
+
+==Description==
+'''M-60i''' is one of the many I variants within [[Section M]], it is the I variant of [[M-60]], more info below.
+
+==Behavior==
+When '''M-60i''' spawns, [[Oblivion]] will mark and highlight all lockers '''M-60i''' does not intend to check with a red "✓'. Then, '''M-60i''' will rush to the main room, checking rooms with players and ones surrounding them. Once '''M-60i''' has checked all unmarked lockers, he will accelerate to the main room then fallback to the '''Void Wall''', where he will despawn, acting very similarly to [[A-135i]] but only rebounding once.
+
+==Strategy & Tips==
+* If you hear the sound of multiple lockers being marked when opening a door, you should know that its '''M-60i''' coming. So quickly go to a marked locker and hide in it.
+* Don't be an idiot. If '''M-60i''' spawns, just hide in the marked locker. Don't try to outrun '''M-60i''' by rushing forward, this will only cause '''M-60i''' to check even more lockers and kill you. If you're in a hurry, at least use a safe spot so you can instantly return to rush once '''M-60i''' finish checking the lockers.
+* '''M-60i''' used to not kill the player in unmarked lockers, however, that was recently patched. 
+
+== Trivia ==
+* '''M-60i''' has 1 in 30 chance to replace [[M-60]] when [[M-60]] attempts to spawn.
+* '''M-60i'''<nowiki/>'s name is "<span style="text-shadow: 0 0 4px red; color:black;">Mediator</span>".
+* Lockers won't be marked by [[Oblivion]] during any Perfection Event, due to [[Overseer]] taking their place for the events.
+
+==Gallery==
+<gallery>
+File:New M60i ingame.gif|New '''M-60i''' seen in-game (Low Quality)
+File:Teased.jpg|A teaser to one of the now ingame faces
+File:M60ijump.gif|Old Jumpscare
+File:M60i 1.png|Old 1st Face
+File:Acc Mediator 1.png|Old 2nd Face
+File:Acc Mediator 2.png|Old 3rd Face
+File:Acc Mediator 3.png|Old 4th Face
+File:Acc Mediator 4.png|Old 5th Face
+</gallery>
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

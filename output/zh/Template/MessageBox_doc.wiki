@@ -1,0 +1,262 @@
+{{T|MessageBox}} 是用于创建消息框的模板。
+
+它支持通过类、内联样式、提供的CSS选择器进行高度自定义，可选功能包括添加图片、左侧边框、右侧文本（例如用于快捷键）以及收起功能。
+
+它使用 [[w:Help:Lua|Lua 模板语言]]，更多信息可参见 [[w:c:dev:Global_Lua_Modules/Mbox|Global Lua 模块页面]]。本版本经过修改，基于 [[w:c:dev:mediawiki:Global Lua Modules/Mbox.css|该模块的基础样式]] 提供了入门风格。若要使用此模块的全部功能并移除默认样式，请删除 [[Module:Mbox]] 中注明的部分。
+
+'''如需此模板的传统wikitext版本，请参见 [[w:c:templates:Template:Ambox|模板Wiki上的Ambox]]'''。
+
+==参数==
+如需这些参数的使用示例，请参见 [[#示例]]。
+{| class="wikitable" style="width: 100%"
+! 参数名称
+! 说明
+! 必填？
+! 默认值
+|-
+| <code>class</code>
+| 根 <code>.mbox</code> 元素的附加类。
+| 否
+| —
+|-
+| <code>bordercolor</code>
+| 最左侧粗边框的颜色。
+| 否
+| 样式表默认值
+|-
+| <code>type</code>
+| CSS中通过变量声明的mbox类型，会影响最左侧粗边框的颜色。参见 [[#使用类型]]。
+| 否
+| —
+|-
+| <code>bgcolor</code>
+| mbox的背景颜色。
+| 否
+| 样式表默认值
+|-
+| <code>style</code>
+| 根 <code>.mbox</code> 元素的附加内联样式。
+| 否
+| —
+|-
+| <code>image</code>
+| 添加到所有文本内容左侧的图片。
+| 否
+| —
+|-
+| <code>imagewidth</code>
+| 图片的宽度（高度会自动调整）。
+| 否
+| <code>60px</code>
+|-
+| <code>imagelink</code>
+| 图片指向的链接（例如可以链接到相关的维护分类）。如果不填写此参数，图片将无法点击。
+| 否
+| —
+|-
+| <code>header</code>
+| 标题（位于顶部的粗体文本），通常用于非常简要地说明此mbox的主题，因为当mbox被收起时，仅会显示标题。
+| 否
+| —
+|-
+| <code>text</code>
+| 位于标题下方的非粗体文本，通常用于进一步详细说明mbox的主题。当mbox被收起时，这段文本会被隐藏。
+| 否
+| —
+|-
+| <code>comment</code>
+| 位于正文下方的更小的非粗体文本，通常用于添加额外链接或与该通知相关的上下文。当mbox被收起时，这段文本会被隐藏。
+| 否
+| —
+|-
+| <code>aside</code>
+| 位于右侧小块区域、由浅灰色边框分隔的文本，最常用于显示相关页面的快捷键（例如在政策页面上）。当mbox被收起时，这段文本会被隐藏。
+| 否
+| —
+|-
+| <code>id</code>
+| 默认情况下，一个关闭按钮会关闭页面上的所有mbox。如需修改此行为，可使用此参数，取值为该mbox实现的名称（例如，"Template:Cleanup" 可以设置 <code><nowiki>|id=cleanup</nowiki></code>）。
+| 否
+| —
+|-
+| <code>collapsed</code>
+| 默认情况下，mbox会处于展开状态，显示全部内容。如需修改此行为，可使用此参数将mbox默认设置为收起状态（例如 <code><nowiki>|collapsed=true</nowiki></code> 会将该mbox默认设为收起）。
+| 否
+| —
+|}
+
+==设计==
+部分社区可能希望自定义消息框（mbox）的外观。下文展示了CSS中最常用的样式选项说明。
+
+<syntaxhighlight lang="css" class="mw-collapsible mw-collapsed">
+.mbox {
+    /* 整个消息框的背景 */;
+    background-color: ;
+
+    /* 整个消息框的边框颜色 */
+    border-color: ;
+
+    /* 整个消息框的边框粗细 */
+    border-width: ;
+
+    /* 默认左侧粗边框颜色；请注意可在模板调用时使用“color”参数修改此值 */
+    border-left-color: ;
+
+    /* 边角的圆角程度 */;
+    border-radius: ;
+
+    /* 消息框的基准字号 */
+    font-size: ;
+}
+
+.mbox__content {
+    /* 消息框的内边距 */
+    padding: ;
+}
+
+.mbox__content__image {
+    /* 消息框图片的最小宽度（如果需要更大，请在模板中使用“imagewidth”参数） */
+    width: ;
+
+    /* 文本左侧的间距（即图片右侧的间距） */
+    padding-right: ;
+}
+
+.mbox__content__text__comment {
+    /* “comment”参数中的文本字号 */
+    font-size: ;
+}
+
+.mbox__content__aside {
+    /* 可在此处添加对“aside”区域的任何自定义修改 */
+
+    /* 侧边区域的最大宽度 */
+    width: ;
+}
+
+.mbox__close {
+    /* 此处定义关闭符号的外观 */
+}
+
+.mbox__close:after {
+    /* 如果你不希望关闭符号为×，可在此处覆盖“content”值 */
+    content: '';
+}
+
+.mw-collapsed + .mbox__close {
+   /* 消息框收起时关闭符号的修改规则 */
+}
+
+.mw-collapsed + .mbox__close:after {
+   /* 如果你不希望消息框收起时关闭符号为+，可在此处覆盖“content”值 */
+   content: '';
+}
+</syntaxhighlight>
+
+; 技术说明
+* 根<code>.mbox</code>元素的额外行内样式可通过模板的<code>style</code>参数实现。
+
+== 示例 ==
+=== 基础消息框 ===
+<pre>
+{{MessageBox
+|header      = 此处填写标题文本
+|text        = 此处填写正文文本
+|id          = test1
+}}</pre>
+
+效果：
+
+{{#invoke:Mbox|main
+|header      = 此处填写标题文本
+|text        = 此处填写正文文本
+|id          = test1
+}}
+
+=== 使用类型 ===
+要使用类型功能，必须先添加CSS变量，例如：
+<syntaxhighlight lang="css">
+:root {
+    --type-important: rgba(200, 0, 0, 0.8);
+    --type-moderate: rgba(233, 124, 47, 0.8);
+    --type-minor: rgba(241, 197, 37, 0.8);
+}
+</syntaxhighlight>
+
+添加后：
+
+<pre>
+{{MessageBox
+|header = 此处填写标题文本
+|type   = important
+|text   = 此处填写正文文本
+|id     = test2
+}}</pre>
+
+效果：
+
+{{#invoke:Mbox|main
+|header = 此处填写标题文本
+|type   = important
+|text   = 此处填写正文文本
+|id     = test2
+}}
+
+根据你设置的样式不同，上述示例可能没有明显的视觉差异。
+
+=== 带图片 ===
+<pre>
+{{MessageBox
+|header     = 此处填写标题文本
+|text       = 此处填写正文文本
+|image      = Wiki.png
+|imagelink  = 
+|imagewidth = 50px
+|id         = test3
+}}</pre>
+
+效果：
+
+{{#invoke:Mbox|main
+|header     = 此处填写标题文本
+|text       = 此处填写正文文本
+|image      = Wiki.png
+|imagelink  = 
+|imagewidth = 50px
+|id         = test3
+}}
+
+=== 带侧边内容 ===
+<pre>
+{{MessageBox
+|header = 此处填写标题文本
+|type   = important
+|text   = 此处填写正文文本
+|aside  = 此处填写侧边文本
+|id     = test4
+}}</pre>
+
+效果：
+
+{{#invoke:Mbox|main
+|header = 此处填写标题文本
+|type   = important
+|text   = 此处填写正文文本
+|aside  = 此处填写侧边文本
+|id     = test4
+}}
+=== 标准/默认样式 ===
+<pre>
+{{MessageBox
+|header  = 此处填写标题文本
+|text    = 此处填写正文文本
+|comment = 此处填写备注文本
+|image   = Wiki.png
+|aside   = 此处填写侧边文本
+|id      = standard
+}}</pre>
+
+生成效果：
+
+{{#invoke:Mbox|main|header=Header text here |text=Normal text here |comment=Comment text here |image=Wiki.png |aside=Aside text here |id=standard}}
+<includeonly>[[Category:Notice templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

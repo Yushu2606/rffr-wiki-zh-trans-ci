@@ -1,0 +1,50 @@
+<infobox>
+	<title source="title">
+    	<default>{{PAGENAME}}</default>
+	</title>
+	<image source="image">
+		<default>Placeholder.png</default>
+	</image>
+	<header>Event Information</header>
+	<group layout="horizontal">
+		<data source="previous_event">
+    		<label><div>Previous Event</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+		<data source="next_event">
+    		<label><div>Next Event</div></label>
+    		<default><span style="color: gray;">''???''</span></default>
+    	</data>
+    </group>
+     <data source="timeline">
+    	<label><div>Timeline</div></label>
+    </data>
+        <data source="rewards">
+    	<label><div>Rewards</div></label>
+    </data>
+    <data source="entities">
+    	<label><div>Entities</div></label>
+    </data>
+</infobox>
+<noinclude>{{Documentation}}</noinclude>
+
+<noinclude>
+Example usage:
+{{SectionInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Example
+  | row2=Example}}
+<pre>
+{{SectionInfoBox
+  | title1=Example
+  | image1=Example.jpg
+  | caption-image1=Example
+  | row1=Example
+  | row2=Example}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"row1":{"suggested":true},"row2":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

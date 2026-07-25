@@ -1,0 +1,25 @@
+{{Removed|reason=Replaced by [[GOD-200]]}}
+{{InfoBox:Entity
+|entity_name=Rina
+|entity_image=Baba.webp
+|caption-entity_image=Rina good.
+|nicknames=Baba
+|behavior=Spawn from the back, rushing to the main room and killing every player
+|related_monsters=[[GOD-200]]<br>[[Gato]]
+|speed=Lightspeed
+|sound1=<center>Spawn</center><center>[[File:RinaSpawn.mp3]]</center>}}
+
+== Behavior ==
+When spawned, '''Rina''' will play Eevee's Pokémon cry before rushing toward the latest room after exactly one second; however, this sound cannot be heard on later doors as it is too far away to be heard. Upon reaching within 133 studs distance from any player that does not have a forcefield (or if server-wide god mode is not active), '''Rina''' will instantly kill that player, regardless of if they have a direct line of sight or if the player is hiding.
+
+'''Rina''' rebounds a random amount of times between 69 and 133, determined when they are spawned in. However, due to their nature, '''Rina''' almost never rebounds the full amount of times except when spawned on very early rooms.
+
+== Trivia ==
+* '''Rina''' good
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entities]]
+[[Category:Run Ender]]

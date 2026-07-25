@@ -1,0 +1,2 @@
+本分类下的模板包含其他模板的说明文档，它们会被{{T|Documentation}}模板自动归入此分类。
+[[Category:Templates]]

@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:<span style="color: #56B1DF;text-shadow: -1px 1px #56B1DF, 1px -1px #56B1DF;">Section UI (Unknown Interchange)</span>}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{SectionUIStub}}
+{{SectionInfoBox
+|image=Section Interchange Hallway.png
+|previous_section=[[Section D]]
+|next_section=None
+|entity_amount=17
+|i_entity_amount=0
+|sound1=<center>Section Opened</center><center>[[File:VineBoom.mp3]]</center>
+|sound2=<center>Ambience '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound3=<center>I-450</center><center>[[File:ISectionOpen.mp3]]</center>}}
+
+<font size="6px;">The Music in Section UI is broken and wont play, making [[UI-30]] and [[UI-269]] impossible to predict. do '''NOT''' play this section untill the music is fixed</font>
+==Overview==
+'''Section UI''' is a section only found in the <span style= "color:#00FF59">Super Epic Mode</span> modifier in the game. featuring a single unique room. Upon opening Room 400, The rooms will start to Spawn with the lights off, and after reaching room 450, the rooms will be replaced by the [[Section I]] Rooms, and at door 500, [[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]] will spawn, killing the player.
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Gato#Section_UI|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+{{!}}}
+
+==Rooms==
+<gallery>
+Section Interchange Hallway.png|A Section Interchange Room
+Darkinterchange.jpg|A Section Interchange room Seen After Reaching I-400
+</gallery>
+
+==Strategies==
+* It is Recommended that you hide immediately after the music intensifies, and wait for all entities to despawn
+** this will be necessary past door 269, as [[UI-269]] gives no warning
+* After door 430, you will need to keep your ears open, as [[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]] will be able to spawn.
+* If [[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]] spawns, you should hide in a previous to prevent your locker from being checked at all
+** you should only hide in the current room as a last resort, as [[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]] will check a random locker in the current room.
+* [[Claustrophobia]] takes minutes to attack while in the first 400 rooms, so do not exit hiding untill everything despawns
+{{BrowseNavBox}}
+
+[[Category:Sections]]
+[[Category:Modifier Exclusive]]
+[[Category:Miniboss]]

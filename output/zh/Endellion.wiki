@@ -1,0 +1,26 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">Endellion</span>}}
+{{InfoBox:Entity|entity_image=<gallery>
+Endellion.png|清醒
+GooberEepy.png|熟睡
+GooberZ.png|酣睡
+</gallery>
+|appears_at=大厅|behavior=店主|speed=缓慢|damage=无|nicknames=Endellion|sound1=<center>《沉重购物》原声带</center><center>[[File:PonderousShopping.mp3]]</center>}}
+
+Endellion是R:FF:R中极少数的被动实体之一，在大厅担任店主。
+
+== 行为 ==
+Endellion只会在自己的房间里闲逛，要么进食、饮水、睡觉，要么散步。Endellion确实拥有交谈能力，但不会使用语音，仅通过文字交流，且只有当玩家捐赠时才会触发对话。
+
+== 冷知识 ==
+* Endellion并没有引发2025年Enderlin EF5龙卷风。二者名称相似仅为巧合。（我必须把这条放在这里，因为一直有玩家在游戏内询问此事）
+* Endellion是濒危物种。
+* 这只特定的Endellion编号为Endellion#719
+* 若Endellion抓到[[Goober-200]]，不会将其杀死，而是收为奴隶
+** Endellion还会毫无理由地厌恶Goober-200
+* 《沉重购物》原声带（商店主题曲）
+** https://youtu.be/LWcFZ_8isLg?si=E3bkLXii62gX-dVK
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:No Sections]]
+[[Category:Harmless]]

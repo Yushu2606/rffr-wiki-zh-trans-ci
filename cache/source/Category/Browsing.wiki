@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''You may be looking for the template, ''[[Template:BrowseNavBox|BrowseNavBox]]''.'''</center></big>
+----
+'''Browsing''' are any articles that have the browse template.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

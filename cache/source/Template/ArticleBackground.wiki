@@ -1,0 +1,1 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:10;">[[File:{{{File|bg.png}}}|{{{Size|1920x1080px}}}|link=Special:FilePath/{{{File|bg.png}}}]]</div>

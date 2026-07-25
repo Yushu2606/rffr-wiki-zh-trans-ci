@@ -1,0 +1,51 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #6600FF, #6600FF, #3A0091, #3A0091); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-60（同化）</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:SHA60logo.gif]]
+|entity_image=<gallery>
+File:SHA-60.png|现有设计
+File:Sha60InGame.png|游戏内现有外观
+File:OLDSHA60.webp|旧设计
+File:Sha60.webp|旧版裁剪图
+</gallery>
+|previous_entity=[[SHA-55]]
+|next_entity=[[SHA-85]]<br>[[LAPSE-60]]（[[Alpha & Shadowpocalypse|A&SP]]）
+|nicknames=同化
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>入侵模式
+|type=冲刺者<br>暗影
+|locker_snipe=是
+|gun_effect=否，暗影实体无法被枪击
+|claustrophobia=否（会推迟触发）
+|behavior=与[[A-60]]行为一致，但音效更轻，且有可能生成[[SHA-2]]
+|speed=与[[A-60]]速度一致或更慢（大概率）
+|damage=秒杀（柜击同样为秒杀）
+|related_monsters=[[A-60]]<br>[[LAPSE-60]]
+|sound1=<center>远距离环境音</center><center>[[File:Sha60Far.mp3]]</center>
+|sound2=<center>第一版近距离环境音</center><center>[[File:Sha60NearRecrated.mp3]]</center>
+|sound3=<center>第二版近距离环境音</center><center>[[File:SHA60CloseOld.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-60'''是登场于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|Alpha & Shadowpocalypse（阿尔法与暗影灾变）]]修饰符中的众多暗影实体之一，是[[A-60]]的受感染变种。
+
+== 行为 ==
+'''SHA-60'''会在后方生成，播放低沉的隆隆声。它会冲向当前房间撞击门，随后移动到房间中央。抵达中央后，它会保持静止数秒，随后沉入地面消失。'''SHA-60'''撞击当前房间的门时，有概率生成[[SHA-2]]。
+
+== 攻略与提示 ==
+
+* 当你听到'''SHA-60'''发出的音效时，请停止前进，待在柜子附近，因为'''SHA-60'''可能在自身生成位置重复生成，带来麻烦。
+* 躲避'''SHA-60'''的最佳方式是，当屏幕上开始出现静电噪点时，立刻冲刺躲进柜子，因为[[Claustrophobia|幽闭恐惧]]仍有可能发动攻击。
+* 在[[Red Rooms|红区]]时，请持续躲藏，确认'''SHA-60'''消失后没有生成[[SHA-2]]。这是因为'''SHA-60'''在红区的消失速度更快，而[[SHA-2]]会晚一些抵达。
+* 如果[[SHA-1]]与'''SHA-60'''一同生成，请等到[[SHA-1]]触发屏幕震动，或是能听到'''SHA-60'''的近距离环境音时，再冲刺躲藏。
+
+== 冷知识 ==
+* '''SHA-60'''是所有编号带60的实体中，唯一柜击附带秒杀效果的实体。
+
+* '''SHA-60'''的近距离环境音实际上会在[[Shadow Challenge|暗影挑战]]中播放。
+
+* '''SHA-60'''曾经使用与[[A-60]]相同的嘈杂音效，后续版本进行了修改。
+
+* '''SHA-60'''如果在[[Red Rooms|红区]]生成，消失速度与[[A-60]]完全一致。
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Ambusher]]

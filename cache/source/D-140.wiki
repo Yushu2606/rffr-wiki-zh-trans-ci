@@ -1,0 +1,65 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: black;">D-140 (Heretic)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
+{{InfoBox:Entity
+|entity_name=[[File:D-140Title.png|frameless|link=D-140]]
+|entity_image=<gallery>
+NewerD-140.gif|Current Design
+D140.png|Old Design
+</gallery>
+|previous_entity=[[D-120]]
+|next_entity=[[D-175]]
+|nicknames=The Heretic
+|appears_at=Anytime Past D-140.
+|type=Fallbacker<br>Rebounder
+|claustrophobia=No (Delays)
+|locker_snipe=No
+|behavior=Spawns at the front then starts rushing backwards, it will rebound then check all blue lockers.
+|speed=Fast
+|gun_effect=Will cause it to wait longer and be slower
+|damage=Instant Death
+|related_monsters=[[SHA-140]]
+|sound1=<center>Spawn</center><center>[[File:D-140spawn.mp3]]</center>
+|sound2=<center>Spawn in [[Super Epic Mode]]</center><center>[[File:OldD140Spawn.mp3]]</center>
+|sound3=<center>Initial Fallback</center><center>[[File:D-140Rush.mp3]]</center>
+|sound4=<center>Far Ambience</center><center>[[File:D-140ambience.mp3]]</center>
+|sound5=<center>Near Ambience</center><center>[[File:D-140NearV2.mp3]]</center>
+|sound6=<center>Despawn</center><center>[[File:D-140Despawn.mp3]]</center>}}
+
+==Description==
+'''D-140''' Is the sixth entity to appear in the D section. For more information, look below.
+
+==Mechanic==
+D-140 will spawn in front of the next door, making a high pitched version of a cockpit Announcement. After a few seconds, D-140 will rush backwards at a very fast speed. After around 40 seconds have passed, D-140 will come back to the current room and began to check blue heavy lockers or white cabinets back a couple rooms depending if you are in the lab or the mines. After checking, D-140 will rush back to despawn. Any player caught by D-140 will instantly get killed.
+
+==Strategy & Tips==
+*'''D-140''' Is loud so make sure to turn down your volume.
+*[[D-55]] can't spawn while '''D-140''' is active, so don't hide in '''Blue lockers''' or '''White cabinets''' while '''D-140''' is active.
+*If you're in '''Chaos mode''', '''D-140''' and [[A-135]]/[[A-135i]] can spawn with it, so in this case use '''Safe spots''' or '''Tables'''.
+*Don't rush too much to avoid getting combo'ed or hide in a blue locker in emergency to avoid getting killed by [[D-60]] for example.
+*'''D-140''' will not Rebound if [[D-5i]] or [[D-60]] is active, unless he's already Rebounding.
+*If [[D-60i]] is active, '''D-140''' will not be able to spawn.
+
+==Gallery==
+<gallery>
+File:D140.gif|Old D-140 in-game.
+File:D-140Jumpscare.gif|D-140's Jumpscare
+File:D-140.png|D-140 seen inside a Heavy Grey Locker
+SEMD-140.png|Super Epic Mode Design
+</gallery>
+
+== Trivia ==
+* '''D-140'''<nowiki/>'s audio is very loud, so the Developers had to lower his audio volue, so that's why it looks so silent in-game. So you better stop saying that '''D-140'''<nowiki/>'s audio need to be louder or else <span style="text-shadow: 0 0 5px darkgreen; color: darkgreen;>WE'LL BLOW YOUR EARDRUMS UP</span>
+* '''D-140''' can be shot, causing him to wait longer
+* '''D-140's Far Ambience''' is originated from an audio called "[https://create.roblox.com/store/asset/2162238374/portalloop portal_loop]" by SuperAzmilEvil
+
+{{EntityNavBoxSectionD}}
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Snipeless]]
+[[Category:Table Affected]]
+[[Category:Weapon Affected]]

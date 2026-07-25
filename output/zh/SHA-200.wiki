@@ -1,0 +1,60 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200（低氧 Hypoxia）</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:Sha200logo.gif]]
+|entity_image=<gallery>
+NewSHA200.gif|当前设计
+Sha200.gif|旧设计
+SHA-200Older.gif|更早的设计
+OldSHA200.gif|最早的设计
+</gallery>
+|caption-entity_image=我在30号房碰到Connor时的状态
+|previous_entity=[[SHA-180]]
+|next_entity=无（[[Shadow Challenge|SC]]）<br>[[LAPSE-200]]（[[Alpha & Shadowpocalypse|A&SP]]）<br>[[SHA-300]]（[[Alpha & Shadowpocalypse|A&SP]]）
+|nicknames=低氧（Hypoxia）
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>入侵
+|type=暗影<br>锁定者
+|claustrophobia=是
+|behavior=与[[D-200]]行为相同，但即便你已经躲藏起来，它也会始终靠近你触发小游戏
+|speed=与<br>[[A-200]]相同
+|gun_effect=否，所有暗影实体都无法被枪击
+|sound1=<center>生成</center><center>[[File:SHA200Spawn.mp3]]</center>
+|sound2=<center>远处环境音</center><center>[[File:SHA200Far.mp3]]</center>
+|sound3=<center>临近环境音</center><center>[[File:Shadow-200.mp3]]</center>
+|sound4=<center>破柜音效</center><center>[[File:SHA200Breach.mp3]]</center>
+|damage=秒杀（无法触发柜击）
+|locker_snipe=否
+|related_monsters=[[A-200]]<br>[[LAPSE-200]]}}
+
+== 描述 ==
+'''SHA-200'''是可在[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符中遇到的众多暗影实体之一，是[[A-200]]的感染变种。
+
+== 行为 ==
+'''SHA-200'''会在区域最末端生成，播放类似微风拂过的音效。它是[[Shadow Challenge|暗影挑战]]中的「强制生成实体」之一。无论你身处何处，它都会锁定你的位置朝你移动。如果它追上你时你没有躲进柜子，你会直接死亡。如果它追上你时你躲在柜子里，就会触发破柜。'''SHA-200'''<nowiki/>的破柜机制与[[Striketeam Solstice]]的破柜类似，但触发时屏幕会变暗，只有光标周围的区域可见。
+
+== 应对策略与提示 ==
+<tabber>
+|-|未躲藏时=
+'''未躲藏时：'''
+* 如果你听到动静或确信'''SHA-200'''已经出现，应立刻躲藏，因为[[Claustrophobia|幽闭恐惧]]在它发动攻击期间不会出现。
+* 不要试图躲在安全位置，因为'''SHA-200'''始终知晓你的位置，能轻易在那里找到你。
+* 你有机会逃脱'''SHA-200'''的追击：它的速度与[[Mouth|A-300]]相当，本身移速比你快，但如果你全力奔跑，速度就能超过它。
+** 但需要注意，如果游戏内存在<u>多名玩家</u>，则不可能逃脱'''SHA-200'''的追击。
+|-|已躲藏时=
+'''已躲藏时：'''
+* 等待'''SHA-200'''靠近
+*  等待小游戏启动，机制与[[Striketeam Solstice]]的破柜小游戏相同
+** 将光标保持在圆圈中心
+** 如果你找不到（正在移动的）圆圈，来回移动光标搜寻，或是仔细观察屏幕寻找
+</tabber>
+
+== 冷知识 ==
+* 如果你在完成[[Shadow Challenge|暗影挑战]]进度的80%-90%左右还没有遇到SHA-200，它就会强制生成；在[[Alpha & Shadowpocalypse|A&SP]]中，它会在666号房、显示以下文字后强制生成：
+** <span style="text-shadow: 0 0 5px black; color: #5509D2;">You've gone too far for your own good.</span>（你跑得太远了，对你没好处。）
+** <span style="text-shadow: 0 0 5px black; color: #390789;">Now put on a great show for us.</span>（现在给我们好好表演一场吧。）
+** <span style="text-shadow: 0 0 5px black; color: #5E0A0B;">..You heard something in the distance.（……你听到远处有什么动静。）</span>
+* SHA-200 的突破事件原声曲目为 YouTube 用户 Musicmanaz 创作的《Good luck》。
+** https://youtu.be/ycYFr34dvX4?si=Ov1gEmJDwXzpQmat
+* 在[[Alpha & Shadowpocalypse|阿尔法与暗影灾变]]期间从SHA-200的袭击中存活3次，即可获得“[https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启]”徽章
+[[Category:Shadow Entities]]
+[[Category:Aimscripter]]
+[[Category:Rusher]]

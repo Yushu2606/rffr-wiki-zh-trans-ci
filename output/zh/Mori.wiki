@@ -1,0 +1,51 @@
+{{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mori</Span>}}
+{{ArticleBackground|File=Unnamed .png}}{{InfoBox:Entity
+|entity_name=[[File:Morb.gif|frameless|link=Mori]]
+|entity_image=<gallery>
+IdleMori.webp|外观设计
+JumpMori.webp|跳杀面部
+</gallery>
+|previous_entity=[[A-200]]<br>[[D-250]]<br>[[M-200]]<br>[[Mouth]]
+|next_entity=[[False Witness]]<br>[[Mortis]]
+|claustrophobia=否
+|appears_at=[[Unnamed Sector|无名区域]]任意位置/500号房间后稀有生成/[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]下随时生成
+|type=冲刺者
+|locker_snipe=否（进入时）<br>是（离开时）
+|gun_effect=无效果
+|behavior=
+|speed=取决于玩家与它的距离
+|damage=秒杀
+|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[D-35]]<br>[[E-30]]
+|caption-entity_image=:Skull:
+|sound1=<center>生成音效（'''无名区域'''）</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>生成音效（'''500号房间后'''）</center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>生成音效（'''Super Epic Mode（超级史诗模式）'''）</center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>远距离环境音</center><center>[[File:MoriFar.mp3]]</center>
+|sound5=<center>近距离环境音</center><center>[[File:MoriClose.mp3]]</center>
+|sound6=<center>跳杀音效</center><center>[[File:Morijump.mp3]]</center>}}
+
+==描述==
+'''Mori''' 是你会在[[Unnamed Sector|无名区域]]中很容易遇到的实体，在500号房间后稀有生成，在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中随时可能生成。
+
+==机制==
+当'''Mori'''生成时，灯光会闪烁，随后它会以中等速度从[[Voidwall|虚空墙]]冲向门，撞到门后立刻消失，你离得越远它的速度就会越快。
+
+它还有以下特殊行为：
+
+* 在50号房间之后，它有概率不触发灯光闪烁直接生成
+
+* 在100号房间之后，它有概率从正面发起攻击
+
+* 在???号房间之后，它有概率变为[[Rebounder|反弹者]]，先冲向门，随后后退，再冲回主房间
+
+==应对策略==
+* 听到它的环境音时直接躲藏即可。
+
+==冷知识==
+当你通过500号房间之后，Mori可以侵入无名区域以外的位置。
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Table Affected]]
+[[Category:Rusher]]
+[[Category:Invader]]

@@ -1,0 +1,42 @@
+== 说明 ==
+要使用本模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom的信息框语法]]。
+
+== 语法 ==
+<pre>
+{{Location
+ | title         = 
+ | image         = [例如 "Example.jpg"]
+ | imagecaption  = 
+ | map           = [例如 "Example.jpg"]
+ | mapcaption    = 
+ | type          = 
+ | level         = 
+ | location      = 
+ | inhabitants   = 
+}}
+</pre>
+
+== 示例输出 ==
+{{Location
+ | title         = 植物岛
+ | image         = Example.jpg
+ | imagecaption  = 该岛
+ | map           = Example.jpg
+ | mapcaption    = 区域地图
+ | type          = 争夺中
+ | level         = 1-5
+ | location      = 地球
+ | inhabitants   = 跺脚人类、采蜜蜂
+}}<pre>
+{{Location
+ | title         = 植物岛
+ | image         = Example.jpg
+ | imagecaption  = 该岛
+ | map           = Example.jpg
+ | mapcaption    = 区域地图
+ | type          = 争夺中
+ | level         = 1-5
+ | location      = 地球
+ | inhabitants   = 跺脚人类、采蜜蜂
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

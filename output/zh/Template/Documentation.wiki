@@ -1,0 +1,12 @@
+<includeonly>{| class="article-table plainlinks" style="width:100%;"
+|- style="font-size:18px;"
+! style="padding:0px;" | <div style="width:100%; padding:3px 0px; text-align:center;" class="color1">模板文档</div>
+|-
+| ''注意：未提供参数值时，模板示例的部分内容可能不可见。''
+|-
+| 查看或编辑[[{{{1|Template:{{PAGENAMEE}}/doc}}}|这份文档]]。（[[Template:Documentation|关于模板文档]]）
+|-
+| 编辑者可在该模板的[{{fullurl:{{FULLPAGENAMEE}}/sandbox|action=edit}} 沙盒]和[{{fullurl:{{FULLPAGENAMEE}}/testcases}} 测试用例]页面中进行测试。
+|}
+<div style="margin:0 1em;">
+{{{{{1|{{PAGENAME}}/doc}}}}}</div></includeonly><noinclude>{{Documentation}}[[Category:Documentation templates]]</noinclude>

@@ -1,0 +1,19 @@
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=Troll Face
+|behavior=rushes to the main room very fast
+|related_monsters=[[A-20]]<br>[[D-35]]
+|speed=Fast
+|entity_image=TrollFace.webp
+|claustrophobia=No
+|sound1=<center>Spawn</center><center>[[File:8bit hit.mp3]]</center>}}
+
+==Description==
+the Troll Face is one of the many Entities that are exclusive to [[Super Epic Mode]]
+
+==Behaviour==
+simply rushes to the main room, despawning at the door, it is fast tho.
+
+==Strategy & Tips==
+* hide immediately after you hear its Ambience.

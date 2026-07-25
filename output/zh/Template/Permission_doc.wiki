@@ -1,0 +1,6 @@
+;描述
+:本模板用于标注受版权保护、但版权持有者已授予使用许可的图片。
+;语法
+:在图片信息页输入<code>{{t|permission}}</code>即可使用。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

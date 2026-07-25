@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #c164d0;">SHA-3（Asunder 撕裂者）</span>}}
+{{InfoBox:Entity|entity_name=SHA-3|entity_image=<gallery>
+NewSHA3.png|当前版本
+sha3.png|旧版本
+</gallery>
+|previous_entity=[[SHA-2]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-4]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Asunder（撕裂者）
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=暗影<br>冲刺者
+|gun_effect=所有暗影实体均无法被枪械击中
+|behavior=在房间中央生成并破坏10扇门
+|speed=快
+|claustrophobia=否
+|damage=无
+|related_monsters=???
+|sound1=<center>环境音效</center><center>[[File:Sha3.mp3]]</center>
+|sound2=<center>金属门破碎声</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== 描述 ==
+'''SHA-3'''是登场于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|Alpha & Shadowpocalypse（阿尔法与暗影灾变）]]修饰符的众多暗影实体之一。
+
+== 行为 ==
+'''SHA-3'''会在你开门时生成在房间中央，数秒后它会向前冲刺并破坏10扇门，这意味着你需要向前移动以免被虚空墙杀死。'''SHA-3'''破门时也有概率生成[[SHA-2]]，还有极低概率生成[[SHA-55]]或[[SHA-60]]。
+
+== 策略与提示 ==
+* 当'''SHA-3'''开始冲刺时，只需靠近主房间的门向前疾跑即可，在安全区域时请注意提防[[SHA-2]]，或是留意[[SHA-55]]/[[SHA-60]]的音效。
+* 不要对着门猛冲，先等'''SHA-3'''把门破坏，因为如果'''SHA-3'''打开的是一个大房间，该房间可能需要更长时间加载，会导致你掉到地图外，或是卡在地面里，此时如果生成了[[SHA-2]]或是另外两个实体的话，你就会被杀死。
+
+== 冷知识 ==
+* '''SHA-3'''似乎存在一个漏洞：如果它打开的房间带有上锁的侧室，那么'''SHA-3'''不会破坏该房间之后的任何门（至少在侧室带有[[Unnamed Sector|无名区域]]入口的[[Section D|D区]]废弃房间中会出现该问题）。
+* '''SHA-3'''可在任何完美事件（Perfection Event）期间入侵。
+** 如果这种情况发生在[[Red Rooms|红区]]内会非常致命，因为计时生成的实体仍可能生成。
+
+== 背景故事 ==
+* '''SHA-3'''是感染[[SHA-30]]的实体。
+
+[[Category:Shadow Entities]]
+[[Category:Rusher]]

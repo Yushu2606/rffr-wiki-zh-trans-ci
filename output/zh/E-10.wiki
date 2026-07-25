@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #000, #FFA500); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10（耐心）</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{NoteBox|note=请勿将其与《Rooms Re-Established》中的E-10、《Interminable Rooms》中的E-10，或是《Rooms: Found Footage: Revisited》中的E-17混淆。}}
+{{Redesign|Wawaman|未知}}
+{{DesignNotAllowed|design=Upcoming 设计|reason=应设计师要求|exceptions=游戏内截图}}
+{{InfoBox:Entity
+|entity_name=[[File:E-10PlaceHolder.png|frameless|link=E-10]]
+|entity_image=<gallery>
+Placeholder.webp|Upcoming 设计
+E-10Anim.gif|动画重制
+E-10.png|设计稿
+OldE10Anim.gif|测试版动画重制
+OldE-10.webp|测试版设计稿
+</gallery>
+|previous_entity=[[M-340]]<br>[[Mouth|False-300]]
+|next_entity=[[E-10i]]<br>[[E-30]]
+|claustrophobia=否
+|nicknames=耐心
+|appears_at=E-010+
+|type=回退型<br>冲刺者<br>生成者
+|behavior=在房间中央生成后向前冲刺，待玩家开门后返回并破坏门
+|speed=中等
+|damage=300 每秒伤害
+|locker_snipe=是（非致命）
+|gun_effect=无
+|related_monsters=[[A-85]]<br>[[SHA-120]]<br>[[E-10i]]
+|badges=[https://www.roblox.com/badges/3124983362195746/Sector-Breach 区域突破] '''已绝版'''
+|sound1=<center>生成音效</center><center>[[File:E-10Spawn.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:E-10Ambi.mp3]]</center>
+|sound3=<center>跳杀音效</center><center>[[File:E-10Jumpscare.mp3]]</center>|sound4=<center>消失音效 '''重制版'''</center><center>[[File:E-10Despawn.mp3]]</center>}}
+
+==描述==
+'''E-10'''是你在[[Section E|E区]]中可能遇到的第一个实体，也是[[Section Executive Invasion Event|行政入侵事件]]期间出现的入侵实体之一。更多信息如下。
+
+==机制==
+'''E-10'''会在门前生成，几秒后向后冲刺，之后会在虚空墙后等待，直到下一扇门被打开或破坏。门被开启或破坏后，它会冲刺返回主房间，开启的门越多它的速度就越快，撞到门后就会消失，此时它有概率生成一个实体，无需破坏门即可触发该生成效果。
+
+==应对策略==
+* 看到它出现后立刻躲藏，等它回退后再离开柜子开门。如果后面的几间房是直道，你可以回头观察，把握躲藏时机；如果不是，建议你在开门后4~秒左右躲藏。
+* '''E-10'''的攻击范围极大，足以从另一个房间对你造成伤害，所以当它距离你还有一段距离时就要进入柜子躲藏，不要躲在依赖实体短攻击范围的开阔安全点。
+* [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU 演示视频]
+
+==你知道吗==
+* '''E-10'''是[[Section Executive Invasion Event|行政入侵事件]]期间出现的两种入侵实体之一，另一个是[[E-60]]。 
+* '''E-10'''改编自《Rooms: Found Footage: Revisited》中的'''E-17'''，但机制有所调整。
+* '''E-10'''有一个玩笑别名“太阳”，因为它会发出非常明亮的光，且光照范围很大。
+* 如果你在'''E-10'''仍停留在门上时开门，它会立刻开始移动，几乎瞬间将你击杀。
+* 如果你或其他事物打开门，并在'''E-10'''等待期间生成了[[E-200]]，它会继续等待直到[[E-200]]消失。
+
+==画廊==
+<gallery>
+File:E-10NewScare.gif|跳杀。
+File:E10jump.gif|入侵事件跳杀。
+File:OldE-10Jum.gif|发布前跳杀。
+File:TheSun.jpg|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，出现在[[Section D|D区]]的'''E-10'''。
+File:TheOldSun.jpg|发布前的'''E-10'''，即将杀死玩家。
+File:ByeE10.gif|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，'''E-10'''于[[Section D|D区]]从玩家身旁经过。
+File:E-10SafeSpot.webp|出现在安全点位的'''E-10'''。
+File:E-10 despawn p.webp|'''E-10'''的消失粒子。
+</gallery>
+
+== 徽章 ==
+{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach（扇区突破）|Description=[无法获取] 在任意区遭遇并从两个来源未知的意外异常之一手中存活，即便经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇'''E-10'''或[[E-60#Old|E-60]]并存活}}
+
+{{EntityNavBox}}
+
+[[Category:Entities|实体]]
+[[Category:Section E|E区]]
+[[Category:Fallbacker|后退者]]
+[[Category:Rebounder|反弹者]]
+[[Category:Invader|Invader（入侵者）]]

@@ -1,0 +1,102 @@
+__NOTOC__
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">Alpha & Shadowapocalypse</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+
+{{Modifier|GradiantDetails=to bottom, #7700BB, #000000|TextColor=#AA00FF|Name=[[Alpha & Shadowpocalypse]]|Details=The shadows have broken free. Survive until room 1000, or survive 3 [[SHA-200|[REDACTED]]]'s. Good Luck.}}
+
+==Overview==
+The '''Alpha & Shadowpocalypse''' is a game mode that can only be accessed by people who have previously beaten the [[Shadow Challenge]]. It may be accessed by activating the "Alpha & Shadowpocalypse" [[Modifiers|modifier]] in the modifier panel. '''Alpha & Shadowpocalypse''' is similar to the [[Shadow Challenge]], as it only spawns shadow [[entities]], and the lights will also be purple (Only in [[Section A]], no lighting effects). However, you have to survive until room 1000 in any section, or survive 3 [[SHA-200]]'s. This game mode will let you teleport up to room 100 in [[Section A]], [[Section D]] and [[Section M]]. A difference from '''Alpha & Shadowpocalypse''' and the [[Shadow Challenge]] is that all shadow infected entities are more common, except [[SHA-180]]. [[SHA-1]] will also spawn at room A-20 instead of [[A-20]], and [[SHA-2]] will spawn at room D-5 instead of [[D-5]]. [[SHA-200]] is also guaranteed to spawn at Room 666. '''Alpha & Shadowpocalypse''' also has some exclusive shadow entities, being [[SHA-7]], [[SHA-22]], [[SHA-150]], [[SHA-300]] and [[Overseer|SHA-0]] (Overseer's pentagram form). Beating this game mode will grant you the Heart of Darkness and Perfectionist, like the [[Shadow Challenge]], but also grant the Shadow Shakelight and Shadow Orb, both being great light sources.
+
+When starting a new '''Alpha & Shadowpocalypse''' game from room 0, nothing will spawn (except the guaranteed spawns at A-20 and D-5) until room 30, where [[SHA-1]], [[SHA-2]] and [[SHA-3]] will start spawning. After reaching room 100, all shadow infecteds will start to spawn, and at room 300, [[SHA-300]] will be able to spawn.
+
+==Strategies==
+* Try not to rush too much while entities are active, especially in the [[Red Rooms]], where entities are more common and [[SHA-7]] blocks off their sound cues. Rushing too much can cause more entities to spawn on top of each other, potentially creating unfair combos.
+** This is also applied especially to [[SHA-35]], as it is one of the most common entities to spawn in this game mode, so it is best to wait out most entities.
+* Collect and save stamina utilities as much as you can, as it can be useful against [[SHA-300]]. It can be survived without stamina utilities, however it will be risky.
+* The section you pick can be useful depending on the type of survivability you desire.
+** If you are looking for items, [[Section D]] will be the better option. It can be more useful as there is a higher chance of getting V-Boosters and other healing [[items]], that can be used to tank [[Claustrophobia]] during tricky situations, such as combos in the [[Red Rooms]].
+** If you are looking for safe spots, [[Section A]] will be the better option. Although you will get less items, you don't have to worry about [[Claustrophobia]] as much. The rooms in this section are shorter than the other sections, so using this section to try and beat this gamemode as fast as possible is viable.
+***Be careful if you are using a safespot against [[SHA-120]] though, as it has a huge range, causing it to see safespots that rely on the entity's short range to work. Make sure it is far enough from it or all the sides are blocked off.
+* When [[SHA-120]] spawns, beware of additional screenshake, as [[SHA-2]] can also spawn with [[SHA-120]]. To easily detect the screenshake, try to see if the screen is shaking more than normal when [[SHA-120]] is not making the drum noises.
+*[[SHA-2]], [[SHA-4]] and [[SHA-300]] block the door from opening, so don't rush and confuse [[SHA-2]] with [[SHA-4]] or [[SHA-300]].
+**[[SHA-4|SHA-2]], [[SHA-4]] and [[SHA-300]]'s message when interacting with a door says "Something is blocking this door from opening"
+* When [[SHA-1]] spawns, try to hide as soon as you see its screenshake. It has a non-lethal small lockersnipe DPS but deals Shadow Plague (deals 25 DPS). Wait in your hiding spot until [[SHA-1]] checks all marked spots in the previous room from where you are hiding, because when it finishes checking all hiding spots in the room, it will go to the door before backtracking. This can be used when you are hiding near the door.
+* When [[SHA-140]] or [[SHA-55]] is rebounding back, try not to use safespots. It uses a different pathing system, as it immediately goes to the next Blue Locker/Blue Heavy Locker/White Cabinet instead of using the normal entity pathing system, like [[SHA-1]] uses. Only use safespots when you are absolutely sure you are not in its path.
+* Sprint hide as soon as you see static from [[SHA-60]], it has an instant death lockersnipe. While in the [[Red Rooms]], confirm [[SHA-2]] didn't spawn before you can safely exit your hiding spot.
+*[[SHA-30]], [[SHA-35]], [[SHA-55]], [[SHA-180]] and [[SHA-200]] have no lockersnipe and [[SHA-1]], [[SHA-2]], [[SHA-4]], [[SHA-22]], [[SHA-85]] and [[LAPSE-1]] have non-lethal lockersnipe. Use this to your advantage.
+* Turn the music off, as the music can sometimes block out the sounds of shadow entities, especially for '''Alpha & Shadowpocalypse'''. The shadow entities are also silent, so relying on visual cues is highly recommended. Audio cues can also help identify what entities are active, although relying on it too much can kill you from silent entities like [[SHA-2]].
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.png|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-7]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.png|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.png|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.png|center|150px|link=SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.png|center|150px|link=Overseer]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Overseer|SHA-000]]
+{{!}}}
+
+==Lapse Variants==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:better L-1.png|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150x150px]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.png|center|150px|link=LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
+{{!}}}
+
+
+==Gallery==
+<gallery>
+A&SPAwardedBadge.jpg|A player getting The Apocalypse Badge
+A&sppurplelights.png|Purple lights found in the Shadowpocalypse modifier
+</gallery>
+
+==Badges==
+{{Badge|Image=The Apocalypse (Badge).png|Name=The Apocalypse|Description="Is.. Is it over yet..?" You weren’t supposed to last this long. Enable and survive the "Alpha & Shadowpocalypse" modifier.|Obtainment=Reach door 1000, or survive 3 [[SHA-200]]s with the Alpha & Shadowpocalypse modifier enabled. }}
+
+
+{{BrowseNavBox}}

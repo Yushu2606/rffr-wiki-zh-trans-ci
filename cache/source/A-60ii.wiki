@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">A-60ii (Omega Multi-Faced Monster)</span>}}
+{{SectionAStub}}
+{{HeadphonesNotice}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Modifier Exclusive|II Hate This}}
+{{InfoBox:Entity
+|entity_name=[[File:A-60iiPlaceholder.gif|frameless|link=A-60ii]]
+|entity_image=<gallery>
+XX60.gif|Animation
+XX602.png|1st Face
+XX603.png|2nd Face
+XX604.png|3rd Face
+XX605.png|4th Face
+XX606.png|5th Face
+XX607.png|6th Face
+XX608.png|7th Face
+XX609.png|8th Face
+XX6010.png|9th Face
+XX6011.png|10th Face
+XX6012.png|11th Face
+XX6013.png|12th Face
+XX60jump.webp|Jumpscare Design
+</gallery> 
+|claustrophobia=No
+|appears_at=Only by [[A-60i]] while using the '''II Hate This''' Modifier
+|type=Rusher
+|gun_effect=None
+|behavior=Rushes to the main room at EXTREMELY high speeds, deleting any lockers in the main rooms if they have a player inside
+|speed=100 RPS
+|locker_snipe=Yes (instant death)
+|damage=Instant Death.
+|related_monsters=[[A-60]]<br>[[A-60i]]
+|sound1=<center>Ambience</center><center>[[File:A-60iiAmbience.mp3]]</center>}}
+
+==Description==
+'''A-60ii''' is one of the many ii variants in '''Rooms: Found Footage: RENOVATED''', more info shown below
+
+==Behavior==
+Once [[A-60i]] despawns, '''A-60ii''' will have a chance to spawn, if it does spawn, it will rush to the main room without any warning at EXTREMELY fast speeds, breaking the door and deleting any lockers in the main room if there was a player hiding inside.
+
+==Strategies & Tips==
+After [[A-60i]] attacks, hide quickly, as '''A-60ii''' gives no visual cues and almost no time to hide. Remain hidden for as long as possible after [[A-60i]] passes so you don't get killed by its lethal snipe.
+
+==Trivia==
+
+* '''A-60ii''' used to be an admin only entity. However, when [[Modifiers|II hate this]] was added he was implemented as a normal entity in the Executive Update
+** This is the same case for [[D-55ii]] and [[D-60ii]]. They used to be admin only entities but they were introduced as normal entities when the modifier [[Modifiers|II hate this]]  was added
+
+==Gallery==
+<gallery>
+File:A-60iiJumpscare.gif|A-60ii Jumpscare
+</gallery>
+[[Category:Omega Variation]]

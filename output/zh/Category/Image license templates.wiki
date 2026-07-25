@@ -1,0 +1,6 @@
+{{Spacer}}
+'''图片许可证模板'''是用于为图片[[Special:ListFiles|文件]]添加[[w:c:community:Help:Licensing|授权]]标识的[[w:c:community:Help:Templates|模板]]。----
+<center>''以下是属于该分类的所有页面。''</center>
+{{Spacer}}
+
+[[Category:Templates]]

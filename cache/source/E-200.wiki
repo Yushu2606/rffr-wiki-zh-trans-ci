@@ -1,0 +1,49 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #2D0102, 0 0 65px #2D0102; color: black;">E-200 (Amaurosis)</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{NoteBox|note=Not to be confused with E-200 from '''Interminable Rooms''' or with E-200 from '''Rooms: Found Footage: Revisited''' for having the same name}}
+{{InfoBox:Entity
+|entity_name=E-200
+|entity_image=File:E-200 Design.gif
+|nicknames=Amaurosis
+|previous_entity=[[E-165]]
+|next_entity=[[E-245]]
+|appears_at=Anywhere after E-200
+|type=Rebounder
+|behavior=Rushes to the door many times
+|speed=Slow
+|damage=??? DPS<br>40 DMG locker snipe
+|locker_snipes=Yes
+|related_monsters=[[A-200]]
+|gun_effect=None
+|claustrophobia=No
+|sound1=<center>Ambience</center><center>[[File:E200Ambiance.mp3]]</center>
+|sound2=<center>Old Ambience</center><center>[[File:E-200Ambj.mp3]]</center>
+|sound3=<center>Rebound Warning</center><center>[[File:E200Rebound.mp3]]</center>|locker_snipe=Yes|sound4=<center>Locker Snipe</center><center>[[File:E200Snipe.mp3]]</center>|sound5=<center>Jumpscare</center><center>[[File:E200Jum.mp3]]</center>}}
+
+==Description==
+'''E-200''' will one of the many entities present within [[Section E]], more info shown below.
+
+==Mechanics==
+Once '''E-200''' Spawns, it will fill every room with dark red smoke, limiting the player's vision before rushing to the main room. Once in the main room, it will idle for a few seconds before falling back, once far enough, it will give rebound warning sound before rushing to the main room again. It will do this many times, but on its last rebound, it will barely idle infront the door, then after it has fallen back, will make the rebound warning early and break the door, potentially spawning another entity before falling back, despawning
+
+==Strategies==
+* If in the main room, stay completely hidden until the camara static is gone, and re enter when you see it again, do not get out if you hear the rebound warning while there still static.
+* Look for any safe spots if possible since trying to calculate when its going to pass your locker can be tedious especially if you're not in the main room
+* Do not try to rush when E-200 shows its fog since it can cause [[E-120]] to spawn causing an unfair combo if theres no safe spots
+
+==Trivia==
+* [https://youtu.be/72tw1wSpimE?si=qCgQGmy4PzTLiGA7 Update Executive Teaser 7]
+* Canonically, '''E-200''' is just the fog, the face is just condensed fog.
+** For ingame reasons, its there just so hes visible to low graphics players.
+
+==Gallery==
+<gallery>
+File:RenoE-200.gif|Concept Design
+File:E-200 jumpscare.gif|E-200's jumpscare
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Rebounder]]

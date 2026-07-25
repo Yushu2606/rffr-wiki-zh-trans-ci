@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mortis</Span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Mortis
+|entity_image=Mortis.png
+|previous_entity=[[Mori]]
+|next_entity=[[False Witness]]<br>[[False Prophet]]
+|claustrophobia=否
+|appears_at=[[Unnamed Sector|无名区域]]内的黑暗房间/[[Red Rooms|红区]]/普通场景下稀有出现
+|type=[[Rusher|冲刺者]]
+|locker_snipe=否（进入时）<br>是（离开时）
+|gun_effect=无
+|behavior=
+|speed=???
+|damage=秒杀
+|related_monsters=[[Mori]]
+|caption-entity_image=
+|sound1=<center>生成</center><center>[[File:Unnamedflicker.mp3]]</center>}}
+
+==描述==
+'''Mortis'''是你在[[Unnamed Sector|无名区域]]探索途中可能遇到的实体，为[[Mori]]的变体版本。
+
+==机制==
+与[[Mori]]机制相同(?)，但可能在黑暗房间中生成。
+
+==应对策略==
+???
+
+==你知道吗==
+???
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]

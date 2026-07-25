@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 7px Black, 0 0 6px green, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime; color: lime;">D-55 (Motormouth)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{InfoBox:Entity
+|previous_entity=[[D-35]]<br>[[D-35i]]
+|next_entity=[[D-55i]]<br>[[D-60]]
+|entity_name=[[File:D-55Placeholder.png|frameless|link=D-55]]
+|entity_image=<gallery>
+D55anim.gif|Animation Recreation
+D-55Face.gif|Animation Recreation in True Legacy
+D-55.webp|Design
+</gallery>
+|caption-entity_image=wwwhhhhhhooooommm
+|appears_at=Anywhere Past D-055.
+|nicknames=Motormouth<br>Car
+|claustrophobia=Yes
+|gun_effect=None
+|type=Rusher<br>Locker Checker
+|behavior=Makes a motor sound in the distance before coming to the current room and breaking all gray lockers.
+|locker_snipe=No
+|damage=Instant Death
+|speed=Fast
+|sound2=<center>Near Sound '''Semi-Loud Warning''' </center><center>[[File:D-55Near.mp3]]</center>
+|related_monsters=[[SHA-55]]<br>
+[[A-135i]]<br>
+[[D-55i]]<br>|sound1=<center>Far Sound</center><center>[[File:D-55Arrival.mp3]]</center>|sound3=<center>Jumpscare</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound4=<center>Far [[April Fools 2026]] '''Innacurate..?'''</center><center>[[File:D55FarAF2026.mp3]]</center>|sound5=<center>Near [[April Fools 2026]] '''Innacurate..?'''</center><center>[[File:D55NearAF2026.mp3]]</center>}}
+== Description ==
+'''D-55''' is an entity that can check hiding spots (see Behavior). It looks like a thing without any eye, only a mouth full of teeth rotated diagonally.
+
+== Behavior ==
+When '''D-55''' spawns, it will start rushing to the current room at high speeds, it emits a loud sound that can be heard from far away. After it has reached the current room, it will start destroying any Heavy lockers/Supply cabinets in the most recently generated rooms (All rooms that were generated while '''D-55''' is rushing, will be counted and '''D-55''' will destroy all determinated hiding spots in those rooms).
+
+After it is done destroying Supply Cabinets/Heavy Lockers, it will retreat at slower speeds. After it has reached the point where it spawned, it will despawn.
+
+If it finds a player, that player will instantly die.
+
+==Strategy & Tips==
+* When you hear '''D-55'''<nowiki/>'s sound, look for a White Cabinet/Blue Heavy Locker ('''D-55''' takes a while to reach the current room). If you can't find them, go to the previous room and find any hiding spot there (if you didn't open any doors during<nowiki/> D-55's presence). If you can't do both, open the next door, and look for a White Cabinet/Blue Heavy Locker. If you don't find anything, well, you're dead.
+* When [[D-60i]] is spawned, [[D-140]] can't spawn, so always prefer to hide in Blue heavy lockers/White cabinets when [[D-60i]] is active.
+* Other entities can mask '''D-55'''<nowiki/>'s sound cue so stay alert if noisy entities are present or aproaching your room
+* '''D-55''' can be avoided by hidin<nowiki/>g on fridges or green lockers
+
+== Trivia ==
+*'''D-55's''' name, Motormouth, is because of the motor like sound he m<nowiki/>akes while approaching.
+* '''D-55''', [[D-5]], and [[M-134]] are the only naturally spawning entities from '''OG RFF''' that haven't gotten their Designs changed since they were first released
+
+== Gallery ==
+<gallery>
+File:D-55 scary.gif|D-55's jumpscare
+</gallery>{{EntityNavBoxSectionD}}
+
+[[Category:Entities]]
+[[Category:Section D]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Rebounder]]
+[[Category:Table Affected]]
+[[Category:Snipeless]]

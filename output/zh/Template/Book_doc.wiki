@@ -1,0 +1,37 @@
+== 说明 ==
+要使用此模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom 信息框语法]]。
+
+== 语法 ==
+<pre>{{Book
+ | title         = 
+ | image         = [例如“Example.jpg”]
+ | author        = 
+ | illustrator   = 
+ | datePublished = 
+ | publisher     = 
+ | previous      = 
+ | next          = 
+}}</pre>
+
+== 示例输出 ==
+{{Book
+ | title         = The Adventures of Flower
+ | image         = Example.jpg
+ | author        = Alice
+ | illustrator   = Bob
+ | datePublished = April 1928
+ | publisher     = Arthur's
+ | previous      = Book One
+ | next          = Book Three
+}}
+<pre>{{Book
+ | title         = The Adventures of Flower
+ | image         = Example.jpg
+ | author        = Alice
+ | illustrator   = Bob
+ | datePublished = April 1928
+ | publisher     = Arthur's
+ | previous      = Book One
+ | next          = Book Three
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

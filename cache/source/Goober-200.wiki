@@ -1,0 +1,23 @@
+{{InfoBox:Entity
+|entity_name=Goober-200
+|appears_at=Library of Records
+|entity_image=<gallery>
+Wakey.gif|Awake
+Eepy.gif|Asleep
+EepyZ.png|Zzz
+</gallery>}}
+
+
+==Appearance==
+Goober-200 is similar to [[A-200]], except for a few differences. It now wears a sleeping cap, and is a brighter white. It "excretes" white scribbles.
+
+==Behavior==
+It goes back and forth near the rooms records.
+
+==Trivia==
+*TBA
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:No Sections]]

@@ -1,0 +1,40 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7234d0, 0 0 65px #7234d0; color: #0C0414;">SHA-2 (Wraith)</span>}}
+{{InfoBox:Entity|entity_name=SHA-2
+|entity_image=<gallery>
+NewSHA2.png|Current
+Sha2.png|Old
+</gallery>
+|previous_entity=[[SHA-1]]<br>[[LAPSE-1]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-3]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])
+|nicknames=Wraith
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Shadow<br>Fallbacker
+|gun_effect=No Shadow can be shot
+|behavior=Same as [[A-85]], but spawns behind the door and is silent
+|speed=fast
+|locker_snipe=Yes (Non Lethal)
+|claustrophobia=No
+|damage=Instant Death (DPS snipe)<br>25~ (Shadow Plague)
+|related_monsters=[[A-85]]<br>[[D-120]]<br>[[LAPSE-2]]
+|sound1=<center>Ambience</center><center>[[File:Sha2ambi.wav]]</center>}}
+
+== Description ==
+'''SHA-2''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier.
+
+== Behavior ==
+'''SHA-2''' has a chance of spawning behind the main room's door upon entering during the Shadow Challenge event. '''SHA-2''' will make the screen slightly shake and a nearly silent noise once he starts to move. Once '''SHA-2''' backtracks, it will go all the way back to the void wall where he will despawn. If the player is seen while entering/exiting a hiding spot, they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime.
+
+== Strategy & Tips ==
+* Pay attention to sound cues and screen-shake that might announce it's arrival. If you're in '''A&SP''', is easier to detect his sound.
+** In '''A&SP''', '''SHA-2''' can spawn together with '''infected''' shadow entities, so make sure to hide if an '''infected''' shadow spawn.
+** If you can't hear '''SHA-2''', then look for the screen-shake upon opening a door (but don't misinterpret it with other shadows screen-shakes like [[SHA-1]] does.
+* '''SHA-2''', along with [[SHA-1]]'s instakill can be avoided by dodge-rolling, use this in dire situations when no hiding spots are available! You will still be damaged as if you were being lockersniped though.
+
+== Trivia ==
+* '''SHA-2''' can invade by itself During any Perfection Event
+* '''SHA-2''' can be spawned by [[SHA-180]],  [[SHA-60]] and [[SHA-3]].
+* '''SHA-2''' replaces [[D-5]] in the tutorial room if you are in [[Alpha & Shadowpocalypse|A&SP]]
+* '''SHA-2''' will get faster the more you progress in [[Alpha & Shadowpocalypse|A&SP]], you can notice that by his ambience's pitch.
+[[Category:Shadow Entities]]
+[[Category:Fallbacker]]

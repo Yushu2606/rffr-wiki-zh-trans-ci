@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, lime, lime, black, black); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-35ii (The Toxic Loser)</span>}}
+{{ArticleBackground|File=SEMD-Section.jpg}}
+{{Modifier Exclusive|II Hate This, [[Super Epic Mode]], or [[April Fools 2026]]}}
+{{InfoBox:Entity
+|entity_name=[[File:D-35iiPlaceholder.gif|frameless|link=D-35ii]]
+|entity_image=D-35ii.webp
+|nicknames=The Toxic Loser<br>Omega Shadow winner
+|gun_effect=None
+|appears_at=D-035+(?) ([[Super Epic Mode]]/[[April Fools 2026]] modifiers)
+Anywhere with the '''II Hate This''' modifier enabled
+|locker_snipe=No
+|behavior=Same as [[D-35i]], but will fill some rooms with gas once it hits the door
+|damage=Instant Death
+|claustrophobia=No
+|caption-entity_image=Toxic fart in your face >:)
+|type=Rusher
+|related_monsters=[[D-35i]]
+|sound1=<center>Ambience</center><center>[[File:D-35iiAmbi.mp3]]</center>
+|sound2=<center>Despawn</center><center>[[File:D35iiDespawn.mp3]]</center>
+|sound3=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== Description ==
+'''D-35ii''' is the 3rd '''ii''' variation within '''R:FF:R'''.
+
+== Behavior ==
+'''D-35ii''' is the last ''ii'' variant of [[Super Epic Mode]]. When spawned, it will lock the door before rushing to the main room, once it hits the door it will explode, breaking the door no matter what, it will also release gas that spans around 2 rooms.
+
+== Strategy & Tips ==
+* Unhide as fast as possbile if you're in the main room and run back so you dont get damaged by the gas
+** or you could run forwards so you can continue progressing, you'll get damage tho (it ain't much)
+
+== Trivia ==
+* '''D-35ii''' is the only current entity that deals poison damage within its range.
+* '''D-35ii''' was temporaly released into [[Section D]] during the [[April Fools 2026]] event
+* Currently, there is a bug with D-35ii with the jumpscare: there is no sound and the jumpscare softlocks you
+
+[[Category:Omega Variation]]
+[[Category:Rusher]]

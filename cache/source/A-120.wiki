@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:<span style="animation: a120 5s infinite">A-120 (The Glitched Scribble)</span>}} 
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[A-85]]<br>[[A-85i]]
+|next_entity=[[A-135]]<br>[[A-135i]]
+|entity_name=[[File:A-120Placholder.webp|frameless|link=A-120]]
+|entity_image=<gallery>
+File:NewA120.png|New Design
+File:A-120_Recreated.png|Old Design
+</gallery>|caption-entity_image= :) 
+|appears_at=At or Past A-120
+|nicknames="The Glitched Scribble"
+|gun_effect=None
+|locker_snipe=Yes
+|behavior=Spawns behind the current rooms door, eventually falling back and rebounds up to 4 times. Can also teleport during his encounter.
+|damage=100 DPS (20 DPS Snipe)
+|claustrophobia=No
+|speed=45 Studs/s (backtracking)<br> 60 Studs/s (Rebounding)
+|related_monsters=[[A-135]] (Mimics A-120's sounds)<br>[[A-200]] [[A-200i]]
+|sound1=<center>PlaySound</center><center>[[File:Dumbdrum.mp3]]</center>
+|sound2=<center>Footsteps</center><center>[[File:Footsteps.mp3]]</center>
+|sound3=<center>Footsteps2</center><center>[[File:Footsteps2.mp3]]</center>|type=Rebounder, Fallbacker, Teleporter.|sound4=<center>A-120 Teleporting</center><center>[[File:A120Teleport.wav]]</center>|sound5=<center>A-120's Jumpscare</center><center>[[File:A120Jumpscare.wav]]</center>}}
+
+<tabber>
+|-|New=
+'''New:'''
+<h2> Description </h2>
+'''A-120''' will be the first rebounder the player will encounter in the '''A-Section'''. It has a striking resemblance to '''A-200''', However, Looking pixelated and glitched out, Similar to [[D-140]]. Apart from that, '''A-120''' has been reworked in the Update Executive, Having some new mechanics (will be explained in Behaviour)
+
+<h2> Behavior </h2>
+When '''A-120''' Spawns, It will spawn a room infront of the current room. After 3 seconds, It will fallback to the void. After that, it will rebound up (or more) to 4 rebounds, Eventually going to the void wall and Despawning with a low, pixelated type "whoosh" sound. When you hear this, he has despawned.
+
+In the New Update Executive, '''A-120''' can now teleport anytime during its encounter, Which it can teleport to the void wall as its going back. When it does this, it appears to glitch out air and stretch, while making a loud glitched sound.
+
+Remember to be cautious about '''A-120''''s Teleport mechanic, As it can catch you off-guard and potentially end your run if you ignore it.
+
+<h2>Strategies & Tips</h2>
+* Do not assume '''A-120''' is gone until you have heard its despawn sound, as it can rebound back at ANY moment.
+* '''A-120''' Does not disable [[Claustrophobia]], As soon as it passes you as he fallsback, wait a second and exit out of the locker. When you hear his chittering, get back in.
+* '''A-120''' does not instantly kill, so dont worry about dying to it unfairly.
+* If [[A-135]] and '''A-120''' are both present, get to a blue locker and dont get out, as [[A-135]] will disable [[Claustrophobia]], Getting rid of the need to evade '''A-120''' by getting in and out of the locker.
+* If in [[Red Rooms]] '''A-120''' spawns, It is recommended to survive '''A-120''' first before he despawns before progressing, that way, you wont get unfair combos.
+
+|-|Old=
+'''Old:'''
+<h2> Description </h2>
+'''A-120''' will be the first common rebounder in the game, '''A-120''' looks like a wide smile, of which moves constantly.
+
+<h2> Behavior </h2>
+Once Spawned, it will place itself behind the door, making drumming sounds before Rushing back like [[A-85]], once it reaches the voidwall it will have a chance to rebound back to the main room, this can repeat up to 20 times.
+
+<h2> Strategies & Tips </h2>
+* Once you hear his drumming, make sure you can also hear its chatter, if its missing then its [[A-135]]
+* Stay near a locker and hide once you hear his chatter
+</tabber>
+
+<h2> Trivia </h2>
+* '''A-120''' will be the first basic rebounder the player would come across.
+* '''A-120''' originally comes from A-120 from doors, its distant and near sound being the same.
+
+<h2> Gallery </h2>
+<gallery>
+A-120 Seen in a hallway, about to kill a player.webp|alt=A-120 Seen in a hallway, about to kill a player|'''A-120''' seen in a hallway, about to kill a player.
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Entity Type Mix]]
+[[Category:Section A]]

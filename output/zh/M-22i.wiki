@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #0000FF; color: #0000FF;">M-22i（Siren Prime）</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity
+|entity_name=M-22i
+|entity_image=M22i.webp
+|previous_entity=[[M-22]]
+|next_entity=[[M-60]]<br>[[M-60i]]
+|nicknames=Siren Prime
+|claustrophobia=否
+|locker_snipe=是（每秒伤害）
+|appears_at=[[M-22]]消失后
+|gun_effect=无
+|type=冲刺者
+|behavior=与[[M-22]]行为相同，但无生成提示且会破坏门。
+|speed=比M-22更快
+|damage=高于M-22，为推测值
+|caption-entity_image=你得和我一起完蛋。
+|related_monsters=[[M-22]]
+|sound1=<center>近距离</center><center>[[File:M22i_close.mp3.mp3]]</center>}}
+
+== 描述 ==
+'''M-22i''' 是[[Section M|M区]]中首个也是唯一的'''Prime'''级实体（其余带I后缀的变体不属于Prime级，属于Super级）。
+
+== 机制 ==
+'''M-22i''' 有概率在[[M-22]]的攻击结束后生成。它会以高速悄然冲向当前房间，不会发出任何声音提示。当'''M-22i'''距离足够近时，所有玩家的屏幕会被静电噪点覆盖。一旦'''M-22i'''抵达门的位置，它会将门撞碎，随后后退并消失。
+
+== 攻略与提示 ==
+如果你在M区游玩时屏幕突然出现静电噪点，无论当前是否有其他实体活跃，都请立刻躲藏。
+
+== 冷知识 ==
+* '''M-22i''' 不像[[M-22]]那样存在可靠的远距离环境音。
+* '''M-22i''' 是S.P.A.W.N机构试图制造更强版本[[M-22]]的失败实验产物。
+* [https://youtu.be/w_18sZCIezQ?si=7YIimhJCyUIEl458 Update Executive 预告 6]
+
+== 画廊 ==
+<gallery>
+File:M22i ingame.gif|游戏内实装的'''M-22i'''（低画质）
+File:M22i?.jpg|"你本不该存在"
+</gallery>
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

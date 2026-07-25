@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: white;">Tackle</span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Tackle
+|entity_image=<gallery>
+Newtackle.png|Current Design
+Tackle.png|Old Design
+</gallery>
+|previous_entity=[[False Witness]]<br>[[False Prophet]]
+|next_entity=[[Execution]]<br>[[Lunge]]
+|claustrophobia=No
+|appears_at=Past 24+ in the [[Unnamed Sector]]/Rarely after 500/Anytime In Super Epic Mode
+|type=Rebounder
+|behavior=Will rush to the door then it will start rebounding and making [[D-60]]'s rebound sound alert when rebounding at least 5 times
+|speed=Moderate
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|gun_effect=None
+|damage=Instant Death
+|related_monsters=[[Mori]]<br>[[False Witness]]<br>[[Lunge]]
+|caption-entity_image=I AM NOT DEPTH FROM DOORS
+|sound1=<center>Spawn '''Unnamed Sector'''</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>Spawn '''After 500''' </center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>Spawn '''SUPER EPIC MODE''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>Far Ambience</center><center>[[File:TackleFar.mp3]]</center>
+|sound5=<center>Close Ambience</center><center>[[File:TackleClose.mp3]]</center>
+|sound6=<center>Jumpscare</center><center>[[File:Tacklejump.mp3]]</center>}}
+
+==Description==
+'''Tackle''' will be a entity that you will easily find in the [[Unnamed Sector]], rarely after 500, and anytime in [[Super Epic Mode]]
+
+==Mechanics==
+When '''Tackle''' spawns, it will rush to the door then it will rebound, then it will make a sound of rebound alert from [[D-60]] then rebound again, it will repeat this at maximum 5 then despawn.
+
+==Strategies==
+When you hear its spawn cue, hide, when he goes a bit far leave the locker and enter again once you hear the [[D-60]]'s rebound alert sound
+
+==Trivia==
+* '''Tackle's''' old face is '''Tackle''' face from Doors Hardcore Mode
+<gallery>
+File:Tackle Close Up.png|Close up of Tackle
+</gallery>{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

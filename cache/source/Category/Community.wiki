@@ -1,0 +1,9 @@
+{{Spacer}}
+Any articles that have the '''Community''' category are any articles that are community made. [[:Category:Blog Posts|Blog Posts]] are automatically given this category.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+
+
+[[Category:{{SITENAME}}]]

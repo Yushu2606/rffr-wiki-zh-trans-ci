@@ -1,0 +1,23 @@
+{{InfoBox:Entity
+|entity_name=Goober-200
+|appears_at=Library of Records（档案库）
+|entity_image=<gallery>
+Wakey.gif|清醒
+Eepy.gif|沉睡
+EepyZ.png|呼噜
+</gallery>}}
+
+
+==外观==
+Goober-200与[[A-200]]相似，仅有几处区别。它现在戴着一顶睡帽，色调为更明亮的白色，还会“排出”白色涂鸦状效果。
+
+==行为==
+它会在档案记录房间附近来回移动。
+
+==你知道吗==
+*待补充
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:No Sections]]

@@ -1,0 +1,36 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-200Placeholder.png|frameless|link=UI-200]]
+|previous_entity=[[UI-173]]
+|next_entity=[[UI-220]]
+|entity_image=BetterUI-220.png
+|type=Fallback<br>Rebounder
+|appears_at=I-200+
+|damage=Instant Death.
+|related_monsters=[[E-10]]<br>[[SHA-120]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-200Ambiance.mp3]]</center>}}
+
+== Description ==
+'''UI-200''' is the 9th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-200''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+It will place itself infront the door similar to [[UI-83]] and [[UI-173]], rushing backtracks, unlike them it will then rushes back to the door after a few seconds.
+
+== Strategy & Tips ==
+hide immediately when you hear/See it, and stay hidden untill it comes back and hits the door
+
+== Trivia ==
+* Like most UI entities, '''UI-200''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rebounder]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

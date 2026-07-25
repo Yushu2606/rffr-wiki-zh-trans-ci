@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">D-55i (Flameduster)</Span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{SectionDStub}}
+{{InfoBox:Entity
+|entity_name=D-55i
+|entity_image=D55i.png
+|previous_entity=[[D-55]]
+|next_entity=[[D-60]]
+|gun_effect=None
+|locker_snipe=None
+|nicknames=Flameduster
+|appears_at=D-55+
+|type=Fallbacker<br>Locker Checker
+|behavior=Spawns from the front, rushing back and breaking all gray lockers, leaving a trail of fire behind.
+|claustrophobia=Yes
+|speed=Extremely Fast
+|damage=Instant Death
+|related_monsters=[[D-55]]<br>[[M-200]]
+|sound1=<center>Far Ambience '''Recreation'''</center><center>[[File:D55iFar.mp3]]</center>
+|sound2=<center>Close Ambience '''Recreation'''</center><center>[[File:D55iClose.mp3]]</center>|sound3=<center>Jumpscare Sound</center><center>[[File:D-55iJumSfx.mp3]]</center>}}
+
+==Description==
+'''D-55i''' is one of the many Entities that you may encounter within [[Section D]], it being the I variant of [[D-55]], more info shown below.
+
+==Mechanics==
+It will spawn from the front, smashing the door after 4-5 seconds, and breaking every Gray Locker/Supply Cabinet 5 rooms back while rushing back, leaving a trail of purple fire behind that damages the player when nearby.
+
+The fire damages the player based on proximity, even if they are hidden, so hiding too close to '''D-55i'''<nowiki/>'s node path will still damage them overtime. The fire despawns after about 25-30 seconds.
+
+==Strategies & Tips==
+* Just like D-55, '''D-55i'''<nowiki/>'s ambience is quite loud. If you hear a motor sound coming from the front, instead of the back, that is your cue to hide as stated below.
+* It is recomended to use a safespot to avoid the damage from the fire. If that isn't possible, try hiding in a Blue Locker/White Cabinet further away from '''D-55i'''<nowiki/>'s path.
+** If none of those options is avaible, just exit the locker and move out of the fire's range as quick as possible, or tank the damage with Bandages, if you have any.
+
+==Trivia==
+* '''D-55i's''' mechanic was originally used by [[D-55ii]] before it got changed.
+
+==Gallery==
+<gallery>
+File:D55i.png|Current design
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:I Variation]]

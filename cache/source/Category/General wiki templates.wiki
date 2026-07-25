@@ -1,0 +1,7 @@
+{{Spacer}}
+Below are any templates that have aren't related to other templates, like [[:Category:Notice templates|Notices]] or [[:Category:Navbox templates|Navboxes]].
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Templates]]

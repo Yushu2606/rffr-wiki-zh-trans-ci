@@ -1,0 +1,337 @@
+<noinclude>
+If a box is a little green, that means it's already been it. If it has not, that means it HASN'T been it. I don't want any to click all of them to find out.
+You can also find a little mark at the top telling the day, or when the entity was featured. This first started on '''July 27 2025''' is day 1.
+<br>
+<br>
+Some entities will have their boxes filled, which means I have already chosen which entity will be for which day. All of these options are all randomized, I don't pick them.
+<br>
+<center><big>You can find the original template [https://official-rooms-found-footage-renovated.fandom.com/wiki/Template:FeaturedEntity here].</big></center>
+</noinclude>
+
+{| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #202020; background:#a3a2a2; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
+! style="width:100px" |<small><span style="float:left; padding-left:10px; padding-top:5px; font-size:90%">[https://official-rooms-found-footage-renovated.fandom.com/wiki/Template:FeaturedEntityList V] • [https://official-rooms-found-footage-renovated.fandom.com/wiki/Template:FeaturedEntityList?action=history H] • [https://official-rooms-found-footage-renovated.fandom.com/wiki/Template:FeaturedEntityList?action=edit E]</span></small><center>Entity List</center>
+|-
+|
+{| class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#d0db58; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Section A</center>
+|-
+| class="navigation-class" |
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[A-20]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 7</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-20]]</center></big>
+<center>[[File:A20.png|150px|link=A-20]]</center>
+{{Spacer}}
+'''A-20''' is the first entity the player will encounter, being very easy to combat. A sound is signified, like an echo. He will then slowly creep toward the succeeding door and break in half. The player has more time to find a locker then usual, since it is NOT a insta-kill entity.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[A-20i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 5</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-20i]]</center></big>
+<center>[[File:A20i.png|150px|link=A-20i]]</center>
+{{Spacer}}
+'''A-20i''' is the first [[:Category:I Variation|I variation]] entity the player can find. It is very similar to its regular [[A-20|counterpart]], just being green and faster. It can rarely spawn after [[A-20]], and always appears in Red Rooms.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[A-60]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[A-60i]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[A-85]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[A-85i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 15</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-85i]]</center></big>
+<center>[[File:A-85icolor.png|150px|link=A-85i]]</center>
+{{Spacer}}
+'''A-85i''' is one of the hardest [[:Category:I Variation|I variation]] entities in the game, being really difficult, unexpected, and long. Once it spawns, it will rush down back and forth at least 8 times, and has a rage mode. More can be explained on its [[A-85i|article]].
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[A-135]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 19</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-135]]</center></big>
+<center>[[File:UpdatedA-135.png|150px|link=A-135]]</center>
+{{Spacer}}
+'''A-135''' is the first [[:Category:Locker Checker|locker checker]] the player will encounter in '''Rooms: Found Footage: RENOVATED'''. It will come from the front and break down the door and check all Regular Lockers (Regular Cabinets and/or Regular Heavy Lockers if a [[Modifiers|modifier]] is activated).
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #74782b;"class="navigation-class" |<center>[[A-135i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 21</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-135i]]</center></big>
+<center>[[File:NewA135i.png|150px|link=A-135i]]</center>
+{{Spacer}}
+'''A-135i''' is the [[:Category:I Variation|I variation]] of [[A-135]], and is a bit more tricky if you do not know what you're doing. It will first laugh before rushing down and opening all Gray lockers. It will repeat this about three times before disappearing.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #74782b;"class="navigation-class" |<center>[[A-200]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 20</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-200]]</center></big>
+<center>[[File:Airyyy renovated air.gif|150px|link=A-200]]</center>
+{{Spacer}}
+'''A-200''' is the last encounterable entity that inevitable in [[Section A]]. A-200 will bang on the succeding door for a few times until it picks up speed, and the door breaks. After this it will rush down into [[Void]] and make a howling sound. If the player gets out of the locker or not all players are in a locker, it will [[:Category:Backtracker|backtrack]].
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[A-200i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 8</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[A-200i]]</center></big>
+<center>[[File:BlueAir Renovated.gif|150px|link=A-200i]]</center>
+{{Spacer}}
+A rare appearing entity right after [[A-200]]. To know if he spawns, A static will appear right after [[A-200]] disappears. As long as you/your group stay in your lockers, you will be fine, although he can rebound. be wary, since his presence is can be a surprise.
+{{Spacer}}
+|}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#d90b0b; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Section D</center>
+|-
+| class="navigation-class" |
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-5]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 14</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-5]]</center></big>
+<center>[[File:D-5.png|150px|link=D-5]]</center>
+{{Spacer}}
+'''D-5''' the first entity the player will encounter in the [[Section D|D Section]]. It's spawn is signaled by 3 knocks on the succeeding door. A player can either hide behind something or go inside a locker. '''D-5''' after walks down the rooms until a computer-like-noise is heard, which means '''D-5''' has despawned.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-5i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 2</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-5i]]</center></big>
+<center>[[File:D5i.png|150px|link=D-5i]]</center>
+{{Spacer}}
+'''D-5i''' is a rarer version of the regular [[D-5]]. Instead of going slow, he sprints, and can damage from away even in a locker, and is an overall more difficult and complex entity then its regular counterpart. Be thankful if he doesn't appear in your runs.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-20]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 10</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-20]]</center></big>
+<center>[[File:D20.png|150px|link=D-20]]</center>
+{{Spacer}}
+'''D-20''' a stationary entity found in [[Section D]], and is one of the only entities that can be killed with a [[Weapons|weapon]]. It will be signified by spawning once a red orb appears. A loud tech sound will then explode in the room, showing that it has spawned. As long as the player does not get near him, they will be fine.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-35]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 16</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-35]]</center></big>
+<center>[[File:NewD-35.gif|150px|link=D-35]]</center>
+{{Spacer}}
+'''D-35''' can be found in [[Section D]] and is an easy entity to counter if the player knows what they are doing. When he spawns, the screen will shake along with playing a noise and screaming will be heard. The player who to quickly hide in a locker before he breaks/smashes the door. On rare occasions, [[D-35i]] will spawn after him.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[D-35i]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-55]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 11</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-55]]</center></big>
+<center>[[File:D-55Face.gif|150px|link=D-55]]</center>
+{{Spacer}}
+'''D-55''' is an entity found in [[Section D]] and has a very similar mechanic to that of [[A-135]]. When a player is traversing Section D after door 55, they may hear a sound of something like a motor. The player will then quickly need to hide in Blue Lockers, as the entity will check all Gray lockers. There is no [[:Category:I Variation|I variation]] of this entity, so worrying about this and this only is your top priority. Although remember [[D-140]]. Strategy will have to be used in circumstances like this.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-60]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 12</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-60]]</center></big>
+<center>
+<choose uncached>
+<option><center>[[File:D-60 1.png|150px|link=D-60]]</center></option>
+<option><center>[[File:D-622.png|150px|link=D-60]]</center></option>
+<option><center>[[File:D-63.png|150px|link=D-60]]</center></option>
+<option><center>[[File:D-64.png|150px|link=D-60]]</center></option>
+</choose>
+{{Spacer}}
+'''D-60''' is an entity found in [[Section D]] and is quite complex. It's first heard be screaming coming down the hallway, until it smashes the door. It might either make a wind noise and disappear, or "reactivate" and go back down where it came from. Once a metal bang sound occurs, it rushes back, and this may happen multiple times. Sometimes '''D-60''' will stop moving like its first appearance of immediately smash the door and go backward. Overall a very strategic entity.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-60i]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 17</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-60i]]</center></big>
+<center>
+<choose uncached>
+<option><center>[[File:D60i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-62i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-63i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-64i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-65i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-66i.png|150px|link=D-60i]]</center></option>
+<option><center>[[File:D-67i.png|150px|link=D-60i]]</center></option>
+</choose>
+{{Spacer}}
+'''D-60i''' is a [[:Category:Boss|Boss entity]] found in [[Section D]]. It is the longest and hardest boss entity to deal with. It will first start a countdown starting at 3, and then [[:Category:Backtracker|backtrack]] to [[Void]]. After he will then [[:Category:Rusher|rush]] to the most current room. More information can be found on his [[D-60i|article]].
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[D-120]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[D-140]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[D-200]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 6</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[D-200]]</center></big>
+<center>[[File:NewerD-200.png|150px|link=D-200]]</center>
+{{Spacer}}
+'''D-200''' is a very intimidating entity, but is very easy to combat. It is signified once the surronding area is turned into a noir shade, and an organ will play. Afterward, '''D-200''' will pass through. As long as all the players in the game are hiding, he will not rebound, and he will disappear after a few seconds. Remember that this entity is very loud, even on low volume!
+{{Spacer}}
+|}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+! colspan="3" style="background:#283feb; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>Section M</center>
+|-
+| class="navigation-class" |
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #202020;"class="navigation-class" |<center>[[M-22]]</center>
+|-
+|Not yet!
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-60]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 13</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-60]]</center></big>
+<center>
+<choose uncached>
+<option><center>[[File:M60 1.png|150px|link=M-60]]</center></option>
+<option><center>[[File:M60 2.png|150px|link=M-60]]</center></option>
+<option><center>[[File:M60 3.png|150px|link=M-60]]</center></option>
+<option><center>[[File:M60 4.png|150px|link=M-60]]</center></option>
+<option><center>[[File:M60 5.png|150px|link=M-60]]</center></option>
+</choose>
+{{Spacer}}
+'''M-60''' is an entity found in [[Section M]] being the only entity [[Oblivion]] helps you with. Once he spawns, [[Oblivion]] will make a red '''X''' mark on a locker, where '''M-60''' will check. '''M-60''' will then rush down the hallway and smash the door. He will then check the locker [[Oblivion]] has marked. The newest door that is open is the only room he will check.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-70]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 9</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-70]]</center></big>
+<center>[[File:M70.png|150px|link=M-70]]</center>
+{{Spacer}}
+'''M-70''' is a very interesting entity mechanic's wise, but is very easy to "beat". You know it spawns once the door behind you closes, and the succeding door's sign flashes and makes a beeping noise. It will then rush from that flashing door. Stay in a locker until the door that was shut opens again.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-120]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 4</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-120]]</center></big>
+<center>[[File:M-120 Design.gif|150px|link=M-120]]</center>
+{{Spacer}}
+'''M-120''' is an extremely complex entity, mimicking others from [[Section A]] and [[Section D|D]]. Before it does this, it will grab the energy from the succeeding door and make the signature drumming sound that [[D-120]] uses, and rush down the hallway. After a while, a crackle can be heard, signifying that a mimic will appear. Be wary!
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-134]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 18</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-134]]</center></big>
+<center>[[File:M134.png|150px|link=M-134]]</center>
+{{Spacer}}
+'''M-134''' is a [[:Category:Stationary|stationary entity]] found in [[Section M]]/[[Section I]]. It appears in a locker with flames. It is quite easy to counter, either just walk past it or do not Sprint and Hide at the same time, or else it will explode.
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-150]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 1</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-150]]</center></big>
+<center>[[File:M-150thedepressed.png|150px|link=M-150]]</center>
+{{Spacer}}
+'''Rooms: Found Footage: RENOVATED'''<nowiki>'s</nowiki> newest entity! Appearing in [[Section M]], it chooses to be either '''White''' or '''<span style="color:blue">Blue</span>''' when spawning. If it is white, it will choose a regular locker. If it is blue, it will choose a blue locker. Watch out!
+{{Spacer}}
+|}
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+! colspan="2" width="15%" style="background: #314f2f;"class="navigation-class" |<center>[[M-200]]</center>
+|-
+|<small><span padding-left:10px; padding-top:5px; font-size:90%"><center>Day 3</center></span></small>
+{{Spacer}}
+<big><center>'''Today's Featured Entity Is...'''</center></big>
+<big><center>[[M-200]]</center></big>
+<center>[[File:NewerM-200.gif|150px|link=M-200]]</center>
+{{Spacer}}
+'''M-200''' is '''Rooms: Found Footage: RENOVATED'''<nowiki>'s</nowiki> last encounterable entity. It spawns at the succeeding door, and "latches" onto any blue lockers, then rushing down and destroying them. A quick and speedy entity to come across.
+{{Spacer}}
+|}

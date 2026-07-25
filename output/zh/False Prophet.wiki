@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px darkcyan; color: darkcyan;">False Prophet</span>}}
+{{Stub}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=False Prophet
+|entity_image=<gallery>
+FalseProphet.webp|待机外观
+FalseProphetJumpscare.webp|跳杀外观
+</gallery>
+|claustrophobia=否
+|previous_entity=[[False Witness]]
+|next_entity=[[Tackle]]<br>[[Lunge]]
+|appears_at=[[Unnamed Sector|无名区域]]的黑暗房间/[[Red Rooms|红区]]/普通房间低概率出现
+|type=冲刺者
+|gun_effect=无
+|behavior=冲向房门，数秒后会折返冲锋，与[[False Witness|普通版本]]行为类似，但冲锋几乎无声，且该过程会重复多次
+|speed=中等
+|locker_snipe=否（进入柜子时）<br>是（离开柜子时）
+|damage=秒杀
+|related_monsters=[[Mori]]<br>[[Tackle]]<br>[[False Witness]]
+|caption-entity_image=
+|sound1=<center>生成</center><center>[[File:Unnamedflicker.mp3]]</center>
+}}
+
+==描述==
+'''False Prophet''' 是你在[[Unnamed Sector|无名区域]]探险途中可能遇到的众多实体之一，是[[False Witness]]的变体版本。
+
+==机制==
+当'''False Prophet'''生成时，会先让灯光闪烁，随后以中等速度冲向当前房间，撞门后会传送回虚空墙并再次发起冲锋，本次冲锋不会发出靠近音效或是完全静音。它会多次重复该过程，每次撞门后速度都会提升，最终会在门口随机消失。
+
+==应对策略==
+
+* 当你听到它的生成提示音时立刻躲藏，当它撞门“消失”后，等待数秒需再次躲进柜子，它会发起多次冲锋，因此在继续前进前务必确认它已真正消失。
+
+==画廊==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]

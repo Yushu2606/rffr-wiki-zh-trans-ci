@@ -1,0 +1,5 @@
+{{Spacer}}
+'''Upcoming Entities''' are any [[Entities]] that are upcoming. They can either be from an already existing Section, or any upcoming one.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

@@ -1,0 +1,6 @@
+;说明
+:本模板用于标记使用GFDL协议的图片。
+;语法
+:在图片信息页输入<code>{{t|GFDL}}</code>即可。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

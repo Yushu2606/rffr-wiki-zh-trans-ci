@@ -1,0 +1,37 @@
+{{SectionEStub}} {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0b74df; color: #000000;">E-30i (The Reticient Rusher Prime)</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-30i
+|entity_image=E30i.png
+|previous_entity=[[E-10i]]<br>[[E-30]]
+|next_entity=[[E-45]]<br>[[E-60]]
+|claustrophobia=No
+|appears_at=E-050+
+|type=Rusher
+Rebounder
+|gun_effect=TBA
+|behavior=Has a chance of following [[E-30]] once it despawns, acting the same but quieter
+|speed=Moderate
+|damage=??? DPS
+|nicknames=Reticent Rusher Prime
+|locker_snipe=Yes
+|related_monsters=[[A-20i]]<br>[[E-30]]<br>[[M-22]]<br>[[M-22i]]
+|sound1=<center>Jumpscare</center><center>[[File:E-30iScare.mp3]]</center>}}
+
+== Description ==
+
+'''E-30i''', is one of the many enteties you may encounter in [[Section E]], it being the prime variant of [[E-30]]
+
+== Mechanic ==
+it will have a chance to spawn once [[E-30]] despawns, if it does spawn it will appear behind the void wall and begin rushing to the main room at a moderate speed, filling the player's screen with static, upon breaking the door, it will fall back, despawning past Voidwall.
+
+== Strategies ==
+
+Since '''E-30i''' doesn't give any warning to hint that it spawned, you will need to keep your ears open and hide immediately after you hear him.
+
+== Gallery ==
+
+<gallery>
+File:E-30iScary.gif|Jumpscare
+File:30 & 30i trail.webp|'''E-30i''' trail particle
+</gallery>

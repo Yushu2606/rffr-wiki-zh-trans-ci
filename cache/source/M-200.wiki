@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: -4px 0px 2px red, 4px 0px 2px blue; color: #41e0ff;">M-200 (Eletrician)</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{NoteBox|note=Not to be confused with M-200 or Ï-200 from '''Rooms: Re-Established''' due to having a very similiar appearence}}
+{{Redesign|Collese|Vote}}
+{{InfoBox:Entity
+|entity_name=[[File:Bite of 83.gif|frameless|link=M-200]]
+|entity_image=<gallery>
+NewM200.gif|Current Design
+M200Hurt.gif|Current Hurt Design
+NewerM-200.gif|Old design
+M200.gif|Older design
+</gallery>|previous_entity=[[M-150]]|next_entity=[[Mouth|M-300]]<br>[[M-340]]<br>[[Mori]]|nicknames=Electrician<br>"Ronaldo" (Old Nickname)
+|appears_at=Opening any door past M-200 with a random chance.
+|claustrophobia=No
+|gun_effect=it will get injured after enough shots, causing it to no longer break blue lockers, be slower, and lowering its DPS
+|behavior=Spawns at the front and breaks Blue Heavy Lockers upon passing by them.
+|speed=1.4 Rooms Per Second (Slow-Moderate)|damage=1000 DPS (400 DPS locker snipe)
+|type=Fallbacker<br>Locker Checker
+|locker_snipe=Yes
+|sound1=<center>1st Ambience</center><center>[[File:M-200Ambience.mp3]]</center>
+<center>2nd Ambience</center><center>[[File:M-200 Ambience.ogg]]</center>|caption-entity_image=No blue lockers for u >:D|related_monsters=[[A-200]]<br>[[D-200]]<br>[[D-140]]}}
+
+==Description==
+[[M-200]] is one of the few I-Section entities that were added within the second test of Rooms: Found Footage (Now repurposed for the M section). More information about [[M-200]] will be presented below.
+
+==Appearance==
+[[M-200]] appears to be a neon face with a wide-open mouth, and with a second mouth as a pupil for its left eye, and an electricity sign as a pupil for its right eye. It continuously changes shape and size, along with the shadow behind it. Its mouth also opens and closes.
+
+If shot enough times with a [[Weapons|weapon]], '''M-200''' will have its electric current disrupted, causing its damage to heavily drop and for it to lose its [[:Category:Locker Checker|locker checking]] ability, so no blue lockers will be broken. However, '''M-200''' will still rush through, and can kill the player.
+
+==Mechanic==
+[[M-200]] will place itself right at the current room's door, like [[A-85]], [[D-140]], or [[E-10]], making radio-like static sounds. It will idle for a few seconds before emitting a beam from itself to the nearest ''Heavy Blue Locker''. It will then backtrack through the rooms, breaking every single type of the aforementioned hiding spots within close proximity. It will eventually despawn after some time.
+
+==Strategy & Tips==
+* When '''M-200''' spawn, go to the nearest Heavy locker/Supply cabinet, and stay there for a few seconds incase [[M-70]] spawn with '''M-200'''.
+* '''M-200''' can be neutralized if shot enough times, causing '''M-200''' to become weak and won't break most of the blue lockers. 
+**However, '''M-200''' can still kill even being shot, so just hide after neutralizing it. Although neutralizing '''M-200''' also reduces its DPS. ('''M-200''' can be neutralized with 3 shots using Perfectionist, so use it to your advantage).
+
+==Trivia==
+*[[M-200]] calls itself Ronaldo.
+**This is now outdated, as [[M-200]] was renamed to "The Electrician" after Renovated released.
+*[[M-200]] is the only [[A-200]] related entity that does damage instead of insta-killing.
+*If [[M-134]] is inside a blue locker when it breaks it, [[M-134]] explodes.
+*M-200's 2nd Ambience sound can be found in the Roblox Creator Store, it's named "[https://create.roblox.com/store/asset/705787045/Electric-shock-hit-looped Electric shock hit looped]".
+*M-200 does feel pain as stated that it can be shot. (As stated by M-200's creator)
+**Adding onto this, M-200 experiences 2x more pain to being hit/shot than a normal human would (Ex: Slapping M-200 will make it feel like it's been stabbed)
+* Unlike other 200 numbered entities, '''M-200''' can't kill the player if they are hidden under a table.
+
+==Gallery==
+<gallery>
+M200jump.gif|Old Jumpscare
+</gallery>
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Weapon Affected]]
+[[Category:Entity Type Mix]]

@@ -1,0 +1,36 @@
+{{DISPLAYTITLE:R-200 (???)}}
+{{ArticleBackground|File=RDoor.jpg}}
+{{Upcoming}}
+{{InfoBox:Entity
+|entity_name=R-200
+|entity_image=Placeholder.webp
+|previous_entity='''???'''
+|next_entity='''???'''
+|nicknames=???
+|appears_at=R-200+
+|locker_snipe=???
+|gun_effect=???
+|claustrophobia=???
+|type=???
+|behavior=???
+|speed=???
+|damage=???
+|related_monsters=???
+}}
+
+== 描述 ==
+'''R-200'''将是你在[[Section R|R区]]中可能遇到的第？个实体。更多信息如下。
+
+== 行为 ==
+???
+
+== 策略与提示 ==
+* ???
+
+== 冷知识 ==
+* ???
+
+== 画廊 ==
+<gallery>
+Placeholder.webp
+</gallery>

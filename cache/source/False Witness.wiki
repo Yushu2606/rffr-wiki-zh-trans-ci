@@ -1,0 +1,47 @@
+{{ArticleBackground|File=Unnamed .png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: black;">False Witness</span>}}{{InfoBox:Entity
+|entity_name=[[File:Fuck.png|frameless|link=False Witness]]
+|entity_image=<gallery>
+NewFalseWitness.png|Current Design
+FWJump.png|Current Jumpscare Design
+FalseWitnessIdle.webp|Old Design
+FalseWitnessJum.webp|Old Jumpscare Design
+</gallery>
+|claustrophobia=No
+|previous_entity=[[Mori]]<br>[[Mortis]]
+|next_entity=[[Tackle]]<br>[[False Prophet]]
+|appears_at=Anywhere in the [[Unnamed Sector]]/Rarely after 500/Anytime In Super Epic Mode
+|type=Rusher
+|gun_effect=None
+|behavior=rushes to the door, after some seconds it will rush again but this time will be very quiet/silent, repeating it many times
+|speed=Moderate
+|locker_snipe=No (Entering)<br>Yes (Exiting)
+|damage=Instant Death
+|related_monsters=[[Mori]]<br>[[Tackle]]<br>[[False Prophet]]
+|caption-entity_image=ÆÆÆÆÆÆ
+|sound1=<center>Spawn '''Unnamed Sector''' </center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>Spawn '''After 500''' </center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>Spawn '''SUPER EPIC MODE''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>Far Ambience</center><center>[[File:FalseWitnessFar.mp3]]</center>
+|sound5=<center>Close Ambience</center><center>[[File:FalseWitnessClose.mp3]]</center>
+|sound6=<center>Jumpscare</center><center>[[File:FWjump.mp3]]</center>}}
+
+==Description==
+'''False Witness''' will be an entity that you will easily find in the [[Unnamed Sector]], rarely after 500, and anytime in [[Super Epic Mode]].
+
+==Mechanics==
+When '''False Witness''' spawns, it will flicker the lights before rushing to the main room at moderate speeds, once it hits the door it will teleport back to voidwall and doing it again, this time missing its close sound or being totally silent. it will repeat this 1-4 times before despawning.
+
+==Strategies==
+When you hear its spawn cue, hide, when he hits the door and "disappears", wait some seconds then enter the locker again, it will rush many times, so make sure it actually despawned before advancing.
+
+==Gallery==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

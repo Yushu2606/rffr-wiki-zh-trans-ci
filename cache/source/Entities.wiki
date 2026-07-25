@@ -1,0 +1,478 @@
+<font size= 4>A list of every '''entity''' within in Rooms: Found Footage RENOVATED. They are only 57 '''entities''' that the player can meet naturally, 132 if you count Admin, Removed, Modifier and Upcoming '''Entities'''. There are also the [[Red Rooms]] where '''entities''' get more common. Most '''entities''' are in [[Sections]]. There are 5 in game [[Sections]] being [[Section A]], [[Section D]], [[Section M]], the [[Unnamed Sector]], and [[Section E]], with [[Section R]] potentially coming later in the future.</font> 
+
+<tabber>
+|-|Section A Entities=
+'''Section A Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-25MainFace.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA120.png|center|150px|link=A-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:ShadowMan.png|center|140px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}
+
+|-|Section D Entities=
+'''Section D Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.png|center|150px|link=D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.png|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-250]]
+{{!}}
+
+|-|Section M Entities=
+'''Section M Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.png|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22i.png|center|150px|link=M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i15.png|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM70.png|center|150px|link=M-70]]
+
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
+{{!}}
+
+|-|Unnamed Sector Entities=
+'''Unnamed Sector Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center"{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.png|center|150px|link=Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.png|center|150px|link=False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:FalseProphet.png|center|150px|link=False Prophet]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.png|center|150px|link=Tackle]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Mori]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False Prophet]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Tackle]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.png|center|150px|link=Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.png|center|150px|link=Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}<br>[[False-200]]
+{{!}}
+
+|-|Section E Entities=
+'''Section E Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E10i.png|center|150px|link=E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE30.png|center|150px|link=E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E30i.png|center|150px|link=E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E45.png|center|150px|link=E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE601.png|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E90.png|center|150px|link=E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-120 Design.png|center|150px|link=E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E165.png|center|150px|link=E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200 Design.gif|center|150px|link=E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-165]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E245Idle.png|center|150px|link=E-245]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-245]]
+{{!}}
+
+|-|Misc Entities=
+'''Misc Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:X1200Icon.gif|center|150px|link=X-1200 Entities]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[X-1200 Entities]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oblivion.png|center|150px|link=Oblivion]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Airsmile.gif|center|150px|link=GOD-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Endellion.png|center|150px|link=Endellion]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Wakey.gif|center|150px|link=Goober-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Oblivion]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[GOD-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Endellion]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Goober-200]]
+{{!}}
+
+|-|Shadow Challenge Entities=
+'''Shadow Challenge Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.png|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.png|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.png|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
+{{!}}
+
+|-|Modifier Exclusive Entities=
+'''Modifier Exclusive Entities:'''
+{{#tag:tabber
+|Alpha & Shadowpocalypse=
+<center>'''Alpha & Shadowpocalypse:'''</center><br>
+<center>'''Shadow Entities:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.png|center|150px|link=SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.png|center|150px|link=Overseer]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Overseer|SHA-000]]
+{{!}}}<br><br>
+<center>'''Lapse Entities:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L-1.png|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150px|link=LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.png|center|150px|link=LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
+{{!}}-{{!}}
+II Hate This=
+<center>'''II Hate This:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewA20ii.png|center|150px|link=A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:XX60.gif|center|150px|link=A-60ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-200ii_Anim_.gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Actual 55ii.png|center|150px|link=D-55ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60iiAnim.gif|center|150px|link=D-60ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60ii]]
+{{!}}-{{!}}
+Clocks Ticking=
+<center>'''Clocks Ticking:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:FatherDeath.png|center|150px|link=X-000]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[X-000]]
+{{!}}-{{!}}
+Super Epic Mode=
+<center>'''Super Epic Mode:'''</center><br>
+<center>'''Section A:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-20ii.png|center|150px|link=A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Cat60face1.jpg|center|150px|link=CAT-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:CAT-120.png|center|150px|link=CAT-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Dorito.png|center|150px|link=Dorito]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-200ii_Anim_.gif|center|150px|link=A-200ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Dorito]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}}}<br><br>
+<center>'''Section D:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DCAT-55.png|center|150px|link=DCAT-55]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[DCAT-55]]
+{{!}}}<br><br>
+<center>'''Section UI:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Gato#Section_UI|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+{{!}}}<br><br>
+<center>'''Misc:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PB.jpg|center|150px|link=Pipe Bomb]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Tackle.png|center|150px|link=Tackle]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-258.gif|center|150px|link=A-258 (IR)]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Pipe Bomb]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mori]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[False Witness]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Tackle]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-258 (IR)]]
+{{!}}-
+{{!}}[[File:TrollFace.webp|center|150px|link=Troll Face]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Troll Face]]
+{{!}}}
+{{!}}-{{!}}
+April Fools 2026 Mode=
+<center>'''April Fools 2026 Mode:'''</center>
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.jpg|center|150px|link=Fake Strange Keycard]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard]]
+}}
+
+|-|Upcoming Entities=
+'''Upcoming Entities:'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=M-120i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=M-340]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-340]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''R-115'''
+(Not The Final Name)
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=LAPSE-120]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-120]]
+{{!}}
+|-|Removed/Scrapped Entities=
+'''Removed/Scrapped Entities:'''
+{{#tag:tabber
+|Section A=
+'''Section A:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.gif|center|150px|link=Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A165.png|center|150px|link=A-165]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Old A-60i]]
+{{!}} style="padding 5px;"align="center" {{!}}<br>[[A-165]]
+
+{{!}}-{{!}}
+Section D=
+'''Section D:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-180Old.png|center|150px|link=D-180]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
+
+{{!}}-{{!}}
+Section M=
+'''Section M:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
+
+{{!}}-{{!}}
+Section E=
+'''Section E:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''???'''
+
+{{!}}-{{!}}
+Other=
+'''Other:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:CherryBomb.png|center|150px|link=Cherry Bomb]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Baba.webp|center|150px|link=Rina]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Cherry Bomb]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Rina]]
+}}
+
+|-|Admin Entities=
+'''Admin Exclusive Entities:'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Spin.gif|center|150px|link=U-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:CARDBOARD-5.png|center|150px|link=CARDBOARD-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Gflorp-60.png|center|150px|link=Glongoflorp-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-20i.png|center|150px|link=D-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-140irecreation.gif|center|150px|link=D-140i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[U-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CARDBOARD-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Glongoflorp-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UnknownEntity.png|center|150px|link=D-180i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Gamma-1.png|center|150px|link=GAMMA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:G2.png|center|150px|link=GAMMA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PlayerControlledIcon.png|center|150px|link=Player Controlled]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[GAMMA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[GAMMA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Player Controlled]]
+{{!}}
+</tabber>
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

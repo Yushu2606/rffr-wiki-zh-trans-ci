@@ -1,0 +1,108 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: black;">E-60 (Breacher)</span>}}{{NoteBox|note=Not to be confused with E-60 from '''Hardcore Mode''', E-60 from '''Rooms Re-Established''', E-60 from '''Interminable Rooms''', or with E-60 from '''Rooms: Found Footage: Revisited''' for having the same name}}{{Suggested|asure}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:E-60Placeholder.png|frameless|link=E-60]]
+|entity_image=<gallery>
+NewE601.png|Upcoming 1st Face
+NewE602.png|Upcoming 2nd Face
+NewE603.png|Upcoming 3rd Face
+NewE604.png|Upcoming 4th Face
+NewE605.png|Upcoming 5th Face
+NewE606.png|Upcoming 6th Face
+NewE607.png|Upcoming 7th Face
+</gallery>
+|previous_entity=[[E-45]]
+|next_entity=[[E-90]]
+|nicknames=Breacher
+|claustrophobia=No
+|appears_at=E-060+
+|type=Rusher<br>Rebounder
+|behavior=Rushes to the main room, breaks the door, stays behind the lastest door for a few seconds before busting through that Second door and fallsback
+|speed=Moderate (Rushing)<br>Fast (Falling Back)
+|locker_snipe=Yes
+|gun_effect=None
+|damage=Instant Death (40 MAL Damage Locker Snipe)
+|badges=[https://www.roblox.com/badges/3124983362195746/Sector-Breach Sector Breach] '''Unobtainable'''
+|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[M-22]]
+|sound1=<center>Far Ambience</center><center>[[File:E60Far.mp3]]</center>
+|sound2=<center>Close Ambience</center><center>[[File:E60Close.mp3]]</center>
+|sound3=<center>Jumpscare Sound</center><center>[[File:E60JumpSound.mp3]]</center>
+|sound4=<center>Ambience Origin</center><center>[[File:E60Orgin.mp3]]</center>}}
+
+==Description==
+'''E-60''' will be the 4th entity you will encounter in [[Section E]] and was one of the Invasive entities present during the [[Section Executive Invasion Event]]. More info shown below.
+
+==Mechanics==
+<tabber>
+|-|Current=
+'''Current''':<br>When '''E-60''' spawns, it will begin to rush to the main room at Moderate speed, filling the players screen with static when nearby to warn them to hide immediately, then smash into the door, breaking it down and despawning, immediately respawning far ahead and staying idle. '''E-60''' will begin to rush backwards after around 4 seconds or if the door is opened, when it does rush backwards, it will start filling the player's screen with static, breaking the door and falling back quickly, truly despawning past Voidwall.
+
+If a player dies or gets locker sniped by '''E-60''' while it is rushing to the door, it Will Break 1 locker in each room when falling back, this being indicated by [[Oblivion]] marking lockers with an X.
+
+|-|Old=
+'''Old''':<br>When '''E-60''' spawns, it will begin to rush to the main room at Moderate speeds, emmiting very quiet sounds, when it hits the door, it will break it no matter what, then it will place itself behind the next rooms door and go silent, tho leaving small amounts of static on the players screen, after 4~ seconds it will start playing its Ambience again, breaking the door down after 3 seconds(2 if in [[Red Rooms]]) and rushing backwards at Moderate speed, despawning past voidwall.
+</tabber>
+
+==Strategies & Tips==
+* after it hits the door, you should exit your locker, and Reenter after 3 seconds.
+
+* if an entity breaks the door While '''E-60''' is behind it, it will cause him to immediately backtrack, so if you hear an entity that is able of breaking the door while '''E-60''' is active, do not exit your locker.
+
+* if you are in [[Red Rooms]] and '''E-60''' is already behind the door, rehide earlier, since '''E-60''' will give you less time to react.
+
+* [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt Current behavior Representation]
+* [https://youtu.be/TqbnnePI3eo?si=YDbnZZwaUh9mq8v5 Old Behavior Representation]
+
+==Trivia==
+* '''E-60''' has a chance to rush to the main room without its far sound.
+** '''E-60''' will start play its close sound from further away, giving you bit more time to react and hide if this happens.
+* '''E-60''''s old faces originate from the roblox marketplace.
+** These were removed from the game due to the user who uploaded them having stolen them.
+*** '''E-60''' Used [[A-60i]]'s Old Design as a Placeholder for the rest of the [[Section Executive Invasion Event]] due to this.
+* '''E-60''' was one of the two Invasive entities present during the [[Section Executive Invasion Event]], the other being [[E-10]].
+* '''E-60''' is the slowest 60 entity.
+
+==Gallery==
+<gallery>
+E60SaysHi.jpg|'''E-60''' seen in [[Section M]] During the [[Section Executive Invasion Event]], about to kill the player. 
+NVCSE60.jpg|'''E-60''' seen through the '''NVCS-13793-C'''.
+NewE60jum.gif|E-60's Jumpscare.
+TempE60jum.gif|E-60's Jumpscare with its temporary faces.
+E60jump.gif|E-60's Old Jumpscare.
+ByeE60.gif|'''E-60''' passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
+HiE60.gif|'''E-60''' with its temporary Faces seen by the eyes of a Diceased player.
+E60CurrentAnim.gif|Animation Recreation with its current faces.
+E60tempanimation.gif|Animation Recreation with its temporary faces.
+E60anim.gif|E-60's Animation with its old faces.
+E601.png|Current 1st Face (Crop)
+E602.png|Current 2nd Face (Crop)
+E603.png|Current 3rd Face (Crop)
+E604.png|Current 4th Face (Crop)
+E605.png|Current 5th Face (Crop)
+E606.png|Current 6th Face (Crop)
+E607.png|Current 7th Face (Crop)
+E608.png|Current 8th Face (Crop)
+TempE601.webp|E-60's temporary First Face.
+TempE602.webp|E-60's temporary Second Face.
+TempE603.webp|E-60's temporary Third Face.
+TempE604.webp|E-60's temporary Fourth Face.
+TempE605.webp|E-60's temporary Fifth Face.
+TempE606.webp|E-60's temporary Sixth Face.
+E-601.webp|E-60's old First Face.
+E-602.webp|E-60's old Second Face.
+E-603.webp|E-60's old Third Face.
+E-604.webp|E-60's old Fourth Face.
+E-605.webp|E-60's old Fifth Face.
+E-606.webp|E-60's old Sixth Face.
+</gallery>
+
+== Badges ==
+{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]], or '''E-60''' during the E-section invasion event}}
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Ambusher]]
+[[Category:Multimonsters]]
+[[Category:Invader]]

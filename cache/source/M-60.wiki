@@ -1,0 +1,119 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px green, -1.5px 0.66px 2px Lime; color:Lime;">M-60 (Arbiter)</span>}}
+<tabber>
+|-|Section M=
+{{NoteBox|note=Not to be confused with M-60 from '''Rooms Re-Established'''}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:M-60Title.png|frameless|link=M-60]]
+|entity_image=<gallery>
+M60 1.png|Face 1
+M60 2.png|Face 2
+M60 3.png|Face 3
+M60 4.png|Face 4
+M60 5.png|Face 5
+</gallery>
+|previous_entity=[[M-22]]<br>[[M-22i]]
+|next_entity=[[M-60i]]<br>[[M-70]]
+|nicknames=Multi-Faced Roulette, The Arbiter
+|appears_at=M-060+
+|locker_snipe=Yes
+|gun_effect=None
+|claustrophobia=No (Delays)
+|type=Rusher<br>
+Locker Checker
+|behavior=Rushes from behind and checks a random hiding spot in the current room upon reaching to said room.
+|speed=~8.8 Rooms Per Second (Fast - Very Fast)
+|damage=Instant Death (85 damage locker snipe) (30 MAL damage locker snipe)
+|related_monsters=[[A-60]]<br>[[M-60i]]
+|badges=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here Are You Supposed To Be Here?] '''Unobtainable'''
+|sound1=<center>locker being Ⅹ'ed</center><center>[[File:OblivionX.mp3]]</center>
+|sound2=<center>Far Ambience '''Recreation'''</center><center>[[File:M60Far.mp3]]</center>
+|sound3=<center>Close Ambience</center><center>[[File:M60near.mp3]]</center>
+|sound4=<center>Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound5=<center>Jumpscare Sound</center><center>[[File:M-60Scare.wav]]</center>}}
+
+<h2> Description </h2>
+'''M-60''' is the 2nd entity you'll encounter within the [[Section M]].
+
+<h2> Behavior </h2>
+When '''M-60''' spawns, [[Oblivion]] will mark one or more random lockers in the main room with a red "Ⅹ", indicating that '''M-60''' will check them. After a few seconds after the locker was been marked, '''M-60''' will rush to the main room with a similiar speed to [[A-60]]. Upon hitting the door, '''M-60''' has a chance of destroying it, which might cause it to spawn one of the [[Section M]]'s entities. After hitting or breaking the door, '''M-60''' will proceed to the marked lockers and will check them, instantly despawning after checking them all.
+
+<h2> Strategy & Tips </h2>
+* It is not that hard to deal with '''M-60''', just simply hide in the unmarked locker or in the previous room to survive.
+* Avoid rushing too much. '''M-60''' might take a bit long to arrive once spawned, but if you need to hide in a blue locker because of [[M-120]] for example, the blue locker might be marked and you'll die by '''M-60''' or [[M-120]] if it mimics [[A-135]] or [[D-55]].
+* If [[Oblivion]] is not present, it is best to hide in the previous room if possible.
+
+<h2> Trivia </h2>
+* '''M-60''' is one of the few ''Multimonsters'' that checks lockers. Only '''M-60''', [[M-60i]] and [[D-140i]] that are legit ''Multimonsters'' that checks/destroy lockers ([[D-60i]] destroys lockers in phase 2, but it is not considered as a Locker Checker, so it doesn't count.)
+* '''M-60''' now able to check tables, just like A-60 (firstly sniping and then killing if in sight). However, its prime [[M-60i|Mediator]] still cannot check tables. So, if necessary, you can use them as hiding spot without being spotted by entity.
+* '''M-60''' has a very small chance of checking a locker in the pr<nowiki/>evious room (has a higher chance of doing if there is almost no lockers in the main room).
+* Lockers wont be marked by [[Oblivion]] during Perfection Events, due to [[Overseer]] taking their place for the events.
+
+== Gallery ==
+<gallery>
+File:M-60 scary.gif|Jumpscare
+M-60 checking a locker.png|'''M-60''' Seen outside a locker.
+M-60 checking a locker 2.png|Ditto
+OblivionX.jpg|[[Oblivion]] seen marking the locker '''M-60''' intends to check
+</gallery>
+
+|-|Section UI=
+'''Section UI:'''
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-60
+|entity_image=<gallery>
+Oldi60animation.gif|Animation Recreation
+I-601.webp|1st Face
+I-602.webp|2nd Face
+I-603.webp|3rd Face
+UI-60Jumpscare.png|4th Face
+I-605.webp|5th Face
+</gallery>
+|nicknames=Multi-Faced Roulette
+|previous_entity=[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+|next_entity=[[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+|appears_at=I-460+
+|type=Rusher<br>
+Locker Checker
+|behavior=Rushes from behind and checks a random hiding spot in the current room upon reaching to said room.
+|speed=Fast
+|claustrophobia=No
+|damage=Instant Death
+|related_monsters=[[A-60]]
+|sound1=<center>Far Ambience<center><center>[[File:SEMI60Far.mp3]]
+|sound2=<center>Close Ambience<center><center>[[File:SEMI60Close.mp3]]}}
+
+<h2> Description </h2>
+'''I-60''' is the 3rd and final Entity present within the final 100 rooms of [[Section UI]] (not including [[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]), more info on '''I-60''' shown below.
+
+<h2> Behavior </h2>
+When '''I-60''' spawns, it will make loud static sounds from behind you before rushing to the main room, once it hits the door, it will go towards a random locker in the main room and check it, staying idle infront of it for 4 seconds before despawning.
+
+<h2> Strategy & Tips </h2>
+* You should always hide in a previous room, hide in main room only as a last resort, since I-60 may have a chance of checking your locker.
+* you should stay hidden for the full encounter or, if in a previous room, get out and look back at the previous rooms, so you dont get surprised and killed by [[E-30#Section_UI|I-30]]
+
+== Gallery ==
+<gallery>
+SEMI-60Jum.gif|Jumpscare
+SEMI-60Move.gif|I-60 passing by a player
+</gallery>
+</tabber>
+
+== Badges ==
+{{BadgeSectionM|Image=Isecinvasion.png|Name=Are You Supposed To Be Here?|Description=This badge was previously obtainable during the "I-Section Invasion" event for surviving an attack from I-60 within the A-Section or D-Section. It has been retired and is no longer available.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''I-60''' during the I-Section Invasion Event in the Original<br>'''Rooms: Found Footage'''}}
+
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:Section I]]
+[[Category:Super Epic Mode]]
+[[Category:Section UI]]
+[[Category:Rusher]]
+[[Category:Invader]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

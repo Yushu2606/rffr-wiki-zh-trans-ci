@@ -1,0 +1,81 @@
+{{DISPLAYTITLE:<span style="color: #56B1DF;text-shadow: -1px 1px #56B1DF, 1px -1px #56B1DF;">Section UI（未知换乘区）</span>}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{SectionUIStub}}
+{{SectionInfoBox
+|image=Section Interchange Hallway.png
+|previous_section=[[Section D|D区]]
+|next_section=无
+|entity_amount=17
+|i_entity_amount=0
+|sound1=<center>区已开启</center><center>[[File:VineBoom.mp3]]</center>
+|sound2=<center>环境音'''已调节'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound3=<center>I-450</center><center>[[File:ISectionOpen.mp3]]</center>}}
+
+<font size="6px;">Section UI的音乐目前已损坏无法播放，导致[[UI-30]]和[[UI-269]]的动向无法预测。在音乐修复前'''请勿'''游玩这个区</font>
+==概述==
+'''Section UI'''是游戏中仅在<span style= "color:#00FF59">[[Super Epic Mode|超级史诗模式]]</span>修饰符下才能进入的区，仅包含一间独特房间。打开400号门后，生成的房间都会处于关灯状态，到达450号房间后，所有房间会被[[Section I|I区]]的房间取代，到达500号门时，[[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]会生成并击杀玩家。
+
+==实体==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Gato#Section_UI|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+{{!}}}
+
+==房间==
+<gallery>
+Section Interchange Hallway.png|A区分流房
+Darkinterchange.jpg|抵达I-400后可见的A区分流房
+</gallery>
+
+==应对策略==
+* 建议你在音乐变得急促时立刻躲藏，等待所有实体消失
+** 在通过269号门后这一操作是必需的，因为[[UI-269]]不会给出任何预警
+* 通过430号门后，你需要时刻留意音效，因为[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]会开始生成。
+* 如果[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]生成，你应该躲在前一个房间里，完全避免你所在的柜子被检查。
+** 仅在万不得已的情况下才躲在当前房间，因为[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]会检查当前房间内的随机一个柜子。
+* 在前400个房间内，[[幽闭恐惧]]需要数分钟才会发起攻击，因此在所有实体消失前不要离开躲藏点。
+{{BrowseNavBox}}
+
+[[Category:Sections]]
+[[Category:Modifier Exclusive]]
+[[Category:Miniboss]]

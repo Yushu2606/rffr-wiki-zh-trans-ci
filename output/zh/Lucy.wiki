@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<font color= "BB0FFF" /font>
+<span style="text-shadow: black -3px 3px 15px;">
+Lucy}}
+{{Delete|reason=已移动至[[Player Controlled|玩家可控实体]]}}
+{{InfoBox:Entity
+|entity_name=Lucy
+|caption-entity_image=Hello.. I hope we can be friends?<br>「你好呀…希望我们能成为朋友？」
+|nicknames=̶D̶e̶v̶i̶n̶<br>暗心
+|appears_at=仅可由管理员召唤
+|type=玩家可控<br>反突袭者
+|speed=与玩家移动速度相同
+|entity_image=LucyMain.png}}
+
+<font color="000000"/font>
+== 外观 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">Lucy是通体漆黑的人形实体，留着黑色长发，头顶有由黑色碎片组成的尖刺状光环。她身穿带有紫色装饰的黑色套装，腰间佩戴一把黑剑，双眼呈发光的白色。
+<font color="000000"/font>
+== 行为 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">Lucy通常只会在你的游玩流程有被Solstice（至夏突袭团）突袭的风险，或是正被Solstice突袭时出现。她通常性情温和，扮演临时保镖/保护者的角色。如果她在没有Solstice活跃的流程中出现，她会陪你一同穿过各个房间，偶尔和你对话。但如果你的流程中Solstice正在活跃，她会击退突袭者来保护你，给你创造逃跑或撤离的机会。
+
+<span style="text-shadow: black -3px 3px 3px;">不过有一件事你绝对不能做，就是对Lucy表现出攻击性。如果你选择对她发起攻击，比如向她开枪、反复把储物柜门摔在她脸上，或是使用近战武器攻击她，她也会变得具有攻击性，要么掏出枪威胁要杀死你，要么用枪对你造成重伤。继续发起攻击的话你就会被杀死。
+<font color="000000"/font>
+== 背景故事 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">Lucy是暗心的前宿主，暗心就是你能看到的她腰间佩戴的那把剑。她因为自身的异常特性以及疑似能操控阴影的能力被S.P.A.W.N组织抓获。之后S.P.A.W.N在目前尚未开放探索的区域对她进行了实验，希望能进一步了解她的上述异常特性，以及她与阴影之间的联系。S.P.A.W.N拿到想要的信息后，就把她带到维修隧道，锁在了隧道的某个地方。但后来发生了一起原因不明的神秘爆发事件，一团阴影破坏了Lucy牢房的入口，将她放了出来。</span>
+<font color="000000"/font>
+== 冷知识 ==
+<font color="BB0FFF"/font>
+<span style="text-shadow: black -3px 3px 3px;">Lucy是目前已知唯一会在游玩流程中出现的非敌对实体。
+
+<span style="text-shadow: black -3px 3px 3px;"><big>她或许很友善，但她的耐心也是有限度的…</big>
+<font color="000000"/font>
+== 画廊 ==
+<gallery widths="180">
+File:Lucy Eyes.png|黑暗中的Lucy，只有她的眼睛可见。
+File:Lucy LockerBreachOpening.png| "I thought I could trust you.. Good luck."<br>「我还以为我能信任你…祝你好运。」
+File:Lucy Minigun.png|手持虚空加特林，即VM-244的Lucy
+File:Lucy HOD.png|手持暗心的Lucy
+File:Lucy Perf.png|手持完美主义者的Lucy
+File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."<br>「…很抱歉事情走到了这一步。」
+</gallery>{{EntityNavBox}}

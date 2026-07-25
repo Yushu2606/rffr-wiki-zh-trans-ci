@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: white;">Tackle</span>}}
+{{ArticleBackground|File=Unnamed .png}}
+{{InfoBox:Entity
+|entity_name=Tackle
+|entity_image=<gallery>
+Newtackle.png|当前设计
+Tackle.png|旧设计
+</gallery>
+|previous_entity=[[False Witness]]<br>[[False Prophet]]
+|next_entity=[[Execution]]<br>[[Lunge]]
+|claustrophobia=否
+|appears_at=[[Unnamed Sector|无名区域]]内24号房间之后/500号房间后低概率出现/[[Super Epic Mode|超级史诗模式]]下随时生成
+|type=反弹者
+|behavior=会冲向门，随后开始反弹，每次反弹时都会发出[[D-60]]的反弹警示音效，最多反弹5次后消失
+|speed=中等
+|locker_snipe=否（进入柜子时）<br>是（离开柜子时）
+|gun_effect=无
+|damage=秒杀
+|related_monsters=[[Mori]]<br>[[False Witness]]<br>[[Lunge]]
+|caption-entity_image=I AM NOT DEPTH FROM DOORS（我不是来自Doors的Depth）
+|sound1=<center>'''无名区域'''内生成音效</center><center>[[File:Unnamedflicker.mp3]]</center>
+|sound2=<center>500号房间后生成音效</center><center>[[File:MoriSpawn.mp3]]</center>
+|sound3=<center>'''超级史诗模式'''下生成音效</center><center>[[File:8bit hit.mp3]]</center>
+|sound4=<center>远距离环境音</center><center>[[File:TackleFar.mp3]]</center>
+|sound5=<center>近距离环境音</center><center>[[File:TackleClose.mp3]]</center>
+|sound6=<center>跳杀音效</center><center>[[File:Tacklejump.mp3]]</center>}}
+
+==描述==
+'''Tackle''' 是你在[[Unnamed Sector|无名区域]]中很容易遇到的实体，500号房间后低概率出现，在[[Super Epic Mode|超级史诗模式]]下随时可能生成。
+
+==机制==
+当'''Tackle'''生成时，它会冲向门，随后开始反弹，每次反弹时都会发出[[D-60]]的反弹警示音效，该过程最多重复5次，之后它就会消失。
+
+==应对策略==
+当你听到它的生成提示音时立刻躲藏，等它离开一段距离后可以暂时离开柜子，一旦听到[[D-60]]的反弹警示音就立刻再次躲回柜子。
+
+==冷知识==
+* '''Tackle'''的旧脸部贴图来自《Doors》硬核模式中的'''Tackle'''脸部。
+<gallery>
+File:Tackle_Close_Up.webp|Tackle的特写
+</gallery>{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Invader]]

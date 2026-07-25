@@ -1,0 +1,7 @@
+<includeonly>[[Category:Scrapped]]</includeonly>
+<center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #5947bf, inset 0 0 15px #5947bf; background:#301f8f; margin-top: 20px; color:#FFF;
+ border: 5px solid Black; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
+[[File:ScrappedNotice.webp|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}''' 已被[[:Category:Scrapped|废弃]]。被废弃的原因通常是时间不足，或是开发者的选择。本页面仅出于历史记录目的保留。
+<br>
+<span style="font-size: 1.0em;">'''原因：{{{reason|在此处添加原因}}}'''</span></div></center><br/>
+<noinclude>

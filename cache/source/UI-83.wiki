@@ -1,0 +1,34 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-83Placeholder.gif|frameless|link=UI-83]]
+|entity_image=UI-83.webp
+|previous_entity=[[UI-60]]
+|next_entity=[[UI-110]]
+|appears_at=I-083+
+|type=Fallbacker
+|damage=Instant Death.
+|related_monsters=[[A-85]]<br>[[D-120]]
+|sound1=<center>Active '''Moderated'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:UI-83Ambiance.mp3]]</center>}}
+
+== Description ==
+'''UI-83''' is the 5th entity you may encounter within [[Section Interchange]], more info below.
+
+== Behavior ==
+When '''UI-83''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+
+'''UI-83''' will appear from the front, staying infront the door for a short while before rushing back, it will Despawn past voidwall, overall works very similar to [[A-85]].
+
+== Strategy & Tips ==
+Hide as soon as you see him, since Claustrophobia takes an extremely long time to attack when in [[Section Interchange]].
+
+== Trivia ==
+* Like most UI entities, '''UI-83''' was added as a joke.
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

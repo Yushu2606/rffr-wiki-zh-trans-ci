@@ -1,0 +1,15 @@
+<includeonly><infobox type="Quest">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+		<data source="start"><label>起始</label></data>
+		<data source="end"><label>结束</label></data>
+		<data source="prerequisites"><label>前置条件</label></data>
+		<data source="level"><label>等级</label></data>
+		<data source="location"><label>位置</label></data>
+		<data source="rewards"><label>奖励</label></data>
+	<group layout="horizontal">
+		<header>任务进度</header>
+		<data source="previous"><label>上一个</label></data>
+		<data source="next"><label>下一个</label></data>
+	</group>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Quests]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

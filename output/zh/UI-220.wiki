@@ -1,0 +1,36 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-220Placeholder.png|frameless|link=UI-220]]
+|entity_image=220.png
+|previous_entity=[[UI-200]]
+|next_entity=[[UI-246]]
+|type=反弹者
+|appears_at=I-220+
+|damage=秒杀
+|related_monsters=[[A-120]]<br>[[D-180]]
+|sound1=<center>已激活 '''已审核'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI220Scream.mp3]]</center>}}
+
+== 描述 ==
+'''UI-220'''是你在[[Section Interchange|交汇区]]可能遇到的第10个实体，更多信息如下。
+
+== 行为 ==
+当'''UI-220'''生成时，它会播放名为“Horror Race”的乐曲，和其他所有存在于I区的实体一样。如果当前有更多实体出现，它会播放同一首歌，但音高更高、速度更快。
+
+它会从后方出现并冲向当前房间，撞到门后会往回冲刺，这个过程会重复数次，同时发出响亮的尖叫，最终在其生成点消失。
+
+== 对策与提示 ==
+一听到它的尖叫就立刻躲藏，直到“Horror Race”的音量降低、表明当前没有活跃实体时，再离开你的躲藏点。
+
+== 冷知识 ==
+* 和大多数UI实体一样，'''UI-220'''是作为玩笑内容加入的。
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Rebounder]]
+[[Category:Rusher]]
+[[Category:Super Epic Mode]]
+[[Category:Section UI]]

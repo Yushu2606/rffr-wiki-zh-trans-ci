@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px lime, -1.5px 0.66px 2px lime; color:black;">Glongoflorp-60</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity|entity_name=Glongoflorp-60
+|entity_image=gflorp-60.png
+|appears_at=仅可由Admin召唤生成
+|nicknames=Joke M-60
+|behavior=与[[M-60]]行为完全一致，区别是Oblivion不会在它打算检查的柜子上标记叉号
+|speed=快
+|damage=秒杀
+|gun_effect=无
+|claustrophobia=否
+|locker_snipe=否
+|related_monsters=[[M-60]]（机制类似）<br>[[A-20ii]]（机制类似）
+|sound1=<center>生成</center><center>[[File:GL60spawn.mp3]]</center>
+|sound2=<center>远距离环境音</center><center>[[File:GL60far.mp3]]</center>
+|sound3=<center>近距离环境音</center><center>[[File:GL60close.mp3]]</center>}}
+
+== 描述 ==
+Glongoflorp-60是'''Rooms: Found Footage: RENOVATED'''中的一个''Admin实体''。
+
+== 外观 ==
+Glongoflorp-60看起来是一张带有荧光绿描边的脸，神情悲伤，长着荧光绿的牙齿和带黑色瞳孔的荧光绿眼睛。
+
+== 行为 ==
+当它被Admin召唤生成时，会先播放一段爆炸声效，随后高速冲向当前房间，无论如何都会破门。破门后，它会快速移动到随机的柜子处进行检查。Glongoflorp-60检查完柜子后就会消失。
+
+== 攻略与技巧 ==
+* 如果Glongoflorp-60生成时你正处于主房间中，可以打开房门让它转而检查那个房间。
+** 永远躲在之前的房间里，否则你所在的柜子有可能被检查
+* 看到屏幕晃动时立刻躲藏，因为它不会触发[[Claustrophobia|幽闭恐惧]]。
+
+== 冷知识 ==
+* '''Glongoflorp-60'''的设计参考自《Interminable Rooms》的[[w:c:r-interminable-rooms:U-10#Original|虚构U-10]]，仅将色相调整为绿色。
+
+== 画廊 ==
+<gallery>
+Placeholder.webp
+</gallery>
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]

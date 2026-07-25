@@ -1,0 +1,54 @@
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-85 (Rewind)</span>}}
+{{Redesign|Helical|1. Receiving an overall better design<br>2. It's current design is just a recolor}}
+{{InfoBox:Entity
+|entity_name=SHA-85
+|entity_image=<gallery>
+SHA85NewWatermark.png|Upcoming Design
+Sha85ani.gif|Animation Recreation
+Sha85.png|Design
+</gallery>
+|caption-entity_image=Train dude
+|previous_entity=[[SHA-60]]<br>[[LAPSE-60]] ([[Alpha & Shadowpocalypse|A&SP]])
+|next_entity=[[SHA-120]]
+|nicknames=Rewind
+|appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Rusher<br>Rebounder<br>Shadow
+|locker_snipe=Yes
+|gun_effect=No Shadow can be shot
+|behavior=Spawn in the main room, teleport to the void wall and rush multiple times|speed=Very fast
+|damage=Instant Death (6500 DPS) (??? DPS snipe)<br>25~ (Shadow Plague)
+|related_monsters=[[A-85]]<br>[[A-85i]]
+|claustrophobia=No
+|sound3=<center>Near</center><center>[[File:Sha85ambi.mp3]]</center>
+|sound1=<center>Boss Start</center><center>[[File:BossSpawn.mp3]]</center>
+|sound2=<center>Far</center><center>[[File:SHA-85Far.mp3]]</center>
+|sound5=<center>Boss Despawn</center><center>[[File:BossDespawn.mp3]]</center>
+|sound4=<center>Despawning</center><center>[[File:Sha-85Dying.mp3]]</center>|sound6=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
+
+== Description ==
+'''SHA-85''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[A-85]].
+
+== Behaviors ==
+SHA-85 will spawn in front of the main room's door and wait there for about 2 seconds before teleporting away. After 18-22 seconds, or after the door is opened by the player, SHA-85 will either rush from behind the void wall, or from behind the main room's door; either way breaking it down. SHA-85 can rebound to a maximum of 8 times, each doing the same thing. On his final rebound, he will rush from the back one final time to the main door after 1.75 seconds, slamming into it and charging up before finally despawning. If the player is seen while entering/exiting a hiding spot, they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime.
+
+== Strategy & Tips ==
+* SHA-85 does not harm you in his initial spawn phase where he's at the main door, but any time afterwards he can easily kill you.
+** You should still hide from him when he is in this state, as he will mask [[SHA-2]] completely if it happens to spawn with '''SHA-85'''.
+* SHA-85's rebounds are based off of a timer, so after each rebound, count to 20 before hiding again.
+* His locker-snipe does high DPS but isn't lethal, so hiding late by accident is punishing but not run-ending. 
+* It is Recommended that you do not open doors when he's active, since it may spawn [[SHA-3]].
+** This does not apply to A&SP, as [[SHA-3]] can only spawn when there's no other entities active.
+* Every time SHA-85 rebounds, keep your ears open for [[SHA-200]]'s spawn sound, so you can know if it spawned and prepare.
+
+== Trivia ==
+*SHA-85 was originally an admin entity that can only be spawned by commands.
+**SHA-85 originally rebounded 50 times before being knocked down to 8 while in the process of being turned into a naturally occurring entity.
+*<s>SHA-85 is forced to spawn at opening door 333 of the Shadow Challenge if you haven't already encountered him once.</s>
+**<s>If [[SHA-3]] breaks door 333 of the Shadow Challenge, it will instead spawn in the next room the player opens, if not the next 2 rooms.</s>
+**<s>Interestingly, SHA-85 isn't guaranteed to spawn in the [[Alpha & Shadowpocalypse]] modifier.</s>
+***This is no longer true.
+*SHA-85 is the fastest Shadow entity. However its not confirmed if [[SHA-140]] is faster.
+*Although extremely rare, after each rebound, there is a slim chance SHA-85 can spawn [[SHA-200]].
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Miniboss]]

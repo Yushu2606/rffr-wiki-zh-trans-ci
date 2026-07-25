@@ -1,0 +1,36 @@
+{{Removed|reason=3/13/26完美活动（Perfection Event）为限时活动，现已结束。}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{EventInfobox
+|image=ShadowScreen.jpg
+|next_event=[[April Fools 2026|2026年愚人节活动]]
+|previous_event=[[Perfection Event 2/13/26|2/13/26完美活动]]
+|timeline=2026年3月13日 - 2026年3月24日
+|rewards=无
+|entities=[[Overseer]]<br>[[LAPSE-2]]<br>[[LAPSE-60]]<br>[[LAPSE-200]]}}
+
+== 新增与改动 ==
+* [[Oblivion]]在本次活动中被替换为[[Overseer]]，导致[[M-60]]和[[M-60i]]不会在各种柜子上留下标记（已回调）
+* 新增了[[LAPSE-2]]、[[LAPSE-60]]与[[LAPSE-200]]。
+* [[E-10]]和[[E-60]]解除限制，有1/5000的概率入侵[[Section A|A区]]、[[Section D|D区]]和[[Section M|M区]]（已回调）
+* 所有来自[[Alpha & Shadowpocalypse|阿尔法与暗影天启]]的实体都有较低概率入侵你的逃生局（已回调）
+<br><br><br><br><br><br><br><br>
+
+== 新增/回归实体 ==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-2.png|center|150px|link=LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.webp|center|150px|link=E-60]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}}}
+
+== 画廊 ==
+<gallery>
+PerfectionThumb.webp|游戏缩略图
+</gallery>

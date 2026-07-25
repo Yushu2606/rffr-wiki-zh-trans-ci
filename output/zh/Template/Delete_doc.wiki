@@ -1,0 +1,6 @@
+;说明
+:本模板用于标记待删除的页面，将其归类至[[:Category:Candidates for deletion]]。
+;语法
+:在要删除的页面上键入<code>{{t|delete}}</code>。'''
+
+<includeonly>[[Category:Notice templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

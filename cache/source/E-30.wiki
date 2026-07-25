@@ -1,0 +1,94 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #FFEB3B; color: #000000;">E-30 (The Reticient Rusher)</span>}}
+<tabber>
+|-|Section E=
+{{NoteBox|note=Not to be confused with E-30 from '''Rooms Re-Established''' or with E-30 from '''Rooms: Found Footage: Revisited''' for having the same name}}
+{{SectionEStub}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=[[File:E-30Title.png|frameless|link=E-30]]
+|entity_image=<gallery>
+NewE30.png|Current Design
+E30.png|Pre release Design
+</gallery>
+|previous_entity=[[E-10]]<br>[[E-10i]]
+|next_entity=[[E-30i]]<br>[[E-45]]
+|claustrophobia=No
+|appears_at=E-030+
+|type=Rusher
+|gun_effect=TBA
+|behavior=Will Rush to the door and despawn
+|speed=Moderate
+|damage=??? DPS
+|nicknames=The Reticient Rusher
+|locker_snipe=Yes
+|related_monsters=[[A-20i]]
+|sound1=<center>Ambience</center><center>[[File:E30ambi.wav]]</center>|sound2=<center>Jumpscare</center><center>[[File:E-30ScareSfx.mp3]]</center>}}
+
+
+<h2>Description</h2>
+'''E-30''', Formally '''M-30''', will be the 2nd entity you will encounter in [[Section E]], more info shown below.
+
+<h2>Mechanics</h2>
+Once Spawned, '''E-30''' will appear behind the void wall and begin rushing to the main room at a moderate without warning, once it hits the door, it will Despawn.
+
+<h2>Strategies</h2>
+Since '''E-30''' doesn't give any warning to hint that it spawned, you will need to keep your ears open and hide immediately after you hear him.
+
+<h2>Trivia</h2>
+* '''E-30''' was originally named M-30, before being replaced by [[M-22]] and moved to [[Section E]]
+* '''E-30''' used OG RFF [https://rooms-found-footage.fandom.com/wiki/I-30 I-30's] old design as a Placeholder during development.
+* '''E-30''' can't break the door if it needs a keycard to be opened and he'll just go through without breaking it.
+<h2>Lore</h2>
+* '''E-30''' is M-30 but in a drone type state due to an escape attempt that would kill M-30. This would in turn make him a drone.
+* '''E-30''' possibly got in the [Section E] during his successful escape attempt after he was killed and made into this sector.
+
+<h2>Gallery</h2>
+<gallery>
+I30Vote.png|The community vote that originally Removed '''M-30'''
+E30Vote.jpg|The community vote that ultimately led to the readdition of '''M-30''' as '''E-30'''
+E30Rushing.gif|'''E-30''' seen rushing in [[Section E]]
+E30OldScare.gif|Pre-Release '''E-30's''' jumpscare
+30 & 30i trail.webp|'''E-30''' trail particle
+</gallery>
+
+|-|Section UI=
+'''Section UI:'''
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-30
+|entity_image=Oldi30.png
+|previous_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+|next_entity=[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+|appears_at=I-430+
+|type=Rusher
+|claustrophobia=No
+|behavior=Will rush to the main room without warning, despawning at the door
+|speed=Moderate
+|damage=Instant Death
+|related_monsters=[[A-20i]]
+|sound1=<center>Ambience</center><center>[[File:I30Ambi.mp3]]</center>|nicknames=The Reticient Rusher
+|sound2=<center>Jumpscare</center><center>[[File:E-30ScareSfx.mp3]]</center>}}
+
+<h2>Description</h2>
+'''I-30''' is the 1st Entity present within the final 100 rooms of [[Section UI]], more info on '''I-30''' shown below.
+
+<h2>Mechanics</h2>
+Once Spawned, it will appear behind the void wall and begin rushing to the main room at a moderate without warning, once it hits the door, it will Despawn.
+
+<h2>Strategies</h2>
+* Since '''I-30''' doesn't give any warning to hint that it spawned, you will need to keep your ears open and hide immediately after you hear him.
+* if [[M-60#Section_UI|I-60]] is active,  you should either stay hiden for the entire encounter, or if in a previous room, exit your locker and look back at the previous rooms, since [[M-60#Section_UI|I-60]] will completely block the sounds coming from '''I-30'''
+
+<h2>Gallery</h2>
+<gallery>
+OldI30Jump.gif|Jumpscare
+</gallery>
+</tabber>
+
+{{EntityNavBox}}
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]
+[[Category:Entities]]
+[[Category:Section E]]

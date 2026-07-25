@@ -1,0 +1,62 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: white;"> Void (Sovereign)</span>}}
+{{ArticleBackground|File=Voiding3.png}}
+{{InfoBox:Entity
+|entity_name=Void
+|entity_image=<gallery>
+NewVoid.png|Voids normal form
+Voidwall.jpg|Void's Wall form
+Humanvoid.jpeg|Void's Corporeal Form
+</gallery>
+|nicknames=The Sovereign
+|appears_at=A/D/M/E-010+ (Wall from)<br>A/D/M/E-1200+ (Void-90 from)<br>Anywhere (Voideyes)
+|type=A-90 clone
+|behavior=Despawns the previous rooms and kills players that touch it (Wall form) Jumpscares the player (Jumpscare form)<br>Tells the player to stop, dealing 90 damage if they don’t stop (Void-90 form)
+|speed=TBA
+|gun_effect=None
+|damage=Instant Death (Wall form)<br>0 (Voideyes)<br>90 (V-90 form)<br>60 (Corporeal form)
+|related_monsters=[[Overseer]]}}
+
+== Description   ==
+Void is an entity with 4 different forms(?) which are listed here.
+
+== Mechanic ==
+As mentioned above, Void has 4 different forms he can use against players.
+
+<tabber>
+|-|Void Wall=
+'''Void Wall:'''<br>The void will appear 10 rooms behind. If a player opens a door, the void will consume the room in front of it. If a player touches the void, they will instantly die.
+
+|-|Void eyes=
+'''Void eyes:'''<br>There’s a small chance when after opening a door, the void will appear in attempt to scare the player, then the void goes back quickly to despawn. This is the only form that cannot kill players.
+
+|-|Void-90=
+'''Void-90:'''<br>After passing door 1200 in any section, The void has a chance to appear. When he does he will appear on the players screen, after a second or two, you will get the message “STOP”, if the player stops they are safe and can keep going, but if the player refuses to stop, void will attack them and deal heavy damage to the player. If the player dies the void in this form, they get promoted with a unique jumpscare.
+
+Void-90 will also attack players at the front if they are leaving someone behind during Multi Player
+
+|-|Corporeal Form=
+'''Corporeal Form:'''<br>look at [[Player Controlled#Corporeal_Void|Player Controlled]]
+</tabber>
+
+==Trivia==
+
+* Void's old face can still be seen on the [[Unnamed Sector]]'s death screen.
+
+==Gallery==
+<gallery>
+File:Voideyesingame.jpg|Old Void Eyes seen ingame
+File:Void.png|Void's Old Design
+File:NewVoidStop.png|Void-90's Stop Sign
+File:VoidHand.png|Void-90's Hand for when it attacks the player
+File:VoidSlash.png|Void-90's Slash for when it atacks the player
+File:Unnamed Sector death screen.jpeg|Void's old face still seen ingame ([[Unnamed Sector]] death screen)
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Stationary]]
+[[Category:Scarer]]
+[[Category:Entity Type Mix]]
+[[Category:Harmless]]

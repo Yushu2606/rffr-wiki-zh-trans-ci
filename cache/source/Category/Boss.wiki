@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Boss''' Entities are any entities that start have either extremely complex mechanics and/or take a long time to beat. Usually these entities are proven to be bosses by the Developers.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

@@ -1,0 +1,6 @@
+;说明
+:本模板用于标注使用 MIT 许可证的图片。
+;语法
+:在图片信息页输入<code>{{t|MIT}}</code>即可。
+
+<includeonly>[[Category:Image license templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

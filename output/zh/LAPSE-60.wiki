@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60</span>
+|entity_image=L-60.png
+|previous_entity=[[SHA-60]]<br>[[LAPSE-3]]
+|next_entity=[[SHA-85]]<br>[[LAPSE-200]]
+|nicknames=???
+|gun_effect=所有过失实体均无法被枪击
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=冲刺者
+|claustrophobia=否
+|behavior=悄无声息地冲向门
+|speed=快
+|locker_snipe=是
+|damage=秒杀
+|related_monsters=[[A-60i]]<br>[[SHA-60]]}}
+
+== 描述 ==
+'''LAPSE-60'''是你可能遇到的众多过失实体之一，是[[SHA-60]]的过失变种。
+
+== 行为 ==
+一旦'''LAPSE-60'''生成，它会以与SHA-60大致相同的方式冲向主房间，但声音稍小。探测它的唯一方法是留意玩家屏幕上出现的少量静电噪点，或是倾听微弱的音效。当LAPSE-60抵达当前房间后，它会破门进入房间中央停留，行为与普通A-60类似。片刻之后，它会缓缓冲向下一扇门并撞在门上，不会破坏房门而是直接消失。它有概率生成SHA-2。
+
+== 攻略与提示 ==
+* 留意任何意外出现的静电噪点，需快速躲藏，但不要立刻躲藏。
+
+== 冷知识 ==
+* [[Overseer]]在制作'''LAPSE-60'''时参考了[[A-60i]]的设计，这一点可以从[[Overseer|A-60i的Overseer死亡提示]]中得到验证。
+
+== 实机演示 ==
+https://youtu.be/6VbYGZJKSZM?si=9wDpHzrGp-cRu8DF
+
+== 画廊 ==
+<gallery>
+LAPSE-60.png|LAPSE-60 从柜子内部被观测到的画面
+</gallery>

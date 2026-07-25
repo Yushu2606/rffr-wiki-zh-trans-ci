@@ -1,0 +1,297 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #8700FF; color: #8700FF;">SHA-000 (Overseer)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=Overseer
+|previous_entity=[[SHA-300]]
+|entity_image=<gallery>
+Overseer.png|Normal Form
+OverseerjumpForm.jpg|Jumpscare Form
+CorporealOverseer.png|Corporeal Form
+</gallery>
+|appears_at=When you die to something/Anytime after 750.
+|nicknames=The Overseer<br>Shadow-000
+|behavior=Same as [[Oblivion]], but barely helps you/Tries to pull you down into a pentagram.
+|damage=Instant Death (SHA-000)
+|speed=Stationary
+|gun_effect=No Shadow can be shot
+|related_monsters=[[Oblivion]]<br>[[Void]]
+|sound1=<center>Main Theme</center><center>[[File:OverseerMain.mp3]]</center>
+|sound2=<center>Death Screen Theme</center><center>[[File:OverseerDeath.mp3]]</center>
+|sound3=<center>SHA-000 Minigame Soundtrack</center><center>[[File:SHA0Minigame.mp3]]</center>}}
+
+==Description==
+'''Overseer''' is a entity that replaces [[Oblivion]] during any Perfection Event, he is responsible for the creation of the entities within the [[Shadow Challenge]] and [[Alpha & Shadowpocalypse]], hes also responsible for the revival of [[M-7]] and [[D-180]], now known as [[SHA-7]] and [[SHA-180]].
+
+==Behavior==
+<tabber>
+|-|SHA-000=
+'''SHA-000:'''<br>Is exclusive to the [[Alpha & Shadowpocalypse]],  and Will have a chance to spawn when a door is opened after 750, if it does spawn, it will surround the player in chains, attempting to pull them down into a pentagram, the player has to click on numbered orbs that appear on the screen to regain strength, '''SHA-0''' will despawn after 30-90 orbs have been clicked, the player is immediately killed if the strength bar reaches 0.
+
+If there are multiple players in a run, 1 player will randomly be Choosen by '''SHA-0''', the choosen player has to kill all other players by touching them before a timer ends to survive, The choosen player will be immediately killed if they fail to kill everyone within the given time.
+
+|-|Normal Form=
+'''Normal:'''<br>It will appear once you die to an entity, tho unlike [[Oblivion]], they will barely help you, sometimes giving you misinformation.
+
+They will talk about how Perfect their creations are if you die to any entity that reside within the [[Shadow Challenge]], or the [[Alpha & Shadowpocalypse]].
+
+|-|Jumpscare Form=
+'''Jumpscare Form:'''<br>Very similar to [[Void|Void's "Void Eyes"]] form, it will appear behind the door, almost immediately disappearing into the next door.
+
+|-|Corporeal Form=
+'''Corporeal Form:'''<br>Look at [[Player Controlled#Corporeal_Overseer|Player Controlled]]
+</tabber>
+
+==Trivia==
+* Overseer's Death Screen theme is "The Binding of Isaac" by Danny Baranowsky on YouTube, But slowed and pitched down.
+** https://youtu.be/of_2Bfh7ZhA?si=Vu-PqtHm-P7HMgyZ
+
+==Lore==
+* Overseer is the result of a willing humanoid being a test subject to the shadow infection.
+** Said humanoid gained a lot of power from the infection, creating Overseer.
+
+==Death Messages==
+<tabber>
+|-|Section A=
+<h2> [[A-20]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were greeted by A-20.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''That sound you heard doesn't mean much, A-20 isn't here to cause harm.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''These lockers are the true deadly things here, avoid these at all costs.'''</span>
+
+<h2> [[A-20i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Yeah because *this* was necessary..'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You met A-20i.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's like the blue one, but faster. How original.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just do whatever you would normally do for the blue one.'''</span>
+
+<h2> [[A-60]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I particularly hate this one. Imperfect..'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You found A-60, known as "Multi-Faced Monster".'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''A-60 is one of the weaker ones.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''My friend, my creations are much better than this.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''They're perfect. Perfect in every way.'''</span>
+
+<h2> [[A-60i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''A-60i greeted you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I don't know why this one has to exist.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Maybe I'll take some... inspiration... from this one later.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's harmless. Just ignore him.'''</span>
+
+<h2> [[A-85]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You met A-85.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I took much better care of him than those moronic executives at S.P.A.W.N.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's incomplete, I can feel it.'''</span>
+
+<h2> [[A-85i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This one. It's better, but he's not right.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You found A-85i, known as "Banshee."'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's incomplete. I can just feel it.'''</span>
+
+<h2> [[A-135]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just because he's Void's "special boy" doesn't mean he gets special treatment.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I don't even want to name this one.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He disgusts me. He thinks he's like us.'''</span>
+
+<h2> [[A-135i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Oh great. he has a friend.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just do whatever you do with the other one..'''</span>
+
+<h2> [[A-200]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I've never exactly understood this one...'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered A-200, known as "Insadæ", for some reason. I've stopped caring about names at this point.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This one is *too* imperfect, far from correct for my standards.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''These entities made from natural elements just don't exactly work for me.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''After all, breathing in oxygen shouldn't be deadly.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''There really isn't any possible way you could die to pure oxygen. I recommend you take my word for next time.'''</span>
+
+<h3> [[A-200|A-200's trap]] </h3>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Well, well, well...'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered A-200, known as "Insidæ" for some reason. Apparently, this guy is clever at setting traps.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Maybe, just maybe, this guy *could* be perfect.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...I don't understand how pure oxygen could kill weak humans like you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''But after all, breathing in oxygen shouldn't be deadly.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''There really isn't any possible way you could die to pure oxygen. I recommend you take my word for next time.'''</span>
+
+<h2> [[A-200i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You found A-200i, known as "Insidæ Prime."'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Do the same thing you'd do with the regular non-blue one. They're a carbon copy.'''</span>
+
+|-|Section D=
+<h2> [[D-5]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You met D-5.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Stay in his gaze. he will kill those that hide away from him or those he can't see.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Oh, and shoot him every chance you can get. He'll give you a free NVCS-13793-C.'''</span>
+
+<h2> [[D-5i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This ungrateful eyeball thinks he can reject my perfection.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I'll perfect him one of these times, and he won't fight back again.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I'll make sure of it.'''</span>
+
+<h2> [[D-20]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Ah, the easiest one to ignore.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were observed by D-20.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...You should get near it, it will not hurt you like the others.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He does like company, so your presence is well-appreciated.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Remember, if there are ever many of them in one area, you should be grateful.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Many of them account for much more healing.'''</span>
+
+<h2> [[D-35]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''It's rather a shame that this guy thinks he can barge into my territory and manage to get away.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''His perfection was his own doing.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This guy is a moron. He's not even worth my time.'''</span>
+
+<h2> [[D-35i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You found D-35i.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This one is just another carbon copy of the most imperfect.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Bothering with this guy is a hassle, and is not worth my time.'''</span>
+
+<h2> [[D-55]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered D-55.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I lended him my power, and he accepted. ...A strange turnover to his kind.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I like him, despite his imperfections. He knows his place here.'''</span>
+
+<h2> [[D-60]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Your body was ruptured by D-60.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Although he may refer to himself as the Darkness... The darkness he is not.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''It is safe to leave when he is stationary, he will not hurt you like the others while in that state.'''</span>
+
+<h2> [[D-60i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You met D-60i.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Congratulations, you've just wasted your time.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I am not the entity "Oblivion", so i will not bother to explain this one. It is not worth my time.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I wish to see you later, {User}.'''</span>
+
+<h2> [[D-120]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You have become one with D-120.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Despite what you may think, this is a good thing.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''It's rather a shame that his imperfections get the best of him. He fought to stay Imperfect.'''</span>
+
+<h2> [[D-140]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were caught by D-140.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's just short of perfect, but he's still wrong.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You should hide in blue lockers or white cabinets, he likes surpises.'''</span>
+
+<h2> [[D-200]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered D-200.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He tries too hard for my liking, and is too flashy for his own good.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...Do NOT let him catch you, it only feeds his ego more than necessary.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You should simply hide in these lockers, until he decides to announce his leave.'''</span>
+
+|-|Section M=
+<h2> [[M-22]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were sensed by M-22.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''M-22 has a special third eye that allows him to see through these metal death boxes that you call lockers.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Simply hide in or out of his sight, it does not matter.'''</span>
+
+<h2> [[M-60]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I'm willing to assume that you miss your friend.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were consumed by M-60.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Unlike your friend "Oblivion". I'm not on your side, {User}.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Consequently, I will not be helping you like he does.'''</span>
+
+<h2> [[M-60i]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I'm assuming that you're missing your dear friend.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You were consumed by M-60i.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Unlike your friend "Oblivion". I'm not on your side, {User}.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Consequently, I will not be helping you like he does.'''</span>
+
+<h2> [[M-70]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''M-70 was alerted to your location.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's a lot like D-200, He thinks he holds power here.'''</span>
+
+<h2> [[M-120]] </h2>
+
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''M-120 met you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I don't know why, but he has some dumb fantasy about how he can be who he wants in an attempt to catch you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''... You should just leave him and his identity crisis alone.'''</span>
+
+<h2> [[M-134]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Well, this one is just sentient fire. Not much to say about this one.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''M-134 ignited you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You're really just dead. Not much to go about this.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just don't do what you were doing that might've caused M-134 to ignite you.'''</span>
+
+<h2> [[M-150]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Yes, we heard your complaints about this guy.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He's perfect in our company now.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''For this, hide in the lockers that share the same color as M-150.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...or don't hide at all, that decision is up to you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just remember that I will not judge for the decisions you make.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...That's a lie actually.'''</span>
+
+<h2> [[M-200]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''M-200 collected you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''My minions tried to bring this one to me, but he's too slippery and he gets away.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''His eletric shock isn't enough to kill you, nor is it painful.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''With that being said, hiding in blue lockers against it will not matter.'''</span>
+
+|-|Section E=
+<h2> [[E-10]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''E-10 had- wait what?'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You are NOT where you are ment to be.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You aren't perfect. Go back to your home.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You disappointment.'''</span>
+
+<h2> [[E-60]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''"The Breacher", they called you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You don't breach anything. The most you do is fake out and ambush.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''They should call you . "The Ambusher".'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''But I don't get what I want because I'm "lame" and "unimportant".'''</span>
+|-|Misc=
+<h2> [[Claustrophobia]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Seems like you paid a visit to "Claustrophobia."'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Be sure to go visit him. I promise you that he is of great use to you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Stay in lockers for as long as possible. It will only help.'''</span>
+
+<h2> [[Mouth]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...Mouth has consumed you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This one isn't like the rest of them.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''it seems to be able to transcend the boundary of being limited to just one section... much like my perfections are able to.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He could kill you in an instant if he desired to do so, it's baffling to me that he decides not to do this...'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I couldn't even convince his perfected self to play to his advantages.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''He possesses a level of self-awareness that only the others could dream of...'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''...He worries me.'''</span>
+
+<h2> [[Void]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''"The void". Being his normal annoying self, killed you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Do not fall into any traps placed by him, he only seems a bigger ego.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Just ignore his presence altogether, it's for the better.'''</span>
+
+<h3> [[Void|Void-90]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''"Void" caught up to you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Apparently, he gets bored watching you go through these trials and surviving each one.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Consequently, he decides to start attacking past room 1000.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Stop moving whenever you see him, don't let him go more than he already has.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''If anyone can help you get this mistake out of here, it would be you. Don't get him gain more from you.'''</span>
+
+|-|Other=
+<h2> [[Alpha & Shadowpocalypse|Shadow Entities]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You met my creations. my perfections.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''They are just perfect in every way, aren't they?'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Every single one of them. My doing.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''And all thanks to you for helping them grow.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Maybe if you just give in to us, it would end better off for you.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I'll see you back soon, {User}.'''</span>
+
+<h2> <span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''SHA-0'''</span> </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Hello, {User}.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Seems as if you have fallen into my hand.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I won't be explaining myself to you, you don't deserve to know.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Good luck.'''</span>
+
+<h2> [[GOD-200]] </h2>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Uhhh...'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''Huh????'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''well, either way, god200 is our savior.'''</span>
+</tabber>
+
+==Gallery==
+<gallery>
+OverseerJumpingame.jpg|Overseer's Jumpscare form seen ingame.
+SHA-0 minigame.png|SHA-000's single player minigame starting
+SHA-0 minigame 2.png|SHA-000's Single player minigame
+Sha0MultiPlayer.jpg|what the player sees after being chosen by '''SHA-000''' during multi player
+</gallery>
+
+[[Category:Entities]]
+[[Category:All Sections]]

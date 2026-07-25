@@ -1,0 +1,4 @@
+;说明
+{{t|tocright}} 会强制页面自动生成的目录浮动到页面右侧，以优化页面排版。
+
+<includeonly>[[Category:General wiki templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

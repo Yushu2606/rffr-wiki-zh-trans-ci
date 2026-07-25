@@ -1,0 +1,53 @@
+{{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #000000, #545454, #8B8B8B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-250 (Tumult)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+<blockquote>'''"There will be nothing left"''' --D-250 in Executive Teaser 5</blockquote> 
+{{SectionDStub}}
+{{InfoBox:Entity
+|entity_name=[[File:D-250title.webp|frameless|link=D-250]]
+|entity_image=D250.png
+|previous_entity=[[D-200]]
+|next_entity=[[Mouth|D-300]]<br>[[M-22]]
+|nicknames=Tumult
+|locker_snipe=Yes
+|appears_at=D-250+
+|claustrophobia=No
+|type=Stationary (mostly)
+|behavior=Shakes screen as player gets close, shoots orbs that damage even while hidden when reaching target room and breaks door when finished.
+|gun_effect=None
+|speed=None to Slow
+|damage=75 DPS (Entity) <br>
+25 (Orbs)
+|related_monsters=}}
+
+==Description==
+'''D-250''' is a D Section Entity, being the last section locked entity in the D Section. It was shown in the 5th teaser of the Executive update.
+
+==Mechanic==
+'''D-250''' will spawn 3 rooms infront of the currently opened room. The closer the player gets to its location, the more their screen will shake, starting with a gentle movement that is barely noticeable.
+
+When reaching the targeted room, the entity will appear from the ground and generate orbs around it. After a few seconds, these orbs will be flung to random places of the current room, exploding and dealing damage in an area. These orbs damage even while hidden.
+
+When all orbs are thrown, '''D-250''' will slam against the next door, breaking it regardless of type (Depth or Derelict).
+
+== Strategy & Tips ==
+
+* '''D-250'''<nowiki/>'s ambience can be clearly heard when it is about to attack. Keep track of the shake effect, and when the ambience becomes loud enough to hear, quickly run back and stay as far from the next room as possible.
+* DO NOT hide in the most recent room, as '''D-250''' has enough orbs to easily kill a player that doesn't have any Max Health increase before they can heal.
+
+==Trivia==
+* D-250's design took about a day to make.
+* The particles of it are reused from a scrapped concept by Collese for the game
+** The particles were meant for [[E-245]], but were used for D-250
+** The old orb design for D-250 was going to be [[E-245]]'s design but was changed.
+* [https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse Update Executive Teaser 5]
+
+==Gallery==
+<gallery>
+File:D250Orb.png|Orb
+File:Orb.png|D-250's old orb design/concept design
+File:D-250 jumpscare.gif|D-250's jumpscare
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]

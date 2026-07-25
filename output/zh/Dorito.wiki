@@ -1,0 +1,47 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|previous_entity=[[CAT-120]]
+|next_entity=[[A-200ii]]
+|entity_name=[[File:Doritos.png|frameless|link=Dorito]]
+|entity_image= [[Dorito.png|外观设计]] 
+|caption-entity_image=喵 :3
+|appears_at=在[[Super Epic Mode|超级史诗模式]]中，A-135之后的任意位置。
+|nicknames=CAT-135
+|type=后退者<br>柜子检查者
+|behavior=柜子检查者
+|damage=秒杀
+|speed=15 Studs/秒（红区中为50 Studs/秒）
+|related_monsters=[[A-135]]<br>
+[[A-135i]]
+|claustrophobia=是
+|sound1=<center>生成</center><center>[[File:DoritoSpawn.mp3]]</center>
+|sound2=<center>鼓声</center><center>[[File:Slowidiotdrummer.mp3]]</center>
+|sound3=<center>接近音效</center><center>[[File:CatEntity.mp3]]</center>
+}}
+
+==描述==
+[[Dorito|多力多滋]]的外观是一只眼睛发亮的胖橘猫。
+
+==机制==
+多力多滋会在当前房间的门后方生成，同时发出鼓声。3-5秒后，多力多滋会破门而入，同时播放一段有人说「MMM Dorito」（嗯~多力多滋）的音效，随后它会检查当前房间及前2个房间里的所有灰色柜子。检查完毕后多力多滋会沿路返回，碰到虚空墙就会消失。任何被它发现或靠近它的玩家都会被多力多滋跳杀。
+
+==数据==
+击杀半径：22 studs
+
+命中类型：不会透过柜子命中玩家。
+
+追踪类型：视线追踪。                          
+==如何存活==
+与[[A-135]]的应对策略相同。
+
+==你知道吗==
+*'''多力多滋'''被设计为会模仿[[A-120]]的鼓声，这意味着玩家会把它错认成[[A-120]]进而躲进灰色柜子导致死亡。
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]

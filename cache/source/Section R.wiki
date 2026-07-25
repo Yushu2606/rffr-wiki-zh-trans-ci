@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime, 0 0 65px lime; color: black;">Section R (Radiation)</span>}}
+{{Upcoming}}
+{{SectionInfoBox
+|image=RDoor.jpg
+|previous_section=[[Section E]]
+|next_section=???
+|entity_amount=4 (As of Now)
+|i_entity_amount=?
+}}
+
+==Overview==
+Section R will be the 6th section the player will come across, this section is currently upcoming.
+
+==Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''R-115'''
+(Not The Final Name)
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-200]]
+{{!}}}
+
+==Non Exclusive Entities==
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
+{{!}}}
+
+==Rooms==
+<gallery>
+XConceptRooms.png|A concept room from when the section was still known as X
+</gallery>
+
+==Lore==
+where entities are made, also being used for power if [[Section M]] ever fails
+
+==Strategies==
+*TBA
+<!-- Not released -->
+
+==Trivia== 
+
+*Section R's old name was "Section X".
+*According to the devs, If the game suppresses past the Publishing Requirements (most ass update in history), R Section will be upcoming
+**However its not gonna be the next major update according to devs
+
+{{BrowseNavBox}}
+
+[[Category:Sections]]
+[[Category:Upcoming]]
+[[Category:Upcoming Sections]]

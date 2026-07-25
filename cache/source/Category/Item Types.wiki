@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''You may be looking for ''[[Items]]''.'''</center></big>
+----
+There are currently five '''Items Types''', them being <span style="color:blue">Utilities</span>, <span style= "color:red">Weapons</span>, <span style= "color:green">Healing</span>, <span style= "color:Yellow">Artifacts</span>, and <span style= "color:Orange">Salvage</span>.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-1</span>}}
+{{ArticleBackground|File=GAMMABack.webp}}
+{{Stub}}
+{{InfoBox:Entity
+|entity_name=GAMMA-1
+|entity_image=Gamma-1.png
+|next_entity=[[GAMMA-2]]
+|appears_at=仅可由Admin召唤
+|type=暗影<br>冲刺者<br>柜子检查者
+|behavior=与[[SHA-1]]行为相同，但速度更快。
+|speed=非常快
+|damage=秒杀
+|locker_snipe=大概率可以
+|gun_effect=所有Gamma类实体均无法被枪械击中
+|claustrophobia=否（仅会造成延迟）
+|related_monsters=[[SHA-1]]<br>[[LAPSE-1]]}}
+
+== 描述 ==
+'''GAMMA-1'''是[[SHA-1]]的第二个变种，为Admin专属实体。
+
+== 行为 ==
+生成后，它会将随机柜子标为绿色高亮，不过它会高亮整个区的绝大多数柜子，大概率不会给你留下任何藏身点，随后它会以比[[SHA-1]]更快的速度冲向主房间，检查柜子的速度也比[[SHA-1]]更快。
+
+== 攻略与提示 ==
+* 只需躲在未被高亮的柜子或安全点位中即可。
+* 不要被它的绿色高亮标识迷惑，不要躲进高亮的柜子里，它的高亮并不像[[M-60i]]那样是可进入的邀请。
+
+== 冷知识 ==
+待补充。
+
+== 图库 ==
+<gallery>
+File:GAMMA_Entities_Jumpscare.webp|跳杀
+</gallery>{{EntityNavBoxAdmin}}
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Admin Entities]]

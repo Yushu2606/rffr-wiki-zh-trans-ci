@@ -1,0 +1,7 @@
+{{Spacer}}
+'''Stationary''' Entities are any entities that do not move.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+[[Category:Entity Types]]

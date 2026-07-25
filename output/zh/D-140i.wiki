@@ -1,0 +1,64 @@
+{{Headphones}}{{Admin Exclusive}}{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #F80211, -1.5px 0.66px 2px #ff55bb; color: black;">D-140i (狡诈者)</span>}}
+{{InfoBox:Entity
+|entity_name=[[File:D-140iTitle.png|frameless|link=D-140i]]
+|entity_image=<gallery>
+D-140irecreation.gif|动画
+D-140iface1.png|设计1
+D-140iface2.png|设计2
+</gallery>
+|gun_effect=无
+|claustrophobia=否
+|nicknames=Devious（狡诈者）、Koinkerkoink
+|appears_at=仅可由Admin召唤
+|locker_snipe=否
+|behavior=行为与[[D-140]]类似，但会多次反弹并摧毁此前房间内所有躲藏点
+|speed=极快
+|damage=秒杀
+|related_monsters=[[D-140]]<br>[[SHA-140]]
+|sound1=<center>生成</center><center>[[File:D140ispawn.mp3]]</center>
+|sound2=<center>开始冲刺</center><center>[[File:D-140irush.mp3]]</center>
+|sound3=<center>后撤氛围音</center><center>[[File:D-140iAmbience.mp3]]</center>
+|sound4=<center>反弹氛围音</center><center>[[File:D140irebound.mp3]]</center>
+|sound5=<center>近距离氛围音</center><center>[[File:D140iproxi.mp3]]</center>
+|sound6=<center>出现提示音</center><center>[[File:BossSpawn.mp3]]</center>
+|caption-entity_image=
+|type=小首领<br>反弹者<br>柜子检查者<br>
+|sound7=<center>消失</center><center>[[File:D-140iDespawn.mp3]]</center>}}
+
+== 描述 ==
+'''D-140i'''是Admin专属实体，是[[D-140]]的小首领变体。
+
+== 行为 ==
+'''D-140i'''会在门的前方生成，和[[D-140]]一样，一旦发现玩家，会在1-2秒内击杀三个房间范围内的所有玩家，但留给玩家躲藏的时间更短。一旦'''D-140i'''后撤，会先播放全局可闻的氛围音，随后暂停该氛围音并在字幕中显示文本：「Have fun, because you won't.（好好享受吧，你不可能开心的。）」，之后'''D-140i'''会恢复播放全局氛围音，开启其反弹循环。
+
+随后'''D-140i'''会冲回初始房间，抵达后会再次后撤，过程中会摧毁所有'''蓝色柜子/白色储物柜'''，同时它也会摧毁此前所有房间内的全部躲藏点。
+
+当'''D-140i'''第二次冲回初始房间时，不会摧毁任何躲藏点，仅会表现得与[[M-22]]类似但速度极快。第三次冲回时它会恢复原有行为，摧毁初始房间内所有'''蓝色柜子/白色储物柜'''以及此前房间的全部躲藏点。
+
+'''D-140i'''会持续这个反弹循环，交替执行摧毁柜子和不摧毁柜子的流程。只有在玩家开启'''60'''扇门、且'''D-140i'''完成55-70次反弹后，它才会停止反弹。满足上述两个条件后，'''D-140i'''会冲回初始房间，撞到门后消失，同时发出类似门铃的高音调消失音效。 
+
+== 应对策略与提示 ==
+
+* '''D-140i'''机制复杂，极难应对。如果有Admin召唤了它，所有玩家最好前往最近开启的房间，待在那里直到'''D-140i'''完成70次反弹，之后再开启60扇门即可。
+* 这应该是应对'''D-140i'''的最优方法，因为只要开启60扇门它就一定会消失，该机制完全稳定。
+* 由于'''D-140i'''每次反弹时是否摧毁躲藏点并不固定，你可以利用这一特性，在'''D-140i'''不会摧毁躲藏点的阶段尽量冲刺前进，这样当'''D-140i'''反弹返回时，你就不必担心找不到柜子/储物柜躲藏。
+* 和[[D-140]]一样，'''D-140i'''处于激活状态时[[D-55]]不会生成，因此紧急情况下请仅躲入'''蓝色柜子'''或'''白色储物柜'''，避免被'''D-140i'''与其他实体的组合攻击击杀。
+* 最后，不要被'''D-140i'''迷惑，谨慎应对，把控好躲藏时机，避免被[[Claustrophobia|幽闭恐惧]]或'''D-140i'''本身击杀。
+
+== 冷知识 ==
+
+* '''D-140i'''是作为玩笑内容制作的，属于Admin实体。
+* 这一点显而易见：'''D-140i'''应对难度极高，且大多由Admin生成来破坏你的逃生流程，玩家很难从它的攻击下存活。
+* '''XYZ'''是'''D-140i'''的创作者。
+{{EntityNavBoxAdmin}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:I Variation]]
+[[Category:Rebounder]]
+[[Category:Rusher]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Miniboss]]
+[[Category:Ambusher]]

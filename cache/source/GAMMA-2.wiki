@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-2</span>}}
+{{ArticleBackground|File=GAMMABack.png}}
+{{Stub}}
+{{InfoBox:Entity
+|entity_name=Gamma-2
+|entity_image=G2.png
+|previous_entity=[[GAMMA-1]]
+|appears_at=Only by admins
+|type=Shadow<br>fall back<br>Rebounder
+|behavior=same as [[SHA-2]] but rebounds
+|speed=fast
+|damage=Instant Death (DPS locker snipe)<br>70-80~ (Gamma Plague)
+|locker_snipe=Yes
+|gun_effect=No gammas can be shot
+|claustrophobia=No
+|related_monsters=[[SHA-2]]<br>[[LAPSE-2]]|caption-entity_image=it's time for me to kill yoh!11! BLEHRKKEHRLEHRELKEHLRHELRER}}
+
+== Description ==
+'''GAMMA-2''' is the 2nd varint of [[SHA-2]], being admin-exclusive
+
+== Behavior ==
+Once spawned, it will place itself behiend the door, just like [[SHA-2]], but will fall back faster and will rebound a couple times, it will make whispering sounds when it despawns.
+
+== Strategy & Tips ==
+
+* just hide when you see the screen shake
+
+== Trivia ==
+TBA.
+
+== Gallery ==
+<gallery>
+File:Placeholder.webp
+</gallery>
+{{EntityNavBoxAdmin}}
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Admin Entities]]

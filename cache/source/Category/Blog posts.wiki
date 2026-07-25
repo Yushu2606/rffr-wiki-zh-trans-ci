@@ -1,0 +1,8 @@
+{{Spacer}}
+'''Blog Posts''' are posts made by a specific user. User made pages and blog posts are two different things.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+
+[[Category:Community]]

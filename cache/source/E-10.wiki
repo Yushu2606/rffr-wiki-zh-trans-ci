@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #000, #FFA500); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10 (Patience)</span>}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{NoteBox|note=Not to be confused with E-10 from '''Rooms Re-Established''', E-10 from '''Interminable Rooms''', or with E-17 from '''Rooms: Found Footage: Revisited'''.}}
+{{Redesign|Wawaman|Unknown}}
+{{DesignNotAllowed|design=Upcoming Design|reason=Designer's Request|exceptions=In-Game Screenshots}}
+{{InfoBox:Entity
+|entity_name=[[File:E-10PlaceHolder.png|frameless|link=E-10]]
+|entity_image=<gallery>
+Placeholder.webp|Upcoming Design
+E-10Anim.gif|Animation Recreation
+E-10.png|Design
+OldE10Anim.gif|Pre Release Animation Recreation
+OldE-10.webp|Pre Release Design
+</gallery>
+|previous_entity=[[M-340]]<br>[[Mouth|False-300]]
+|next_entity=[[E-10i]]<br>[[E-30]]
+|claustrophobia=No
+|nicknames=Patience
+|appears_at=E-010+
+|type=FallBack<br>Rusher<br>Spawner
+|behavior=Spawn at the middle of the room then rushes, then coming back after the door is opened by the player and breaking the door
+|speed=Moderate
+|damage=300 DPS
+|locker_snipe=Yes (Non Lethal)
+|gun_effect=None
+|related_monsters=[[A-85]]<br>[[SHA-120]]<br>[[E-10i]]
+|badges=[https://www.roblox.com/badges/3124983362195746/Sector-Breach Sector Breach] '''Unobtainable'''
+|sound1=<center>Spawn</center><center>[[File:E-10Spawn.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:E-10Ambi.mp3]]</center>
+|sound3=<center>Jumpscare Sound</center><center>[[File:E-10Jumpscare.mp3]]</center>|sound4=<center>Despawn '''Recreation'''</center><center>[[File:E-10Despawn.mp3]]</center>}}
+
+==Description==
+'''E-10''' Will be the 1st entity you may encounter in [[Section E]] and was one of the Invasive entities present during the [[Section Executive Invasion Event]]. More info shown below.
+
+==Mechanics==
+'''E-10''' will spawn Infront the door, rushing back after a few seconds, it will then wait behind the void wall until the next door is opened or broken down. After the door is opened or is broken down, it will rush back to the main room, getting faster if more doors are opened, despawning once it hits the door, it will have a chance of Spawning an entity, it does not need to break the door to do this.
+
+==Strategies==
+* Hide as soon as you see him and wait until he falls back, then you should Exit your locker and open the door, if the couple rooms back are straight, you should be able to look back and time you're hiding from there, if not, you should hide around 4~ seconds after you open the door.
+* '''E-10'''s range is very large, large enough to damage you from another room, so be sure to enter your locker when he's somewhat far away and refuse to hide in very open safespots that depend on an entities short range.
+* [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU Video Representation]
+
+==Trivia==
+* '''E-10''' was one of the two Invasive entities present during the [[Section Executive Invasion Event]], the other being [[E-60]]. 
+* '''E-10''' is a repurposed '''E-17''' From '''Rooms: Found Footage: Revisited''', albeit with altered mechanics.
+* '''E-10''' has a joke nickname that is '''Sun''', due to having a very bright light and large light range.
+* If you open the door when '''E-10''' still on it, it will start moving immediately, killing you almost immediately.
+* if you or something else opens the door and spawns [[E-200]] while '''E-10''' is waiting, it will continue to wait until [[E-200]] despawns.
+
+==Gallery==
+<gallery>
+File:E-10NewScare.gif|Jumpscare.
+File:E10jump.gif|Invasion Event Jumpscare.
+File:OldE-10Jum.gif|Pre Release Jumpscare.
+File:TheSun.jpg|'''E-10''' seen in [[Section D]] During the [[Section Executive Invasion Event]].
+File:TheOldSun.jpg|Pre release '''E-10''', about to kill the player.
+File:ByeE10.gif|'''E-10''' Passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
+File:E-10SafeSpot.png|'''E-10''' seen in a safe spot.
+File:E-10 despawn p.webp|'''E-10''' despawn particle.
+</gallery>
+
+== Badges ==
+{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''E-10''', or [[E-60#Old|E-60]] during the E-section invasion event}}
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Invader]]

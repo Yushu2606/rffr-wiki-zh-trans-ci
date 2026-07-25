@@ -1,0 +1,46 @@
+{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{InfoBox:Entity
+|previous_entity=[[CAT-120]]
+|next_entity=[[A-200ii]]
+|entity_name=[[File:Doritos.png|frameless|link=Dorito]]
+|entity_image= [[Dorito.png|Design]] 
+|caption-entity_image=Meow :3
+|appears_at=Anywhere Past A-135 in [[Super Epic Mode]].
+|nicknames=CAT-135
+|type=Fallbacker<br>Locker Checker
+|behavior=Locker Checker
+|damage=Instant Death.
+|speed=15 Studs/s (50 Studs/s in Red Rooms)|related_monsters=[[A-135]]<br>
+[[A-135i]]
+|claustrophobia=Yes
+|sound1=<center>Spawn</center><center>[[File:DoritoSpawn.mp3]]</center>
+|sound2=<center>Drumming Sound</center><center>[[File:Slowidiotdrummer.mp3]]</center>
+|sound3=<center>Close sound</center><center>[[File:CatEntity.mp3]]</center>
+}}
+
+==Description==
+[[Dorito]]'s apparence is an loaf orange cat with the eyes shining.
+
+==Mechanic ==
+Dorito spawns behind the current room’s door making drumming sounds. After 3-5 seconds, Dorito breaks the door and it will play an sound of someone saying "MMM Dorito" before checking every gray locker in the current and last 2 rooms. After checking Dorito will backtrack and despawning once it reaches the void wall. Any player found or getting close will get jumpscared by Dorito.
+
+==Stats==
+Kill Radius: 22 studs
+
+Snipe Type: Doesn't Lockersnipe.
+
+Tracking Type: Line of Sight.                          
+==How to survive==
+The same strategy from [[A-135]] one
+
+==Trivia==
+*'''Dorito''' was made to mimic [[A-120]]'s drumming sounds, meaning players mistake it for [[A-120]] and hide in a gray locker and die.
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]

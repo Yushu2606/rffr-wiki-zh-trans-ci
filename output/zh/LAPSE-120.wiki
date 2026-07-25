@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-120 (???)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Upcoming}}
+{{InfoBox:Entity
+|entity_name=LAPSE-120
+|entity_image=Placeholder.webp
+|previous_entity=[[SHA-85]]<br>[[LAPSE-60]]
+|next_entity=[[SHA-140]]<br>[[LAPSE-200]]
+|nicknames=???
+|type=???
+|behavior=???
+|speed=???
+|appears_at=???
+|locker_snipe=???
+|gun_effect=所有Lapse类实体都无法被射击
+|claustrophobia=???
+|damage=???
+|related_monsters=[[SHA-120]]}}
+
+== 描述 ==
+'''LAPSE-120'''是你可能遭遇的众多Lapse类实体之一，是[[SHA-120]]的i型变种。
+
+== 行为 ==
+???
+
+== 策略与提示 ==
+* ???
+
+== 冷知识 ==
+* ???
+
+==图库==
+<gallery>
+Placeholder.webp
+</gallery>

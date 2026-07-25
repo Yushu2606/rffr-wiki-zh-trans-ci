@@ -1,0 +1,10 @@
+<includeonly><infobox type="Album">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="artist"><label>艺术家</label></data>
+	<data source="released"><label>发行时间</label></data>
+	<data source="recorded"><label>录制时间</label></data>
+	<data source="length"><label>总时长</label></data>
+	<data source="label"><label>发行厂牌</label></data>
+	<data source="producer"><label>制作人</label></data>
+</infobox></includeonly><noinclude>{{Documentation}}</noinclude>

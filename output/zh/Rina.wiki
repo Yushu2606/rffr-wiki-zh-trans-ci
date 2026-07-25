@@ -1,0 +1,25 @@
+{{Removed|reason=已被[[GOD-200]]取代}}
+{{InfoBox:Entity
+|entity_name=Rina
+|entity_image=Baba.webp
+|caption-entity_image=Rina很棒。
+|nicknames=Baba
+|behavior=从后方生成，冲向最新房间并击杀所有玩家
+|related_monsters=[[GOD-200]]<br>[[Gato]]
+|speed=光速
+|sound1=<center>生成</center><center>[[File:RinaSpawn.mp3]]</center>}}
+
+== 行为 ==
+生成时，'''Rina'''会先播放宝可梦伊布的叫声，恰好1秒后冲向最新的房间；但如果距离过远，后续门的玩家无法听到该音效。当'''Rina'''距离任何没有力场（或服务器全局上帝模式未激活）的玩家不足133 studs时，无论是否有直接视线、无论玩家是否躲藏，'''Rina'''都会立刻将其击杀。
+
+'''Rina'''的反弹次数为69到133之间的随机值，在生成时就已确定。但受其特性影响，除非在非常早期的房间生成，否则'''Rina'''几乎从来不会完成全部次数的反弹。
+
+== 冷知识 ==
+* '''Rina'''很棒
+
+{{EntityNavBoxAdmin}}
+
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Entities]]
+[[Category:Run Ender]]

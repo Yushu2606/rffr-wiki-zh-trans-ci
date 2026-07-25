@@ -1,0 +1,5 @@
+{{Spacer}}
+'''Entity Types''' are the mechanic an entity does. Like how [[A-20]] is a Rusher and [[A-135]] is a Locker Checker.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

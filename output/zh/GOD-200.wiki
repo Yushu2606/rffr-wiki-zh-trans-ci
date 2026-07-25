@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 9px white; cursive; background-image: linear-gradient(white, #373737); -webkit-background-clip: text; color: transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">GOD-200（救世主）</span>}}
+{{ArticleBackground|File=MultiSectional.gif}}
+{{InfoBox:Entity
+|entity_name=GOD-200
+|entity_image=<gallery>
+File:Airsmile.gif|当前设计
+File:AirRing.gif|光环设计
+File:GOD-200.png|旧设计
+NewRenovatedair.gif|跳杀造型
+</gallery>|caption-entity_image=  
+|appears_at=游戏发生致命错误时
+|nicknames=GOD-200
+|behavior=会从后方生成，以极快速度冲向主房间，杀死途经的所有玩家。
+|damage=秒杀
+|speed=快速
+|claustrophobia=否
+|gun_effect=无效果
+|related_monsters=[[A-200]]<br>
+[[SHA-200]]<br>
+[[Gato]]<br>
+[[Rina]]
+|sound1=<center>生成音效</center><center>[[File:GOD200SPAWN.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:GOD200Ambience.mp3]]</center>
+|sound3=<center>跳杀音效</center><center>[[File:GOD200JUMP.mp3]]</center>}}
+
+==行为==
+生成时，'''GOD-200''' 会显示字幕「𝐆𝐎𝐃 𝐈𝐒 𝐇𝐄𝐑𝐄.（神已降临。）」。片刻后，'''GOD-200''' 会高速冲向主房间，同时播放加速版的[[SHA-200]]音效。抵达主房间后，'''GOD-200''' 会杀死所有玩家，无论他们是否躲藏或处于安全位置，因为'''GOD-200'''<nowiki/>的攻击范围可以像[[D-5i]]一样穿过物体和墙壁。
+
+== 应对策略与技巧 ==
+* 如果'''GOD-200'''生成，你无计可施，只能等待它杀死你。
+
+==冷知识==
+* '''GOD-200''' 相当于故障保险，当游戏发生致命错误时就会生成。
+* '''GOD-200''' 是[[Rina]]的替代实体。
+* 开发者通常会在严重bug修复后全服生成'''GOD-200'''，以重置所有服务器。
+
+== 图库 ==
+<gallery>
+File:200.gif|'''GOD-200'''的动画
+File:SpookyJumpscare.gif|'''GOD-200'''的跳杀画面
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Run Ender]]
+[[Category:Rusher]]

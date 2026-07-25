@@ -1,0 +1,41 @@
+''Main article: [[w:c:r-interminable-rooms:A-258|A-258 from Interminable Rooms.]]''
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{InfoBox:Entity
+|entity_name=A-258
+|behavior=Spawns in the middle of the rooms, making loud sounds to block sounds from other entities.
+|related_monsters=[[M-7]]
+|speed=Stationary.
+|entity_image=<gallery>
+A-258.gif|Animation (recreation)
+A-258.webp|Design
+</gallery>
+|claustrophobia=No
+|sound1=<center>Spawn '''SUPER EPIC MODE''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:258Ambi.mp3]]</center>
+|sound3=<center>Despawn</center><center>[[File:258Despawn.mp3]]</center>}}
+
+==Description==
+'''A-258''' is an entity from Interminable Rooms. And can be seen anytime when inside [[Super Epic Mode]].
+
+==Appearance==
+'''A-258''' is an elongated cyclops that has a peach-coloured eye, fading into white near the center. Hints of greyish-blue can be found near its pupil, which is shaped like an irregular star (in-game, its color changes into an orange colour because of its orange glow) resembling sharp teeth. '''A-258 '''has a black mouth with bloody, pearly white teeth inside. The two parts are separate images, as in-game, the mouth shakes violently while the eye spins in quick succession.
+
+It also emits an orange glow in-game. It occasionally blasts out black, orange and white rings when present.
+
+==Behaviour==
+'''A-258''' will have some black, orange and white rings in the middle of the room warning the player that it's about to spawn. When it spawns it will make a very loud noise for around 14 seconds until making a very loud despawn noise.
+
+==Strategy & Tips==
+*When '''A-258''' appears, getting to the next room quickly or hiding is advised, in case any entities spawn. Otherwise, you may not hear their spawn cues over the loud noise.
+*If player(s) have chosen to hide in the presence of '''A-258''', they should remain in their hiding spot until it despawns. This is time-consuming, however.
+*If player(s) are aware that an entity is coming and encounter '''A-258''', they should hide until it despawns.
+
+== Trivia ==
+* '''A-258''' is one of the 2 Interminable Rooms entities in game. The 2nd entity being [[U-5]].
+
+== Gallery ==
+<gallery>
+IRDudeSpawning.jpg|'''A-258''' seen while spawning
+IRDudeingame.jpg|'''A-258''' seen ingame
+</gallery>

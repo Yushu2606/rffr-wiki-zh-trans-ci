@@ -1,0 +1,7 @@
+{{Spacer}}
+<big><center>'''你可能要找的是''[[Section I]]''。'''</center></big>
+----
+'''Section I''' 是可在该分区找到的所有[[Entities|实体]]、道具或功能的总称。它是唯一在原版Rooms: Found Footage基础上重制、被改为[[Section M|M区]]的分区。该分区目前仅在特定模式下可用。此分区的所有实体页面均会重定向至M区对应的实体页面。
+----
+<center>''以下是属于该分类的所有页面。''</center>
+{{Spacer}}

@@ -1,0 +1,23 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">Mary</span>}}
+{{Delete|reason=已移动至[[Player Controlled]]}}
+{{InfoBox:Entity
+|entity_name=Mary
+|entity_image=Mary Blossom Lowell.png
+|caption-entity_image=你玩得开心吗？
+|appears_at=仅可由Admin生成
+|nicknames=Mary
+|behavior=...
+|damage=无
+|speed=静止者}}
+
+== 描述 ==
+Mary是一种极其稀有的Admin生成人形实体，她的存在存疑，绝大多数玩家都未曾见过她。不过身份特殊或是成群结队的玩家更有可能吸引她的注意。如果你被她盯上，不要试图惹恼她，否则会有更可怕的存在来找你。
+
+== 画廊 ==
+<gallery>
+Hurtherhurtyou.png|alt=目击Mary
+</gallery>伤她者，必遭反噬。{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Admin Entities]]
+[[Category:Stationary]]

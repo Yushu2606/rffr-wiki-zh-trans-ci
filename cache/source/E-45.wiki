@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:E-45 (Alteration)}}
+{{ArticleBackground|File=EBackground.jpg}}
+{{InfoBox:Entity
+|entity_name=E-45
+|entity_image=<gallery>
+E45.png|Idle design
+E45Attack.png|Attack design
+</gallery>
+|previous_entity=[[E-30]]<br>[[E-30i]]
+|next_entity=[[E-60]]<br>[[E-90]]
+|claustrophobia=No
+|nicknames=Alteration
+|appears_at=E-045+
+|type=Stationary
+|behavior=Will spawn in a random locker, damaging the player if they try to hide in it
+|speed=None
+|damage=50
+|locker_snipe=
+|gun_effect=None
+|related_monsters=[[M-134]] (similar mechanic)
+[[D-175]] (similar mechanic)
+}}
+
+==Description==
+'''E-45''' Will be the 3rd entity you may encounter in [[Section E]]. More info shown below.
+
+==Mechanics==
+'''E-45''' once spawned will place itself inside a random locker, said locker now being colored differently, and damage anyone who tries to hide in the locker it is in.
+
+==Strategies & tips==
+
+* Check lockers carefully before hiding
+* Check the lockers from your left and right
+
+==Trivia==
+???
+
+==Gallery==
+<gallery>
+E45Gray.png|A gray locker containing '''E-45'''
+E45Blue.png|A blue locker containing '''E-45'''
+</gallery>
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]

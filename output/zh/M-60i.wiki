@@ -1,0 +1,75 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #c53434, -1.5px 0.66px 2px #c53434; color: #3d1310;">M-60i（调解者）</span>}}
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity
+|entity_name=[[File:M-60i_tittle.webp|frameless|link=M-60i]]
+|entity_image=<gallery>
+M60i1.webp|第一张脸
+M60i2.webp|第二张脸
+M60i3.webp|第三张脸
+M60i4.webp|第四张脸
+M60i5.webp|第五张脸
+M60i6.webp|第六张脸
+M60i7.webp|第七张脸
+M60i8.webp|第八张脸
+M60i9.webp|第九张脸
+M60i10.webp|第十张脸
+M60i11.webp|第十一张脸
+M60i12.webp|第十二张脸
+M60i13.webp|第十三张脸
+M60i14.webp|第十四张脸
+M60i15.webp|第十五张脸
+</gallery>
+|previous_entity=[[M-22i]]<br>[[M-60]]
+|next_entity=[[M-70]]
+|claustrophobia=否
+|gun_effect=无
+|locker_snipe=是
+|appears_at=在M-060之后开启任意门时随机生成
+|type=冲刺者<br>柜子检查者<br>反弹者<br>
+|behavior=行为与[[M-60]]类似，但改为检查未标记的柜子，且可同时检查多个柜子
+|speed=与[[M-60]]速度相同或更快（推测）
+|nicknames=调解者
+|damage=秒杀（柜击造成55 MAL 伤害）
+|related_monsters=[[M-60]]<br>[[A-135i]]<br>[[SHA-1]]
+|sound1=<center>柜子被打✓标记</center><center>[[File:OblivionX.mp3]]</center>
+|sound2=<center>远处环境音 '''重制版'''</center><center>[[File:M60iFar.mp3]]</center>
+|sound3=<center>近处环境音</center><center>[[File:M60iClose.mp3]]</center>
+|sound4=<center>跳杀</center><center>[[File:M-60iJum.mp3]]</center>}}
+
+==描述==
+'''M-60i''' 是[[Section M|M区]]中众多i型变种之一，是[[M-60]]的i型变种，更多信息见下文。
+
+==行为==
+当'''M-60i'''生成时，[[Oblivion]]会用红色“✓”标记并高亮所有'''M-60i'''不打算检查的柜子。之后'''M-60i'''会冲向主房间，检查有玩家存在的房间及其周边的房间。当'''M-60i'''检查完所有未标记的柜子后，会加速冲向主房间，随后退回[[Void wall|虚空墙]]并消失，行为与[[A-135i]]非常相似，但仅会反弹一次。
+
+==策略与提示==
+* 如果你开门时听到多个柜子被标记的音效，就说明'''M-60i'''即将到来，请迅速前往已标记的柜子中躲藏。
+* 不要犯傻，如果'''M-60i'''生成了，直接躲进已标记的柜子就行。不要试图向前跑甩掉'''M-60i'''，这只会让'''M-60i'''检查更多柜子并将你击杀。如果你赶时间，至少先找一个安全点，这样等'''M-60i'''检查完柜子后你就能立刻继续前进。
+* 过去'''M-60i'''不会杀死躲在未标记柜子里的玩家，但该特性近期已被修复。 
+
+== 冷知识 ==
+* 当[[M-60]]尝试生成时，有1/30的概率会被'''M-60i'''替换。
+* '''M-60i'''<nowiki/>的名字是“<span style="text-shadow: 0 0 4px red; color:black;">调解者</span>”。
+* 在任何Perfection Event（完美事件）中，柜子都不会被[[Oblivion]]标记，因为此类事件中[[Overseer]]会取代它的位置。
+
+==画廊==
+<gallery>
+File:New M60i ingame.gif|游戏内可见的新'''M-60i'''（低画质）
+File:Teased.jpg|现已加入游戏的其中一张脸的预告图
+File:M60ijump.gif|旧版跳杀
+File:M60i 1.png|旧版第一张脸
+File:Acc Mediator 1.png|旧版第二张脸
+File:Acc Mediator 2.png|旧版第三张脸
+File:Acc Mediator 3.png|旧版第四张脸
+File:Acc Mediator 4.png|旧版第五张脸
+</gallery>
+
+{{EntityNavBoxSectionM}}
+[[Category:Entities]]
+[[Category:Section M]]
+[[Category:I Variation]]
+[[Category:Rusher]]
+[[Category:Locker Checker]]
+[[Category:Entity Type Mix]]
+[[Category:Multimonsters]]
+[[Category:Table Affected]]

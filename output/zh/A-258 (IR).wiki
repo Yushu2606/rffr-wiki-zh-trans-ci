@@ -1,0 +1,41 @@
+''主条目：[[w:c:r-interminable-rooms:A-258|来自Interminable Rooms的A-258]]''
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+{{InfoBox:Entity
+|entity_name=A-258
+|behavior=在房间中央生成，发出巨大声响掩盖其他实体的声音。
+|related_monsters=[[M-7]]
+|speed=静止
+|entity_image=<gallery>
+A-258.gif|动画（还原）
+A-258.webp|设计图
+</gallery>
+|claustrophobia=否
+|sound1=<center>生成音效 '''SUPER EPIC MODE''' </center><center>[[File:8bit hit.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:258Ambi.mp3]]</center>
+|sound3=<center>消失音效</center><center>[[File:258Despawn.mp3]]</center>}}
+
+==描述==
+'''A-258'''是来自Interminable Rooms的实体，在[[Super Epic Mode]]中随时可能出现。
+
+==外观==
+'''A-258'''是一只细长的独眼生物，拥有桃色的眼睛，靠近中心的位置渐变为白色。瞳孔附近带有灰蓝色调，形状为不规则星形（游戏中因自身橙色光晕影响，颜色会变为橙色），形似尖锐的牙齿。'''A-258'''长有黑色的嘴，内部是沾有血迹的珍珠白牙齿。这两部分是独立图像，游戏中嘴会剧烈晃动，而眼睛会快速连续旋转。
+
+它在游戏中还会发出橙色光晕，存在时偶尔会爆发出黑色、橙色与白色的圆环。
+
+==行为==
+'''A-258'''出现前会在房间中央生成若干黑色、橙色与白色圆环，向玩家发出即将出现的预警。它出现后会发出14秒左右的巨大噪音，之后会播放音量极高的消失音效。
+
+==应对策略与提示==
+*当'''A-258'''出现时，建议尽快进入下一个房间或躲藏，以防有其他实体生成，否则巨大的噪音可能会让你听不到它们的生成提示。
+*如果玩家选择在'''A-258'''存在时躲藏，应当一直待在躲藏点直到它消失，不过这种方法比较耗时。
+*如果玩家已经得知有实体即将到来，同时遇到了'''A-258'''，应当躲藏直到它消失。
+
+==你知道吗==
+* '''A-258'''是游戏中仅有的两个来自Interminable Rooms的实体之一，另一个是[[U-5]]。
+
+==画廊==
+<gallery>
+IRDudeSpawning.jpg|'''A-258'''出现时的画面
+IRDudeingame.jpg|游戏中的'''A-258'''
+</gallery>

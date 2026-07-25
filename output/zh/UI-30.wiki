@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px darkgreen; color: green;">'''UI-30'''</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-30Placeholder.png|frameless|link=UI-30]]
+|entity_image=UI-30.png
+|previous_entity=[[UI-20]]
+|next_entity=[[UI-60]]
+|appears_at=I-030+
+|type=[[Rebounder|反弹者]]
+|damage=秒杀
+|related_monsters=[[M-22]]
+|sound1=<center>激活 '''已调整'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI30ambi.wav]]</center>}}
+
+== 描述 ==
+'''UI-30'''是你在[[Section Interchange|Interchange区（I区）]]可能遇到的第3个实体，更多信息见下文。
+
+== 行为 ==
+和其他许多I区实体一样，它生成时会播放「Horror Race」主题曲。'''UI-30'''会在玩家后方生成，以中等偏快的速度冲向当前房间。它会播放UI-20的音效，但音调更低。当'''UI-30'''到达当前房间后，会反弹回它的生成房间。当'''UI-30'''反弹回到生成房间后，就会消失。
+
+== 策略与技巧 ==
+* 一旦你看到或听到'''UI-30'''，立刻躲藏，因为它会快速接近你，速度比UI-20更快。
+** '''UI-30'''速度相当快，你离开躲藏点时可能会被它打个措手不及，如果你不够留意的话就会被击杀。
+
+* 如果你不确定'''UI-30'''是否已经生成，可以等待实体经过，或者等它的环境主题曲停止。
+
+* '''UI-30'''会反弹1次。一旦它经过，就不会再次出现。
+** 极少数情况下，'''UI-30'''可能会出现两次，给人它再次反弹的错觉。当你在I区深入探索时请注意这一点。
+
+== 冷知识 ==
+* 和其他所有I区实体一样，'''UI-30'''是作为愚人节玩笑加入的。
+* '''UI-30'''看起来可能很像A-60，因为A-60的脸部和'''UI-30'''有相似之处。
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rebounder]]
+[[Category:Section UI]]
+[[Category:Rusher]]

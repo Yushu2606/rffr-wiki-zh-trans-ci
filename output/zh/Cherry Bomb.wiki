@@ -1,0 +1,30 @@
+{{Removed|reason=已被[[Pipe Bomb]]取代}}
+{{InfoBox:Entity
+|entity_name=Cherry Bomb
+|entity_image=CherryBomb.png
+|previous_entity=[[DCAT-55]]
+|next_entity=[[Mori]]
+|appears_at=超级史诗模式下任意时间（Removed，当前仅管理员可召唤）
+|type=固定者
+|behavior=会在房间中央生成，同时发出类似定时炸弹的音效，数秒后就会爆炸
+|speed=无
+|claustrophobia=否
+|damage=秒杀（爆炸）
+|related_monsters=[[Pipe Bomb]]
+|caption-entity_image=Cherry Bomb！*炸成碎块*}}
+
+==描述==
+'''Cherry Bomb''' 曾是'''超级史诗模式'''游戏模式中十分常见的实体，设计目的为炸毁房间内的各种柜子。
+
+==机制==
+'''Cherry Bomb''' 会在房间中央生成，同时发出定时炸弹的音效，数秒后爆炸，摧毁其所在房间内的所有各种柜子。
+
+==应对策略==
+它生成时躲起来，或者直接离开其视野范围即可。
+
+==你知道吗==
+Cherry Bomb 曾经会在爆炸前说出“Cherry Bomb!”，但该音频后来被删除了。
+
+
+{{EntityNavBox}}
+[[Category:Entities]]

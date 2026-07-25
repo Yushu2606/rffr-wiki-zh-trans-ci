@@ -1,0 +1,5 @@
+{{Spacer}}
+'''Weapon Affected''' Entities are entities that can be killed or have an affect when shot by a gun or weapon.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}

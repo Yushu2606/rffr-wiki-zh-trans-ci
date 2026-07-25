@@ -1,0 +1,61 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">A-20 (Smiler)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity
+|previous_entity=[[Jimmy]]
+[[Claustrophobia|幽闭恐惧]]
+|next_entity=
+[[A-20i]]
+[[A-60]]
+|entity_name=[[File:NewA-20Title.png|frameless|link=A-20]]
+|entity_image=
+<gallery>
+A-25MainFace.png|V.3 设计
+A-25 scream.png|V.3 跳杀设计
+File:A-25ReRedesign.png|V.2 设计 
+File:A20.png|V.1 设计
+</gallery>
+|appears_at=A-020+
+|nicknames=Smiler（微笑者）
+|behavior=缓慢冲向下一扇门。
+|damage=
+|speed=70 Studs/秒（距离首房间较远时），25 Studs/秒（距离首房间更近时）
+|claustrophobia=否
+|gun_effect=无
+|locker_snipe=是（非致命）
+|related_monsters=[[A-20i]]
+|sound1=<center>生成</center><center>[[File:A-20 Spawn..mp3|190x190px]]</center>
+|sound2=<center>环境音效</center><center>[[File:2025-06-08 02-49-16.mp3]]</center>
+|type=冲刺者|sound3=<center>跳杀</center><center>[[File:A-20Jumpscare.mp3]]</center>}}
+
+==描述==
+'''A-20'''是新玩家会遇到的第一个实体。它有着蓝色的笑脸，带有拖尾，发出类似火车的声音。它的速度非常慢，可以轻松躲避。
+
+==行为==
+A-20生成时会发出呼吸声。A-20会以缓慢的速度冲向玩家当前所在的房间，当距离当前房间还有2间房时会减速。当A-20碰到通往下一个房间的门时，它会裂成两半然后消失。A-20不会直接秒杀玩家，而是对玩家造成持续的快速伤害。玩家推进得越远，它的出现概率就越低。
+
+==你知道吗==
+*'''A-20'''的移动音效是经过编辑的机械键盘声音。
+*'''A-20'''不会被桌子阻挡，且会无视躲藏在桌子后的玩家，就像玩家没有躲藏一样
+*'''A-20'''的名称曾计划改为A-25，该改动现已撤销。
+*'''A-20'''在A-1000之后出现概率会更低，A-2000之后将不再生成
+*自Executive Update（高管更新）起，'''A-20'''现在可以在[[Red Rooms|红区]]中生成
+*<nowiki>''Stay Alert''</nowiki>（保持警惕）修饰符会为'''A-20'''添加计时器，这可能导致多个A-20同时处于活跃状态
+
+== 漏洞 ==
+· 当激活的修饰符不是<nowiki>''</nowiki>Stay Alert<nowiki>''</nowiki>时，A-20无法生成，[[A-20i]]总会替代它出现
+
+==画廊==
+<gallery>
+A-20VeryScary.gif|A-20的跳杀
+File:A-20anim.gif|旧版设计动画重制
+NewA-25Jumpscare.gif|旧版A-20的跳杀
+File:A-25Design.png|已废弃的V.2设计
+File:A-25Jumpscare.gif|更旧版本的A-20跳杀
+TrueLegacyA-25.png|真正的遗留/超级史诗模式设计
+</gallery>
+
+
+{{EntityNavBoxSectionA}}
+[[Category:Entities]]
+[[Category:Section A]]
+[[Category:Rusher]]

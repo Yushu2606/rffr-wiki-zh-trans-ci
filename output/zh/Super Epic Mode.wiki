@@ -1,0 +1,190 @@
+__NOTOC__
+{{Stub}}
+{{Modifier|GradiantDetails=to bottom, #44FF44, #006600|TextColor=#DDFFDD|Name=[[Super Epic Mode|超级史诗模式]]|Details=游玩2024年愚人节活动时期的R:FF版本！该游戏版本极少更新，偶尔可能出现运行故障。}}
+{{ArticleBackground|File=SuperEpicMode.png}}
+
+<h2> 概述 </h2>
+
+'''超级史诗模式'''是一项修饰符，可让你游玩2024年愚人节活动版本的原版'''Rooms: Found Footage'''，该模式添加了大量玩笑性质的实体，同时也让不少内容变得滑稽搞怪，例如D-60i或A-85i的生成提示音会替换为一段[https://official-rooms-found-footage-renovated.fandom.com/wiki/File:BossIndicatorSEM.mp3 尖叫声]，且它们会播放《Horror Race》配乐。''（目前音乐与生成提示音暂未实装）''，同时还新增了[[Section UI|I区]]，是[[Section I|交换区]]的恶搞版本。
+
+<h2> 专属实体 </h2>
+
+<tabber>
+|-|ii 变体=
+'''ii 变体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}}[[File:A-20ii.png|center|150px|link=A-20ii]]
+{{!}}[[File:A-200ii Anim .gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
+{{!}}-
+{{!}}}
+
+|-|猫咪实体=
+'''猫咪实体：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}}[[File:Cat60face1.jpg|center|150px|link=CAT-60]]
+{{!}}[[File:CAT-120.png|center|150px|link=CAT-120]]
+{{!}}[[File:Dorito.png|center|150px|link=Dorito]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DCAT-55.png|center|150px|link=DCAT-55]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[CAT-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Dorito|Dorito（多力多滋）]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[DCAT-55]]
+{{!}}-
+{{!}}}
+
+|-|其他实体=
+'''其他实体：'''
+{{{!}} style="width:80; text-align:center; margin:0 auto"
+{{!}}[[File:PB.jpg|center|150px|link=Pipe Bomb]]
+{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
+{{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
+{{!}}[[File:Tackle.png|center|150px|link=Tackle]]
+{{!}}[[File:A-258.gif|center|150px|link=A-258 (IR)]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Pipe Bomb|Pipe Bomb（管道炸弹）]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mori]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[False Witness]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Tackle]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-258 (IR)]]
+{{!}}-
+{{!}}[[File:TrollFace.webp|center|150px|link=Troll Face]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Troll Face|Troll Face（巨魔脸）]]
+{{!}}-
+
+{{!}}}
+
+|-|UI区=
+'''UI区：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-83]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Gato#Section_UI|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]
+{{!}}-
+
+{{!}}}
+
+</tabber>
+
+<h2>非专属实体</h2>
+<tabber>
+|-|A区实体=
+'''A区实体：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25.png|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25i.png|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMA85.png|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85iSEM.png|center|150px|link=A-85i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A135i.png|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200i.gif|center|150px|link=A-200i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
+{{!}}-
+
+{{!}}}
+|-|D区实体=
+'''D区实体：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}}[[File:D-1SEM.png|center|150px|link=D-20|D-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35i.gif|center|150px|link=D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20|D-1]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD-140.png|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.png|center|150px|link=D-200]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
+{{!}}}
+
+|-|杂项实体=
+'''杂项实体：'''
+{{{!}} style="width:80%; text-align:center; margin:0 auto"
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMJimmy.png|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMMouth.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}}-
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}}}
+
+</tabber>
+
+<h2> 画廊 </h2>
+<gallery>
+File:CAT-120Far.png|[[CAT-120]] 从柜子中观察到的画面
+Ohno.png|[[A-200]] 即将击杀玩家的画面
+</gallery>
+
+{{BrowseNavBox}}

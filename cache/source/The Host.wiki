@@ -1,0 +1,14 @@
+{{Delete|reason=moved to [[Player Controlled]]}}
+{{InfoBox:Entity
+|entity_name=The Host
+|entity_image=Unknown Humanoid.png
+|appears_at=Only by Admins
+|nicknames=The Host<br>Fate
+|behavior=???
+|type=Player Controlled
+|damage=None(?)
+|speed=Same as the player
+|related_monsters='''Host's Source'''}}
+
+== Description ==
+Not much is known about the Host, tho we know that they are tied to the '''Host's Source''', a white crystal that will appear when '''The Host''' raids your run.

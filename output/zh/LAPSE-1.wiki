@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-1 (Apparition（幻影）)</span>}}
+{{ArticleBackground|File=OblivionScreen.png}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=LAPSE-1
+|entity_image=Better L-1.png
+|previous_entity=[[SHA-1]]
+|next_entity=[[SHA-2]]<br>[[LAPSE-2]]
+|nicknames=Apparition（幻影）
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|type=冲刺者<br>柜子检查者
+|behavior=高亮随机柜子，并在冲向主房间时检查这些柜子
+|speed=快
+|locker_snipe=是
+|gun_effect=所有Lapse实体都无法被射击
+|claustrophobia=否
+|badges=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment（判断失误）]
+|damage=秒杀（每秒伤害命中）<br>35-50~（Lapse Plague（流逝瘟疫））
+|related_monsters=[[SHA-1]]<br>[[M-60i]]|caption-entity_image=我超生气的！>:C
+|sound1=<center>环境音 '''重制版'''</center><center>[[File:Lapse1Ambi.mp3]]</center>}}
+
+== 描述 ==
+'''LAPSE-1'''是你可能遇到的众多Lapse实体之一，是[[SHA-1]]的i型变种。
+
+== 行为 ==
+生成后，LAPSE-1会采用两种机制中的一种。
+
+第一种机制会为每个房间内75%的躲藏点添加带有极淡红色填充的红色轮廓。随后它会向前冲刺、破门，并破坏所有被高亮标记的柜子。行为模式与SHA-1类似，但更具攻击性，整体难度更高。
+
+另一种机制会为每个房间内的1-3个柜子添加无轮廓、填充色更深的纯红色高亮。之后它会以和第一种机制相同的方式破门，随后检查所有'''未被'''它高亮标记的柜子。 
+
+两种机制下，它都会破门，并破坏它所检查的柜子，同时有概率生成SHA-2。
+
+== 对策与提示 ==
+* [[Claustrophobia|幽闭恐惧]]可能在'''LAPSE-1'''处于激活状态时触发，所以当它离你较远时请离开柜子。
+* 请快速判断'''LAPSE-1'''是为柜子添加了轮廓还是高亮，并选择正确的位置躲藏。
+* 如果你没有完全躲进柜子里，'''LAPSE-1'''无法击杀你，同时它还会延长[[Claustrophobia|幽闭恐惧]]的触发时间，你可以利用这一点。
+* 可以通过翻滚躲避'''LAPSE-1'''的秒杀效果，在没有未标记躲藏点的危急情况下可以使用该方法！但你仍会受到相当于被柜子命中的伤害。
+* 在[[Section M|M区]]中，'''LAPSE-1'''需要更长时间才能到达主房间，你同样可以利用这一点。
+
+== 冷知识 ==
+* '''LAPSE-1'''在[[Perfection Event 2/13/26]]开启时实装，一同上线的还有[[SHA-4]]、[[SHA-7]]、[[SHA-22]]、[[SHA-150]]以及[[Overseer]]。
+* 在[[April Fools 2026|2026年愚人节]]更新中，[[Alpha & Shadowpocalypse]]里A-020号门处的[[SHA-1]]会被替换为'''LAPSE-1'''。
+** 但这种情况下你不会获得对应徽章。
+** 该内容现已无法复现，因为[[April Fools 2026|2026年愚人节]]活动已改为修饰符，且[[Alpha & Shadowpocalypse]]修饰符无法和其他修饰符一同启用。
+
+==画廊==
+<gallery>
+RedOutline.jpg|被'''LAPSE-1'''标记了轮廓的柜子。
+RedFull.jpg|被'''LAPSE-1'''完全高亮的柜子。
+</gallery>
+
+== 徽章 ==
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
+
+[[Category:Rusher]]
+[[Category:Locker Checker]]

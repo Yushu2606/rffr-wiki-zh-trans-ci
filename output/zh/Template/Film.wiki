@@ -1,0 +1,21 @@
+<includeonly><infobox>
+  <title source="title"><default>'' {{#explode:{{PAGENAME}}|(}} ''</default></title>
+  <image source="image"><caption source="caption"/></image>
+  <group>
+    <data source="premiere"><label>首映日期</label></data>
+    <data source="genre"><label>类型</label></data>
+    <data source="rating"><label>分级</label></data>
+    <data source="runtime"><label>时长</label></data>
+    <data source="director"><label>导演</label></data>
+    <data source="writer"><label>编剧</label></data>
+    <data source="music"><label>音乐制作</label></data>
+    <data source="producer"><label>制片人</label></data>
+    <data source="budget"><label>预算</label></data>
+    <data source="earned"><label>票房</label></data>
+  </group>
+  <group layout="horizontal">
+    <header>系列</header>
+    <data source="previous"><label>← 上一作</label></data>
+    <data source="next"><label>下一作 →</label></data>
+  </group>
+</infobox>{{Namespace|main=[[Category:Films]]}}</includeonly><noinclude>{{documentation}}</noinclude>

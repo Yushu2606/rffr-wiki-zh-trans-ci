@@ -1,0 +1,317 @@
+{{Out of Date}}
+== Description ==
+'''Items''' are items that can enhance your gameplay. There are 5 types of items: <span style="color:#4767B7">Utilities</span>, <span style= "color:green">Healing</span>, <span style= "color:red">Weapons</span>, <span style= "color:Yellow">Artifacts</span> and <span style= "color:Orange">Salvage</span>. Note that some item of their category have less chance to spawn.
+
+<tabber>
+|-|Utilities=
+<span style="color:#4767B7">Utilities</span> are items that give helpful boosts to survival, mainly all flashlights.
+
+==Flashlights==
+===Flashlight===
+'''''"A bit generic, but reliable enough to get the job done. Takes 2 batteries, with a lifetime of 2:30."'''''<br><br>
+A free flashlight the player also gets once they spawn in. It takes two batteries to charge, but in turn has a longer lifetime then the Eco Flashlight.<gallery>
+File:Battery.png|A Battery
+</gallery>
+
+
+==Medical==
+===Adrenaline Shot===
+'''''"Grants 30 seconds of infinite stamina upon usage."'''''
+
+Or Adrenaline, this can be found as a brown box with a cross symbol on it. As its name suggests, it can be used to sprint or dodge non-stop for 30 seconds.<gallery>
+File:Adrenaline Shot.png|An Adrenaline Shot
+</gallery>
+
+===Adrenal Steroid===
+'''''"An ilegal modification of the Vita-Shot formula. The first two uses grants a permanent +100% in stamina capacity. All later uses grant infinite stamina for an extended period instead. However...it comes at a cost."'''''
+
+Or just AD-STR this can be found as a cyan box with a cross symbol on it. It can only be found in the D section and M section. Deducts 30% HP per use. First two uses grant +100% MAX stamina permanently. All later uses will grant you with infinite stamina for a longer period of time than the adrenaline.
+<gallery>
+File:Adrenal Steroid.png|Adrenal Steroid
+</gallery>
+
+==Drinks==
+===Bloxiade™ Energy Drink===
+'''''"Increases your base movement speed, stamina capacity, and stamina regeneration for a short time. The effects can stack."'''''<br><br>
+Or just Bloxiade, the drink is a purple bottle with a blue wrapping and lightning bolt. It gives the drinker multiple stamina buffs.<gallery>
+File:Bloxiade.png|Bloxiade
+</gallery>
+
+===Bloxy Cola===
+'''''"Grants +60% more stamina for 15 seconds upon usage. Stamina also regenerates 40% faster."'''''
+
+A basic drink, being a replica of the classic Bloxy Cola. Grants a couple small stamina buffs.<gallery>
+File:Bloxy Cola.png|Bloxy Cola
+</gallery>
+
+===Miri's Bloxy-Orange Soda===
+'''''"Has a passive-aggressive tangerine aftertaste. Grants a temporary boost in speed and jump height for 15 seconds. The effects can stack."'''''
+
+An orange soda, capable of giving faster speeds a and jump height for 15 seconds. The effects can stack on eachother.<gallery>
+File:Orange Soda.png|Orange Soda
+</gallery>
+
+==Tools==
+===Lockpick===
+'''''"Can forcibly open a locked door, but breaks easily. One time use."'''''<br><br>
+Can some side doors once for major loot, though they can be hard to find. Only 3 can be picked up at a time.<gallery>
+File:Lockpick.png|Lockpick
+</gallery>
+
+===Remote Hacking Device===
+'''''"A device capable of breaking the locks on electronic doors."'''''<br><br>
+Or RHD Tablet, it can open locked electronic doors and can only be found in [[Section M]]. Their use is to open the doors labelled "WAREHOUSE" for a lot of items, way more than normal lockpick rooms.<gallery>
+TabletNEW.jpg|Remote Hacking Device
+</gallery>
+
+==Other==
+===Radiant Crystal===
+'''''"An improvised omnidirectional light source. It radiates warm heat from its surface."'''''<br><br>
+Or just Crystal, its an orange gem that makes orange light. Other then this, it has no purpose.
+<gallery>
+File:Radiantcrystal.png|Radiant Crystal
+</gallery>
+
+|-|Healing=
+<span style= "color:green">Healing</span> are items that are either medical supplements or food. Their main purpose is to support your HP.
+
+==Medical==
+===Bandage===
+'''''"Heals 25% of your health over 2.5 seconds."'''''<br><br>
+Bandages can be found in all sections, and are a quick healing tool. 10 can be carried at a time.<gallery>
+File:Bandage.png|Bandage
+</gallery>
+
+===Vita-Shot™===
+'''''"Works Vita-Wonders™! Rapidly regenerates 90% of your health upon usage."'''''<br><br>
+Or just "Vita-Shot" they can be found as green medkits around all [[Sections]]. As its descriptions suggests, it regenerates 90% of your health once used. Can only carry five at a time.
+<gallery>
+File:VitaShot.png|Vita-Shot
+</gallery>
+
+===<span style= "color:red">Vita-Booster</span>===
+'''''"An illegal modification of the Vita-Shot formula. Permantly doubles maximum health up to 3 times. All later uses grant a near-instant full heal. Can also heal up to 300 Malicious Damage."'''''<br><br>
+Or just V-Booster, a difficult-to-find version of the Vita-Shot. It increases max health by 100 up to 4 times, and using it even more does a near-instant full heal. It can also heal up to 300 malicious damage (Malicious damage decreases max HP), from lockersnipes.<gallery>
+File:VBooster.jpg|Vita-Booster
+</gallery>
+
+==Drinks==
+===Rutta Grape Soda===
+'''''"A strong-smelling grape soda, yet it tastes smooth. Grants a temporary regeneration effect. This effect cannot stack with itself."'''''
+
+One of many grape sodas the player can find. It gives a regeneration effect but cannot stack with other grape sodas.<gallery>
+File:Grape Soda.png|Grape Soda
+</gallery>
+
+==Canned Foods==
+'''''"Nonperishable food. Restores some health with many uses."'''''
+===Beans===
+Or "Canned Beans", they appear as a metal can of a picture of beans on the top. The middle also has a giant bean. It restores 32% of your health, and can be used 5 times.<gallery>
+File:Can of Beans.png|Canned Beans
+</gallery>
+
+== Other ==
+=== <span style= "color:Yellow">Cheese Slice</span> ===
+'''''<small>"Rumored to possess magical powers... Something like that. Instantly heals you to full health upon usage."</small>'''''
+
+As the name suggests, upon consuming the cheese, you heal back to max health.<gallery>
+File:Cheese.png|Cheese Slice
+</gallery>
+
+|-|Weapons=
+<span style= "color:red">Weapons</span> are items that can either hurt or kill [[entities]]. [[Entities]] that can be affected by weapons include [[A-60]], [[A-85]], [[D-5]], [[D-20]], [[M-22]], [[M-120]] and [[M-200]]. Shooting them enough times can either neutralize them in some way or weaken them.
+
+==Handguns==
+===Glock 17 Handgun===
+'''''"Semi-automatic Silenced handgun. Physical damage is ineffective against most entities, but it has its uses..."'''''<br><br>
+Also known as the "G17", this weapon is the weakest version of all guns in the game. Flashlight included, needs one battery to recharge.
+
+==Automatic Rifles==
+===All-Purpose Assault Rifle (Model 16)===
+'''''"A fully automatic general purpose assault rifle. Ineffective against most entities, but it has its uses..."'''''<br><br>
+Or just "APAR-16" its the strongest rifle in the game with quick firepower. Flashlight included, needs one battery to recharge.
+<gallery>
+File:APAR-16.png|All-Purpose Assault Rifle (Model 16)
+</gallery>
+
+==Shotguns==
+===Remington 870 Express===
+'''''"Pump-action shotgun. Doesn't work against most entities. However, it has other uses..."'''''<br><br>
+Named the "R870" on its inventory icon, it shoots many blasts of bullets at once. Flashlight included, needs one battery to recharge.
+
+|-|Artifacts=
+<span style= "color:Yellow">Artifacts</span> are items that have special properties or are rare.
+
+== '''Heart of Darkness''' ==
+'''''"A reward for those who proved themselves worthy by the Shadow Challenge. Bonus damage to Striketeam Solstice and other "special" individuals."'''''<br><br>
+The only melee type weapon. It will be given to those who has beaten “[[Shadow Challenge]]”. It can only insta-kill [[D-20]] but it has extra damage for Striketeam Solstice. It will also be lifestealed, which means you will get HP if you kill D-20. Each hit will grant you 150 HP. Using this on other players will inflict 30 damage. The player will be met with the Shadow entity jumpscare if they are killed by someone using the Heart of Darkness.
+
+'''Badges:'''
+* [https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666 ] (RFFR)
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''UNOBTAINABLE'''
+<gallery>
+HoD.jpg|Heart of Darkness
+OldHod.jpg|Old model
+</gallery>
+
+== '''Perfectionist''' ==
+'''''"A six-shooter revolver, given to you alongside the Heart of Darkness. Bullets also bounce three times and heal you upon hitting a target."'''''<br><br>
+A revolver that is given alongside the Heart of Darkness. It can shoot all shootable entities, but it won’t give much damage to kill them. All entities that shot will also be lifestealed, 15HP per hit. It is also one of best weapons for fighting Striketeam Solstice since it has  extra damage too. The bullets can also bounce up to 3 times. If a player is shot by the '''Perfectionist''', they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime. The Perfectionist, unlike The Heart of Darkness, wont give the Shadow entity jumpscare once the player kills another player while using it.
+
+'''Badges:'''  
+* [https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666 ] (RFFR)
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''UNOBTAINABLE'''
+<gallery>
+Perf.jpg|Perfectionist
+</gallery>
+
+== '''Shadow Orb''' ==
+'''''"Floating orb awarded to those who either have survived Alpha & Shadow-Pocalypse or had completed the original Shadow Challenge from "Rooms Found Footage"."'''''<br><br>
+This orb will be given for those who had beaten “Shadow Challenge” in the original “Rooms: Found Footage”, or alternatively the "[[Alpha & Shadowpocalypse]]" modifier. It is a similar light source with crystal but being better. Shares dark purple light.
+
+'''Badges:''' 
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''UNOBTAINABLE'''
+<gallery>
+SHAORB.jpg|Shadow Orb
+</gallery>
+
+== '''Shadow Shakelight''' ==
+'''''"Infused with the power from Shadow 1, 2, and 3, this shakelight was awarded to those who either have survived Alpha & Shadow-Pocalypse or had completed the original Shadow Challenge from "Rooms: Found Footage"."'''''<br><br>
+A variant of Faraday Shakelight, with being better. It has a longer lifespan and longer light range. A reward that is given alongside with Void Orb. It will give purple light with shadow flame effects, similar to [[SHA-30]].
+
+'''Badges:'''
+* [https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse ] (RFFR)
+* [https://www.roblox.com/badges/1856954486738491/666-666-666 666 666 666 ] (RFF) '''UNOBTAINABLE'''
+<gallery>
+SHAlight.jpg|[[File:SHASHAKE.mp3]]
+</gallery>
+
+== '''Radiant Deep Light , Radiant Industrial Torch, Radiant Experimental Flashlight''' ==
+‘Radiant’ Flashlights are options to players that can players use. Those  flashlights are also shakeable, doesn’t need batteries. Also those flashlights has been infused with power of boss entities. Radiant Deep Light infuses power of [[D-60i]], Radiant Industrial Torch infuses power of [[M-120i]] and Radiant Experimental Flashlight infuses power of E-???. Each one Obtained during their respective Invasion Event.
+
+'''Badges:'''
+* Radiant Deep Light (D-Section Invasion Event):  [https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You're Not Supposed To Be Here ] (RFF) '''UNOBTAINABLE'''
+
+* Radiant Industrial Torch (I-Section Invasion Event): [https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here Are You Supposed To Be Here ] (RFF) '''UNOBTAINABLE'''                           
+
+* Radiant Experimental Flashlight (E-Section Invasion Event): [https://www.roblox.com/badges/3124983362195746/Sector-Breach Sector Breach ] (RFFR) '''UNOBTAINABLE'''
+<gallery>
+Deeplig.png|[[File:deepshake.mp3]]
+Indu.png|[[File:indushake.mp3]]
+Experimental.png|[[File:experishake.mp3]]
+</gallery>
+[https://www.roblox.com/badges/3318829810908238/The-invasion The Invasion ] also could have been used to gain access to the '''Radiant Deep Light''' and the '''Radiant Industrial Torch''', this badge has been De-Linked however, And no longer work.
+
+== '''Torch of Divination''' ==
+'''''"An eternal flame, granted by the entity "GATO" to those who were worthy."'''''<br><br>
+This omnidirectional Light Source is only available to those who reached [[Gato|I-500]] in [[Section UI]] during April Fools 2024, it acts as a stronger version of the Radiant Crystal.
+
+'''Badges:'''
+* [https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision ] (RFF) '''UNOBTAINABLE'''
+
+<gallery>
+Divination.png|New model
+OLDToD.png|Old model
+</gallery>
+
+== '''Radiant Fragment''' ==
+'''''"Apparently,  it used to be a catalyst for channeling heavily energy. It's warm to the touch"'''''<br><br>Rare item to find. It is stronger version of crystal. Shares cyan light.
+
+<gallery>
+File:RadiantFragment.png|Radiant Fragment
+</gallery>
+
+== '''Debug Bricks''' ==
+'''''"A strange…. box? Why is this even here?"'''''
+
+<gallery>
+File:RedBrick.png|Red Debug Brick
+File:PurpleDebugBox.png.png|Purple Debug Box held by a player
+</gallery>
+
+== <span style= "color:purple">'''NVCS-13793-C'''</span> ==
+A scanner that can be found which is really rare. It makes you be able to see entities, items, and batteries. It also has night vision with light purple colours. It may be useful for entities and most importantly, D-60i. Also makes it harder to see the door number of Derelict. Press N on pc, touch NVCS on mobile, D-PAD Left on console platforms to toggle it on/off. To recharge it you have to turn off the scanner and hold N for 3 seconds, or D-PAD Left and take it off. Then, you will able to recharge the scanner with the maximum being 5 batteries.
+
+<gallery>
+File:EvilCamara.jpg|NVCS-13793-C
+</gallery>
+
+== <span style= "color:Yellow">'''Strange Keycard'''</span> ==
+The keycard required to enter [[Section E]], It can rarely spawn in the [[Unnamed Sector]] after door 100, then requiring you to escape the [[Unnamed Sector]] to keep it.
+
+<gallery>
+File:Unnamed4.png|Strange Keycard
+</gallery>
+
+== <span style= "color:White">'''Host's Source'''</span> ==
+'''''"This doesn't belong here."'''''<br>
+
+An item that can only be spawned by admins, it's like the Crystal except it's brighter and it's white, and when spawned it means [[The Host]] will appear, but there's a chance of [[The Host]] not appearing.<gallery>
+File:HostsSource.png|Someone with '''Host's Source''' along with someone with '''Shadow Orb'''
+</gallery>
+
+|-|Salvage=
+<span style= "color:Orange">Salvage</span> may be EXTREMELY rare. They can usually be useful, however.
+
+==Flashlights==
+===Tactical Shakelight===
+'''''"A customly modeled Faraday Flashlight, rumored to be used by a now defunct unit of guards positioned around the Rooms. Pressing Z and X could be useful."'''''<br>
+It is a heavily buffed Shakelight with the shaking sound being a click. When pressing X while holding it, Tactical Shakelight will tilt slightly left and up. When pressing Z, it would return to normal holding. Has 29s seconds of power, and cannot be overcharged and break like the Faraday Shakelight.
+<gallery>
+File:Tactical.png|Tactical Shakelight
+</gallery>
+
+===Revolver===
+'''''"A six-shooter revolver, based from the MP-412 REX model. Headshots are very rewarding & it fires faster then average G-17."'''''<br>
+It is an revolver without built-in flashlight. (Was previously an Artifact, but that was just a bug before it got corrected to be Salvage.)
+<gallery>
+File:RevolverButInRedRooms.png|Revolver
+</gallery>
+
+|-|Gamepass Exclusive=
+<span style= "color:Purple">Gamepass exclusive</span> items are weapons, lights, etc that require a gamepass to be obtained.
+
+===Eco Flashlight===
+'''''"An environmentally friendly flashlight that takes one battery instead of two. Has a lifetime of 1:40."'''''<br><br>
+This can only be bought as a gamepass. However, once bought, it can be used in its corresponding dispenser in every lobby. It has a brown and light brown color, and has a brownish-white flash instead of a white flash.<gallery>
+File:Eco.png|Eco Flashlight
+</gallery>
+
+===Faraday Flashlight===
+'''''"An infinitely renewable light source, right where it belongs in your hands. Over-shaking causes the battery to short, disabling the light for 10 seconds.'''''"<br><br>
+This can only be bought as a gamepass. However, once bought, it can be used in its corresponding dispenser in every lobby. It appears as a slightly see-through green flashlight, and can be shaken as its name suggests. Although if it is shaken to much, is disables and the light cannot be used for 10 seconds. The user has to hold it in their hand for these 10 seconds for the flashlight to work again. Even without the gamepass, the Faraday Shakelight can be found as loot.
+<gallery>
+File:Fara.png|Faraday Shakelight
+</gallery>
+
+===Heart of Darkness+===
+'''''"A replica of the "Heart of Darkness" artifact, but can be customized for one's preferences and has a heat marker which can be seen from great distances."'''''<br>
+The Heart of Darkness but the color of its outline and light can be changed to your liking.
+<gallery>
+File:HoD+.png|HoD+ default color.
+</gallery>
+
+
+===Orb+===
+'''''"A replica of the "Shadow Orb", although it can be fully customized to fit one's preferences. It seems to retain properties from the original "Faraday Shakelight+"."'''''<br>
+The Orb light source but the color of its model, effects and light can be changed to your liking.
+<gallery>
+File:Orb+.png|Orb+ default color.
+</gallery>
+
+===Faraday Shakelight+===
+'''''"An upgraded version of the normal Faraday Shakelight. This version of the light is capable of lasting longer, incapable of being over-charged, as well as being customizable to fit your preferences."'''''<br>
+Faraday Shakelight but more powerful and cant be overcharged, as well as being able to change its model and light color.
+<gallery>
+File:Shakelight+.png|Faraday Shakelight+ default color.
+</gallery>
+
+</tabber>
+
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{HeadphonesNotice}}
+{{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-173Placeholder.png|frameless|link=UI-173]]
+|entity_image=UI-173.png
+|previous_entity=[[UI-157]]
+|appears_at=I-173+
+|type=后退型
+|next_entity=[[UI-200]]
+|damage=秒杀。
+|related_monsters=[[A-85]]<br>[[D-120]]<br>[[UI-83]]
+|sound1=<center>激活音效'''（已调整）'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI-173Ambiance.mp3]]</center>}}
+
+== 描述 ==
+'''UI-173''' 是你在[[Section Interchange|换乘区]]可能遇到的第8只实体，更多信息见下文。
+
+== 行为 ==
+当'''UI-173'''生成时，它会播放名为《Horror Race》的曲目，和所有I区的其他实体一致。如果当前存在更多实体，它会播放同一首歌，但音调更高、速度更快。
+
+'''UI-173''' 会先出现在前方，3秒后以与[[UI-110]]相近的速度向后冲刺。
+
+== 应对策略与提示 ==
+看到/听到它的动静时立刻躲藏。
+
+== 你知道吗 ==
+* 和大多数UI实体一样，'''UI-173''' 是作为玩笑内容加入的。
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Fallbacker]]
+[[Category:Section UI]]

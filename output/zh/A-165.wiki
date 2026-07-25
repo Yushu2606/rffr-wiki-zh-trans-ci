@@ -1,0 +1,36 @@
+{{DISPLAYTITLE:A-165 (???)}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Scrapped|reason=<br>1：“给出的概念只是[[E-45]]的劣化版”<br>2：“感觉没有存在必要”}}
+{{InfoBox:Entity
+|entity_name=A-165
+|entity_image=A165.webp
+|previous_entity=[[A-135]]<br>[[A-135i]]
+|next_entity=[[A-200]]<br>[[A-200i]]
+|nicknames=???
+|appears_at=
+|type=固定者
+|locker_snipe=
+|claustrophobia=
+|behavior=会生成在随机柜子中，若玩家试图躲入该柜子，会被吸取部分体力
+|speed=固定者
+|gun_effect=无
+|damage=无
+|related_monsters=[[D-175]]<br>[[M-134]]<br>[[E-45]]
+}}
+
+==描述==
+'''A-165'''是目前[[Section A|A区]]唯一的废弃实体。
+
+==机制==
+'''A-165'''生成后原本会待在随机柜子内，任何试图躲入它所在柜子的玩家都会被吸取体力。
+
+== 冷知识 ==
+
+* 其设计早在12月就已制作完成
+* 在设计者Collese的文件夹中，该设计的文件名为stoic
+** 这意味着该设计原本计划用于Collese制作的另一款游戏，目前无人知晓那款游戏的后续情况。
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Removed/Scrapped Entities]]
+[[Category:Section A]]

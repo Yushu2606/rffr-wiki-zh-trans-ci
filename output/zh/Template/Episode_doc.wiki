@@ -1,0 +1,40 @@
+== 描述 ==
+要使用此模板，请添加{{T|{{BASEPAGENAME}}}}模板并填写对应字段。留空的字段不会在文章中显示。本信息框模板使用[[w:Help:Infobox|Fandom 信息框语法]]。
+
+== 语法 ==
+<pre>{{Episode
+ | title             = 
+ | partOfSeason      = 
+ | episodeNumber     = 
+ | image             = [例如 "Example.jpg"]
+ | airDate           = 
+ | writer            = 
+ | director          = 
+ | previousEpisode   = 
+ | nextEpisode       = 
+}}</pre>
+
+== 示例输出 ==
+{{Episode
+ | title             = 巴别之花
+ | partOfSeason      = 1
+ | episodeNumber     = 3
+ | image             = Example.jpg
+ | airDate           = 未播出
+ | writer            = D. Righta
+ | director          = A. di Rektour
+ | previousEpisode   = 第二集
+ | nextEpisode       = 第四集
+}}<pre>{{Episode
+ | title             = 巴别之花
+ | partOfSeason      = 1
+ | episodeNumber     = 3
+ | image             = Example.jpg
+ | airDate           = 未播出
+ | writer            = D. Righta
+ | director          = A. di Rektour
+ | previousEpisode   = 第二集
+ | nextEpisode       = 第四集
+}}</pre>
+
+<includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>

@@ -1,0 +1,46 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 9px white; cursive; background-image: linear-gradient(white, #373737); -webkit-background-clip: text; color: transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">GOD-200 (The SAVIOUR)</span>}}
+{{ArticleBackground|File=MultiSectional.gif}}
+{{InfoBox:Entity
+|entity_name=GOD-200
+|entity_image=<gallery>
+File:Airsmile.gif|Current Design
+File:AirRing.gif|Ring Design
+File:GOD-200.png|Old Design
+NewRenovatedair.gif|Jumpscare Design
+</gallery>|caption-entity_image=  
+|appears_at=When a fatal error happens.
+|nicknames=GOD-200
+|behavior=Will spawn from behind and rush to the main room extremely fast and kill any player it passes.
+|damage=Instant Death
+|speed=Fast
+|claustrophobia=No
+|gun_effect=None
+|related_monsters=[[A-200]]<br>
+[[SHA-200]]<br>
+[[Gato]]<br>
+[[Rina]]
+|sound1=<center>Spawn</center><center>[[File:GOD200SPAWN.mp3]]</center>
+|sound2=<center>Ambience</center><center>[[File:GOD200Ambience.mp3]]</center>
+|sound3=<center>Jumpscare</center><center>[[File:GOD200JUMP.mp3]]</center>}}
+
+==Behavior==
+Upon spawning, '''GOD-200''' will display a subtitle saying "𝐆𝐎𝐃 𝐈𝐒 𝐇𝐄𝐑𝐄.". Shortly after, '''GOD-200''' will rush to the main room at high speeds, emitting a speed-up version of [[SHA-200]]'s sound. Upon reaching the main room, '''GOD-200''' will kill all players, no matter if they are hidden or in a safe spot, as '''GOD-200'''<nowiki/>'s range can pass through objects and wall just like [[D-5i]]'s range.
+
+== Strategy & tips ==
+* There is nothing you can do if '''GOD-200''' spawns. So just wait for it to kill you.
+
+==Trivia==
+* '''GOD-200''' acts like a fail safe, being spawned if the game experiences a fatal error.
+* '''GOD-200''' is the replacement for [[Rina]].
+* '''GOD-200''' is usually globally spawned by Developers after a huge bug is fixed to reset all servers.
+
+== Gallery ==
+<gallery>
+File:200.gif|'''GOD-200''''s animation
+File:SpookyJumpscare.gif|'''GOD-200''''s Jumpscare
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Run Ender]]
+[[Category:Rusher]]

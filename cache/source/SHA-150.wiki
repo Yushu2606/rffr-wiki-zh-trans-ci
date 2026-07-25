@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:<span style="animation: sha150 8s infinite;">SHA-150 (Dissociation)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-150
+|entity_image=<gallery>
+PinkSha150.gif|Purple Form
+BlackSha150.gif|Black Form
+</gallery>
+|previous_entity=[[SHA-140]]
+|next_entity=[[SHA-180]]
+|nicknames=Dissociation
+|gun_effect=No Shadow can be shot
+|appears_at=[[Shadow Challenge|SC]] (If spawned by [[SHA-4]])<br>[[Alpha & Shadowpocalypse|A&SP]]
+|locker_snipe=Yes
+|type=Shadow<br>Locker Checker.
+|claustrophobia=No
+|behavior=will check the lockers the same color as it, swapping colors when it reaches the previous room
+|speed=Slow
+|damage=??? DPS 25~ (Shadow Plague)
+|related_monsters=[[M-150]]
+|caption-entity_image=Evil mf}}
+
+== Description ==
+'''SHA-150''' is the one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of  [[M-150]].
+
+== Behavior ==
+When '''SHA-150''' spawns, it will highlight all lockers with a black outline or a full purple color, SHA-150 locks the door to the 3rd room to avoid cheesing. After around 3 seconds, he will spawn similarly to M-150, being colored black or purple. Then, he starts checking lockers in the main room that are the same color as him. Once he's done checking the main room, he will swap colors then go to the previous room, checking every locker as its new color. After he is done with checking the lockers, he will despawn the same way M-150 does.
+
+== Strategies & Tips ==
+* stay near a locker in the previous room that is the same color as it when it spawned, since he will change colors by the time he reaches you.
+** you should try to hide as late as possible and predict when it goes to the previous room, since it wont extend [[Claustrophobia]] like [[M-150]] does.
+
+== Trivia ==
+TBA
+
+== Gallery ==
+<gallery>
+SHA-150 2nd form.png|Purple Form Ingame
+SHA-150 first form.png|Black Form Ingame
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Locker Checker]]

@@ -1,0 +1,8 @@
+{{Spacer}}
+A '''Documentation template''' are non-article templates that teach the user the parameters and uses of a template.
+----
+<center>''Below are all articles that have this category.''</center>
+{{Spacer}}
+
+
+[[Category:Templates]]

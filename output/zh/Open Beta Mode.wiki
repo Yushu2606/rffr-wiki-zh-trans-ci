@@ -1,0 +1,105 @@
+__NOTOC__
+{{ArticleBackground|File=Open Beta Crate Blocking with Lockers.png}}
+
+{{Modifier|GradiantDetails=to bottom, #0000FF, #000055|TextColor=#DDDDFF|Name=[[Open Beta Mode|开放测试模式]]|Details=以R:FF最初上线时的状态游玩游戏。该版本中仅存在3种威胁。}}
+
+==概述==
+'''开放测试模式'''，即R:FF的最古老版本，是一个如其名称所示可用于游玩游戏开放测试版本的修饰符。它是所有修饰符中最基础、包含实体最少的，仅包含<span style= "color:#a60a03">'''A-60'''</span>、'''A-200'''以及<span style= "color:#eb0c0c">'''Mouth'''</span>。这三个实体中有两个源自原版Rooms。
+
+==实体==
+<tabber>
+|-|A-60=
+{{InfoBox:Entity
+|next_entity='''A-200'''
+|entity_name=<span style= "color:#a60a03">A-60</span>
+|entity_image=A-60 Open Beta.gif
+|appears_at=A-060之后任意时刻
+|nicknames=多重怪物
+|type=冲刺者
+|behavior=快速冲向下一扇门，在房间内停留数秒后消失。
+|sound2=<center>播放音效</center><center>[[File:A60sound.mp3]]</center>
+}}
+
+==描述==
+<span style= "color:#a60a03">'''A-60'''</span>是<span style= "color:#000ED5">开放测试模式</span>中你会遇到的第一个实体。它的机制相当基础，保留了其[[A-60|现代版本]]的大部分特性。
+
+==机制==
+会在距离当前房间后方50-60间房的随机位置生成。你首先会听到远处传来微弱的静电噪音，随后它会停在当前房间。静电噪音会持续播放直到它消失，之后玩家即可继续前进。
+
+==应对方式==
+<span style= "color:#a60a03">'''A-60'''</span>的应对难度很低，当你听到非常明显的静电噪音时，躲进任意柜子里即可。另外注意该修饰符中不存在[[Claustrophobia|幽闭恐惧]]机制。
+
+==冷知识==
+*<span style= "color:#a60a03">'''A-60'''</span>的外观与原版Rooms中的设计完全一致。
+
+|-|A-200=
+{{InfoBox:Entity
+|next_entity=Mouth
+|previous_entity=<span style= "color:#a60a03">'''A-60'''</span>
+|entity_name=A-200
+|entity_image=A-200 Open Beta.gif
+|appears_at=A-200之后任意时刻
+|nicknames=快乐涂鸦
+|type=Backtracker（回溯者）<br>反弹者
+|behavior=在门上敲击三次，随后冲刺并折返。
+|damage=???
+|sound1=<center>敲击声</center><center>[[File:Dumbdrum.mp3]]</center>
+}}
+
+==描述==
+'''A-200'''是<span style= "color:#000ED5">开放测试模式</span>修饰符中你会遇到的第二个实体，也是该模式中唯一的反弹者与回溯者。
+
+==机制==
+会先在当前的下一扇门上敲击三次，随后破门并快速向房间后方冲刺。约23秒后，它会折返并消失，同时发出标志性的嚎叫声，此时玩家即可继续前进。
+
+==应对方式==
+'''A-200'''的应对难度很低，玩家仅需躲进柜子即可。但它冲刺和折返需要一定时间，建议玩家先向前逃生约20秒再重新躲藏。
+
+==冷知识==
+*'''A-200'''是你会遇到的第二个实体。
+
+|-|Mouth=
+{{InfoBox:Entity
+|previous_entity='''A-200'''
+|entity_name=<span style= "color:#eb0c0c">'''Mouth'''</span>
+|entity_image=Mouth_OpenBeta.png
+|appears_at=???
+|nicknames=Mouth
+|type=Backtracker（回溯者）
+|behavior=破门后缓慢向后移动。
+|damage=???
+}}
+
+==描述==
+<span style= "color:#eb0c0c">'''Mouth'''</span> 是<span style= "color:#000ED5">Open Beta Mode（开放测试模式）</span>修饰符中可遇到的最后一个实体，也是三个该模式专属实体中最为稀有的。
+
+==机制==
+它会先破坏门，随后一边跟随玩家一边缓慢后退。再过几道门后，<span style= "color:#eb0c0c">'''Mouth'''</span> 就会完全退走，玩家即可安全继续前进。
+
+==如何存活==
+如果此时已有其他实体正在接近，<span style= "color:#eb0c0c">'''Mouth'''</span> 会变得非常棘手。出现这种情况时，玩家需要尽可能逃远，再躲进柜子里。这个<span style= "color:#eb0c0c">'''Mouth'''</span> 不会破坏柜子。如果当前除它之外没有其他实体，玩家只需要一直往前跑，直到它退走即可。
+
+==你知道吗==
+*<span style= "color:#eb0c0c">'''Mouth'''</span> 是该修饰符中唯一不来自原版Rooms的怪物。
+
+</tabber>
+
+==Rooms==
+<gallery>
+File:OPEN BETA START.png|起始房间
+File:Open Beta 4 Locker Room.png|带有4个柜子的房间
+File:Open Beta 4 Desk.png|带有4张桌子的房间
+File:Open Beta Crate Blocking with Lockers.png|方形房间
+File:Open Beta Tight Hallway Boxes.png|带有3个柜子的L形房间
+File:Open Beta Boxes Left.png|左侧堆放有箱子的房间
+File:Open Beta Boxes + 2 Desks.png|带有2个纸箱和若干桌子的房间
+File:Open Beta Many Crates.png|堆放有大量板条箱的房间
+</gallery>
+
+==攻略技巧==
+*尽管冲刺持续时间为8秒，但玩家一旦进入力竭状态后可以立刻再次开始冲刺，重新获得8秒的冲刺时间。
+*[[Claustrophobia|幽闭恐惧]]不存在于本模式中。你可以利用这一点，或是在需要AFK（暂离）时使用。
+
+{{BrowseNavBox}}
+
+[[Category:Browsing]]

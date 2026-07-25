@@ -1,0 +1,174 @@
+{{DISPLAYTITLE:<span style="animation: mouf 4s infinite;">Mouth (A/D/M(I)/False/E-300)</span>}}
+<tabber>
+|-|Base=
+{{ArticleBackground|File=MultiSectional.gif}}
+{{NoteBox|note=Not to be confused with '''A-300''' from '''Rooms: Re-Established'''}}
+{{InfoBox:Entity|entity_name=Mouth|entity_image=<gallery>
+MouthColorless.png|Design
+A-300.png|A Section Mouth
+DSectionMouth.png|D Section Mouth
+MSectionMouth.png|M Section Mouth
+False300.png|Unnamed Sector Mouth
+ESectionMouth.png|E Section Mouth
+Mouth.png|Old A Section Mouth
+D mouth.png|Old D Section Mouth
+M mouth.png|Old M section Mouth
+</gallery>
+|caption-entity_image=IM GOING TO EAT YOU HUMAN MUHHAHAHA
+|previous_entity=[[A-200i]]
+------------------------
+[[D-250]]
+------------------------
+[[M-200]]
+------------------------
+[[False-200]]
+------------------------
+[[E-245]]
+|next_entity=[[D-5]]
+------------------------
+[[M-22]]
+------------------------
+[[M-340]]
+------------------------
+[[Mori]]
+------------------------
+[[E-10]]
+|gun_effect=None
+|nicknames=A/D/M(I)/False/E-300
+|appears_at=A/D/M(I)/E-300+
+|type=Fallbacker<br>Rebounder
+|behavior=Chase you to the void wall upon attempting to open the door with Mouth behind it
+|speed=A/D-300 (Very slow)<br>M-300 (Faster than a player running)
+|damage=Instant Death|related_monsters=[[SHA-300]]
+|sound1=<center>Spawn</center><center>[[File:Mouthspawn.mp3]]</center>
+|sound2=<center>Ambience ('''[[Section A]] Mouth''')</center><center>[[File:Mouthambi.mp3]]</center>
+|sound3=<center>Ambience ('''[[Section D]] Mouth''')</center><center>[[File:DMouthAmbi.mp3]]</center>
+|sound4=<center>Ambience ('''[[Section M]] Mouth''')</center><center>[[File:MMouthAmbi.mp3]]</center>
+|sound5=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound6=<center>Jumpscare Sound ([[Section A]])</center><center>[[File:MouthJum.mp3]]</center>
+|sound7=<center>Jumpscare Sound ([[Section D]])</center><center>[[File:DMouthScare.mp3]]</center>
+|sound8=<center>Jumpscare Sound ([[Section M]])</center><center>[[File:M-300Scare.mp3]]</center>
+|sound9=<center>Jumpscare Sound ([[Unnamed Sector]])</center><center>[[File:FalseMouthScare.mp3]]</center>
+|sound10=<center>Jumpscare Sound ([[Section E]])</center><center>[[File:EMouthScare.mp3]]</center>
+|sound11=<center>[[Section A]]/[[Section D|D]] OST</center><center>[[File:DEVOUR.mp3]]</center>
+|sound12=<center>[[Section M]]/[[Section E|E]] OST</center><center>[[File:DEVOUREnraged.mp3]]</center>
+|sound13=<center>[[Unnamed Sector]] OST</center><center>[[File:Threshold of the Undefined.mp3]]</center>
+|sound14=<center>Old Soundtrack</center><center>[[File:OldMouthOST.mp3]]</center>}}
+
+<h2>Description</h2>
+Mouth, is a <s>boss</s> entity that you must run away from and can only spawn past room 300 in any section, more information below.
+
+{{#tag:tabber
+|Section A=
+'''Section A:'''
+
+<h2>Behavior</h2>
+'''A-300''' will spawn behind the next rooms door with no warning whatsoever, the only indication of '''A-300''' spawning is when if a player tries to open the door and get the message “Something is blocking this door from opening...” (if theres another entity active, '''A-300''' will just break down the door after 2 seconds, Despawning said entities). Shortly after, '''A-300''' will bust down the door and break every hiding spot and begin to chase the player back. '''A-300''' is faster than the player’s walking speed but can be outrun with a sprint. The chase will last until the player gets to the furthest room possible where the void is at, or if '''A-300''' is too far away from the player, where '''A-300''' will bounce off the exit and go back ending the boss. Any player caught by '''A-300''' will die instantly.
+
+<h2>Strategies & Tips</h2>
+* If you try to open the door and it says that “Something is stopping this door from opening.”, just simply run away from it. You don't even need to run at all of it since '''A-300''' is awfully slow. 
+
+
+{{!}}-{{!}}
+Section D=
+'''Section D:'''
+
+<h2>Behavior</h2>
+'''D-300''' will spawn behind the next rooms door with no warning whatsoever, the only indication of '''D-300''' spawning is when if a player tries to open the door and get the message “Something is blocking this door from opening...” (if theres another entity active, '''D-300''' will just break down the door after 2 seconds, Despawning said entities). Shortly after, '''D-300''' will bust down the door and break every hiding spot and begin to chase the player back. '''D-300''' is faster than the player’s walking speed but can be outrun with a sprint. The chase will last until the player gets to the furthest room possible where the void is at, or if '''D-300''' is too far away from the player, where '''D-300''' will bounce off the exit and go back ending the boss. Any player caught by '''D-300''' will die instantly.
+
+<h2>Strategies & Tips</h2>
+* If you try to open the door and it says that “Something is stopping this door from opening.”, just simply run away from it. You don't even need to run at all of it since '''D-300''' is awfully slow.
+
+{{!}}-{{!}}
+Section M=
+'''Section M:'''
+
+<h2>Behavior</h2>
+'''M-300''' will spawn behind the next rooms door with no warning whatsoever, the only indication of '''M-300''' spawning is when if a player tries to open the door and get the message “Something is blocking this door from opening...” (if theres another entity active, '''M-300''' will activate after a few seconds, Despawning said entities). Shortly after, '''M-300''' will bust down the door and break every hiding spot and begin to chase the player back. '''M-300''' is faster then the normal player speed, but the player is sped up and given infinite stamina during this sequence. The chase will last until the player gets to the furthest room possible where the void is at, where '''M-300''' will bounce off the exit and go back ending the boss. Any player caught by '''M-300''' will die instantly.
+
+<h2>Strategies & Tips</h2>
+* If you try to open the door and it says that “Something is stopping this door from opening.”, turn around immediately and make as much distance as you can before it breaks the door.
+
+{{!}}-{{!}}
+Unnamed Sector=
+'''Unnamed Sector:'''
+
+<h2>Behavior</h2>
+Once the player reaches the 1st exit within the [[Unnamed Sector]] and reaches the end of the long hallway, they will be frozen in place while their camara is pointed behind them, where '''False-300''' will break the door the player came from and will chase them forward through many obstacles until they reach the 2nd and true exit.
+
+<h2>Strategies & Tips</h2>
+* Use all the utilities you have come across during this chase to try and gain as much distance as possible
+** Beware that using multiple Adrenaline Shots will cause you to get a heart attack, so avoid using multiple
+* '''False-300''' isn't really the main threat during the chase, the obstacles are, so focus more on them.
+
+{{!}}-{{!}}
+Section E=
+'''Section E:'''
+
+<h2>Behavior</h2>
+'''E-300''' will spawn behind the next rooms door with no warning whatsoever, the only indication of '''E-300''' spawning is when if a player tries to open the door and get the message “Something is blocking this door from opening...” (if theres another entity active, '''E-300''' will just break down the door after 2 seconds, Despawning said entities). Shortly after, '''E-300''' will bust down the door and break every hiding spot and begin to chase the player back. '''E-300''' is faster than the player’s walking speed but can be outrun with a sprint. The chase will last until the player gets to the furthest room possible where the void is at, or if '''E-300''' is too far away from the player, where '''E-300''' will bounce off the exit and go back, having a 33% chance to place itself behind the door yet and again and repeat the chase once the player walks back to the main room. Any player caught by '''E-300''' will die instantly.
+
+<h2>Strategies & Tips</h2>
+* If you try to open the door and it says that “Something is stopping this door from opening.”, turn around immediately and make as much distance as you can before it breaks the door.
+* once the 1st chase is over, regain all your stamina before you enter the main room in case it re activates.
+}}
+
+<h2>Trivia</h2>
+* '''Mouth''' is the only entity that has '''6''' variations (Counting with [[SHA-300]] now).
+*actually, mouth does give a warning: its a faint, growling noise behind the door.
+**the growling is more noticeable in e sec
+* DEVOUR OST (Chase theme)
+** https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyMraycast
+* Mouth's Jumpscare comes from Shattered Chica  In Five Nights At Freddy's: Security Breach
+**https://create.roblox.com/store/asset/9055267625 <-- Click here for sound
+
+<h2>Gallery</h2>
+<gallery>
+File:False-300 ingame.png|'''False-300''' seen in-game
+File:MouthsScare.gif|Jumpscare ([[Section A]])
+File:DMouthJum.gif|Jumpscare ([[Section D]])
+File:M-300Scare.gif|Jumpscare ([[Section M]])
+F300Jump.gif|Jumpscare ([[Unnamed Sector]])
+File:ESectionMouthJumpscare.gif|Jumpscare ([[Section E]])
+File:MouthMessage.png|The message the player gets when trying to open a door with Mouth behind it.
+</gallery>
+
+<h2>Badges</h2>
+{{BadgeUnnamed|Image=Clipped Wings.png|Name=Clipped Wings|Description=So close, yet so far.|Obtainment=Die during '''False-300''''s chase.}}
+
+|-|Section UI=
+'''Section UI:'''
+{{Modifier Exclusive|[[Super Epic Mode]]}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{InfoBox:Entity
+|entity_name=I-300
+|entity_image=UImouth.png
+|previous_entity=[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
+|next_entity=[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
+|appears_at=I-450+
+|type=Fallback
+|claustrophobia=No
+|behavior=Will spawn behind the door, breaking it down and chasing the player back, checking every locker
+|speed=Slow
+|damage=Instant Death
+|related_monsters=???
+|nicknames=Mouth<br>I-300
+|sound1=<center>Chase Soundtrack</center><center>[[File:OldMouthOST.mp3]]</center>}}
+
+<h2>Description</h2>
+'''I-300''' is the 2nd Entity present within the final 100 rooms of [[Section UI]], more info on '''I-300''' shown below.
+
+<h2>Behavior</h2>
+'''I-300''' will spawn behind the next rooms door with no warning whatsoever, the only indication of '''I-300''' spawning is when if a player tries to open the door and get the message “Something is blocking this door from opening...” (if theres another entity active, '''I-300''' will just break down the door after 2 seconds, Despawning said entities). Shortly after, '''I-300''' will bust down the door and begin to chase the player back, checking every locker. '''I-300''' is faster than the player’s walking speed but can be outrun with a sprint. The chase will last until the player gets to the furthest room possible where the void is at, or if '''I-300''' is too far away from the player, where '''I-300''' will bounce off the exit and go back ending the boss. Any player caught by '''I-300''' will die instantly.
+
+<h2>Strategies & Tips</h2>
+* If you try to open the door and it says that “Something is stopping this door from opening.”, just simply run away from it. You don't even need to run at all of it since '''I-300''' is not as fast/wastes a lot of time checking lockers.
+** it is still recommended you try to keep as much distance as possible from '''I-300''', since the [[Section I]] rooms are long.
+* try not to run for too long per sprint, as you cannot see your stamina bar while in [[Super Epic Mode]].
+
+</tabber>
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:All Sections]]
+[[Category:Section UI]]
+[[Category:Fallbacker]]

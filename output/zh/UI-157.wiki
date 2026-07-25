@@ -1,0 +1,35 @@
+{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{Headphones}}
+{{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
+{{InfoBox:Entity
+|entity_name=[[File:UI-157Placeholder.png|frameless|link=UI-157]]
+|entity_image=UI157.webp
+|previous_entity=[[UI-110]]
+|next_entity=[[UI-173]]
+|appears_at=I-157+
+|type=冲刺者
+|damage=秒杀
+|related_monsters=[[UI-110]]
+|sound1=<center>激活音效 '''已调整'''</center><center>[[File:SemBoss.mp3]]</center>
+|sound2=<center>环境音效</center><center>[[File:UI-157Ambiance.mp3]]</center>}}
+
+==描述==
+'''UI-157''' 是你在[[Section Interchange|互通区]]中可能遇到的第7个实体，更多信息见下文。
+
+== 行为 ==
+当'''UI-157'''生成时，它会播放名为“Horror Race”的曲目，和所有I区的其他实体一样。如果当前存在更多实体，它会播放同一首歌，但音调更高、速度更快。
+
+'''UI-157'''的行为与[[UI-110]]完全相同，会在消失前极快地冲向门，仅比[[UI-110]]稍慢一点。
+
+== 应对策略与技巧 ==
+听到它的声音时立刻躲藏，因为它的速度非常快。
+
+== 你知道吗 ==
+* 和大多数UI实体一样，'''UI-157'''是作为玩笑内容加入的。
+
+{{EntityNavBox}}
+
+[[Category:Entities]]
+[[Category:Super Epic Mode]]
+[[Category:Rusher]]
+[[Category:Section UI]]

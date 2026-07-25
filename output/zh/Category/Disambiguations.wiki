@@ -1,0 +1,13 @@
+{{Spacer}}
+<big><center>'''你可能正在查找实际模板：''[[Template:Disambiguation|消歧义]]''。'''</center></big>
+----
+'''消歧义'''模板是一类包含多个名称相近的条目列表的页面。<br>
+----
+<center>''以下是属于该分类的所有条目。''</center>
+{{Spacer}}
+
+[[Category:Maintenance]]
+
+
+
+[[Category:{{SITENAME}}]]

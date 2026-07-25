@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">SHA-7 (Revenant)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{InfoBox:Entity
+|entity_name=SHA-7
+|entity_image=<gallery>
+SHA7CLOSED.gif|Closed Face Animation
+SHA7OPENED.gif|Open Face Animation
+Better face.png|Design (Crop)
+</gallery>
+|previous_entity=[[SHA-4]]
+|next_entity=[[SHA-22]]
+|nicknames=Revenant
+|gun_effect=No Shadow can be shot
+|appears_at=[[Shadow Challenge|SC]] (If spawned by [[SHA-4]])<br>[[Alpha & Shadowpocalypse|A&SP]]
+|type=Noisemaker
+|claustrophobia=No
+|behavior=Blocks entity sounds
+|speed=Stationary<br>Fast (Moving to main room)
+|damage=25~ (Shadow Plague)
+|related_monsters=[[M-7]]
+|sound1=<center>Ambience</center><center>[[File:SHA-7Ambi.mp3]]</center>
+|sound2=<center>Open Face Whispers</center><center>[[File:SHA7Whispers.mp3]]</center>}}
+
+== Description ==
+'''SHA-7''' is the one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of the removed entity [[M-7]].
+
+== Behavior ==
+When '''SHA-7''' Spawns, it can be located anywhere in the room, similar to D-20. Except, there are little to no restrictions of where he spawns, or where he moves to when the next door is opened.
+
+'''SHA-7''' is a noisemaker, he almost entirely blocks the sounds made from a few quiet entities. He will periodically open his face which makes his noises louder, but it's more often his face is closed. When his face is open though, the 2nd noise that can be heard is global.
+
+If doors are opened while '''SHA-7''' is active, '''SHA-7''' will instantly move to the next room and will go to a random location in the room.
+
+If the player comes in direct contact with '''SHA-7''' although he does no contact damage, the player will be infected with the shadow plague effect, which slowly deteriorates your health.
+
+For it to Despawn, it has to travel atleast 14 rooms, while also having to be active for atleast 1 minute.
+
+== Strategies & Tips ==
+* Stay near a locker at all times, as '''SHA-7''' can mask the sounds coming from a few Shadow entities.
+* Progress only when '''SHA-7''' has his face closed, since the whispering sounds he makes when his face is open will make hearing other entities nearly impossible.
+
+== Trivia ==
+* Once you reach [[Red Rooms]],  '''SHA-7''' wont despawn until you reach room 1000. Good Luck.
+* '''SHA-7''' is one of the two shadow infected entities without a currently active uninfected counterpart, the other being [[SHA-180]].
+* There may only be 1 '''SHA-7''' active at a time.
+* '''SHA-7''' can invade by itself during any Perfection Event
+* '''SHA-7''' is the only Shadow entity that will not give the eyes jumpscare on death. This is because he can only damage you with Shadow Plague, and Shadow Plague damage does not trigger the eyes jumpscare.
+
+== Gallery ==
+<gallery>
+Sha7NextToD20.jpg|'''SHA-7''' seen next to [[D-20]] during a Perfection Event.
+</gallery>
+
+[[Category:Shadow Entities]]
+[[Category:Loud Entities]]
