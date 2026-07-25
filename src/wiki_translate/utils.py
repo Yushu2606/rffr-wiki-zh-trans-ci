@@ -46,16 +46,48 @@ def safe_filename(title: str) -> str:
     return _INVALID_FS.sub("_", name)
 
 
+# MediaWiki 标准命名空间前缀（英文规范名与常见别名，小写比较）。源 wiki 是英文站，
+# 标题里的命名空间就是这些名字。必须用白名单：光看"冒号前有没有内容"无法区分
+# "Template:Foo"（真命名空间）和 "Rooms: Found Footage"（主条目标题里恰好带冒号），
+# 后者会被拆成不存在的 ns 目录，导致该页读写路径对不上、被当成缺失文件跳过。
+_NAMESPACE_PREFIXES: frozenset[str] = frozenset(
+    {
+        "media",
+        "special",
+        "talk",
+        "user",
+        "user talk",
+        "project",
+        "project talk",
+        "file",
+        "file talk",
+        "image",
+        "image talk",
+        "mediawiki",
+        "mediawiki talk",
+        "template",
+        "template talk",
+        "help",
+        "help talk",
+        "category",
+        "category talk",
+        "module",
+        "module talk",
+    }
+)
+
+
 def title_to_path(title: str) -> tuple[str, str]:
     """把含命名空间前缀的标题拆成 (ns_dir, basename)。
 
-    "Template:Infobox" -> ("Template", "Infobox")
-    "Category:实体"     -> ("Category", "实体")
-    "A-120"            -> ("", "A-120")  # 主条目无前缀
+    "Template:Infobox"        -> ("Template", "Infobox")
+    "Category:实体"            -> ("Category", "实体")
+    "A-120"                   -> ("", "A-120")           # 主条目无前缀
+    "Rooms: Found Footage..." -> ("", "Rooms_ Found...")  # 冒号只是标题的一部分
     """
     if ":" in title:
         ns, _, base = title.partition(":")
-        # MediaWiki 的合法 ns 名不会含有空格、问号等
-        if ns and ns.strip() and "/" not in ns:
-            return safe_filename(ns), safe_filename(base)
+        # MediaWiki 里命名空间前缀的下划线与空格等价，且大小写不敏感
+        if ns.strip().replace("_", " ").lower() in _NAMESPACE_PREFIXES and base.strip():
+            return safe_filename(ns.strip()), safe_filename(base)
     return "", safe_filename(title)

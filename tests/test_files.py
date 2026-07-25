@@ -12,6 +12,7 @@ from wiki_translate.files import (
     _normalize_filename,
     _prepare_upload_file,
     _sniff_mime,
+    resolve_upload_collisions,
     rewrite_file_links,
 )
 from wiki_translate.system import _is_code_message
@@ -80,6 +81,24 @@ def test_rewrite_file_links_space_underscore_equivalent():
     assert out == "[[File:Bar_Baz.webp]] and [[File:Bar_Baz.webp]]"
 
 
+def test_rewrite_file_links_rename_key_with_spaces():
+    """改名表的 key 带空格时也要能命中——state.json 里的文件名就是空格形式。
+
+    回归用例：早先实现先 re.escape 整个名字再替换分隔符，而 re.escape 会把空格
+    转义成 "\\ "，替换后变成 "\\[ _]"（匹配字面量方括号），含空格的文件名全部静默失配。
+    """
+    text = "<gallery>\nFile:Section A Tight Hallway.png|cap\n</gallery>"
+    out = rewrite_file_links(text, {"Section A Tight Hallway.png": "Section_A_Tight_Hallway.webp"})
+    assert out == "<gallery>\nFile:Section_A_Tight_Hallway.webp|cap\n</gallery>"
+
+
+def test_rewrite_file_links_spaced_key_matches_underscored_text():
+    """key 用空格、正文用下划线（MediaWiki 两种写法等价）也必须命中。"""
+    text = "[[File:A-120_Recreated.png|thumb]]"
+    out = rewrite_file_links(text, {"A-120 Recreated.png": "A-120_Recreated.webp"})
+    assert out == "[[File:A-120_Recreated.webp|thumb]]"
+
+
 def test_rewrite_file_links_does_not_match_longer_filename():
     text = "[[File:Foo.jpg.bak]]"
     out = rewrite_file_links(text, {"Foo.jpg": "Foo.png"})
@@ -89,6 +108,104 @@ def test_rewrite_file_links_does_not_match_longer_filename():
 def test_rewrite_file_links_skips_noop_rename():
     text = "[[File:Foo.jpg]]"
     assert rewrite_file_links(text, {"Foo.jpg": "Foo.jpg"}) == text
+
+
+def _file_item(name: str, upload_name: str, renamed: bool = True) -> dict:
+    return {
+        "kind": "file",
+        "title": f"File:{name}",
+        "name": name,
+        "upload_name": upload_name,
+        "renamed": renamed,
+    }
+
+
+def test_resolve_collisions_two_renamed_to_same_target():
+    """D140.gif 与 D140.png 实际都是 webp 时，不能双双变成 D140.webp。"""
+    items = [
+        _file_item("D140.gif", "D140.webp"),
+        _file_item("D140.png", "D140.webp"),
+    ]
+    changes = resolve_upload_collisions(items, {})
+    names = sorted(it["upload_name"] for it in items)
+    assert len(set(names)) == 2, "两个文件必须拿到不同的上传名"
+    assert names == ["D140.webp", "D140_png.webp"]
+    assert changes == [("File:D140.png", "D140.webp", "D140_png.webp")]
+
+
+def test_resolve_collisions_unrenamed_file_keeps_its_own_name():
+    """未改名的文件对自己的原名有优先权，改名的一方让路。"""
+    items = [
+        _file_item("A-258.webp", "A-258.webp", renamed=False),
+        _file_item("A-258.gif", "A-258.webp"),
+    ]
+    resolve_upload_collisions(items, {})
+    by_name = {it["name"]: it["upload_name"] for it in items}
+    assert by_name["A-258.webp"] == "A-258.webp"
+    assert by_name["A-258.gif"] == "A-258_gif.webp"
+
+
+def test_resolve_collisions_respects_previously_uploaded_names():
+    """历史上别的文件已占用该名字时也要避开——那个文件这次没变化、不在本批里。"""
+    items = [_file_item("Sha200.gif", "Sha200.webp")]
+    state = {"File:Sha200.webp": {"uploaded_as": "Sha200.webp", "uploaded": True}}
+    resolve_upload_collisions(items, state)
+    assert items[0]["upload_name"] == "Sha200_gif.webp"
+
+
+def test_resolve_collisions_ignores_own_previous_name():
+    """文件重传时应能沿用自己上次的名字，不该被自己挡住。"""
+    items = [_file_item("D140.gif", "D140.webp")]
+    state = {"File:D140.gif": {"uploaded_as": "D140.webp", "uploaded": True}}
+    resolve_upload_collisions(items, state)
+    assert items[0]["upload_name"] == "D140.webp"
+
+
+def test_resolve_collisions_is_order_independent():
+    """结果不能依赖源 wiki 的分页顺序，否则重跑会改名重传。"""
+    a = [_file_item("D140.gif", "D140.webp"), _file_item("D140.png", "D140.webp")]
+    b = [_file_item("D140.png", "D140.webp"), _file_item("D140.gif", "D140.webp")]
+    resolve_upload_collisions(a, {})
+    resolve_upload_collisions(b, {})
+    assert {i["name"]: i["upload_name"] for i in a} == {
+        i["name"]: i["upload_name"] for i in b
+    }
+
+
+def test_resolve_collisions_no_conflict_leaves_names_untouched():
+    items = [_file_item("Foo.png", "Foo.webp"), _file_item("Bar.png", "Bar.webp")]
+    assert resolve_upload_collisions(items, {}) == []
+    assert [it["upload_name"] for it in items] == ["Foo.webp", "Bar.webp"]
+
+
+def test_resolve_collisions_latest_upload_keeps_the_plain_name():
+    """撞车留下的烂摊子：两个文件都记着同一个 uploaded_as，最后传的那个才在 wiki 上。
+
+    必须让它保住原名，否则修复反而会把当前正确的页面引用指到别的图上。
+    """
+    items = [
+        _file_item("E10i.jpg", "E10i.webp"),
+        _file_item("E10i.png", "E10i.webp"),
+    ]
+    state = {
+        "File:E10i.jpg": {"uploaded_as": "E10i.webp", "uploaded_at": 100},
+        "File:E10i.png": {"uploaded_as": "E10i.webp", "uploaded_at": 200},  # 更晚，在 wiki 上
+    }
+    resolve_upload_collisions(items, state)
+    by_name = {it["name"]: it["upload_name"] for it in items}
+    assert by_name["E10i.png"] == "E10i.webp", "当前 wiki 上的那个应保住原名"
+    assert by_name["E10i.jpg"] == "E10i_jpg.webp"
+
+
+def test_resolve_collisions_three_way_gets_distinct_names():
+    items = [
+        _file_item("X.gif", "X.webp"),
+        _file_item("X.png", "X.webp"),
+        _file_item("X.jpg", "X.webp"),
+    ]
+    resolve_upload_collisions(items, {})
+    names = [it["upload_name"] for it in items]
+    assert len(set(names)) == 3
 
 
 def test_prepare_upload_file_renames_when_policy_allows():

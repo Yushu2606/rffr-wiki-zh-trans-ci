@@ -27,6 +27,35 @@ def test_title_to_path_with_invalid_chars():
     assert "<" not in base and ">" not in base and "?" not in base
 
 
+def test_title_to_path_colon_in_main_namespace_title():
+    """主条目标题里恰好含冒号时不能当成命名空间。
+
+    回归用例：首页 "Rooms: Found Footage RENOVATED Official Wiki" 曾被拆成
+    ns="Rooms"，算出的路径与磁盘上的实际文件对不上，upload 因"缺少译文文件"跳过。
+    """
+    ns, base = title_to_path("Rooms: Found Footage RENOVATED Official Wiki")
+    assert ns == ""
+    assert base == "Rooms_ Found Footage RENOVATED Official Wiki"
+
+
+def test_title_to_path_unknown_prefix_is_main_namespace():
+    ns, base = title_to_path("Sector E: The Descent")
+    assert ns == ""
+    assert base == "Sector E_ The Descent"
+
+
+def test_title_to_path_namespace_case_and_underscore_insensitive():
+    assert title_to_path("template:Foo")[0] == "template"
+    assert title_to_path("Template_talk:Foo") == ("Template_talk", "Foo")
+
+
+def test_title_to_path_colon_with_empty_base_is_main():
+    """"Foo:" 没有实际页面名，不该被拆成空 basename。"""
+    ns, base = title_to_path("Weird:")
+    assert ns == ""
+    assert base == "Weird_"
+
+
 def test_namespace_hint_template():
     hint = _namespace_hint("Template:Infobox")
     assert "模板" in hint or "Template" in hint

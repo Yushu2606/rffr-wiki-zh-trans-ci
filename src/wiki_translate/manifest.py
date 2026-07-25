@@ -86,8 +86,13 @@ def build_rename_map(manifest: dict[str, Any]) -> dict[str, str]:
             continue
         old_name = item.get("name") or ""
         new_name = item.get("upload_name") or ""
-        if old_name and new_name and old_name != new_name:
-            rename_map[old_name] = new_name
+        if not (old_name and new_name):
+            continue
+        # 空格与下划线在 MediaWiki 文件名里等价，只差分隔符不算改名——否则会把正文
+        # 改成语义完全相同的另一种写法，凭空产生 diff 并触发无意义的重新推送。
+        if old_name.replace("_", " ") == new_name.replace("_", " "):
+            continue
+        rename_map[old_name] = new_name
     return rename_map
 
 

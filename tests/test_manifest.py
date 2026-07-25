@@ -104,3 +104,18 @@ def test_build_rename_map_only_includes_renamed_files():
 
 def test_build_rename_map_empty_when_no_files():
     assert build_rename_map(empty_manifest()) == {}
+
+
+def test_build_rename_map_ignores_separator_only_difference():
+    """空格/下划线在 MediaWiki 里等价，只差分隔符不该算改名（否则产生无意义 diff）。"""
+    manifest = {
+        "items": [
+            {
+                "kind": "file",
+                "name": "A B.webp",
+                "upload_name": "A_B.webp",
+                "renamed": True,
+            }
+        ]
+    }
+    assert build_rename_map(manifest) == {}

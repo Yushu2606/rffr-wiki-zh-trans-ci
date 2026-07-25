@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import logging
 import re
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -162,16 +163,23 @@ def _normalize_filename(filename: str, mime: str) -> tuple[str, bool]:
     return base + expected, True
 
 
+@lru_cache(maxsize=4096)
 def _filename_pattern(name: str) -> re.Pattern[str]:
     """匹配 wikitext 里对某文件名的引用：空格/下划线等价，首字母大小写不敏感（MediaWiki 标题规则）。
 
     前后不接单词字符/"."/"/"，避免命中更长文件名的一部分（例如 "Foo.jpg" 不应
     命中 "Foo.jpg.bak" 或 "notFoo.jpg" 里的子串）。
+
+    带缓存：改名表可能上千条，而每个页面都要整表过一遍，重复编译正则会成为瓶颈。
     """
-    escaped = re.escape(name)
-    escaped = re.sub(r"[ _]", "[ _]", escaped)
-    if escaped and escaped[0].isalpha():
-        escaped = f"[{escaped[0].lower()}{escaped[0].upper()}]{escaped[1:]}"
+    # 先按分隔符切开再逐段转义，最后用 [ _] 连接。不能先整体 re.escape 再替换分隔符：
+    # re.escape 会把空格转义成 "\ "，替换其中的空格会得到 "\[ _]"（匹配字面量方括号），
+    # 导致所有含空格的文件名静默失配。
+    parts = [re.escape(p) for p in re.split(r"[ _]", name)]
+    if parts and parts[0] and parts[0][0].isalpha():
+        first = parts[0]
+        parts[0] = f"[{first[0].lower()}{first[0].upper()}]{first[1:]}"
+    escaped = "[ _]".join(parts)
     return re.compile(rf"(?<![\w./]){escaped}(?![\w.])")
 
 
@@ -185,11 +193,87 @@ def rewrite_file_links(text: str, rename_map: dict[str, str]) -> str:
     """
     if not rename_map:
         return text
+    # 预筛：改名表可能上千条，而单页通常只引用几个文件。先用廉价的子串检查排掉绝大
+    # 多数候选，再跑正则。两侧都归一化成"小写 + 下划线转空格"，是正则匹配条件的放宽
+    # （正则只对首字母大小写不敏感、空格下划线等价），因此不会漏掉任何真实命中。
+    probe = text.lower().replace("_", " ")
     for old_name, new_name in rename_map.items():
         if old_name == new_name:
             continue
+        if old_name.lower().replace("_", " ") not in probe:
+            continue
         text = _filename_pattern(old_name).sub(new_name.replace("\\", "\\\\"), text)
     return text
+
+
+def _disambiguate_name(desired: str, original: str, claimed: set[str]) -> str:
+    """给撞车的上传名找一个不冲突的替代名。
+
+    用原始后缀做区分（D140.gif -> D140.webp 撞车 -> D140_gif.webp），这样结果只取决于
+    (目标名, 原文件名)，与处理顺序无关，重跑能得到同一个名字，不会反复改名重传。
+    """
+    stem, _, ext = desired.rpartition(".")
+    if not stem:  # 没有后缀
+        stem, ext = desired, ""
+    orig_ext = original.rpartition(".")[2].lower()
+    suffix = f"_{orig_ext}" if orig_ext else "_alt"
+
+    def build(n: int) -> str:
+        tail = suffix if n < 2 else f"{suffix}_{n}"
+        return f"{stem}{tail}.{ext}" if ext else f"{stem}{tail}"
+
+    n = 1
+    while build(n) in claimed:
+        n += 1
+    return build(n)
+
+
+def _claim_priority(item: dict[str, Any], files_state: dict[str, Any]) -> tuple[int, int, str]:
+    """谁更有资格拿到不带后缀的目标名——越小越优先。
+
+    1. 未改名的文件：这本来就是它自己的名字，优先级最高。
+    2. 历史上已用该名字传过的：保住既成事实，避免无谓改名重传。同一个名字有多个
+       历史声明时（正是撞车留下的烂摊子），上传时间最晚的那个才是当前 wiki 上的内容。
+    3. 其余：按标题排序，保证与源 wiki 分页顺序无关、重跑可复现。
+    """
+    want = item.get("upload_name") or item["name"]
+    if not item.get("renamed"):
+        return (0, 0, item["title"])
+    entry = files_state.get(item["title"]) or {}
+    if entry.get("uploaded_as") == want:
+        return (1, -int(entry.get("uploaded_at") or 0), item["title"])
+    return (2, 0, item["title"])
+
+
+def resolve_upload_collisions(
+    items: list[dict[str, Any]], files_state: dict[str, Any]
+) -> list[tuple[str, str, str]]:
+    """就地消解上传名冲突，返回 [(标题, 原本想用的名字, 改后的名字)]。
+
+    MIME 校正只改后缀，不看目标名是否已被占用，于是 D140.gif 和 D140.png（实际都是
+    webp）会双双变成 D140.webp，后上传的把先上传的覆盖掉——目标 wiki 上直接少一张图。
+
+    占用判定同时考虑历史（state 里其它文件的 uploaded_as）与本批；未改名的文件对自己
+    的原名有优先权，改名的一方让路。
+    """
+    batch_titles = {it["title"] for it in items}
+    claimed: set[str] = {
+        entry["uploaded_as"]
+        for title, entry in files_state.items()
+        if title not in batch_titles and entry.get("uploaded_as")
+    }
+
+    changes: list[tuple[str, str, str]] = []
+    for it in sorted(items, key=lambda x: _claim_priority(x, files_state)):
+        want = it.get("upload_name") or it["name"]
+        if want in claimed:
+            fixed = _disambiguate_name(want, it["name"], claimed)
+            it["upload_name"] = fixed
+            it["renamed"] = True
+            changes.append((it["title"], want, fixed))
+            want = fixed
+        claimed.add(want)
+    return changes
 
 
 def _list_source_files(client: FandomClient, limit: int = 0) -> list[dict[str, Any]]:

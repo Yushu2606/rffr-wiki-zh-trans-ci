@@ -24,6 +24,7 @@ from .files import (  # noqa: SLF001
     _file_cache_path,
     _list_source_files,
     _prepare_upload_file,
+    resolve_upload_collisions,
 )
 from .manifest import classify_title, save_manifest
 from .pipeline import collect_titles
@@ -177,6 +178,11 @@ def _fetch_files(
     finally:
         if download_client is not None:
             download_client.close()
+
+    # MIME 校正后可能两个文件撞到同一个上传名，必须在写 manifest 前消歧，
+    # 否则后上传的会静默覆盖先上传的（目标 wiki 上直接丢一张图）。
+    for title, want, fixed in resolve_upload_collisions(items, files_state):
+        log.warning("  上传名冲突 %s：%s -> %s", title, want, fixed)
 
     log.info(
         "文件：待上传 %d / 跳过 %d / 预校验跳过 %d",
