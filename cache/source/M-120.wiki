@@ -9,7 +9,8 @@ M-120 Design.gif|Old Design
 M-120 Anim.gif|Older Design
 </gallery>
 |previous_entity=[[M-70]]
-|next_entity=[[M-120i]] (Upcoming)<br>[[M-134]]
+|next_entity=[[M-134]]
+[[M-120i]] (Upcoming)
 |nicknames=Mimicry
 |gun_effect=will immediately despawn if the sign is destroyed while its still forming, though like [[D-5]], it will get angry after enough times
 |appears_at=Randomly upon opening any door past M-120.
@@ -26,7 +27,7 @@ M-120 Anim.gif|Older Design
 |sound4=<center>Mimic</center><center>[[File:M-120Mimic.mp3]]</center>}}
 
 ==Description==
-'''M-120''', or "Mimicry" is the fourth entity you will encounter within the M-Section. It was added a little later after M-70's addition, and it possesses a unique ability to mimic other entities and their behaviors, specifically from previous sections, making it the most unique 120 variant. More information about '''M-120''' will be presented below.
+'''M-120''', or "Mimicry" is the fourth entity you will encounter within the M-Section. It was added a little later after [[M-70]]'s addition, and it possesses a unique ability to mimic other entities and their behaviors, specifically from previous sections, making it the most unique counterpart of the said [[A-120|entity]]. More information about '''M-120''' will be presented below.
 
 ==Behavior==
 Upon spawning, '''M-120''' will manifest at middle of the current room from the door label. After it has fully formed, it will wait a few seconds before rushing backwards. Upon reaching the void wall, '''M-120''' will make drumming sounds, then it will mimic the oldest behavior(for most) of one of the eight entities that appear down below at Mimics.
@@ -56,8 +57,8 @@ Upon spawning, '''M-120's''' [[A-20]] mimic, or '''20-A''', will rush from behin
 
 <h2> Gallery </h2>
 <gallery>
-File:20-A near a player.png|Old 20-A about to kill a player
-File:20-AScare.gif|20-A Jumpscare
+File:20-A near a player.png|Old '''20-A''' about to kill a player.
+File:20-AScare.gif|'''20-A''' jumpscare.
 </gallery>
 
 |-|A-60=
@@ -111,7 +112,7 @@ Upon spawning, '''M-120's''' [[A-85]] mimic, or '''85-A''', will pivot itself si
 
 <h2> Gallery </h2>
 <gallery>
-File:85-AScare.gif|85-A Jumpscare
+File:85-AScare.gif|'''85-A''' jumpscare.
 </gallery>
 
 |-|A-135=
@@ -121,7 +122,7 @@ File:85-AScare.gif|85-A Jumpscare
 NewM120A135.png|Current Design
 135-A.png|Old Design
 </gallery>
-|nicknames=135-A<br>A-175
+|nicknames=A<br>A-175
 |type=Fallback<br>Locker Checker
 |locker_snipe=No
 |claustrophobia=Yes
@@ -137,7 +138,7 @@ Upon spawning, '''M-120's''' [[A-135]] mimic, or '''135-A''', will pivot itself 
 
 <h2> Gallery </h2>
 <gallery>
-File:135-AScare.gif|135-A Jumpscare
+File:135-AScare.gif|'''135-A''' jumpscare.
 </gallery>
 
 |-|D-5=
@@ -168,7 +169,7 @@ Upon spawning, '''M-120's''' [[D-5]] mimic, or '''5-D''', will pivot itself simi
 
 <h2> Gallery </h2>
 <gallery>
-File:5-DScare.gif|5-D Jumpscare
+File:5-DScare.gif|'''5-D''' jumpscare.
 </gallery>
 
 |-|D-20=
@@ -218,7 +219,7 @@ Upon spawning, '''M-120's''' [[D-35]] mimic, or '''35-D''', will pivot itself si
 
 <h2> Gallery> </h2> 
 <gallery>
-File:35-DScare.gif|35-D Jumpscare 
+File:35-DScare.gif|'''35-D''' jumpscare. 
 </gallery>
 
 |-|D-55=
@@ -261,16 +262,23 @@ Upon spawning, '''M-120's''' mimic, or '''55-D''', will pivot itself similarly t
 * '''M-120''' had a bug for a long time where when it was in its '''135-A''' or '''55-D''' mimic wouldn't kill you in the locker it was checking, however this has been fixed on 2/28/26, so now you can't hide in any locker for '''135-A''' or '''55-D'''.
 
 == Gallery ==
-<gallery>
-File:Screenshot 20260517 100705 Video Player.jpg|M-120 seen with his new design
-File:Screenshot 20260517 100749 Video Player.jpg|M-120 about to fallback
-File:Screenshot 20260517 100720 Video Player.jpg|M-120 fully charged
-File:Screenshot 20260517 100810 Video Player.jpg|A player about to hide from M-120 before fallbacking
-</gallery><gallery>
-File:M-120 scary.gif|M-120's old jumpscare
-File:M-120 spawning.png|Old M-120 spawning from the door sign
-</gallery>{{EntityNavBoxSectionM}}
 
+=== In-game Images ===
+<gallery>
+File:Screenshot 20260517 100705 Video Player.jpg|'''M-120 '''as seen in a current room.
+File:Screenshot 20260517 100749 Video Player.jpg|'''M-120''' about to fallback.
+File:Screenshot 20260517 100720 Video Player.jpg|'''M-120''' fully charged.
+File:Screenshot 20260517 100810 Video Player.jpg|A player about to hide from '''M-120''' before fallbacking.
+</gallery><gallery>
+File:M-120 spawning.png|Old '''M-120''' spawning from the door sign.
+</gallery>
+
+=== GIFs ===
+<gallery>
+File:M-120 scary.gif|'''M-120''''s old jumpscare.
+</gallery>
+
+{{EntityNavBoxSectionM}}
 
 [[Category:Entities]]
 [[Category:Section M]]

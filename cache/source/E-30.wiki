@@ -21,12 +21,12 @@ E30.png|Pre release Design
 |damage=??? DPS
 |nicknames=The Reticient Rusher
 |locker_snipe=Yes
-|related_monsters=[[A-20i]]
+|related_monsters=[[SHA-30]]<br>[[A-20i]]
 |sound1=<center>Ambience</center><center>[[File:E30ambi.wav]]</center>|sound2=<center>Jumpscare</center><center>[[File:E-30ScareSfx.mp3]]</center>}}
 
 
 <h2>Description</h2>
-'''E-30''', Formally '''M-30''', will be the 2nd entity you will encounter in [[Section E]], more info shown below.
+'''E-30''', Formally '''M-30''', will be the 2nd entity you will encounter in [[Section E]]. More informationabout this entity is shown below.
 
 <h2>Mechanics</h2>
 Once Spawned, '''E-30''' will appear behind the void wall and begin rushing to the main room at a moderate without warning, once it hits the door, it will Despawn.

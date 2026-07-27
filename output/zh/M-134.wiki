@@ -1,23 +1,21 @@
 {{DISPLAYTITLE:<span style="animation: m134 10s infinite;">M-134 (钱德勒)</span>}}
-{{ArticleBackground|File=MBackground.webp}}
-{{InfoBox:Entity|entity_name=[[File:G.webp|frameless|link=M-134]]
-|entity_image=M134.webp
-|previous_entity=[[M-120i]]（Upcoming）<br>[[M-120]]
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:G.gif|frameless|link=M-134]]
+|entity_image=M134.png
+|previous_entity=[[M-120]] <br> [[M-120i]]（Upcoming）
 |next_entity=[[M-150]]
 |nicknames=钱德勒
 |claustrophobia=否
 |type=静止者
 |gun_effect=无
-|appears_at=在M-134之后打开任意门时随机生成，每个房间内的生成数量随机，取决于柜子的数量
-|behavior=躲藏在随机的柜子中，等待玩家以特定方式进入其所在的柜子，随后会将玩家点燃。
-|speed=静止
-|damage=66.66666（爆炸伤害）
+|appears_at=在M-134之后打开任意门时随机生成，每个房间内的生成数量随机，取决于柜子的数量|behavior=躲藏在随机的柜子中，等待玩家以特定方式进入其所在的柜子，随后会将玩家点燃。
+|speed=静止|damage=66.66666（爆炸伤害）
 每秒5点（灼烧伤害）
 |caption-entity_image=今夜我们都将死去，而你会死得比我更早。
 |related_monsters=[[E-45]]（机制类似）<br>[[D-175]]（机制类似）}}
 
 ==描述==
-[[M-134]]是你会在M区遇到的第五个实体。它在玩家等待D-200首领战许久后于2025年首月被加入，是[[Claustrophobia|幽闭恐惧]]的同类、且更危险的孪生体，你可以在本页面中了解相关内容。[[M-134]]的更多信息将在下方介绍。
+[[M-134]]是你在[[Section M|M区]]遇到的第五个实体。在玩家等待D-200首领战许久后，它于2025年首月被加入游戏，是[[Claustrophobia|幽闭恐惧]]的同类、且更危险的孪生体，你可以在本页面中了解相关内容。[[M-134]]的更多信息将在下方介绍。
 
 ==外观==
 本页的此部分已分为标签页，移动端查看者会显示为多个段落。尽管[[M-134]]目前暂无设计迭代历史，它拥有多种呈现不同外观的形态，将在此处介绍。
@@ -38,11 +36,12 @@ M-134会生成在随机的柜子中，不进行任何行动。如果玩家快速
 
 ==画廊==
 <gallery>
-M134outside.webp|柜子外视角下的'''M-134'''
-M134inside.webp|同上，为柜子内视角
+M134outside.jpg|柜子外视角下的'''M-134'''。
+M134inside.jpg|同上，为柜子内视角。
 </gallery>
 
 {{EntityNavBoxSectionM}}
+
 [[Category:Entities]]
 [[Category:Section M]]
 [[Category:Section I]]

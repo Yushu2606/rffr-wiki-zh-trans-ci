@@ -1,9 +1,9 @@
 {{HeadphonesNotice}}
-{{ArticleBackground|File=MultiSectional.webp}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: gray;">Claustrophobia</span>}}
 {{InfoBox:Entity
 |entity_name=Claustrophobia
-|entity_image=Claustrophobia.webp
+|entity_image=Claustrophobia.jpg
 |caption-entity_image=禁止蹲点
 |appears_at=任意位置
 |nicknames=Claustrophobia
@@ -12,10 +12,10 @@
 |speed=静止
 |sound1=<center>完整环境音</center><center>[[File:Claustro.mp3]]</center>}}
 
-==描述==
+== 描述 ==
 '''Claustrophobia'''是一种不允许你长时间躲在柜子里的实体。
 
-==行为==
+== 行为 ==
 你躲藏约12秒后，它会发出出现预警，躲藏约16秒后就会开始对你造成伤害。部分[[Entities|实体]]会禁用它或是延迟它的攻击。
 
 随着你在区中不断推进，'''Claustrophobia'''的攻击速度会越来越快。举个例子，在A-300号房间时，它仅会在你躲藏6秒后就发出预警。
@@ -30,7 +30,7 @@
 * 如果能使'''Claustrophobia'''失效的实体在'''Claustrophobia'''发动攻击时生成，它会暂停攻击，直到该实体消失为止。
 * '''Claustrophobia'''当前的台词未来会替换为更严肃的版本，大概率会在Update Executive版本中实装。
 * '''Claustrophobia'''当前的部分台词是加密内容/致敬彩蛋，解释如下：
-** 摩尔斯电码内容为「GET THE FUCK OUT OF MY LOCKER NOW」（立刻他妈从我的柜子里滚出去）
+** 摩尔斯电码内容为「GET THE <s>FUCK</s> OUT OF MY LOCKER NOW」（立刻他妈从我的柜子里滚出去）
 ** 二进制代码内容为「Spill your inards, show the world the beauty of your gore.」（掏出你的内脏，向世界展示你血肉的美丽。）
 *** 这句台词致敬了《Pressure》中的“想象中的朋友”。
 ** 「IT'S TV TIME!!!」、「You feel like your about to have a bad time」、「[HYPERLINK BLOCKED]」、「CHAOS! CHAOS! THE WORLD REVOLVES AROUND ME!」以及「YOUR TAKING TOO LONG」均是对《Undertale》与《Deltarune》台词的致敬。

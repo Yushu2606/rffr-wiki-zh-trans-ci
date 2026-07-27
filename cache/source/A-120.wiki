@@ -16,7 +16,7 @@ File:A-120_Recreated.png|Old/True Legacy Design
 |damage=100 DPS (20 DPS Snipe)
 |claustrophobia=No
 |speed=45 Studs/s (backtracking)<br> 60 Studs/s (Rebounding)
-|related_monsters=[[A-135]] (Mimics A-120's sounds)<br>[[A-200]] [[A-200i]]
+|related_monsters=[[A-135]] (Mimics A-120's sounds)<br>[[A-200]] <br> [[A-200i]]
 |sound1=<center>PlaySound</center><center>[[File:Dumbdrum.mp3]]</center>
 |sound2=<center>Footsteps</center><center>[[File:Footsteps.mp3]]</center>
 |sound3=<center>Footsteps2</center><center>[[File:Footsteps2.mp3]]</center>|type=Rebounder, Fallbacker, Teleporter.|sound4=<center>A-120 Teleporting</center><center>[[File:A120Teleport.wav]]</center>|sound5=<center>A-120's Jumpscare</center><center>[[File:A120Jumpscare.wav]]</center>}}

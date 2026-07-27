@@ -10,7 +10,7 @@
 |appears_at=E-245+
 |type=Rusher<br>
 Fallbacker<br>
-Passive (When choosing/After choosing the mechanic)
+Passive
 |behavior=Will rush to the main room before picking a random mechanic
 |speed=Fast
 |damage=Extremely high DPS (Moderate DPS snipe)
@@ -32,8 +32,8 @@ these mechanics are shown below under '''Chosen Mechanics'''.
 
 <h2> Chosen Mechanics </h2>
 <tabber>
-|-|Burning=
-'''Burning:'''
+|-|Burner=
+'''Burner:'''
 {{InfoBox:Entity
 |entity_name=Burning
 |entity_image=E245Mechanic1.png
@@ -94,14 +94,14 @@ To survive, the player has to dodge roll through it, or hide in a safe spot.
 
 <h2> Behavior </h2>
 {{#tag:tabber
-|Upcoming=
-'''Upcoming:'''
-TBA
-
-{{!}}-{{!}}
-Current=
+|Current=
 '''Current:'''
 Once this mechanic is chosen, '''E-245''' will go through the door, a few seconds after chaining the player with a chain, slowing them down, after a few seconds it will fill the player's screen with static and fall back like [[E-60]] does, it will despawn past voidwall.
+
+{{!}}-{{!}}
+Upcoming=
+'''Upcoming:'''
+TBA
 }}
 
 |-|Sneak=
@@ -130,20 +130,17 @@ To survive, you'll have to either hide or stay crouched.
 <h2> Strategies </h2>
 * '''E-245''' is extremely dangerous, especially with other entities active, so it is advised you wait for him to despawn before progressing.
 ** this can be deadly if not followed, as if it chooses '''Dodge''', you won't have anywhere to hide unless you find a safe spot.
-
-* '''E-245'''<nowiki/>'s ''Burning'' mechanic has an insta-kill snipe in [[Red Rooms]], so prefer hiding quickly after '''E-245''' chooses that mechanic.<h2> Trivia </h2>
+* '''E-245'''<nowiki/>'s Burner mechanic has an insta-kill snipe in [[Red Rooms]], so prefer hiding quickly after '''E-245''' chooses that mechanic.
+<h2> Trivia </h2>
 * '''E-245''' used to be able to do its '''Dodge''' mechanic inside of [[Red Rooms]].
 ** This was changed due to it creating unfair combos, as [[E-30]] and [[E-60]] could still spawn during the encounter.
-** E-245 was going to be D-250's old orb design/concept design for its main design, but this was changed.
-
-== Bugs ==
-· In some cases, E-245 might do a different mechanic than the one chosen (for example, it chooses the chain mechanic but it later does the dodge roll mechanic)
+** '''E-245''' was going to be [[D-250]]'s old orb design/concept design for its main design, but this was changed.
 
 == Gallery ==
 <gallery>
-File:E245Opening.gif|'''E-245''''s Mouth opening designs.
-File:E245Gambling.gif|'''E-245'''' Mechanic designs.
-File:Orb.png|E-245's concept design
+File:E245Opening.gif|'''E-245''''s mouth opening designs.
+File:E245Gambling.gif|'''E-245''''s mechanic designs.
+File:Orb.png|'''E-245''''s concept design.
 </gallery>
 
 

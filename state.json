@@ -17038,9 +17038,9 @@
         "translation_hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d"
       },
       "source": {
-        "fetched_at": 1785132511,
-        "hash": "409dc9bbf4114b43c7bb13f63e485e02439fca71c034aca9951242958b222d91",
-        "revid": 13837
+        "fetched_at": 1785179409,
+        "hash": "b9c0414c50a8bc62c99d61596f2ad57149c82a82bc51bef2b2b163dc87b86759",
+        "revid": 13849
       },
       "target": {
         "fetched_at": 1785134742,
@@ -17050,8 +17050,8 @@
       },
       "translation": {
         "file": "output/zh/A-120.wiki",
-        "hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d",
-        "translated_at": 1785132511
+        "hash": "c32f8615f349829c715a14fc2c2d0aab6d92c16e0832d24759c6011294e60ead",
+        "translated_at": 1785179409
       }
     },
     "A-135": {
@@ -19414,9 +19414,9 @@
         "translation_hash": "4277b899257e0aecbfd5760627c01732675ec79fab05ffdb9b309cca2073dc0b"
       },
       "source": {
-        "fetched_at": 1784606289,
-        "hash": "1a14f81b7a2c6fe1874290a7cef683a5ff195daaf91e83ae567e7730b2b3a23a",
-        "revid": 13644
+        "fetched_at": 1785179410,
+        "hash": "3ee7ee17c9e7d17263bbd58f843f13a9c17f15ae67414db080cc63f7961ac905",
+        "revid": 13850
       },
       "target": {
         "fetched_at": 1784968175,
@@ -19426,8 +19426,8 @@
       },
       "translation": {
         "file": "output/zh/Claustrophobia.wiki",
-        "hash": "33c3884378144050f4ea7755786e4bf2299e74e414540c21325a8deac678ba52",
-        "translated_at": 1784606289
+        "hash": "cc1963c2a1a05d0341e4992bf4b1dea152d3b760075d7572b2efcaedb3167d7e",
+        "translated_at": 1785179410
       }
     },
     "D-120": {
@@ -20134,9 +20134,9 @@
         "translation_hash": "83f5818d8a95f73c873a296d5f2f28f8547f31d7f8e74919ac7099363d3b52be"
       },
       "source": {
-        "fetched_at": 1785116428,
-        "hash": "26c147f77f7e44b5538459cdf86e4a101cd760010b811160772777cf7acd50d1",
-        "revid": 13740
+        "fetched_at": 1785179516,
+        "hash": "74543b9fa3a4de4d953ab076bb00d055707ae2f0a910bb860319f47098f64593",
+        "revid": 13844
       },
       "target": {
         "fetched_at": 1784968294,
@@ -20146,8 +20146,8 @@
       },
       "translation": {
         "file": "output/zh/E-245.wiki",
-        "hash": "55775fabbad60bb07f0351c976ce1015b5453c4271546e8dec88881695580cf4",
-        "translated_at": 1785116428
+        "hash": "f987fba18f30e1dc828ff0f64138cc87ffc6b1fb4314f5ee67d84b2714e36b04",
+        "translated_at": 1785179516
       }
     },
     "E-30": {
@@ -20158,9 +20158,9 @@
         "translation_hash": "4bb1141d2eac9c40e0aa08cd7e632a927f06a3864e652094929af97cd79d365d"
       },
       "source": {
-        "fetched_at": 1785116252,
-        "hash": "8b571155ef5d80ff941303e1cb0e9581789383b5c48169239b827372b0c73334",
-        "revid": 13735
+        "fetched_at": 1785179477,
+        "hash": "86bda1bf33ead9fda8e22a8c46001d52429fb782300c14465e159db316c90ad7",
+        "revid": 13843
       },
       "target": {
         "fetched_at": 1784968298,
@@ -20170,8 +20170,8 @@
       },
       "translation": {
         "file": "output/zh/E-30.wiki",
-        "hash": "f4379bf209309f533179fd7edc27028bf73c155ca66eb014ae3703f115227f9c",
-        "translated_at": 1785116252
+        "hash": "ef4951a9e08b0960134cbd1d167e59da1437ff6179b6dbe796b143312df5abfc",
+        "translated_at": 1785179477
       }
     },
     "E-30i": {
@@ -20950,9 +20950,9 @@
         "translation_hash": "c3789e53dcc6f6373e3c6afeeb868c96020d01f7385c19b8e0890f2d4f72e744"
       },
       "source": {
-        "fetched_at": 1784607806,
-        "hash": "ae99b322ab4797e397050a4c16ee4af3994fdd29803aedb325e5c49dbdc92a49",
-        "revid": 13446
+        "fetched_at": 1785179919,
+        "hash": "249d45b9aa1ed48164d7c3756aa599ccd44156ba62b81dc5449502b6ffb41e50",
+        "revid": 13845
       },
       "target": {
         "fetched_at": 1784968421,
@@ -20962,8 +20962,8 @@
       },
       "translation": {
         "file": "output/zh/M-120.wiki",
-        "hash": "f34c1497b2f6d952d4ef692df1bac37f96eb277bfb4efbef4a04bab30b31b083",
-        "translated_at": 1784607806
+        "hash": "d0848c4d30b50fd049e550caf341d699c977eb99f00d94aadaae1e52bd64a52b",
+        "translated_at": 1785179919
       }
     },
     "M-120i": {
@@ -20998,9 +20998,9 @@
         "translation_hash": "561fef76dcd943e95705a88eee17e2d7d28379c8c65711a8afa14496cb2c7ae0"
       },
       "source": {
-        "fetched_at": 1784607349,
-        "hash": "e4b7aabe170752bd33c0d6d1ec83bc59e5a4b23a0d2d6e16ae70f75d7065633a",
-        "revid": 13429
+        "fetched_at": 1785179380,
+        "hash": "44e03453916a07468764e7ecc9e0ad7faa3d860c9438747d04318247980bea09",
+        "revid": 13848
       },
       "target": {
         "fetched_at": 1784968430,
@@ -21010,8 +21010,8 @@
       },
       "translation": {
         "file": "output/zh/M-134.wiki",
-        "hash": "2a6e3bae8bcf91c5a1f61a482fe4f68d43e2d54ce98304f73a8d54f370f5a4e8",
-        "translated_at": 1784607349
+        "hash": "7113c772ef6a895ac3b810dabf23166e2137ba3e6531c293196d820267fa7f65",
+        "translated_at": 1785179380
       }
     },
     "M-150": {
@@ -21214,9 +21214,9 @@
         "translation_hash": "f1b0830f604e87fe2d072c002c570edcdbc124139db834222cfdbcd026631aa7"
       },
       "source": {
-        "fetched_at": 1784607536,
-        "hash": "f5865f5adf1391f68973317fd2044b5e8c1fc09d7ad59d6b9ca1084435560f7c",
-        "revid": 13426
+        "fetched_at": 1785179306,
+        "hash": "4dc6a946807fffb2625062ab76b2fd191e8e13f1f0494b38dad8e4e8b4be9284",
+        "revid": 13846
       },
       "target": {
         "fetched_at": 1784968468,
@@ -21226,8 +21226,8 @@
       },
       "translation": {
         "file": "output/zh/M-70.wiki",
-        "hash": "fd6b1a316d9639787c26eb02dbe553b94801772556c1cb173dc349a169bf59b7",
-        "translated_at": 1784607536
+        "hash": "c53f8c505ce38fa7a8341e2d75bae0e12391f7edaca68de67c07f9bdfd35e27c",
+        "translated_at": 1785179306
       }
     },
     "Mary": {

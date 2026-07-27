@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="animation: m70 0.75s infinite;">M-70（广播者）</span>}}
-{{ArticleBackground|File=MBackground.webp}}
-{{InfoBox:Entity|entity_name=[[File:Gayness.webp|frameless|link=M-70]]|entity_image=<gallery>
-NewM70.webp|待机
-NewM70Jumpscare.webp|跳杀
-NewM-70.webp|旧版待机
-NewM-70Jumpscare.webp|旧版跳杀
-M70.webp|更旧版待机
+{{ArticleBackground|File=MBackground.jpg}}
+{{InfoBox:Entity|entity_name=[[File:Gayness.gif|frameless|link=M-70]]|entity_image=<gallery>
+NewM70.png|待机
+NewM70Jumpscare.png|跳杀
+NewM-70.png|旧版待机
+NewM-70Jumpscare.png|旧版跳杀
+M70.png|更旧版待机
 M-70!.webp|更旧版跳杀
 </gallery>
 |previous_entity=[[M-60]]<br>
@@ -25,7 +25,7 @@ M-70!.webp|更旧版跳杀
 |sound3=<center>伏击环境音</center><center>[[File:M-70Ambush.mp3]]</center>|related_monsters=[[D-200]]（机制类似）|sound4=<center>击杀音效</center><center>[[File:M-70KillSound.mp3]]</center>}}
 
 ==描述==
-'''M-70'''是你在M区会遇到的第四个实体。它在第三次重制更新测试中加入，与其他实体相比更加多样独特。下文将介绍有关'''M-70'''的更多信息。
+'''M-70'''是你在[[Section M|M区]]会遇到的第四个实体。它在第三次重制更新测试中加入，与其他实体相比更加多样独特。下文将介绍有关'''M-70'''的更多信息。
 
 ==机制==
 当M-70生成时，你身后的所有门都会关闭。片刻后下一扇门的编号会多次响起提示音，随后M-70会出现在那扇门后并沿房间往回移动。如果有玩家离开躲藏点，M-70会回头追击他们。10-15秒后，M-70会消失。如果M-70发现玩家没有完全躲藏，玩家会被秒杀。  
@@ -49,7 +49,7 @@ M-70!.webp|更旧版跳杀
 == 画廊 ==
 <gallery>
 File:M-70 close.webp|游戏内近距离观察到的'''M-70'''。
-File:M-70Jumpscare.webp|M-70的跳杀
+File:M-70Jumpscare.gif|'''M-70'''<nowiki/>的跳杀
 </gallery>{{EntityNavBoxSectionM}}
 
 [[Category:Entities]]

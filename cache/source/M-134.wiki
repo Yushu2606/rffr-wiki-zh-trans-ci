@@ -2,7 +2,7 @@
 {{ArticleBackground|File=MBackground.jpg}}
 {{InfoBox:Entity|entity_name=[[File:G.gif|frameless|link=M-134]]
 |entity_image=M134.png
-|previous_entity=[[M-120i]] (Upcoming)<br>[[M-120]]
+|previous_entity=[[M-120]] <br> [[M-120i]] (Upcoming)
 |next_entity=[[M-150]]
 |nicknames=Chandler
 |claustrophobia=No
@@ -15,7 +15,7 @@
 |related_monsters=[[E-45]] (similar mechanic)<br>[[D-175]] (similar mechanic)}}
 
 ==Description==
-[[M-134]] is the fifth entity you will encounter within the M-Section. It was added in the first month of 2025 after a long wait for D-200's boss fight, and it acts as a relative, more dangerous twin to [[Claustrophobia]], as you'll see throughout this page. More information about [[M-134]] will be presented below.
+[[M-134]] is the fifth entity you will encounter within the [[Section M]]. It was added in the first month of 2025 after a long wait for D-200's boss fight, and it acts as a relative, more dangerous twin to [[Claustrophobia]], as you'll see throughout this page. More information about [[M-134]] will be presented below.
 
 ==Appearance==
 This section of the page has been divided into tabbers, or multiple paragraphs for mobile viewers. Despite [[M-134]] not having a history of designs yet, he has multiple forms that take on other appearances, which will be described here.
@@ -36,11 +36,12 @@ M-134 will spawn in a random locker doing absolutely nothing. If a player quick 
 
 ==Gallery==
 <gallery>
-M134outside.jpg|'''M-134''' seen from outside a locker
-M134inside.jpg|Ditto, but inside
+M134outside.jpg|'''M-134''' seen from outside a locker.
+M134inside.jpg|Ditto, but inside.
 </gallery>
 
 {{EntityNavBoxSectionM}}
+
 [[Category:Entities]]
 [[Category:Section M]]
 [[Category:Section I]]

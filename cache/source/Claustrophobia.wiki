@@ -30,7 +30,7 @@ As you progress through the section, '''Claustrophobia''' will start attacking q
 * If an entity that disables '''Claustrophobia''' spawns while '''Claustrophobia''' is attacking, it will pause its attack until the entity is gone.
 * '''Claustrophobia's''' current lines will be replaced with more serious lines in the future, most likely on Update Executive.
 * Some of '''Claustrophobia's''' current lines are encrypted/references, explained below:
-** The morse code says "GET THE FUCK OUT OF MY LOCKER NOW"
+** The morse code says "GET THE <s>FUCK</s> OUT OF MY LOCKER NOW"
 ** The binary code says "Spill your inards, show the world the beauty of your gore."
 *** The quote is a reference to the Imaginary Friend from Pressure.
 ** "IT'S TV TIME!!!", "You feel like your about to have a bad time", "[HYPERLINK BLOCKED]", "CHAOS! CHAOS! THE WORLD REVOLVES AROUND ME!", and "YOUR TAKING TOO LONG" are all references to Undertale and Deltarune quotes.

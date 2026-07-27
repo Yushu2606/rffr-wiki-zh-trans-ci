@@ -16,7 +16,7 @@ File:A-120_Recreated.png|旧版/纯正初代设计
 |damage=每秒100伤害（命中每秒20伤害）
 |claustrophobia=否
 |speed=45 Studs/秒（后退时）<br> 60 Studs/秒（反弹时）
-|related_monsters=[[A-135]]（模仿A-120的音效）<br>[[A-200]] [[A-200i]]
+|related_monsters=[[A-135]]（模仿A-120的音效）<br>[[A-200]] <br> [[A-200i]]
 |sound1=<center>播放音效</center><center>[[File:Dumbdrum.mp3]]</center>
 |sound2=<center>脚步声</center><center>[[File:Footsteps.mp3]]</center>
 |sound3=<center>脚步声2</center><center>[[File:Footsteps2.mp3]]</center>|type=反弹者、后退者、瞬移者。|sound4=<center>A-120瞬移音效</center><center>[[File:A120Teleport.wav]]</center>|sound5=<center>A-120跳杀音效</center><center>[[File:A120Jumpscare.wav]]</center>}}
@@ -47,20 +47,20 @@ File:A-120_Recreated.png|旧版/纯正初代设计
 '''A-120'''是游戏中第一个常见的反弹者，外观是一个不断移动的宽大微笑表情。
 
 <h2> 行为 </h2>
-生成后，它会处于门后，发出击鼓般的声响，随后像[[A-85]]一样疾速冲回；抵达虚空墙后，它有概率反弹回主房间，该过程最多可重复20次。
+生成后，它会出现在门后，发出敲击般的声响，随后像[[A-85]]一样疾速回冲；抵达虚空墙后，它有概率反弹回主房间，该过程最多可重复20次。
 
 <h2> 策略与提示 </h2>
-* 一旦听到它的击鼓声，请务必确认是否同时能听到它的喋喋声，如果没有该声响，那出现的就是[[A-135]]
-* 待在柜子附近，一旦听到它的喋喋声立刻躲藏
+* 当你听到它的敲击声时，请务必确认是否同时能听到它的咔哒声；如果没有这类声响，那出现的就是[[A-135]]
+* 待在柜子附近，一旦听到它的咔哒声就立刻躲藏
 </tabber>
 
 <h2> 冷知识 </h2>
 * '''A-120'''是玩家会遇到的首个基础反弹者。
-* '''A-120'''最初源自《Doors》中的A-120，其远距离与近距离音效完全相同。
+* '''A-120'''的原型来自《Doors》中的A-120，其远距离与近距离音效完全相同。
 
 <h2> 画廊 </h2>
 <gallery>
-A-120 Seen in a hallway, about to kill a player.webp|alt=A-120出现在走廊中，即将击杀一名玩家|'''A-120'''出现在走廊中，即将击杀一名玩家。
+A-120 Seen in a hallway, about to kill a player.webp|alt=A-120 出现在走廊中，即将击杀一名玩家|'''A-120'''出现在走廊中，即将击杀一名玩家。
 </gallery>
 
 {{EntityNavBox}}

@@ -25,7 +25,7 @@ Aimscripter<br>
 |sound3=<center>Ambush Ambience</center><center>[[File:M-70Ambush.mp3]]</center>|related_monsters=[[D-200]] (Similar mechanic)|sound4=<center>Kill Sound</center><center>[[File:M-70KillSound.mp3]]</center>}}
 
 ==Description==
-'''M-70''' is the fourth entity you will encounter within the M-Section. It was added in the third Restructured update test and it is a more diverse, unique entity compared to others. More information about '''M-70''' will be presented below.
+'''M-70''' is the fourth entity you will encounter within [[Section M]]. It was added in the third Restructured update test and it is a more diverse, unique entity compared to others. More information about '''M-70''' will be presented below.
 
 ==Mechanic==
 When M-70 spawns, the doors behind you will all close. After a bit the next doors label will ping a couple of times, M-70 will then appear behind the door and backtrack though the rooms. If a player exits their hiding spot, M-70 will come back for them. After 10-15 seconds, M-70 will despawn. If M-70 catches a player not being fully hidden, they will instantly die.  
@@ -49,7 +49,7 @@ However, there's a chance for M-70 to ambush player by playing a weird music-lik
 == Gallery ==
 <gallery>
 File:M-70 close.webp|'''M-70''' seen close up in-game.
-File:M-70Jumpscare.gif|M-70's jumpscare
+File:M-70Jumpscare.gif|'''M-70'''<nowiki/>'s jumpscare
 </gallery>{{EntityNavBoxSectionM}}
 
 [[Category:Entities]]
