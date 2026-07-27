@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px navy; color: #7f00ff;">D-5i（搜寻者）</span>}}
-{{Redesign|Unknown|当前设计由a predator制作}}{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{Redesign|Unknown|当前设计由a predator制作}}{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{InfoBox:Entity
 |previous_entity=[[D-5]]
 |next_entity=[[D-20]]
-|entity_name=[[File:D-5iPlaceHolder.webp|frameless|link=D-5i]]
+|entity_name=[[File:D-5iPlaceHolder.png|frameless|link=D-5i]]
 |entity_image=<gallery>
-D5i.webp|设计图
-D5iMad.webp|暴怒状态设计图
+D5i.png|设计图
+D5iMad.png|暴怒状态设计图
 Eyescare.webp|跳杀设计图
 </gallery>
 |appears_at=D-005之后的任意区域
@@ -42,23 +42,23 @@ Eyescare.webp|跳杀设计图
 *'''D-5i'''在近距离时会无视安全点，因此'''D-5i'''处于活跃状态时不要使用安全点。
 *'''D-5i'''的伤害远高于[[D-5]]，因此在遇到'''D-5i'''前，请尽可能多收集治疗物品。
 *如果[[D-5]]处于暴怒状态时，[[D-140]]、[[D-60i]]正处于活跃状态，或是[[D-60]]正在反弹，请停止射击[[D-5]]——如果上述实体任意一个活跃时'''D-5i'''生成，你的存活概率会极低。
-*如果[[D-140]]处于激活状态时生成了'''D-5i'''，你应当前往主房间，在'''D-5i'''距离较远时利用安全点位，祈祷[[D-140]]和'''D-5i'''同时抵达，或是[[D-140]]不会花太久检查蓝色的各种柜子/白色柜子，能快速移动到下一个房间。
-*使用Perfectionist（完美主义者）射击4-6次即可激怒'''D-5i'''，你可以利用这一点……？（就算被激怒，你依然可以躲过'''D-5i'''存活，这不是明摆着的嘛）
-*'''D-5i'''存在期间，其他实体依然可以发动攻击。
-**所以哪怕你是在速通或是想要快速冲房，在它发动攻击时也不要打开任何门。
-*'''D-5i'''无法命中，你可以利用这一特性。
+*如果[[D-140]]处于激活状态时生成了'''D-5i'''，你应当前往主房间，在'''D-5i'''距离较远时利用安全点位，祈祷[[D-140]]和'''D-5i'''同时抵达，或是[[D-140]]不会花费太久检查蓝色的各种柜子/白色柜子，能快速移动到下一个房间。
+*你可以使用Perfectionist（完美主义者）开4-6枪激怒'''D-5i'''，你可以利用这一点……？（就算被激怒，'''D-5i'''依然可以成功躲避存活。这不是废话嘛）
+*'''D-5i'''存在期间，其他实体依然会发动攻击。
+**所以哪怕你正在速通或是想要冲房，在它发动攻击时也不要打开任何门
+*'''D-5i'''无法命中，好好利用这一点
 
 ==冷知识==
-*如果你对此感到好奇，答案是否定的——'''D-5i'''并不会禁用[[Claustrophobia|幽闭恐惧]]（在'''D-5i'''处于激活状态时，你根本没有足够的生命值撑到[[Claustrophobia|幽闭恐惧]]发动攻击，但我已经测试过这种情况了）。
+*你可能会好奇，答案是否定的：'''D-5i'''并不会禁用[[幽闭恐惧]]（在'''D-5i'''激活的状态下，你根本没有足够的生命值撑到[[幽闭恐惧]]发动攻击，但我已经测试过这种情况了）。
 *'''D-5i'''<nowiki/>的视线是无限的，和[[D-5]]<nowiki/>的一致。
 
-== 背景设定 ==
+== 背景故事 ==
 '''D-5i'''是一次暗影感染失败的产物，[[Overseer]]可能会尝试将他彻底感染。
 
-== 画廊 ==
+== 图集 ==
 <gallery>
-D-5i_scary.webp|D-5i的跳杀
-Eyes.webp|[[April Fools 2026|2026年愚人节]]中的设计
+D-5i scary.gif|D-5i的跳杀
+Eyes.png|[[April Fools 2026|2026年愚人节]]中的设计
 </gallery>
 
 

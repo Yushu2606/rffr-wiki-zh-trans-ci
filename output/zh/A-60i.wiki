@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: blue;">A-60i (The Multi-Monster Prime)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: blue;">A-60i (多面怪物素数)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{Headphones}}
 {{DesignNotAllowed|design=旧版跳杀脸}}

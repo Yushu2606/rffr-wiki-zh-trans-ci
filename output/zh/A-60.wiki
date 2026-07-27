@@ -1,5 +1,5 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">A-60 (Multi-Faced Monster)</span>}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px maroon, 0 0 5px maroon, 0 0 5px maroon, 0 0 5px red, 0 0 5px red; color: red;">A-60 (Multi-Faced Monster)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
 {{Headphones}}
 {{DesignNotAllowed|design=旧版跳杀脸}}
 {{InfoBox:Entity
@@ -9,80 +9,77 @@
 [[A-85]]
 |entity_name=[[File:NewA60Title.webp|frameless|link=A-60]]
 |entity_image=<gallery>
-CurrentA-60.webp|动画还原
-A601.webp|第1张脸
-602.webp|第2张脸
-603.webp|第3张脸
-604.webp|第4张脸
-605.webp|第5张脸
-A-60Face6.webp|第6张脸
-606.webp|第7张脸
-607.webp|第8张脸
+CurrentA-60.gif|动画还原
+A601.png|第1张脸
+602.png|第2张脸
+603.png|第3张脸
+604.png|第4张脸
+605.png|第5张脸
+A-60Face6.png|第6张脸
+606.png|第7张脸
+607.png|第8张脸
 </gallery>
 |appears_at=A-060 之后任意时间
-|nicknames=Multi Faced Monster（多面怪物）、The Multi Monster（多重怪物）、Multimonster
+|nicknames=Multi Faced Monster（多面怪物）
 |type=冲刺者
 |gun_effect=在主房间停留时被射击会更快消失
 |behavior=快速冲向前方的门，在房间内停留数秒后遁入地面。
 |claustrophobia=否（仅推迟）
 |damage=秒杀（命中造成每秒50伤害）（扣除10点生命上限）
 （消失时造成每秒300伤害）
-|speed=参见“属性：”
+|speed=参见'''属性：'''
 |locker_snipe=是
 |related_monsters=[[A-60i]]
 |sound1=<center>生成</center><center>[[File:A-60Spawn.mp3]]</center>
-|sound2=<center>环境音效</center><center>[[File:A-60AmbienceUpd.mp3]]</center>
-|sound3=<center>消失音效</center><center>[[File:A60_close.mp3]]</center>|sound4=<center>消失音效 2</center><center>[[File:A60_close2.mp3]]</center>|sound5=<center>跳杀</center><center>[[File:A-60jumpscare.mp3]]</center>|sound6=<center>生成音效源</center><center>[[File:a60spawnsoundorigin.mp3]]</center>|sound7=<center>环境音效源</center><center>[[File:A60farsoundorigin.mp3]]</center>|sound8=<center>消失音效源</center><center>[[File:A60CloseSoundOrigin.mp3]]</center>}}
+|sound2=<center>远处环境音效</center><center>[[File:A-60AmbienceUpd.mp3]]</center>
+|sound3=<center>[高音量] 近处环境音效 1</center><center>[[File:A60_close.mp3]]</center>|sound4=<center>[中高音量] 近处环境音效 2</center><center>[[File:A60_close2.mp3]]</center>|sound5=<center>[高音量警告] 跳杀</center><center>[[File:A-60jumpscare.mp3]]</center>|sound6=<center>生成音效源</center><center>[[File:a60spawnsoundorigin.mp3]]</center>|sound7=<center>环境音效源</center><center>[[File:A60farsoundorigin.mp3]]</center>|sound8=<center>消失音效源</center><center>[[File:A60CloseSoundOrigin.mp3]]</center>}}
 
 ==描述：==
 A-60 是一张循环切换8张脸的红色实体。它最广为人知的形象是一张沾有血迹、朝左看的红色笑脸。它靠近时会发出静电噪音，进入你所在房间时会发出失真的无线电通话声。它有概率在 A-060 之后的任意门出现，会在后方50-60扇门的位置生成，随后冲向当前房间。
 
 ==行为==
-会在主房间后方随机距离（50到60个房间，红区中强制为50个房间）生成，随后冲向当前房间，在主房间中央逐渐消失。如果 A-60 看到玩家，会直接将其秒杀。如果 A-60 抵达当前房间时玩家未完全躲藏，它会触发跳杀，造成50点伤害并扣除10点最大生命值。如果玩家在 A-60 完全消失前离开房间，A-60 会对其造成持续快速伤害。
+会在主房间后方随机距离（50到60个房间，红区中强制为50个房间）生成，随后冲向当前房间，在主房间中央逐渐消失并破坏门。如果 A-60 看到玩家，会直接将其秒杀。如果 A-60 抵达当前房间时玩家未完全躲藏，或是躲在桌子中，它会触发跳杀，造成50点伤害并扣除10点最大生命值。如果玩家在 A-60 完全消失前离开房间，A-60 会对其造成持续快速伤害。
 
 ==属性：==
 命中类型：R&D 风格（生命值低于30时会致死，否则不致命），造成50点伤害。 
 
-躲在桌子中时的伤害：柜击造成的伤害，但它消失时的每秒300伤害可将玩家秒杀。
+躲在桌子中时受到的每秒伤害：等同于命中伤害，但它消失时的每秒300伤害可将玩家秒杀。
 
 击杀半径：36（冲刺时）、28（在房间中央停留时）、42（淡出/消失时）
 
 追踪类型：视线追踪
 
-移动速度（0-749号房间）：250 Studs/秒 [5间/秒] —— 越靠近750号房间速度越快 
-
-移动速度（750-899号房间）：666 Studs/秒 [13.32间/秒]
-
-移动速度（900-1000号房间）：1200 Studs/秒 [24间/秒]
-
-移动速度（1001号房间及以上）：500*(生成房间编号÷200)。最低为250 Studs/秒，最高为500 Studs/秒。
+移动速度：
+*A-0 - A-749：快速（5.6间/秒）（336 Studs/秒）
+*A-750 - A-899：极快（13.32间/秒）（799 Studs/秒）
+*A-900 - A-1000：光速（24间/秒）（1440 Studs/秒）
+*A-1001+：待公布（待公布间/秒）（待公布 Studs/秒）
 
 行为：会在主房间后方随机距离（50到60间，红区中强制为50间）生成，随后冲向当前房间，在主房间中央逐渐消失。
-
-==你知道吗：==
-*A-60 是你将会遇到的第二个实体。
-*与 A-200 一样，A-60 也是原版 Rooms 游戏中就已存在的实体。
-*A-60 可以被射击，这会让它更快消失，同时阻止 [[A-60i]] 生成
-*A-60 的跳杀音效来自 FNAF 同人游戏《The Joy of Creation》，是 Ignited Foxy 的跳杀音效。
-*在之前的房间里躲在桌子上面对 '''A-60''' 不会致死，但你会遭到柜子狙杀
-*你可以通过翻滚躲避 A-60 以存活，但仍会被狙杀
+==冷知识：==
+*A-60是你会遇到的第二个实体。
+*和A-200一样，A-60同样是原版Rooms游戏中存在的实体。
+*你可以射击A-60，这会使其更快消失，同时阻止[[A-60i]]生成。
+*A-60的跳杀音效来自FNAF同人游戏《The Joy of Creation》，是Ignited Foxy的跳杀音效。
+*在之前的房间里躲在桌子上应对'''A-60'''不会杀死你，但你一定会被柜子狙杀。
+*你可以通过翻滚闪避躲开A-60存活下来，但之后仍会被狙杀。
 
 == 画廊 ==
 <gallery>
-Newa60jump.webp|A-60 的当前跳杀
-A-60AnimNew.webp|旧版动画
-Old601.webp|旧版第 1 张脸
-Old605.webp|旧版第 5 张脸
-File:A-60_scary.webp|A-60 的旧版/更旧版跳杀
-A-60.gif.webp|更旧版动画重制
-OldestA601.webp|最旧版脸 1
-OldestA602.webp|最旧版脸 2
-OldestA603.webp|最旧版脸 3
-OldestA604.webp|最旧版脸 4
-OldestA605.webp|最旧版脸 5
-OldestA606.webp|最旧版脸 6
-Og60.webp|正统遗产/遗产模式动画
-A-60_Open_Beta.webp|公测模式动画
+Newa60jump.gif|A-60当前的跳杀动画
+A-60AnimNew.gif|旧版动画
+Old601.png|旧版第1张面孔
+Old605.png|旧版第5张面孔
+File:A-60 scary.gif|A-60的旧版/更早期跳杀动画
+A-60.gif.gif|更早期动画重制
+OldestA601.png|更早期面孔1
+OldestA602.png|更早期面孔2
+OldestA603.png|更早期面孔3
+OldestA604.png|更早期面孔4
+OldestA605.png|更早期面孔5
+OldestA606.png|更早期面孔6
+Og60.gif|真·遗产/遗产模式动画
+A-60 Open Beta.gif|公开测试模式动画
 </gallery>
 
 

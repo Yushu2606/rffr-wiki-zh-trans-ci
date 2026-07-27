@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60 (The Multi-Darkness)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60 (Multi Faced Darkness)</span>}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=Not to be confused with D-60 from '''Rooms Re-Established''', D-60 from '''Rooms: Reopened''', D-60 from '''Rooms of Insanity''' or with D-60 from '''Remastered Rooms'''.}}{{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]

@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">A-60 (Multi-Faced Monster)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px maroon, 0 0 5px maroon, 0 0 5px maroon, 0 0 5px red, 0 0 5px red; color: red;">A-60 (Multi-Faced Monster)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{Headphones}}
 {{DesignNotAllowed|design=Old Jumpscare Face}}
@@ -20,25 +20,25 @@ A-60Face6.png|6th Face
 607.png|8th Face
 </gallery>
 |appears_at=Anytime Past A-060.
-|nicknames=Multi Faced Monster, The Multi Monster, Multimonster
+|nicknames=Multi Faced Monster
 |type=Rusher
 |gun_effect=Despawns quicker when shot while Idling in the main room
 |behavior=Quickly rushes towards the succeding door and stays in the room for a few seconds before going into the ground.
 |claustrophobia=No (Delays)
 |damage=Instant Death (50 DPS snipe) (10 MAL. Damage)
 (300 DPS when despawning)
-|speed=See "Stats:"
+|speed=See '''Stats:'''
 |locker_snipe=Yes
 |related_monsters=[[A-60i]]
 |sound1=<center>Spawn</center><center>[[File:A-60Spawn.mp3]]</center>
-|sound2=<center>PlaySound</center><center>[[File:A-60AmbienceUpd.mp3]]</center>
-|sound3=<center>CloseSound</center><center>[[File:A60_close.mp3]]</center>|sound4=<center>CloseSound 2</center><center>[[File:A60_close2.mp3]]</center>|sound5=<center>Jumpscare</center><center>[[File:A-60jumpscare.mp3]]</center>|sound6=<center>Spawn Origin</center><center>[[File:a60spawnsoundorigin.mp3]]</center>|sound7=<center>PlaySound Origin</center><center>[[File:A60farsoundorigin.mp3]]</center>|sound8=<center>CloseSound Origin</center><center>[[File:A60CloseSoundOrigin.mp3]]</center>}}
+|sound2=<center>Far Ambience</center><center>[[File:A-60AmbienceUpd.mp3]]</center>
+|sound3=<center>[LOUD] Near Ambience 1</center><center>[[File:A60_close.mp3]]</center>|sound4=<center>[SEMI-LOUD] Near Ambience 2</center><center>[[File:A60_close2.mp3]]</center>|sound5=<center>[LOUD WARNING] Jumpscare</center><center>[[File:A-60jumpscare.mp3]]</center>|sound6=<center>Spawn Origin</center><center>[[File:a60spawnsoundorigin.mp3]]</center>|sound7=<center>PlaySound Origin</center><center>[[File:A60farsoundorigin.mp3]]</center>|sound8=<center>CloseSound Origin</center><center>[[File:A60CloseSoundOrigin.mp3]]</center>}}
 
 ==Description:==
 A-60 is a red creature that cycles through 8 faces. It's most popular one is the image with a red smiling face looking to the left, smeared in blood. It makes static upon approach, and sounds like distorted radio chatter when in your room. It has the chance to appear at any door past A-060. It will spawn 50-60 doors back and rush to the current room.
 
 ==Behavior==
-Spawns a random distance from the main room, being 50-60 rooms back (force set to 50 in Red Rooms), before rushing to the current room where it fades itself out in the middle of the main room. If A-60 sees a player, it will instantly kill them. If a player isn’t fully hidden when A-60 reaches the current room, it will jumpscare them, dealing 50 damage and reducing there max health by 10 points. If a player exits before A-60 fully disappears, A-60 deals rapid damage to them.
+Spawns a random distance from the main room, being 50-60 rooms back (force set to 50 in Red Rooms), before rushing to the current room where it fades itself out in the middle of the main room and breaks the door. If A-60 sees a player, it will instantly kill them. If a player isn’t fully hidden or is hidden in a table when A-60 reaches the current room, it will jumpscare them, dealing 50 damage and reducing there max health by 10 points. If a player exits before A-60 fully disappears, A-60 deals rapid damage to them.
 
 ==Stats:==
 Snipe Type: R&D Style (Non lethal unless under 30 health, in which case you die) Does 50 damage. 
@@ -49,13 +49,11 @@ Kill radius: 36 (Rushing), 28 (waiting in the middle), 42 (fading out/despawn)
 
 Tracking type: Line of Sight
 
-Movement speed (Rooms 0-749): 250 studs per second [5 rooms/s] - Increases as you get closer to room 750 
-
-Movement speed (Rooms 750-899): 666 studs per second [13.32 rooms/s]
-
-Movement speed (Rooms 900-1000): 1200 studs per second [24 rooms/s]
-
-Movement speed (Rooms 1001+): 500*(SpawnRoomNumber÷200). The minimum is 250 studs/second and maximum is 500 studs/second.
+Movement speed:
+*A-0 - A-749: Fast (5.6 rooms per second) (336 studs per second)
+*A-750 - A-899: Extremely Fast (13.32 rooms per second) (799 studs per second)
+*A-900 - A-1000: Lightspeed (24 rooms per second) (1440 studs per second)
+*A-1001+: TBA (TBA rooms per second) (TBA studs per second)
 
 Behavior: Spawns a random distance from the main room, being 50-60 rooms back (force set to 50 in Red Rooms), before rushing to the current room where it fades itself out in the middle of the main room.
 
@@ -64,7 +62,7 @@ Behavior: Spawns a random distance from the main room, being 50-60 rooms back (f
 *A-60, like A-200, is an entity that is also in the original Rooms game.
 *A-60 can be shot, causing him to despawn faster as well as preventing [[A-60i]] from spawning
 *A-60's jumpscare sound comes from the FNAF fangame The Joy of Creation, being Ignited Foxy's jumpscare sound.
-*Hiding on a table in a previous room against '''A-60''' cannot kill you, however you will get locker sniped
+*Hiding on a table in a previous room against '''A-60''' cannot kill you, however you WILL get locker sniped
 *A-60 can be dodge rolled to survive though you'll get sniped
 
 == Gallery ==
