@@ -17032,7 +17032,7 @@
   "pages": {
     "A-120": {
       "last_published": {
-        "published_at": 1785134618,
+        "published_at": 1785134742,
         "target_hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d",
         "target_revid": 3048,
         "translation_hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d"
@@ -17043,9 +17043,9 @@
         "revid": 13837
       },
       "target": {
-        "fetched_at": 1785134617,
-        "hash": "7e49c2730d842bd6922d89fe23b3f1be1028c4412a4209cac9820c096996ce3a",
-        "revid": 2833,
+        "fetched_at": 1785134742,
+        "hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d",
+        "revid": 3048,
         "title": "A-120"
       },
       "translation": {
@@ -17224,10 +17224,10 @@
     },
     "A-20i": {
       "last_published": {
-        "published_at": 1780017884,
-        "target_hash": "49f7789ce121f63f1206be1b5f04a91768947c3b18b65a28eb34414c6e5c2d23",
-        "target_revid": 166,
-        "translation_hash": "49f7789ce121f63f1206be1b5f04a91768947c3b18b65a28eb34414c6e5c2d23"
+        "published_at": 1785134746,
+        "target_hash": "4796ff40ae37f25f5c6d2196fead649afa8260379ef75d5b31c9bae74aef3458",
+        "target_revid": 3052,
+        "translation_hash": "4796ff40ae37f25f5c6d2196fead649afa8260379ef75d5b31c9bae74aef3458"
       },
       "source": {
         "fetched_at": 1785132420,
@@ -17235,7 +17235,7 @@
         "revid": 13835
       },
       "target": {
-        "fetched_at": 1785134621,
+        "fetched_at": 1785134745,
         "hash": "d4537aeadb5c870f94a5368025055846645fca89fc48c2a6f0eee07935980745",
         "revid": 1639,
         "title": "A-20i"
@@ -17296,7 +17296,7 @@
     },
     "A-60": {
       "last_published": {
-        "published_at": 1785134625,
+        "published_at": 1785134749,
         "target_hash": "eaed8b5fa74e701b54b4113adec839d9d88a597e75192aa2ba205c59c7a88f22",
         "target_revid": 3049,
         "translation_hash": "eaed8b5fa74e701b54b4113adec839d9d88a597e75192aa2ba205c59c7a88f22"
@@ -17307,9 +17307,9 @@
         "revid": 13842
       },
       "target": {
-        "fetched_at": 1785134624,
-        "hash": "cb50f8076093ceff9a837e48a0d65354597a0d177968a7eb7c28f1218af34ed4",
-        "revid": 2843,
+        "fetched_at": 1785134749,
+        "hash": "eaed8b5fa74e701b54b4113adec839d9d88a597e75192aa2ba205c59c7a88f22",
+        "revid": 3049,
         "title": "A-60"
       },
       "translation": {
@@ -17320,10 +17320,10 @@
     },
     "A-60i": {
       "last_published": {
-        "published_at": 1784968125,
-        "target_hash": "2993e812834c45d50e3c2d58bbe031ae77ade11fd2500f7f338033586033ab64",
-        "target_revid": 2844,
-        "translation_hash": "2993e812834c45d50e3c2d58bbe031ae77ade11fd2500f7f338033586033ab64"
+        "published_at": 1785134753,
+        "target_hash": "41575e58d93c7cd5de98a99dcf602a4a41c33866bf8b65becf5e571ba9aa5b6a",
+        "target_revid": 3053,
+        "translation_hash": "41575e58d93c7cd5de98a99dcf602a4a41c33866bf8b65becf5e571ba9aa5b6a"
       },
       "source": {
         "fetched_at": 1785132339,
@@ -17331,7 +17331,7 @@
         "revid": 13840
       },
       "target": {
-        "fetched_at": 1785134628,
+        "fetched_at": 1785134753,
         "hash": "7482bab5e0d55db2782dc95f5c6d9d093c624fff00708df417e2c4b1a96b1516",
         "revid": 3042,
         "title": "A-60i"
@@ -19744,7 +19744,7 @@
     },
     "D-5": {
       "last_published": {
-        "published_at": 1785134631,
+        "published_at": 1785134757,
         "target_hash": "50e2d92ed90a83c238bf968d76983919c6d43263072e1f609133f2f685b45a1a",
         "target_revid": 3050,
         "translation_hash": "50e2d92ed90a83c238bf968d76983919c6d43263072e1f609133f2f685b45a1a"
@@ -19755,9 +19755,9 @@
         "revid": 13838
       },
       "target": {
-        "fetched_at": 1785134631,
-        "hash": "7522da34641c45f3837ae2b099379286aae7a30774865f5bf7a0cf7d97b1a5c7",
-        "revid": 2869,
+        "fetched_at": 1785134756,
+        "hash": "50e2d92ed90a83c238bf968d76983919c6d43263072e1f609133f2f685b45a1a",
+        "revid": 3050,
         "title": "D-5"
       },
       "translation": {
@@ -19840,10 +19840,10 @@
     },
     "D-5i": {
       "last_published": {
-        "published_at": 1780018001,
-        "target_hash": "828e833e1684335721629525267a9c6fb1dc6fb41baedfdca413437c5b07cc44",
-        "target_revid": 254,
-        "translation_hash": "828e833e1684335721629525267a9c6fb1dc6fb41baedfdca413437c5b07cc44"
+        "published_at": 1785134760,
+        "target_hash": "23c162d4de32584581358e135a8d810f8832d4502a4ff7c3534ea9e4d07be76c",
+        "target_revid": 3054,
+        "translation_hash": "23c162d4de32584581358e135a8d810f8832d4502a4ff7c3534ea9e4d07be76c"
       },
       "source": {
         "fetched_at": 1785132564,
@@ -19851,7 +19851,7 @@
         "revid": 13839
       },
       "target": {
-        "fetched_at": 1785134634,
+        "fetched_at": 1785134760,
         "hash": "c6c900dbbec4539998e6fbea25d5d8e28be8bfafd9eb339cd7b4567cf3ea0417",
         "revid": 1640,
         "title": "D-5i"
@@ -19864,10 +19864,10 @@
     },
     "D-60": {
       "last_published": {
-        "published_at": 1784968251,
-        "target_hash": "7b8506b77aafddf98cbdead0b23c4ffc4d759a6561d80064333e6dede238cb1a",
-        "target_revid": 2873,
-        "translation_hash": "7b8506b77aafddf98cbdead0b23c4ffc4d759a6561d80064333e6dede238cb1a"
+        "published_at": 1785134764,
+        "target_hash": "6949206492621fdb4521149f21d6b7e3fff4a3be6b500c568803d3c0af119595",
+        "target_revid": 3055,
+        "translation_hash": "6949206492621fdb4521149f21d6b7e3fff4a3be6b500c568803d3c0af119595"
       },
       "source": {
         "fetched_at": 1785132496,
@@ -19875,7 +19875,7 @@
         "revid": 13841
       },
       "target": {
-        "fetched_at": 1785134638,
+        "fetched_at": 1785134763,
         "hash": "6ec408f2cfabe8c67710e49ac702be2052f5349f0e62f9f1d4af4f7802f463cf",
         "revid": 3045,
         "title": "D-60"
@@ -26968,7 +26968,7 @@
     },
     "Update Log": {
       "last_published": {
-        "published_at": 1785134641,
+        "published_at": 1785134768,
         "target_hash": "1498a1c54046ac65733abb74e78ecbe745773366dc3f1f7dbac99ac033f0a38f",
         "target_revid": 3051,
         "translation_hash": "1498a1c54046ac65733abb74e78ecbe745773366dc3f1f7dbac99ac033f0a38f"
@@ -26979,9 +26979,9 @@
         "revid": 13737
       },
       "target": {
-        "fetched_at": 1785134641,
-        "hash": "01378eae4848f9ce73d9342e7c609fedbe400874b570fedb980b93f18e0f0da6",
-        "revid": 2820,
+        "fetched_at": 1785134767,
+        "hash": "1498a1c54046ac65733abb74e78ecbe745773366dc3f1f7dbac99ac033f0a38f",
+        "revid": 3051,
         "title": "Update Log"
       },
       "translation": {
