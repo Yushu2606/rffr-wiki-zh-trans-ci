@@ -2,8 +2,8 @@
 {{InfoBox:Entity
 |entity_name=伪造的奇怪钥匙卡
 |entity_image=<gallery>
-EvilCard.jpg|游戏内
-EvilCardJump.jpg|跳杀
+EvilCard.webp|游戏内
+EvilCardJump.webp|跳杀
 </gallery>
 |type=静止者
 |damage=秒杀。

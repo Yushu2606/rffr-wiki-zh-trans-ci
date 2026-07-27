@@ -1,7 +1,7 @@
 {{Spacer}}
 <big><center>'''今日推荐实体是……'''</center></big>
 <big><center>[[D-55i]]</center></big>
-<center>[[File:D55i.png|150px|link=D-55i]]</center>
+<center>[[File:D55i.webp|150px|link=D-55i]]</center>
 {{Spacer}}
 '''D-55i'''是''Update Executive''中新增的[[D-55]]的i型变种。它会从前方而非后方出现，环境音效音调比普通版本更高。当你听到它的声音时，请躲进蓝色柜子/白色橱柜中，同时注意远离它的行进路径，因为它会留下火焰轨迹，即使你处于躲藏状态也会受到伤害。
 {{Spacer}}

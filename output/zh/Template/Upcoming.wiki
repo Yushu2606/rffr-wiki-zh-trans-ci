@@ -1,4 +1,4 @@
 <includeonly>[[Category:Upcoming]]</includeonly>
 
 <center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #26e064, inset 0 0 15px #26e064; background:#1fa64c; margin-top: 20px; color:#FFF; border: 5px solid Black; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
-[[File:UpcomingNotice.png|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}'''目前为[[:Category:Upcoming|Upcoming]]状态。请注意：页面内所有信息可能存在错误或仍未公开，若您掌握相关可靠信息，可通过[{{fullurl:{{FULLPAGENAME}}|action=edit}} 编辑本页]来协助完善内容。</div></center><br/><noinclude>
+[[File:UpcomingNotice.webp|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}'''目前为[[:Category:Upcoming|Upcoming]]状态。请注意：页面内所有信息可能存在错误或仍未公开，若您掌握相关可靠信息，可通过[{{fullurl:{{FULLPAGENAME}}|action=edit}} 编辑本页]来协助完善内容。</div></center><br/><noinclude>

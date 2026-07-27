@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px yellow, 0 0 65px yellow; color: yellow;">D-55ii（Omega Motormouth 欧米茄马达嘴）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Headphones}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:Newer 55ii tittle.png|frameless|link=D-55ii]]
+|entity_name=[[File:Newer_55ii_tittle.webp|frameless|link=D-55ii]]
 |entity_image=<gallery>
-File:Actual 55ii.png|新设计
-File:JokeD-55.png|旧设计
+File:Actual_55ii.webp|新设计
+File:JokeD-55.webp|旧设计
 </gallery>
 |caption-entity_image=小心，你要被撞飞了——嗡呜——————————
 |appears_at=启用「'''II Hate This'''」修饰符的任意区域
@@ -54,7 +54,7 @@ File:JokeD-55.png|旧设计
 
 == 画廊 ==
 <gallery>
-JokeD-55Scare.gif|旧版跳杀
+JokeD-55Scare.webp|旧版跳杀
 </gallery>
 
 {{EntityNavBoxAdmin}}

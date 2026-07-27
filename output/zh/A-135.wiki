@@ -1,13 +1,13 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">A-135（暗影人）</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}{{InfoBox:Entity
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}{{InfoBox:Entity
 |previous_entity=[[A-120]]
 |next_entity=[[A-135i]]<br>[[A-200]]
 |entity_name=[[File:A-135Placeholder.webp|frameless|link=A-135]]
 |entity_image= <gallery>
-ShadowMan.png|当前待机设计
-ShadowManScare.png|当前跳杀设计
-UpdatedA-135.png|旧设计
-A135.png|更早的旧设计
+ShadowMan.webp|当前待机设计
+ShadowManScare.webp|当前跳杀设计
+UpdatedA-135.webp|旧设计
+A135.webp|更早的旧设计
 </gallery> 
 |caption-entity_image=
 |appears_at=A-135之后的任意区域
@@ -45,9 +45,9 @@ A-135会在当前房间的门后方生成，同时发出敲击声。3-5秒后，
 
 ==画廊==
 <gallery>
-File:A-135Jumpscare.gif|旧版A-135的跳杀
+File:A-135Jumpscare.webp|旧版A-135的跳杀
 File:TrueLegacyA-135.webp|真正的遗留设计
-File:A-135ViewedFromTable.png|从桌子下方观察到的旧版A-135
+File:A-135ViewedFromTable.webp|从桌子下方观察到的旧版A-135
 </gallery>
 
 

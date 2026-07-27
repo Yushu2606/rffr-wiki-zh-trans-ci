@@ -21,9 +21,9 @@
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.webp|center|150px|link=M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M22i.webp|center|150px|link=M-22i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60i15.webp|center|150px|link=M-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM70.png|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM70.webp|center|150px|link=M-70]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22i]]
@@ -31,10 +31,10 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.webp|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
@@ -44,10 +44,10 @@
 
 ==非专属实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:MSectionMouth.png|center|150px|link=Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.webp|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MSectionMouth.webp|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.webp|center|150px|link=Void]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
@@ -79,33 +79,33 @@ Placeholder.webp
 
 ==旧版房间==
 <gallery>
-File:Section M Starting Room.png|起始房间。
-File:Section M Door 1.png|1号门。
-File:Section M Door 1 Start.png|2号门。
-File:Section M Door 2 Start Bottom.png|同上，为进入房间时的视角。
-File:Section M Basic Hallway 1.png|普通走廊。
-File:Section M Pipes -w Water Tank.png|设有管道与水箱的房间。
-File:Section M Storage Sideroom.png|标有“Storage（储藏室）”字样的侧室。
-File:Section M Storage Sideroom.png|侧面有一扇门，前方是一扇用木板封死的门。
-File:Section M Pipe in walking path.png|侧面有两扇无法开启的门的房间。
-File:Section M 4 Way Ruins.png|同上，但为废墟样式。
-File:Section M Crate Room 1.png|堆放有大量灰色板条箱的房间。
-File:Section M Water Tank Side.png|整面左墙均为水箱的房间。
-File:Section M 4 Pipes in walking path.png|通行路径上横有4根管道的房间。
-File:Section M Basic Hallway Ruins.png|损毁的普通走廊。
-File:Section M Crawl Space Room.png|带有匍匐通行空间的房间。
-File:Section M Crawl Space Room in Room.png|同上，匍匐穿过之后可找到一个房间。
-File:Section M Pipe Blocking Door Sign.png|管道挡住了门牌号的走廊。
-File:Section M 1 Red Reactor.png|房间内的大型红色反应堆。
-File:Section M Room 400 Not Released.png|E区上线前的400号房间。
-File:M-1002.png|Update Executive版本更新前的M-1002号房间。
+File:Section_M_Starting_Room.webp|起始房间。
+File:Section_M_Door_1.webp|1号门。
+File:Section_M_Door_1_Start.webp|2号门。
+File:Section_M_Door_2_Start_Bottom.webp|同上，为进入房间时的视角。
+File:Section_M_Basic_Hallway_1.webp|普通走廊。
+File:Section_M_Pipes_-w_Water_Tank.webp|设有管道与水箱的房间。
+File:Section_M_Storage_Sideroom.webp|标有“Storage（储藏室）”字样的侧室。
+File:Section_M_Storage_Sideroom.webp|侧面有一扇门，前方是一扇用木板封死的门。
+File:Section_M_Pipe_in_walking_path.webp|侧面有两扇无法开启的门的房间。
+File:Section_M_4_Way_Ruins.webp|同上，但为废墟样式。
+File:Section_M_Crate_Room_1.webp|堆放有大量灰色板条箱的房间。
+File:Section_M_Water_Tank_Side.webp|整面左墙均为水箱的房间。
+File:Section_M_4_Pipes_in_walking_path.webp|通行路径上横有4根管道的房间。
+File:Section_M_Basic_Hallway_Ruins.webp|损毁的普通走廊。
+File:Section_M_Crawl_Space_Room.webp|带有匍匐通行空间的房间。
+File:Section_M_Crawl_Space_Room_in_Room.webp|同上，匍匐穿过之后可找到一个房间。
+File:Section_M_Pipe_Blocking_Door_Sign.webp|管道挡住了门牌号的走廊。
+File:Section_M_1_Red_Reactor.webp|房间内的大型红色反应堆。
+File:Section_M_Room_400_Not_Released.webp|E区上线前的400号房间。
+File:M-1002.webp|Update Executive版本更新前的M-1002号房间。
 </gallery>
 
 ==其他==
 <gallery>
-Maintenance (M-Section).png|旧版游戏页面图片
-Maintenance (Badge).png|旧版“Maintenance（维护）”徽章图标
-Prohibited Zone (Badge).png|旧版“Prohibited Zone（禁区）”徽章图标
+Maintenance_(M-Section).webp|旧版游戏页面图片
+Maintenance_(Badge).webp|旧版“Maintenance（维护）”徽章图标
+Prohibited_Zone_(Badge).webp|旧版“Prohibited Zone（禁区）”徽章图标
 </gallery>
 
 ==应对策略==
@@ -118,10 +118,10 @@ Prohibited Zone (Badge).png|旧版“Prohibited Zone（禁区）”徽章图标
 * [https://youtu.be/NvWbZ1qtFe0?si=ZzhIS3y_N-dBaF7r Update Executive 第8支预告]
 
 ==徽章==
-{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=Maintenance（维护）|Description=我真的该待在这里吗？？？|Obtainment=切换分区进入M区即可获得。}}
-{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=Dark Exchange（黑暗交换）|Description=已经深入此地，如今已无法回头。|Obtainment=打开M-500号门即可获得。}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=禁区|Description=那些声音。快停下。|Obtainment=打开M-900的门。}}
-{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=突破地表|Description=M-1000结局尚未实装。你已经走了这么远，究竟是为了什么？再也没人能找到你了，你也开始觉得来到这里是个错误。|Obtainment=打开M-1000的门。}}
+{{BadgeSectionM|Image=NewMaintenanceBadge.webp|Name=Maintenance（维护）|Description=我真的该待在这里吗？？？|Obtainment=切换分区进入M区即可获得。}}
+{{BadgeSectionM|Image=Dark_Exchange_(Badge).webp|Name=Dark Exchange（黑暗交换）|Description=已经深入此地，如今已无法回头。|Obtainment=打开M-500号门即可获得。}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.webp|Name=禁区|Description=那些声音。快停下。|Obtainment=打开M-900的门。}}
+{{BadgeSectionM|Image=Emergency_Exit_(Badge).webp|Name=突破地表|Description=M-1000结局尚未实装。你已经走了这么远，究竟是为了什么？再也没人能找到你了，你也开始觉得来到这里是个错误。|Obtainment=打开M-1000的门。}}
 
 {{BrowseNavBox}}
 

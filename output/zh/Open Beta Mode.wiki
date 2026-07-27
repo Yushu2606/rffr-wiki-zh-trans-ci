@@ -1,5 +1,5 @@
 __NOTOC__
-{{ArticleBackground|File=Open Beta Crate Blocking with Lockers.png}}
+{{ArticleBackground|File=Open_Beta_Crate_Blocking_with_Lockers.webp}}
 
 {{Modifier|GradiantDetails=to bottom, #0000FF, #000055|TextColor=#DDDDFF|Name=[[Open Beta Mode|开放测试模式]]|Details=以R:FF最初上线时的状态游玩游戏。该版本中仅存在3种威胁。}}
 
@@ -12,7 +12,7 @@ __NOTOC__
 {{InfoBox:Entity
 |next_entity='''A-200'''
 |entity_name=<span style= "color:#a60a03">A-60</span>
-|entity_image=A-60 Open Beta.gif
+|entity_image=A-60_Open_Beta.webp
 |appears_at=A-060之后任意时刻
 |nicknames=多重怪物
 |type=冲刺者
@@ -37,7 +37,7 @@ __NOTOC__
 |next_entity=Mouth
 |previous_entity=<span style= "color:#a60a03">'''A-60'''</span>
 |entity_name=A-200
-|entity_image=A-200 Open Beta.gif
+|entity_image=A-200_Open_Beta.webp
 |appears_at=A-200之后任意时刻
 |nicknames=快乐涂鸦
 |type=Backtracker（回溯者）<br>反弹者
@@ -62,7 +62,7 @@ __NOTOC__
 {{InfoBox:Entity
 |previous_entity='''A-200'''
 |entity_name=<span style= "color:#eb0c0c">'''Mouth'''</span>
-|entity_image=Mouth_OpenBeta.png
+|entity_image=Mouth_OpenBeta.webp
 |appears_at=???
 |nicknames=Mouth
 |type=Backtracker（回溯者）
@@ -86,14 +86,14 @@ __NOTOC__
 
 ==Rooms==
 <gallery>
-File:OPEN BETA START.png|起始房间
-File:Open Beta 4 Locker Room.png|带有4个柜子的房间
-File:Open Beta 4 Desk.png|带有4张桌子的房间
-File:Open Beta Crate Blocking with Lockers.png|方形房间
-File:Open Beta Tight Hallway Boxes.png|带有3个柜子的L形房间
-File:Open Beta Boxes Left.png|左侧堆放有箱子的房间
-File:Open Beta Boxes + 2 Desks.png|带有2个纸箱和若干桌子的房间
-File:Open Beta Many Crates.png|堆放有大量板条箱的房间
+File:OPEN_BETA_START.webp|起始房间
+File:Open_Beta_4_Locker_Room.webp|带有4个柜子的房间
+File:Open_Beta_4_Desk.webp|带有4张桌子的房间
+File:Open_Beta_Crate_Blocking_with_Lockers.webp|方形房间
+File:Open_Beta_Tight_Hallway_Boxes.webp|带有3个柜子的L形房间
+File:Open_Beta_Boxes_Left.webp|左侧堆放有箱子的房间
+File:Open_Beta_Boxes_+_2_Desks.webp|带有2个纸箱和若干桌子的房间
+File:Open_Beta_Many_Crates.webp|堆放有大量板条箱的房间
 </gallery>
 
 ==攻略技巧==

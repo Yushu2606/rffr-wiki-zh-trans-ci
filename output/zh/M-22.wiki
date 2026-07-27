@@ -1,7 +1,7 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px yellow, -1.5px 0.66px 2px yellow; color: yellow;">M-22 (警笛)</span>}}
 {{ArticleBackground|File=MBackground.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:M-22Placeholder.png|frameless|link=M-22]]
+|entity_name=[[File:M-22Placeholder.webp|frameless|link=M-22]]
 |entity_image=<gallery>
 NewM22.webp|当前设计
 M22.webp|旧版设计
@@ -48,7 +48,7 @@ M22.webp|旧版设计
 
 ==画廊==
 <gallery>
-M22jump.jpg|跳杀
+M22jump.webp|跳杀
 </gallery>
 
 {{EntityNavBoxSectionM}}

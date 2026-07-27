@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px darkcyan; color: darkcyan;">False Prophet</span>}}
 {{Stub}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=False Prophet
 |entity_image=<gallery>

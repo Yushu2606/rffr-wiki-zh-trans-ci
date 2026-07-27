@@ -1,6 +1,6 @@
-{{ArticleBackground|File=Unnamed .png}}{{Stub}}{{InfoBox:Entity
+{{ArticleBackground|File=Unnamed_.webp}}{{Stub}}{{InfoBox:Entity
 |entity_name=False-200
-|entity_image=F-200.gif
+|entity_image=F-200.webp
 |previous_entity=[[False-120]]
 |next_entity=[[Mouth|False-300]]<br>[[E-10]]
 |claustrophobia=是

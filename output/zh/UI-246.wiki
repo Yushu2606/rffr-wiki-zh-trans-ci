@@ -1,9 +1,9 @@
 {{Headphones}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-246Placeholder.gif|frameless|link=UI-246]]
-|entity_image=UI-246.png
+|entity_name=[[File:UI-246Placeholder.webp|frameless|link=UI-246]]
+|entity_image=UI-246.webp
 |previous_entity=[[UI-220]]
 |next_entity=[[UI-269]]
 |type=后退者<br>反弹者

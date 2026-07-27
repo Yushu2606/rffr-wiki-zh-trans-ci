@@ -1,9 +1,9 @@
 {{HeadphonesNotice}}
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: gray;">Claustrophobia</span>}}
 {{InfoBox:Entity
 |entity_name=Claustrophobia
-|entity_image=Claustrophobia.jpg
+|entity_image=Claustrophobia.webp
 |caption-entity_image=禁止蹲点
 |appears_at=任意位置
 |nicknames=Claustrophobia

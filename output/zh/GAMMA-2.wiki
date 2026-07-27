@@ -3,7 +3,7 @@
 {{Stub}}
 {{InfoBox:Entity
 |entity_name=Gamma-2
-|entity_image=G2.png
+|entity_image=G2.webp
 |previous_entity=[[GAMMA-1]]
 |appears_at=仅Admin可召唤
 |type=暗影<br>后撤<br>反弹者

@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #0C0414;">SHA-22 (Dread)</span>}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{InfoBox:Entity
 |entity_name=SHA-22
-|entity_image=SHA22.png
+|entity_image=SHA22.webp
 |previous_entity=[[SHA-7]]
 |next_entity=[[SHA-30]]
 |nicknames=恐惧
@@ -33,7 +33,7 @@ SHA-22生成时，会播放其普通原版本警报声的低音调扭曲版本�
 
 == 图库 ==
 <gallery>
-File:SHA-22.png|游戏内的SHA-22
+File:SHA-22.webp|游戏内的SHA-22
 </gallery>
 
 [[Category:Shadow Entities]]

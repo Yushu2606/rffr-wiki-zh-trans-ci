@@ -2,7 +2,7 @@
 {{Delete|reason=已移动至[[Player Controlled]]}}
 {{InfoBox:Entity
 |entity_name=Mary
-|entity_image=Mary Blossom Lowell.png
+|entity_image=Mary_Blossom_Lowell.webp
 |caption-entity_image=你玩得开心吗？
 |appears_at=仅可由Admin生成
 |nicknames=Mary
@@ -15,7 +15,7 @@ Mary是一种极其稀有的Admin生成人形实体，她的存在存疑，绝�
 
 == 画廊 ==
 <gallery>
-Hurtherhurtyou.png|alt=目击Mary
+Hurtherhurtyou.webp|alt=目击Mary
 </gallery>伤她者，必遭反噬。{{EntityNavBox}}
 
 [[Category:Entities]]

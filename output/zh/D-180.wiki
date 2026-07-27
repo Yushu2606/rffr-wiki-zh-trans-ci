@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px maroon; color: black;">D-180（恐慌）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Removed|reason=社区投票}}
 {{Headphones}}
 {{InfoBox:Entity
 |entity_name=D-180
 |entity_image=<gallery>
-D-180Old.png|当前设计
-D-180real.png|回退设计
+D-180Old.webp|当前设计
+D-180real.webp|回退设计
 </gallery>
 |previous_entity=[[D-175]]
 |next_entity=[[D-200]]
@@ -49,9 +49,9 @@ D-180real.png|回退设计
 
 ==画廊==
 <gallery>
-D180Jump.gif|'''D-180'''的当前跳杀动画。
-OldD180jump.gif|'''D-180'''的回退版本跳杀。
-D-180MSection.png|D-180被Admin生成后出现在[[Section M|M区]]中。
+D180Jump.webp|'''D-180'''的当前跳杀动画。
+OldD180jump.webp|'''D-180'''的回退版本跳杀。
+D-180MSection.webp|D-180被Admin生成后出现在[[Section M|M区]]中。
 </gallery>
 
 {{EntityNavBox}}

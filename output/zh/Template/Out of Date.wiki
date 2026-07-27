@@ -1,4 +1,4 @@
 <includeonly>[[Category:Out of Date]]</includeonly>
 <center><div class="templatedesktop" style=" display: inline-block; width: 97%; font-none:none; box-shadow: 0 0 30px 0 #FF0000, inset 0 0 15px #FF0000; background:#000000; margin-top: 20px; color:#FFF; 
 border: 5px solid red; text-align: center; padding:0.5em; border-radius: 20px; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; "><div style="font-size:25px">
-[[File:OutOfDateNotice.png|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}''' 目前属于[[:Category:Out of Date|过时]]页面，大量关键信息可能存在错误或缺失，请勿完全采信本页面的所有内容。</div></center><br/><noinclude>
+[[File:OutOfDateNotice.webp|left|170px|link=]]<div style="font-size:25px">'''{{PAGENAME}}''' 目前属于[[:Category:Out of Date|过时]]页面，大量关键信息可能存在错误或缺失，请勿完全采信本页面的所有内容。</div></center><br/><noinclude>

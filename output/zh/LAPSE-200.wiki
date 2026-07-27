@@ -1,8 +1,8 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: red;">LAPSE-200 (???)</span>}}{{ArticleBackground|File=OblivionScreen.png}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: red;">LAPSE-200 (???)</span>}}{{ArticleBackground|File=OblivionScreen.webp}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法 & 暗影天启]]}}
 {{InfoBox:Entity
 |entity_name=LAPSE-200
-|entity_image=LAPSE-200.gif
+|entity_image=LAPSE-200.webp
 |previous_entity=[[SHA-200]]<br>[[LAPSE-60]]
 |next_entity=[[SHA-300]]
 |nicknames=???

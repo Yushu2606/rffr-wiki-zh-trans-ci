@@ -173,11 +173,11 @@ Placeholder.webp|████████
 
 ==画廊==
 <gallery>
-M-120_Hallway.png|M-120i 在走廊中现身
+M-120_Hallway.webp|M-120i 在走廊中现身
 </gallery>
 
 ==徽章==
-{{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=Phantasmagoria（幻影）|Description=遭遇?????i并从其攻击中存活|Obtainment=遭遇'''M-120i'''并从其攻击中存活 '''目前无法获取'''。}}
+{{BadgeSectionM|Image=M120iPlaceholderBadge.webp|Name=Phantasmagoria（幻影）|Description=遭遇?????i并从其攻击中存活|Obtainment=遭遇'''M-120i'''并从其攻击中存活 '''目前无法获取'''。}}
 
 {{EntityNavBox}}
 

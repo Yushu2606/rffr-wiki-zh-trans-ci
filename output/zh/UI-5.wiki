@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |next_entity=[[UI-20]]
-|entity_name=[[File:UI-5PlaceHolder.png|frameless|link=U-5]]
-|entity_image=UI5.png
+|entity_name=[[File:UI-5PlaceHolder.webp|frameless|link=U-5]]
+|entity_image=UI5.webp
 |appears_at=I-005+
 |nicknames=未知
 |type=冲刺者

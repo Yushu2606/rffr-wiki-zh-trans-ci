@@ -1,8 +1,8 @@
-{{DISPLAYTITLE:<span style="text shadow: 0 0 5px darkgreen; color: green;">'''UI-30'''</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px darkgreen; color: green;">'''UI-30'''</span>}}{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-30Placeholder.png|frameless|link=UI-30]]
-|entity_image=UI-30.png
+|entity_name=[[File:UI-30Placeholder.webp|frameless|link=UI-30]]
+|entity_image=UI-30.webp
 |previous_entity=[[UI-20]]
 |next_entity=[[UI-60]]
 |appears_at=I-030+

@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mori</Span>}}
-{{ArticleBackground|File=Unnamed .png}}{{InfoBox:Entity
-|entity_name=[[File:Morb.gif|frameless|link=Mori]]
+{{ArticleBackground|File=Unnamed_.webp}}{{InfoBox:Entity
+|entity_name=[[File:Morb.webp|frameless|link=Mori]]
 |entity_image=<gallery>
 IdleMori.webp|外观设计
 JumpMori.webp|跳杀面部

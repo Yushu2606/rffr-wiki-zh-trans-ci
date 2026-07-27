@@ -1,18 +1,18 @@
 {{DISPLAYTITLE:<span style="animation: mouf 4s infinite;">Mouth (A/D/M(I)/False/E-300)</span>}}
 <tabber>
 |-|基础=
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{NoteBox|note=请勿与《'''Rooms: Re-Established'''》中的'''A-300'''混淆}}
 {{InfoBox:Entity|entity_name=Mouth|entity_image=<gallery>
-MouthColorless.png|设定图
-A-300.png|A区 Mouth
-DSectionMouth.png|D区 Mouth
-MSectionMouth.png|M区 Mouth
-False300.png|无名区域 Mouth
-ESectionMouth.png|E区 Mouth
-Mouth.png|旧版A区 Mouth
-D mouth.png|旧版D区 Mouth
-M mouth.png|旧版M区 Mouth
+MouthColorless.webp|设定图
+A-300.webp|A区 Mouth
+DSectionMouth.webp|D区 Mouth
+MSectionMouth.webp|M区 Mouth
+False300.webp|无名区域 Mouth
+ESectionMouth.webp|E区 Mouth
+Mouth.webp|旧版A区 Mouth
+D_mouth.webp|旧版D区 Mouth
+M_mouth.webp|旧版M区 Mouth
 </gallery>
 |caption-entity_image=我要把你吃掉人类哈哈哈哈
 |previous_entity=[[A-200i]]
@@ -127,24 +127,24 @@ Section E=
 <h2>画廊</h2>
 <gallery>
 File:False-300_ingame.webp|游戏内出现的'''False-300'''
-File:MouthsScare.gif|跳杀动画（[[Section A|A区]]）
-File:DMouthJum.gif|跳杀动画（[[Section D|D区]]）
-File:M-300Scare.gif|跳杀动画（[[Section M|M区]]）
-F300Jump.gif|跳杀动画（[[Unnamed Sector|无名区域]]）
-File:ESectionMouthJumpscare.gif|跳杀动画（[[Section E|E区]]）
-File:MouthMessage.png|玩家尝试打开背后有Mouth的门时收到的提示消息。
+File:MouthsScare.webp|跳杀动画（[[Section A|A区]]）
+File:DMouthJum.webp|跳杀动画（[[Section D|D区]]）
+File:M-300Scare.webp|跳杀动画（[[Section M|M区]]）
+F300Jump.webp|跳杀动画（[[Unnamed Sector|无名区域]]）
+File:ESectionMouthJumpscare.webp|跳杀动画（[[Section E|E区]]）
+File:MouthMessage.webp|玩家尝试打开背后有Mouth的门时收到的提示消息。
 </gallery>
 
 <h2>徽章</h2>
-{{BadgeUnnamed|Image=Clipped Wings.png|Name=Clipped Wings（折翼）|Description=近在咫尺，却遥不可及。|Obtainment=在'''False-300'''的追击过程中死亡。}}
+{{BadgeUnnamed|Image=Clipped_Wings.webp|Name=Clipped Wings（折翼）|Description=近在咫尺，却遥不可及。|Obtainment=在'''False-300'''的追击过程中死亡。}}
 
 |-|Section UI=
 '''UI区：'''
 {{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超史诗模式）]]}}
-{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
 {{InfoBox:Entity
 |entity_name=I-300
-|entity_image=UImouth.png
+|entity_image=UImouth.webp
 |previous_entity=[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
 |next_entity=[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
 |appears_at=I-450+

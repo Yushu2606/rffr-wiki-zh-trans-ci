@@ -1,8 +1,8 @@
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: black;">Jimmy</span>}}
 {{InfoBox:Entity
 |entity_name=Jimmy
-|entity_image=Jimmy.png
+|entity_image=Jimmy.webp
 |appears_at=A-0001之后任意时间
 |behavior=结识新朋友
 |speed=静止者
@@ -23,7 +23,7 @@ Jimmy的外观是一张颜色极深的脸，眼睛为非常小的白色瞳孔，
 == 冷知识 ==
 * 柜子Jimmy已被Removed
 
-{{Badge|Image=Hi Jimmy (Badge).png|Name=Hi Jimmy|Description=好吧，这完全没必要。|Obtainment=被Jimmy跳吓。}}
+{{Badge|Image=Hi_Jimmy_(Badge).webp|Name=Hi Jimmy|Description=好吧，这完全没必要。|Obtainment=被Jimmy跳吓。}}
 
 {{EntityNavBox}}
 

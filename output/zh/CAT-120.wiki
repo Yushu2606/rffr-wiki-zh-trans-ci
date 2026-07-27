@@ -1,10 +1,10 @@
-{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{ArticleBackground|File=Open_Beta_Tight_Hallway_Boxes.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |previous_entity=[[CAT-60]]
 |next_entity=[[Dorito]]
 |entity_name=CAT-120
-|entity_image=CAT-120.png|caption-entity_image= 喵
+|entity_image=CAT-120.webp|caption-entity_image= 喵
 |appears_at=超级史诗模式中A-120之后的任意位置。
 |nicknames=待公布
 |behavior=与[[A-120]]相同，但反弹后会立刻折返

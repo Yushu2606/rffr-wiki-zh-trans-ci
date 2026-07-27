@@ -1,11 +1,11 @@
 {{Headphones}}
-{{ArticleBackground|File=SEMD-Section.jpg}}
+{{ArticleBackground|File=SEMD-Section.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |previous_entity=[[D-35ii]]
 |next_entity=[[Pipe Bomb|Pipe Bomb（管型炸弹）]]
 |entity_name=DCAT-55
-|entity_image= DCAT-55.png 
+|entity_image= DCAT-55.webp 
 |caption-entity_image=喵 :car:
 |appears_at=在[[Super Epic Mode|超级史诗模式]]中，D-055之后的任意位置。
 |nicknames=DCAT-55

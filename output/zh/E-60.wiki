@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: black;">E-60 (破门者)</span>}}{{NoteBox|note=请勿与「硬核模式」的E-60、「Rooms Re-Established」的E-60、「Interminable Rooms」的E-60以及「Rooms: Found Footage: Revisited」的E-60混淆，上述实体仅与本实体重名}}{{Suggested|asure}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:E-60Placeholder.png|frameless|link=E-60]]
+|entity_name=[[File:E-60Placeholder.webp|frameless|link=E-60]]
 |entity_image=<gallery>
 NewE601.webp|Upcoming 第1张脸
-NewE602.png|Upcoming 第2张脸
-NewE603.png|Upcoming 第3张脸
-NewE604.png|Upcoming 第4张脸
-NewE605.png|Upcoming 第5张脸
-NewE606.png|Upcoming 第6张脸
-NewE607.png|Upcoming 第7张脸
+NewE602.webp|Upcoming 第2张脸
+NewE603.webp|Upcoming 第3张脸
+NewE604.webp|Upcoming 第4张脸
+NewE605.webp|Upcoming 第5张脸
+NewE606.webp|Upcoming 第6张脸
+NewE607.webp|Upcoming 第7张脸
 </gallery>
 |previous_entity=[[E-45]]
 |next_entity=[[E-90]]
@@ -63,13 +63,13 @@ NewE607.png|Upcoming 第7张脸
 
 == 图库 ==
 <gallery>
-E60SaysHi.jpg|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section M|M区]]出现的'''E-60'''，即将击杀玩家。 
-NVCSE60.jpg|通过'''NVCS-13793-C'''观察到的'''E-60'''。
-NewE60jum.gif|E-60的跳杀动画。
-TempE60jum.gif|使用临时面部素材的E-60跳杀动画。
-E60jump.gif|E-60的旧版跳杀动画。
-ByeE60.gif|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section D|D区]]从玩家身旁经过的'''E-60'''。
-HiE60.gif|死亡玩家视角下看到的使用临时面部素材的'''E-60'''。
+E60SaysHi.webp|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section M|M区]]出现的'''E-60'''，即将击杀玩家。 
+NVCSE60.webp|通过'''NVCS-13793-C'''观察到的'''E-60'''。
+NewE60jum.webp|E-60的跳杀动画。
+TempE60jum.webp|使用临时面部素材的E-60跳杀动画。
+E60jump.webp|E-60的旧版跳杀动画。
+ByeE60.webp|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section D|D区]]从玩家身旁经过的'''E-60'''。
+HiE60.webp|死亡玩家视角下看到的使用临时面部素材的'''E-60'''。
 E60CurrentAnim.webp|使用当前面部素材的动画还原。
 E60tempanimation.webp|使用临时面部素材的动画还原。
 E60anim.webp|使用旧版面部素材的E-60动画。
@@ -96,7 +96,7 @@ E-606.webp|E-60的旧版第六版面部。
 </gallery>
 
 == 徽章 ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=分区突破|Description=[UNOBTAINABLE 无法获取] 在任意分区遭遇并成功躲过两种来源不明的突发异常实体之一，哪怕你探索了上千个房间，它们也未必会出现……|Obtainment='''[UNOBTAINABLE 无法获取]'''<br>在E区入侵活动期间遭遇并从[[E-10]]或'''E-60'''的袭击中存活}}
+{{BadgeSectionE|Image=SectorBreach.webp|Name=分区突破|Description=[UNOBTAINABLE 无法获取] 在任意分区遭遇并成功躲过两种来源不明的突发异常实体之一，哪怕你探索了上千个房间，它们也未必会出现……|Obtainment='''[UNOBTAINABLE 无法获取]'''<br>在E区入侵活动期间遭遇并从[[E-10]]或'''E-60'''的袭击中存活}}
 
 
 {{EntityNavBox}}

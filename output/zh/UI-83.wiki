@@ -1,7 +1,7 @@
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-83Placeholder.gif|frameless|link=UI-83]]
+|entity_name=[[File:UI-83Placeholder.webp|frameless|link=UI-83]]
 |entity_image=UI-83.webp
 |previous_entity=[[UI-60]]
 |next_entity=[[UI-110]]

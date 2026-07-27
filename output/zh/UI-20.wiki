@@ -1,8 +1,8 @@
-{{DISPLAYTITLE:<span style="text shadow: 0 0 5px green; color: lime";>UI-20</span>}}{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{DISPLAYTITLE:<span style="text shadow: 0 0 5px green; color: lime";>UI-20</span>}}{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-20Title.png|frameless|link=UI-20]]
-|entity_image=UI-20.png
+|entity_name=[[File:UI-20Title.webp|frameless|link=UI-20]]
+|entity_image=UI-20.webp
 |type=冲刺者
 |previous_entity=[[UI-5]]
 |next_entity=[[UI-30]]

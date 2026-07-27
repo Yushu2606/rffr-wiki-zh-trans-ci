@@ -1,7 +1,7 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: #4B0000;">D-120 (Sanguine Scribble)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=请勿与'''Rooms Re-Established'''中的D-120混淆。}}{{InfoBox:Entity
-|entity_name=[[File:Blud.gif|frameless|link=D-120]]
-|entity_image=D120.gif
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}{{NoteBox|note=请勿与'''Rooms Re-Established'''中的D-120混淆。}}{{InfoBox:Entity
+|entity_name=[[File:Blud.webp|frameless|link=D-120]]
+|entity_image=D120.webp
 |previous_entity=[[D-60]]<br>[[D-60i]]
 |next_entity=[[D-140]]
 |nicknames=Sanguine Scribble（血色涂鸦）
@@ -51,8 +51,8 @@ D-120会在当前房间的门后方生成，同时发出敲击声。一段时间
 
 ==画廊==
 <gallery>
-File:ScareD-120aaa.gif|D-120的跳杀
-File:OLD D-120.png|出现在[[Super Epic Mode|Super Epic Mode（超史诗模式）]]中的D-120。
+File:ScareD-120aaa.webp|D-120的跳杀
+File:OLD_D-120.webp|出现在[[Super Epic Mode|Super Epic Mode（超史诗模式）]]中的D-120。
 </gallery>
 
 {{EntityNavBoxSectionD}}

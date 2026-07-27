@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 7px Black, 0 0 6px green, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime; color: lime;">D-55（马达嘴）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-35i]]
 |next_entity=[[D-55i]]<br>[[D-60]]
-|entity_name=[[File:D-55Placeholder.png|frameless|link=D-55]]
+|entity_name=[[File:D-55Placeholder.webp|frameless|link=D-55]]
 |entity_image=<gallery>
 D55anim.gif|动画复刻
-D-55Face.gif|True Legacy 版本动画复刻
+D-55Face.webp|True Legacy 版本动画复刻
 D-55.webp|设计稿
 </gallery>
 |caption-entity_image=wwwhhhhhhooooommm
@@ -45,7 +45,7 @@ D-55.webp|设计稿
 
 == 画廊 ==
 <gallery>
-File:D-55 scary.gif|D-55的跳杀
+File:D-55_scary.webp|D-55的跳杀
 </gallery>{{EntityNavBoxSectionD}}
 
 [[Category:Entities]]

@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-1 (Apparition（幻影）)</span>}}
-{{ArticleBackground|File=OblivionScreen.png}}
+{{ArticleBackground|File=OblivionScreen.webp}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
 {{InfoBox:Entity
 |entity_name=LAPSE-1
-|entity_image=Better L-1.png
+|entity_image=Better_L-1.webp
 |previous_entity=[[SHA-1]]
 |next_entity=[[SHA-2]]<br>[[LAPSE-2]]
 |nicknames=Apparition（幻影）
@@ -46,12 +46,12 @@
 
 ==画廊==
 <gallery>
-RedOutline.jpg|被'''LAPSE-1'''标记了轮廓的柜子。
-RedFull.jpg|被'''LAPSE-1'''完全高亮的柜子。
+RedOutline.webp|被'''LAPSE-1'''标记了轮廓的柜子。
+RedFull.webp|被'''LAPSE-1'''完全高亮的柜子。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
+{{Badge|Image=Lapse_of_Judgment_(Badge).webp|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
 
 [[Category:Rusher]]
 [[Category:Locker Checker]]

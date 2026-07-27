@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #5b00f4; color: #985dfb;">SHA-4 (Recall)</span>}}
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{HeadphonesNotice}}
 {{NoteBox|note='''SHA-4'''目前存在漏洞，无法在[[Shadow Challenge|暗影挑战]]中生成。}}
 {{InfoBox:Entity
 |entity_name=SHA-4
 |entity_image=<gallery>
 NewSHA4.webp|Upcoming
-SHA4.png|当前
+SHA4.webp|当前
 </gallery>
 |previous_entity=[[SHA-3]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])
 |next_entity=[[SHA-30]] ([[Shadow Challenge|SC]])<br>[[SHA-7]] ([[Alpha & Shadowpocalypse|A&SP]])
@@ -57,8 +57,8 @@ SHA4.png|当前
 
 == 画廊 ==
 <gallery>
-File:SHA-4 anim ingame.gif|'''SHA-4'''的游戏内动画（低画质）
-File:SHA-4 despawning.png|从柜子内部看到的'''SHA-4'''
+File:SHA-4_anim_ingame.webp|'''SHA-4'''的游戏内动画（低画质）
+File:SHA-4_despawning.webp|从柜子内部看到的'''SHA-4'''
 </gallery>
 [[Category:Shadow Entities]]
 [[Category:Fallbacker]]

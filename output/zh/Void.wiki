@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: white;"> Void（主权者）</span>}}
-{{ArticleBackground|File=Voiding3.png}}
+{{ArticleBackground|File=Voiding3.webp}}
 {{InfoBox:Entity
 |entity_name=Void
 |entity_image=<gallery>
-NewVoid.png|Void的常规形态
-Voidwall.jpg|Void的虚空墙形态
-Humanvoid.jpeg|Void的实体形态
+NewVoid.webp|Void的常规形态
+Voidwall.webp|Void的虚空墙形态
+Humanvoid.webp|Void的实体形态
 </gallery>
 |nicknames=主权者
 |appears_at=A/D/M/E-010及之后（虚空墙形态生成起点）<br>A/D/M/E-1200及之后（Void-90形态生成起点）<br>任意位置（虚空之眼形态）
@@ -44,11 +44,11 @@ Void-90还会在多人游戏中攻击抛下队友的排头玩家。
 
 == 画廊 ==
 <gallery>
-File:Voideyesingame.jpg|游戏内的旧版虚空之眼
-File:Void.png|Void的旧设计
-File:NewVoidStop.png|Void-90的停止标识
-File:VoidHand.png|Void-90攻击玩家时显现的手
-File:VoidSlash.png|Void-90攻击玩家时的斩击特效
+File:Voideyesingame.webp|游戏内的旧版虚空之眼
+File:Void.webp|Void的旧设计
+File:NewVoidStop.webp|Void-90的停止标识
+File:VoidHand.webp|Void-90攻击玩家时显现的手
+File:VoidSlash.webp|Void-90攻击玩家时的斩击特效
 File:Unnamed_Sector_death_screen.webp|游戏内仍可见的Void旧脸部形象（[[Unnamed Sector|无名区域]]死亡界面）
 </gallery>
 

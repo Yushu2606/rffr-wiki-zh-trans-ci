@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-140（不谐者）</span>}}
-{{InfoBox:Entity|entity_name=[[File:Sha140logo.gif]]
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-140（不谐者）</span>}}
+{{InfoBox:Entity|entity_name=[[File:Sha140logo.webp]]
 |entity_image=<gallery>
-File:SHA-140 str Design.png|新设计
-BetterSha-140Remake.png|旧重制设计
+File:SHA-140_str_Design.webp|新设计
+BetterSha-140Remake.webp|旧重制设计
 </gallery>
 |previous_entity=[[SHA-120]]
 |next_entity=[[SHA-180]] ([[Shadow Challenge|暗影挑战]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|A&SP]]) 
@@ -69,8 +69,8 @@ BetterSha-140Remake.png|旧重制设计
 
 == 图集 ==
 <gallery>
-SHA-140 ingame.png|'''SHA-140'''<nowiki/>在游戏内的新设计
-ParticleSha140.jpg|游戏内出现的旧粒子面部
+SHA-140_ingame.webp|'''SHA-140'''<nowiki/>在游戏内的新设计
+ParticleSha140.webp|游戏内出现的旧粒子面部
 </gallery>
 [[Category:Shadow Entities]]
 [[Category:Fallbacker]]

@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 9px white; cursive; background-image: linear-gradient(white, #373737); -webkit-background-clip: text; color: transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">GOD-200（救世主）</span>}}
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{InfoBox:Entity
 |entity_name=GOD-200
 |entity_image=<gallery>
-File:Airsmile.gif|当前设计
-File:AirRing.gif|光环设计
-File:GOD-200.png|旧设计
-NewRenovatedair.gif|跳杀造型
+File:Airsmile.webp|当前设计
+File:AirRing.webp|光环设计
+File:GOD-200.webp|旧设计
+NewRenovatedair.webp|跳杀造型
 </gallery>|caption-entity_image=  
 |appears_at=游戏发生致命错误时
 |nicknames=GOD-200
@@ -36,8 +36,8 @@ NewRenovatedair.gif|跳杀造型
 
 == 图库 ==
 <gallery>
-File:200.gif|'''GOD-200'''的动画
-File:SpookyJumpscare.gif|'''GOD-200'''的跳杀画面
+File:200.webp|'''GOD-200'''的动画
+File:SpookyJumpscare.webp|'''GOD-200'''的跳杀画面
 </gallery>
 
 {{EntityNavBox}}

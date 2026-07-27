@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-173Placeholder.png|frameless|link=UI-173]]
-|entity_image=UI-173.png
+|entity_name=[[File:UI-173Placeholder.webp|frameless|link=UI-173]]
+|entity_image=UI-173.webp
 |previous_entity=[[UI-157]]
 |appears_at=I-173+
 |type=后退型

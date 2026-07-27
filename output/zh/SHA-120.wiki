@@ -1,7 +1,7 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
 {{InfoBox:Entity
 |entity_name=SHA-120
-|entity_image=SHA-120.gif
+|entity_image=SHA-120.webp
 |previous_entity=[[SHA-85]]
 |next_entity=[[SHA-140]]
 |nicknames=Ichor

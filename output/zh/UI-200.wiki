@@ -1,11 +1,11 @@
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-200Placeholder.png|frameless|link=UI-200]]
+|entity_name=[[File:UI-200Placeholder.webp|frameless|link=UI-200]]
 |previous_entity=[[UI-173]]
 |next_entity=[[UI-220]]
-|entity_image=BetterUI-220.png
+|entity_image=BetterUI-220.webp
 |type=后退者<br>反弹者
 |appears_at=I-200+
 |damage=秒杀

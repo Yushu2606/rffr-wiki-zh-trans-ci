@@ -34,8 +34,8 @@
 
 == 画廊 ==
 <gallery>
-File:M22i ingame.gif|游戏内实装的'''M-22i'''（低画质）
-File:M22i?.jpg|"你本不该存在"
+File:M22i_ingame.webp|游戏内实装的'''M-22i'''（低画质）
+File:M22i?.webp|"你本不该存在"
 </gallery>
 
 

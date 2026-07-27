@@ -1,7 +1,7 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px lime, -1.5px 0.66px 2px lime; color:black;">Glongoflorp-60</span>}}
 {{ArticleBackground|File=MBackground.webp}}
 {{InfoBox:Entity|entity_name=Glongoflorp-60
-|entity_image=gflorp-60.png
+|entity_image=Gflorp-60.webp
 |appears_at=仅可由Admin召唤生成
 |nicknames=Joke M-60
 |behavior=与[[M-60]]行为完全一致，区别是Oblivion不会在它打算检查的柜子上标记叉号

@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>}}
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode]]}}
-{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.gif|frameless|link=UI-315]]|entity_image=<gallery>
-UI315.gif|动画复刻
-BetterUI-315.png|设计稿
-Black315.png|暗色设计稿
+{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.webp|frameless|link=UI-315]]|entity_image=<gallery>
+UI315.webp|动画复刻
+BetterUI-315.webp|设计稿
+Black315.webp|暗色设计稿
 </gallery>
 |previous_entity=[[UI-269]]
 |next_entity=[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]

@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #ce0afb, -1.5px 0.66px 2px #ce0afb; color: black;">SHA-180（重复者）</span>}}{{Headphones}}{{InfoBox:Entity
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #ce0afb, -1.5px 0.66px 2px #ce0afb; color: black;">SHA-180（重复者）</span>}}{{Headphones}}{{InfoBox:Entity
 |entity_name=SHA-180
 |entity_image=<gallery>
-File:SHA-180 str New design.png|新设计
-Sha180.png|旧设计
+File:SHA-180_str_New_design.webp|新设计
+Sha180.webp|旧设计
 </gallery>
 |previous_entity=[[SHA-140]] ([[Shadow Challenge|暗影挑战]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|阿尔法&暗影灾变]])
 |next_entity=[[SHA-200]]
@@ -45,7 +45,7 @@ Sha180.png|旧设计
 
 == 画廊 ==
 <gallery>
-File:Ingame 180.png|'''SHA-180'''的新设计游戏内实装外观
+File:Ingame_180.webp|'''SHA-180'''的新设计游戏内实装外观
 File:Boo180.gif|'''SHA-180''' 在[[Shadow Challenge|暗影挑战]]中被目击到正在攻击
 </gallery>
 [[Category:Shadow Entities|暗影实体]]

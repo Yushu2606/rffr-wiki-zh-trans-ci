@@ -1,6 +1,6 @@
 {{InfoBox:Entity
-|entity_name=[[File:U-5_title.png|frameless|link=U-5]]
-|entity_image= Spin.gif 
+|entity_name=[[File:U-5_title.webp|frameless|link=U-5]]
+|entity_image= Spin.webp 
 |caption-entity_image=Miehahahahahha
 |appears_at=仅Admin可生成
 |nicknames=Chesire（柴郡）

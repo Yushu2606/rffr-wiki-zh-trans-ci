@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">X-1200 实体</span>}}
-{{ArticleBackground|File=X1200Background.png}}
+{{ArticleBackground|File=X1200Background.webp}}
 尽管所有这些实体都有相同的指代，但它们彼此之间没有关联。它们没有真实的名称或编号，只是根据此前的警方报告被如此标注。其存在原因尚且未知。<br><br>
 以下是X-1200 实体，也就是无尽模式实体的列表
 
@@ -13,8 +13,8 @@
 {{InfoBox:Entity
 |entity_name=X-1200-A
 |entity_image=<gallery>
-X1200A1.png|第一张脸
-X1200A2.png|第二张脸
+X1200A1.webp|第一张脸
+X1200A2.webp|第二张脸
 </gallery>
 |nicknames=飞毛腿
 |type=冲刺者
@@ -41,8 +41,8 @@ X1200A2.png|第二张脸
 {{InfoBox:Entity
 |entity_name=X-1200-B
 |entity_image=<gallery>
-X1200B1.png|第一张脸
-X1200B2.png|第二张脸
+X1200B1.webp|第一张脸
+X1200B2.webp|第二张脸
 </gallery>
 |nicknames=吵闹鬼
 |type=Noismaker（噪音制造者）
@@ -63,7 +63,7 @@ X1200B2.png|第二张脸
 ==画廊==
 <gallery>
 File:X-1200-B_in_A-Sector.webp|出现在[[Section A|A区]]的'''X-1200-B'''
-File:Image 1780306514271 546.png|出现在[[Section D|D区]]Derelict（废弃段）的'''X-1200-B'''
+File:Image_1780306514271_546.webp|出现在[[Section D|D区]]Derelict（废弃段）的'''X-1200-B'''
 File:X-1200-B_in_depth.webp|出现在[[Section D|D区]]Depth（深渊段）的'''X-1200-B'''（低画质）
 File:X-1200-B_in_Sector_E.webp|出现在[[Section E|E区]]的'''X-1200-B'''
 </gallery>
@@ -74,8 +74,8 @@ File:X-1200-B_in_Sector_E.webp|出现在[[Section E|E区]]的'''X-1200-B'''
 {{InfoBox:Entity
 |entity_name=X-1200-C
 |entity_image=<gallery>
-X1200C1.png|第一张脸
-X1200C2.png|第二张脸
+X1200C1.webp|第一张脸
+X1200C2.webp|第二张脸
 </gallery>
 |nicknames=潜行者
 |type=锁定者
@@ -98,7 +98,7 @@ X1200C2.png|第二张脸
 
 ==画廊==
 <gallery>
-File:X-1200-C-Photo.png|游戏内的X-1200-C
+File:X-1200-C-Photo.webp|游戏内的X-1200-C
 X-CCloser.webp|同上，为近距离视角
 </gallery>
 
@@ -108,8 +108,8 @@ X-CCloser.webp|同上，为近距离视角
 {{InfoBox:Entity
 |entity_name=X-1200-D
 |entity_image=<gallery>
-X1200D1.png|第一幅面孔
-X1200D2.png|第二幅面孔
+X1200D1.webp|第一幅面孔
+X1200D2.webp|第二幅面孔
 </gallery>
 |nicknames=Delay（延迟）
 |type=冲刺者<br>Fallback（折返型）
@@ -140,8 +140,8 @@ File:X-1200-D_Derelict_Section.webp|游戏内的X-1200-D
 {{InfoBox:Entity
 |entity_name=X-1200-E
 |entity_image=<gallery>
-X1200E1.png|第一幅面孔
-X1200E2.png|第二幅面孔
+X1200E1.webp|第一幅面孔
+X1200E2.webp|第二幅面孔
 </gallery>
 |nicknames=Ghost（幽灵）
 |type=冲刺者

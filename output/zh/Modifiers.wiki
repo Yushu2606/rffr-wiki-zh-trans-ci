@@ -84,8 +84,8 @@
 </tabber>
 
 ==相关徽章==
-{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 极致肾上腺素冲击]|Description=这种事为什么要发生在我身上。|Obtainment=遭遇并成功躲避[[D-60ii]]。}}
-{{Badge|Image=The Apocalypse (Badge).png|Name=末日降临|Description=“就……结束了吗？”你本不该撑这么久的。启用并在「阿尔法&暗影灾变」修饰符下存活。|Obtainment=抵达1000号门，或在启用[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符的情况下存活3只[[SHA-200]]的攻击。}}
+{{Badge|Image=D60iiohno.webp|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 极致肾上腺素冲击]|Description=这种事为什么要发生在我身上。|Obtainment=遭遇并成功躲避[[D-60ii]]。}}
+{{Badge|Image=The_Apocalypse_(Badge).webp|Name=末日降临|Description=“就……结束了吗？”你本不该撑这么久的。启用并在「阿尔法&暗影灾变」修饰符下存活。|Obtainment=抵达1000号门，或在启用[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符的情况下存活3只[[SHA-200]]的攻击。}}
 
 {{BrowseNavBox}}
 [[Category:Browsing]]

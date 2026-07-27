@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60</span>}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=False-60
 |entity_image=<gallery>
-F60anim.gif|动画重制
-F601.png|第一张脸
-F602.png|第二张脸
-F603.png|第三张脸
-F604.png|第四张脸
-F605.png|第五张脸
-F606.png|第六张脸
+F60anim.webp|动画重制
+F601.webp|第一张脸
+F602.webp|第二张脸
+F603.webp|第三张脸
+F604.webp|第四张脸
+F605.webp|第五张脸
+F606.webp|第六张脸
 </gallery>
 |appears_at=[[Unnamed Sector|无名区域]]内29号门之后/其他区500号门后罕见出现
 |type=冲刺者<br>反弹者
@@ -53,7 +53,7 @@ F606.png|第六张脸
 ==画廊==
 <gallery>
 F60Newscare.webp|新版跳杀
-F60scare.gif|旧版跳杀
+F60scare.webp|旧版跳杀
 False60jump.webp|预发布版本设计
 </gallery>
 

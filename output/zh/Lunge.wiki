@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #cc00fb; color: #d380ff;">Lunge</Span>}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=Lunge
-|entity_image=Lunge.png
+|entity_image=Lunge.webp
 |previous_entity=[[Tackle]]
 |next_entity=[[Execution]]
 |claustrophobia=否
@@ -32,7 +32,7 @@
 
 == 画廊 ==
 <gallery>
-File:Lunge ingame.png|游戏内所见的'''Lunge'''（低画质）
+File:Lunge_ingame.webp|游戏内所见的'''Lunge'''（低画质）
 File:OtherLunge.webp|同上
 File:Lunge_Fallbacking.webp|正在回落的Lunge
 </gallery>

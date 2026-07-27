@@ -17,10 +17,10 @@
 ——————————————————————————
 <div class="tdx-container accent-left">
 {| class="hoverimage desktop-only" style="text-align:center; width:100px" align=center
-| style="padding: 5px;" align="center"|<div class="navhover">[[File:Sections Main Page.png|175px|link=Sections]][[Sections|各分区]]</div>
-| style="padding: 5px;" align="center"|<div class="navhover">[[File:Challenges Main Page.png|175px|link=Modifiers]][[Modifiers|Modifiers（挑战 modifier）]]</div>
-| style="padding: 5px;" align="center"|<div class="navhover">[[File:Entities Main Page.png|175px|link=Entities]][[Entities|实体]]</div>
-| style="padding: 5px;" align="center"|<div class="navhover">[[File:Items Main Page.png|175px|link=Items]][[Items|物品]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Sections_Main_Page.webp|175px|link=Sections]][[Sections|各分区]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Challenges_Main_Page.webp|175px|link=Modifiers]][[Modifiers|Modifiers（挑战 modifier）]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Entities_Main_Page.webp|175px|link=Entities]][[Entities|实体]]</div>
+| style="padding: 5px;" align="center"|<div class="navhover">[[File:Items_Main_Page.webp|175px|link=Items]][[Items|物品]]</div>
 |}
 </div>
 <mainpage-endcolumn />

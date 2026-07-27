@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">Execution</span>}}
 {{Section?Stub}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=Execution
 |type=柜子检查者
@@ -12,7 +12,7 @@
 |locker_snipe=否（进入时）<br>是（离开时）
 |related_monsters=[[A-135]]<br>[[M-150]]<br>[https://interminable-rooms-u-section-thunderdome.fandom.com/wiki/U-80 U-80 IRUS]
 |caption-entity_image=
-|entity_image=Execution.png
+|entity_image=Execution.webp
 |previous_entity=[[Tackle]]<br>[[Lunge]]
 |next_entity=[[False-60]]
 |claustrophobia=是
@@ -28,9 +28,9 @@
 
 == 画廊 ==
 <gallery>
-File:EXjump.gif|跳杀
-File:EXOFF.jpg|未容纳Execution的显示器
-File:EXON.jpg|同上，但容纳了Execution
+File:EXjump.webp|跳杀
+File:EXOFF.webp|未容纳Execution的显示器
+File:EXON.webp|同上，但容纳了Execution
 File:Execution_Checking_Locker.webp|正在检查柜子的Execution
 </gallery>
 

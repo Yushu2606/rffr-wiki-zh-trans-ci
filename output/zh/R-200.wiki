@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:R-200 (???)}}
-{{ArticleBackground|File=RDoor.jpg}}
+{{ArticleBackground|File=RDoor.webp}}
 {{Upcoming}}
 {{InfoBox:Entity
 |entity_name=R-200

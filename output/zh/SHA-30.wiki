@@ -1,6 +1,6 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #b300f5;">SHA-30 (Shroud)</span>}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #b300f5;">SHA-30 (Shroud)</span>}}
 {{InfoBox:Entity
-|entity_name=[[File:Sha30Title.gif|frameless|link=SHA-30]]
+|entity_name=[[File:Sha30Title.webp|frameless|link=SHA-30]]
 |entity_image=Sha30.webp
 |previous_entity=[[SHA-4]] ([[Shadow Challenge|暗影挑战（SC）]])<br>[[SHA-22]] ([[Alpha & Shadowpocalypse|阿尔法与暗影启示录（A&SP）]])
 |next_entity=[[SHA-35]]

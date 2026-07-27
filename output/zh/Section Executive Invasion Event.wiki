@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: yellow;">Executive（主管）区入侵活动</span>}}
 {{Removed|reason=Executive Invasion（主管入侵）为限时活动，现已结束。}}
-{{ArticleBackground|File=EINVASION.png}}
+{{ArticleBackground|File=EINVASION.webp}}
 {{EventInfobox
-|title=[[File:InvasionEventTitle.png|frameless|link=E Section Invasion Event]]
+|title=[[File:InvasionEventTitle.webp|frameless|link=E Section Invasion Event]]
 |image=<gallery>
-E Section Invasion Thumbnail.png|缩略图
-EINVASION.png|无覆盖层
+E_Section_Invasion_Thumbnail.webp|缩略图
+EINVASION.webp|无覆盖层
 </gallery>
 |next_event=[[Perfection Event 2/13/26|Perfection Event（完美活动）2/13/26]]
 |timeline=8/17/2025 - 9/20/2025
@@ -18,7 +18,7 @@ EINVASION.png|无覆盖层
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E60anim.webp|center|150px|link=E-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
@@ -30,17 +30,17 @@ EINVASION.png|无覆盖层
 |Title=画廊
 |Content=
 <gallery>
-E Section Invasion Thumbnail.png|<span style="text-shadow: 0 0 5px yellow; color: yellow;>入侵活动缩略图</span>
-The Invasion Thumbnail 4 Days.png|剩余4天的缩略图。
-The Invasion 3 Days Left.png|剩余3天的缩略图。
-Invasion 2 Days Left.png|剩余2天的缩略图。
-The Invasion Final Day.png|<span style="text-shadow: 0 0 5px red; color: red;">最后一天的缩略图。</span>
-The Invasion 5 Hours Remain.png|剩余5小时的缩略图。
-E Section Invasion 4 Hours.png|剩余4小时的缩略图。
-E Section Invasion 3 Hours.png|剩余3小时的缩略图。
-E Section Invasion 2 Hours.png|剩余2小时的缩略图。
-E Section Invasion 1 Hour.png|剩余1小时的缩略图。
-SectorBreachAwarded.jpg|一名玩家获得Sector Breach（扇区突破）徽章的画面
+E_Section_Invasion_Thumbnail.webp|<span style="text-shadow: 0 0 5px yellow; color: yellow;>入侵活动缩略图</span>
+The_Invasion_Thumbnail_4_Days.webp|剩余4天的缩略图。
+The_Invasion_3_Days_Left.webp|剩余3天的缩略图。
+Invasion_2_Days_Left.webp|剩余2天的缩略图。
+The_Invasion_Final_Day.webp|<span style="text-shadow: 0 0 5px red; color: red;">最后一天的缩略图。</span>
+The_Invasion_5_Hours_Remain.webp|剩余5小时的缩略图。
+E_Section_Invasion_4_Hours.webp|剩余4小时的缩略图。
+E_Section_Invasion_3_Hours.webp|剩余3小时的缩略图。
+E_Section_Invasion_2_Hours.webp|剩余2小时的缩略图。
+E_Section_Invasion_1_Hour.webp|剩余1小时的缩略图。
+SectorBreachAwarded.webp|一名玩家获得Sector Breach（扇区突破）徽章的画面
 </gallery>
 }}
 
@@ -56,7 +56,7 @@ SectorBreachAwarded.jpg|一名玩家获得Sector Breach（扇区突破）徽章�
 * [[E-60]]的设计在活动中期进行了修改。
 
 ==徽章==
-{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach（扇区突破）|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...（[无法获取] 在任意区遭遇并从两个来源不明的意外异常中的任意一个手中存活，即便经过数千个房间，它们也可能不会出现……）|Obtainment='''[UNOBTAINABLE]（无法获取）'''<br>在E区入侵活动期间，遭遇并从[[E-10]]或[[E-60#Old|E-60]]手中存活}}
+{{BadgeSectionE|Image=SectorBreach.webp|Name=Sector Breach（扇区突破）|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...（[无法获取] 在任意区遭遇并从两个来源不明的意外异常中的任意一个手中存活，即便经过数千个房间，它们也可能不会出现……）|Obtainment='''[UNOBTAINABLE]（无法获取）'''<br>在E区入侵活动期间，遭遇并从[[E-10]]或[[E-60#Old|E-60]]手中存活}}
 
 {{BrowseNavBox}}
 [[Category:Browsing]]

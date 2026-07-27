@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: black;">D-140 (Heretic)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Headphones}}
 {{InfoBox:Entity
-|entity_name=[[File:D-140Title.png|frameless|link=D-140]]
+|entity_name=[[File:D-140Title.webp|frameless|link=D-140]]
 |entity_image=<gallery>
-NewerD-140.gif|当前外观
-D140.png|旧版外观
+NewerD-140.webp|当前外观
+D140.webp|旧版外观
 </gallery>
 |previous_entity=[[D-120]]
 |next_entity=[[D-175]]
@@ -43,9 +43,9 @@ D-140会在下一扇门前方出现，发出高声调的驾驶舱通告音效。
 ==画廊==
 <gallery>
 File:D140.gif|游戏内旧版D-140
-File:D-140Jumpscare.gif|D-140的跳杀
-File:D-140.png|灰色重型柜子里的D-140
-SEMD-140.png|超级史诗模式外观
+File:D-140Jumpscare.webp|D-140的跳杀
+File:D-140.webp|灰色重型柜子里的D-140
+SEMD-140.webp|超级史诗模式外观
 </gallery>
 
 == 你知道吗 ==

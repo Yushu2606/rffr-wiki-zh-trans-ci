@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-70 (???)</span>}}
 {{Upcoming}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{InfoBox:Entity
 |entity_name=SHA-70
 |entity_image=Placeholder.webp

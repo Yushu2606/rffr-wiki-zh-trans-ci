@@ -4,10 +4,10 @@
 {{Upcoming}}
 '''''“当黑暗在你心中扎根时，火焰正蔓延至整个世界，要不要放弃，和黑暗融为一体？” ~M-340'''''
 {{InfoBox:Entity
-|entity_name=[[File:M340logo.png|frameless|link=M-340]]
+|entity_name=[[File:M340logo.webp|frameless|link=M-340]]
 |entity_image=entity_image=<gallery>
 Placeholder.webp|Upcoming 设计
-OldM-340.png|当前设计
+OldM-340.webp|当前设计
 </gallery>
 |previous_entity=[[Mouth|M-300]]<br>[[M-200]]
 |next_entity=[[E-10]]<br>[[Mori]]
@@ -44,11 +44,11 @@ OldM-340.png|当前设计
 
 ==画廊==
 <gallery>
-M340Containment.jpg|'''M-340'''的收容状态标识。
+M340Containment.webp|'''M-340'''的收容状态标识。
 OutsideM340PostUE.webp|Update Executive发布后M-340房间的外部
 InsideM340PostUE.webp|Update Executive发布后M-340房间的内部
-RoomM340Outside.jpg|Update Executive发布前M-340房间的外部
-RoomM340Inside.jpg|Update Executive发布前M-340房间的内部
+RoomM340Outside.webp|Update Executive发布前M-340房间的外部
+RoomM340Inside.webp|Update Executive发布前M-340房间的内部
 </gallery>
 
 {{EntityNavBox}}

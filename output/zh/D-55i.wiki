@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">D-55i（焰尘）</Span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{SectionDStub}}
 {{InfoBox:Entity
 |entity_name=D-55i

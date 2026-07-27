@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">Oblivion</span>}}
-{{ArticleBackground|File=OblivionScreen.png}}
+{{ArticleBackground|File=OblivionScreen.webp}}
 {{InfoBox:Entity
 |entity_name=Oblivion|link=<nowiki>Oblivion]]</nowiki>
 |entity_image=entity_image=<gallery>
-Oblivion.png|常规形态
-Humanoblivion.jpeg|实体形态
+Oblivion.webp|常规形态
+Humanoblivion.webp|实体形态
 </gallery>
 |nicknames=Oblivion、「指引之光」
 |appears_at=任何玩家死亡时出现。

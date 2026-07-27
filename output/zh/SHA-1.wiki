@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #a07adb, 0 0 65px #a07adb; color: #0C0414;">SHA-1（幻影）</span>}}
 {{InfoBox:Entity
 |entity_name=SHA-1
 |entity_image=<gallery>
-NewSHA1.png|当前版本
+NewSHA1.webp|当前版本
 SHA-1.webp|旧版本
 </gallery>
 |next_entity=[[SHA-2]]<br>[[LAPSE-1]] ([[Alpha & Shadowpocalypse|阿尔法&暗影天启]])

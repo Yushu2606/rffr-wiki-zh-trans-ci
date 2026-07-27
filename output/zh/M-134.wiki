@@ -1,7 +1,7 @@
 {{DISPLAYTITLE:<span style="animation: m134 10s infinite;">M-134 (钱德勒)</span>}}
 {{ArticleBackground|File=MBackground.webp}}
-{{InfoBox:Entity|entity_name=[[File:G.gif|frameless|link=M-134]]
-|entity_image=M134.png
+{{InfoBox:Entity|entity_name=[[File:G.webp|frameless|link=M-134]]
+|entity_image=M134.webp
 |previous_entity=[[M-120i]]（Upcoming）<br>[[M-120]]
 |next_entity=[[M-150]]
 |nicknames=钱德勒
@@ -38,8 +38,8 @@ M-134会生成在随机的柜子中，不进行任何行动。如果玩家快速
 
 ==画廊==
 <gallery>
-M134outside.jpg|柜子外视角下的'''M-134'''
-M134inside.jpg|同上，为柜子内视角
+M134outside.webp|柜子外视角下的'''M-134'''
+M134inside.webp|同上，为柜子内视角
 </gallery>
 
 {{EntityNavBoxSectionM}}

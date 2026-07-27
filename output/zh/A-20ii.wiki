@@ -1,12 +1,12 @@
-{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">A-20ii (Omega Smiler)</span>}}
+{{ArticleBackground|File=Open_Beta_Tight_Hallway_Boxes.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">A-20ii (Omega Smiler)</span>}}
 {{Modifier Exclusive|II Hate This, [[Super Epic Mode]], 或 [[April Fools 2026]]}}
 {{Headphones}}
 {{InfoBox:Entity
-|entity_name=[[File:A20iiPlaceHolder.png|frameless|link=A-20ii]]
+|entity_name=[[File:A20iiPlaceHolder.webp|frameless|link=A-20ii]]
 |entity_image=<gallery>
-NewA20ii.png|II Hate This 外观
-A-20ii.png|Super Epic Mode 外观
-AfA20ii.png|April Fools 2026 外观
+NewA20ii.webp|II Hate This 外观
+A-20ii.webp|Super Epic Mode 外观
+AfA20ii.webp|April Fools 2026 外观
 </gallery>
 |appears_at=A-020+(?)（[[Super Epic Mode]]/[[April Fools 2026]] 修饰符）
 开启'''II Hate This'''修饰符时可在任意位置出现

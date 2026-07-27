@@ -9,7 +9,7 @@ Lucy}}
 |appears_at=仅可由管理员召唤
 |type=玩家可控<br>反突袭者
 |speed=与玩家移动速度相同
-|entity_image=LucyMain.png}}
+|entity_image=LucyMain.webp}}
 
 <font color="000000"/font>
 == 外观 ==
@@ -34,10 +34,10 @@ Lucy}}
 <font color="000000"/font>
 == 画廊 ==
 <gallery widths="180">
-File:Lucy Eyes.png|黑暗中的Lucy，只有她的眼睛可见。
-File:Lucy LockerBreachOpening.png| "I thought I could trust you.. Good luck."<br>「我还以为我能信任你…祝你好运。」
-File:Lucy Minigun.png|手持虚空加特林，即VM-244的Lucy
-File:Lucy HOD.png|手持暗心的Lucy
-File:Lucy Perf.png|手持完美主义者的Lucy
-File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."<br>「…很抱歉事情走到了这一步。」
+File:Lucy Eyes.webp|黑暗中的Lucy，只有她的眼睛可见。
+File:Lucy_LockerBreachOpening.webp| "I thought I could trust you.. Good luck."<br>「我还以为我能信任你…祝你好运。」
+File:Lucy_Minigun.webp|手持虚空加特林，即VM-244的Lucy
+File:Lucy_HOD.webp|手持暗心的Lucy
+File:Lucy_Perf.webp|手持完美主义者的Lucy
+File:Lucy_JumpscareConcept.webp|"...I'm sorry it had to come to this."<br>「…很抱歉事情走到了这一步。」
 </gallery>{{EntityNavBox}}

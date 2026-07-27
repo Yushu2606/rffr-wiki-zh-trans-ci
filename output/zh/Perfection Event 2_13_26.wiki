@@ -1,7 +1,7 @@
 {{Removed|reason=Perfection Event（完美活动）2/13/26为限时活动，现已结束。}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{EventInfobox
-|image=ShadowScreen.jpg
+|image=ShadowScreen.webp
 |next_event=[[Perfection Event 3/13/26|Perfection Event（完美活动）3/13/26]]
 |previous_event=[[Section Executive Invasion Event|Section Executive Invasion Event（区主管入侵活动）]]
 |timeline=2/13/2026 - 2/23/2026
@@ -18,11 +18,11 @@
 
 == 新增/重新加入的实体 ==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Overseer.png|center|150px|link=Overseer]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Better L-1.png|center|150px|link=LAPSE-1]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA4.png|center|150px|link=SHA-4]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Overseer.webp|center|150px|link=Overseer]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Better_L-1.webp|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA4.webp|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA22.webp|center|150px|link=SHA-22]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Overseer]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[LAPSE-1]]
@@ -30,8 +30,8 @@
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-7]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-22]]
 {{!}}-
-{{!}} style="padding 5px;" align="center"{{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.webp|center|150px|link=E-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-150]]

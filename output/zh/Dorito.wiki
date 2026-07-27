@@ -1,10 +1,10 @@
-{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{ArticleBackground|File=Open_Beta_Tight_Hallway_Boxes.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |previous_entity=[[CAT-120]]
 |next_entity=[[A-200ii]]
-|entity_name=[[File:Doritos.png|frameless|link=Dorito]]
-|entity_image= [[Dorito.png|外观设计]] 
+|entity_name=[[File:Doritos.webp|frameless|link=Dorito]]
+|entity_image= [[Dorito.webp|外观设计]] 
 |caption-entity_image=喵 :3
 |appears_at=在[[Super Epic Mode|超级史诗模式]]中，A-135之后的任意位置。
 |nicknames=CAT-135

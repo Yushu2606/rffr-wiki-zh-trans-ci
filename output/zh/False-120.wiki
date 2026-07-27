@@ -1,7 +1,7 @@
-{{Stub}}{{ArticleBackground|File=Unnamed .png}}
+{{Stub}}{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=False-120
-|entity_image=F-120.gif
+|entity_image=F-120.webp
 |previous_entity=[[False-60]]
 |next_entity=[[False-200]]
 |claustrophobia=否
@@ -25,7 +25,7 @@ False-120过去能够命中玩家，造成秒杀。
 
 ==画廊==
 <gallery>
-File:F-120 outside a locker.png|'''False-120'''在柜子外。
+File:F-120_outside_a_locker.webp|'''False-120'''在柜子外。
 File:False-120_Standing_outside_a_door.webp|同上，但位于门外。
 </gallery>
 

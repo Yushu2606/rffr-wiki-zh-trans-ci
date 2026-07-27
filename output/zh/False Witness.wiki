@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: black;">False Witness</span>}}{{InfoBox:Entity
-|entity_name=[[File:Fuck.png|frameless|link=False Witness]]
+|entity_name=[[File:Fuck.webp|frameless|link=False Witness]]
 |entity_image=<gallery>
-NewFalseWitness.png|当前设计
-FWJump.png|当前跳杀设计
+NewFalseWitness.webp|当前设计
+FWJump.webp|当前跳杀设计
 FalseWitnessIdle.webp|旧设计
 FalseWitnessJum.webp|旧跳杀设计
 </gallery>

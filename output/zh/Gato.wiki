@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="color: black;text-shadow: -1px 1px yellow, 1px -1px yellow;">Gato</span>}}
-{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:GatoTitle.gif|frameless|link=Gato]]
+|entity_name=[[File:GatoTitle.webp|frameless|link=Gato]]
 |entity_image=<gallery>
 UI500.gif|事件结束后动画
 GatoJumpAnimation.gif|事件结束后发言动画
-Gato.png|事件结束后设定
+Gato.webp|事件结束后设定
 OldUI500.gif|事件进行时动画
-OldGatoSpeach.gif|事件进行时发言动画
+OldGatoSpeach.webp|事件进行时发言动画
 OldGato.webp|事件进行时设定
 </gallery>
 |nicknames=UI-500<br>圣尊
@@ -201,13 +201,13 @@ OldGato.webp|事件进行时设定
 
 == 画廊 ==
 <gallery>
-HiGato.gif|活动结束后一名玩家遭遇'''Gato'''
-Divination.png|Torch of Divination（占卜火炬）
-OLDToD.png|旧版Torch of Divination模型
+HiGato.webp|活动结束后一名玩家遭遇'''Gato'''
+Divination.webp|Torch of Divination（占卜火炬）
+OLDToD.webp|旧版Torch of Divination模型
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Beatificvision.png|Name=Beatific Vision（至福异象）|Description=遭遇祂。完成2024年愚人节活动即可获得。（……又或许它终究还是可以获取的？）|Obtainment='''[无法获取]'''<br>在2024年愚人节活动期间到达I-500，即可在原版<br>'''Rooms: Found Footage'''中遭遇'''Gato（加托）'''}}
+{{Badge|Image=Beatificvision.webp|Name=Beatific Vision（至福异象）|Description=遭遇祂。完成2024年愚人节活动即可获得。（……又或许它终究还是可以获取的？）|Obtainment='''[无法获取]'''<br>在2024年愚人节活动期间到达I-500，即可在原版<br>'''Rooms: Found Footage'''中遭遇'''Gato（加托）'''}}
 
 {{EntityNavBox}}
 [[Category:Super Epic Mode]]

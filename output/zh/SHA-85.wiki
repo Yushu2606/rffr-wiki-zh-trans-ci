@@ -1,11 +1,11 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-85（倒带）</span>}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-85（倒带）</span>}}
 {{Redesign|Helical|1. 整体设计将得到全面优化<br>2. 当前设计仅为重新配色版本}}
 {{InfoBox:Entity
 |entity_name=SHA-85
 |entity_image=<gallery>
 SHA85NewWatermark.webp|Upcoming 设计
-Sha85ani.gif|动画还原
-Sha85.png|设计
+Sha85ani.webp|动画还原
+Sha85.webp|设计
 </gallery>
 |caption-entity_image=火车老兄
 |previous_entity=[[SHA-60]]<br>[[LAPSE-60]] ([[Alpha & Shadowpocalypse|A&SP]])

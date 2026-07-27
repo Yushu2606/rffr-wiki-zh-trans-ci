@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7234d0, 0 0 65px #7234d0; color: #0C0414;">SHA-2（Wraith/怨灵）</span>}}
 {{InfoBox:Entity|entity_name=SHA-2
 |entity_image=<gallery>
-NewSHA2.png|当前外观
-Sha2.png|旧版外观
+NewSHA2.webp|当前外观
+Sha2.webp|旧版外观
 </gallery>
 |previous_entity=[[SHA-1]]<br>[[LAPSE-1]] ([[Alpha & Shadowpocalypse|A&SP]])
 |next_entity=[[SHA-3]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])

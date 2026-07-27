@@ -1,10 +1,10 @@
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-60Placeholder.png|frameless|link=UI-60]]
+|entity_name=[[File:UI-60Placeholder.webp|frameless|link=UI-60]]
 |entity_image=<gallery>
-UI-60.png|设计图
-UI-60Jumpscare.png|跳杀
+UI-60.webp|设计图
+UI-60Jumpscare.webp|跳杀
 </gallery>
 |appears_at=I-060+
 |type=[[Rusher|冲刺者]]

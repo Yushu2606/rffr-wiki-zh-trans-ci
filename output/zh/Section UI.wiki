@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="color: #56B1DF;text-shadow: -1px 1px #56B1DF, 1px -1px #56B1DF;">Section UI（未知换乘区）</span>}}
-{{ArticleBackground|File=Section Interchange Hallway.png}}
+{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{SectionUIStub}}
 {{SectionInfoBox
-|image=Section Interchange Hallway.png
+|image=Section_Interchange_Hallway.webp
 |previous_section=[[Section D|D区]]
 |next_section=无
 |entity_amount=17
@@ -18,10 +18,10 @@
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.png|center|150px|link=UI-5]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.png|center|150px|link=UI-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.png|center|150px|link=UI-30]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.png|center|150px|link=UI-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI5.webp|center|150px|link=UI-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-20.webp|center|150px|link=UI-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-30.webp|center|150px|link=UI-30]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-60.webp|center|150px|link=UI-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI-83.webp|center|150px|link=UI-83]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-5]]
@@ -32,9 +32,9 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI110.webp|center|80px|link=UI-110]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI157.webp|center|150px|link=UI-157]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.png|center|150px|link=UI-173]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.png|center|150px|link=UI-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:220.png|center|85px|link=UI-220]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-173.webp|center|150px|link=UI-173]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-220.webp|center|150px|link=UI-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:220.webp|center|85px|link=UI-220]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-110]]
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-157]]
@@ -42,11 +42,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-220]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.png|center|150px|link=UI-246]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.png|center|150px|link=UI-269]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.png|center|150px|link=E-30#Section_UI]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.png|center|150px|link=Mouth#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.webp|center|150px|link=UI-246]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.webp|center|150px|link=UI-269]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.webp|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.webp|center|150px|link=E-30#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.webp|center|150px|link=Mouth#Section_UI]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[UI-246]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[UI-269]]
@@ -54,7 +54,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
 {{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.webp|center|150px|link=M-60#Section_UI]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
@@ -63,8 +63,8 @@
 
 ==房间==
 <gallery>
-Section Interchange Hallway.png|A区分流房
-Darkinterchange.jpg|抵达I-400后可见的A区分流房
+Section_Interchange_Hallway.webp|A区分流房
+Darkinterchange.webp|抵达I-400后可见的A区分流房
 </gallery>
 
 ==应对策略==

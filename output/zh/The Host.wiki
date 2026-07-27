@@ -1,7 +1,7 @@
 {{Delete|reason=已移至[[Player Controlled|玩家可控]]}}
 {{InfoBox:Entity
 |entity_name=宿主
-|entity_image=Unknown Humanoid.png
+|entity_image=Unknown_Humanoid.webp
 |appears_at=仅管理员可召唤
 |nicknames=宿主<br>命运
 |behavior=???

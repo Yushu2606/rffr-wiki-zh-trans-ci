@@ -1,9 +1,9 @@
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{DISPLAYTITLE:X-000 (Father Death)}}
 {{Modifier Exclusive|Clocks Ticking}}
 {{InfoBox:Entity
 |entity_name=X-000
-|entity_image=FatherDeath.png
+|entity_image=FatherDeath.webp
 |appears_at=玩家在使用'''Clocks Ticking'''修饰符时耗尽时间时
 |nicknames=Father Death
 |type=锁定者<br>逃生终止者

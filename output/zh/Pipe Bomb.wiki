@@ -1,9 +1,9 @@
 {{Suggested|Collese（制作了该实体的原始模型，开发团队很喜欢）}}{{Stub}}
-{{ArticleBackground|File=SuperEpicMode.png}}
+{{ArticleBackground|File=SuperEpicMode.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |entity_name=Pipe Bomb（管炸弹）
-|entity_image=PB.jpg
+|entity_image=PB.webp
 |next_entity=???
 |previous_entity=???
 |appears_at=[[Super Epic Mode|超级史诗模式]]中随时出现

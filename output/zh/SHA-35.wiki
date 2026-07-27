@@ -1,4 +1,4 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, black, black, #b300f5, #b300f5); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-35 (Inception)</span>}}
 {{InfoBox:Entity
 |entity_name=[[File:Sha35logo.gif]]
@@ -6,7 +6,7 @@
 Sha-35.webp|当前设计
 Sha-35Invert.webp|闪烁外观
 Sha35.webp|旧版设计
-Sha35Invert.png|旧版闪烁外观
+Sha35Invert_png.webp|旧版闪烁外观
 </gallery>
 |previous_entity=[[SHA-30]]
 |next_entity=[[SHA-55]]

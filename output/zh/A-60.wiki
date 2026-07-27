@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">A-60 (Multi-Faced Monster)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Headphones}}
 {{DesignNotAllowed|design=旧版跳杀脸}}
 {{InfoBox:Entity
@@ -9,15 +9,15 @@
 [[A-85]]
 |entity_name=[[File:NewA60Title.webp|frameless|link=A-60]]
 |entity_image=<gallery>
-CurrentA-60.gif|动画还原
-A601.png|第1张脸
-602.png|第2张脸
-603.png|第3张脸
-604.png|第4张脸
-605.png|第5张脸
-A-60Face6.png|第6张脸
-606.png|第7张脸
-607.png|第8张脸
+CurrentA-60.webp|动画还原
+A601.webp|第1张脸
+602.webp|第2张脸
+603.webp|第3张脸
+604.webp|第4张脸
+605.webp|第5张脸
+A-60Face6.webp|第6张脸
+606.webp|第7张脸
+607.webp|第8张脸
 </gallery>
 |appears_at=A-060 之后任意时间
 |nicknames=Multi Faced Monster（多面怪物）、The Multi Monster（多重怪物）、Multimonster
@@ -69,20 +69,20 @@ A-60 是一张循环切换8张脸的红色实体。它最广为人知的形象�
 
 == 画廊 ==
 <gallery>
-Newa60jump.gif|A-60 的当前跳杀
-A-60AnimNew.gif|旧版动画
-Old601.png|旧版第 1 张脸
-Old605.png|旧版第 5 张脸
-File:A-60 scary.gif|A-60 的旧版/更旧版跳杀
-A-60.gif.gif|更旧版动画重制
-OldestA601.png|最旧版脸 1
-OldestA602.png|最旧版脸 2
-OldestA603.png|最旧版脸 3
-OldestA604.png|最旧版脸 4
-OldestA605.png|最旧版脸 5
-OldestA606.png|最旧版脸 6
-Og60.gif|正统遗产/遗产模式动画
-A-60 Open Beta.gif|公测模式动画
+Newa60jump.webp|A-60 的当前跳杀
+A-60AnimNew.webp|旧版动画
+Old601.webp|旧版第 1 张脸
+Old605.webp|旧版第 5 张脸
+File:A-60_scary.webp|A-60 的旧版/更旧版跳杀
+A-60.gif.webp|更旧版动画重制
+OldestA601.webp|最旧版脸 1
+OldestA602.webp|最旧版脸 2
+OldestA603.webp|最旧版脸 3
+OldestA604.webp|最旧版脸 4
+OldestA605.webp|最旧版脸 5
+OldestA606.webp|最旧版脸 6
+Og60.webp|正统遗产/遗产模式动画
+A-60_Open_Beta.webp|公测模式动画
 </gallery>
 
 

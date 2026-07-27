@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">Endellion</span>}}
 {{InfoBox:Entity|entity_image=<gallery>
-Endellion.png|清醒
-GooberEepy.png|熟睡
-GooberZ.png|酣睡
+Endellion.webp|清醒
+GooberEepy.webp|熟睡
+GooberZ.webp|酣睡
 </gallery>
 |appears_at=大厅|behavior=店主|speed=缓慢|damage=无|nicknames=Endellion|sound1=<center>《沉重购物》原声带</center><center>[[File:PonderousShopping.mp3]]</center>}}
 

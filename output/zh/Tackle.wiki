@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: white;">Tackle</span>}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=Tackle
 |entity_image=<gallery>
-Newtackle.png|当前设计
-Tackle.png|旧设计
+Newtackle.webp|当前设计
+Tackle.webp|旧设计
 </gallery>
 |previous_entity=[[False Witness]]<br>[[False Prophet]]
 |next_entity=[[Execution]]<br>[[Lunge]]

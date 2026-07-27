@@ -1,4 +1,4 @@
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #8102EA, 0 0 65px #8102EA; color: #8102EA;">SHA-300（深渊）}}
 {{Headphones}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法&暗影末日]]}}
@@ -14,9 +14,9 @@
 |related_monsters=[[Mouth]]
 |nicknames=深渊
 |entity_image=<gallery>
-SHA-300.png|设计
-MouthColorless.png|无色设计
-Shadow_Mouth.png|旧设计
+SHA-300.webp|设计
+MouthColorless.webp|无色设计
+Shadow_Mouth.webp|旧设计
 </gallery>
 |gun_effect=所有暗影实体都无法被枪械攻击
 |caption-entity_image=You cannot escape me. I WILL EAT YOU HUMAN.（你逃不掉的。我要把你吃掉，人类。）

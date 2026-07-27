@@ -3,9 +3,9 @@
 |-|Section E=
 {{NoteBox|note=请勿与'''Rooms Re-Established'''或'''Rooms: Found Footage: Revisited'''中的同名实体E-30混淆}}
 {{SectionEStub}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:E-30Title.png|frameless|link=E-30]]
+|entity_name=[[File:E-30Title.webp|frameless|link=E-30]]
 |entity_image=<gallery>
 NewE30.webp|现版设计
 E30.webp|预发布版设计
@@ -44,9 +44,9 @@ E30.webp|预发布版设计
 
 <h2>画廊</h2>
 <gallery>
-I30Vote.png|最初将'''M-30'''Removed的社区投票
-E30Vote.jpg|最终决定将'''M-30'''以'''E-30'''的名义重新加入的社区投票
-E30Rushing.gif|在[[Section E|E区]]中冲刺的'''E-30'''
+I30Vote.webp|最初将'''M-30'''Removed的社区投票
+E30Vote.webp|最终决定将'''M-30'''以'''E-30'''的名义重新加入的社区投票
+E30Rushing.webp|在[[Section E|E区]]中冲刺的'''E-30'''
 E30OldScare.webp|预发布版'''E-30'''的跳杀
 30 & 30i trail.webp|'''E-30'''的拖尾粒子效果
 </gallery>
@@ -54,10 +54,10 @@ E30OldScare.webp|预发布版'''E-30'''的跳杀
 |-|Section UI=
 '''UI区：'''
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
-{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
 {{InfoBox:Entity
 |entity_name=I-30
-|entity_image=Oldi30.png
+|entity_image=Oldi30.webp
 |previous_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
 |next_entity=[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
 |appears_at=I-430及以后
@@ -82,7 +82,7 @@ E30OldScare.webp|预发布版'''E-30'''的跳杀
 
 <h2>画廊</h2>
 <gallery>
-OldI30Jump.gif|跳杀
+OldI30Jump.webp|跳杀
 </gallery>
 </tabber>
 

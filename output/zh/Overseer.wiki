@@ -1,13 +1,13 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #8700FF; color: #8700FF;">SHA-000 (Overseer)</span>}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法与暗影灾变（Alpha & Shadowpocalypse）]]}}
 {{InfoBox:Entity
 |entity_name=Overseer
 |previous_entity=[[SHA-300]]
 |entity_image=<gallery>
-Overseer.png|普通形态
-OverseerjumpForm.jpg|跳杀形态
-CorporealOverseer.png|实体形态
+Overseer.webp|普通形态
+OverseerjumpForm.webp|跳杀形态
+CorporealOverseer.webp|实体形态
 </gallery>
 |appears_at=当你死于某个实体时 / 房间号超过750后随时可能出现。
 |nicknames=Overseer<br>暗影-000
@@ -287,10 +287,10 @@ CorporealOverseer.png|实体形态
 
 ==画廊==
 <gallery>
-OverseerJumpingame.jpg|游戏内可见的Overseer跳杀形态。
-SHA-0 minigame.png|SHA-000的单人小游戏启动界面
-SHA-0 minigame 2.png|SHA-000的单人小游戏界面
-Sha0MultiPlayer.jpg|多人模式中玩家被'''SHA-000'''选中后看到的画面
+OverseerJumpingame.webp|游戏内可见的Overseer跳杀形态。
+SHA-0_minigame.webp|SHA-000的单人小游戏启动界面
+SHA-0_minigame_2.webp|SHA-000的单人小游戏界面
+Sha0MultiPlayer.webp|多人模式中玩家被'''SHA-000'''选中后看到的画面
 </gallery>
 
 [[Category:Entities]]

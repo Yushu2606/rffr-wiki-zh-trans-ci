@@ -1,14 +1,14 @@
 {{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #000, #FFA500); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10（耐心）</span>}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{NoteBox|note=请勿将其与《Rooms Re-Established》中的E-10、《Interminable Rooms》中的E-10，或是《Rooms: Found Footage: Revisited》中的E-17混淆。}}
 {{Redesign|Wawaman|未知}}
 {{DesignNotAllowed|design=Upcoming 设计|reason=应设计师要求|exceptions=游戏内截图}}
 {{InfoBox:Entity
-|entity_name=[[File:E-10PlaceHolder.png|frameless|link=E-10]]
+|entity_name=[[File:E-10PlaceHolder.webp|frameless|link=E-10]]
 |entity_image=<gallery>
 Placeholder.webp|Upcoming 设计
-E-10Anim.gif|动画重制
-E-10.png|设计稿
+E-10Anim.webp|动画重制
+E-10.webp|设计稿
 OldE10Anim.gif|测试版动画重制
 OldE-10.webp|测试版设计稿
 </gallery>
@@ -49,18 +49,18 @@ OldE-10.webp|测试版设计稿
 
 ==画廊==
 <gallery>
-File:E-10NewScare.gif|跳杀。
-File:E10jump.gif|入侵事件跳杀。
-File:OldE-10Jum.gif|发布前跳杀。
-File:TheSun.jpg|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，出现在[[Section D|D区]]的'''E-10'''。
-File:TheOldSun.jpg|发布前的'''E-10'''，即将杀死玩家。
-File:ByeE10.gif|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，'''E-10'''于[[Section D|D区]]从玩家身旁经过。
+File:E-10NewScare.webp|跳杀。
+File:E10jump.webp|入侵事件跳杀。
+File:OldE-10Jum.webp|发布前跳杀。
+File:TheSun.webp|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，出现在[[Section D|D区]]的'''E-10'''。
+File:TheOldSun.webp|发布前的'''E-10'''，即将杀死玩家。
+File:ByeE10.webp|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，'''E-10'''于[[Section D|D区]]从玩家身旁经过。
 File:E-10SafeSpot.webp|出现在安全点位的'''E-10'''。
 File:E-10 despawn p.webp|'''E-10'''的消失粒子。
 </gallery>
 
 == 徽章 ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach（扇区突破）|Description=[无法获取] 在任意区遭遇并从两个来源未知的意外异常之一手中存活，即便经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇'''E-10'''或[[E-60#Old|E-60]]并存活}}
+{{BadgeSectionE|Image=SectorBreach.webp|Name=Sector Breach（扇区突破）|Description=[无法获取] 在任意区遭遇并从两个来源未知的意外异常之一手中存活，即便经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇'''E-10'''或[[E-60#Old|E-60]]并存活}}
 
 {{EntityNavBox}}
 

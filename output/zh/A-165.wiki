@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:A-165 (???)}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Scrapped|reason=<br>1：“给出的概念只是[[E-45]]的劣化版”<br>2：“感觉没有存在必要”}}
 {{InfoBox:Entity
 |entity_name=A-165

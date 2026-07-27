@@ -1,38 +1,38 @@
 {{SectionDStub}}
 {{HeadphonesNotice}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0ba300; color: #0ba300;">D-60ii（Omega Invader 欧米茄入侵者）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:D-60iiPlaceholder.gif|frameless|link=D-60ii]]
+|entity_name=[[File:D-60iiPlaceholder.webp|frameless|link=D-60ii]]
 |entity_image=<gallery>
-D60iiAnim.gif|第一阶段动画
-D60iface1.png|第一阶段第1张脸
-D60iface2.png|第一阶段第2张脸
-D60iface3.png|第一阶段第3张脸
-D60iface4.png|第一阶段第4张脸
-D60iface5.png|第一阶段第5张脸
-D60iFace6.png|第一阶段第6张脸
-D60iface7.png|第一阶段第7张脸
-D60iface8.png|第一阶段第8张脸 
-D60iface9.png|第一阶段第9张脸 
-D60iface10.png|第一阶段第10张脸 
-D60iface11.png|第一阶段第11张脸 
-D60iface12.png|第一阶段第12张脸 
-D60iface13.png|第一阶段第13张脸
-D60iface1Phase2.png|第二阶段第1张脸
-D60iface2phase2.png|第二阶段第2张脸
-D60iface3phase2.png|第二阶段第3张脸
-D60iface4phase2.png|第二阶段第4张脸
-D60iface5phase2.png|第二阶段第5张脸
-D60iface6phase2.png|第二阶段第6张脸
-D60iface7phase2.png|第二阶段第7张脸
-D60iface8phase2.png|第二阶段第8张脸
-D60iface9Phase2.png|第二阶段第9张脸
-D60iface10phase2.png|第二阶段第10张脸
-D60iface11Phase2.png|第二阶段第11张脸
-D60iface12Phase2.png|第二阶段第12张脸
-D60iface13Phase2.png|第二阶段第13张脸
+D60iiAnim.webp|第一阶段动画
+D60iface1.webp|第一阶段第1张脸
+D60iface2.webp|第一阶段第2张脸
+D60iface3.webp|第一阶段第3张脸
+D60iface4.webp|第一阶段第4张脸
+D60iface5.webp|第一阶段第5张脸
+D60iFace6.webp|第一阶段第6张脸
+D60iface7.webp|第一阶段第7张脸
+D60iface8.webp|第一阶段第8张脸 
+D60iface9.webp|第一阶段第9张脸 
+D60iface10.webp|第一阶段第10张脸 
+D60iface11.webp|第一阶段第11张脸 
+D60iface12.webp|第一阶段第12张脸 
+D60iface13.webp|第一阶段第13张脸
+D60iface1Phase2.webp|第二阶段第1张脸
+D60iface2phase2.webp|第二阶段第2张脸
+D60iface3phase2.webp|第二阶段第3张脸
+D60iface4phase2.webp|第二阶段第4张脸
+D60iface5phase2.webp|第二阶段第5张脸
+D60iface6phase2.webp|第二阶段第6张脸
+D60iface7phase2.webp|第二阶段第7张脸
+D60iface8phase2.webp|第二阶段第8张脸
+D60iface9Phase2.webp|第二阶段第9张脸
+D60iface10phase2.webp|第二阶段第10张脸
+D60iface11Phase2.webp|第二阶段第11张脸
+D60iface12Phase2.webp|第二阶段第12张脸
+D60iface13Phase2.webp|第二阶段第13张脸
 </gallery>
 |caption-entity_image=绿家伙
 |appears_at=启用'''II Hate This'''修饰符的任意区域
@@ -87,30 +87,30 @@ D60iface13Phase2.png|第二阶段第13张脸
 == 画廊 ==
 <gallery>
 File:D-60iiNewScare.webp|跳杀
-File:D-60iiJumpscare.gif|旧版跳杀
-ii9.png|倒计时 9
-ii8.png|倒计时 8
-ii7.png|倒计时 7
-ii6.png|倒计时 6
-ii5.png|倒计时 5
-FOUR.png|倒计时 4
+File:D-60iiJumpscare.webp|旧版跳杀
+Ii9.webp|倒计时 9
+Ii8.webp|倒计时 8
+Ii7.webp|倒计时 7
+Ii6.webp|倒计时 6
+Ii5.webp|倒计时 5
+FOUR.webp|倒计时 4
 D60i3.webp|倒计时 3
 D60i2.webp|倒计时 2
 D60i1.webp|倒计时 1
-ii0.png|倒计时 0
-D-60iiFr.gif|旧版动画重制
-D60ii1.png|旧版面容 1
-D60ii2.png|旧版面容 2
-D60ii3.png|旧版面容 3
-D60ii4.png|旧版面容 4
-D60ii5.png|旧版面容 5
-D60ii6.png|旧版面容 6
-D60ii7.png|旧版面容 7
-BroisnotA-135.png|旧版面容 8
+Ii0.webp|倒计时 0
+D-60iiFr.webp|旧版动画重制
+D60ii1.webp|旧版面容 1
+D60ii2.webp|旧版面容 2
+D60ii3.webp|旧版面容 3
+D60ii4.webp|旧版面容 4
+D60ii5.webp|旧版面容 5
+D60ii6.webp|旧版面容 6
+D60ii7.webp|旧版面容 7
+BroisnotA-135.webp|旧版面容 8
 </gallery>
 
 ==徽章==
-{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 绝对肾上腺素狂飙]|Description=为什么这种事会发生在我身上。|Obtainment=遭遇并从'''D-60ii'''手中存活。}}
+{{Badge|Image=D60iiohno.webp|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 绝对肾上腺素狂飙]|Description=为什么这种事会发生在我身上。|Obtainment=遭遇并从'''D-60ii'''手中存活。}}
 
 {{EntityNavBoxAdmin}} 
 [[Category:Entities]]

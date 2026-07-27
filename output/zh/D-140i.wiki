@@ -1,11 +1,11 @@
-{{Headphones}}{{Admin Exclusive}}{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}{{Admin Exclusive}}{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #F80211, -1.5px 0.66px 2px #ff55bb; color: black;">D-140i (狡诈者)</span>}}
 {{InfoBox:Entity
-|entity_name=[[File:D-140iTitle.png|frameless|link=D-140i]]
+|entity_name=[[File:D-140iTitle.webp|frameless|link=D-140i]]
 |entity_image=<gallery>
-D-140irecreation.gif|动画
-D-140iface1.png|设计1
-D-140iface2.png|设计2
+D-140irecreation.webp|动画
+D-140iface1.webp|设计1
+D-140iface2.webp|设计2
 </gallery>
 |gun_effect=无
 |claustrophobia=否

@@ -2,7 +2,7 @@
 {{ArticleBackground|File=MBackground.webp}}
 {{Suggested|Creepet}}
 {{InfoBox:Entity
-|entity_name=[[File:M-150PlaceHolder.png|frameless|link=M-150]]
+|entity_name=[[File:M-150PlaceHolder.webp|frameless|link=M-150]]
 |previous_entity=[[M-134]]
 |next_entity=[[M-200]]
 |nicknames=双相
@@ -14,8 +14,8 @@
 |gun_effect=无
 |locker_snipe=是（非致命）
 |entity_image=<gallery>
-M150Anim.gif|重制动画
-M-150thedepressed.png|设计图
+M150Anim.webp|重制动画
+M-150thedepressed.webp|设计图
 </gallery>
 |sound1=<center>生成</center><center>[[File:M150.mp3]]</center>
 |sound2=<center>环境音'''重制版'''</center><center>[[File:M150ambi.mp3]]</center>
@@ -45,7 +45,7 @@ M-150thedepressed.png|设计图
 
 == 画廊 ==
 <gallery>
-File:M-150 scary.gif|M-150的跳杀
+File:M-150_scary.webp|M-150的跳杀
 </gallery>
 
 

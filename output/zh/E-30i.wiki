@@ -1,8 +1,8 @@
 {{SectionEStub}} {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0b74df; color: #000000;">E-30i（缄默冲刺者 Prime）</span>}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
 |entity_name=E-30i
-|entity_image=E30i.png
+|entity_image=E30i.webp
 |previous_entity=[[E-10i]]<br>[[E-30]]
 |next_entity=[[E-45]]<br>[[E-60]]
 |claustrophobia=否
@@ -32,6 +32,6 @@
 == 画廊 ==
 
 <gallery>
-File:E-30iScary.gif|跳杀
+File:E-30iScary.webp|跳杀
 File:30 & 30i trail.webp|'''E-30i'''的拖尾粒子
 </gallery>

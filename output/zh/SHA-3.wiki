@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #c164d0;">SHA-3（Asunder 撕裂者）</span>}}
 {{InfoBox:Entity|entity_name=SHA-3|entity_image=<gallery>
-NewSHA3.png|当前版本
-sha3.png|旧版本
+NewSHA3.webp|当前版本
+Sha3.webp|旧版本
 </gallery>
 |previous_entity=[[SHA-2]]<br>[[LAPSE-2]] ([[Alpha & Shadowpocalypse|A&SP]])
 |next_entity=[[SHA-4]]<br>[[LAPSE-3]] ([[Alpha & Shadowpocalypse|A&SP]])

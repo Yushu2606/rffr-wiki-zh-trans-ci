@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px Blue; color: black;">D-20i（凝视）</span>}}
 {{InfoBox:Entity
 |entity_name=D-20i
-|entity_image= D-20i.png 
+|entity_image= D-20i.webp 
 |caption-entity_image=我只存在一秒钟
 |appears_at=仅Admin可召唤
 |nicknames=Gaze（凝视）

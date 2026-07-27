@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #C10038, #C10038, #5D001B, #5D001B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-120（散光）</span>}}
 {{NoteBox|note=请勿与'''《Interminable Rooms but it's 200 players》'''中的E-120或是'''《Rooms: Found Footage: Revisited》'''中的同名实体混淆}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
 |entity_name=[[File:E-120Title.webp|frameless|link=E-120]]
-|entity_image=File:E-120 Design.png
+|entity_image=File:E-120_Design.webp
 |nicknames=散光
 |previous_entity=[[E-90]]
 |next_entity=[[E-165]]
@@ -41,7 +41,7 @@
 
 ==画廊==
 <gallery>
-File:RenoE-120.gif|概念设计
+File:RenoE-120.webp|概念设计
 File:E-120_jumpscare.webp|'''E-120'''的跳杀
 </gallery>
 

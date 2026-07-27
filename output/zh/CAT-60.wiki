@@ -1,15 +1,15 @@
 {{SectionAStub}}
 {{Modifier Exclusive|[[Super Epic Mode]]}}
-{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{ArticleBackground|File=Open_Beta_Tight_Hallway_Boxes.webp}}
 {{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-20ii]]
 |next_entity=[[CAT-120]]
 |entity_name=CAT-60
 |entity_image=<gallery>
-File:Cat60face1.jpg|脸部 1
-File:Cat60face2.jpg|脸部 2
-File:Cat60face3.jpg|脸部 3
+File:Cat60face1.webp|脸部 1
+File:Cat60face2.webp|脸部 2
+File:Cat60face3.webp|脸部 3
 </gallery> 
 |appears_at=[[Super Epic Mode]]中A-060之后的任意时刻。
 |nicknames=待公布

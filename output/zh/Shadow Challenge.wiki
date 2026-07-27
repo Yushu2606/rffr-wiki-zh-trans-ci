@@ -1,9 +1,9 @@
 __NOTOC__
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">暗影挑战</span>}}
 {{InfoBox:Entity
 |entity_name=暗影挑战
-|entity_image=SCDoor.png
+|entity_image=SCDoor.webp
 |sound1=<center>生成</center><center>[[File:BossDespawn.mp3]]</center>
 |sound2=<center>语音</center><center>[[File:ShadowChallangeVoices.mp3]]</center>
 |sound3=<center>预热音效1</center><center>[[File:SCBuildUp1.mp3]]</center>
@@ -33,9 +33,9 @@ __NOTOC__
 
 == 实体 ==
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.webp|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.webp|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.webp|center|150px|link=SHA-3]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.webp|center|150px|link=SHA-4]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
 {{!}}-
@@ -46,10 +46,10 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.webp|center|150px|link=SHA-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.webp|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.webp|center|150px|link=SHA-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
@@ -57,9 +57,9 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
@@ -78,4 +78,4 @@ __NOTOC__
 ** 不过在'''暗影挑战'''中，[[SHA-7]]、[[SHA-22]]和[[SHA-150]]可被[[SHA-4]]生成。
 
 ==徽章==
-{{Badge|Image=666 666 666 (Badge).png|Name=666 666 666|Description=秘密成就：完成“暗影挑战”活动。授予“黑暗之心”与“完美主义者”神器武器|Obtainment=完成暗影挑战。}}
+{{Badge|Image=666_666_666_(Badge).webp|Name=666 666 666|Description=秘密成就：完成“暗影挑战”活动。授予“黑暗之心”与“完美主义者”神器武器|Obtainment=完成暗影挑战。}}

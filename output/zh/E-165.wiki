@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:E-165 (光敏)}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{Stub}}
 {{InfoBox:Entity
 |entity_name=E-165
-|entity_image=E165.png
+|entity_image=E165.webp
 |nicknames=光敏
 |previous_entity=[[E-120]]
 |next_entity=[[E-200]]

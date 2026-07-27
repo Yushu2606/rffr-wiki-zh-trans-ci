@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #FF0000, #FFA500, #FFFF00); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">Old A-60i（多重怪物X）</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Removed|reason=被[[A-60i]]替代}}
 {{InfoBox:Entity
 |entity_name=Old A-60i
 |entity_image=<gallery>
-A50iAnim.gif|动画
+A50iAnim.webp|动画
 A50Main.webp|主脸
 A501.webp|第1张脸
 A502.webp|第2张脸

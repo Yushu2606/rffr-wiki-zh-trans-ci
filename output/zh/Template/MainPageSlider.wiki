@@ -2,9 +2,9 @@
 <br>
 {{Spacer}}
 <gallery type="slider">
-Agency (A-Section).png|Agency（办事处）|link=Section A|linktext=A区
-Depths (D-Section).png|Depth（深渊）|link=Section D|linktext=D区
-Derelict (D-Section).png|Derelict（弃址）|link=Section D|linktext=D区
-Maintenance (M-Section).png|Maintence（维护区）|link=Section M|linktext=M区
+Agency_(A-Section).webp|Agency（办事处）|link=Section A|linktext=A区
+Depths_(D-Section).webp|Depth（深渊）|link=Section D|linktext=D区
+Derelict_(D-Section).webp|Derelict（弃址）|link=Section D|linktext=D区
+Maintenance_(M-Section).webp|Maintence（维护区）|link=Section M|linktext=M区
 </gallery>
 {{Spacer}}

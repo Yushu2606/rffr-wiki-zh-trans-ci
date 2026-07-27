@@ -1,7 +1,7 @@
 {{Removed|reason=已被[[Pipe Bomb]]取代}}
 {{InfoBox:Entity
 |entity_name=Cherry Bomb
-|entity_image=CherryBomb.png
+|entity_image=CherryBomb.webp
 |previous_entity=[[DCAT-55]]
 |next_entity=[[Mori]]
 |appears_at=超级史诗模式下任意时间（Removed，当前仅管理员可召唤）

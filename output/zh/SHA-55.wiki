@@ -1,6 +1,6 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #7b0f9a;">SHA-55（灾厄）</span>}}{{InfoBox:Entity|entity_name=[[File:Sha55logo.gif]]|entity_image=<gallery>
-SHA-55.png|当前设计
-Sha55.png|旧设计
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #A604DF, 0 0 65px #A604DF; color: #7b0f9a;">SHA-55（灾厄）</span>}}{{InfoBox:Entity|entity_name=[[File:Sha55logo.webp]]|entity_image=<gallery>
+SHA-55.webp|当前设计
+Sha55.webp|旧设计
 </gallery>
 |caption-entity_image=卡车
 |previous_entity=[[SHA-35]]

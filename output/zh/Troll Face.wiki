@@ -1,4 +1,4 @@
-{{ArticleBackground|File=SuperEpicMode.png}}
+{{ArticleBackground|File=SuperEpicMode.webp}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
 |entity_name=Troll Face（巨魔脸）

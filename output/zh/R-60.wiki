@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;">R-60 (???)</span>}}
-{{ArticleBackground|File=RDoor.jpg}}
+{{ArticleBackground|File=RDoor.webp}}
 {{Stub}}
 {{NoteBox|note=请注意，此处的大量信息可能存在错误，因为目前该实体仅有一次记录在案的目击报告。}}
 {{InfoBox:Entity
@@ -40,7 +40,7 @@ R60poisencabinet.webp|装满毒液的棕色柜子。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气绝佳]|Description=遇见#-##。这玩意啥用没有，哈哈。|Obtainment=在[[Section R|R区]]之外遭遇并从'''R-60'''的袭击中存活}}
+{{Badge|Image=CongratsYouGotGoodRNG.webp|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气绝佳]|Description=遇见#-##。这玩意啥用没有，哈哈。|Obtainment=在[[Section R|R区]]之外遭遇并从'''R-60'''的袭击中存活}}
 
 
 {{EntityNavBox}}

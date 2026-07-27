@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="animation: a120 5s infinite">A-120 (The Glitched Scribble)</span>}} 
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{InfoBox:Entity
 |previous_entity=[[A-85]]<br>[[A-85i]]
 |next_entity=[[A-135]]<br>[[A-135i]]
 |entity_name=[[File:A-120Placholder.webp|frameless|link=A-120]]
 |entity_image=<gallery>
-File:NewA120.png|新设计
-File:A-120_Recreated.png|旧设计
+File:NewA120.webp|新设计
+File:A-120_Recreated.webp|旧设计
 </gallery>|caption-entity_image= :) 
 |appears_at=在A-120及之后的房间出现
 |nicknames="The Glitched Scribble"（“故障涂鸦”）

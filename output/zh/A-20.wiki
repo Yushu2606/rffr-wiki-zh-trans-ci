@@ -1,18 +1,18 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">A-20 (Smiler)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{InfoBox:Entity
 |previous_entity=[[Jimmy]]
 [[Claustrophobia|幽闭恐惧]]
 |next_entity=
 [[A-20i]]
 [[A-60]]
-|entity_name=[[File:NewA-20Title.png|frameless|link=A-20]]
+|entity_name=[[File:NewA-20Title.webp|frameless|link=A-20]]
 |entity_image=
 <gallery>
-A-25MainFace.png|V.3 设计
-A-25 scream.png|V.3 跳杀设计
-File:A-25ReRedesign.png|V.2 设计 
-File:A20.png|V.1 设计
+A-25MainFace.webp|V.3 设计
+A-25_scream.webp|V.3 跳杀设计
+File:A-25ReRedesign.webp|V.2 设计 
+File:A20.webp|V.1 设计
 </gallery>
 |appears_at=A-020+
 |nicknames=Smiler（微笑者）
@@ -46,12 +46,12 @@ A-20生成时会发出呼吸声。A-20会以缓慢的速度冲向玩家当前所
 
 ==画廊==
 <gallery>
-A-20VeryScary.gif|A-20的跳杀
-File:A-20anim.gif|旧版设计动画重制
-NewA-25Jumpscare.gif|旧版A-20的跳杀
-File:A-25Design.png|已废弃的V.2设计
-File:A-25Jumpscare.gif|更旧版本的A-20跳杀
-TrueLegacyA-25.png|真正的遗留/超级史诗模式设计
+A-20VeryScary.webp|A-20的跳杀
+File:A-20anim.webp|旧版设计动画重制
+NewA-25Jumpscare.webp|旧版A-20的跳杀
+File:A-25Design.webp|已废弃的V.2设计
+File:A-25Jumpscare.webp|更旧版本的A-20跳杀
+TrueLegacyA-25.webp|真正的遗留/超级史诗模式设计
 </gallery>
 
 

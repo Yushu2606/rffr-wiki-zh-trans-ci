@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Open Beta Tight Hallway Boxes.png}}
+{{ArticleBackground|File=Open_Beta_Tight_Hallway_Boxes.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px orange, 0 0 65px gold; color: orange;">A-200ii（欧米茄涂鸦）</span>}}
 {{Modifier Exclusive|II Hate This、[[Super Epic Mode|超级史诗模式]]或[[April Fools 2026|2026年愚人节]]}}
 {{InfoBox:Entity
-|entity_name=[[File:A-200iititle.png|frameless|link=A-200ii]]
+|entity_name=[[File:A-200iititle.webp|frameless|link=A-200ii]]
 |entity_image=A-200ii Anim .gif
 |nicknames=The Omega Scribble（欧米茄涂鸦）
 |behavior=会发出奇怪的重击声，随后等待5秒开始反弹。

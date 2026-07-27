@@ -1,10 +1,10 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #6600FF, #6600FF, #3A0091, #3A0091); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">SHA-60（同化）</span>}}
 {{InfoBox:Entity
-|entity_name=[[File:SHA60logo.gif]]
+|entity_name=[[File:SHA60logo.webp]]
 |entity_image=<gallery>
-File:SHA-60.png|现有设计
-File:Sha60InGame.png|游戏内现有外观
+File:SHA-60.webp|现有设计
+File:Sha60InGame.webp|游戏内现有外观
 File:OLDSHA60.webp|旧设计
 File:Sha60.webp|旧版裁剪图
 </gallery>

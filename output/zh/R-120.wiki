@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:R-120 (???)}}
-{{ArticleBackground|File=RDoor.jpg}}
+{{ArticleBackground|File=RDoor.webp}}
 {{Upcoming}}
 {{InfoBox:Entity
 |entity_name=R-120

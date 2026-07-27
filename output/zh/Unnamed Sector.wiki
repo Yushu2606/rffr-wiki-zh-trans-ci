@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC; color: black;">?区（无名区域）</span>}}
-{{ArticleBackground|File=Unnamed .png}}
+{{ArticleBackground|File=Unnamed_.webp}}
 {{Section?Stub}}
 
 {{SectionInfoBox
-|image=Unnamed .png
+|image=Unnamed_.webp
 |previous_section=[[Section A|A区]]<br>[[Section D|D区]]<br>[[Section M|M区]]
 |next_section=[[Section E|E区]]
 |entity_amount=10
@@ -21,10 +21,10 @@
 
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center"{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.png|center|150px|link=Mortis]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.png|center|150px|link=False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.webp|center|150px|link=Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.webp|center|150px|link=False Witness]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:FalseProphet.webp|center|150px|link=False Prophet]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.png|center|150px|link=Tackle]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.webp|center|150px|link=Tackle]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Mori]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Mortis]]
@@ -32,11 +32,11 @@
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[False Prophet]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Tackle]]
 {{!}}-
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.png|center|150px|link=Lunge]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.png|center|150px|link=Execution]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.webp|center|150px|link=Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.webp|center|150px|link=Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.webp|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.webp|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.webp|center|150px|link=False-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]
@@ -47,9 +47,9 @@
 
 ==非专属实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:False300.png|center|150px|link=Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:False300.webp|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.webp|center|150px|link=Void]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
@@ -58,21 +58,21 @@
 
 == Rooms ==
 <gallery>
-File:AUnnamed.jpg|位于[[Section A|A区]]、包含无名区域入口的房间
-File:DUnnamed.jpg|位于[[Section D|D区]]、包含无名区域入口的房间
+File:AUnnamed.webp|位于[[Section A|A区]]、包含无名区域入口的房间
+File:DUnnamed.webp|位于[[Section D|D区]]、包含无名区域入口的房间
 File:Unnamed_Sector_entrance_in_M-Section.webp|位于[[Section M|M区]]、包含无名区域入口的房间
-File:Unnamed .png
+File:Unnamed_.webp
 </gallery>
 
 == 其他 ==
 <gallery>
-MUnnamed.jpg|[[Section M|M区]]内旧版包含无名区域入口的房间
-UnnamedAdoor.jpg|[[Section A|A区]]内通往无名区域的旧版门
-UnnamedDdoor.jpg|[[Section D|D区]]内通往无名区域的旧版门
+MUnnamed.webp|[[Section M|M区]]内旧版包含无名区域入口的房间
+UnnamedAdoor.webp|[[Section A|A区]]内通往无名区域的旧版门
+UnnamedDdoor.webp|[[Section D|D区]]内通往无名区域的旧版门
 OldunnamedMdoor.webp|[[Section M|M区]]内通往无名区域的旧版门
-Unnamed1.png|通往无名区域的电梯
-newUnnamedDoor.jpg|无名区域当前使用的门模型
-Unnamed2.png|无名区域的旧版门模型
+Unnamed1.webp|通往无名区域的电梯
+NewUnnamedDoor.webp|无名区域当前使用的门模型
+Unnamed2.webp|无名区域的旧版门模型
 Unnamed4.webp|进入[[Section E|E区]]所需的奇怪钥匙卡，可在无名区域的地面上见到
 File:UnnamedDemoThumbnail.webp|无名区域试玩版发布时的游戏缩略图
 </gallery>
@@ -84,11 +84,11 @@ File:UnnamedDemoThumbnail.webp|无名区域试玩版发布时的游戏缩略图
 * 待公布
 
 ==徽章==
-{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=Into The Unknown（踏入未知）|Description=0000|Obtainment=进入无名区域}}
-{{BadgeUnnamed|Image=SectorShutdown.png|Name=Sector Shutdown（区域关停）|Description=You caused this.（这都是你造成的。）|Obtainment=拾取奇怪钥匙卡，触发[[Red Rooms|红区]]}}
-{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=The Beginning of The End.（终焉之始。）|Description=Escape.（逃脱。）|Obtainment=携带奇怪钥匙卡从无名区域逃脱}}
-{{BadgeUnnamed|Image=MoneyWalks.png|Name=Money Walks（金钱漫步）|Description=0500|Obtainment=到达无名区域的0500号门}}
-{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=Wasted My Time For This Badge 👍（浪费时间拿这个徽章 👍）|Description=1000|Obtainment=到达无名区域的1000号门}}
+{{BadgeUnnamed|Image=IntoTheUnkownBadge.webp|Name=Into The Unknown（踏入未知）|Description=0000|Obtainment=进入无名区域}}
+{{BadgeUnnamed|Image=SectorShutdown.webp|Name=Sector Shutdown（区域关停）|Description=You caused this.（这都是你造成的。）|Obtainment=拾取奇怪钥匙卡，触发[[Red Rooms|红区]]}}
+{{BadgeUnnamed|Image=TheBeginningofTheEnd.webp|Name=The Beginning of The End.（终焉之始。）|Description=Escape.（逃脱。）|Obtainment=携带奇怪钥匙卡从无名区域逃脱}}
+{{BadgeUnnamed|Image=MoneyWalks.webp|Name=Money Walks（金钱漫步）|Description=0500|Obtainment=到达无名区域的0500号门}}
+{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.webp|Name=Wasted My Time For This Badge 👍（浪费时间拿这个徽章 👍）|Description=1000|Obtainment=到达无名区域的1000号门}}
 
 == 冷知识 ==
 * [[Mori]]、[[Tackle]]、[[False Witness]]与[[False-60]]在500号门之后的无名区域外有1/2000的概率生成。

@@ -1,9 +1,9 @@
 __NOTOC__
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">红区</span>}}
-{{ArticleBackground|File=RRBack.jpg}}
+{{ArticleBackground|File=RRBack.webp}}
 {{InfoBox:Entity
 |entity_name=红区
-|entity_image=RRDoor.jpg
+|entity_image=RRDoor.webp
 |sound1=<center>环境音效 1</center><center>[[File:RRSound1.mp3]]</center>
 |sound2=<center>环境音效 2</center><center>[[File:RRSound2.mp3]]</center>
 |sound3=<center>环境音效 3</center><center>[[File:RRSound3.mp3]]</center>
@@ -32,7 +32,7 @@ __NOTOC__
 
 <h2>画廊</h2>
 <gallery>
-RRA.jpg|'''红区'''中出现的一间A区房间
+RRA.webp|'''红区'''中出现的一间A区房间
 </gallery>
 
 
@@ -58,7 +58,7 @@ RRA.jpg|'''红区'''中出现的一间A区房间
 
 <h2>图库</h2>
 <gallery>
-RRD.jpg|'''红区'''中的一间D区房间
+RRD.webp|'''红区'''中的一间D区房间
 </gallery>
 
 
@@ -85,7 +85,7 @@ RRD.jpg|'''红区'''中的一间D区房间
 <h2>图库</h2>
 <gallery>
 Placeholder.webp|'''红区'''中的一间新版M区房间
-RRM.jpg|'''红区'''中的一间旧版M区房间
+RRM.webp|'''红区'''中的一间旧版M区房间
 </gallery>
 
 
@@ -107,7 +107,7 @@ RRM.jpg|'''红区'''中的一间旧版M区房间
 
 <h2>图集</h2>
 <gallery>
-RRU.jpg|'''红区'''中出现的一间无名区域房间
+RRU.webp|'''红区'''中出现的一间无名区域房间
 </gallery>
 
 
@@ -135,7 +135,7 @@ RRU.jpg|'''红区'''中出现的一间无名区域房间
 
 <h2>图集</h2>
 <gallery>
-RRE.jpg|'''红区'''中出现的一间E区房间
+RRE.webp|'''红区'''中出现的一间E区房间
 </gallery>
 
 
@@ -160,12 +160,12 @@ RRE.jpg|'''红区'''中出现的一间E区房间
 
 
 ==徽章==
-{{BadgeSectionA|Image=Insanity. (Badge).png|Name=精神错乱。|Description=噩梦即将结束。|Obtainment=打开A-900号门。}}
-{{BadgeSectionD|Image=Caving In (Badge).png|Name=崩塌|Description=精神崩溃。|Obtainment=打开D-900号门。}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=禁区|Description=那些声音。快停下。|Obtainment=打开M-900号门。}}
-{{BadgeUnnamed|Image=SectorShutdown.png|Name=区域关停|Description=这都是你造成的。|Obtainment=拾取奇怪的钥匙卡以开启[[Red Rooms|红区]]}}
-{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=执行功能障碍|Description=循环不断重复，一次，又一次，再一次。|Obtainment=打开E-900号门。}}
-{{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks 精神错乱？不了谢谢。]|Description=打开任意区的900号房间，并在20分钟或更短时间内到达1000号房间。|Obtainment=在20分钟内通关[[Red Rooms|红区]]。}}
+{{BadgeSectionA|Image=Insanity._(Badge).webp|Name=精神错乱。|Description=噩梦即将结束。|Obtainment=打开A-900号门。}}
+{{BadgeSectionD|Image=Caving_In_(Badge).webp|Name=崩塌|Description=精神崩溃。|Obtainment=打开D-900号门。}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.webp|Name=禁区|Description=那些声音。快停下。|Obtainment=打开M-900号门。}}
+{{BadgeUnnamed|Image=SectorShutdown.webp|Name=区域关停|Description=这都是你造成的。|Obtainment=拾取奇怪的钥匙卡以开启[[Red Rooms|红区]]}}
+{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.webp|Name=执行功能障碍|Description=循环不断重复，一次，又一次，再一次。|Obtainment=打开E-900号门。}}
+{{Badge|Image=Insanity?NoThanks.webp|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks 精神错乱？不了谢谢。]|Description=打开任意区的900号房间，并在20分钟或更短时间内到达1000号房间。|Obtainment=在20分钟内通关[[Red Rooms|红区]]。}}
 
 {{BrowseNavBox}}
 

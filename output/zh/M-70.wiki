@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="animation: m70 0.75s infinite;">M-70（广播者）</span>}}
 {{ArticleBackground|File=MBackground.webp}}
-{{InfoBox:Entity|entity_name=[[File:Gayness.gif|frameless|link=M-70]]|entity_image=<gallery>
-NewM70.png|待机
-NewM70Jumpscare.png|跳杀
-NewM-70.png|旧版待机
-NewM-70Jumpscare.png|旧版跳杀
-M70.png|更旧版待机
+{{InfoBox:Entity|entity_name=[[File:Gayness.webp|frameless|link=M-70]]|entity_image=<gallery>
+NewM70.webp|待机
+NewM70Jumpscare.webp|跳杀
+NewM-70.webp|旧版待机
+NewM-70Jumpscare.webp|旧版跳杀
+M70.webp|更旧版待机
 M-70!.webp|更旧版跳杀
 </gallery>
 |previous_entity=[[M-60]]<br>
@@ -49,7 +49,7 @@ M-70!.webp|更旧版跳杀
 == 画廊 ==
 <gallery>
 File:M-70 close.webp|游戏内近距离观察到的'''M-70'''。
-File:M-70Jumpscare.gif|M-70的跳杀
+File:M-70Jumpscare.webp|M-70的跳杀
 </gallery>{{EntityNavBoxSectionM}}
 
 [[Category:Entities]]
