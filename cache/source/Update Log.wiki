@@ -870,4 +870,14 @@ __NOTOC__
 
 <br><br><br><br><br>
 {{BrowseNavBox}}
+[[Category:Browsing]]g able to be equipped when exiting hiding sometimes
+* Fixed [[D-175]] and [[M-134]] not despawning when transitioning into a new section
+* Fixed [[E-245]] showing the incorrect symbol
+* New WR holders have golden flashlights
+* Fixed the custom lobby GUI disappearing for everyone whenever another player creates a lobby
+* Other system fixes
+
+
+<br><br><br><br><br>
+{{BrowseNavBox}}
 [[Category:Browsing]]

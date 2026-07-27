@@ -1,5 +1,6 @@
 {{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i (Inverting Smile Prime)'''</span}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-20]]
 |next_entity=[[D-55]]
@@ -19,8 +20,8 @@ LegacyD-35.gif|Oldest Design
 |locker_snipe=Yes (No in [[Red Rooms]])
 |behavior=Follows after it's original counterpart, or itself in a prime chain. Basic rusher.
 |damage=Instant Death (12 Damage locker snipe)
-|speed=Current room number divided by 5 + 450 (457 studs/s to 636 studs/s)
-|related_monsters=[[D-35]] (Normal counterpart)|sound1=<center>Ambience</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>Jumpscare</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
+|speed=Slower than [[D-35]]
+|related_monsters=[[D-35]] (Normal counterpart)|sound1=<center>[LOUD] Ambience</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>[VERY LOUD WARNING] Jumpscare</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
 
 ==Description==
 *'''D-35i''' is a ''Prime'' [[Entities|entity]]. It looks like a wide, Navy Blue smile; Of which flickers to black and back to normal at high speeds.

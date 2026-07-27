@@ -1,11 +1,11 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: black;">D-140 (Heretic)</span>}}
-{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: #00DD3F;">D-140 (Heretic)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{Headphones}}
 {{InfoBox:Entity
-|entity_name=[[File:D-140Title.webp|frameless|link=D-140]]
+|entity_name=[[File:D-140Title.png|frameless|link=D-140]]
 |entity_image=<gallery>
-NewerD-140.webp|当前外观
-D140.webp|旧版外观
+NewerD-140.gif|当前外观
+D140.png|旧版外观
 </gallery>
 |previous_entity=[[D-120]]
 |next_entity=[[D-175]]
@@ -14,38 +14,38 @@ D140.webp|旧版外观
 |type=后退者<br>反弹者
 |claustrophobia=否（仅推迟）
 |locker_snipe=否
-|behavior=在前方出现后开始向后冲刺，之后会反弹并检查所有蓝色柜子。
+|behavior=在前方生成后开始向后冲刺，之后会反弹并检查所有蓝色柜子。
 |speed=快
 |gun_effect=会使其等待更久且速度变慢
 |damage=即死
 |related_monsters=[[SHA-140]]
-|sound1=<center>生成</center><center>[[File:D-140spawn.mp3]]</center>
-|sound2=<center>[[Super Epic Mode|超级史诗模式]]下出现</center><center>[[File:OldD140Spawn.mp3]]</center>
-|sound3=<center>初始后退</center><center>[[File:D-140Rush.mp3]]</center>
+|sound1=<center>[极高音量警告] 生成</center><center>[[File:D-140spawn.mp3]]</center>
+|sound2=<center>[极高音量警告] [[Super Epic Mode|超级史诗模式]]下生成</center><center>[[File:OldD140Spawn.mp3]]</center>
+|sound3=<center>[高音量] 初始后退</center><center>[[File:D-140Rush.mp3]]</center>
 |sound4=<center>远处环境音</center><center>[[File:D-140ambience.mp3]]</center>
-|sound5=<center>近处环境音</center><center>[[File:D-140NearV2.mp3]]</center>
+|sound5=<center>[高音量] 近处环境音</center><center>[[File:D-140NearV2.mp3]]</center>
 |sound6=<center>消失</center><center>[[File:D-140Despawn.mp3]]</center>}}
 
 ==描述==
 '''D-140''' 是D区出现的第六个实体。更多信息请见下文。
 
 ==机制==
-D-140会在下一扇门前方出现，发出高声调的驾驶舱通告音效。数秒后，D-140会以极快的速度向后冲刺。约40秒后，D-140会返回当前房间，开始检查后方数个房间内的蓝色重型柜子或白色储物柜，具体取决于你身处实验室还是矿区。检查完毕后，D-140会向后冲刺并消失。被D-140抓到的玩家会被直接击杀。
+D-140会在下一扇门前方生成，发出高声调的驾驶舱通告音效。数秒后，D-140会以极快的速度向后冲刺。约40秒后，D-140会返回当前房间，开始检查后方数个房间内的蓝色重型柜子或白色储物柜，具体取决于你身处实验室还是矿区。检查完毕后，D-140会向后冲刺并消失。被D-140抓到的玩家会被直接击杀。
 
 ==策略与提示==
 *'''D-140''' 音量很大，建议调低你的音量。
-*[[D-55]]在'''D-140'''激活时不会出现，因此D-140激活期间不要躲在'''蓝色柜子'''或'''白色储物柜'''里。
+*[[D-55]]在'''D-140'''激活时不会生成，因此D-140激活期间不要躲在'''蓝色柜子'''或'''白色储物柜'''里。
 *如果你身处'''Chaos mode'''，'''D-140'''可能会和[[A-135]]/[[A-135i]]同时出现，这种情况下请使用'''Safe spots'''或'''Tables'''。
 *不要冲得太快，避免被连杀，紧急情况下也可以躲在蓝色柜子里，避免被例如[[D-60]]击杀。
 *如果[[D-5i]]或[[D-60]]处于激活状态，'''D-140'''不会反弹，除非它已经开始反弹了。
-*如果[[D-60i]]处于激活状态，'''D-140'''无法出现。
+*如果[[D-60i]]处于激活状态，'''D-140'''无法生成。
 
 ==画廊==
 <gallery>
 File:D140.gif|游戏内旧版D-140
-File:D-140Jumpscare.webp|D-140的跳杀
-File:D-140.webp|灰色重型柜子里的D-140
-SEMD-140.webp|超级史诗模式外观
+File:D-140Jumpscare.gif|D-140的跳杀
+File:D-140.png|灰色重型柜子里的D-140
+SEMD-140.png|超级史诗模式外观
 </gallery>
 
 == 你知道吗 ==

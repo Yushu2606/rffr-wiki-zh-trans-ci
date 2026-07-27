@@ -1,9 +1,9 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: blue;">A-200i (Insidæ Prime)</span>}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
-{{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.webp|frameless|link=A-200i]]|entity_image=<gallery>
-BlueRenovatedWater.webp|当前设计
-BlueAir_Renovated.webp|旧设计
-A-200ijumpscare.webp|更早/跳杀设计
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue, 0 0 5px blue, 0 0 5px blue, 0 0 5px cyan, 0 0 5px cyan; color: cyan;">A-200i (Insidæ Prime)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
+BlueRenovatedWater.gif|当前设计
+BlueAir Renovated.gif|旧设计
+A-200ijumpscare.png|真·遗产设计/遗产设计
 </gallery>
 |previous_entity=[[A-200]]
 |next_entity=[[Mouth|A-300]]<br>[[D-5]]
@@ -43,7 +43,7 @@ A-200ijumpscare.webp|更早/跳杀设计
 
 == 画廊 ==
 <gallery>
-File:A-200i_scary.webp|'''A-200i'''<nowiki/>的跳杀画面
+File:A-200i scary.gif|'''A-200i'''<nowiki/>的跳杀画面
 </gallery>
 
 

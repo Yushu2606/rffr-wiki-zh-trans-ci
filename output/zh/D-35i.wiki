@@ -1,26 +1,27 @@
-{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i（倒转微笑 素数）'''</span}}
-{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i（倒转微笑 素数）'''</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-20]]
 |next_entity=[[D-55]]
-|entity_name=[[File:D-35iPlaceholder.webp|frameless|link=D-35i]]
+|entity_name=[[File:D-35iPlaceholder.gif|frameless|link=D-35i]]
 |entity_image= <gallery>
-D-35iRedesign.webp|当前设计
-NewD-35i.webp|旧设计
-OldestD35i.webp|更早的设计
-LegacyD-35.webp|最旧设计 
+D-35iRedesign.gif|当前设计
+NewD-35i.gif|旧设计
+OldestD35i.gif|更早的设计
+LegacyD-35.gif|最旧设计 
 </gallery> 
 |caption-entity_image=我总会回来的。
 |appears_at=D-100之后（仅由[[D-35]]召唤）
-|nicknames=Inverting Smile Prime（倒转微笑 素数）<br>"Shadow Winner Prime"（「暗影胜者 素数」）（旧昵称）
+|nicknames=倒转微笑 素数<br>「暗影胜者 素数」（旧昵称）
 |claustrophobia=否
 |type=冲刺者
 |gun_effect=无
 |locker_snipe=是（[[Red Rooms|红区]]中为否）
 |behavior=跟随其对应本体，或是在素数连锁中跟随自身。基础冲刺者。
 |damage=秒杀（柜击造成12点伤害）
-|speed=当前房间编号除以5 + 450（457 Studs/秒 至 636 Studs/秒）
-|related_monsters=[[D-35]]（常规对应体）|sound1=<center>环境音</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>跳杀音效</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
+|speed=比[[D-35]]慢
+|related_monsters=[[D-35]]（常规对应体）|sound1=<center>[高音量] 环境音</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>[极高音量警告] 跳杀音效</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
 
 ==描述==
 *'''D-35i''' 是一只“素数”[[Entities|实体]]。它的外观是一张宽大的藏蓝色笑脸，会高速在黑色和正常外观之间闪烁。
@@ -31,17 +32,17 @@ LegacyD-35.webp|最旧设计
 *在'''D-35i''' 撞/砸开门之后，它脚下会生成一个传送门，迅速逃离。有小概率会再生成另一只'''D-35i'''（[[Red Rooms|红区]]中概率很高）
 **这个过程可以重复直到共生成4只'''D-35i'''，不过一次性生成4只的情况非常少见，通常只会生成1到2只'''D-35i'''
 
-==应对策略与提示==
+==应对策略与提示 ==
 *当[[D-35]]消失时尽量待在柜子附近，在大约0-5秒后，有小概率会生成'''D-35i'''，你会开始听到它的声音。
 
 ==你知道吗==
 *'''D-35i''' 在[[Red Rooms|红区]]中不会发动柜击。
-*'''D-35i'''（以及它的常规对应体[[D-35]]）可以通过翻滚闪避来躲过攻击存活。
+*'''D-35i'''（以及[[D-35|它的常规对应体]]）可以通过翻滚闪避来躲过攻击存活。
 
-==画廊==
+== 画廊 ==
 <gallery>
-File:NewD-35iJumpscare.webp|D-35i的跳杀动画
-File:D-35i_scary.webp|旧版D-35i的跳杀动画
+File:NewD-35iJumpscare.gif|D-35i的跳杀动画
+File:D-35i scary.gif|旧版D-35i的跳杀动画
 </gallery>
 
 

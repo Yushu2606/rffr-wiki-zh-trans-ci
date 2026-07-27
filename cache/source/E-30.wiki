@@ -40,7 +40,7 @@ Since '''E-30''' doesn't give any warning to hint that it spawned, you will need
 * '''E-30''' can't break the door if it needs a keycard to be opened and he'll just go through without breaking it.
 <h2>Lore</h2>
 * '''E-30''' is M-30 but in a drone type state due to an escape attempt that would kill M-30. This would in turn make him a drone.
-* '''E-30''' possibly got in the [Section E] during his successful escape attempt after he was killed and made into this sector.
+* '''E-30''' possibly got in the [[Section E]] during his successful escape attempt after he was killed and made into this sector.
 
 <h2>Gallery</h2>
 <gallery>

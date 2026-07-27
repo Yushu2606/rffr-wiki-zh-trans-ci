@@ -9,7 +9,9 @@
 |sound1=<center>Section Opened</center><center>[[File:ISectionOpen.mp3]]</center>
 |sound2=<center>Beginning theme</center><center>[[File:Interchange.mp3]]</center>
 |sound3=<center>First Ambience</center><center>[[File:Sector M First Ambi.mp3]]</center>
-|sound4=<center>Second Ambience</center><center>[[File:SectorMAmbience.mp3]]</center>|sound5=<center>I-500 - I-900</center><center>[[File:A-85iOST.mp3]]</center>|sound6=<center>I-750 - I-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>|sound7=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+|sound4=<center>Second Ambience</center><center>[[File:SectorMAmbience.mp3]]</center>
+|sound5=<center>I-750 - I-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
+|sound6=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
 
 ==Overview==
 '''Section I''' is the only section the player will encounter in Legacy versions of the game. It contains the same entities as [[Section M]], with the main diffence being the rooms themselves. Since of the original game not going past this section, this is the farthest section in the legacy modes. [[M-150]] doesn't exist here due to the suggestion being made in renovated.

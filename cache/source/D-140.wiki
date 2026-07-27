@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: black;">D-140 (Heretic)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #00DD3F; color: #00DD3F;">D-140 (Heretic)</span>}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{Headphones}}
 {{InfoBox:Entity
@@ -19,11 +19,11 @@ D140.png|Old Design
 |gun_effect=Will cause it to wait longer and be slower
 |damage=Instant Death
 |related_monsters=[[SHA-140]]
-|sound1=<center>Spawn</center><center>[[File:D-140spawn.mp3]]</center>
-|sound2=<center>Spawn in [[Super Epic Mode]]</center><center>[[File:OldD140Spawn.mp3]]</center>
-|sound3=<center>Initial Fallback</center><center>[[File:D-140Rush.mp3]]</center>
+|sound1=<center>[VERY LOUD WARNING] Spawn</center><center>[[File:D-140spawn.mp3]]</center>
+|sound2=<center>[VERY LOUD WARNING] Spawn in [[Super Epic Mode]]</center><center>[[File:OldD140Spawn.mp3]]</center>
+|sound3=<center>[LOUD] Initial Fallback</center><center>[[File:D-140Rush.mp3]]</center>
 |sound4=<center>Far Ambience</center><center>[[File:D-140ambience.mp3]]</center>
-|sound5=<center>Near Ambience</center><center>[[File:D-140NearV2.mp3]]</center>
+|sound5=<center>[LOUD] Near Ambience</center><center>[[File:D-140NearV2.mp3]]</center>
 |sound6=<center>Despawn</center><center>[[File:D-140Despawn.mp3]]</center>}}
 
 ==Description==

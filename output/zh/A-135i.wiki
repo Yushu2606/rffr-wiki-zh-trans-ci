@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
 |next_entity=[[A-200]]
-|entity_name=[[File:A-135iTitle.webp|frameless|link=A-135i]]
+|entity_name=[[File:A-135iTitle.png|frameless|link=A-135i]]
 |entity_image=<gallery>
-NewA135i.webp|当前设计
-A135i.webp|旧设计
+NewA135i.png|当前设计
+A135i.png|旧设计
 </gallery>
 |caption-entity_image=嗡——嗡——（要是你没看出来的话我正在反弹哦）
 |appears_at=A-135之后的任意房间。
@@ -20,11 +20,11 @@ A135i.webp|旧设计
 |speed=1000 Studs/秒 [20间/秒]
 |related_monsters=[[A-135]]（普通变种）<br>
 [[M-60i]]（机制类似）<br>
-|sound1=<center>生成</center><center>[[File:A-135iSpawnNew.mp3]]</center>
-|sound2=<center>冲刺音效</center><center>[[File:A-135iRushNew.mp3]]</center>
-|sound3=<center>远距音效</center><center>[[File:A-135iFarNew.mp3]]</center>
-|sound4=<center>临近音效</center><center>[[File:A-135iNearNew.mp3]]</center>
-|sound5=<center>跳杀</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>出现来源音效</center><center>[[File:135ispawnorigin.mp3]]</center>}}
+|sound1=<center>[中等音量] 生成</center><center>[[File:A-135iSpawnNew.mp3]]</center>
+|sound2=<center>远距环境音</center><center>[[File:A-135iRushNew.mp3]]</center>
+|sound3=<center>近距环境音</center><center>[[File:A-135iFarNew.mp3]]</center>
+|sound4=<center>[高音量] 近距离环境音</center><center>[[File:A-135iNearNew.mp3]]</center>
+|sound5=<center>[极高音量警告] 跳杀</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>出现来源音效</center><center>[[File:135ispawnorigin.mp3]]</center>}}
 
 ==描述==
 '''A-135i''' 是一种强化变种，当[[A-135]]尝试生成时，它有概率取而代之。'''A-135i'''<nowiki/>的外观是一张扭曲的绿色面孔，带着诡异的半咧笑容和圆形眼睛。
@@ -55,7 +55,7 @@ A135i.webp|旧设计
 
 ==图库==
 <gallery>
-File:A-135i_scary.webp|A-135i的跳杀
+File:A-135i scary.gif|A-135i的跳杀
 </gallery>
 
 

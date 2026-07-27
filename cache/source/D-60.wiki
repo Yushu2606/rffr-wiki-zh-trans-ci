@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px purple; color: purple;">D-60 (Multi Faced Darkness)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60 (The Multi-Darkness)</span>}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=Not to be confused with D-60 from '''Rooms Re-Established''', D-60 from '''Rooms: Reopened''', D-60 from '''Rooms of Insanity''' or with D-60 from '''Remastered Rooms'''.}}{{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]
@@ -22,8 +22,7 @@ D-60Face8.png|Seventh Face
 |type=Rusher<br>Rebounder
 |behavior=Screams before slamming the door. Either can start screaming again or makes wind noise and despawns.
 |damage=Instant Death (70 damage locker snipe) (20 MAL. Damage)
-|speed=750 studs/s (rushing)
-30 studs/s to 600 studs/s (fall-back phase)
+|speed=Extremely Fast (13.32 rooms per second) (799 studs per second)
 |related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
 |sound1=<center>First Far</center><center>[[File:D-60far1.mp3]]</center>
 |sound2=<center>Second Far</center><center>[[File:D-60far2.mp3]]</center>
