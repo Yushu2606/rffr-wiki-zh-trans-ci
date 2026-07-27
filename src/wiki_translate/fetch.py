@@ -28,7 +28,7 @@ from .files import (  # noqa: SLF001
 )
 from .manifest import classify_title, save_manifest
 from .pipeline import collect_titles
-from .state import load_state, sha256
+from .state import load_state, sha256, sha256_bytes
 from .system import _is_code_message, _list_modified_messages  # noqa: SLF001
 from .utils import safe_filename, title_to_path
 
@@ -145,6 +145,14 @@ def _fetch_files(
                     continue
                 cpath.parent.mkdir(parents=True, exist_ok=True)
                 cpath.write_bytes(blob)
+                blob_hash = sha256_bytes(blob)
+                if prev.get("blob_sha256") and prev["blob_sha256"] != blob_hash:
+                    # 源端 sha1 是元数据里的原文件哈希，和实际下载到的字节不是一回事
+                    log.warning(
+                        "  下载字节与上次不同（源 sha1 %s）：%s",
+                        "未变" if prev.get("sha1") == sha1 else "已变",
+                        title,
+                    )
                 upload_name, real_mime, renamed, reason = _prepare_upload_file(
                     item["name"],
                     blob,
@@ -155,10 +163,24 @@ def _fetch_files(
                     invalid += 1
                     log.warning("  文件预校验跳过 %s: %s", title, reason)
                     continue
+                # 源端内容没变就必须沿用既有上传名。否则 CDN 换个转码格式就会改出一个
+                # 新文件名，wiki 上多一份副本、旧名字变成没人维护的孤儿，正文里的链接
+                # 也跟着漂——而源文件其实压根没动过。
+                prior = prev.get("uploaded_as")
+                if prior and prev.get("sha1") == sha1 and upload_name != prior:
+                    log.warning(
+                        "  源端未变但本次嗅探出不同后缀（%s），沿用既有上传名：%s -> %s",
+                        real_mime,
+                        upload_name,
+                        prior,
+                    )
+                    upload_name = prior
+                    renamed = prior != item["name"]
             else:
                 upload_name = item["name"]
                 real_mime = item.get("mime", "")
                 renamed = False
+                blob_hash = ""
             items.append(
                 {
                     "kind": "file",
@@ -171,6 +193,7 @@ def _fetch_files(
                     "mime": item.get("mime", ""),
                     "real_mime": real_mime,
                     "renamed": renamed,
+                    "blob_sha256": blob_hash,
                     "cache_path": str(cpath.as_posix()),
                 }
             )

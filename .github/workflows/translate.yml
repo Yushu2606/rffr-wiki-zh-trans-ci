@@ -257,13 +257,25 @@ jobs:
           fi
           uv run wiki-translate --env .env $ARGS
 
+      # 只收集本分片真正改动/新增的文件。上传整个 output/ 会让 3 个分片的 artifact
+      # 含有大量同名文件（各分片没碰过的那些还是 checkout 时的旧版），merge 用
+      # merge-multiple 解到同一目录时互相覆盖：轻则旧版静默盖掉新译文，重则长短文件
+      # 交叠写出"旧文件 + 新文件尾巴"的残缺内容，接缝处还会切断多字节字符。
+      - name: Collect shard outputs
+        run: |
+          mkdir -p shard-out
+          git ls-files -mo --exclude-standard -- output cache/source > changed.txt
+          echo "本分片改动 $(wc -l < changed.txt) 个文件"
+          if [ -s changed.txt ]; then
+            rsync -a --files-from=changed.txt . shard-out/
+          fi
+
       - name: Upload process artifact
         uses: actions/upload-artifact@v4
         with:
           name: shard-process-${{ matrix.shard }}
           path: |
-            output/
-            cache/source/
+            shard-out/
             ${{ env.STATE_DELTA_DIR }}/
           if-no-files-found: ignore
           retention-days: 3
@@ -303,7 +315,19 @@ jobs:
         with:
           pattern: shard-process-*
           merge-multiple: true
-          path: .
+          path: artifacts
+
+      # 各分片的 shard-out 内容互不相交（只含自己改动的文件），合并到工作区是安全的。
+      - name: Apply shard outputs
+        run: |
+          if [ -d artifacts/shard-out ]; then
+            rsync -a artifacts/shard-out/ .
+          fi
+          if [ -d "artifacts/$STATE_DELTA_DIR" ]; then
+            mkdir -p "$STATE_DELTA_DIR"
+            rsync -a "artifacts/$STATE_DELTA_DIR/" "$STATE_DELTA_DIR/"
+          fi
+          rm -rf artifacts
 
       - name: Merge state deltas
         run: uv run wiki-translate --env .env --mode merge-state
@@ -374,10 +398,13 @@ jobs:
           name: fetch-files
           path: cache/files
 
+      # 软预算必须显著小于本 job 的 timeout-minutes(90)：留足余量给随后的 commit & push，
+      # 否则进度还是提交不回去——那正是"每天从头重传"死循环的成因。
       - name: Run upload
         env:
           FANDOM_BOT_USER: ${{ secrets.FANDOM_BOT_USER }}
           FANDOM_BOT_PASSWORD: ${{ secrets.FANDOM_BOT_PASSWORD }}
+          PUBLISH_TIME_BUDGET_SECONDS: "4200"
         run: |
           ARGS="--mode upload"
           if [ "${{ needs.setup.outputs.force }}" = "true" ]; then
@@ -385,7 +412,11 @@ jobs:
           fi
           uv run wiki-translate --env .env $ARGS
 
+      # 必须 always()：upload 每推一项就把进度写进 state.json，哪怕中途有条目失败或
+      # 整步骤非零退出，已完成的部分也必须提交回仓库。否则下次运行会重推这些内容——
+      # "每天从头重传"的死循环正是这么来的。
       - name: Commit upload state
+        if: ${{ always() }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -132,6 +132,7 @@ class PublishConfig:
     chunk_threshold_mb: float = 5.0
     chunk_size_mb: float = 4.0
     on_mime_mismatch: str = "rename"
+    time_budget_seconds: int = 0
 
 
 @dataclass(slots=True)
@@ -225,6 +226,7 @@ def load_config(env_file: str | os.PathLike[str] = ".env") -> AppConfig:
             chunk_threshold_mb=_float("PUBLISH_CHUNK_THRESHOLD_MB", 5.0),
             chunk_size_mb=_float("PUBLISH_CHUNK_SIZE_MB", 4.0),
             on_mime_mismatch=_str("PUBLISH_ON_MIME_MISMATCH", "rename"),
+            time_budget_seconds=_int("PUBLISH_TIME_BUDGET_SECONDS", 0),
         ),
         strategy=StrategyConfig(
             use_source_diff=_bool("STRATEGY_USE_SOURCE_DIFF", True),

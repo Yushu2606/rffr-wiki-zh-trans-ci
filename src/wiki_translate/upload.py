@@ -195,6 +195,7 @@ def _upload_file(
             log.info("  目标已存在且内容一致 (%s)", e.code)
             entry.update(
                 sha1=item.get("sha1", ""),
+                blob_sha256=item.get("blob_sha256", ""),
                 uploaded=True,
                 uploaded_at=int(time.time()),
                 uploaded_as=upload_name,
@@ -208,6 +209,7 @@ def _upload_file(
 
     entry.update(
         sha1=item.get("sha1", ""),
+        blob_sha256=item.get("blob_sha256", ""),
         size=item.get("size", len(blob)),
         mime=item.get("mime", ""),
         uploaded=True,
@@ -217,6 +219,10 @@ def _upload_file(
     )
     log.info("  上传 ok result=%s", info.get("result"))
     return "pushed"
+
+
+def _label(kind: str, item: dict) -> str:
+    return f"MediaWiki:{item['name']}" if kind == "system" else item["title"]
 
 
 def run_upload(cfg: AppConfig, *, force: bool = False, dry_run: bool = False) -> int:
@@ -260,48 +266,60 @@ def run_upload(cfg: AppConfig, *, force: bool = False, dry_run: bool = False) ->
     publisher = FandomPublisher(pub, cfg.wiki.user_agent)
     if not dry_run:
         publisher.login()
+    # 软时间预算：CI 的 job timeout 是硬杀，被杀时本次已完成的进度还没提交回仓库，
+    # 下次运行又从头再来——积压一大就永远追不上。这里在逼近上限时主动收工，
+    # 让调用方有机会提交 state，把已完成的部分固化下来，剩下的下次接着做。
+    deadline = time.monotonic() + pub.time_budget_seconds if pub.time_budget_seconds > 0 else None
+    remaining: list[str] = []
+
+    def _out_of_time() -> bool:
+        return deadline is not None and time.monotonic() >= deadline
+
     try:
         total = len(pages) + len(systems) + len(files)
         log.info("待上传：page=%d / system=%d / file=%d", len(pages), len(systems), len(files))
+        if deadline is not None:
+            log.info("时间预算 %d 秒，用尽后会保存进度并正常退出", pub.time_budget_seconds)
         idx = 0
-        for item in pages:
-            idx += 1
-            log.info("[%d/%d] page %s", idx, total, item["title"])
-            res = _upload_page(cfg, publisher, state, item, force=force, dry_run=dry_run)
-            counters[res] = counters.get(res, 0) + 1
-            if res == "failed":
-                failures.append(item["title"])
-            elif res in ("pushed",) and not dry_run:
-                changed_pages.add(item["title"])
-            _save()
-            if pub.sleep_between > 0 and not dry_run:
-                time.sleep(pub.sleep_between)
-
-        for item in systems:
-            idx += 1
-            log.info("[%d/%d] system MediaWiki:%s", idx, total, item["name"])
-            res = _upload_system(cfg, publisher, state, item, dry_run=dry_run)
-            counters[res] = counters.get(res, 0) + 1
-            if res == "failed":
-                failures.append(f"MediaWiki:{item['name']}")
-            elif res == "pushed" and not dry_run:
-                changed_messages.add(item["name"])
-            _save()
-            if pub.sleep_between > 0 and not dry_run:
-                time.sleep(pub.sleep_between)
-
-        for item in files:
-            idx += 1
-            log.info("[%d/%d] file %s", idx, total, item["title"])
-            res = _upload_file(cfg, publisher, state, item, dry_run=dry_run)
-            counters[res] = counters.get(res, 0) + 1
-            if res == "failed":
-                failures.append(item["title"])
-            elif res in ("pushed", "skipped") and not dry_run:
-                changed_files.add(item["title"])
-            _save()
-            if pub.sleep_between > 0 and not dry_run:
-                time.sleep(pub.sleep_between)
+        stopped = False
+        for kind, batch in (("page", pages), ("system", systems), ("file", files)):
+            if stopped:
+                remaining.extend(_label(kind, it) for it in batch)
+                continue
+            for pos, item in enumerate(batch):
+                if _out_of_time():
+                    stopped = True
+                    remaining.extend(_label(kind, it) for it in batch[pos:])
+                    break
+                idx += 1
+                label = _label(kind, item)
+                log.info("[%d/%d] %s %s", idx, total, kind, label)
+                # 逐项兜底：单项抛异常（例如 fetch_page 重试耗尽）不能拖垮整轮。
+                # 否则前面已经推上 wiki 的进度会因为进程崩溃而提交不回仓库，下次重推。
+                try:
+                    if kind == "page":
+                        res = _upload_page(
+                            cfg, publisher, state, item, force=force, dry_run=dry_run
+                        )
+                        if res == "pushed" and not dry_run:
+                            changed_pages.add(item["title"])
+                    elif kind == "system":
+                        res = _upload_system(cfg, publisher, state, item, dry_run=dry_run)
+                        if res == "pushed" and not dry_run:
+                            changed_messages.add(item["name"])
+                    else:
+                        res = _upload_file(cfg, publisher, state, item, dry_run=dry_run)
+                        if res in ("pushed", "skipped") and not dry_run:
+                            changed_files.add(item["title"])
+                except Exception as e:  # noqa: BLE001
+                    log.error("  [error] %s: %s", label, e)
+                    res = "failed"
+                counters[res] = counters.get(res, 0) + 1
+                if res == "failed":
+                    failures.append(label)
+                _save()
+                if pub.sleep_between > 0 and not dry_run:
+                    time.sleep(pub.sleep_between)
     finally:
         if not dry_run:
             publisher.logout()
@@ -314,6 +332,17 @@ def run_upload(cfg: AppConfig, *, force: bool = False, dry_run: bool = False) ->
         counters["conflict"],
         counters["failed"],
     )
+    if remaining:
+        # 不算失败：进度已保存，下次运行会从这里接着做。但必须显式报出来，
+        # 否则"只传了一半"会被误读成"全部完成"。
+        log.warning(
+            "时间预算用尽，本次未处理 %d 项（进度已保存，下次运行继续）：",
+            len(remaining),
+        )
+        for label in remaining[:20]:
+            log.warning("  pending: %s", label)
+        if len(remaining) > 20:
+            log.warning("  ...另有 %d 项", len(remaining) - 20)
     for f in failures:
         log.error("  failed: %s", f)
     return 0 if not failures else 1

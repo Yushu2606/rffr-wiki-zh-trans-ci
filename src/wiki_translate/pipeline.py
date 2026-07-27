@@ -59,11 +59,17 @@ def _cache_path(cfg: AppConfig, source_title: str) -> Path:
 
 
 def _read_or_empty(path: Path) -> str:
+    """读取可选的上下文文件（旧源码 / 现有译文），读不了就当作没有。
+
+    UnicodeDecodeError 也要吞掉：这些文件只是翻译时的参考，一份损坏的旧译文不该
+    连累整页无法重新翻译——退化成"没有参考"正好是想要的行为。
+    """
     if not path.exists():
         return ""
     try:
         return path.read_text(encoding="utf-8")
-    except OSError:
+    except (OSError, UnicodeDecodeError):
+        log.warning("  参考文件读取失败，按无参考处理：%s", path)
         return ""
 
 
@@ -160,21 +166,16 @@ def _translate_page(
             plan.translate_count,
             len(plan.plans),
         )
-        translated_parts: list[str] = []
-        for idx, p in enumerate(plan.plans, 1):
-            if p.kind != "translate":
-                continue
-            log.info("    -> [diff] 翻译段 %d (%d chars)", idx, len(p.new_text))
-            translated_parts.append(
-                translator.translate_segment(
-                    source_lang=cfg.wiki.source_lang,
-                    target_lang=cfg.wiki.target_lang,
-                    segment_text=p.new_text,
-                    full_new_source=new_source,
-                    full_reference_translation=reference,
-                    title=title,
-                )
-            )
+        pending = [p.new_text for p in plan.plans if p.kind == "translate"]
+        log.info("    -> [diff] 待译 %d 段，共 %d 字符", len(pending), sum(map(len, pending)))
+        translated_parts = translator.translate_segments(
+            source_lang=cfg.wiki.source_lang,
+            target_lang=cfg.wiki.target_lang,
+            segments=pending,
+            full_new_source=new_source,
+            full_reference_translation=reference,
+            title=title,
+        )
         return stitch(plan, translated_parts), info
 
     parts: list[str] = []
@@ -187,7 +188,6 @@ def _translate_page(
                 chunk,
                 cfg.wiki.source_lang,
                 cfg.wiki.target_lang,
-                old_source=old_source,
                 source_diff=source_diff,
                 reference_translation=reference,
                 title=title,

@@ -31,6 +31,16 @@ def sha256(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 
+def sha256_bytes(blob: bytes) -> str:
+    """对二进制内容取哈希。
+
+    文件同步不能只信 MediaWiki API 给的 sha1：那是源文件的哈希，而实际下载到的字节
+    可能是 CDN 转码过的版本（同一个 .gif 有时下回来是 webp）。记录真正下载到的字节
+    哈希，才能发现这种漂移。
+    """
+    return hashlib.sha256(blob).hexdigest()
+
+
 def _empty() -> dict[str, Any]:
     return {"schema": 2, "pages": {}}
 
