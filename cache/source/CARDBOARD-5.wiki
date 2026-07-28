@@ -1,3 +1,4 @@
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=CARDBOARD-5
 |entity_image= CARDBOARD-5.png
@@ -22,9 +23,8 @@
 Hide when you hear '''CARDBOARD-5's''' laugh
 
 ==Trivia==
-'''CARDBOARD-5''' is just a redskined [[U-5]]
+* '''CARDBOARD-5''' is just a redskined [[U-5]]
 
 {{EntityNavBoxAdmin}}
-
 [[Category:Entities]]
 [[Category:Admin Entities]]

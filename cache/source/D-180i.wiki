@@ -1,8 +1,10 @@
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue; cursive; background-image: linear-gradient(black, blue); -webkit-background-clip: text; color:transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">D-180i (Calmness)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=[[File:D-180i-B.png|frameless|link=D-180i]]
 |entity_image=<gallery>
+D180i.gif|In-Game Animation (Recreation)
 UnknownEntity.png|New Design
 D-180i.png|Old Design
 </gallery>
@@ -38,7 +40,7 @@ These are all the entities '''D-180i''' can spawn:
 * [[A-20i]]
 * [[D-35i]]
 * [[D-55]]
-* [[D-55ii]]
+* [[D-55ii]] (?)
 * [[D-60i]] (Old version only)
 * [[D-120]]
 * [[D-140]]
@@ -49,7 +51,6 @@ These are all the entities '''D-180i''' can spawn:
 So basically, '''D-180i''' can spawn almost all entities form [[Section D|D section]], but also i variants from other sections (Only [[Section A|A section]] for now).
 
 == <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Strategy & Tips</span> ==
-
 * As '''D-180i''' rush to the main room without any spawn clue, if you start seeing your screen get full of static, immediately hide.
 * If '''D-180i''' spawn [[A-200i]] you don't need to worry for '''D-180i''' because he wait [[A-200i]] to depsawn first before continuing to rebound. (This is obvious because you wouldn't even be able to detect him with the [[A-200i]]'s static).
 * Unlike the other minibosses Admin variants, '''D-180i''' does NOT require you to open doors to make him despawn, so it's best to just wait him to despawn.
@@ -57,7 +58,6 @@ So basically, '''D-180i''' can spawn almost all entities form [[Section D|D sect
 * '''D-180i''' cannot locker snipe, use this as your advantage and hide in last second to avoid getting damage from [[Claustrophobia]].
 
 == <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Trivia</span> ==
-
 * '''D-180i''' is actually called '''Joke D-180''', but most people call him '''D-180i''' because he acts like a Prime variant,
 * If '''D-180i''' spawns [[D-5i]], he will either wait for [[D-5i]] to despawn, or he will despawn instead.
 * <big>'''D-180i''' knows your intentions, so run from him.</big>

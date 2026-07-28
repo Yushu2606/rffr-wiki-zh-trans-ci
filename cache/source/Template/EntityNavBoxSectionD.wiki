@@ -38,7 +38,7 @@
 ! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>Section I</center>
 |-
 ! width="15%" style="background: #77befc;" |<center>Regular</center>
-| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+| class="navigation-links" |[[M-7|I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>Other</center>

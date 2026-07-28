@@ -1,6 +1,7 @@
+{{Admin Exclusive}}
 {{InfoBox:Entity
-|entity_name=[[File:U-5_title.webp|frameless|link=U-5]]
-|entity_image= Spin.webp 
+|entity_name=[[File:U-5_title.png|frameless|link=U-5]]
+|entity_image= Spin.gif 
 |caption-entity_image=Miehahahahahha
 |appears_at=仅Admin可生成
 |nicknames=Chesire（柴郡）
@@ -23,10 +24,9 @@
 U-5无法击杀玩家，因此只需等待它经过即可。
 
 ==你知道吗==
-
 * '''U-5''' 与《Interminable Rooms（无尽房间）》愚人节活动推出的'''U-5'''是同一实体。
 * '''U-5''' 是游戏中首个来自《Interminable Rooms》的实体，第二个是[[A-258 (IR)]]
-{{EntityNavBoxAdmin}}
 
+{{EntityNavBoxAdmin}}
 [[Category:Entities]]
 [[Category:Admin Entities]]

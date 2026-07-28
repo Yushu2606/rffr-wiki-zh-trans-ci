@@ -1,6 +1,7 @@
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=CARDBOARD-5
-|entity_image= CARDBOARD-5.webp
+|entity_image= CARDBOARD-5.png
 |appears_at=仅Admin可生成
 |nicknames=???
 |type=冲刺者
@@ -22,9 +23,8 @@
 听到'''CARDBOARD-5'''的笑声时请躲藏。
 
 ==你知道吗==
-'''CARDBOARD-5''' 只是换了红色皮肤的[[U-5]]。
+* '''CARDBOARD-5''' 只是换了红色皮肤的[[U-5]]。
 
 {{EntityNavBoxAdmin}}
-
 [[Category:Entities]]
 [[Category:Admin Entities]]

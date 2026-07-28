@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-1 (Apparition（幻影）)</span>}}
-{{ArticleBackground|File=OblivionScreen.webp}}
+{{ArticleBackground|File=OblivionScreen.png}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
 {{InfoBox:Entity
 |entity_name=LAPSE-1
-|entity_image=Better_L-1.webp
+|entity_image=Better L-1.png
 |previous_entity=[[SHA-1]]
 |next_entity=[[SHA-2]]<br>[[LAPSE-2]]
 |nicknames=Apparition（幻影）
@@ -29,7 +29,7 @@
 
 另一种机制会为每个房间内的1-3个柜子添加无轮廓、填充色更深的纯红色高亮。之后它会以和第一种机制相同的方式破门，随后检查所有'''未被'''它高亮标记的柜子。 
 
-两种机制下，它都会破门，并破坏它所检查的柜子，同时有概率生成SHA-2。
+两种机制下，它都会破门，并破坏它所检查的柜子，同时有概率生成SHA-2和SHA-55。
 
 == 对策与提示 ==
 * [[Claustrophobia|幽闭恐惧]]可能在'''LAPSE-1'''处于激活状态时触发，所以当它离你较远时请离开柜子。
@@ -39,19 +39,19 @@
 * 在[[Section M|M区]]中，'''LAPSE-1'''需要更长时间才能到达主房间，你同样可以利用这一点。
 
 == 冷知识 ==
-* '''LAPSE-1'''在[[Perfection Event 2/13/26]]开启时实装，一同上线的还有[[SHA-4]]、[[SHA-7]]、[[SHA-22]]、[[SHA-150]]以及[[Overseer]]。
-* 在[[April Fools 2026|2026年愚人节]]更新中，[[Alpha & Shadowpocalypse]]里A-020号门处的[[SHA-1]]会被替换为'''LAPSE-1'''。
+* '''LAPSE-1'''在[[Perfection Event 2/13/26]]开启时实装，一同上线的还有[[SHA-4]]、[[SHA-7]]、[[SHA-22]]、[[SHA-150]]以及[[Overseer]]。 
+* 在[[April Fools 2026|2026年愚人节]]更新中，'''LAPSE-1'''会替换[[Alpha & Shadowpocalypse]]里A-020号门处的[[SHA-1]]。
 ** 但这种情况下你不会获得对应徽章。
 ** 该内容现已无法复现，因为[[April Fools 2026|2026年愚人节]]活动已改为修饰符，且[[Alpha & Shadowpocalypse]]修饰符无法和其他修饰符一同启用。
 
 ==画廊==
 <gallery>
-RedOutline.webp|被'''LAPSE-1'''标记了轮廓的柜子。
-RedFull.webp|被'''LAPSE-1'''完全高亮的柜子。
+RedOutline.jpg|被'''LAPSE-1'''标记了轮廓的柜子。
+RedFull.jpg|被'''LAPSE-1'''完全高亮的柜子。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Lapse_of_Judgment_(Badge).webp|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
 
 [[Category:Rusher]]
 [[Category:Locker Checker]]

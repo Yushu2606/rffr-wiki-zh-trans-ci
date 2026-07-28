@@ -1,6 +1,7 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-2</span>}}
 {{ArticleBackground|File=GAMMABack.png}}
 {{Stub}}
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=Gamma-2
 |entity_image=G2.png

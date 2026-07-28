@@ -29,7 +29,7 @@ His first mechanic is putting a red outline with very faint red coloring on 75% 
 
 His alternate mechanic is putting a stronger recoloring highlight of red without an outline on 1-3 lockers in every room. He will then break the door the same way he does in his other mechanic, and then check every locker he '''Didn't''' highlight. 
 
-In both mechanics, he breaks doors down, and breaks lockers he checks. He also has a chance to spawn SHA-2.
+In both mechanics, he breaks doors down, and breaks lockers he checks. He also has a chance to spawn SHA-2 and SHA-55.
 
 == Strategy & Tips ==
 * [[Claustrophobia]] can attack while '''LAPSE-1''' active, so leave the locker when it is far from you.

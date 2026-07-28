@@ -47,12 +47,12 @@
 ! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>I区</center>
 |-
 ! width="15%" style="background: #77befc;" |<center>常规</center>
-| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+| class="navigation-links" |[[M-7|I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>其他</center>
 |-
-! width="15%" style="background: #585966;" |<center>全部分区</center>
+! width="15%" style="background: #585966;" |<center>所有分区</center>
 | class="navigation-links" |[[Claustrophobia|幽闭恐惧]] • [[Mouth]] • [[Void|虚空]] • [[Jimmy]] • [[Oblivion]]
 |-
 ! width="15%" style="background: #585966;" |<center>无分区</center>
@@ -67,24 +67,24 @@
 | class="navigation-links" |[[SHA-1]] • [[SHA-2]] • [[SHA-3]] • [[SHA-4]]
 |}
 |}
-{| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="折叠" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
+{| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="收起" style="background:#7d7c77; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
 ! colspan="3" style="background:#6e6464; font-size:100%; border-radius: 0px; color:#FFF" | <span style="float:left" class="plainlinks"><font style="font-size:30px; text-align:center; font-family:Rubik; font-color:#000"></font></span> <center>其他</center>
 |-
 | class="navigation-class" |
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
-! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>Super Epic Mode（超级史诗模式）</center>
+! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>Super Epic Mode（超史诗模式）</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A|A区]]</center>
-| class="navigation-links" |[[A-20ii]] • [[Dorito|Dorito（多力多滋）]] • [[A-200ii]]
+| class="navigation-links" |[[A-20ii]] • [[Dorito]] • [[A-200ii]]
 |-
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D|D区]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（互通区）]]</center>
+! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Interchange区]]</center>
 | class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>其他</center>
-| class="navigation-links" |[[Cherry Bomb|Cherry Bomb（樱桃炸弹）]]
+| class="navigation-links" |[[Cherry Bomb]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #d43582;"class="navigation-class" |<center>Upcoming</center>

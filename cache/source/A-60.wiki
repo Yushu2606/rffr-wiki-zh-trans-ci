@@ -20,7 +20,7 @@ A-60Face6.png|6th Face
 607.png|8th Face
 </gallery>
 |appears_at=Anytime Past A-060.
-|nicknames=Multi Faced Monster
+|nicknames=The Multi-Monster
 |type=Rusher
 |gun_effect=Despawns quicker when shot while Idling in the main room
 |behavior=Quickly rushes towards the succeding door and stays in the room for a few seconds before going into the ground.
@@ -38,7 +38,7 @@ A-60Face6.png|6th Face
 A-60 is a red creature that cycles through 8 faces. It's most popular one is the image with a red smiling face looking to the left, smeared in blood. It makes static upon approach, and sounds like distorted radio chatter when in your room. It has the chance to appear at any door past A-060. It will spawn 50-60 doors back and rush to the current room.
 
 ==Behavior==
-Spawns a random distance from the main room, being 50-60 rooms back (force set to 50 in Red Rooms), before rushing to the current room where it fades itself out in the middle of the main room and breaks the door. If A-60 sees a player, it will instantly kill them. If a player isn’t fully hidden or is hidden in a table when A-60 reaches the current room, it will jumpscare them, dealing 50 damage and reducing there max health by 10 points. If a player exits before A-60 fully disappears, A-60 deals rapid damage to them.
+Spawns a very far away distance from the main room, being 105-150 rooms back (275-280 in rooms A-750-899; 500 in rooms A-900 to A-1000; TBA in rooms A-1001+), before rushing to the current room where it fades itself out in the middle of the main room and breaks the door. If A-60 sees a player, it will instantly kill them. If a player isn’t fully hidden or is hidden in a table when A-60 reaches the current room, it will jumpscare them, dealing 50 damage and reducing there max health by 10 points. If a player exits before A-60 fully disappears, A-60 deals rapid damage to them.
 
 ==Stats:==
 Snipe Type: R&D Style (Non lethal unless under 30 health, in which case you die) Does 50 damage. 

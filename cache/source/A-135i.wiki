@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
@@ -6,7 +6,7 @@
 |entity_name=[[File:A-135iTitle.png|frameless|link=A-135i]]
 |entity_image=<gallery>
 NewA135i.png|Current Design
-A135i.png|Old Design
+A135i.png|Old/True Legacy Design
 </gallery>
 |caption-entity_image=vroom, vroom, (im rebounding if you cant tell)
 |appears_at=Any room past A-135.

@@ -1,6 +1,6 @@
 {{Clear}}
 {| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #38e3f2; background:#40949c; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
-! style="width:100px" |[[File:EntityNavBoxSectionMImage.webp|200px|center|link=Entities]]
+! style="width:100px" |[[File:EntityNavBoxSectionMImage.png|200px|center|link=Entities]]
 |-
 |
 {| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="收起" style="background:#316f75; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
@@ -34,11 +34,11 @@
 ! width="15%" style="background: #2c40d4;" |<center>I型变体</center>
 | class="navigation-links" |[[M-60i]]
 |}
-{| class="mw-collapsible mw-collapsible" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
+{| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>I区</center>
 |-
 ! width="15%" style="background: #77befc;" |<center>常规</center>
-| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+| class="navigation-links" |[[M-7|I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>其他</center>
@@ -68,7 +68,7 @@
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D|D区]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（互通区）]]</center>
+! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（交汇区）]]</center>
 | class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>其他</center>
@@ -102,4 +102,4 @@
 | class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]] • [[D-60ii]] • [[A-60ii]] • [[GAMMA-1]]
 |}
 |}
-<noinclude>''注：我从[https://r-rooms.fandom.com/wiki/Template:Navigation 这个]模板获取了全部代码。非常感谢！！！！！！''</noinclude>
+<noinclude>''注：我从[https://r-rooms.fandom.com/wiki/Template:Navigation 这个]模板获取了所有这些代码。非常感谢！！！！！！''</noinclude>

@@ -1,0 +1,6 @@
+<includeonly>[[Category:Admin Exclusive]]</includeonly>
+
+<div style="border: 4px solid; border-image: linear-gradient(to right, #F6061A, #3C0080, #0000F8); border-image-slice: 1; border-radius: 1px; box-shadow: 0 0 12px #000000, 0 0 24px #000000; background:#000000; padding: 10px; margin: 16px; resize: both; overflow: auto;">
+[[File:D140i.gif|left|200px|link=]]
+[[File:D180i.gif|right|200px|link=]]
+<center><div style="font-size:25px">'''{{PAGENAME}}''' is [[:Category:Admin Exclusive|Admin Exclusive]].<br>This means that it may only be seen if there's an admin of the game in your run.</div></div><br/>

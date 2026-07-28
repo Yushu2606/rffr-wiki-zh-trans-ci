@@ -26,7 +26,7 @@ M60i15.png|15th Face
 |locker_snipe=Yes
 |appears_at=Randomly upon opening any door past M-060
 |type=Rusher<br>Locker Checker<br>Rebounder<br>
-|behavior=Acts like [[M-60]] but checks unmarked lockers instead, and can check multiple lockers
+|behavior=Acts like [[M-60]] but checks unmarked lockers instead
 |speed=Same as [[M-60]] or faster (probably)
 |nicknames=The Mediator
 |damage=Instant Death (55 MAL. Damage locker snipe)

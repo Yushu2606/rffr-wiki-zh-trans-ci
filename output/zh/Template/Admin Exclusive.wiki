@@ -1,0 +1,6 @@
+<includeonly>[[Category:Admin Exclusive]]</includeonly>
+
+<div style="border: 4px solid; border-image: linear-gradient(to right, #F6061A, #3C0080, #0000F8); border-image-slice: 1; border-radius: 1px; box-shadow: 0 0 12px #000000, 0 0 24px #000000; background:#000000; padding: 10px; margin: 16px; resize: both; overflow: auto;">
+[[File:D140i.gif|left|200px|link=]]
+[[File:D180i.gif|right|200px|link=]]
+<center><div style="font-size:25px">'''{{PAGENAME}}''' 属于[[:Category:Admin Exclusive|Admin专属]]。<br>这意味着只有当你的逃生中有游戏Admin在场时，才有可能见到它。</div></div><br/>

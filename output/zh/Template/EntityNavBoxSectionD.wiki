@@ -1,6 +1,6 @@
 {{Clear}}
 {| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #d90b0b; background:#a81414; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
-! style="width:100px" |[[File:EntityNavBoxSectionDImage.webp|200px|center|link=Entities]]
+! style="width:100px" |[[File:EntityNavBoxSectionDImage.png|200px|center|link=Entities]]
 |-
 |
 {| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="收起" style="background:#70574c; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
@@ -38,7 +38,7 @@
 ! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>I区</center>
 |-
 ! width="15%" style="background: #77befc;" |<center>普通</center>
-| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+| class="navigation-links" |[[M-7|I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>其他</center>
@@ -46,6 +46,7 @@
 ! width="15%" style="background: #585966;" |<center>全分区通用</center>
 | class="navigation-links" |[[Claustrophobia|幽闭恐惧]] • [[Mouth]] • [[Void|虚空]] • [[Jimmy]] • [[Endellion]] • [[Oblivion]]
 |-
+```
 ! colspan="2" width="15%" style="background: #4A176B;"class="navigation-class" |<center>暗影挑战</center>
 |-
 ! width="15%" style="background: #661b96;" |<center>普通</center>
@@ -68,7 +69,7 @@
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D|D区]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（互通区）]]</center>
+! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（交汇区）]]</center>
 | class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>其他</center>

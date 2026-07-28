@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
@@ -6,7 +6,7 @@
 |entity_name=[[File:A-135iTitle.png|frameless|link=A-135i]]
 |entity_image=<gallery>
 NewA135i.png|当前设计
-A135i.png|旧设计
+A135i.png|旧版/正统遗留设计
 </gallery>
 |caption-entity_image=嗡——嗡——（要是你没看出来的话我正在反弹哦）
 |appears_at=A-135之后的任意房间。
@@ -51,9 +51,9 @@ A135i.png|旧设计
 ==你知道吗==
 *'''A-135i'''是第四个素数变种。
 *'''A-135i'''是唯一一种带有'''锁定'''的柜子检查实体（意味着它会'''瞄准'''你的位置。就'''A-135i'''<nowiki/>的情况而言，它会瞄准有玩家的房间）。
-*'''A-135i'''的跳杀音效与[[D-55]]相同。
+*'''A-135i'''的跳杀音效与[[D-55]]相同
 
-==图库==
+== 画廊 ==
 <gallery>
 File:A-135i scary.gif|A-135i的跳杀
 </gallery>

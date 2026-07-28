@@ -1,5 +1,6 @@
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px Blue; color: black;">D-20i (The Gaze)</span>}}
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=D-20i
 |entity_image= D-20i.png 
@@ -24,12 +25,11 @@
 '''D-20i''' has also another behavior, that instead of spawning in the center of the room, it instantly spawns, charging at the nearest spotted player, however it won't be insta kill, and will just deal a bit of damage, and instantly despawning upon damaging the player or despawning instantly once it spawns if it didn't spot any player.
 
 == Strategy & Tips ==
-
 * If you see a blue light coming out of the main room center, Immediately get behind a wall to leave '''D-2'''<nowiki/>'''0i''''s range or hide, as '''D-20i''' don't stay spawned for too long like [[D-20]].
 * But if '''D-20i''' gets spawned in the insta charge form, you can't do such a thing, and just ignore the damage or go to the previous room if admins keep spawning it.
 
 ==Trivia==
-*'''D-20i''' despawns almost immediately when spawning.
+* '''D-20i''' despawns almost immediately when spawning.
 
 {{EntityNavBoxAdmin}}
 [[Category:Entities]]

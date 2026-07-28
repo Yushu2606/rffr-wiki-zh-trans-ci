@@ -1,9 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-2</span>}}
-{{ArticleBackground|File=GAMMABack.webp}}
+{{ArticleBackground|File=GAMMABack.png}}
 {{Stub}}
+{{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=Gamma-2
-|entity_image=G2.webp
+|entity_image=G2.png
 |previous_entity=[[GAMMA-1]]
 |appears_at=仅Admin可召唤
 |type=暗影<br>后撤<br>反弹者
