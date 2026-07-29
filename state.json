@@ -17381,9 +17381,9 @@
         "revid": 13466
       },
       "target": {
-        "fetched_at": 1784968128,
-        "hash": "7ae7d443470f171d260afe6816e5f4e5ce039238d8a090016540bdf7a082f32c",
-        "revid": 2510,
+        "fetched_at": 1785350950,
+        "hash": "e24baa0582ea85c775b5d2bc9617c4738f5fd6523b4c44a70845007492eec83b",
+        "revid": 2845,
         "title": "A-60ii"
       },
       "translation": {
@@ -17453,7 +17453,7 @@
         "revid": 13642
       },
       "target": {
-        "fetched_at": 1785266219,
+        "fetched_at": 1785350953,
         "hash": "217e308d637ac25d68c7d8b82da940fcf8923f60b4b764fc86cf3ca71bf04bdd",
         "revid": 2848,
         "title": "Alpha & Shadowpocalypse"
@@ -19638,7 +19638,7 @@
         "revid": 13603
       },
       "target": {
-        "fetched_at": 1785266233,
+        "fetched_at": 1785350956,
         "hash": "800d8cd242758af8bab43f00ef75b7f038dc29a9fd034d5e37e37265a3ae7136",
         "revid": 2863,
         "title": "D-200"
@@ -20334,9 +20334,9 @@
         "revid": 13698
       },
       "target": {
-        "fetched_at": 1785115534,
-        "hash": "0a1e32d0a01ab2c1d4219168e9a7021bf9be43133c1bc7953dc4dfef660781e7",
-        "revid": 2887,
+        "fetched_at": 1785350960,
+        "hash": "e5ccb8ba7ebbda95133c5d40a2b2c8950adc6259ea9654616e0ef003d710f29d",
+        "revid": 3035,
         "title": "Entities"
       },
       "translation": {
@@ -20646,7 +20646,7 @@
         "revid": 13433
       },
       "target": {
-        "fetched_at": 1785266247,
+        "fetched_at": 1785350963,
         "hash": "d329c4d64baafececbfaa581dec71572bfa56eb3a369600f2459729f83420c6e",
         "revid": 2900,
         "title": "Glongoflorp-60"
@@ -21990,7 +21990,7 @@
         "revid": 13544
       },
       "target": {
-        "fetched_at": 1785266261,
+        "fetched_at": 1785350966,
         "hash": "a18bacc047d020a26bbfd7d9451c20eb77d10e20e94ce647815fbc7e20d6a279",
         "revid": 2935,
         "title": "Player Controlled"
@@ -22590,9 +22590,9 @@
         "revid": 13689
       },
       "target": {
-        "fetched_at": 1784968610,
-        "hash": "452c6f3f4513b785c3feef86130eb3aab705d778a7b06ab3633e677cfa5bfbc6",
-        "revid": 2600,
+        "fetched_at": 1785350969,
+        "hash": "8c9d33018157255af958c3c259ba51767a131e696f4fe0ac152ce49a5dfe3a5e",
+        "revid": 2957,
         "title": "SHA-85"
       },
       "translation": {
@@ -22830,9 +22830,9 @@
         "revid": 13682
       },
       "target": {
-        "fetched_at": 1784968647,
-        "hash": "d7dc2378f70b8cd951eab3e489340187de7efb895e5cec70890bf80f22e03c20",
-        "revid": 2607,
+        "fetched_at": 1785350973,
+        "hash": "dc08a498871d02b4e819bac83ba2d26277b2f12e197427d0aa7ab49b78ae6136",
+        "revid": 2964,
         "title": "Shadow Challenge"
       },
       "translation": {
@@ -23982,7 +23982,7 @@
         "revid": 12348
       },
       "target": {
-        "fetched_at": 1785266274,
+        "fetched_at": 1785350976,
         "hash": "47b71fd0852ecdca7a69e2e65542581995eb31186febc785bf15e2f0a1a21c6d",
         "revid": 2978,
         "title": "Template:EntityNavBoxAdmin"
