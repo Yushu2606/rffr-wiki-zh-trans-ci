@@ -7124,6 +7124,32 @@
       "uploaded_as": "L-2_better_color.webp",
       "uploaded_at": 1780462982
     },
+    "File:L-2 ingame 2.gif.gif": {
+      "blob_sha256": "151bb32c8167216651d041bfb272eb8773e656e7f7d15b5ada94d5cfc6c10456",
+      "mime": "image/gif",
+      "sha1": "52b4c3d937d54007fb0b5cafc2d6bfb2f59a7086",
+      "size": 2350435,
+      "upload_info": {
+        "filename": "L-2_ingame_2.gif.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "L-2_ingame_2.gif.webp",
+      "uploaded_at": 1785698873
+    },
+    "File:L-2 ingame 2.mp4": {
+      "blob_sha256": "605e752342c99ddeb0d4564cdaf2a89a8fa4640ef19294a64bff765b64557da4",
+      "mime": "video/mp4",
+      "sha1": "019e1ad004b59572a64e464d555a3116b025d2e1",
+      "size": 4393474,
+      "upload_info": {
+        "filename": "L-2_ingame_2.mp4",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "L-2_ingame_2.mp4",
+      "uploaded_at": 1785698877
+    },
     "File:L-2.png": {
       "sha1": "e46f07e3eea976e630749d820f3046ff1e45f96b",
       "uploaded": true,
@@ -8707,6 +8733,19 @@
       "uploaded": true,
       "uploaded_as": "MouthMessage.webp",
       "uploaded_at": 1780477858
+    },
+    "File:MouthTitle.png": {
+      "blob_sha256": "e017b43a120237d7d4b7d9a4a07f5bff23eb0bfe71c0f0c5da37417334e45d23",
+      "mime": "image/png",
+      "sha1": "1f79bb6f5cbb50310abc09e79db86a2a1f88c72a",
+      "size": 876986,
+      "upload_info": {
+        "filename": "MouthTitle.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "MouthTitle.webp",
+      "uploaded_at": 1785698881
     },
     "File:Mouthambi.mp3": {
       "sha1": "dfcef96d01fcb66031c1b38a1190b0ee0da1c9f4",
@@ -15254,6 +15293,19 @@
       "uploaded_as": "TrueLegacyMouth.webp",
       "uploaded_at": 1780467222
     },
+    "File:Tumult ingame.gif.gif": {
+      "blob_sha256": "3cfe9ab6d07bd57a243c456d6f1664819dd61638c3c9ac6e61daeb9687efabf6",
+      "mime": "image/gif",
+      "sha1": "407ad3fab2e8fc584581c38d6900ce0a3d6b0be9",
+      "size": 4723011,
+      "upload_info": {
+        "filename": "Tumult_ingame.gif.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "Tumult_ingame.gif.webp",
+      "uploaded_at": 1785698885
+    },
     "File:U-5 title.png": {
       "mime": "image/png",
       "sha1": "cb2316ce4429fb5f82a2279783d5c7f245eeae30",
@@ -16033,6 +16085,19 @@
       "uploaded": true,
       "uploaded_as": "UnnamedMdoor.webp",
       "uploaded_at": 1780467520
+    },
+    "File:UnnamedRRBuildup.mp3": {
+      "blob_sha256": "10ffabb9aa7c9f9e65d2b5a7f1769c0ae0281d1cec29186813c90c9ac3d665c9",
+      "mime": "audio/mpeg",
+      "sha1": "20575c4c95fc4bfed96ea5efb7ce6d181c4166d6",
+      "size": 5051372,
+      "upload_info": {
+        "filename": "UnnamedRRBuildup.mp3",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "UnnamedRRBuildup.mp3",
+      "uploaded_at": 1785698889
     },
     "File:Unnamedflicker.mp3": {
       "mime": "audio/mpeg",
@@ -17298,10 +17363,10 @@
     },
     "A-258 (IR)": {
       "last_published": {
-        "published_at": 1785115519,
-        "target_hash": "4c4768f3d959415fba041042fe28650270db09e8ae96849b5b6642401627fb58",
-        "target_revid": 3032,
-        "translation_hash": "4c4768f3d959415fba041042fe28650270db09e8ae96849b5b6642401627fb58"
+        "published_at": 1785698783,
+        "target_hash": "76f41597dea079af219c181c2a968cb9d773f0d7fa1a572f9c8e39c6d4cf7fbc",
+        "target_revid": 3080,
+        "translation_hash": "76f41597dea079af219c181c2a968cb9d773f0d7fa1a572f9c8e39c6d4cf7fbc"
       },
       "source": {
         "fetched_at": 1785698136,
@@ -17309,9 +17374,9 @@
         "revid": 14000
       },
       "target": {
-        "fetched_at": 1785115519,
-        "hash": "de6110a8f7b998cfd0c960e25a6a098d678e6fddefa02e97580366b265341285",
-        "revid": 2842,
+        "fetched_at": 1785698783,
+        "hash": "4c4768f3d959415fba041042fe28650270db09e8ae96849b5b6642401627fb58",
+        "revid": 3032,
         "title": "A-258 (IR)"
       },
       "translation": {
@@ -17370,10 +17435,10 @@
     },
     "A-60ii": {
       "last_published": {
-        "published_at": 1784968133,
-        "target_hash": "e24baa0582ea85c775b5d2bc9617c4738f5fd6523b4c44a70845007492eec83b",
-        "target_revid": 2845,
-        "translation_hash": "e24baa0582ea85c775b5d2bc9617c4738f5fd6523b4c44a70845007492eec83b"
+        "published_at": 1785698787,
+        "target_hash": "f1890aa516f9a68921021fe7e8431faf092de4f4568a0c54fb09b9541b509b1d",
+        "target_revid": 3081,
+        "translation_hash": "f1890aa516f9a68921021fe7e8431faf092de4f4568a0c54fb09b9541b509b1d"
       },
       "source": {
         "fetched_at": 1785698105,
@@ -17381,7 +17446,7 @@
         "revid": 13918
       },
       "target": {
-        "fetched_at": 1785350950,
+        "fetched_at": 1785698786,
         "hash": "e24baa0582ea85c775b5d2bc9617c4738f5fd6523b4c44a70845007492eec83b",
         "revid": 2845,
         "title": "A-60ii"
@@ -17442,10 +17507,10 @@
     },
     "Alpha & Shadowpocalypse": {
       "last_published": {
-        "published_at": 1784968145,
-        "target_hash": "217e308d637ac25d68c7d8b82da940fcf8923f60b4b764fc86cf3ca71bf04bdd",
-        "target_revid": 2848,
-        "translation_hash": "217e308d637ac25d68c7d8b82da940fcf8923f60b4b764fc86cf3ca71bf04bdd"
+        "published_at": 1785698791,
+        "target_hash": "16d7a764e46196774d028a3e5952431106016542331da023501f3228b711d7ce",
+        "target_revid": 3082,
+        "translation_hash": "16d7a764e46196774d028a3e5952431106016542331da023501f3228b711d7ce"
       },
       "source": {
         "fetched_at": 1785698260,
@@ -17453,7 +17518,7 @@
         "revid": 14005
       },
       "target": {
-        "fetched_at": 1785350953,
+        "fetched_at": 1785698790,
         "hash": "217e308d637ac25d68c7d8b82da940fcf8923f60b4b764fc86cf3ca71bf04bdd",
         "revid": 2848,
         "title": "Alpha & Shadowpocalypse"
@@ -17609,10 +17674,22 @@
       }
     },
     "Category:Admin Exclusive": {
+      "last_published": {
+        "published_at": 1785698869,
+        "target_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "target_revid": 3101,
+        "translation_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
       "source": {
         "fetched_at": 1785698085,
         "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "revid": 13884
+      },
+      "target": {
+        "fetched_at": 1785698868,
+        "hash": "",
+        "revid": 0,
+        "title": "Category:Admin Exclusive"
       },
       "translation": {
         "file": "output/zh/Category/Admin Exclusive.wiki",
@@ -19590,10 +19667,10 @@
     },
     "D-180i": {
       "last_published": {
-        "published_at": 1785266229,
-        "target_hash": "f4002303059dc07298fcf74e24ba95c4cf986fa1fe0057b85036ed49f3c5cb6e",
-        "target_revid": 3065,
-        "translation_hash": "f4002303059dc07298fcf74e24ba95c4cf986fa1fe0057b85036ed49f3c5cb6e"
+        "published_at": 1785698794,
+        "target_hash": "1f5e001674cf7b1660f715d435846969d781904b23c8d514a9464de8a466807b",
+        "target_revid": 3083,
+        "translation_hash": "1f5e001674cf7b1660f715d435846969d781904b23c8d514a9464de8a466807b"
       },
       "source": {
         "fetched_at": 1785698145,
@@ -19601,9 +19678,9 @@
         "revid": 14016
       },
       "target": {
-        "fetched_at": 1785266229,
-        "hash": "32e421891c350409f96760162f719def51dad251b5cc83faa606a145b940c3d8",
-        "revid": 2861,
+        "fetched_at": 1785698794,
+        "hash": "f4002303059dc07298fcf74e24ba95c4cf986fa1fe0057b85036ed49f3c5cb6e",
+        "revid": 3065,
         "title": "D-180i"
       },
       "translation": {
@@ -19638,10 +19715,10 @@
     },
     "D-200": {
       "last_published": {
-        "published_at": 1784968206,
-        "target_hash": "800d8cd242758af8bab43f00ef75b7f038dc29a9fd034d5e37e37265a3ae7136",
-        "target_revid": 2863,
-        "translation_hash": "800d8cd242758af8bab43f00ef75b7f038dc29a9fd034d5e37e37265a3ae7136"
+        "published_at": 1785698798,
+        "target_hash": "b0d0f21488b412e8334b5e53ad8b1c6bc70ff8d37dc9b79e2f2922ac435f15a1",
+        "target_revid": 3084,
+        "translation_hash": "b0d0f21488b412e8334b5e53ad8b1c6bc70ff8d37dc9b79e2f2922ac435f15a1"
       },
       "source": {
         "fetched_at": 1785698219,
@@ -19649,7 +19726,7 @@
         "revid": 13862
       },
       "target": {
-        "fetched_at": 1785350956,
+        "fetched_at": 1785698798,
         "hash": "800d8cd242758af8bab43f00ef75b7f038dc29a9fd034d5e37e37265a3ae7136",
         "revid": 2863,
         "title": "D-200"
@@ -19686,10 +19763,10 @@
     },
     "D-250": {
       "last_published": {
-        "published_at": 1784968214,
-        "target_hash": "740d7fc7582e089e164a2ad4386d347627081571fc30986e8ce502489e154f0c",
-        "target_revid": 2865,
-        "translation_hash": "740d7fc7582e089e164a2ad4386d347627081571fc30986e8ce502489e154f0c"
+        "published_at": 1785698802,
+        "target_hash": "92dd82276b04f6ba7ae0d8b2f579f63165c951ca8967a6106d3cff1fe237ae0c",
+        "target_revid": 3085,
+        "translation_hash": "92dd82276b04f6ba7ae0d8b2f579f63165c951ca8967a6106d3cff1fe237ae0c"
       },
       "source": {
         "fetched_at": 1785698143,
@@ -19697,9 +19774,9 @@
         "revid": 14032
       },
       "target": {
-        "fetched_at": 1784968213,
-        "hash": "bec2848548fee5b7f14d8a080c46f0e361157735a905bae235f2ca4687854ee9",
-        "revid": 2524,
+        "fetched_at": 1785698802,
+        "hash": "740d7fc7582e089e164a2ad4386d347627081571fc30986e8ce502489e154f0c",
+        "revid": 2865,
         "title": "D-250"
       },
       "translation": {
@@ -20502,10 +20579,10 @@
     },
     "False-200": {
       "last_published": {
-        "published_at": 1784968348,
-        "target_hash": "98dda92fd70e8826b718e0ef24cc409a1848b5f3f1ec003dd51730b947b9d997",
-        "target_revid": 2894,
-        "translation_hash": "98dda92fd70e8826b718e0ef24cc409a1848b5f3f1ec003dd51730b947b9d997"
+        "published_at": 1785698806,
+        "target_hash": "b528886cd099e7e07d52120369e4cb0c38d2e328985a8c8ec931a20779b18cf7",
+        "target_revid": 3086,
+        "translation_hash": "b528886cd099e7e07d52120369e4cb0c38d2e328985a8c8ec931a20779b18cf7"
       },
       "source": {
         "fetched_at": 1785698116,
@@ -20513,9 +20590,9 @@
         "revid": 14021
       },
       "target": {
-        "fetched_at": 1784968348,
-        "hash": "35fe52749e9c60e2c198766606e8aef5354bc0c450883a3a099ec6644e65abed",
-        "revid": 2543,
+        "fetched_at": 1785698805,
+        "hash": "98dda92fd70e8826b718e0ef24cc409a1848b5f3f1ec003dd51730b947b9d997",
+        "revid": 2894,
         "title": "False-200"
       },
       "translation": {
@@ -20646,10 +20723,10 @@
     },
     "Glongoflorp-60": {
       "last_published": {
-        "published_at": 1784968371,
-        "target_hash": "d329c4d64baafececbfaa581dec71572bfa56eb3a369600f2459729f83420c6e",
-        "target_revid": 2900,
-        "translation_hash": "d329c4d64baafececbfaa581dec71572bfa56eb3a369600f2459729f83420c6e"
+        "published_at": 1785698809,
+        "target_hash": "0dd12040aa127d643d148c94a60ae45ba4df1d8f5f5af73c8993bfca23ac8fc5",
+        "target_revid": 3087,
+        "translation_hash": "0dd12040aa127d643d148c94a60ae45ba4df1d8f5f5af73c8993bfca23ac8fc5"
       },
       "source": {
         "fetched_at": 1785698117,
@@ -20657,7 +20734,7 @@
         "revid": 13913
       },
       "target": {
-        "fetched_at": 1785350963,
+        "fetched_at": 1785698809,
         "hash": "d329c4d64baafececbfaa581dec71572bfa56eb3a369600f2459729f83420c6e",
         "revid": 2900,
         "title": "Glongoflorp-60"
@@ -20718,10 +20795,10 @@
     },
     "Jimmy": {
       "last_published": {
-        "published_at": 1784968383,
-        "target_hash": "cbcc7154f66ef3aed67cb35117bf9afd6767bc04df02f4cca779989134511c76",
-        "target_revid": 2903,
-        "translation_hash": "cbcc7154f66ef3aed67cb35117bf9afd6767bc04df02f4cca779989134511c76"
+        "published_at": 1785698813,
+        "target_hash": "7f6f8fc1db95f318f510ef83fdf991e6c050f8449b013129a0502ea584fcfba4",
+        "target_revid": 3088,
+        "translation_hash": "7f6f8fc1db95f318f510ef83fdf991e6c050f8449b013129a0502ea584fcfba4"
       },
       "source": {
         "fetched_at": 1785698096,
@@ -20729,9 +20806,9 @@
         "revid": 14034
       },
       "target": {
-        "fetched_at": 1784968383,
-        "hash": "0f29fd6dc300b7f9f73c01105097a1c2e0e4c4bc91e0fe5d63252b2faeb55b0d",
-        "revid": 271,
+        "fetched_at": 1785698813,
+        "hash": "cbcc7154f66ef3aed67cb35117bf9afd6767bc04df02f4cca779989134511c76",
+        "revid": 2903,
         "title": "Jimmy"
       },
       "translation": {
@@ -20814,10 +20891,10 @@
     },
     "LAPSE-2": {
       "last_published": {
-        "published_at": 1784968395,
-        "target_hash": "d246fdb16c793ac4779545e3fe5be0a216c688bf9b846dc54d43c56d18f6264f",
-        "target_revid": 2906,
-        "translation_hash": "d246fdb16c793ac4779545e3fe5be0a216c688bf9b846dc54d43c56d18f6264f"
+        "published_at": 1785698817,
+        "target_hash": "4acfa526e2130893fce2b96c35ceb55a900a245d6ff595ef8aa610009276abf2",
+        "target_revid": 3089,
+        "translation_hash": "4acfa526e2130893fce2b96c35ceb55a900a245d6ff595ef8aa610009276abf2"
       },
       "source": {
         "fetched_at": 1785698114,
@@ -20825,9 +20902,9 @@
         "revid": 14009
       },
       "target": {
-        "fetched_at": 1784968395,
-        "hash": "00c507ffe98b38c8e7e6893e3f3ac0757d2926bbb8049364f4cee51c4e4139ed",
-        "revid": 2555,
+        "fetched_at": 1785698816,
+        "hash": "d246fdb16c793ac4779545e3fe5be0a216c688bf9b846dc54d43c56d18f6264f",
+        "revid": 2906,
         "title": "LAPSE-2"
       },
       "translation": {
@@ -21198,10 +21275,10 @@
     },
     "M-60i": {
       "last_published": {
-        "published_at": 1785266254,
-        "target_hash": "b2b03d3a20ddbcf01716863ee10b08a14cb8c23f51bf255ec976e56e30e410e6",
-        "target_revid": 3070,
-        "translation_hash": "b2b03d3a20ddbcf01716863ee10b08a14cb8c23f51bf255ec976e56e30e410e6"
+        "published_at": 1785698821,
+        "target_hash": "23c9acf5177ef51f99d75249de94e4487ea9115cbe97e71fe9677fa56df9027e",
+        "target_revid": 3090,
+        "translation_hash": "23c9acf5177ef51f99d75249de94e4487ea9115cbe97e71fe9677fa56df9027e"
       },
       "source": {
         "fetched_at": 1785698128,
@@ -21209,9 +21286,9 @@
         "revid": 14019
       },
       "target": {
-        "fetched_at": 1785266254,
-        "hash": "3b3d3b8e25d1a32022ee4854121f649c6fc07090df3b75ab36a4d7aac6fefb55",
-        "revid": 2921,
+        "fetched_at": 1785698820,
+        "hash": "b2b03d3a20ddbcf01716863ee10b08a14cb8c23f51bf255ec976e56e30e410e6",
+        "revid": 3070,
         "title": "M-60i"
       },
       "translation": {
@@ -21750,10 +21827,10 @@
     },
     "Mori": {
       "last_published": {
-        "published_at": 1784968480,
-        "target_hash": "d32351fabd7d9b2ccca1dd491eb5642fb91ca686be098fd8b0a5671f26008560",
-        "target_revid": 2925,
-        "translation_hash": "d32351fabd7d9b2ccca1dd491eb5642fb91ca686be098fd8b0a5671f26008560"
+        "published_at": 1785698824,
+        "target_hash": "25ffea7dc7357b61216ebdabd8f38f3b89b1331cf1eb9619a28076c81cb5f637",
+        "target_revid": 3091,
+        "translation_hash": "25ffea7dc7357b61216ebdabd8f38f3b89b1331cf1eb9619a28076c81cb5f637"
       },
       "source": {
         "fetched_at": 1785698100,
@@ -21761,9 +21838,9 @@
         "revid": 14024
       },
       "target": {
-        "fetched_at": 1784968479,
-        "hash": "24eeba6d5adbcf6c39125e70006a1269a21025609cf04fe4a27c2bab956fd156",
-        "revid": 2571,
+        "fetched_at": 1785698824,
+        "hash": "d32351fabd7d9b2ccca1dd491eb5642fb91ca686be098fd8b0a5671f26008560",
+        "revid": 2925,
         "title": "Mori"
       },
       "translation": {
@@ -21798,10 +21875,10 @@
     },
     "Mouth": {
       "last_published": {
-        "published_at": 1784968488,
-        "target_hash": "425120e48858512287bfb97ca1991931343eecb37bea29ef730c0b57205bf72c",
-        "target_revid": 2927,
-        "translation_hash": "425120e48858512287bfb97ca1991931343eecb37bea29ef730c0b57205bf72c"
+        "published_at": 1785698828,
+        "target_hash": "7b0c3a1f09e604f923a5170211aff85ac44ae3524d3670029bc859997a10a6c2",
+        "target_revid": 3092,
+        "translation_hash": "7b0c3a1f09e604f923a5170211aff85ac44ae3524d3670029bc859997a10a6c2"
       },
       "source": {
         "fetched_at": 1785698318,
@@ -21809,9 +21886,9 @@
         "revid": 14031
       },
       "target": {
-        "fetched_at": 1784968487,
-        "hash": "91d69ef9d82e20041408c17a0488033ce4165676a5b79a1d0c12616f5b1c6500",
-        "revid": 2573,
+        "fetched_at": 1785698828,
+        "hash": "425120e48858512287bfb97ca1991931343eecb37bea29ef730c0b57205bf72c",
+        "revid": 2927,
         "title": "Mouth"
       },
       "translation": {
@@ -21990,10 +22067,10 @@
     },
     "Player Controlled": {
       "last_published": {
-        "published_at": 1784968521,
-        "target_hash": "a18bacc047d020a26bbfd7d9451c20eb77d10e20e94ce647815fbc7e20d6a279",
-        "target_revid": 2935,
-        "translation_hash": "a18bacc047d020a26bbfd7d9451c20eb77d10e20e94ce647815fbc7e20d6a279"
+        "published_at": 1785698833,
+        "target_hash": "3375fba4dd101d41d25df17f4ac91a5e5fe6de968d56b314f7681aa306de6719",
+        "target_revid": 3093,
+        "translation_hash": "3375fba4dd101d41d25df17f4ac91a5e5fe6de968d56b314f7681aa306de6719"
       },
       "source": {
         "fetched_at": 1785698736,
@@ -22001,7 +22078,7 @@
         "revid": 13895
       },
       "target": {
-        "fetched_at": 1785350966,
+        "fetched_at": 1785698832,
         "hash": "a18bacc047d020a26bbfd7d9451c20eb77d10e20e94ce647815fbc7e20d6a279",
         "revid": 2935,
         "title": "Player Controlled"
@@ -22121,7 +22198,7 @@
         "revid": 13925
       },
       "target": {
-        "fetched_at": 1784968539,
+        "fetched_at": 1785698836,
         "hash": "cce388fe1d6157d047f18dc1da59020559dde729679dafb0c4b103a5f8ccd582",
         "revid": 1644,
         "title": "Red Rooms"
@@ -22254,10 +22331,10 @@
     },
     "SHA-150": {
       "last_published": {
-        "published_at": 1784968555,
-        "target_hash": "984202c9525dda39dd44e89026e7e2ae35bcea6add1406f837bda6cff7ce1597",
-        "target_revid": 2943,
-        "translation_hash": "984202c9525dda39dd44e89026e7e2ae35bcea6add1406f837bda6cff7ce1597"
+        "published_at": 1785698840,
+        "target_hash": "433ce806f048df230bff8c29a11d6a67364da1f9148fe151e301460f60ac12ba",
+        "target_revid": 3094,
+        "translation_hash": "433ce806f048df230bff8c29a11d6a67364da1f9148fe151e301460f60ac12ba"
       },
       "source": {
         "fetched_at": 1785698102,
@@ -22265,9 +22342,9 @@
         "revid": 13922
       },
       "target": {
-        "fetched_at": 1784968554,
-        "hash": "433ce806f048df230bff8c29a11d6a67364da1f9148fe151e301460f60ac12ba",
-        "revid": 2586,
+        "fetched_at": 1785698839,
+        "hash": "984202c9525dda39dd44e89026e7e2ae35bcea6add1406f837bda6cff7ce1597",
+        "revid": 2943,
         "title": "SHA-150"
       },
       "translation": {
@@ -22542,10 +22619,10 @@
     },
     "SHA-7": {
       "last_published": {
-        "published_at": 1784968603,
-        "target_hash": "4c4896492add1ba8bd19660895f9f8f2beeffefe729dc3247e770b297323dee9",
-        "target_revid": 2955,
-        "translation_hash": "4c4896492add1ba8bd19660895f9f8f2beeffefe729dc3247e770b297323dee9"
+        "published_at": 1785698843,
+        "target_hash": "1c715f89284eba6865f606988708c17a2b3173ca6da2de5888e7f2ae33d43f1d",
+        "target_revid": 3095,
+        "translation_hash": "1c715f89284eba6865f606988708c17a2b3173ca6da2de5888e7f2ae33d43f1d"
       },
       "source": {
         "fetched_at": 1785698117,
@@ -22553,9 +22630,9 @@
         "revid": 14027
       },
       "target": {
-        "fetched_at": 1784968603,
-        "hash": "9f593b2b3b37d7857392f367c6165ef14c14fc8b3ec343dad6577a3690744e56",
-        "revid": 2598,
+        "fetched_at": 1785698843,
+        "hash": "4c4896492add1ba8bd19660895f9f8f2beeffefe729dc3247e770b297323dee9",
+        "revid": 2955,
         "title": "SHA-7"
       },
       "translation": {
@@ -22590,10 +22667,10 @@
     },
     "SHA-85": {
       "last_published": {
-        "published_at": 1784968611,
-        "target_hash": "8c9d33018157255af958c3c259ba51767a131e696f4fe0ac152ce49a5dfe3a5e",
-        "target_revid": 2957,
-        "translation_hash": "8c9d33018157255af958c3c259ba51767a131e696f4fe0ac152ce49a5dfe3a5e"
+        "published_at": 1785698847,
+        "target_hash": "240f22b39a3ecd5f666623629eebaecda402cb8a6af82b361f32c59c6bfd3b3b",
+        "target_revid": 3096,
+        "translation_hash": "240f22b39a3ecd5f666623629eebaecda402cb8a6af82b361f32c59c6bfd3b3b"
       },
       "source": {
         "fetched_at": 1785698118,
@@ -22601,7 +22678,7 @@
         "revid": 14020
       },
       "target": {
-        "fetched_at": 1785350969,
+        "fetched_at": 1785698847,
         "hash": "8c9d33018157255af958c3c259ba51767a131e696f4fe0ac152ce49a5dfe3a5e",
         "revid": 2957,
         "title": "SHA-85"
@@ -23982,10 +24059,10 @@
     },
     "Template:EntityNavBoxAdmin": {
       "last_published": {
-        "published_at": 1784968727,
-        "target_hash": "47b71fd0852ecdca7a69e2e65542581995eb31186febc785bf15e2f0a1a21c6d",
-        "target_revid": 2978,
-        "translation_hash": "47b71fd0852ecdca7a69e2e65542581995eb31186febc785bf15e2f0a1a21c6d"
+        "published_at": 1785698854,
+        "target_hash": "de1edd98f243a52d6aa41616ad1a001d98def80dd7076c8b15e9aa4c9bf9ab5b",
+        "target_revid": 3097,
+        "translation_hash": "de1edd98f243a52d6aa41616ad1a001d98def80dd7076c8b15e9aa4c9bf9ab5b"
       },
       "source": {
         "fetched_at": 1785698261,
@@ -23993,7 +24070,7 @@
         "revid": 13903
       },
       "target": {
-        "fetched_at": 1785350976,
+        "fetched_at": 1785698854,
         "hash": "47b71fd0852ecdca7a69e2e65542581995eb31186febc785bf15e2f0a1a21c6d",
         "revid": 2978,
         "title": "Template:EntityNavBoxAdmin"
@@ -24245,10 +24322,22 @@
       }
     },
     "Template:Entityicon/D-20": {
+      "last_published": {
+        "published_at": 1785698858,
+        "target_hash": "196be79f378133fd5f649bd69a2fc2ccf8d7f3383cb913083bab57c2cb228295",
+        "target_revid": 3098,
+        "translation_hash": "196be79f378133fd5f649bd69a2fc2ccf8d7f3383cb913083bab57c2cb228295"
+      },
       "source": {
         "fetched_at": 1785698090,
         "hash": "51ed04daafb3a47df3495be5840468e6374f2923cbfa0e8cb4b74f2f0d15e126",
         "revid": 14040
+      },
+      "target": {
+        "fetched_at": 1785698857,
+        "hash": "",
+        "revid": 0,
+        "title": "Template:Entityicon/D-20"
       },
       "translation": {
         "file": "output/zh/Template/Entityicon_D-20.wiki",
@@ -24257,10 +24346,22 @@
       }
     },
     "Template:Entityicon/D-5": {
+      "last_published": {
+        "published_at": 1785698861,
+        "target_hash": "c0f636b1199ca1020666838bf98da9dcab098ac112f4f9d6e658ddf8f715b99a",
+        "target_revid": 3099,
+        "translation_hash": "c0f636b1199ca1020666838bf98da9dcab098ac112f4f9d6e658ddf8f715b99a"
+      },
       "source": {
         "fetched_at": 1785698090,
         "hash": "da505b4d8737cc30859f3a61d0d9c7d2ff98da6fb9366743c0f1fc7249f0a6ab",
         "revid": 14036
+      },
+      "target": {
+        "fetched_at": 1785698861,
+        "hash": "",
+        "revid": 0,
+        "title": "Template:Entityicon/D-5"
       },
       "translation": {
         "file": "output/zh/Template/Entityicon_D-5.wiki",
@@ -24269,10 +24370,22 @@
       }
     },
     "Template:Entityicon/D-5i": {
+      "last_published": {
+        "published_at": 1785698865,
+        "target_hash": "bd72068aa18694a002d1297e5d731f425b94173694dce1aa2c3aaa802de7743b",
+        "target_revid": 3100,
+        "translation_hash": "bd72068aa18694a002d1297e5d731f425b94173694dce1aa2c3aaa802de7743b"
+      },
       "source": {
         "fetched_at": 1785698104,
         "hash": "bbb2874413ce225248345f328fe48832e9d6f14d1882dbcf20486595487f8f17",
         "revid": 14039
+      },
+      "target": {
+        "fetched_at": 1785698865,
+        "hash": "",
+        "revid": 0,
+        "title": "Template:Entityicon/D-5i"
       },
       "translation": {
         "file": "output/zh/Template/Entityicon_D-5i.wiki",
@@ -27149,7 +27262,7 @@
         "revid": 13999
       },
       "target": {
-        "fetched_at": 1784968926,
+        "fetched_at": 1785698850,
         "hash": "9f71460cbf39632fdc39395672bf8aef08eaeb3b9301224716e483f2905d605e",
         "revid": 1646,
         "title": "X-1200 Entities"
