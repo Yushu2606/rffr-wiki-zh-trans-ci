@@ -4,13 +4,14 @@ __NOTOC__
 {{InfoBox:Entity
 |entity_name=Red Rooms
 |entity_image=RRDoor.jpg
-|sound1=<center>Ambience 1</center><center>[[File:RRSound1.mp3]]</center>
-|sound2=<center>Ambience 2</center><center>[[File:RRSound2.mp3]]</center>
-|sound3=<center>Ambience 3</center><center>[[File:RRSound3.mp3]]</center>
-|sound4=<center>Ambience 4</center><center>[[File:RRSound4.mp3]]</center>}}
+|sound1=<center>Build Up ([[Unnamed Sector]])</center><center>[[File:UnnamedRRBuildup.mp3]]</center>
+|sound2=<center>Ambience 1</center><center>[[File:RRSound1.mp3]]</center>
+|sound3=<center>Ambience 2</center><center>[[File:RRSound2.mp3]]</center>
+|sound4=<center>Ambience 3</center><center>[[File:RRSound3.mp3]]</center>
+|sound5=<center>Ambience 4</center><center>[[File:RRSound4.mp3]]</center>}}
 
 == Description ==
-Upon opening ''Room 900'' in any given [[Sections|Section]], everything turns red and you are presented with the text, "Insanity sets in..." This is the beginning of the '''Red Rooms'''. The '''Red Rooms''' is a portion between ''Rooms 900-1000''(The [[Unnamed Sector]] being a few rooms after you obtain the keycard and the exit). During the '''Red Rooms''', spawn rates are higher for all [[Entities]] including [[:Category:I Variation|I Variants]]. Some front [[Entities]] are faster. This is considered to be the final hurdle before the goal. The S.P.A.W.N. Checkpoint system does not have the ability to teleport anywhere within the Red Rooms. When opening the ''1000th door'', the '''Red Rooms''' will end, and you will be presented with long hallway. Going to ''Room 1001'' will give you choice of either continuing the run or ending it for good, giving you an ending. Each [[Sections|Section]] has its own ending, however, only 3 of these endings can be achieved at the moment.
+Upon opening ''Room 900'' in any given [[Sections|Section]], everything turns red and you are presented with the text, "Insanity sets in..." This is the beginning of the '''Red Rooms'''. The '''Red Rooms''' is a portion between ''Rooms 900-1000''(The [[Unnamed Sector]] being a few rooms after you obtain the keycard and the exit). During the '''Red Rooms''', spawn rates are higher for all [[Entities]] including [[:Category:I Variation|I Variants]]. Some front [[Entities]] are faster. This is considered to be the final hurdle before the goal. The S.P.A.W.N. Checkpoint system does not have the ability to teleport anywhere within the Red Rooms. When opening the ''1000th door'', the '''Red Rooms''' will end, and you will be presented with long hallway. Going to ''Room 1001'' will give you choice of either continuing the run or ending it for good, giving you an ending. Each [[Sections|Section]](Excluding the [[Unnamed Sector]]) has its own ending, however, only 4 of these endings can be achieved at the moment.
 
 <tabber>
 |-|Section A=

@@ -1,11 +1,11 @@
-{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-85（倒带）</span>}}
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-85（倒带）</span>}}
 {{Redesign|Helical|1. 整体设计将得到全面优化<br>2. 当前设计仅为重新配色版本}}
 {{InfoBox:Entity
 |entity_name=SHA-85
 |entity_image=<gallery>
-SHA85NewWatermark.webp|Upcoming 设计
-Sha85ani.webp|动画还原
-Sha85.webp|设计
+SHA85NewWatermark.png|Upcoming 设计
+Sha85ani.gif|动画还原
+Sha85.png|设计
 </gallery>
 |caption-entity_image=火车老兄
 |previous_entity=[[SHA-60]]<br>[[LAPSE-60]] ([[Alpha & Shadowpocalypse|A&SP]])
@@ -26,10 +26,10 @@ Sha85.webp|设计
 |sound4=<center>消失</center><center>[[File:Sha-85Dying.mp3]]</center>|sound6=<center>金属门碎裂声</center><center>[[File:Metaldoorsmash.mp3]]</center>}}
 
 == 描述 ==
-'''SHA-85'''是出没于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse|阿尔法&暗影启示录]]修饰符中的众多暗影实体之一，是[[A-85]]的感染变种。
+'''SHA-85'''是出没于[[Shadow Challenge|暗影挑战]]与[[Alpha & Shadowpocalypse]]修饰符中的众多暗影实体之一，是[[A-85]]的感染变种。
 
 == 行为 ==
-SHA-85会生成在主房间的门前，在原地等待约2秒后传送离开。18-22秒后，或是玩家打开门后，SHA-85会从虚空墙后方或者主房间门后方冲刺而出，无论从哪一侧出现都会将门撞碎。SHA-85最多可以反弹8次，每次反弹的行为都相同。在最后一次反弹时，它会在1.75秒后从后方最后一次冲向主门，撞在门上蓄力后最终消失。如果玩家在进入/离开躲藏点时被它看到，会被施加暗影瘟疫效果，随时间持续损失生命值。
+SHA-85会生成在主房间的门前，在原地等待约2秒后传送离开。18-22秒后，或是玩家打开门后，SHA-85会从虚空墙后方或者主房间门后方冲刺而出，无论从哪一侧出现都会将门撞碎。SHA-85最多可以反弹12次，每次反弹的行为都相同。在最后一次反弹时，它会在1.75秒后从后方最后一次冲向主门，撞在门上蓄力后最终消失。如果玩家在进入/离开躲藏点时被它看到，会被施加暗影瘟疫效果，随时间持续损失生命值。
 
 == 攻略与提示 ==
 * SHA-85在刚生成停留在主门前的阶段不会伤害你，但在此之后的任何时间它都可以轻松将你秒杀。
@@ -44,11 +44,11 @@ SHA-85会生成在主房间的门前，在原地等待约2秒后传送离开。1
 *SHA-85最初是Admin实体，只能通过指令生成。
 **在被改为自然生成实体的过程中，SHA-85原本会反弹50次，后来被下调为8次。
 *<s>如果你还没有遇到过SHA-85，那么打开暗影挑战的333号门时它必定会生成。</s>
-**<s>若[[SHA-3]]在暗影挑战中破坏了333号门，它将改为在玩家打开的下一个房间生成，否则便会在接下来的2个房间内生成。</s>
-**<s>有趣的是，在[[Alpha & Shadowpocalypse|阿尔法与Shadowpocalypse（暗影天启）]]修饰符中，SHA-85并非必定生成。</s>
-***这一说法已不再成立。
-*SHA-85是速度最快的暗影实体，不过目前尚未确认[[SHA-140]]的速度是否比它更快。
-*尽管该情况极其罕见，但在每次反弹后，SHA-85都有极小概率生成[[SHA-200]]。
+**<s>如果 [[SHA-3]] 在暗影挑战中破坏了 333 号门，它将改为在玩家打开的下一个房间生成，若没有则在接下来的 2 个房间内生成。</s>
+**<s>有趣的是，在 [[Alpha & Shadowpocalypse]] 修饰符中，SHA-85 并不保证会生成。</s>
+***这已不再正确。
+*SHA-85 是速度最快的暗影实体。但尚未确认 [[SHA-140]] 是否更快。
+*虽然极为罕见，但在每次反弹后，SHA-85 有微小概率生成 [[SHA-200]]。
 [[Category:Shadow Entities]]
 [[Category:Rusher]]
 [[Category:Miniboss]]

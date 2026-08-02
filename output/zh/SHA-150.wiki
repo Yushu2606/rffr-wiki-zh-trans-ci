@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="animation: sha150 8s infinite;">SHA-150（解离）</span>}}
-{{ArticleBackground|File=ShadowScreen.webp}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
 {{InfoBox:Entity
 |entity_name=SHA-150
 |entity_image=<gallery>
-PinkSha150.webp|紫色形态
-BlackSha150.webp|黑色形态
+PinkSha150.gif|紫色形态
+BlackSha150.gif|黑色形态
 </gallery>
 |previous_entity=[[SHA-140]]
 |next_entity=[[SHA-180]]
@@ -35,8 +35,8 @@ BlackSha150.webp|黑色形态
 
 == 画廊 ==
 <gallery>
-SHA-150_2nd_form.webp|游戏内的紫色形态
-SHA-150_first_form.webp|游戏内的黑色形态
+SHA-150 2nd form.png|游戏内的紫色形态
+SHA-150 first form.png|游戏内的黑色形态
 </gallery>
 
 [[Category:Shadow Entities]]

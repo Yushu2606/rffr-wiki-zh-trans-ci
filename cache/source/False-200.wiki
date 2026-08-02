@@ -11,17 +11,17 @@
 |appears_at=Door 99+ in the [[Unnamed Sector]]
 |gun_effect=None
 |damage=Instant Death
-|related_monsters=[[A-200]]}}
+|related_monsters=[[A-200]] (Chaos Mode Version)}}
 
 ==Description==
 '''False-200''' will be one of the many Entities you will find within the [[Unnamed Sector]],  it being the False version of [[A-200]]
 
 ==Mechanics==
-'''False-200''' will make a loud thud when spawning before starting to flicker every light in the unnamed sector randmonly. After a few seconds it will start teleporting to the nearest unhidden player, if there are no players to target it will simply target to void wall or any other active entity. To despawn '''False-200''', you have to open 2-4 doors which will make him despawn (The amount of doors required is random.)
+'''False-200''' will make a loud thud when spawning before starting to flicker every light in the unnamed sector randmonly. After a few seconds it will start teleporting to the nearest unhidden player, if there are no players to target it will simply target to void wall. To despawn '''False-200''', you have to open 2-4 doors.
 
 == Strategy & Tips ==
-
-* '''False-200''' only teleports every 2 seconds (Interval his face changes) and your sprint is just fast enough to outrun him, so combining these you can wait him out until hes far away from you, then sprint and open doors. This is the most effective way to get rid of '''False-200''' quickly.
+* '''False-200''''s speed is determined by how far he is to a player, he will be slower the closer he is. Use this to your advantage!
+* '''False-200''' only teleports every 2 seconds (Interval his face changes) and your sprint is just fast enough to outrun him when hes nearby, so combining these you can wait him out until hes far away from you, then sprint and open doors. This is the most effective way to get rid of '''False-200'''.
 * If there are no players '''False-200''' can target then he will be slower than if he is targeting a player, so be wary about this and dont leave when hes still close to you.
 * '''False-200''' disables [[claustrophobia]] as long as he is active, so use this to your advantage!
 

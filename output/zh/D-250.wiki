@@ -1,26 +1,26 @@
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #000000, #545454, #8B8B8B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-250（骚乱）</span>}}
-{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 <blockquote>'''"There will be nothing left（什么都不会剩下）"''' ——出自《Update Executive》第5支先导预告中的D-250</blockquote> 
 {{SectionDStub}}
 {{InfoBox:Entity
 |entity_name=[[File:D-250title.webp|frameless|link=D-250]]
-|entity_image=D250.webp
+|entity_image=D250.png
 |previous_entity=[[D-200]]
 |next_entity=[[Mouth|D-300]]<br>[[M-22]]
 |nicknames=Tumult（骚乱）
 |locker_snipe=是
 |appears_at=D-250+
 |claustrophobia=否
-|type=大多为固定者
+|type=固定者<br>投掷者<br>冲刺者
 |behavior=玩家靠近时会震动屏幕，抵达目标房间时会发射即使玩家躲藏也能造成伤害的法球，攻击结束后会破坏门。
 |gun_effect=无
-|speed=无→慢
+|speed=固定 - 慢
 |damage=每秒75伤害（本体） <br>
 25（法球）
 |related_monsters=}}
 
 ==描述==
-'''D-250'''是D区的实体，也是D区最后一个需要解锁对应区段才能遇到的实体。它首次在《Update Executive》的第5支先导预告中亮相。
+'''D-250'''是玩家在[[Section D|D区]]会遇到的第十个实体，也是最后一个实体。更多相关信息如下。
 
 ==机制==
 '''D-250'''会生成于当前已开启房间前方的3个房间处。玩家距离它的位置越近，屏幕震动幅度就越大，最初只是几乎难以察觉的轻微晃动。
@@ -32,20 +32,28 @@
 ==应对策略与提示==
 
 * '''D-250'''<nowiki/>的氛围音在它即将发起攻击时会非常清晰可闻。注意留意屏幕震动效果，当氛围音大到能清晰听见时，立刻往回跑，尽量远离下一个房间。
-* 不要躲在最新打开的房间里，因为'''D-250'''的法球数量足够在没有提升过最大生命值的玩家来得及回血前就将其击杀。
+* 不建议躲在最新打开的房间里，因为'''D-250'''的法球数量足够造成可能击杀玩家的伤害。
+** 这种情况在游戏后期可能会发生。
+** 只有在你至少使用过一个[[Items#Healing|Vita-Booster（生命强化剂）]]时，才将当前房间作为最后手段。
 
 ==你知道吗==
-* D-250的设计大约花了一天时间完成。
-* 它的粒子效果复用自Collese为游戏制作的一个废弃概念设计。
-** 这些粒子原本是为[[E-245]]设计的，但最终被用在了D-250身上。
-** D-250的旧版法球设计原本计划用作[[E-245]]的外观，但后来被更改了。
-* [https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse 《Update Executive》第5支先导预告]
+* '''D-250'''<nowiki/>的设计大约花了一天时间完成。
+* 它的粒子效果复用自[[User:Collese|Collese]]为游戏制作的一个废弃概念设计。
+** 这些粒子原本是为[[E-245]]设计的，但最终被用在了'''D-250'''身上。
+** '''D-250'''的旧版法球设计原本计划用作[[E-245]]的外观，但后来被更改了。
+* '''D-250'''在[https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse 《Update Executive》第5支先导预告]中首次亮相。
 
 ==画廊==
+===GIFs===
 <gallery>
-File:D250Orb.webp|法球
-File:Orb.webp|D-250的旧版法球设计/概念设计
-File:D-250_jumpscare.webp|D-250的跳杀
+File:Tumult_ingame.gif.webp|'''D-250'''在当前房间投掷法球时的画面。
+File:D-250 jumpscare.gif|'''D-250'''<nowiki/>的跳杀。
+</gallery>
+
+===杂项===
+<gallery>
+File:D250Orb.png|'''D-250'''<nowiki/>的法球精灵图。
+File:Orb.png|'''D-250'''<nowiki/>的旧版法球设计/概念设计。
 </gallery>
 
 {{EntityNavBox}}

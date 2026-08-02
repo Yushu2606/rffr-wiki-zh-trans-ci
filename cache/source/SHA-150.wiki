@@ -27,8 +27,8 @@ BlackSha150.gif|Black Form
 When '''SHA-150''' spawns, it will highlight all lockers with a black outline or a full purple color, SHA-150 locks the door to the 3rd room to avoid cheesing. After around 3 seconds, he will spawn similarly to M-150, being colored black or purple. Then, he starts checking lockers in the main room that are the same color as him. Once he's done checking the main room, he will swap colors then go to the previous room, checking every locker as its new color. After he is done with checking the lockers, he will despawn the same way M-150 does.
 
 == Strategies & Tips ==
-* stay near a locker in the previous room that is the same color as it when it spawned, since he will change colors by the time he reaches you.
-** you should try to hide as late as possible and predict when it goes to the previous room, since it wont extend [[Claustrophobia]] like [[M-150]] does.
+* Stay near a locker in the previous room that is the same color as it when it spawned, since he will change colors by the time he reaches you.
+** You should try to hide as late as possible and predict when it goes to the previous room, since it won't extend [[Claustrophobia]] like [[M-150]] does.
 
 == Trivia ==
 TBA

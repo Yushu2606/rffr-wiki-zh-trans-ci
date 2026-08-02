@@ -1,6 +1,6 @@
 __NOTOC__
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">Alpha & Shadowapocalypse</span>}}
-{{ArticleBackground|File=ShadowScreen.webp}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
 
 {{Modifier|GradiantDetails=to bottom, #7700BB, #000000|TextColor=#AA00FF|Name=[[Alpha & Shadowpocalypse]]|Details=暗影已挣脱束缚。存活至1000号房间，或挺过3次[[SHA-200|[已编辑]]]的攻击。祝你好运。}}
 
@@ -16,23 +16,24 @@ __NOTOC__
 * 你选择的区可以根据你想要的生存类型发挥不同作用。
 ** 如果你想要获取道具，[[Section D|D区]]是更优选择。这里有更高概率掉落V-Boosters和其他治疗类[[items|道具]]，可以在棘手情况（比如[[Red Rooms|红区]]里的实体组合）中帮你扛过[[Claustrophobia|幽闭恐惧]]的效果。
 ** 如果你想要更多安全点位，[[Section A|A区]]是更优选择。虽然你能拿到的道具更少，但不需要过多担心[[Claustrophobia|幽闭恐惧]]的影响。该区的房间比其他区更短，因此选择该区来尽可能快地通关本游戏模式是可行的。
-***不过在利用安全点位躲避[[SHA-120]]时要格外小心，它的侦测范围极广，能够发现那些依靠实体短射程机制生效的安全点位。请确保你与它的距离足够远，或是点位四周都有遮挡。
-* 当[[SHA-120]]生成时，要留意额外的屏幕震动，因为[[SHA-2]]可能会和[[SHA-120]]一同生成。想要轻松识别这种额外震动，可以在[[SHA-120]]没有发出鼓点声响时观察屏幕震动幅度是否比正常情况更大。
-*[[SHA-2]]、[[SHA-4]]和[[SHA-300]]会阻挡门开启，因此不要贸然行动，也不要把[[SHA-2]]和[[SHA-4]]或[[SHA-300]]混淆。
-**[[SHA-4|SHA-2]]、[[SHA-4]]和[[SHA-300]]在玩家与门交互时弹出的提示为"Something is blocking this door from opening（有东西挡住了这扇门，无法打开）"
-* 当[[SHA-1]]生成时，一旦看到它引发的屏幕震动就立刻躲藏。它的穿柜每秒伤害数值较低、不致命，但会附加Shadow Plague（暗影瘟疫）效果（造成25每秒伤害）。请在躲藏点内等待，直到[[SHA-1]]检查完你所在位置前一个房间内的所有标记点位——因为它检查完当前房间的所有躲藏点后，会先走到门口再折返，躲在门附近时可以利用这一机制。
-* 当[[SHA-140]]或[[SHA-55]]折返时，尽量不要使用安全点位。它们采用了不同的寻路系统，不会像[[SHA-1]]那样使用常规实体寻路逻辑，而是会直接前往下一个蓝色柜子/蓝色重型柜子/白色储物柜。只有在你完全确定自己不在其行进路径上时，才可使用安全点位。
-* 一旦看到[[SHA-60]]产生的静电效果就立刻冲刺躲藏，它拥有秒杀级穿柜判定。身处[[Red Rooms|红区]]时，需先确认[[SHA-2]]未生成，再安全离开躲藏点。
-*[[SHA-30]]、[[SHA-35]]、[[SHA-55]]、[[SHA-180]]和[[SHA-200]]没有穿柜判定，[[SHA-1]]、[[SHA-2]]、[[SHA-4]]、[[SHA-22]]、[[SHA-85]]和[[LAPSE-1]]的穿柜判定不致命。你可以善用这一特性。
-* 建议关闭音乐，因为音乐有时会盖过暗影实体的音效，在'''阿尔法与Shadowpocalypse（暗影天启）'''模式下尤其明显。暗影实体本身不会发出声响，因此强烈推荐依靠视觉线索进行判断。听觉线索也可帮助识别当前激活的实体，但过度依赖听觉可能会让你被[[SHA-2]]这类静默实体击杀。
+** 如果你在寻找安静的环境，E区会是不错的选择，但要小心内存泄漏，因为内存泄漏可能会毁掉你的逃生。
+***不过，如果你在使用安全点对抗 [[SHA-120]] 时要小心，因为它的范围很大，能够看到那些依靠实体短距离才能生效的安全点。确保你离它足够远，或者所有方向都被挡住。
+* 当 [[SHA-120]] 生成时，要留意额外的屏幕震动，因为 [[SHA-2]] 也可能与 [[SHA-120]] 一起生成。要轻松检测屏幕震动，可以在 [[SHA-120]] 没有发出鼓声时观察屏幕是否比平时晃动得更厉害。
+*[[SHA-2]]、[[SHA-4]] 和 [[SHA-300]] 会挡住门使其无法打开，所以不要着急，不要把 [[SHA-2]] 与 [[SHA-4]] 或 [[SHA-300]] 混淆。
+**与门互动时，[[SHA-4|SHA-2]]、[[SHA-4]] 和 [[SHA-300]] 的消息显示为 "Something is blocking this door from opening"（有什么东西挡住了这扇门，使其无法打开）
+* 当 [[SHA-1]] 生成时，一看到屏幕震动就尽快躲藏。它的柜子狙击每秒伤害较低且非致命，但会造成暗影瘟疫（造成25每秒伤害）。在你的躲藏点等待，直到 [[SHA-1]] 检查完你所躲藏房间之前那个房间中所有被标记的位置，因为当它检查完房间里所有躲藏点后，它会先走向门然后折返。当你躲在门附近时可以利用这一点。
+* 当 [[SHA-140]] 或 [[SHA-55]] 折返时，尽量不要使用安全点。它使用不同的寻路系统，会立即前往下一个蓝色柜子/蓝色重型柜子/白色储物柜，而不是像 [[SHA-1]] 那样使用普通实体寻路系统。只有在你完全确定自己不在它的路径上时才使用安全点。
+* 一看到 [[SHA-60]] 产生的静电就冲刺躲藏，它有秒杀柜子狙击。在红区内，要确认 [[SHA-2]] 没有生成后才能安全离开躲藏点。
+*[[SHA-30]]、[[SHA-35]]、[[SHA-55]]、[[SHA-180]] 和 [[SHA-200]] 没有柜子狙击，而 [[SHA-1]]、[[SHA-2]]、[[SHA-4]]、[[SHA-22]]、[[SHA-85]] 和 [[LAPSE-1]] 有非致命柜子狙击。好好利用这一点。
+* 关掉音乐，因为音乐有时会盖过暗影实体的声音，特别是对于'''阿尔法与暗影天启'''。暗影实体也是无声的，因此强烈建议依赖视觉提示。音频提示也可以帮助判断有哪些实体处于活动状态，但过度依赖它可能会让你死于 [[SHA-2]] 等无声实体。
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.webp|center|150px|link=SHA-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.webp|center|150px|link=SHA-2]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.webp|center|150px|link=SHA-3]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.webp|center|150px|link=SHA-4]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.png|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
@@ -40,11 +41,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-7]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.webp|center|150px|link=SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.webp|center|150px|link=SHA-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.webp|center|150px|link=SHA-55]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.webp|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.png|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
@@ -52,11 +53,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.png|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
@@ -64,9 +65,9 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.webp|center|150px|link=SHA-300]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.webp|center|150px|link=Overseer]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.png|center|150px|link=SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.png|center|150px|link=Overseer]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-300]]
@@ -75,11 +76,11 @@ __NOTOC__
 
 ==Lapse 变体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L-1.webp|center|150px|link=LAPSE-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L2.webp|center|150x150px]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.webp|center|150px|link=LAPSE-3]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.webp|center|150px|link=LAPSE-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.webp|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:better L-1.png|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150x150px]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.png|center|150px|link=LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
@@ -91,12 +92,12 @@ __NOTOC__
 
 ==画廊==
 <gallery>
-A&SPAwardedBadge.webp|一名玩家获得The Apocalypse（天启）徽章
-A&sppurplelights.webp|Shadowpocalypse（暗影天启）修饰符中出现的紫色灯光
+A&SPAwardedBadge.jpg|一名玩家获得天启徽章
+A&sppurplelights.png|Shadowpocalypse 修饰符中出现的紫色灯光
 </gallery>
 
 ==徽章==
-{{Badge|Image=The_Apocalypse_(Badge).webp|Name=The Apocalypse（天启）|Description="“Is.. Is it over yet..?（结……结束了吗……？）”你本不该坚持这么久。启用并在“阿尔法 & Shadowpocalypse（暗影天启）”修饰符下存活。"|Obtainment=到达1000号门，或在启用阿尔法 & Shadowpocalypse（暗影天启）修饰符的情况下，从3次[[SHA-200]]的袭击中存活。 }}
+{{Badge|Image=The Apocalypse (Badge).png|Name=天启|Description="Is.. Is it over yet..?"（"结束了……吗……？"）你本不该坚持这么久。启用并在"阿尔法 & Shadowpocalypse"修饰符下存活。|Obtainment=到达门 1000，或在启用阿尔法 & Shadowpocalypse 修饰符的情况下从 3 个 [[SHA-200]] 手中存活。}}
 
 
 {{BrowseNavBox}}

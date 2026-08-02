@@ -15,7 +15,7 @@ JumpMori.webp|Jumpscare Face
 |behavior=
 |speed=depends on how far the player is
 |damage=Instant Death
-|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[D-35]]<br>[[E-30]]
+|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[A-85]]<br>[[D-35]]<br>[[E-30]]
 |caption-entity_image=:Skull:
 |sound1=<center>Spawn '''Unnamed Sector'''</center><center>[[File:Unnamedflicker.mp3]]</center>
 |sound2=<center>Spawn '''After 500''' </center><center>[[File:MoriSpawn.mp3]]</center>
@@ -36,13 +36,17 @@ here are more things he can do:
 
 * he will have a chance to attack from the front once you are past 100
 
-* he has a chance of becoming a rebounder, rushing to the door, falling back, then rush back to the main room past door ???
+* he has a chance of becoming a rebounder, rushing to the door, falling back, then rush back to the main room past door 150
 
 ==Strategies==
 * Just hide when you hear his ambience.
 
 ==Trivia==
 Mori can invade outside the unnamed sector when you are past door 500
+
+Mori uses a marketplace image along with his jumpscare too
+
+[https://create.roblox.com/store/asset/11837394830/fatality-Fanmade-Give-me-credits?keyword=doors+entity&pagePosition=2 Design] and [https://create.roblox.com/store/asset/11837451869/fatality-jumpscare-Fanmade-Give-me-credits?keyword=doors+entity&pagePosition=0 Jumpscare] Design
 
 {{EntityNavBox}}
 [[Category:Entities]]

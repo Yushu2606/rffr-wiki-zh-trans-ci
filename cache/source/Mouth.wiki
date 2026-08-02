@@ -3,7 +3,7 @@
 |-|Base=
 {{ArticleBackground|File=MultiSectional.gif}}
 {{NoteBox|note=Not to be confused with '''A-300''' from '''Rooms: Re-Established'''}}
-{{InfoBox:Entity|entity_name=Mouth|entity_image=<gallery>
+{{InfoBox:Entity|entity_name= [[File:MouthTitle.png|frameless|link=Mouth]]|entity_image=<gallery>
 MouthColorless.png|Design
 A-300.png|A Section Mouth
 DSectionMouth.png|D Section Mouth

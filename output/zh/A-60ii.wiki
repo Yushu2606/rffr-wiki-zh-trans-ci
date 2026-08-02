@@ -1,24 +1,24 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">A-60ii (Omega Multi-Faced Monster)</span>}}
 {{SectionAStub}}
 {{HeadphonesNotice}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:A-60iiPlaceholder.webp|frameless|link=A-60ii]]
+|entity_name=[[File:A-60iiPlaceholder.gif|frameless|link=A-60ii]]
 |entity_image=<gallery>
 XX60.gif|动画
-XX602.webp|第1张脸
-XX603.webp|第2张脸
-XX604.webp|第3张脸
-XX605.webp|第4张脸
-XX606.webp|第5张脸
-XX607.webp|第6张脸
-XX608.webp|第7张脸
-XX609.webp|第8张脸
-XX6010.webp|第9张脸
-XX6011.webp|第10张脸
-XX6012.webp|第11张脸
-XX6013.webp|第12张脸
+XX602.png|第1张脸
+XX603.png|第2张脸
+XX604.png|第3张脸
+XX605.png|第4张脸
+XX606.png|第5张脸
+XX607.png|第6张脸
+XX608.png|第7张脸
+XX609.png|第8张脸
+XX6010.png|第9张脸
+XX6011.png|第10张脸
+XX6012.png|第11张脸
+XX6013.png|第12张脸
 XX60jump.webp|跳杀设计
 </gallery> 
 |claustrophobia=否
@@ -36,18 +36,19 @@ XX60jump.webp|跳杀设计
 '''A-60ii'''是'''Rooms: Found Footage: RENOVATED'''中众多ii变体之一，更多信息如下所示。
 
 ==行为==
-一旦[[A-60i]]消失，'''A-60ii'''就有几率生成。若它成功生成，会在无任何预警的情况下以极快速度冲向主房间，破坏门并删除主房间内所有藏有玩家的各种柜子。
+一旦[[A-60i]]撞到门，'''A-60ii'''就有几率生成。若它成功生成，会在无任何预警的情况下以极快速度冲向主房间，破坏门并删除主房间内所有藏有玩家的各种柜子。
 
 ==策略与提示==
 在[[A-60i]]攻击结束后请尽快躲藏，因为'''A-60ii'''不会给出任何视觉提示，几乎没有留给玩家躲藏的时间。在[[A-60i]]经过后请尽可能保持躲藏状态，避免被它的致命命中攻击击杀。
 
 ==你知道吗==
-
+* '''A-60ii'''可以像[[A-60i]]和[[D-35i]]一样连续生成。
 * '''A-60ii'''曾是仅Admin可调用的实体。但在Executive Update（管理层更新）中加入[[Modifiers|II hate this]]修饰符后，它被作为常规实体加入游戏。
 ** [[D-55ii]]与[[D-60ii]]也存在相同情况：二者最初都是仅Admin可调用的实体，直到[[Modifiers|II hate this]]修饰符加入后才作为常规实体实装。
 
 ==画廊==
 <gallery>
-File:A-60iiJumpscare.webp|A-60ii 跳杀
+File:A-60iiJumpscare.gif|A-60ii 跳杀
 </gallery>
+
 [[Category:Omega Variation]]

@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">X-1200 实体</span>}}
-{{ArticleBackground|File=X1200Background.webp}}
+{{ArticleBackground|File=X1200Background.png}}
 尽管所有这些实体都有相同的指代，但它们彼此之间没有关联。它们没有真实的名称或编号，只是根据此前的警方报告被如此标注。其存在原因尚且未知。<br><br>
 以下是X-1200 实体，也就是无尽模式实体的列表
 
@@ -13,8 +13,8 @@
 {{InfoBox:Entity
 |entity_name=X-1200-A
 |entity_image=<gallery>
-X1200A1.webp|第一张脸
-X1200A2.webp|第二张脸
+X1200A1.png|第一张脸
+X1200A2.png|第二张脸
 </gallery>
 |nicknames=飞毛腿
 |type=冲刺者
@@ -27,7 +27,7 @@ X1200A2.webp|第二张脸
 |sound1=<center>跳杀</center><center>[[File:X-1200Jump.mp3]]</center>}}
 
 <h2>行为</h2>
-'''X-1200-A'''生成后会直接冲向主房间，不会给出任何生成提示，唯一的探测方法是聆听它发出的环境音效，该音效与[[SHA-180]]的音效类似。当它接近主房间时，玩家的屏幕会开始被静电噪点覆盖，这是提示玩家立即躲藏的警告。它在撞到门后就会消失。
+'''X-1200-A'''生成后会直接冲向主房间，不会给出任何生成提示，唯一的探测方法是聆听它发出的环境音效，该音效与[[False-60]]的音效类似。当它接近主房间时，玩家的屏幕会开始被静电噪点覆盖，这是提示玩家立即躲藏的警告。它在撞到门后就会消失。
 
 ==应对策略与技巧==
 * 一旦听到它的音效，就靠近柜子，当你看到屏幕被静电覆盖时立刻进入柜子躲藏即可。
@@ -41,8 +41,8 @@ X1200A2.webp|第二张脸
 {{InfoBox:Entity
 |entity_name=X-1200-B
 |entity_image=<gallery>
-X1200B1.webp|第一张脸
-X1200B2.webp|第二张脸
+X1200B1.png|第一张脸
+X1200B2.png|第二张脸
 </gallery>
 |nicknames=吵闹鬼
 |type=Noismaker（噪音制造者）
@@ -62,10 +62,10 @@ X1200B2.webp|第二张脸
 
 ==画廊==
 <gallery>
-File:X-1200-B_in_A-Sector.webp|出现在[[Section A|A区]]的'''X-1200-B'''
-File:Image_1780306514271_546.webp|出现在[[Section D|D区]]Derelict（废弃段）的'''X-1200-B'''
-File:X-1200-B_in_depth.webp|出现在[[Section D|D区]]Depth（深渊段）的'''X-1200-B'''（低画质）
-File:X-1200-B_in_Sector_E.webp|出现在[[Section E|E区]]的'''X-1200-B'''
+File:X-1200-B in A-Sector.jpeg|出现在[[Section A|A区]]的'''X-1200-B'''
+File:Image 1780306514271 546.png|出现在[[Section D|D区]]Derelict（废弃段）的'''X-1200-B'''
+File:X-1200-B in depth.png|出现在[[Section D|D区]]Depth（深渊段）的'''X-1200-B'''（低画质）
+File:X-1200-B in Sector E.png|出现在[[Section E|E区]]的'''X-1200-B'''
 </gallery>
 
 
@@ -74,8 +74,8 @@ File:X-1200-B_in_Sector_E.webp|出现在[[Section E|E区]]的'''X-1200-B'''
 {{InfoBox:Entity
 |entity_name=X-1200-C
 |entity_image=<gallery>
-X1200C1.webp|第一张脸
-X1200C2.webp|第二张脸
+X1200C1.png|第一张脸
+X1200C2.png|第二张脸
 </gallery>
 |nicknames=潜行者
 |type=锁定者
@@ -89,17 +89,17 @@ X1200C2.webp|第二张脸
 |sound2=<center>跳杀</center><center>[[File:X-1200Jump.mp3]]</center>}}
 
 <h2>行为</h2>
-生成时，'''X-1200-C'''会出现在随机方向，和[[E-90]]一样可穿墙被玩家观测到，随后它会开始播放环境音效并震动玩家屏幕，移动并锁定所有未躲藏的玩家；如果所有玩家都已躲藏，它会停在原地，约30秒后消失。
+生成后，'''X-1200-C''' 会将自身置于随机方向，与 [[E-90]] 类似可被穿墙看到，随后开始播放环境音并震动玩家屏幕，移动并锁定任何未躲藏的玩家；如果所有人都在躲藏，它会停在原地，约30秒后消失。
 
-==应对策略与技巧==
-留意它的动向，因为它可以穿墙被看到，一旦发现它请立刻躲藏。
+==策略与提示==
+留意它的动向，因为它可以被穿墙看到，一旦看到它请立即躲藏。
 
-躲在桌下也是一种可选方案，但只有当你确定没有实体能穿透桌子发现你时，才可以选择这种躲藏方式。
+躲在桌子下也是一种选择，但仅在你确定没有实体能穿透桌子看到你时才这样做。
 
-==画廊==
+==图库==
 <gallery>
-File:X-1200-C-Photo.webp|游戏内的X-1200-C
-X-CCloser.webp|同上，为近距离视角
+File:X-1200-C-Photo.png|游戏中的 X-1200-C
+X-CCloser.webp|同上，但距离更近
 </gallery>
 
 
@@ -108,31 +108,31 @@ X-CCloser.webp|同上，为近距离视角
 {{InfoBox:Entity
 |entity_name=X-1200-D
 |entity_image=<gallery>
-X1200D1.webp|第一幅面孔
-X1200D2.webp|第二幅面孔
+X1200D1.png|第一面孔
+X1200D2.png|第二面孔
 </gallery>
 |nicknames=Delay（延迟）
-|type=冲刺者<br>Fallback（折返型）
+|type=冲刺者<br>折返型
 |locker_snipe=是
 |claustrophobia=否
-|behavior=会发出警报声，向门冲刺，撞到门后向后折返并消失。
-|speed=快速
-|damage=???<br>命中：??? 每秒伤害
+|behavior=发出警报声，冲向门，撞到门后折返并消失。
+|speed=快
+|damage=???<br>??? 每秒伤害 命中
 |related_monsters=[[M-22]]<br>[[M-22i]]
 |sound1=<center>生成</center><center>[[File:X-1200-DSpawn.mp3]]</center>
-|sound2=<center>远距离环境音</center><center>[[File:X-DFarAmbi.mp3]]</center>
-|sound3=<center>近距离环境音</center><center>[[File:X-DCloseAmbi.mp3]]</center>
+|sound2=<center>远处环境音</center><center>[[File:X-DFarAmbi.mp3]]</center>
+|sound3=<center>近处环境音</center><center>[[File:X-DCloseAmbi.mp3]]</center>
 |sound4=<center>跳杀</center><center>[[File:X-1200Jump.mp3]]</center>}}
 
-<h2>行为</h2>
-当'''X-1200-D'''生成时，它会发出警报声，等待约30秒后高速冲向主房间；当它靠近时，玩家屏幕会布满静电，这是提醒玩家立刻躲藏的警告信号；它撞到门后会折返，穿过虚空墙后消失。
+<h2> 行为 </h2>
+当 '''X-1200-D''' 生成时，它会发出警报声并等待约30秒，随后高速冲向主房间；当它靠近时，玩家屏幕会充满静电，这是立即躲藏的警告；一旦撞到门，它会折返，穿过虚空墙后消失。
 
-==应对策略与技巧==
-* 听到它的生成提示音后即可靠近柜子，一旦发现屏幕布满静电立刻躲藏
+==策略与提示==
+* 一旦听到它的生成提示，靠近柜子，并在屏幕充满静电时立即躲藏。
 
-==画廊==
+==图库==
 <gallery>
-File:X-1200-D_Derelict_Section.webp|游戏内的X-1200-D
+File:X-1200-D Derelict Section.png|游戏中的 X-1200-D
 </gallery>
 
 
@@ -140,22 +140,22 @@ File:X-1200-D_Derelict_Section.webp|游戏内的X-1200-D
 {{InfoBox:Entity
 |entity_name=X-1200-E
 |entity_image=<gallery>
-X1200E1.webp|第一幅面孔
-X1200E2.webp|第二幅面孔
+X1200E1.png|第一面孔
+X1200E2.png|第二面孔
 </gallery>
 |nicknames=Ghost（幽灵）
 |type=冲刺者
 |locker_snipe=是
 |claustrophobia=否
-|behavior=在虚空墙处生成，以极低的噪音向主房间冲刺
-|speed=缓慢
-|damage=???<br>命中：??? 每秒伤害
+|behavior=在虚空墙生成，非常安静地冲向主房间。
+|speed=慢
+|damage=???<br>??? 每秒伤害 命中
 |related_monsters=[[SHA-30]]
 |sound1=<center>跳杀</center><center>[[File:X-1200Jump.mp3]]</center>}}
 
-<h2>行为</h2>
-'''X-1200-E'''生成后会开始缓慢向主房间冲刺，行动几乎无声，唯一能侦测到它的方式是它产生的少量静电；它撞到门后就会消失。
+<h2> 行为 </h2>
+'''X-1200-E''' 生成后，会开始缓慢冲向主房间，几乎无声，唯一能侦测到它的方式是它产生的少量静电；一旦撞到门，它就会消失。
 
-==应对策略与技巧==
-留意它产生的静电，这是侦测它的唯一途径。
+==策略与提示==
+留意它的静电，因为这将是你能侦测到它的唯一方式。
 </tabber>

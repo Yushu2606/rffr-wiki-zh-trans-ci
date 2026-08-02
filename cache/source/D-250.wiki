@@ -11,19 +11,19 @@
 |locker_snipe=Yes
 |appears_at=D-250+
 |claustrophobia=No
-|type=Stationary (mostly)
+|type=Stationary<br>Thrower<br>Rusher
 |behavior=Shakes screen as player gets close, shoots orbs that damage even while hidden when reaching target room and breaks door when finished.
 |gun_effect=None
-|speed=None to Slow
+|speed=Stationary - Slow
 |damage=75 DPS (Entity) <br>
 25 (Orbs)
 |related_monsters=}}
 
 ==Description==
-'''D-250''' is a D Section Entity, being the last section locked entity in the D Section. It was shown in the 5th teaser of the Executive update.
+'''D-250''' is the tenth entity and the last entity, where the player will encounter within [[Section D]]. More information about this entity is presented below.
 
 ==Mechanic==
-'''D-250''' will spawn 3 rooms infront of the currently opened room. The closer the player gets to its location, the more their screen will shake, starting with a gentle movement that is barely noticeable.
+'''D-250''' will spawn 3 rooms in front of the currently opened room. The closer the player gets to its location, the more their screen will shake, starting with a gentle movement that is barely noticeable.
 
 When reaching the targeted room, the entity will appear from the ground and generate orbs around it. After a few seconds, these orbs will be flung to random places of the current room, exploding and dealing damage in an area. These orbs damage even while hidden.
 
@@ -32,20 +32,28 @@ When all orbs are thrown, '''D-250''' will slam against the next door, breaking 
 == Strategy & Tips ==
 
 * '''D-250'''<nowiki/>'s ambience can be clearly heard when it is about to attack. Keep track of the shake effect, and when the ambience becomes loud enough to hear, quickly run back and stay as far from the next room as possible.
-* DO NOT hide in the most recent room, as '''D-250''' has enough orbs to easily kill a player that doesn't have any Max Health increase before they can heal.
+* It is not advised to hide in the most recent room, as '''D-250''' has enough orbs to deal damage that could potentially kill the player.
+** This type of situation can occur in later progression.
+** Only use the current room as a last resort if you have used at least one [[Items#Healing|Vita-Booster]].
 
 ==Trivia==
-* D-250's design took about a day to make.
-* The particles of it are reused from a scrapped concept by Collese for the game
-** The particles were meant for [[E-245]], but were used for D-250
-** The old orb design for D-250 was going to be [[E-245]]'s design but was changed.
-* [https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse Update Executive Teaser 5]
+* '''D-250'''<nowiki/>'s design took about a day to make.
+* The particles of it are reused from a scrapped concept by [[User:Collese|Collese]] for the game.
+** The particles were meant for [[E-245]], but were used for '''D-250'''.
+** The old orb design for '''D-250''' was going to be [[E-245]]'s design but was changed.
+* '''D-250''' was revealed in [https://youtu.be/bCtdRPxT01s?si=EyMl0CmJXP6S_sse Update Executive Teaser 5].
 
 ==Gallery==
+===GIFs===
 <gallery>
-File:D250Orb.png|Orb
-File:Orb.png|D-250's old orb design/concept design
-File:D-250 jumpscare.gif|D-250's jumpscare
+File:Tumult ingame.gif.gif|'''D-250''' as seen in the current room while throwing its orbs.
+File:D-250 jumpscare.gif|'''D-250'''<nowiki/>'s jumpscare.
+</gallery>
+
+===Miscellaneous===
+<gallery>
+File:D250Orb.png|'''D-250'''<nowiki/>'s orb sprite.
+File:Orb.png|'''D-250'''<nowiki/>'s old orb design/concept design.
 </gallery>
 
 {{EntityNavBox}}

@@ -29,7 +29,7 @@ Sha85.png|Design
 '''SHA-85''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[A-85]].
 
 == Behaviors ==
-SHA-85 will spawn in front of the main room's door and wait there for about 2 seconds before teleporting away. After 18-22 seconds, or after the door is opened by the player, SHA-85 will either rush from behind the void wall, or from behind the main room's door; either way breaking it down. SHA-85 can rebound to a maximum of 8 times, each doing the same thing. On his final rebound, he will rush from the back one final time to the main door after 1.75 seconds, slamming into it and charging up before finally despawning. If the player is seen while entering/exiting a hiding spot, they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime.
+SHA-85 will spawn in front of the main room's door and wait there for about 2 seconds before teleporting away. After 18-22 seconds, or after the door is opened by the player, SHA-85 will either rush from behind the void wall, or from behind the main room's door; either way breaking it down. SHA-85 can rebound to a maximum of 12 times, each doing the same thing. On his final rebound, he will rush from the back one final time to the main door after 1.75 seconds, slamming into it and charging up before finally despawning. If the player is seen while entering/exiting a hiding spot, they will be inflicted with the shadow plague effect, causing them to lose some of their health overtime.
 
 == Strategy & Tips ==
 * SHA-85 does not harm you in his initial spawn phase where he's at the main door, but any time afterwards he can easily kill you.

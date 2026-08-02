@@ -4,7 +4,7 @@
 {{InfoBox:Entity
 |entity_name=A-258
 |behavior=Spawns in the middle of the rooms, making loud sounds to block sounds from other entities.
-|related_monsters=[[M-7]]
+|related_monsters=[[X-1200 Entities#X-1200-B|X-1200-B]]
 |speed=Stationary.
 |entity_image=<gallery>
 A-258.gif|Animation (recreation)

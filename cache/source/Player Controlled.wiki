@@ -1,3 +1,5 @@
+{{Admin Exclusive}}
+
 ==Player Controlled==
 The following beings present below are '''Player Controlled''', meaning that they are actual players that have invaded your run, typically being a(n) Developer/Admin of the game.
 

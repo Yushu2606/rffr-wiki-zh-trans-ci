@@ -1,6 +1,6 @@
 {{Clear}}
 {| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #d90b0b; background:#a81414; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
-! style="width:100px" |[[File:EntityNavBoxAdmin.webp|200px|center|link=Entities]]
+! style="width:100px" |[[File:EntityNavBoxAdmin.png|200px|center|link=Entities]]
 |-
 |
 {| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="收起" style="background:#70574c; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"
@@ -38,7 +38,7 @@
 ! colspan="2" width="15%" style="background: #56abf5;"class="navigation-class" |<center>I区</center>
 |-
 ! width="15%" style="background: #77befc;" |<center>常规</center>
-| class="navigation-links" |[[I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
+| class="navigation-links" |[[M-7|I-7]] • [[M-22|I-22]] • [[M-60|I-60]] • [[M-70|I-70]] • [[M-120|I-120]] • [[M-134|I-134]] • [[M-200|I-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>其他</center>
@@ -60,15 +60,15 @@
 |-
 | class="navigation-class" |
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
-! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>超级史诗模式</center>
+! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>Super Epic Mode（超级史诗模式）</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A|A区]]</center>
-| class="navigation-links" |[[A-20ii]] • [[Dorito|Dorito（多力多滋）]] • [[A-200ii]]
+| class="navigation-links" |[[A-20ii]] • [[Dorito|Dorito（三角玉米片）]] • [[A-200ii]]
 |-
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D|D区]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（互通区）]]</center>
+! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（中转区）]]</center>
 | class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>其他</center>
@@ -84,7 +84,7 @@
 | class="navigation-links" |[[E-10]] • [[E-30]] • [[E-60]] • [[E-90]] • [[E-120]] • [[E-200]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
-! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>废弃/Removed</center>
+! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>Scrapped（废弃）/Removed</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A|A区]]</center>
 | class="navigation-links" |[[Old A-60i|A-60i <small>（旧版）</small>]] 
@@ -103,4 +103,4 @@
 |}
 |}
 |}
-<noinclude>''注：我从[https://r-rooms.fandom.com/wiki/Template:Navigation 这个]模板获取了所有这些代码。非常感谢！！！！！！''</noinclude>
+<noinclude>''注意：我从[https://r-rooms.fandom.com/wiki/Template:Navigation 这个]模板获取了所有这些代码。谢谢！！！！！！''</noinclude>

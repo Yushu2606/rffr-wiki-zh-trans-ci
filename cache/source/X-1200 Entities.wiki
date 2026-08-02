@@ -27,7 +27,7 @@ X1200A2.png|2nd Face
 |sound1=<center>Jumpscare</center><center>[[File:X-1200Jump.mp3]]</center>}}
 
 <h2> Behavior </h2>
-Once '''X-1200-A''' spawns, it will begin rushing to the main room, giving no indicator that it spawned, only way to detect it is by hearing the ambiance it makes, it being similar to [[SHA-180]]'s, once nearing the main room it will begin to fill the player's screen with static, a warning for them to hide immediately, it will despawn once it hits the door.
+Once '''X-1200-A''' spawns, it will begin rushing to the main room, giving no indicator that it spawned, only way to detect it is by hearing the ambiance it makes, it being similar to [[False-60]]'s, once nearing the main room it will begin to fill the player's screen with static, a warning for them to hide immediately, it will despawn once it hits the door.
 
 ==Strategies & Tips==
 * Once you hear him, get near a locker and enter when you see your screen being filled with static, that's it.

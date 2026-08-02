@@ -52,7 +52,7 @@ So basically, '''D-180i''' can spawn almost all entities form [[Section D|D sect
 
 == <span style="text-shadow: 1.5px 0.66px 2px blue, -1.5px 0.66px 2px blue; color: black;">Strategy & Tips</span> ==
 * As '''D-180i''' rush to the main room without any spawn clue, if you start seeing your screen get full of static, immediately hide.
-* If '''D-180i''' spawn [[A-200i]] you don't need to worry for '''D-180i''' because he wait [[A-200i]] to depsawn first before continuing to rebound. (This is obvious because you wouldn't even be able to detect him with the [[A-200i]]'s static).
+* If '''D-180i''' spawn [[A-200i]] you don't need to worry for '''D-180i''' because he wait [[A-200i]] to despawn first before continuing to rebound. (This is obvious because you wouldn't even be able to detect him with the [[A-200i]]'s static).
 * Unlike the other minibosses Admin variants, '''D-180i''' does NOT require you to open doors to make him despawn, so it's best to just wait him to despawn.
 * Always hide in '''Blue Heavy Lockers''' or '''White Cabinets''' when '''D-180i''' is spawned, because if he spawn [[D-55ii]], you won't have time to unhide and move to the determinated Locker/Cabinet.
 * '''D-180i''' cannot locker snipe, use this as your advantage and hide in last second to avoid getting damage from [[Claustrophobia]].

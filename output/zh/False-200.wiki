@@ -1,6 +1,6 @@
-{{ArticleBackground|File=Unnamed_.webp}}{{Stub}}{{InfoBox:Entity
+{{ArticleBackground|File=Unnamed .png}}{{Stub}}{{InfoBox:Entity
 |entity_name=False-200
-|entity_image=F-200.webp
+|entity_image=F-200.gif
 |previous_entity=[[False-120]]
 |next_entity=[[Mouth|False-300]]<br>[[E-10]]
 |claustrophobia=是
@@ -11,17 +11,17 @@
 |appears_at=[[Unnamed Sector|无名区域]]99号门及之后
 |gun_effect=无
 |damage=秒杀
-|related_monsters=[[A-200]]}}
+|related_monsters=[[A-200]]（混沌模式版本）}}
 
 ==描述==
 '''False-200'''是你将在[[Unnamed Sector|无名区域]]中遇到的众多实体之一，是[[A-200]]的仿冒版本。
 
 ==机制==
-'''False-200'''生成时会发出巨大的闷响，随后无名区域内的所有灯光会开始随机闪烁。几秒后它会开始传送到最近的未躲藏玩家处，如果没有可瞄准的玩家，它就会瞄准虚空墙或其他任何活跃实体。要让'''False-200'''消失，你需要打开2-4扇门，它就会消失（所需开门的数量是随机的）。
+'''False-200'''生成时会发出巨大的闷响，随后无名区域内的所有灯光会开始随机闪烁。几秒后它会开始传送到最近的未躲藏玩家处，如果没有可瞄准的玩家，它就会瞄准虚空墙。要让'''False-200'''消失，你需要打开2-4扇门。
 
 == 策略与提示 ==
-
-* '''False-200'''每2秒才会传送一次（间隔和它的脸部切换时间一致），而你的冲刺速度刚好够甩开它，所以你可以结合这两点，等它离你足够远的时候再冲刺开门。这是快速摆脱'''False-200'''最有效的方法。
+* '''False-200'''的速度取决于它与玩家的距离，离玩家越近，速度越慢。好好利用这一点！
+* '''False-200'''每2秒才会传送一次（间隔和它的脸部切换时间一致），当它在你附近时，你的冲刺速度刚好够甩开它，所以你可以结合这两点，等它离你足够远的时候再冲刺开门。这是摆脱'''False-200'''最有效的方法。
 * 如果没有可供'''False-200'''瞄准的玩家，它的移动速度会比瞄准玩家时更慢，请注意这一点，不要在它还离你很近的时候离开躲藏点。
 * 只要'''False-200'''处于活跃状态，[[claustrophobia|幽闭恐惧]]就会失效，好好利用这一点吧！
 
@@ -31,7 +31,7 @@
 
 ==画廊==
 <gallery>
-File:False-200_Picture_Clear.webp|游戏内的'''False-200'''。
+File:False-200 Picture Clear.png|游戏内的'''False-200'''。
 File:F200.webp|同上，但视角来自柜子内部。
 </gallery>
 

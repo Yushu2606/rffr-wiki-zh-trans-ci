@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 7px white; color: gray;">D-200</span>}}
 {{NoteBox|note=请勿与《Rooms Re-Established》中的D-200混淆}}
-{{ArticleBackground|File=D200Background.webp}}
+{{ArticleBackground|File=D200Background.jpg}}
 {{InfoBox:Entity
-|entity_image=D200Background.webp
+|entity_image=D200Background.jpg
 |entity_name=D-200 首领战
 |sound1=<center>铺垫曲</center><center>[[File: Forget Us Not.mp3]]</center>
 |sound2=<center>首领战原声带</center><center>[[File:SystemLockdown.mp3]]</center>}}
@@ -28,26 +28,26 @@ TBA
 |-|D-200=
 '''D-200:'''
 {{InfoBox:Entity
-|entity_name=[[File:Ifuckasure.webp|frameless|link=D-200]]
+|entity_name=[[File:Ifuckasure.gif|frameless|link=D-200]]
 |entity_image=<gallery>
-NewD200.webp|待机设计
-D200Jump.webp|跳杀设计
-NewerD-200.webp|旧设计
-D200.webp|更早的设计
+NewD200.png|待机设计
+D200Jump.png|跳杀设计
+NewerD-200.png|旧设计
+D200.png|更早的设计
 </gallery>
 |previous_entity=[[D-175]]
 |next_entity=[[D-250]]
 |nicknames=Dementor<br>"Dementia"
 |behavior=从前方生成，开始向后方冲刺，针对所有未躲藏的玩家。
-|speed=快
+|speed=超高速（18.6至18.65个房间/秒）（1,116至1,119 Studs/s）
 |gun_effect=无
 |locker_snipe=是
 |claustrophobia=是
 |type=后退者<br>锁定者
 |damage=秒杀
-|sound1=<center>生成音效</center><center>[[File:D200SpawnEffects.mp3]]</center>
+|sound1=<center>生成</center><center>[[File:D200SpawnEffects.mp3]]</center>
 |sound2=<center>环境音效</center><center>[[File:D200near.mp3]]</center>
-|sound3=<center>消失音效</center><center>[[File:D200DespawnEffects.mp3]]</center>}}
+|sound3=<center>消失</center><center>[[File:D200DespawnEffects.mp3]]</center>}}
 
 <h2>描述</h2>
 '''D-200'''是D-200首领战中登场的众多实体之一，行为模式类似于更极端的[[A-200]]，会在首领战开启时生成，'''Alarm'''被激怒时也会生成。更多信息见下文。
@@ -61,47 +61,47 @@ D200.webp|更早的设计
 '''首领战阶段：'''
 * '''D-200'''通常仅在'''Alarm'''被激怒时才会生成，因此请不惜一切代价避开'''Alarm'''！
 ** 由于'''D-200'''移动速度极快，一旦'''Alarm'''被激怒请立刻躲藏。
-** 不要尝试利用任何安全点位躲避'''D-200'''，因为它可以穿过墙体抵达你的位置。
-** 当'''D-200'''存在时务必保持躲藏，因为'''D-200'''会折返回来，在无限范围内击杀所有未躲藏的玩家。
-*** 这还会延长'''D-200'''<nowiki/>的消失计时器，也就是说摆脱它的唯一方法就是一直保持躲藏，它最终会自行消失。
+** 不要尝试用任何安全点来对付 '''D-200'''，因为它会穿墙找到你。
+** 当 '''D-200''' 存在时务必保持躲藏，因为 '''D-200''' 会折返并在无限半径内杀死任何未躲藏的玩家。
+*** 这还会延长 '''D-200'''<nowiki/>的消失计时，也就是说摆脱它的唯一方法就是一直躲藏，它最终会消失。
 
 {{!}}-{{!}}
-Boss战后=
-'''Boss战后：'''
-*'''D-200'''的速度极快，因此如果它生成时你没能找到蓝色柜子/白色储物柜，应当躲<nowiki/>进前一个房间，避免被可能生成的[[D-55]]杀死。
-* 一旦你看到房间灯光变白，或是听到'''D-20'''<nowiki/>'''0'''的管风琴音效，就要在它开始移动前进入躲藏点。这是因为'''D-200'''是兜底实体，在它开始移动时，会锁定距离最近的未处于躲藏点内的玩家。
-** 这意味着安全点位对'''D-200'''无效，因为它可以穿墙，正常锁定并杀死玩家。
-* 当'''D-200'''存在时务必保持躲藏，因为'''D-200'''会折返回来，在无限范围内击杀所有未躲藏的玩家。
-** 这还会延长'''D-200'''<nowiki/>的消失计时器，也就是说摆脱它的唯一方法就是一直保持躲藏，它最终会自行消失。
+Boss 战后=
+'''Boss 战后：'''
+*'''D-200''' 速度非常快，因此如果它生成，而你又没能找到蓝色柜子/白色储物柜，你应该躲<nowiki/>在上一个房间里，以免被生成的 [[D-55]] 杀死。
+* 一旦你看到房间灯光变白或听到 '''D-20'''<nowiki/>'''0''' 的管风琴声，请在它开始移动前进入躲藏点。这是因为 '''D-200''' 是一个后备实体，当它开始移动时，它会瞄准最近的未处于躲藏点内的玩家。
+** 这意味着安全点对 '''D-200''' 无效，因为它可以穿墙并准确地瞄准和杀死玩家。
+* 当 '''D-200''' 存在时务必保持躲藏，因为 '''D-200''' 会折返并在无限半径内杀死任何未躲藏的玩家。
+** 这还会延长 '''D-200'''<nowiki/>的消失计时，也就是说摆脱它的唯一方法就是一直躲藏，它最终会消失。
 }}
 
-<h2> 冷知识 </h2>
-* 即使Boss战结束后，'''D-200'''仍然可能生成，此时它会成为普通实体。
-* '''D-200'''在NVCS中的昵称曾显示为“Dementia”，但这一设定已被修改，现在会显示它的正式昵称“Dementor”。
-* 如果玩家不进入Boss战房间，就会被传送，同时显示消息：'''"I'M TELEPORTING YOU TO THE FRONT, DON'T BE AFRAID OF ME"（我要把你传送到前方，别害怕我）'''。
+<h2> 杂项 </h2>
+* '''D-200''' 即使在 Boss 战结束后仍会生成，此时它会成为一个普通实体。
+* '''D-200''' 在 NVCS 中的昵称曾显示为 "Dementia"，但后来被更改，现在显示的是他真正的昵称 "Dementor"。
+* 如果玩家没有进入 Boss 战房间，玩家会被传送，并显示消息 '''"I'M TELEPORTING YOU TO THE FRONT, DON'T BE AFRAID OF ME"（我要把你传送到前面，不要害怕我）'''。
 
 <h2> 跳杀消息 </h2>
-* '''I DON'T HAVE TO SAY ANYTHING, YOU'RE ALREADY DEAD, I DID MY JOB.（我什么都不必说，你已经死了，我的任务完成了。）'''
-* '''LOUD DOES NOT EQUAL SCARY.（吵不等于吓人。）'''
-* '''I DON'T CARE ABOUT YOUR FLASHY JUMPSCARES.（我才不在乎你那些花里胡哨的跳杀。）'''
+* '''I DON'T HAVE TO SAY ANYTHING, YOU'RE ALREADY DEAD, I DID MY JOB.（我什么都不用说，你已经死了，我完成了我的工作。）'''
+* '''LOUD DOES NOT EQUAL SCARY.（大声不等于吓人。）'''
+* '''I DON'T CARE ABOUT YOUR FLASHY JUMPSCARES.（我不在乎你那些花里胡哨的跳杀。）'''
 
 <h2> 画廊 </h2>
 <gallery>
-D200jump.webp|跳杀
+D200jump.jpg|跳杀
 </gallery>
 
 
 
-|-|Spike（尖刺）=
-'''Spike（尖刺）：'''
+|-|Spike=
+'''Spike：'''
 {{InfoBox:Entity
-|entity_name=Spike（尖刺）
+|entity_name=Spike
 |entity_image=<gallery>
-Spike.webp|设计
-D-200-SPK-OLD.webp|发布前设计
+Spike.png|设计
+D-200-SPK-OLD.png|发布前设计
 </gallery>
 |nicknames=SPK
-|behavior=生成于天花板，随后坠落试图碾压玩家。
+|behavior=生成在天花板上，随后落下试图碾碎玩家。
 |gun_effect=无
 |locker_snipe=否
 |claustrophobia=否
@@ -110,60 +110,61 @@ D-200-SPK-OLD.webp|发布前设计
 }}
 
 <h2> 描述 </h2>
-'''Spike（尖刺）'''或称'''D-200-SPK'''，是你在'''D-200的Boss战'''中会遭遇的4种仆从之一，会在第一阶段开始生成。
+'''Spike''' 或 '''D-200-SPK''' 是你在 '''D-200 的 Boss 战'''中会遇到的 4 个仆从之一。它会在第一阶段开始生成。
 
 <h2> 行为 </h2>
-'''Spike（尖刺）'''会从天花板钻出，悬挂数秒后坠落至地面，对坠落点附近的所有玩家造成伤害并使其进入布娃娃状态。'''Spike（尖刺）'''还会在其即将坠落的位置标记一个警示符号。
+'''Spike''' 会从天花板出现，悬挂几秒后落到地面，对落点附近的任何人造成伤害并使其进入布娃娃状态。'''Spike''' 还会在它将要落下的位置标记一个警报符号。
 
 <h2> 策略与提示 </h2>
 只需留意地面或天花板即可。
 
 
 
-|-|Alarm（警报器）=
-'''Alarm（警报器）：'''
+|-|Alarm=
+'''Alarm：'''
 {{InfoBox:Entity
-|entity_name=Alarm（警报器）
+|entity_name=Alarm
 |entity_image=<gallery>
-AlarmIdle.webp|待机设计
-AlarmScream.webp|尖叫设计
-D-200-RLA-OLD.webp|发布前待机设计
-D-200-RLA-SCREAM-OLD.webp|发布前尖叫设计
+AlarmIdle.png|闲置设计
+AlarmScream.png|尖叫设计
+D-200-RLA-OLD.png|发布前闲置设计
+D-200-RLA-SCREAM-OLD.png|发布前尖叫设计
 </gallery>
 |nicknames=RLA
-|behavior=若你在它附近停留过久，它便会发出尖叫，生成'''D-200'''。
+|behavior=如果你在它附近待得太久，它就会尖叫，生成 '''D-200'''。
 |speed=无
 |gun_effect=无
 |locker_snipe=
 |claustrophobia=否
 |type=生成者
 |damage=无
-|sound1=<center>环境音效</center><center>[[File:AlarmAmbi.mp3]]</center>
+|sound1=<center>环境音</center><center>[[File:AlarmAmbi.mp3]]</center>
+}}
 |sound2=<center>传送</center><center>[[File:AlarmTeleport.mp3]]</center>
 |sound3=<center>尖叫</center><center>[[File:AlarmScream.mp3]]</center>
 }}
 
-<h2>描述</h2>
-'''Alarm（警报者）''' 或称 '''D-200-RLA''' 是你在'''D-200的BOSS战'''中会遭遇的4个随从之一，它会在第一阶段开始生成。
+<h2> 描述 </h2>
+'''Alarm''' 或 '''D-200-RLA''' 是你在 '''D-200 的 Boss 战'''中会遇到的 4 个随从之一。它将在第一阶段开始生成。
 
-<h2>行为</h2>
-'''Alarm（警报者）'''会传送到D-200房间内的随机位置，保持静止数秒后再传送到其他位置。当它准备传送时，如果附近视野范围内存在任何玩家，它就会发出尖叫，并在此过程中生成'''D-200'''。
+<h2> 行为 </h2>
+'''Alarm''' 会传送到 D-200 房间内的随机位置，并在原地停留数秒后再传送到另一个位置。当它尝试传送时，如果有玩家在其视野附近范围内，它会尖叫并在此过程中生成 '''D-200'''。
 
-<h2>策略与提示</h2>
-尽快离开它的作用范围。
+<h2> 策略与提示 </h2>
+尽快远离它的范围。
 
 
 
 |-|Checker=
-'''Checker（检查者）：'''
+'''Checker:'''
 {{InfoBox:Entity
 |entity_name=Checker
 |entity_image=<gallery>
-Chaser.webp|设计图
-D-200-CHS-OLD.webp|发布前设计图
+Chaser.png|设计
+D-200-CHS-OLD.png|发布前设计
 </gallery>
 |nicknames=CKR
-|behavior=高亮单个柜子，数秒后出现在柜子前方并对其进行检查。
+|behavior=高亮一个柜子，数秒后出现在它面前并进行检查。
 |speed=无
 |gun_effect=无
 |locker_snipe=???
@@ -173,51 +174,51 @@ D-200-CHS-OLD.webp|发布前设计图
 |sound1=<center>传送</center><center>[[File:CheckerTeleport.mp3]]</center>
 }}
 
-<h2>描述</h2>
-'''Checker（检查者）''' 或称 '''D-200-CKR''' 是你在'''D-200的BOSS战'''中会遭遇的4个随从之一，它会在第二阶段开始生成。
+<h2> 描述 </h2>
+'''Checker''' 或 '''D-200-CKR''' 是你在 '''D-200 的 Boss 战'''中会遇到的 4 个随从之一。它将在第二阶段开始生成。
 
-<h2>行为</h2>
-'''Checker（检查者）'''会先播放一段短暂的[[D-200]]号角声，随后高亮一个随机柜子。柜子被高亮后不久，它就会检查该柜子然后消失，瞬间杀死所有躲在柜子里的玩家。
+<h2> 行为 </h2>
+'''Checker''' 会发出短暂的 [[D-200]] 号角声，随后高亮一个随机柜子。柜子被高亮后不久，它会检查该柜子并消失，立即杀死柜子里的任何人。
 
-<h2>策略与提示</h2>
-留意周围环境，在拉动各种柜子附近的拉杆时保持警惕。
+<h2> 策略与提示 </h2>
+留意周围环境，在拉动柜子附近的拉杆时要小心。
 
 
 
 |-|Chaser=
-'''Chaser（追逐者）'''
+'''Chaser'''
 {{InfoBox:Entity
 |entity_name=Chaser
 |entity_image=<gallery>
-Checker.webp|设计图
-D-200-CKR-OLD.webp|发布前设计图
+Checker.png|设计
+D-200-CKR-OLD.png|发布前设计
 </gallery>
 |nicknames=CHS
-|behavior=在随机位置生成，若玩家靠得太近就会追逐玩家。
-|speed= 慢于玩家奔跑速度
+|behavior=在随机位置生成，如果玩家靠得太近就会追赶玩家。
+|speed=比玩家奔跑速度慢
 |gun_effect=无
 |locker_snipe=???
 |claustrophobia=否
-|type=追逐者
+|type=追赶者
 |damage=40-50 每秒伤害
-|related_monsters=[https://rooms-low-detailed.fandom.com/wiki/G-235 旧版G-235 RLD]
-|sound1=<center>闲置环境音</center><center>[[File:ChaserIdleAmbi.mp3]]</center>
-|sound2=<center>追逐环境音</center><center>[[File:ChaserAngryAmbi.mp3]]</center>
+|related_monsters=[https://rooms-low-detailed.fandom.com/wiki/G-235 Old G-235 RLD]
+|sound1=<center>待机环境音</center><center>[[File:ChaserIdleAmbi.mp3]]</center>
+|sound2=<center>追赶环境音</center><center>[[File:ChaserAngryAmbi.mp3]]</center>
 }}
 
-<h2>描述</h2>
-'''Chaser（追逐者）''' 或称 '''D-200-CHS''' 是你在'''D-200的BOSS战'''中会遭遇的4个随从之一，它会在第三阶段开始生成。
+<h2> 描述 </h2>
+'''Chaser''' 或 '''D-200-CHS''' 是你在 '''D-200 的 Boss 战'''中会遇到的 4 个随从之一。它将在第三阶段开始生成。
 
-<h2>行为</h2>
-'''Chaser（追逐者）'''会在房间周围的随机位置生成，并且会保持静止直到BOSS战结束。如果有任何人进入它的范围，'''Chaser（追逐者）'''会立刻开始加速追逐玩家，靠得太近时就会对玩家造成伤害。如果你持续靠近它，它最终会以超过玩家奔跑的速度追逐玩家，直到将你杀死。
+<h2> 行为 </h2>
+'''Chaser''' 会在房间周围的随机位置生成，并保持静止直到 Boss 战结束。如果有人进入其范围，'''Chaser''' 会立即开始加速追赶玩家，如果靠得太近就会对玩家造成伤害。如果你不断靠近它，它最终会以比玩家奔跑更快的速度追赶玩家，直到杀死你。
 
-<h2>策略与提示</h2>
-务必不惜一切代价避免靠近它，因为你靠得越近，它的加速度就越高，最终速度会超过你。
+<h2> 策略与提示 </h2>
+不惜一切代价避免靠近它，因为你靠得越近，它加速得越快，最终速度会超过你。
 
 </tabber>
 
-<h2>徽章</h2>
-{{BadgeSectionD|Image=ProtocolProcedureBadge.webp|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure 协议流程]|Description=离开D-200房间。|Obtainment=击败'''D-200'''的BOSS战。}}
+<h2> 徽章 </h2>
+{{BadgeSectionD|Image=ProtocolProcedureBadge.png|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure 协议程序]|Description=离开 D-200 房间。|Obtainment=击败 '''D-200''' 的 Boss 战。}}
 
 {{EntityNavBoxSectionD}}
 [[Category:Entities]]

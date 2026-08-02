@@ -40,17 +40,18 @@ M60i15.png|15th Face
 '''M-60i''' is one of the many I variants within [[Section M]], it is the I variant of [[M-60]], more info below.
 
 ==Behavior==
-When '''M-60i''' spawns, [[Oblivion]] will mark and highlight all lockers '''M-60i''' does not intend to check with a red "✓'. Then, '''M-60i''' will rush to the main room, checking rooms with players and ones surrounding them. Once '''M-60i''' has checked all unmarked lockers, he will accelerate to the main room then fallback to the '''Void Wall''', where he will despawn, acting very similarly to [[A-135i]] but only rebounding once.
+When '''M-60i''' spawns, it will mark and highlight all lockers it does not intend to check with a red "✓'. Then, '''M-60i''' will rush to the main room and check rooms with players and ones surrounding them. Once '''M-60i''' has checked all unmarked lockers he will accelerate to the main room then fallback to the '''Void Wall''' where he will despawn.
 
 ==Strategy & Tips==
 * If you hear the sound of multiple lockers being marked when opening a door, you should know that its '''M-60i''' coming. So quickly go to a marked locker and hide in it.
-* Don't be an idiot. If '''M-60i''' spawns, just hide in the marked locker. Don't try to outrun '''M-60i''' by rushing forward, this will only cause '''M-60i''' to check even more lockers and kill you. If you're in a hurry, at least use a safe spot so you can instantly return to rush once '''M-60i''' finish checking the lockers.
-* '''M-60i''' used to not kill the player in unmarked lockers, however, that was recently patched. 
+* Don't be an idiot. If '''M-60i''' spawns just hide in the marked locker. Don't try to outrun '''M-60i''' by rushing forward as this will only cause '''M-60i''' to check even more lockers and kill you. If you're in a hurry at least use a safe spot so you can instantly return to rush once '''M-60i''' finish checking lockers.
+* '''M-60i''' used to not kill the player in unmarked lockers, however, this has been patched. 
 
 == Trivia ==
 * '''M-60i''' has 1 in 30 chance to replace [[M-60]] when [[M-60]] attempts to spawn.
 * '''M-60i'''<nowiki/>'s name is "<span style="text-shadow: 0 0 4px red; color:black;">Mediator</span>".
-* Lockers won't be marked by [[Oblivion]] during any Perfection Event, due to [[Overseer]] taking their place for the events.
+* <s>Lockers won't be marked by [[Oblivion]] during any Perfection Event due to [[Overseer]] taking their place for the events.</s>
+** This is no longer true as '''M-60i''' marks the lockers himself.
 
 ==Gallery==
 <gallery>

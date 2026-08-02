@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mori</Span>}}
-{{ArticleBackground|File=Unnamed_.webp}}{{InfoBox:Entity
-|entity_name=[[File:Morb.webp|frameless|link=Mori]]
+{{ArticleBackground|File=Unnamed .png}}{{InfoBox:Entity
+|entity_name=[[File:Morb.gif|frameless|link=Mori]]
 |entity_image=<gallery>
 IdleMori.webp|外观设计
 JumpMori.webp|跳杀面部
@@ -15,7 +15,7 @@ JumpMori.webp|跳杀面部
 |behavior=
 |speed=取决于玩家与它的距离
 |damage=秒杀
-|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[D-35]]<br>[[E-30]]
+|related_monsters=[[Mortis]]<br>[[A-20]]<br>[[A-20i]]<br>[[A-85]]<br>[[D-35]]<br>[[E-30]]
 |caption-entity_image=:Skull:
 |sound1=<center>生成音效（'''无名区域'''）</center><center>[[File:Unnamedflicker.mp3]]</center>
 |sound2=<center>生成音效（'''500号房间后'''）</center><center>[[File:MoriSpawn.mp3]]</center>
@@ -36,13 +36,17 @@ JumpMori.webp|跳杀面部
 
 * 在100号房间之后，它有概率从正面发起攻击
 
-* 在???号房间之后，它有概率变为[[Rebounder|反弹者]]，先冲向门，随后后退，再冲回主房间
+* 在150号房间之后，它有概率变为[[Rebounder|反弹者]]，先冲向门，随后后退，再冲回主房间
 
 ==应对策略==
 * 听到它的环境音时直接躲藏即可。
 
 ==冷知识==
 当你通过500号房间之后，Mori可以侵入无名区域以外的位置。
+
+Mori的外观及其跳杀使用了商城素材。
+
+[https://create.roblox.com/store/asset/11837394830/fatality-Fanmade-Give-me-credits?keyword=doors+entity&pagePosition=2 外观设计] 与 [https://create.roblox.com/store/asset/11837451869/fatality-jumpscare-Fanmade-Give-me-credits?keyword=doors+entity&pagePosition=0 跳杀设计]
 
 {{EntityNavBox}}
 [[Category:Entities]]

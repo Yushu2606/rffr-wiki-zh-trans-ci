@@ -1,5 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px lime, -1.5px 0.66px 2px lime; color:black;">Glongoflorp-60</span>}}
 {{ArticleBackground|File=MBackground.jpg}}
+{{Admin Exclusive}}
 {{InfoBox:Entity|entity_name=Glongoflorp-60
 |entity_image=gflorp-60.png
 |appears_at=Only by Admins
@@ -30,7 +31,7 @@ When its spawned by an admin. It will play a boom sound before rushing to the cu
 * hide immediately after you see its screenshake, since it doesn't extend [[Claustrophobia]].
 
 == Trivia ==
-* '''Glongoflorp-60's''' design uses [[w:c:r-interminable-rooms:U-10#Original|Hoax U-10]] from Interminable Rooms, but hue shifted to green
+* '''Glongoflorp-60's''' design uses [https://r-interminable-rooms.fandom.com/wiki/U-10#Original|Hoax U-10] from Interminable Rooms, but hue shifted to green
 
 == Gallery ==
 <gallery>
@@ -38,6 +39,5 @@ Placeholder.webp
 </gallery>
 
 {{EntityNavBoxAdmin}}
-
 [[Category:Entities]]
 [[Category:Admin Entities]]

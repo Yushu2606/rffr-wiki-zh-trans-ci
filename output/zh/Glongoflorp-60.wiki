@@ -1,7 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px lime, -1.5px 0.66px 2px lime; color:black;">Glongoflorp-60</span>}}
-{{ArticleBackground|File=MBackground.webp}}
+{{ArticleBackground|File=MBackground.jpg}}
+{{Admin Exclusive}}
 {{InfoBox:Entity|entity_name=Glongoflorp-60
-|entity_image=Gflorp-60.webp
+|entity_image=gflorp-60.png
 |appears_at=仅可由Admin召唤生成
 |nicknames=Joke M-60
 |behavior=与[[M-60]]行为完全一致，区别是Oblivion不会在它打算检查的柜子上标记叉号
@@ -30,7 +31,7 @@ Glongoflorp-60看起来是一张带有荧光绿描边的脸，神情悲伤，长
 * 看到屏幕晃动时立刻躲藏，因为它不会触发[[Claustrophobia|幽闭恐惧]]。
 
 == 冷知识 ==
-* '''Glongoflorp-60'''的设计参考自《Interminable Rooms》的[[w:c:r-interminable-rooms:U-10#Original|虚构U-10]]，仅将色相调整为绿色。
+* '''Glongoflorp-60'''的设计参考自《Interminable Rooms》的[https://r-interminable-rooms.fandom.com/wiki/U-10#Original|虚构U-10]，仅将色相调整为绿色。
 
 == 画廊 ==
 <gallery>
@@ -38,6 +39,5 @@ Placeholder.webp
 </gallery>
 
 {{EntityNavBoxAdmin}}
-
 [[Category:Entities]]
 [[Category:Admin Entities]]

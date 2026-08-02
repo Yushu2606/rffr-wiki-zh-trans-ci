@@ -16,6 +16,7 @@ When starting a new '''Alpha & Shadowpocalypse''' game from room 0, nothing will
 * The section you pick can be useful depending on the type of survivability you desire.
 ** If you are looking for items, [[Section D]] will be the better option. It can be more useful as there is a higher chance of getting V-Boosters and other healing [[items]], that can be used to tank [[Claustrophobia]] during tricky situations, such as combos in the [[Red Rooms]].
 ** If you are looking for safe spots, [[Section A]] will be the better option. Although you will get less items, you don't have to worry about [[Claustrophobia]] as much. The rooms in this section are shorter than the other sections, so using this section to try and beat this gamemode as fast as possible is viable.
+** If you are looking for a quiet environment, Section E will be the choice, be careful of the memory leak though, since memory leak can ruin your run.
 ***Be careful if you are using a safespot against [[SHA-120]] though, as it has a huge range, causing it to see safespots that rely on the entity's short range to work. Make sure it is far enough from it or all the sides are blocked off.
 * When [[SHA-120]] spawns, beware of additional screenshake, as [[SHA-2]] can also spawn with [[SHA-120]]. To easily detect the screenshake, try to see if the screen is shaking more than normal when [[SHA-120]] is not making the drum noises.
 *[[SHA-2]], [[SHA-4]] and [[SHA-300]] block the door from opening, so don't rush and confuse [[SHA-2]] with [[SHA-4]] or [[SHA-300]].

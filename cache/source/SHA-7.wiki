@@ -40,7 +40,8 @@ For it to Despawn, it has to travel atleast 14 rooms, while also having to be ac
 * Progress only when '''SHA-7''' has his face closed, since the whispering sounds he makes when his face is open will make hearing other entities nearly impossible.
 
 == Trivia ==
-* Once you reach [[Red Rooms]],  '''SHA-7''' wont despawn until you reach room 1000. Good Luck.
+* <s>Once you reach [[Red Rooms]],  '''SHA-7''' wont despawn until you reach room 1000. Good Luck.</s>
+* ⬆️ actually, this is a bug, as kev has confirmed. The eternal until end of red rooms maybe removed in the next patch<sup>[proof of removal needed]</sup>
 * '''SHA-7''' is one of the two shadow infected entities without a currently active uninfected counterpart, the other being [[SHA-180]].
 * There may only be 1 '''SHA-7''' active at a time.
 * '''SHA-7''' can invade by itself during any Perfection Event

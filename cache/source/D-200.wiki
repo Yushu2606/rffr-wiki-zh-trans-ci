@@ -39,7 +39,7 @@ D200.png|Older Design
 |next_entity=[[D-250]]
 |nicknames=Dementor<br>"Dementia"
 |behavior=Spawns from the front, starts rushing backwards. Targeting any players not hiding.
-|speed=Fast
+|speed=Hyperspeed (18.6 to 18.65 rooms per second) (1,116 to 1,119 studs per second)
 |gun_effect=None
 |locker_snipe=Yes
 |claustrophobia=Yes

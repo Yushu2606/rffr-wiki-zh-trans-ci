@@ -1,29 +1,29 @@
-{{ArticleBackground|File=MultiSectional.webp}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: black;">Jimmy</span>}}
 {{InfoBox:Entity
 |entity_name=Jimmy
-|entity_image=Jimmy.webp
+|entity_image=Jimmy.png
 |appears_at=A-0001之后任意时间
 |behavior=结识新朋友
-|speed=静止者
+|speed=固定者<br>被动
 |gun_effect=无
 |damage=无
 |badges=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy Hi Jimmy]
-|sound1=<center>嘶嘶声</center><center>[[File:JimmyHiss.mp3]]</center>}}
+|sound1=<center>嘶嘶声</center><center>[[File:JimmyHiss.mp3]]</center>|type=固定者<br>}}
 
 == 描述 ==
-Jimmy是可在任意区生成的实体，生成概率为1/2000。
+'''Jimmy'''是可在任意区生成的实体，生成概率为1/2000。
 
 == 外观 ==
-Jimmy的外观是一张颜色极深的脸，眼睛为非常小的白色瞳孔，头部并非纯黑色，带有部分灰色调与透明效果。
+'''Jimmy'''的外观是一张颜色极深的脸，眼睛为非常小的白色瞳孔，头部并非纯黑色，带有部分灰色调与透明效果。
 
 == 行为 ==
-当你打开A-000之后的任意一扇门时，有1/2000的概率会在门后遇到Jimmy，它会发出非常响亮的嘶嘶声，随后消失。
+当你打开A-000之后的任意一扇门时，有1/2000的概率会在门后遇到'''Jimmy'''，它会发出非常响亮的嘶嘶声，随后消失。
 
 == 冷知识 ==
-* 柜子Jimmy已被Removed
+* 柜子'''Jimmy'''已在某次未知更新中被Removed。
 
-{{Badge|Image=Hi_Jimmy_(Badge).webp|Name=Hi Jimmy|Description=好吧，这完全没必要。|Obtainment=被Jimmy跳吓。}}
+{{Badge|Image=Hi Jimmy (Badge).png|Name=Hi Jimmy|Description=好吧，这完全没必要。|Obtainment=被Jimmy跳吓。}}
 
 {{EntityNavBox}}
 
