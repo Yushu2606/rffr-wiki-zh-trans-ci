@@ -1812,6 +1812,19 @@
       "uploaded_as": "Announcementold.mp3",
       "uploaded_at": 1780459920
     },
+    "File:AntiESectionCarrying.jpg": {
+      "blob_sha256": "337a849082ce60c885559f4261592d250ff5a380469b22e7dd769b5d44952de2",
+      "mime": "image/jpeg",
+      "sha1": "689683d55ebbe1914d26b832ae1c11bf7783ce23",
+      "size": 106273,
+      "upload_info": {
+        "filename": "AntiESectionCarrying.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "AntiESectionCarrying.webp",
+      "uploaded_at": 1786301630
+    },
     "File:Anxiety.mp3": {
       "sha1": "8d10ef269122a03d2d975804ba734d4454e06516",
       "uploaded": true,
@@ -2466,6 +2479,19 @@
       "uploaded_as": "D-140.webp",
       "uploaded_at": 1780460342
     },
+    "File:D-140AnimRecreation.gif": {
+      "blob_sha256": "1c4900b0875c0399ba79042f471c804f91b569085f245f3642ab02b9c0094537",
+      "mime": "image/gif",
+      "sha1": "575045624bdc911756f0f0acd307deacdf086f1a",
+      "size": 1035323,
+      "upload_info": {
+        "filename": "D-140AnimRecreation.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-140AnimRecreation.webp",
+      "uploaded_at": 1786301634
+    },
     "File:D-140Despawn.mp3": {
       "sha1": "b767e0674bfd44f4c6dda7308dd4cb94f8690e0a",
       "uploaded": true,
@@ -2591,6 +2617,19 @@
       "uploaded": true,
       "uploaded_as": "D-175_in_a_Heavy_Blue_Locker.webp",
       "uploaded_at": 1784610501
+    },
+    "File:D-175 new.png": {
+      "blob_sha256": "55aadcf0eae95096e3b8a48a77c18776f33d17ecc0d2a5b12d49b00ed0493900",
+      "mime": "image/png",
+      "sha1": "51a19154b0705b5bc886e0414fec8d29ac4f3d0e",
+      "size": 123697,
+      "upload_info": {
+        "filename": "D-175_new.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-175_new.webp",
+      "uploaded_at": 1786301638
     },
     "File:D-175 sound.mp3": {
       "mime": "audio/mpeg",
@@ -2790,6 +2829,32 @@
       "uploaded_as": "D-35TempJumpscare.mp3",
       "uploaded_at": 1780460545
     },
+    "File:D-35UpcomingFrame1.png": {
+      "blob_sha256": "fcac290a17fdfa61f3a44318363ea483d2124287eb48cc479e4a708b8f628fde",
+      "mime": "image/png",
+      "sha1": "407d8a59b8e296223a73a14f13ff7c4399c13222",
+      "size": 339760,
+      "upload_info": {
+        "filename": "D-35UpcomingFrame1.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-35UpcomingFrame1.webp",
+      "uploaded_at": 1786301642
+    },
+    "File:D-35UpcomingFrame2.png": {
+      "blob_sha256": "a55ea7bb907946f0ccfbc8bb57fd2aff82f89d13048a26b19bf32dea468e092a",
+      "mime": "image/png",
+      "sha1": "2dc09d767e1d6b591233e9266d2fc3f6af6d2db0",
+      "size": 402041,
+      "upload_info": {
+        "filename": "D-35UpcomingFrame2.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-35UpcomingFrame2.webp",
+      "uploaded_at": 1786301646
+    },
     "File:D-35i scary.gif": {
       "sha1": "f5a261e5f3c90b2dd1df2e2ce60c3694f89a73a3",
       "uploaded": true,
@@ -2825,6 +2890,32 @@
       "uploaded": true,
       "uploaded_as": "D-35iRedesign.webp",
       "uploaded_at": 1780460567
+    },
+    "File:D-35iUpcomingFrame1.png": {
+      "blob_sha256": "353f9b612d036a7fabe314c0ae712422f59c2d5aa29f118b6122c34f1c044672",
+      "mime": "image/png",
+      "sha1": "76df9b16b09dc46dda248aa88a11735678025200",
+      "size": 507191,
+      "upload_info": {
+        "filename": "D-35iUpcomingFrame1.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-35iUpcomingFrame1.webp",
+      "uploaded_at": 1786301650
+    },
+    "File:D-35iUpcomingFrame2.png": {
+      "blob_sha256": "cb1e5f1a137025919d4aa05f43c44a190e7d49a4f25929aa014ec640d0adc89f",
+      "mime": "image/png",
+      "sha1": "fd1dc1263f658fc76af54eaa7604b3a126e43571",
+      "size": 562933,
+      "upload_info": {
+        "filename": "D-35iUpcomingFrame2.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "D-35iUpcomingFrame2.webp",
+      "uploaded_at": 1786301653
     },
     "File:D-35ii.webp": {
       "sha1": "2f1a437e5fb245b74ef2be17b74a5c590e2cce97",
@@ -7107,10 +7198,17 @@
       "uploaded_at": 1784610901
     },
     "File:Kevin.png": {
-      "sha1": "99bd653c49e7700ebc6e4d9941d66da0ea4b9e36",
+      "blob_sha256": "d9b48f81a692de77858eea0b341ccb4fc40c392ff2b7f6a161134905b6414130",
+      "mime": "image/png",
+      "sha1": "7f1ab3d3646ef298bdba92fff47c71c82d679a6a",
+      "size": 213285,
+      "upload_info": {
+        "filename": "Kevin.webp",
+        "result": "Success"
+      },
       "uploaded": true,
       "uploaded_as": "Kevin.webp",
-      "uploaded_at": 1780462967
+      "uploaded_at": 1786301658
     },
     "File:Knock.mp3": {
       "sha1": "2a1e64a4a76062fe54f8d5b5470e4c309ae2787a",
@@ -7707,6 +7805,19 @@
       "uploaded": true,
       "uploaded_as": "M-120.webp",
       "uploaded_at": 1780463295
+    },
+    "File:M-120JumpAnim.gif": {
+      "blob_sha256": "723839a9cd99069beb5a9ea251c7b0f65e494844d237360dc9a015c8bcb68cfc",
+      "mime": "image/gif",
+      "sha1": "903b9d1d3b2fb64ab1a6834a726fea0becabffa4",
+      "size": 213042,
+      "upload_info": {
+        "filename": "M-120JumpAnim.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "M-120JumpAnim.webp",
+      "uploaded_at": 1786301662
     },
     "File:M-120Mimic.mp3": {
       "sha1": "ddd100ae60d56f4368e17f9e9917a81242fc258e",
@@ -8765,6 +8876,32 @@
       "uploaded_as": "Mouthspawn.mp3",
       "uploaded_at": 1780464159
     },
+    "File:Mr-200 watching you.png": {
+      "blob_sha256": "e51a2dff4e821e1e5954e5d2dbc5aaaf6a8de7ec7bdea91b93b706ee0e8cd9ae",
+      "mime": "image/png",
+      "sha1": "78af46ca1e4a4ea7cc9e6509f80088ebff2a5d18",
+      "size": 782432,
+      "upload_info": {
+        "filename": "Mr-200_watching_you.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "Mr-200_watching_you.webp",
+      "uploaded_at": 1786301666
+    },
+    "File:Mrt.png": {
+      "blob_sha256": "0e26f8ea54475e59a3c1a0ca5c133755eeb8c666a4f848fe8e7cb40fd8892c9f",
+      "mime": "image/png",
+      "sha1": "e784ac4c1d4612150df7f2c33741ae2174eb4f87",
+      "size": 49929,
+      "upload_info": {
+        "filename": "Mrt.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "Mrt.webp",
+      "uploaded_at": 1786301670
+    },
     "File:MultiSectional.gif": {
       "sha1": "dd9f66aff9ad83571c48652bb6bdab65611c17c6",
       "uploaded": true,
@@ -9522,16 +9659,17 @@
       "uploaded_at": 1780464676
     },
     "File:OblivionMain.mp3": {
+      "blob_sha256": "82642ea32582b8f32b94acafa28ba39ed890060bbd3798e27c280a2ba984ab28",
       "mime": "audio/mpeg",
-      "sha1": "797c2f9b32b71e6dbf984c12af947a56b69761d8",
-      "size": 1200735,
+      "sha1": "215e240d35699b9a75dbe07d04319154165cd0cd",
+      "size": 809719,
       "upload_info": {
         "filename": "OblivionMain.mp3",
         "result": "Success"
       },
       "uploaded": true,
       "uploaded_as": "OblivionMain.mp3",
-      "uploaded_at": 1780464685
+      "uploaded_at": 1786301674
     },
     "File:OblivionScreen.png": {
       "mime": "image/png",
@@ -11981,6 +12119,32 @@
       "uploaded_as": "SHA7Closed.webp",
       "uploaded_at": 1780465701
     },
+    "File:SHA7Face.png": {
+      "blob_sha256": "17c986476178a267b37903d2c7817700cc8ac20c0bec3a86925338ac2a48a0f8",
+      "mime": "image/png",
+      "sha1": "2cefa1e49f34affd64618af90b58efc5c891ae72",
+      "size": 46547,
+      "upload_info": {
+        "filename": "SHA7Face.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "SHA7Face.webp",
+      "uploaded_at": 1786301678
+    },
+    "File:SHA7Main.png": {
+      "blob_sha256": "0d0d64c3bb1ba77c5ac7e7f5443824dccb0dbb397562e3f57ad759181e006729",
+      "mime": "image/png",
+      "sha1": "bd44d8c4a66858c17f395a4c51f9d24f5279ae82",
+      "size": 32465,
+      "upload_info": {
+        "filename": "SHA7Main.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "SHA7Main.webp",
+      "uploaded_at": 1786301682
+    },
     "File:SHA7OPENED.gif": {
       "mime": "image/gif",
       "sha1": "aeb1b5ea5f986cd42c8073c5b59c8c96dca3417a",
@@ -11992,6 +12156,32 @@
       "uploaded": true,
       "uploaded_as": "SHA7OPENED.webp",
       "uploaded_at": 1780465705
+    },
+    "File:SHA7Split1.png": {
+      "blob_sha256": "c2707eeeea4c2975110be6e792171868f2134520c78e79f3f69f9422d953ff22",
+      "mime": "image/png",
+      "sha1": "360ae675ed56364479f51cf4e6b2276fba1029eb",
+      "size": 52478,
+      "upload_info": {
+        "filename": "SHA7Split1.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "SHA7Split1.webp",
+      "uploaded_at": 1786301686
+    },
+    "File:SHA7Split2.png": {
+      "blob_sha256": "f2fd3117e134d7d8dfa7bfab309326f520b93de9d0667ef027c759c50141ec33",
+      "mime": "image/png",
+      "sha1": "a8b4aca74955c2f74a7b702dce53ab217033c897",
+      "size": 46946,
+      "upload_info": {
+        "filename": "SHA7Split2.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "SHA7Split2.webp",
+      "uploaded_at": 1786301690
     },
     "File:SHA7Whispers.mp3": {
       "mime": "audio/mpeg",
@@ -12076,6 +12266,19 @@
       "uploaded": true,
       "uploaded_as": "Salvage.webp",
       "uploaded_at": 1780465727
+    },
+    "File:Sammy.png": {
+      "blob_sha256": "b2329a2fd3151aa76009ca1d14842eedacdf078a155998f04cae43501f7ef14e",
+      "mime": "image/png",
+      "sha1": "41c29e6761ec927bc8829cd4efe8685fb5b77766",
+      "size": 295222,
+      "upload_info": {
+        "filename": "Sammy.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "Sammy.webp",
+      "uploaded_at": 1786301694
     },
     "File:ScareD-120aaa.gif": {
       "mime": "image/gif",
@@ -17123,10 +17326,10 @@
   "pages": {
     "A-120": {
       "last_published": {
-        "published_at": 1785179965,
-        "target_hash": "c32f8615f349829c715a14fc2c2d0aab6d92c16e0832d24759c6011294e60ead",
-        "target_revid": 3056,
-        "translation_hash": "c32f8615f349829c715a14fc2c2d0aab6d92c16e0832d24759c6011294e60ead"
+        "published_at": 1786301490,
+        "target_hash": "aba11d416d65b66d25172808ee67d4cafec90e4734e1cf3dbd778932e4fb5083",
+        "target_revid": 3107,
+        "translation_hash": "aba11d416d65b66d25172808ee67d4cafec90e4734e1cf3dbd778932e4fb5083"
       },
       "source": {
         "fetched_at": 1786301201,
@@ -17134,9 +17337,9 @@
         "revid": 14152
       },
       "target": {
-        "fetched_at": 1785179965,
-        "hash": "7d87bc6b46f1d7562a61b10af61e99505042cda9343382bb94e537564bee501d",
-        "revid": 3048,
+        "fetched_at": 1786301489,
+        "hash": "c32f8615f349829c715a14fc2c2d0aab6d92c16e0832d24759c6011294e60ead",
+        "revid": 3056,
         "title": "A-120"
       },
       "translation": {
@@ -17243,10 +17446,10 @@
     },
     "A-200": {
       "last_published": {
-        "published_at": 1784968098,
-        "target_hash": "75e182ab9935449d75ab91ce9327366a9db4eb1e35eceb14d838de3fa9cee4be",
-        "target_revid": 2838,
-        "translation_hash": "75e182ab9935449d75ab91ce9327366a9db4eb1e35eceb14d838de3fa9cee4be"
+        "published_at": 1786301493,
+        "target_hash": "72a90cc690cd4cd200cd7ec8f63d87a9cb5432c0f3775691fbbb37e7f4ec4497",
+        "target_revid": 3108,
+        "translation_hash": "72a90cc690cd4cd200cd7ec8f63d87a9cb5432c0f3775691fbbb37e7f4ec4497"
       },
       "source": {
         "fetched_at": 1786301140,
@@ -17254,9 +17457,9 @@
         "revid": 14184
       },
       "target": {
-        "fetched_at": 1784968098,
-        "hash": "982423293895a876323b911e1fe3c81a045acbce2b658eebe7b2e95f05ba3347",
-        "revid": 2824,
+        "fetched_at": 1786301493,
+        "hash": "75e182ab9935449d75ab91ce9327366a9db4eb1e35eceb14d838de3fa9cee4be",
+        "revid": 2838,
         "title": "A-200"
       },
       "translation": {
@@ -17278,9 +17481,9 @@
         "revid": 14170
       },
       "target": {
-        "fetched_at": 1784968102,
-        "hash": "cdce5d057b4ac151addb537f9d693d816f51a7b5ae7833e237429a9cbf21efec",
-        "revid": 2825,
+        "fetched_at": 1786301497,
+        "hash": "14eee975c71e48a0019ee59dd57fb05003e07e38d2e39507e1e58a7a2ce98bb5",
+        "revid": 3041,
         "title": "A-200i"
       },
       "translation": {
@@ -17555,10 +17758,10 @@
     },
     "Badges": {
       "last_published": {
-        "published_at": 1784968156,
-        "target_hash": "a4788fb52dfb7d58fecfa33076d57d38b2673557561cac548d07edfe5254ad8d",
-        "target_revid": 2850,
-        "translation_hash": "a4788fb52dfb7d58fecfa33076d57d38b2673557561cac548d07edfe5254ad8d"
+        "published_at": 1786301501,
+        "target_hash": "b23cd077423eb13e31f88efa787ad363e267fdd02ed2cad3b6017396ab327866",
+        "target_revid": 3109,
+        "translation_hash": "b23cd077423eb13e31f88efa787ad363e267fdd02ed2cad3b6017396ab327866"
       },
       "source": {
         "fetched_at": 1786301271,
@@ -17566,9 +17769,9 @@
         "revid": 14131
       },
       "target": {
-        "fetched_at": 1784968154,
-        "hash": "bffcdc0491b75ec17d4cb5f7bfa8ca5dbeb259d833b3b6a64adc6ee1af46d495",
-        "revid": 2515,
+        "fetched_at": 1786301500,
+        "hash": "a4788fb52dfb7d58fecfa33076d57d38b2673557561cac548d07edfe5254ad8d",
+        "revid": 2850,
         "title": "Badges"
       },
       "translation": {
@@ -19582,9 +19785,9 @@
         "revid": 14056
       },
       "target": {
-        "fetched_at": 1785115524,
-        "hash": "fd3665ad1fe203c1b1e8dd486947b1fc3629c5cd5939b1f5ae3d7423892f48a5",
-        "revid": 2857,
+        "fetched_at": 1786301504,
+        "hash": "50d39e783847e1f70c0c25c80fbc0e9014697a3722d4067d4a1d36e24c14e3be",
+        "revid": 3043,
         "title": "D-140"
       },
       "translation": {
@@ -19619,10 +19822,10 @@
     },
     "D-175": {
       "last_published": {
-        "published_at": 1784968191,
-        "target_hash": "d7aa04ce759a46b130ba50d968f078f5584281ece8e76ff3824bca7b29cd80ef",
-        "target_revid": 2859,
-        "translation_hash": "d7aa04ce759a46b130ba50d968f078f5584281ece8e76ff3824bca7b29cd80ef"
+        "published_at": 1786301508,
+        "target_hash": "a53b37387413b22090659d5ce921c0cb27683a32f00d4d8a1379978e1eaf7b5a",
+        "target_revid": 3110,
+        "translation_hash": "a53b37387413b22090659d5ce921c0cb27683a32f00d4d8a1379978e1eaf7b5a"
       },
       "source": {
         "fetched_at": 1786301094,
@@ -19630,9 +19833,9 @@
         "revid": 14181
       },
       "target": {
-        "fetched_at": 1784968190,
-        "hash": "f6f2ca32912b5c7d08c8479bca90a464527f7d89a655672e89bebb6fb96a568c",
-        "revid": 2519,
+        "fetched_at": 1786301507,
+        "hash": "d7aa04ce759a46b130ba50d968f078f5584281ece8e76ff3824bca7b29cd80ef",
+        "revid": 2859,
         "title": "D-175"
       },
       "translation": {
@@ -19787,10 +19990,10 @@
     },
     "D-35": {
       "last_published": {
-        "published_at": 1784968218,
-        "target_hash": "1efa9fbaadb5ed991c4b16da9907deb154480649680c7b14eb3d62d8a16a107c",
-        "target_revid": 2866,
-        "translation_hash": "1efa9fbaadb5ed991c4b16da9907deb154480649680c7b14eb3d62d8a16a107c"
+        "published_at": 1786301511,
+        "target_hash": "597c5a8893038ada68c9d93b9e695c56985c1c3eef183ee4f623ae47ba71e242",
+        "target_revid": 3111,
+        "translation_hash": "597c5a8893038ada68c9d93b9e695c56985c1c3eef183ee4f623ae47ba71e242"
       },
       "source": {
         "fetched_at": 1786301130,
@@ -19798,9 +20001,9 @@
         "revid": 14138
       },
       "target": {
-        "fetched_at": 1784968217,
-        "hash": "ac61c98f8dd663297b75eead691fd08bd0ef6c3c53803a8deadbc75bbab1ba67",
-        "revid": 2525,
+        "fetched_at": 1786301511,
+        "hash": "1efa9fbaadb5ed991c4b16da9907deb154480649680c7b14eb3d62d8a16a107c",
+        "revid": 2866,
         "title": "D-35"
       },
       "translation": {
@@ -19822,9 +20025,9 @@
         "revid": 14141
       },
       "target": {
-        "fetched_at": 1784968221,
-        "hash": "4825545337410f98d5538fa565fbec66c10ef593dc9c5c6336aa251eabbb07bf",
-        "revid": 248,
+        "fetched_at": 1786301515,
+        "hash": "128215671e153dbbbdecbc9b51780991fb18da957359cdb7d31b0f75547c620c",
+        "revid": 3044,
         "title": "D-35i"
       },
       "translation": {
@@ -19883,10 +20086,10 @@
     },
     "D-55": {
       "last_published": {
-        "published_at": 1784968233,
-        "target_hash": "05f5d6c3e51545aadcb8cccb87ee4886cf6c56264a987704af469e8e05a84725",
-        "target_revid": 2870,
-        "translation_hash": "05f5d6c3e51545aadcb8cccb87ee4886cf6c56264a987704af469e8e05a84725"
+        "published_at": 1786301518,
+        "target_hash": "9a41b81e936407072c114770f30d1af0241a47df125b0966dcd881c0fb0de114",
+        "target_revid": 3112,
+        "translation_hash": "9a41b81e936407072c114770f30d1af0241a47df125b0966dcd881c0fb0de114"
       },
       "source": {
         "fetched_at": 1786301099,
@@ -19894,9 +20097,9 @@
         "revid": 14194
       },
       "target": {
-        "fetched_at": 1784968233,
-        "hash": "f4705f519c1f6b206cf704cf254c4a67054bd566b93b01d1fece54254c2be239",
-        "revid": 2527,
+        "fetched_at": 1786301518,
+        "hash": "05f5d6c3e51545aadcb8cccb87ee4886cf6c56264a987704af469e8e05a84725",
+        "revid": 2870,
         "title": "D-55"
       },
       "translation": {
@@ -19979,10 +20182,10 @@
     },
     "D-60": {
       "last_published": {
-        "published_at": 1785134764,
-        "target_hash": "6949206492621fdb4521149f21d6b7e3fff4a3be6b500c568803d3c0af119595",
-        "target_revid": 3055,
-        "translation_hash": "6949206492621fdb4521149f21d6b7e3fff4a3be6b500c568803d3c0af119595"
+        "published_at": 1786301522,
+        "target_hash": "2ae8ad78093a60582e4bfce511a101430dd4876f4aa21c88f1a25921b6453660",
+        "target_revid": 3113,
+        "translation_hash": "2ae8ad78093a60582e4bfce511a101430dd4876f4aa21c88f1a25921b6453660"
       },
       "source": {
         "fetched_at": 1786301157,
@@ -19990,9 +20193,9 @@
         "revid": 14059
       },
       "target": {
-        "fetched_at": 1785134763,
-        "hash": "6ec408f2cfabe8c67710e49ac702be2052f5349f0e62f9f1d4af4f7802f463cf",
-        "revid": 3045,
+        "fetched_at": 1786301522,
+        "hash": "6949206492621fdb4521149f21d6b7e3fff4a3be6b500c568803d3c0af119595",
+        "revid": 3055,
         "title": "D-60"
       },
       "translation": {
@@ -20134,7 +20337,7 @@
         "revid": 14109
       },
       "target": {
-        "fetched_at": 1784968276,
+        "fetched_at": 1786301525,
         "hash": "fb32b43d44ebe6764b0207d603ffbbec7925b7e337c3670fc3df8752b2f6c38d",
         "revid": 1228,
         "title": "E-10"
@@ -20147,10 +20350,10 @@
     },
     "E-10i": {
       "last_published": {
-        "published_at": 1784968279,
-        "target_hash": "4bb34f88ba61b0c3fa4784f5fc05d7d41dfa9745b17ebe451daf3eb7ebc9385c",
-        "target_revid": 2879,
-        "translation_hash": "4bb34f88ba61b0c3fa4784f5fc05d7d41dfa9745b17ebe451daf3eb7ebc9385c"
+        "published_at": 1786301529,
+        "target_hash": "5658bf8190563cd7410f76fef28a5236a284f7a2bf252dbd57145388773a9750",
+        "target_revid": 3114,
+        "translation_hash": "5658bf8190563cd7410f76fef28a5236a284f7a2bf252dbd57145388773a9750"
       },
       "source": {
         "fetched_at": 1786301109,
@@ -20158,9 +20361,9 @@
         "revid": 14110
       },
       "target": {
-        "fetched_at": 1784968279,
-        "hash": "29685557613743427fcb6aa2dcb7a9019cc1bf2f66b36c5d915732a901cff398",
-        "revid": 2533,
+        "fetched_at": 1786301529,
+        "hash": "4bb34f88ba61b0c3fa4784f5fc05d7d41dfa9745b17ebe451daf3eb7ebc9385c",
+        "revid": 2879,
         "title": "E-10i"
       },
       "translation": {
@@ -20171,10 +20374,10 @@
     },
     "E-120": {
       "last_published": {
-        "published_at": 1784968283,
-        "target_hash": "80c5761aa2d1278230747b0cffac31b2f81a9d61cb7e7cbed0b7310d2ff03675",
-        "target_revid": 2880,
-        "translation_hash": "80c5761aa2d1278230747b0cffac31b2f81a9d61cb7e7cbed0b7310d2ff03675"
+        "published_at": 1786301533,
+        "target_hash": "71156b08bc190fcdab0b44d88972a84ef27a80be74b2586bb23db5159367c657",
+        "target_revid": 3115,
+        "translation_hash": "71156b08bc190fcdab0b44d88972a84ef27a80be74b2586bb23db5159367c657"
       },
       "source": {
         "fetched_at": 1786301109,
@@ -20182,9 +20385,9 @@
         "revid": 14169
       },
       "target": {
-        "fetched_at": 1784968283,
-        "hash": "eb5da7451bb29a4977b1ad1e20367752d80855c449a18b52f7bcff0e25e64278",
-        "revid": 2534,
+        "fetched_at": 1786301532,
+        "hash": "80c5761aa2d1278230747b0cffac31b2f81a9d61cb7e7cbed0b7310d2ff03675",
+        "revid": 2880,
         "title": "E-120"
       },
       "translation": {
@@ -20291,10 +20494,10 @@
     },
     "E-30i": {
       "last_published": {
-        "published_at": 1784968302,
-        "target_hash": "78fcb7834b5293674f51f5c8ac60f9fd4c34f7bd11d80d30314c53a1dc75de20",
-        "target_revid": 2884,
-        "translation_hash": "78fcb7834b5293674f51f5c8ac60f9fd4c34f7bd11d80d30314c53a1dc75de20"
+        "published_at": 1786301537,
+        "target_hash": "2f02a1cdb7df5a1d5cfd0b96243b48e9c5358466328ed72cadaf47f9e7256f47",
+        "target_revid": 3116,
+        "translation_hash": "2f02a1cdb7df5a1d5cfd0b96243b48e9c5358466328ed72cadaf47f9e7256f47"
       },
       "source": {
         "fetched_at": 1786301085,
@@ -20302,9 +20505,9 @@
         "revid": 14107
       },
       "target": {
-        "fetched_at": 1784968301,
-        "hash": "0ebec2ddd03ef6f8c7cf7264c5e3c384ddb379bb10c9eda0363f081bdf4f250f",
-        "revid": 2538,
+        "fetched_at": 1786301536,
+        "hash": "78fcb7834b5293674f51f5c8ac60f9fd4c34f7bd11d80d30314c53a1dc75de20",
+        "revid": 2884,
         "title": "E-30i"
       },
       "translation": {
@@ -20350,7 +20553,7 @@
         "revid": 14105
       },
       "target": {
-        "fetched_at": 1784968309,
+        "fetched_at": 1786301540,
         "hash": "c4a411725595497ee3516f2edda5155a12d8b8aad371a50bdae5042723bed8af",
         "revid": 1231,
         "title": "E-60"
@@ -20411,10 +20614,10 @@
     },
     "Entities": {
       "last_published": {
-        "published_at": 1785115535,
-        "target_hash": "e5ccb8ba7ebbda95133c5d40a2b2c8950adc6259ea9654616e0ef003d710f29d",
-        "target_revid": 3035,
-        "translation_hash": "e5ccb8ba7ebbda95133c5d40a2b2c8950adc6259ea9654616e0ef003d710f29d"
+        "published_at": 1786301544,
+        "target_hash": "c964e1de74cc4c7d68938dc1d01811a7f430005e55aec02e6a71bd507b5f1015",
+        "target_revid": 3117,
+        "translation_hash": "c964e1de74cc4c7d68938dc1d01811a7f430005e55aec02e6a71bd507b5f1015"
       },
       "source": {
         "fetched_at": 1786301397,
@@ -20422,7 +20625,7 @@
         "revid": 14192
       },
       "target": {
-        "fetched_at": 1785350960,
+        "fetched_at": 1786301543,
         "hash": "e5ccb8ba7ebbda95133c5d40a2b2c8950adc6259ea9654616e0ef003d710f29d",
         "revid": 3035,
         "title": "Entities"
@@ -20579,10 +20782,10 @@
     },
     "False-200": {
       "last_published": {
-        "published_at": 1785698806,
-        "target_hash": "b528886cd099e7e07d52120369e4cb0c38d2e328985a8c8ec931a20779b18cf7",
-        "target_revid": 3086,
-        "translation_hash": "b528886cd099e7e07d52120369e4cb0c38d2e328985a8c8ec931a20779b18cf7"
+        "published_at": 1786301548,
+        "target_hash": "6ddf86098a7940d6c04eee9f3384f27da36e1348215e96613f90fccfb18cc165",
+        "target_revid": 3118,
+        "translation_hash": "6ddf86098a7940d6c04eee9f3384f27da36e1348215e96613f90fccfb18cc165"
       },
       "source": {
         "fetched_at": 1786301088,
@@ -20590,9 +20793,9 @@
         "revid": 14116
       },
       "target": {
-        "fetched_at": 1785698805,
-        "hash": "98dda92fd70e8826b718e0ef24cc409a1848b5f3f1ec003dd51730b947b9d997",
-        "revid": 2894,
+        "fetched_at": 1786301548,
+        "hash": "b528886cd099e7e07d52120369e4cb0c38d2e328985a8c8ec931a20779b18cf7",
+        "revid": 3086,
         "title": "False-200"
       },
       "translation": {
@@ -20603,10 +20806,10 @@
     },
     "False-60": {
       "last_published": {
-        "published_at": 1784968352,
-        "target_hash": "bde6763492af07f840b5d94f3578b49b10521fc98a4b6409064e64cb101c72ae",
-        "target_revid": 2895,
-        "translation_hash": "bde6763492af07f840b5d94f3578b49b10521fc98a4b6409064e64cb101c72ae"
+        "published_at": 1786301552,
+        "target_hash": "035c8006a2597f8a23dd1956d2a65bd77e2ad41371a2510e2e7c76ffca6dc521",
+        "target_revid": 3119,
+        "translation_hash": "035c8006a2597f8a23dd1956d2a65bd77e2ad41371a2510e2e7c76ffca6dc521"
       },
       "source": {
         "fetched_at": 1786301105,
@@ -20614,9 +20817,9 @@
         "revid": 14074
       },
       "target": {
-        "fetched_at": 1784968352,
-        "hash": "8baf8217c5bfc37ff3a3f4eab624e1f354b1c49635ed6cc714b4f4ac92387d2e",
-        "revid": 2544,
+        "fetched_at": 1786301551,
+        "hash": "bde6763492af07f840b5d94f3578b49b10521fc98a4b6409064e64cb101c72ae",
+        "revid": 2895,
         "title": "False-60"
       },
       "translation": {
@@ -21059,10 +21262,10 @@
     },
     "M-120": {
       "last_published": {
-        "published_at": 1785179980,
-        "target_hash": "d0848c4d30b50fd049e550caf341d699c977eb99f00d94aadaae1e52bd64a52b",
-        "target_revid": 3059,
-        "translation_hash": "d0848c4d30b50fd049e550caf341d699c977eb99f00d94aadaae1e52bd64a52b"
+        "published_at": 1786301556,
+        "target_hash": "17443447618ff8ab2f5a7617cc6a71d0d95b192ae60369edb95e1317886e111e",
+        "target_revid": 3120,
+        "translation_hash": "17443447618ff8ab2f5a7617cc6a71d0d95b192ae60369edb95e1317886e111e"
       },
       "source": {
         "fetched_at": 1786301368,
@@ -21070,9 +21273,9 @@
         "revid": 14046
       },
       "target": {
-        "fetched_at": 1785179979,
-        "hash": "c3789e53dcc6f6373e3c6afeeb868c96020d01f7385c19b8e0890f2d4f72e744",
-        "revid": 2912,
+        "fetched_at": 1786301555,
+        "hash": "d0848c4d30b50fd049e550caf341d699c977eb99f00d94aadaae1e52bd64a52b",
+        "revid": 3059,
         "title": "M-120"
       },
       "translation": {
@@ -21155,10 +21358,10 @@
     },
     "M-200": {
       "last_published": {
-        "published_at": 1784968440,
-        "target_hash": "f7f53840ff52976acdffb65d961efe35386dc51ff8cbd5477f19e2f207809b17",
-        "target_revid": 2916,
-        "translation_hash": "f7f53840ff52976acdffb65d961efe35386dc51ff8cbd5477f19e2f207809b17"
+        "published_at": 1786301560,
+        "target_hash": "4e76cc5860162680f99a0e6b231e9dbc99579e293f776486dbe5954d24856b8b",
+        "target_revid": 3121,
+        "translation_hash": "4e76cc5860162680f99a0e6b231e9dbc99579e293f776486dbe5954d24856b8b"
       },
       "source": {
         "fetched_at": 1786301141,
@@ -21166,9 +21369,9 @@
         "revid": 14098
       },
       "target": {
-        "fetched_at": 1784968439,
-        "hash": "b59f6d6c8522a4a3673bd742c4cd26d1f8f6d137c34c0167c60ba0e502e9867f",
-        "revid": 2564,
+        "fetched_at": 1786301559,
+        "hash": "f7f53840ff52976acdffb65d961efe35386dc51ff8cbd5477f19e2f207809b17",
+        "revid": 2916,
         "title": "M-200"
       },
       "translation": {
@@ -21227,10 +21430,10 @@
     },
     "M-340": {
       "last_published": {
-        "published_at": 1784968452,
-        "target_hash": "d1fea8499f6f96330e2122708e0a355b7d478647742830c18f365792acd532fc",
-        "target_revid": 2919,
-        "translation_hash": "d1fea8499f6f96330e2122708e0a355b7d478647742830c18f365792acd532fc"
+        "published_at": 1786301563,
+        "target_hash": "af6510b39c279e49d21c275bd3a59d54f936a903588bda303cceccde7192af15",
+        "target_revid": 3122,
+        "translation_hash": "af6510b39c279e49d21c275bd3a59d54f936a903588bda303cceccde7192af15"
       },
       "source": {
         "fetched_at": 1786301078,
@@ -21238,9 +21441,9 @@
         "revid": 14187
       },
       "target": {
-        "fetched_at": 1784968451,
-        "hash": "5e9213daaa07397eb3ec04199a3fb9f19eac61229f532318d57cf1e659fd05c5",
-        "revid": 2567,
+        "fetched_at": 1786301563,
+        "hash": "d1fea8499f6f96330e2122708e0a355b7d478647742830c18f365792acd532fc",
+        "revid": 2919,
         "title": "M-340"
       },
       "translation": {
@@ -21251,10 +21454,10 @@
     },
     "M-60": {
       "last_published": {
-        "published_at": 1784968457,
-        "target_hash": "f83ef9474791e8adb237855819aa7861e9ebcc235357033cffa7fafa4a41967d",
-        "target_revid": 2920,
-        "translation_hash": "f83ef9474791e8adb237855819aa7861e9ebcc235357033cffa7fafa4a41967d"
+        "published_at": 1786301567,
+        "target_hash": "fe273c249bd3bb8f6d102beba32e4319a8bd606adce823c00db132950e71e0f0",
+        "target_revid": 3123,
+        "translation_hash": "fe273c249bd3bb8f6d102beba32e4319a8bd606adce823c00db132950e71e0f0"
       },
       "source": {
         "fetched_at": 1786301294,
@@ -21262,9 +21465,9 @@
         "revid": 14113
       },
       "target": {
-        "fetched_at": 1784968456,
-        "hash": "5e36cd550785d67ec3fbbc2bb5ca5c3e4087c1a378a40aa727be31e95b41229e",
-        "revid": 2827,
+        "fetched_at": 1786301567,
+        "hash": "f83ef9474791e8adb237855819aa7861e9ebcc235357033cffa7fafa4a41967d",
+        "revid": 2920,
         "title": "M-60"
       },
       "translation": {
@@ -21851,10 +22054,10 @@
     },
     "Mortis": {
       "last_published": {
-        "published_at": 1784968483,
-        "target_hash": "f04e98525600915df5ff614e7b8d6ffa0bf6a697c3cb0dee3608c2a5890889e6",
-        "target_revid": 2926,
-        "translation_hash": "f04e98525600915df5ff614e7b8d6ffa0bf6a697c3cb0dee3608c2a5890889e6"
+        "published_at": 1786301571,
+        "target_hash": "98c925d6223feeedd02b730102f84770b1b5733359a275f99dfdd1fcad958e6a",
+        "target_revid": 3124,
+        "translation_hash": "98c925d6223feeedd02b730102f84770b1b5733359a275f99dfdd1fcad958e6a"
       },
       "source": {
         "fetched_at": 1786301071,
@@ -21862,9 +22065,9 @@
         "revid": 14188
       },
       "target": {
-        "fetched_at": 1784968483,
-        "hash": "0cff5265a9f08eff5b3a51b992a6ce3247589ef18f9ab4d29dbfdf8f2e13a2c6",
-        "revid": 2572,
+        "fetched_at": 1786301571,
+        "hash": "f04e98525600915df5ff614e7b8d6ffa0bf6a697c3cb0dee3608c2a5890889e6",
+        "revid": 2926,
         "title": "Mortis"
       },
       "translation": {
@@ -21875,10 +22078,10 @@
     },
     "Mouth": {
       "last_published": {
-        "published_at": 1785698828,
-        "target_hash": "7b0c3a1f09e604f923a5170211aff85ac44ae3524d3670029bc859997a10a6c2",
-        "target_revid": 3092,
-        "translation_hash": "7b0c3a1f09e604f923a5170211aff85ac44ae3524d3670029bc859997a10a6c2"
+        "published_at": 1786301575,
+        "target_hash": "6029e7cd8b4b9ef12ceedcdd3ff86ebfc6df923e2944113de1a209d08491c8ac",
+        "target_revid": 3125,
+        "translation_hash": "6029e7cd8b4b9ef12ceedcdd3ff86ebfc6df923e2944113de1a209d08491c8ac"
       },
       "source": {
         "fetched_at": 1786301218,
@@ -21886,9 +22089,9 @@
         "revid": 14115
       },
       "target": {
-        "fetched_at": 1785698828,
-        "hash": "425120e48858512287bfb97ca1991931343eecb37bea29ef730c0b57205bf72c",
-        "revid": 2927,
+        "fetched_at": 1786301574,
+        "hash": "7b0c3a1f09e604f923a5170211aff85ac44ae3524d3670029bc859997a10a6c2",
+        "revid": 3092,
         "title": "Mouth"
       },
       "translation": {
@@ -21971,10 +22174,10 @@
     },
     "Overseer": {
       "last_published": {
-        "published_at": 1784968504,
-        "target_hash": "bb460ec2135383da3a7f5ad939a835f8349e00af08ff3cebea12c1f68aa70085",
-        "target_revid": 2931,
-        "translation_hash": "bb460ec2135383da3a7f5ad939a835f8349e00af08ff3cebea12c1f68aa70085"
+        "published_at": 1786301579,
+        "target_hash": "34f7130fcfd83ca4bc3e74d37d63938708799c80d1890172c759366ad7afe599",
+        "target_revid": 3126,
+        "translation_hash": "34f7130fcfd83ca4bc3e74d37d63938708799c80d1890172c759366ad7afe599"
       },
       "source": {
         "fetched_at": 1786301444,
@@ -21982,9 +22185,9 @@
         "revid": 14112
       },
       "target": {
-        "fetched_at": 1784968503,
-        "hash": "0b6686975579f66a40d7e9ad8af473f6bb99da0ff215af4e47c30859f140662c",
-        "revid": 285,
+        "fetched_at": 1786301578,
+        "hash": "bb460ec2135383da3a7f5ad939a835f8349e00af08ff3cebea12c1f68aa70085",
+        "revid": 2931,
         "title": "Overseer"
       },
       "translation": {
@@ -22198,7 +22401,7 @@
         "revid": 14190
       },
       "target": {
-        "fetched_at": 1785698836,
+        "fetched_at": 1786301582,
         "hash": "cce388fe1d6157d047f18dc1da59020559dde729679dafb0c4b103a5f8ccd582",
         "revid": 1644,
         "title": "Red Rooms"
@@ -22283,10 +22486,10 @@
     },
     "SHA-120": {
       "last_published": {
-        "published_at": 1784968547,
-        "target_hash": "3c1ed36037f1c648782b5e620ddd9e39f0850c654e18a0fe59ef9c1c74c9798e",
-        "target_revid": 2941,
-        "translation_hash": "3c1ed36037f1c648782b5e620ddd9e39f0850c654e18a0fe59ef9c1c74c9798e"
+        "published_at": 1786301586,
+        "target_hash": "94cb650660ec54f0a398440866fa685382338d477743b518049c01fc865cb3cf",
+        "target_revid": 3127,
+        "translation_hash": "94cb650660ec54f0a398440866fa685382338d477743b518049c01fc865cb3cf"
       },
       "source": {
         "fetched_at": 1786301119,
@@ -22294,9 +22497,9 @@
         "revid": 14047
       },
       "target": {
-        "fetched_at": 1784968546,
-        "hash": "03d2f4c98184fa7646a803abee99af68dcfa701b0577bea465c7d99b561741c6",
-        "revid": 2584,
+        "fetched_at": 1786301585,
+        "hash": "3c1ed36037f1c648782b5e620ddd9e39f0850c654e18a0fe59ef9c1c74c9798e",
+        "revid": 2941,
         "title": "SHA-120"
       },
       "translation": {
@@ -22619,10 +22822,10 @@
     },
     "SHA-7": {
       "last_published": {
-        "published_at": 1785698843,
-        "target_hash": "1c715f89284eba6865f606988708c17a2b3173ca6da2de5888e7f2ae33d43f1d",
-        "target_revid": 3095,
-        "translation_hash": "1c715f89284eba6865f606988708c17a2b3173ca6da2de5888e7f2ae33d43f1d"
+        "published_at": 1786301589,
+        "target_hash": "a4100f420134b66d88798e6cc63ac41a21d62f2b13df96c704f2931fe68fbcd0",
+        "target_revid": 3128,
+        "translation_hash": "a4100f420134b66d88798e6cc63ac41a21d62f2b13df96c704f2931fe68fbcd0"
       },
       "source": {
         "fetched_at": 1786301089,
@@ -22630,9 +22833,9 @@
         "revid": 14089
       },
       "target": {
-        "fetched_at": 1785698843,
-        "hash": "4c4896492add1ba8bd19660895f9f8f2beeffefe729dc3247e770b297323dee9",
-        "revid": 2955,
+        "fetched_at": 1786301589,
+        "hash": "1c715f89284eba6865f606988708c17a2b3173ca6da2de5888e7f2ae33d43f1d",
+        "revid": 3095,
         "title": "SHA-7"
       },
       "translation": {
@@ -22691,10 +22894,10 @@
     },
     "Section A": {
       "last_published": {
-        "published_at": 1784968616,
-        "target_hash": "c0b489d9656e8c1150fc74d818b2546661011e5cdfae4f766c53c74accb8d307",
-        "target_revid": 2958,
-        "translation_hash": "c0b489d9656e8c1150fc74d818b2546661011e5cdfae4f766c53c74accb8d307"
+        "published_at": 1786301593,
+        "target_hash": "5c10a11d7fcd2faa7c48bb759ba56373fd2b8d9beeea7b340e183b0af70c3a14",
+        "target_revid": 3129,
+        "translation_hash": "5c10a11d7fcd2faa7c48bb759ba56373fd2b8d9beeea7b340e183b0af70c3a14"
       },
       "source": {
         "fetched_at": 1786301343,
@@ -22702,9 +22905,9 @@
         "revid": 14065
       },
       "target": {
-        "fetched_at": 1784968615,
-        "hash": "8b977f354e9e2f1d38b1b3cc128c42ab2e2c8b6ab4b865082fac833b66e2e27b",
-        "revid": 2828,
+        "fetched_at": 1786301592,
+        "hash": "c0b489d9656e8c1150fc74d818b2546661011e5cdfae4f766c53c74accb8d307",
+        "revid": 2958,
         "title": "Section A"
       },
       "translation": {
@@ -22715,10 +22918,10 @@
     },
     "Section D": {
       "last_published": {
-        "published_at": 1784968621,
-        "target_hash": "50ab4802a2d9a34e8cff3240c35ebbe171f882f043155b31db51ea4e04240d5a",
-        "target_revid": 2959,
-        "translation_hash": "50ab4802a2d9a34e8cff3240c35ebbe171f882f043155b31db51ea4e04240d5a"
+        "published_at": 1786301597,
+        "target_hash": "5bd83573312ec0ebcae086e2805eeb27660bc02db0eb28df4ef385a3def1e05f",
+        "target_revid": 3130,
+        "translation_hash": "5bd83573312ec0ebcae086e2805eeb27660bc02db0eb28df4ef385a3def1e05f"
       },
       "source": {
         "fetched_at": 1786301203,
@@ -22726,9 +22929,9 @@
         "revid": 14146
       },
       "target": {
-        "fetched_at": 1784968620,
-        "hash": "93347f9af5d9ea5334b8a56d35bbc4f14bca50040dcb89f8aa4a2dd5b85affc3",
-        "revid": 2602,
+        "fetched_at": 1786301596,
+        "hash": "50ab4802a2d9a34e8cff3240c35ebbe171f882f043155b31db51ea4e04240d5a",
+        "revid": 2959,
         "title": "Section D"
       },
       "translation": {
@@ -22750,7 +22953,7 @@
         "revid": 14123
       },
       "target": {
-        "fetched_at": 1784968625,
+        "fetched_at": 1786301600,
         "hash": "643f58a6eea11bcc46fd3f62c0fab6e9d6a9f4684febe225c1c17d8fb34fff93",
         "revid": 1232,
         "title": "Section E"
@@ -22835,10 +23038,10 @@
     },
     "Section R": {
       "last_published": {
-        "published_at": 1784968640,
-        "target_hash": "a300e681b1b164c37527db5ec38f4c7eef2f4ca0f748b6c2fbac8e83cc33f796",
-        "target_revid": 2962,
-        "translation_hash": "a300e681b1b164c37527db5ec38f4c7eef2f4ca0f748b6c2fbac8e83cc33f796"
+        "published_at": 1786301604,
+        "target_hash": "5e70f727b98bbd4ed4e456dcc7eb11fffb9b331ff9bf4143ff41c979e31c5213",
+        "target_revid": 3131,
+        "translation_hash": "5e70f727b98bbd4ed4e456dcc7eb11fffb9b331ff9bf4143ff41c979e31c5213"
       },
       "source": {
         "fetched_at": 1786301081,
@@ -22846,9 +23049,9 @@
         "revid": 14126
       },
       "target": {
-        "fetched_at": 1784968639,
-        "hash": "54b86f106fabe1cf971b2cbbf56ef008d4cfd5de3efa44ccb8f27d3724908f53",
-        "revid": 2605,
+        "fetched_at": 1786301604,
+        "hash": "a300e681b1b164c37527db5ec38f4c7eef2f4ca0f748b6c2fbac8e83cc33f796",
+        "revid": 2962,
         "title": "Section R"
       },
       "translation": {
@@ -24035,10 +24238,10 @@
     },
     "Template:EntityNavBox": {
       "last_published": {
-        "published_at": 1785266271,
-        "target_hash": "17964183de69464c2ef880b18f206e7323b3d4150b5976b7e2a09317d69902b8",
-        "target_revid": 3074,
-        "translation_hash": "17964183de69464c2ef880b18f206e7323b3d4150b5976b7e2a09317d69902b8"
+        "published_at": 1786301622,
+        "target_hash": "b7628603d2e10fdd64df1ca9b460cad7a9003e0bf17b8f3d8d0270cd32121351",
+        "target_revid": 3136,
+        "translation_hash": "b7628603d2e10fdd64df1ca9b460cad7a9003e0bf17b8f3d8d0270cd32121351"
       },
       "source": {
         "fetched_at": 1786301340,
@@ -24046,9 +24249,9 @@
         "revid": 14111
       },
       "target": {
-        "fetched_at": 1785266271,
-        "hash": "add65d67fa5c272438edf7def0ee24bbe2157751f1cd36b6c7bfa987349f0afa",
-        "revid": 2619,
+        "fetched_at": 1786301622,
+        "hash": "17964183de69464c2ef880b18f206e7323b3d4150b5976b7e2a09317d69902b8",
+        "revid": 3074,
         "title": "Template:EntityNavBox"
       },
       "translation": {
@@ -26795,10 +26998,10 @@
     },
     "U-5": {
       "last_published": {
-        "published_at": 1785266264,
-        "target_hash": "0c8ace5205385b977eb93e422ad01d8d31ddac9bb3479356822c81b0f7ffd793",
-        "target_revid": 3072,
-        "translation_hash": "0c8ace5205385b977eb93e422ad01d8d31ddac9bb3479356822c81b0f7ffd793"
+        "published_at": 1786301608,
+        "target_hash": "3177ccd7578784f401219afef6184073a58a25d7194b1475708f9f13f4b16e0e",
+        "target_revid": 3132,
+        "translation_hash": "3177ccd7578784f401219afef6184073a58a25d7194b1475708f9f13f4b16e0e"
       },
       "source": {
         "fetched_at": 1786301077,
@@ -26806,9 +27009,9 @@
         "revid": 14058
       },
       "target": {
-        "fetched_at": 1785266264,
-        "hash": "0c4f509c881cae97799cba366a302417d69565aab90b81a9442c802f87662948",
-        "revid": 3003,
+        "fetched_at": 1786301607,
+        "hash": "0c8ace5205385b977eb93e422ad01d8d31ddac9bb3479356822c81b0f7ffd793",
+        "revid": 3072,
         "title": "U-5"
       },
       "translation": {
@@ -27130,10 +27333,22 @@
       }
     },
     "Unknown Entity": {
+      "last_published": {
+        "published_at": 1786301611,
+        "target_hash": "57375e2558bf0fc7d8c2b95b6dbb3a4141967b7f68b7a4c176281a960c37aba6",
+        "target_revid": 3133,
+        "translation_hash": "57375e2558bf0fc7d8c2b95b6dbb3a4141967b7f68b7a4c176281a960c37aba6"
+      },
       "source": {
         "fetched_at": 1786301126,
         "hash": "9c423122be904c96f988e7ccaf5d35573604b7987d65efac687526805cd1461a",
         "revid": 14133
+      },
+      "target": {
+        "fetched_at": 1786301611,
+        "hash": "",
+        "revid": 0,
+        "title": "Unknown Entity"
       },
       "translation": {
         "file": "output/zh/Unknown Entity.wiki",
@@ -27143,10 +27358,10 @@
     },
     "Unnamed Sector": {
       "last_published": {
-        "published_at": 1784968911,
-        "target_hash": "481c865086e7bca4af3645000a1b1054e748d9aeeb79d010cec5c868d0257685",
-        "target_revid": 3017,
-        "translation_hash": "481c865086e7bca4af3645000a1b1054e748d9aeeb79d010cec5c868d0257685"
+        "published_at": 1786301615,
+        "target_hash": "044c79728144d46e540cc540ad3de67d6a017f9389ef57ef69b81fe4fd691431",
+        "target_revid": 3134,
+        "translation_hash": "044c79728144d46e540cc540ad3de67d6a017f9389ef57ef69b81fe4fd691431"
       },
       "source": {
         "fetched_at": 1786301213,
@@ -27154,9 +27369,9 @@
         "revid": 14193
       },
       "target": {
-        "fetched_at": 1784968911,
-        "hash": "7b3d58d70e8e3607d2c7ae1e0d537b0f900c3bae92b16fd76103aedecf8968b7",
-        "revid": 2612,
+        "fetched_at": 1786301615,
+        "hash": "481c865086e7bca4af3645000a1b1054e748d9aeeb79d010cec5c868d0257685",
+        "revid": 3017,
         "title": "Unnamed Sector"
       },
       "translation": {
@@ -27215,10 +27430,10 @@
     },
     "Wiki Team Members": {
       "last_published": {
-        "published_at": 1784968919,
-        "target_hash": "630154e4989ee6ada3f0b401343a5dab43ea9be39d4d3367196f1b1a758f90c5",
-        "target_revid": 3019,
-        "translation_hash": "630154e4989ee6ada3f0b401343a5dab43ea9be39d4d3367196f1b1a758f90c5"
+        "published_at": 1786301619,
+        "target_hash": "1280e69320488430466247228a324646de39d1ca68181e919f7e0f0d00a0a0b5",
+        "target_revid": 3135,
+        "translation_hash": "1280e69320488430466247228a324646de39d1ca68181e919f7e0f0d00a0a0b5"
       },
       "source": {
         "fetched_at": 1786301073,
@@ -27226,9 +27441,9 @@
         "revid": 14062
       },
       "target": {
-        "fetched_at": 1784968919,
-        "hash": "eb2e95cfb77f530351c995c789647119dd7ffe550954cefeda4aa5b561733498",
-        "revid": 2614,
+        "fetched_at": 1786301619,
+        "hash": "630154e4989ee6ada3f0b401343a5dab43ea9be39d4d3367196f1b1a758f90c5",
+        "revid": 3019,
         "title": "Wiki Team Members"
       },
       "translation": {
