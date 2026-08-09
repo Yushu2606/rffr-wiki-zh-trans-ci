@@ -5,7 +5,10 @@
 |entity_image=<gallery>
 SHA7CLOSED.gif|Closed Face Animation
 SHA7OPENED.gif|Open Face Animation
-Better face.png|Design (Crop)
+SHA7Main.png|Closed design
+SHA7Split1.png|Split design 1
+SHA7Split2.png|Split design 2
+SHA7Face.png|Face design
 </gallery>
 |previous_entity=[[SHA-4]]
 |next_entity=[[SHA-22]]

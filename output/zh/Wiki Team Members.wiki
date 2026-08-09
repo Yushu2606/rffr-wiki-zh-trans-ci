@@ -1,11 +1,12 @@
 == Wiki 团队 ==
 
 === <u>描述：</u> ===
-Wiki 团队是 Rooms: Found Footage: RENOVATED 官方英文 Wiki 的内容创作团队，本站仅部分内容原文来自该官方英文 Wiki，目前共有 '''1''' 名成员。如果您认为有内容需要修改，可私信下方任意成员。
+Wiki 团队是 Rooms: Found Footage: RENOVATED 英文 Wiki 的管理员团队；本站并非官方站点，仅部分内容原文来自官方英文 Wiki，目前共有 '''2''' 名成员。如果您认为有内容需要修改，可私信下方任意成员。
 
 ==== <u>成员：</u> ====
 <gallery>
-File:Kevin.webp|ItsKevHere，R:FF:R 所有者
+File:Kevin.webp|[[User:ItsKevHer3|ItsKevHere]]，Wiki/游戏所有者，管理员。
+File:Sammy.webp|[[User:SammyITOLTR|SammyITOLTR]]，管理员，内容审核员。
 </gallery>
 
 {{BrowseNavBox}}

@@ -1,14 +1,15 @@
-{{DISPLAYTITLE:<span style="text-shadow: -4px 0px 2px red, 4px 0px 2px blue; color: #41e0ff;">M-200（电工）</span>}}
-{{ArticleBackground|File=MBackground.webp}}
+{{DISPLAYTITLE:<span style="animation: m200 1s infinite;">M-200（电工）</span>}}
+{{ArticleBackground|File=MBackground.jpg}}
 {{NoteBox|note=请勿与'''Rooms: Re-Established'''中的M-200或Ï-200混淆，二者外观非常相似}}
 {{Redesign|Collese|Vote}}
 {{InfoBox:Entity
-|entity_name=[[File:Bite_of_83.webp|frameless|link=M-200]]
+|entity_name=[[File:Bite of 83.gif|frameless|link=M-200]]
 |entity_image=<gallery>
-NewM200.webp|当前设计
-M200Hurt.webp|当前受伤形态设计
-NewerM-200.webp|旧设计
-M200.webp|更早的旧设计
+Placeholder.webp|Upcoming 设计
+NewM200.gif|当前设计
+M200Hurt.gif|当前受伤形态设计
+NewerM-200.gif|旧设计
+M200.gif|更早的旧设计
 </gallery>|previous_entity=[[M-150]]|next_entity=[[Mouth|M-300]]<br>[[M-340]]<br>[[Mori]]|nicknames=电工<br>「罗纳尔多」（旧绰号）
 |appears_at=在M-200之后的区域开启任意门时有概率生成。
 |claustrophobia=否
@@ -41,14 +42,14 @@ M200.webp|更早的旧设计
 **这一设定现已废弃，Renovated版本推出后[[M-200]]被重命名为「电工」。
 *[[M-200]]是所有和[[A-200]]相关的实体中，唯一会造成持续伤害而非即死的实体。
 *如果[[M-134]]待在蓝色柜子里时柜子被[[M-200]]破坏，[[M-134]]会爆炸。
-*M-200的第2种环境音效可在Roblox Creator Store（创作者商店）中找到，其名称为“[https://create.roblox.com/store/asset/705787045/Electric-shock-hit-looped Electric shock hit looped（循环电击命中音效）]”。
-*M-200确实能感知疼痛，设定中它可被枪击。（据M-200的创作者所述）
-**补充说明，M-200被击中/枪击时感受到的疼痛是正常人的2x（例如：扇M-200一巴掌会让它感觉像被捅了一刀）
-* 与其他编号为200的实体不同，'''M-200'''无法杀死躲在桌子下方的玩家。
+*M-200 的第二种环境音可以在 Roblox Creator Store 中找到，其名称为"[https://create.roblox.com/store/asset/705787045/Electric-shock-hit-looped Electric shock hit looped]"。
+*M-200 确实能感受到疼痛，因为据称它可以被射击。（由 M-200 的创作者所述）
+**除此之外，M-200 被击中/射击时感受到的疼痛是正常人的 2 倍（例如：扇 M-200 一巴掌会让它感觉像被刺了一刀）
+* 与其他编号为 200 的实体不同，'''M-200''' 无法杀死躲在桌子下的玩家。
 
 ==画廊==
 <gallery>
-M200jump.webp|旧版跳杀
+M200jump.gif|旧版跳杀
 </gallery>
 
 {{EntityNavBoxSectionM}}

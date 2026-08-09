@@ -1,73 +1,75 @@
 <tabber>
 |-|各分区=
-'''各分区:'''
-{{#tag:tabber|A 区=
-'''A 区:'''
-{{BadgeSectionA|Image=Agency_Badge_Image.webp|Name=
+'''各分区：'''
+{{#tag:tabber|A区=
+'''A区：'''
+{{BadgeSectionA|Image=Agency Badge Image.png|Name=
 [https://www.roblox.com/badges/2106297071924256/Agency Agency]|Description=旅程就此开始。踏入此处，再无回头之路。|Obtainment=进入游戏}}
-{{BadgeSectionA|Image=Hello_Darkness_(Badge).webp|Name=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]|Description=我的老朋友|Obtainment=打开A-500号门。}}
-{{BadgeSectionA|Image=Insanity._(Badge).webp|Name=[https://www.roblox.com/badges/3208268682917747/Insanity Insanity.]|Description=噩梦即将结束。|Obtainment=打开A-900号门。}}
-{{BadgeSectionA|Image=A_Thousand_Ends_(Badge).webp|Name=[https://www.roblox.com/badges/2695224323145018/A-Thousand-Ends A Thousand Ends]|Description=漫长旅途过后，你终于获得了自由，但这一切值得吗？即便经历了这么多，你仍感觉缺了些什么..|Obtainment=打开A-1000号门。}}
+{{BadgeSectionA|Image=Hello Darkness (Badge).png|Name=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]|Description=我的老朋友|Obtainment=打开A-500号门。}}
+{{BadgeSectionA|Image=Insanity. (Badge).png|Name=[https://www.roblox.com/badges/3208268682917747/Insanity Insanity.]|Description=噩梦即将结束。|Obtainment=打开A-900号门。}}
+{{BadgeSectionA|Image=A Thousand Ends (Badge).png|Name=[https://www.roblox.com/badges/2695224323145018/A-Thousand-Ends A Thousand Ends]|Description=漫长旅途过后，你终于获得了自由，但这一切值得吗？即便经历了这么多，你仍感觉缺了些什么..|Obtainment=打开A-1000号门。}}
 {{!}}-{{!}}
 
-D 区=
-'''D 区:'''
-{{BadgeSectionD|Image=Depth_(Badge).webp|Name=[https://www.roblox.com/badges/1396742298128730/Depth Depth]|Description=等等，这地方什么时候出现的？|Obtainment=切换分区进入D区。}}
-{{BadgeSectionD|Image=Level_15_(Badge).webp|Name=[https://www.roblox.com/badges/3816991823070203/Level-15 Level 15]|Description=开采中……哦不对走错游戏了|Obtainment=打开D-500号门。}}
-{{BadgeSectionD|Image=Caving_In_(Badge).webp|Name=[https://www.roblox.com/badges/3062052687568452/Caving-In Caving In]|Description=精神崩溃。|Obtainment=打开D-900号门。}}
-{{BadgeSectionD|Image=Surface_Breach_(Badge).webp|Name=[https://www.roblox.com/badges/1278212380183451/Surface-Breach Surface Breach]|Description=有时候你会扪心自问，做这一切到底有多少意义。你自愿来到这里，又是为了什么？|Obtainment=打开D-1000号门。}}
+D区=
+'''D区：'''
+{{BadgeSectionD|Image=Depth (Badge).png|Name=[https://www.roblox.com/badges/1396742298128730/Depth Depth]|Description=等等，这地方什么时候出现的？|Obtainment=切换分区进入D区。}}
+{{BadgeSectionD|Image=Level 15 (Badge).png|Name=[https://www.roblox.com/badges/3816991823070203/Level-15 Level 15]|Description=开采中……哦不对走错游戏了|Obtainment=打开D-500号门。}}
+{{BadgeSectionD|Image=Caving In (Badge).png|Name=[https://www.roblox.com/badges/3062052687568452/Caving-In Caving In]|Description=精神崩溃。|Obtainment=打开D-900号门。}}
+{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=[https://www.roblox.com/badges/1278212380183451/Surface-Breach Surface Breach]|Description=有时候你会扪心自问，做这一切到底有多少意义。你自愿来到这里，又是为了什么？|Obtainment=打开D-1000号门。}}
 {{!}}-{{!}}
 
-M 区=
-'''M 区:'''
-{{BadgeSectionM|Image=NewMaintenanceBadge.webp|Name=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]|Description=我真的该来这儿吗？？？|Obtainment=切换分区进入M区。}}
-{{BadgeSectionM|Image=Dark_Exchange_(Badge).webp|Name=[https://www.roblox.com/badges/1892692238091680/Dark-Exchange Dark Exchange]|Description=已经走得太远，没法回头了。|Obtainment=打开M-500号门。}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.webp|Name=[https://www.roblox.com/badges/1786174360214330/Prohibited-Zone Prohibited Zone]|Description=那些声音。让它停下来。|Obtainment=打开M-900号门。}}
-{{BadgeSectionM|Image=Emergency_Exit_(Badge).webp|Name=[https://www.roblox.com/badges/3371865678357524/Emergency-Exit Emergency Exit]|Description=你走了这么远，又是为了什么？再也没人能找到你了，你开始觉得来到这里本身就是个错误。|Obtainment=打开M-1000号门。}}
+M区=
+'''M区：'''
+{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]|Description=我真的该来这儿吗？？？|Obtainment=切换分区进入M区。}}
+{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=[https://www.roblox.com/badges/1892692238091680/Dark-Exchange Dark Exchange]|Description=已经走得太远，没法回头了。|Obtainment=打开M-500号门。}}
+{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=[https://www.roblox.com/badges/1786174360214330/Prohibited-Zone Prohibited Zone]|Description=那些声音。让它停下来。|Obtainment=打开M-900号门。}}
+{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=[https://www.roblox.com/badges/3371865678357524/Emergency-Exit Emergency Exit]|Description=你走了这么远，又是为了什么？再也没人能找到你了，你开始觉得来到这里本身就是个错误。|Obtainment=打开M-1000号门。}}
 {{!}}-{{!}}
 
 无名区域=
-'''无名区域:'''
-{{BadgeUnnamed|Image=IntoTheUnkownBadge.webp|Name=[https://www.roblox.com/badges/2319768173550278/Into-The-Unknown Into The Unknown]|Description=0000|Obtainment=进入无名区域}}
-{{BadgeUnnamed|Image=SectorShutdown.webp|Name=[https://www.roblox.com/badges/1797993421943708/Sector-Shutdown Sector Shutdown]|Description=这都是你造成的。|Obtainment=捡起奇怪的密钥卡}}
-{{BadgeUnnamed|Image=TheBeginningofTheEnd.webp|Name=[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End 终末之始]|Description=逃脱。|Obtainment=使用奇怪钥匙卡从无名区域逃脱}}
-{{BadgeUnnamed|Image=MoneyWalks.webp|Name=[https://www.roblox.com/badges/3972276384490307/Money-Walks Money Walks（钱途无阻）]|Description=0500|Obtainment=抵达无名区域的0500号门。}}
-{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.webp|Name=[https://www.roblox.com/badges/2741508110327384/I-Wasted-My-Time-For-This-Badge Wasted My Time For This Badge 👍（我居然浪费时间拿这个徽章 👍）]|Description=1000|Obtainment=抵达无名区域的1000号门。}}
+'''无名区域：'''
+{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=[https://www.roblox.com/badges/2319768173550278/Into-The-Unknown Into The Unknown]|Description=0000|Obtainment=进入无名区域}}
+{{BadgeUnnamed|Image=SectorShutdown.png|Name=[https://www.roblox.com/badges/1797993421943708/Sector-Shutdown Sector Shutdown]|Description=这都是你造成的。|Obtainment=捡起奇怪的密钥卡}}
+{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End 终末之始]|Description=逃脱。|Obtainment=使用奇怪钥匙卡从无名区域逃脱}}
+{{BadgeUnnamed|Image=MoneyWalks.png|Name=[https://www.roblox.com/badges/3972276384490307/Money-Walks 金钱漫步]|Description=0500|Obtainment=在无名区域到达第0500号门。}}
+{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=[https://www.roblox.com/badges/2741508110327384/I-Wasted-My-Time-For-This-Badge 我为这个徽章浪费了时间 👍]|Description=1000|Obtainment=在无名区域到达第1000号门。}}
 {{!}}-{{!}}
 
 E区=
 '''E区：'''
-{{BadgeSectionE|Image=NewExecutiveBadge.webp|Name=[https://www.roblox.com/badges/3582648396817910/Executive Executive（高管）]|Description=希望这趟折腾是值得的……|Obtainment=切换分区进入E区。}}
-{{BadgeSectionE|Image=NewPowerFailureBadge.webp|Name=[https://www.roblox.com/badges/2629617543515841/Power-Failure Power Failure（停电）]|Description=这一切还要持续多久？|Obtainment=打开E-500号门。}}
-{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.webp|Name=[https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction Executive Dysfunction（执行功能障碍）]|Description=循环不断重复，一次又一次，永无止境。|Obtainment=打开E-900号门。}}
-{{BadgeSectionE|Image=NewE1000Badge.webp|Name=[https://www.roblox.com/badges/422145928078685/E-1000 E-1000]|Description=E-1000结局目前尚未实装。即便如此，你仍在毫无意义地向前推进。你已经记不清自己为何来到这里，但你似乎马上就要找到答案了。|Obtainment=打开E-1000号门。}}
+{{BadgeSectionE|Image=NewExecutiveBadge.png|Name=[https://www.roblox.com/badges/3582648396817910/Executive 高管]|Description=希望这一切挣扎都是值得的……|Obtainment=切换分区至E区。}}
+{{BadgeSectionE|Image=NewPowerFailureBadge.png|Name=[https://www.roblox.com/badges/2629617543515841/Power-Failure 停电]|Description=这还要持续多久？|Obtainment=打开E-500号门。}}
+{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=[https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction 执行功能障碍]|Description=循环不断重复，一次又一次，一次又一次。|Obtainment=打开E-900号门。}}
+{{BadgeSectionE|Image=NewE1000Badge.png|Name=[https://www.roblox.com/badges/422145928078685/E-1000 E-1000]|Description=E-1000结局尚未加入。但你仍然为了一个虚无的目标继续前进。你不记得自己为什么来到这里，但似乎你马上就要找到答案了。|Obtainment=打开E-1000号门。}}
 }}
 
 |-|实体=
 '''实体：'''
-{{Badge|Image=Hi_Jimmy_(Badge).webp|Name=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy Hi Jimmy（你好Jimmy）]|Description=好吧，这完全没必要。|Obtainment=被[[Jimmy]]跳吓。}}
-{{BadgeSectionD|Image=ProtocolProcedureBadge.webp|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure Protocol Procedure（协议流程）]|Description=离开D-200房间。|Obtainment=通关[[D-200]]的Boss战。}}
-{{BadgeSectionD|Image=Invasion_EvasionNew.webp|Name=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion（入侵躲避）]|Description=不知道刚才那到底是怎么回事。遭遇并从稀有实体D-60i的袭击中存活|Obtainment=遭遇并从[[D-60i]]的袭击中存活。}}
-{{BadgeSectionM|Image=M120iPlaceholderBadge.webp|Name=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria Phantasmagoria（幻景）]|Description=遭遇并从?????i的袭击中存活|Obtainment=遭遇并从[[M-120i]]的袭击中存活。}}
-{{BadgeUnnamed|Image=Clipped_Wings.webp|Name=[https://www.roblox.com/badges/2106200052589204/Clipped-Wings Clipped Wings（折翼）]|Description=功亏一篑。|Obtainment=在[[Mouth|False-300]]的追逐过程中死亡}}
-{{Badge|Image=CongratsYouGotGoodRNG.webp|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG（恭喜，你运气爆棚）]|Description=遇见#-##。哈哈，这什么用都没有。|Obtainment=在[[Section R|R区]]之外遭遇并从[[R-60]]的袭击中存活}}
-{{Badge|Image=Lapse_of_Judgment_(Badge).webp|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment（判断失误）]|Description=遭遇了一个……这根本不是什么######实体啊兄弟，这啥玩意？|Obtainment=遭遇并从[[Entities#Lapse_Entities|Lapse实体]]的袭击中存活。}}
-{{Badge|Image=D60iiohno.webp|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush（终极肾上腺素飙升）]|Description=为什么这种事会落在我头上。|Obtainment=遭遇并从[[D-60ii]]的袭击中存活。}}
+{{Badge|Image=Hi Jimmy (Badge).png|Name=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy 你好 Jimmy]|Description=好吧，这完全没必要。|Obtainment=被[[Jimmy]]跳杀。}}
+{{BadgeSectionD|Image=ProtocolProcedureBadge.png|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure 协议程序]|Description=离开D-200房间。|Obtainment=击败[[D-200]]的Boss战。}}
+{{BadgeSectionD|Image=Invasion EvasionNew.png|Name=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion 入侵躲避]|Description=想知道这到底是怎么回事。遭遇并从稀有实体D-60i手中存活|Obtainment=遭遇并从[[D-60i]]手中存活。}}
+{{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria 幻影变幻]|Description=遭遇并从?????i的攻击中存活|Obtainment=遭遇并从[[M-120i]]手中存活。}}
+{{BadgeUnnamed|Image=Clipped Wings.png|Name=[https://www.roblox.com/badges/2106200052589204/Clipped-Wings 折翼]|Description=近在咫尺，却遥不可及。|Obtainment=在[[Mouth|False-300]]的追逐中死亡}}
+{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush 绝对肾上腺素飙升]|Description=为什么这种事会发生在我身上。|Obtainment=遭遇并从[[D-60ii]]手中存活。}}
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment 判断失误]|Description=遭遇一个……那不是一个######实体，这是什么啊兄弟。|Obtainment=遭遇并从[[Entities#Alpha_&_Shadowpocalypse|Lapse实体]]手中存活。}}
+{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气真好]|Description=遇见#-##。这什么用都没有，哈哈。|Obtainment=遭遇并从[[Unknown Entity|"未知实体"]]手中存活}}
 
 |-|其他=
 '''其他：'''
-{{Badge|Image=One_of_Many_(Badge).webp|Name=[https://www.roblox.com/badges/4424987589126515/One-of-Many 万千之一]|Description=后续还将推出更多内容。|Obtainment=首次死亡。}}
-{{Badge|Image=Insanity?NoThanks.webp|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks 疯狂？不了谢谢。]|Description=打开任意区的900号房间，并在20分钟内到达1000号房间。|Obtainment=在20分钟内通关[[Red Rooms|红区]]。}}
-{{Badge|Image=666_666_666_(Badge).webp|Name=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]|Description=秘密成就：完成「暗影挑战」活动，奖励“黑暗之心”与“完美主义者”神器武器。|Obtainment=完成[[Shadow Challenge|暗影挑战]]。}}
-{{Badge|Image=The_Apocalypse_(Badge).webp|Name=[https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启]|Description=“结……结束了吗……？”你本不该坚持这么久。启用并在「阿尔法与暗影天启」修饰符下存活。|Obtainment=到达1000号门，或在启用[[Alpha & Shadowpocalypse|阿尔法与暗影天启]]修饰符的情况下，从3个[[SHA-200]]的袭击中存活。}}
-{{Badge|Image=Placeholder_Badge.webp|Name=[https://www.roblox.com/badges/3106979344724057/ERR-NXT-UPD ERR_NXT_UPD]|Description=COULD_NOT_LOAD_BADGE_INFO（无法加载徽章信息）|Obtainment=未知}}
+{{Badge|Image=One of Many (Badge).png|Name=[https://www.roblox.com/badges/4424987589126515/One-of-Many 众多之一]|Description=还有更多会到来。|Obtainment=首次死亡。}}
+{{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks 疯狂？不必了。]|Description=打开任意区的900号房间，并在20分钟或更短时间内到达1000号房间。|Obtainment=在20分钟内通关[[Red Rooms|红区]]。}}
+{{Badge|Image=666 666 666 (Badge).png|Name=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]|Description=秘密成就：完成“暗影挑战”活动。授予“Heart of Darkness（黑暗之心）”与“Perfectionist（完美主义者）”神器武器。|Obtainment=完成[[Shadow Challenge|暗影挑战]]。}}
+{{Badge|Image=The Apocalypse (Badge).png|Name=[https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启]|Description=“结…结束了吗…？”你本不该坚持这么久。启用并在“阿尔法 & Shadowpocalypse”修饰符下存活。|Obtainment=到达1000号门，或在启用[[Alpha & Shadowpocalypse|阿尔法 & Shadowpocalypse]]修饰符的情况下从3个[[SHA-200]]手中存活。}}
+{{Badge|Image=Placeholder Badge.png|Name=[https://www.roblox.com/badges/3106979344724057/ERR-NXT-UPD ERR_NXT_UPD]|Description=无尽的行走，伴随着无尽的战斗。我除了前进别无去处。我已失去一切。就连我进入这栋建筑时随身携带的那样东西也没了。消失了。破碎了。就那样。我所剩的只有自己的身体，但还能撑多久。当这一切只会让我发疯时，继续走下去还有意义吗。
+我想要挣脱，但我做不到。只要这股更强大的力量监视着每一个举动，我就做不到。 
+我被困住了，没有人能把我从这疯狂中拉出来。就连那个我曾以为会将我从一切中拯救出来的人也没有。|Obtainment=未知}}
 
-|-|限时=
-'''限时徽章：'''
-{{BadgeSectionE|Image=SectorBreach.webp|Name=[https://www.roblox.com/badges/3124983362195746/Sector-Breach 区域突破]|Description=[无法获取] 在任意区遭遇并从两个来源未知的异常现象之一的袭击中存活，哪怕你经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件中遭遇[[E-10]]或[[E-60#Old|E-60]]并存活}}
-{{Badge|Image=Beatificvision.webp|Name=[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision 至福异象]|Description=遭遇祂。该徽章为2024年愚人节活动完成奖励。（……又或许它终究还是可以获取的？）|Obtainment='''[无法获取]'''<br>在原版2024年愚人节活动中到达I-500，遭遇[[Gato|Gato（加托）]]<br>'''Rooms: Found Footage'''}}
-{{BadgeSectionM|Image=Isecinvasion.webp|Name=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here 你本该出现在这里吗？]|Description=该徽章曾可在“I区入侵”活动中获取，获取条件为在A区或D区从I-60的袭击中存活。目前该徽章已下架，不再可用。|Obtainment='''[无法获取]'''<br>在原版I区入侵活动中遭遇并从[[M-60#Section_UI|I-60]]的袭击中存活<br>'''Rooms: Found Footage'''}}
-{{BadgeSectionD|Image=Dsecinvasion.webp|Name=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该出现在这里]|Description=[无法获取] 遭遇并从罕见的入侵实体手中存活。该徽章可在“入侵”活动期间获取。|Obtainment='''[无法获取]'''<br>在原版D区入侵活动中遭遇并从[[D-5#Invasion|D-5]]、[[D-35]]或[[D-60i|D-60]]的袭击中存活<br>'''Rooms: Found Footage'''}}
+|-|Limited=
+'''限定：'''
+{{BadgeSectionE|Image=SectorBreach.png|Name=[https://www.roblox.com/badges/3124983362195746/Sector-Breach 区域突破]|Description=[无法获得] 在任意区遭遇并从两个来源未知的意外异常之一中存活，即使经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获得]'''<br>在E区入侵活动期间遭遇并从[[E-10]]或[[E-60#Old|E-60]]手中存活}}
+{{Badge|Image=Beatificvision.png|Name=[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision（至福直观）]|Description=遭遇HIM。该徽章用于奖励完成2024年愚人节活动。（……或许它终究还是可以获得的？）|Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage'''<br>的2024年愚人节活动期间到达I-500，遭遇[[Gato]]}}
+{{BadgeSectionM|Image=Isecinvasion.png|Name=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here 你该出现在这里吗？]|Description=该徽章曾在“I区入侵”活动期间可获得，条件是在A区或D区从I-60的攻击中存活。它已被退役，不再可用。|Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage'''<br>的I区入侵活动期间遭遇并从[[M-60#Section_UI|I-60]]手中存活}}
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该出现在这里]|Description=[无法获取] 遭遇并从一个稀有的入侵实体手中存活。该徽章可在"Invasion"活动期间获取。|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage''' 的D区入侵活动中，遭遇并从 [[D-5#Invasion|D-5]]、[[D-35]] 或 [[D-60i|D-60]] 手中存活}}
 
 </tabber>
 

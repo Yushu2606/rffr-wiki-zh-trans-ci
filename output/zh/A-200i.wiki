@@ -2,8 +2,8 @@
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
 BlueRenovatedWater.gif|当前设计
-BlueAir Renovated.gif|旧设计
-A-200ijumpscare.png|真·遗产设计/遗产设计
+BlueAir Renovated.gif|旧/遗产设计
+A-200ijumpscare.png|旧跳杀设计
 </gallery>
 |previous_entity=[[A-200]]
 |next_entity=[[Mouth|A-300]]<br>[[D-5]]
@@ -11,7 +11,7 @@ A-200ijumpscare.png|真·遗产设计/遗产设计
 |caption-entity_image=Blue-200
 |gun_effect=无
 |locker_snipe=是（非致命）
-|appears_at=A-200之后任意时间
+|appears_at=A-200之后任意时间。
 |type=后退者<br>反弹者
 |claustrophobia=否<br>是（混沌模式）
 |behavior=它会在[[A-200]]之后罕见出现，随机反弹数次后消失。
@@ -20,7 +20,7 @@ A-200ijumpscare.png|真·遗产设计/遗产设计
 |sound1=<center>旧环境音</center><center>[[File:A200iAmbi.mp3]]</center>|ent_info_header=|sound2=<center>跳杀</center><center>[[File:A200iJumpscare.mp3]]</center>}}
 
 ==描述==
-'''A-200i'''，也被称为“Insidae Prime”（风格化写法为“Insidæ Prime”，发音为“Inside Prime”）是你在Rooms: Found Footage Renovated的A区会遇到的第5个i型变种。你需要在'''A-200'''消失后保持耐心。
+'''A-200i'''，也被称为"Insidae Prime"（风格化写法为"Insidæ Prime"，发音为"Inside Prime"）是你在Rooms: Found Footage Renovated的A区会遇到的第5个i型变种。你需要在'''A-200'''消失后保持耐心。
 
 ==行为==
 和[[A-60i]]一样，'''A-200i'''无法自行生成，仅会在A-200消失后生成，如果它确实生成，屏幕上会产生额外的静电效果。  

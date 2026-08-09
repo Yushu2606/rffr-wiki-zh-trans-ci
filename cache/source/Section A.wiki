@@ -8,7 +8,7 @@
 |sound1=<center>A-000 - A-020</center><center>[[File:BlueFeather.mp3]]</center>
 |sound2=<center>A-021 - A-100</center><center>[[File:Anxiety.mp3]]</center>
 |sound3=<center>A-100 - A-500</center><center>[[File:SectionAAmbience.mp3]]</center>
-|sound4=<center>A-500 - A-900</center><center>[[File:Depth.mp3]]</center>
+|sound4=<center>A-500 - A-750</center><center>[[File:Depth.mp3]]</center>
 |sound5=<center>A-750 - A-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
 |sound6=<center>A-1000</center><center>[[File:A1000New.mp3]]</center>
 |sound7=<center>Old A-1000</center><center>[[File:A1000.mp3]]</center>
@@ -138,7 +138,39 @@ A new horror known as [[A-85]] appears. It acts like that of [[A-20]], but it co
 #[[A-135]] starts appearing. It clutters and mimics [[A-120]]. To identify if it's really [[A-135]], pay attention to its sound. If you hear drums and chittering, then it's [[A-120]]. If you hear slow drums and no chittering, then it's [[A-135]]. After stalling for a bit at the front, it breaks the door and starts checking gray lockers in the 3 most recent rooms where it spawned. After doing the thing, it falls back and despawns.
 #[[A-135]] can be rarely replaced by [[A-135i]]. [[A-135i]] comes from the back and makes a laughing sound then a bang. This is an indication you should hide in a blue locker (or a table if you're a masochist). [[A-135i]] comes to check gray lockers in all the rooms that contain players in them. After it does that, it falls back. Has a chance to come back again and repeat the cycle, or outright despawn.
 
-=== A-200+ Later!!! ===
+=== A-200 - A-300 ===
+#[[A-200]] is now present. It spawns from the front and does knocking sounds on the door before it breaks the door completely. Once it breaks the door, it goes backwards and will dissapear with a howl if traveled far enough. It rebounds, touches the door then goes backwards again when a player isn't hidden or a 1 in 25 chance of doing so anyway. It can only touch the door up to 4 times before it dissapears, as to prevent it from lasting forever.
+#[[A-200i]] may spawn after [[A-200]] despawns. It goes up through a blue portal then rushes back a random amout of rooms before it dissapears or rebounds to touch the door to either do it again or dissapear. Once it dissapears, it goes down the same portal from when it first spawned.
+
+=== A-300 - A-500 ===
+[[Mouth]] can now rarely appear. It waits at the back of a door until either a player tries to open it, or 1 second has passed. It then breaks the door and starts to give chase. It chases you down near the Voidwall, before going back and despawning. You cannot go around [[Mouth]], as it kills you if you try to.
+
+=== A-500 - A-750 ===
+All rooms go completely dark.
+
+=== A-750 - A-900 ===
+An extra ambience plays and the game tells you you're approaching [[Red Rooms|something darker]].
+
+=== A-900 - A-1000 ===
+#You have just reached [[Red Rooms]]. The lights are red in this section and the [[Entities|entities]] are more dangerous than before. 
+#[[A-20]] always gets replaced by [[A-20i]] there. Good luck.
+
+=== A-1000 ===
+A long hallway appears and [[Red Rooms]] has ended. You will have successfully dodged every threat and have reached the "end" of '''Sector A'''.
+
+=== A-1001 ===
+You can now choose between exiting the '''Apartment''', giving you an ending, or you can enter ''Endless Mode''.
+
+=== A-1002 - A-1200 ===
+Once you enter ''Endless Mode'', You go through A-1001+ and dwell deeper into the unknown. Past this point, you get a checkpoint every 500 rooms. A-1500, A-2000, A-2500, and so on.
+
+=== A-1200 - A-5000 ===
+#[[X-1200 Entities]] start to appear. More information about them is in their page. 
+#Once you reach this point and every other 400 rooms past that point, all entity spawns increase by 100%. Entity spawns were 100% before, but once you reach A-1200, it's 200%, A-1600 gives 300% and so on.
+
+=== A-5000+ ===
+#All rooms go completely dark once again.
+#No Escape. We Are Infinity.
 
 == Trivia ==
 * '''Section A''' is the only section that appears in almost every rooms fangame. It has several means (Apartment, Agency, Archives, etc), but it always will be rooms made from light gray wood and always has gray and blue lockers. And despite you can't hide under the tables in the original Rooms game, most rooms fangames' creators adds this ability.

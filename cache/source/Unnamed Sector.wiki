@@ -1,7 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC; color: black;">Section ? (Unnamed Sector)</span>}}
 {{ArticleBackground|File=Unnamed .png}}
 {{Section?Stub}}
-
 {{SectionInfoBox
 |image=Unnamed .png
 |previous_section=[[Section A]]<br>[[Section D]]<br>[[Section M]]
@@ -10,16 +9,11 @@
 |title1=UNNAMED Section|sound1=<center>Beginning Soundtrack</center><center>[[File:IntoTheUnknown.mp3]]</center>}}
 
 ==Overview==
-'''Unnamed Sector''' is a Side Quest Section for R:FF:R.
-The door will spawn after both a 1 in 90, and a 1 in [Number of rare rooms in the section] is rolled successfully, it can Spawn in Section
-[[Section A| A (A-100+)]] [[Section D| D (Derelict only)]], and [[Section M| M (Maintenance Tunnels Only)]]. The objective of the player in the '''Unnamed Sector''' is to find the '''Strange Keycard''', Which can spawn after door 100, and find an escape Door, which can spawn if the player has the Keycard in their inventory, once past the 1st exit door, [[Mouth|False-300]] will chase them forward until they reach the true exit door, leading to an elevator that goes back to the [[Section A]] lobby, where they can use the S.P.A.W.N Terminal to teleport to '''M-400''' if reached already, and use the Keycard to unlock the door for [[Section E]]
+The '''Unnamed Sector''' will be the 4th section you will encounter within the game. The entrance to this section can spawn in section [[Section A| A (A-100+)]], [[Section D| D (Derelict only)]] and [[Section M| M (Maintenance Tunnels Only)]] after both a 1 in 90 and a 1 in [Number of rare rooms in the section] are rolled successfully. Your objective in the '''Unnamed Sector''' is to find the '''Strange Keycard''', which will start spawning after the first [[False-200]] attack. Collecting the '''Strange Keycard''' will cause [[Red Rooms]] to start a few rooms later, where you'll need find the first exit door which can spawn randomly (this exit door is guaranteed to spawn 100 doors after [[Red Rooms]] starts). This will not be the end however, as [[Mouth|False-300]] will appear from behind you after you get near the end of the long hallway that is past the first exit door and will chase you forward until you reach the second and final exit door, one that leads to an elevator that goes back to the [[Section A]] lobby.
 
+You have escaped the '''Unnamed Sector''', awarding you the [https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."] badge. You will now spawn with the '''Strange Keycard''' in your inventory every run, which will allow you to access [[Section E]].
 
-
-
-
-
-
+==Entities==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center"{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.png|center|150px|link=Mortis]]

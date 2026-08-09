@@ -39,8 +39,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.png|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.png|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -61,7 +61,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.png|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-175 new.png|center|150px|link=D-175]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
 {{!}}-
@@ -174,13 +174,13 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[X-1200 Entities]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Oblivion.png|center|150px|link=Oblivion]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=Unknown Entity]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Airsmile.gif|center|150px|link=GOD-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Endellion.png|center|150px|link=Endellion]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Wakey.gif|center|150px|link=Goober-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Oblivion]]
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Unknown Entity|"Unknown Entity"]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[GOD-200]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Endellion]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Goober-200]]

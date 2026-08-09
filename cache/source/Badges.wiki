@@ -50,9 +50,9 @@ Section E=
 {{BadgeSectionD|Image=Invasion EvasionNew.png|Name=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion]|Description=Wonder what that was all about. Encounter and survive the rare entity D-60i|Obtainment=Encounter and Survive [[D-60i]].}}
 {{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria Phantasmagoria]|Description=Encounter and survive an attack from ?????i|Obtainment=Encounter and Survive [[M-120i]].}}
 {{BadgeUnnamed|Image=Clipped Wings.png|Name=[https://www.roblox.com/badges/2106200052589204/Clipped-Wings Clipped Wings]|Description=So close, yet so far.|Obtainment=Die during [[Mouth|False-300]]'s chase}}
-{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]|Description=Meet #-##. This does nothing lol.|Obtainment=Encounter and survive [[R-60]] outside of [[Section R]]}}
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Lapse_Entities|Lapse Entity]].}}
 {{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]|Description=Why must this happen to me.|Obtainment=Encounter and survive [[D-60ii]].}}
+{{Badge|Image=Lapse of Judgment (Badge).png|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Alpha_&_Shadowpocalypse|Lapse Entity]].}}
+{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]|Description=Meet #-##. This does nothing lol.|Obtainment=Encounter and survive [[Unknown Entity|"Unknown Entity"]]}}
 
 |-|Other=
 '''Other:'''
@@ -60,7 +60,9 @@ Section E=
 {{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks Insanity? No thanks.]|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
 {{Badge|Image=666 666 666 (Badge).png|Name=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons|Obtainment=Complete The [[Shadow Challenge]].}}
 {{Badge|Image=The Apocalypse (Badge).png|Name=[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse]|Description="Is.. Is it over yet..?" You weren’t supposed to last this long. Enable and survive the "Alpha & Shadowpocalypse" modifier.|Obtainment=Reach door 1000, or Survive 3 [[SHA-200]]s with the [[Alpha & Shadowpocalypse]] Modifier Enabled.}}
-{{Badge|Image=Placeholder Badge.png|Name=[https://www.roblox.com/badges/3106979344724057/ERR-NXT-UPD ERR_NXT_UPD]|Description=COULD_NOT_LOAD_BADGE_INFO|Obtainment=Unknown}}
+{{Badge|Image=Placeholder Badge.png|Name=[https://www.roblox.com/badges/3106979344724057/ERR-NXT-UPD ERR_NXT_UPD]|Description=An eternal walk, along with an eternal fight. There is nowhere else for me to go but forward. I've lost everything. Even the one thing I came into this building with. Gone. Shattered. Just like that. All I have left is my own body, but for how much longer. Is there even a point to keep going when all this is doing is driving me insane.
+I want to break free, but I can't. I can't as long as this greater power watches every move. 
+I'm trapped and there's nobody to pull me out of this madness. Not even the one that I thought would be my savior from everything.|Obtainment=Unknown}}
 
 |-|Limited=
 '''Limited:'''

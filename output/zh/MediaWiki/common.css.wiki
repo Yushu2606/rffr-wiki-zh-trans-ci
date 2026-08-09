@@ -1054,6 +1054,27 @@ a[href="/wiki/Items"] {
 /**end of admins**/
 
 /**Content Mods**/
+a[href$=":SammyITOLTR"],
+a[href$="/SammyITOLTR"] {
+	color: #7200DF !important;
+	text-shadow: 0 0 2.5px #160033, 0 0 2.5px #160033, 0 0 2.5px #160033;
+}
+
+.rootpage-User_SammyITOLTR #userProfileApp,
+.rootpage-Message_Wall_SammyITOLTR #userProfileApp,
+.rootpage-User_blog_SammyITOLTR #userProfileApp,
+.rootpage-Special_Contributions_SammyITOLTR #userProfileApp,
+.rootpage-Special_UserProfileActivity_SammyITOLTR #userProfileApp {
+	color: #7200DF !important;
+	text-shadow: 0 0 2.5px #160033;
+}
+/**end of Content Mods**/
+
+/**thread mod**/
+
+/**end of thread mod**/
+
+/**RFFR devs**/
 a[href$=":ItsKevHer3"],
 a[href$="/ItsKevHer3"] {
 	animation: kev 2s infinite;
@@ -1075,14 +1096,6 @@ a[href$="/ItsKevHer3"] {
         text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
     }
 }
-/**end of Content Mods**/
-
-/**thread mod**/
-
-/**end of thread mod**/
-
-/**RFFR devs**/
-
 /**end of RFFR devs**/
 /*end of username colors*/
 

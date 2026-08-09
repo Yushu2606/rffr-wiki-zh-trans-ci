@@ -1,6 +1,5 @@
 {{SectionEStub}} {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0b74df; color: #000000;">E-30i (The Reticient Rusher Prime)</span>}}
-{{ArticleBackground|File=EBackground.jpg}}
-{{InfoBox:Entity
+{{ArticleBackground|File=EBackground.jpg}}{{InfoBox:Entity
 |entity_name=E-30i
 |entity_image=E30i.png
 |previous_entity=[[E-10i]]<br>[[E-30]]
@@ -35,3 +34,5 @@ Since '''E-30i''' doesn't give any warning to hint that it spawned, you will nee
 File:E-30iScary.gif|Jumpscare
 File:30 & 30i trail.webp|'''E-30i''' trail particle
 </gallery>
+
+{{EntityNavBox}}

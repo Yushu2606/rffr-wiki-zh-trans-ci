@@ -13,12 +13,12 @@ Section R will be the 6th section the player will come across, this section is c
 
 ==Entities==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=R-200]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[R-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>'''R-60'''
 {{!}} style="padding 5px;" align="center" {{!}}<br>'''R-115'''
 (Not The Final Name)
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[R-120]]

@@ -1,11 +1,14 @@
-{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i (Inverting Smile Prime)'''</span}}
+{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i (Inverting Smile Prime)'''</span}} {{Headphones}}
+{{Redesign|Helical|Unknown}}
+{{DesignNotAllowed|design=Upcoming Jumpscare Design|reason=Designer's Request|exceptions=N/A}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
-{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-20]]
 |next_entity=[[D-55]]
 |entity_name=[[File:D-35iPlaceholder.gif|frameless|link=D-35i]]
 |entity_image= <gallery>
+D-35iUpcomingFrame1.png|Upcoming Design Frame 1
+D-35iUpcomingFrame2.png|Upcoming Design Frame 2
 D-35iRedesign.gif|Current Design
 NewD-35i.gif|Old Design
 OldestD35i.gif|Older Design

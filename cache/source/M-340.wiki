@@ -2,7 +2,7 @@
 {{NoteBox|note=Not to be confused with M-340 from '''Rooms Re-Established'''}}
 {{ArticleBackground|File=M340Background.jpg}}
 {{Upcoming}}
-'''''"A fire is spreading throughout the world as the darkness settles within your mind, care to give up and become one with the darkness?" ~M-340'''''
+'''''"There isn't anything else to go back on... Let's just get this over with already." ~M-340'''''
 {{InfoBox:Entity
 |entity_name=[[File:M340logo.png|frameless|link=M-340]]
 |entity_image=entity_image=<gallery>
@@ -20,11 +20,12 @@ OldM-340.png|Current design
 |gun_effect=???
 |damage=???
 |related_monsters=???
-|nicknames=The Rebel
-DETESTATION}}
+|nicknames=The Rebel}}
 
 ==Description==
-'''M-340''' is a weakened blackhole who is the mid game boss of R:FF:R who's main goal is to brutally kill the player in any way, shape, or form possible. Even if it means it will have to kill itself for that to come true.
+'''M-340''' is a weakened blackhole who is the mid game boss of R:FF:R who's main goal is to brutally kill the player in any way, shape, or form possible. Even if it means it will have to kill itself for that to come true. 
+
+But it doesn't do it willingly...
 
 ==Mechanics==
 ???
@@ -33,13 +34,15 @@ DETESTATION}}
 ???
 
 ==Trivia==
-* '''M-340''' is an anarchist.
+* '''M-340''' is usually docile when [[Overseer]] isnt around
 * Collese confirmed that in his first concept he was originally Female. But that was changed for reasons that Collese forgot.
 * '''M-340''' was originally just going to be a normal entity and not a boss.
 * '''M-340''' will have a voice actor.
+* '''M-340''' can die although its really hard to kill it in terms of real life weapons.
 
 == Lore ==
 * '''M-340''' is the result of a failed shadow infection, that's how he gained his power.
+** [[Overseer|SHA-000]] used that to their advantage to pretty much force '''M-340''' to do his bidding.
 * '''M-340''' is the main supply of power for the M section.
 
 ==Gallery==

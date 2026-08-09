@@ -37,6 +37,7 @@
 * '''SHA-120''' is one of two known shadow entities with a lethal lockersnipe.
 * '''SHA-120''' moves just as fast as [[D-120]] if spawned in [[Red Rooms]].
 * '''SHA-120''' has a very low chance of replacing [[D-120]]
+* '''SHA-120''' is the only shadow entity that is not colored either pink or purple.
 
 == '''Gallery''' ==
 <gallery>

@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: white;">A-200 (Insidæ)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray; color: white;">A-200 (Insidæ)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
@@ -7,7 +7,9 @@
 |entity_name=[[File:logoair.gif|frameless|link=A-200]]
 |entity_image=entity_image=<gallery>
 NewRenovatedair.gif|Current Design 
-Airyyy_renovated_air.gif|Old Design
+Airyyy_renovated_air.gif|Old/Legacy Design
+File:TrueLegacyA-200.gif|True Legacy Design
+File:A-200 Open Beta.gif|Open Beta Design
 </gallery> 
 |caption-entity_image=the mf instakill oxygen that is APPROACHINGGGGGGGG!!
 |appears_at=Anywhere Past room A-200.
@@ -18,7 +20,7 @@ Airyyy_renovated_air.gif|Old Design
 |type=Fallbacker<br>Rebounder<br>Aimscripter (Chaos Mode)
 |behavior=spawn from behind the door and backtracks, turning around if theres a player not hiding
 |damage=Instant Death (Instant Death locker snipe)
-|speed=50 studs/s (1rps), or 80 studs/s in red rooms (1.6rps)
+|speed=60 studs/s (1rps), or 96 studs/s in red rooms (1.6rps)
 |related_monsters=[[A-120]] (Similar mechanic) 
 [[A-200i]] (Prime Variant)
 |sound1=<center>Knocking Sound</center><center>[[File:A200Knock.mp3]]</center>
@@ -30,7 +32,7 @@ Airyyy_renovated_air.gif|Old Design
 |sound7=<center>Jumpscare</center><center>[[File:A-200JumpscareEcho.mp3]]</center>}}
 
 ==Description==
-*'''A-200''' is an [[A-120]]-like entity, rebounding is a similar fashion, however with a twist. '''A-200''' has a Smart-Rebound system, where if a player is not hiding, he '''WON'T''' Aimscript, but will instantly turn around.
+*'''A-200''' is an [[A-120]]-like entity, rebounding is a similar fashion, however with a twist. '''A-200''' has a Smart-Rebound system, where if a player is not hiding, it will not directly chase them, but will instead turn around.
 
 ==Mechanic==
 *'''A-200''' will begin its spawn by knocking on the door, as a clear indication of its trap. Interacting with the door will cause instant death (forced, '''A-200''' doesn't need to see you).
@@ -52,13 +54,15 @@ Airyyy_renovated_air.gif|Old Design
 *'''A-200''' kills you under tables.
 *'''A-200'''<nowiki/>'s name is misspelled word "insidiae" ([een-SEE-dee-ae]), which means "ambush" in Latin.
 *'''A-200'''<nowiki/> cannot snipe in the [[Red Rooms]]. Use this to your advantage!
+*'''A-200'''<nowiki/> in the [[April Fools 2026]] Mode was the moon in the sky. You can see A-200 in the Lobby after using the S.P.A.W.N past door 200.
 
 == Gallery ==
 <gallery>
 File:A-200Spooky.gif|A-200's jumpscare
-File:TrueLegacyA-200.gif|True Legacy Design
-File:Sucky air.gif|Ditto, but Jumpscare/Enraged
-File:A-200 Open Beta.gif|Open Beta Design
+File:TrueLegacyA-200.gif|[[True Legacy Mode]] Design
+File:Sucky air.gif|[[True Legacy Mode]] jumpscare design
+File:A-200 Open Beta.gif|[[Open Beta Mode]] Design
+File:Mr-200 watching you.png|A-200 as the moon in [[April Fools 2026]]
 </gallery>
 {{EntityNavBoxSectionA}}
 [[Category:Entities]]

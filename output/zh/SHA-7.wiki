@@ -5,7 +5,10 @@
 |entity_image=<gallery>
 SHA7CLOSED.gif|阖脸动画
 SHA7OPENED.gif|开脸动画
-Better face.png|设计（裁切）
+SHA7Main.webp|闭合设计
+SHA7Split1.webp|分裂设计 1
+SHA7Split2.webp|分裂设计 2
+SHA7Face.webp|面部设计
 </gallery>
 |previous_entity=[[SHA-4]]
 |next_entity=[[SHA-22]]

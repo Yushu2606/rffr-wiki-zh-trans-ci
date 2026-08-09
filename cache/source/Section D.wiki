@@ -11,12 +11,12 @@ Derelict (D-Section).png|Derelict Game page image
 |entity_amount=14
 |i_entity_amount=4
 |sound1=<center>Section Opened</center><center>[[File:DSectionOpen.mp3]]</center>
-|sound2=<center>Depth Ambience</center><center>[[File:Depth.mp3]]</center>
-|sound3=<center>Derelict Ambience</center><center>[[File:Derelict.mp3]]</center>
+|sound2=<center>First Depths Ambience</center><center>[[File:Depth.mp3]]</center>
+|sound3=<center>Second Depths Ambience</center><center>[[File:Heavy Containment Zone.mp3]]</center>
 |sound7=<center>Derelict Endless Mode Ambience</center><center>[[File:OldSectorDOST.mp3]]</center>
 |sound5=<center>D-750 - D-900</center><center>[[File:Tension Repeat Drones.mp3]]</center>
 |sound6=<center>D-1000</center><center>[[File:DeepBellow.mp3]]</center>
-|sound8=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
+|sound8=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>|sound4=<center>Derelict Ambience</center><center>[[File:Derelict.mp3]]</center>}}
 
 ==Overview==
 '''Section D''' is the second section the player will encounter, and has two areas, '''Depth''', a mineshaft, and '''Derelict''', a gray metal facility. The entities in this section are similar to [[Section A]], except their abilities are stronger. Take [[D-35]] for example. It is a abrupt and fast moving entity, similiar to [[A-20]], except fast reaction time is needed. More entities stronger I variations can be found here as well, including the infamous [[D-60i]]. Once the player has reached D-400, the next section can be found, [[Section M]]. Starting from D-100, areas will be swapped from the '''Depth''' to the '''Derelict''', and starting from D-500, it will switch back to the '''Depth'''. Starting from D-750, it will switch to '''Derelict''', one last time. After reaching room D-1000, it will switch back to the '''Depth''' and will now constantly switch every 100-200 rooms.
@@ -26,8 +26,8 @@ Derelict (D-Section).png|Derelict Game page image
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.png|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.png|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]

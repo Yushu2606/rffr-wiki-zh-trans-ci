@@ -38,6 +38,7 @@ If it finds a player, that player will instantly die.
 * When [[D-60i]] is spawned, [[D-140]] can't spawn, so always prefer to hide in Blue heavy lockers/White cabinets when [[D-60i]] is active.
 * Other entities can mask '''D-55'''<nowiki/>'s sound cue so stay alert if noisy entities are present or aproaching your room
 * '''D-55''' can be avoided by hidin<nowiki/>g on fridges or green lockers
+* In [[Modifiers|Chaos Mode]], If you are pl<nowiki/>aying in [[Section A]] and '''D-55''' spawns, you can use a green locker or a fridge to escape him
 
 == Trivia ==
 *'''D-55's''' name, Motormouth, is because of the motor like sound he m<nowiki/>akes while approaching.

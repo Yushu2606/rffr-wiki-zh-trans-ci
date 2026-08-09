@@ -11,8 +11,8 @@
 |type=Wanderer
 |claustrophobia=No
 |locker_snipe=No
-|behavior=Will wonder around, chasing anyone it hears
-|gun_effect=Will cause it to become deaf aswell
+|behavior=Will wonder around, chasing anyone it hears.
+|gun_effect=Will cause it to become deaf aswell, deals less damage to the player.
 |speed=Slow
 |damage=DPS (Depends on distance)
 |related_monsters=}}
@@ -27,22 +27,31 @@ If a player is to approach the instance, '''E-120''' deals damage varying on the
 
 '''E-120''' will disappear after a few doors have been opened.
 
-==Strategies==
+==Strategy & Tips==
 * Simply try to walk past, it will only chase you if you sprint.
 ** If '''E-120''' is blocking the path, try to lure it away by sprinting or rolling through it. However, this can be risky.
-* Once you open the door and '''E-120''' spawns, listen for other entities,  and if you hear someone, walk to the previous room and hide, since '''E-120''' will pull players out of lockers if they hear them hide while it is nearby.
+* Once you open the door and '''E-120''' spawns, listen for other entities, and if you hear someone, walk to the previous room and hide, since '''E-120''' will pull players out of lockers if they hear them hide while it is nearby.
+
+== Notes ==
+* '''E-120''' is the single entity from this [[Section E|section]] which is vulnerable to [[Items#Weapons|weapons]] such as Glock 17, AK-47, APAR-16, etc.
+* '''E-120''' loses hearing after being shot enough times and deals less damage to any player that makes contact with the entity.
 
 ==Lore==
 '''E-120''' is possesed by multiple human souls. 
 
 ==Trivia==
-* '''E-120''' can be damaged if you shot it, causing it to be deaf aswell.
-* As stated by '''Oblivion''' in Misleading Darkness, if '''E-120''' wasn't blind, it would have killed every player that it'll see. 
+* As stated by [[Oblivion]] in Misleading Darkness, if '''E-120''' wasn't blind, it would have killed every player that it'll see. 
 
 ==Gallery==
+
+===GIFs===
 <gallery>
-File:RenoE-120.gif|Concept Design
-File:E-120 jumpscare.gif|'''E-120''''s jumpscare
+File:E-120 jumpscare.gif|'''E-120'''<nowiki/>'s jumpscare
+</gallery>
+
+===Miscellaneous===
+<gallery>
+File:RenoE-120.gif|'''E-120''' concept design
 </gallery>
 
 {{EntityNavBox}}

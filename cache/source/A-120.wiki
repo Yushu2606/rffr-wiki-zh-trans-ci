@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="animation: a120 5s infinite">A-120 (The Happy Scribble)</span>}} 
+{{DISPLAYTITLE:<span style="animation: a120 5s infinite">A-120 (The Glitched Scribble)</span>}} 
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-85]]<br>[[A-85i]]
@@ -9,7 +9,7 @@ File:NewA120.png|Current design
 File:A-120_Recreated.png|Old/True Legacy Design 
 </gallery>
 |appears_at=At or Past A-120
-|nicknames="The Happy Scribble"
+|nicknames=The Glitched Scribble<br>"The Happy Scribble" (Old Nickname)
 |gun_effect=None
 |locker_snipe=Yes
 |behavior=Spawns behind the current rooms door, eventually falling back and rebounds up to 4 times. Can also teleport during his encounter.

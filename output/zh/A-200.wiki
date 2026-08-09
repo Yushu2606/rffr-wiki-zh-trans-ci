@@ -1,15 +1,17 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: white;">A-200 (Insidæ)</span>}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray; color: white;">A-200 (Insidæ)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
 [[A-135i]]
 |next_entity=[[A-200i]]
-|entity_name=[[File:Logoair.webp|frameless|link=A-200]]
+|entity_name=[[File:logoair.gif|frameless|link=A-200]]
 |entity_image=entity_image=<gallery>
-NewRenovatedair.webp|当前设计
-Airyyy_renovated_air.webp|旧设计
+NewRenovatedair.gif|当前设计
+Airyyy_renovated_air.gif|旧版/遗留设计
+File:TrueLegacyA-200.gif|真正的遗留模式设计
+File:A-200 Open Beta.gif|公测设计
 </gallery> 
-|caption-entity_image=正在逼近的一击必杀氧气！
+|caption-entity_image=正在逼近的一击必杀氧气！！
 |appears_at=A-200号房间之后的任意位置
 |nicknames=Insidæ
 |claustrophobia=是
@@ -18,7 +20,7 @@ Airyyy_renovated_air.webp|旧设计
 |type=后退者<br>反弹者<br>锁定者（混乱模式）
 |behavior=从门后生成并后退，若存在未躲藏的玩家则会立刻折返
 |damage=秒杀（柜击秒杀）
-|speed=50 Studs/秒（1间/秒），红区中为80 Studs/秒（1.6间/秒）
+|speed=60 Studs/秒（1间/秒），红区中为96 Studs/秒（1.6间/秒）
 |related_monsters=[[A-120]]（机制类似）
 [[A-200i]]（素数变种）
 |sound1=<center>敲门声</center><center>[[File:A200Knock.mp3]]</center>
@@ -30,14 +32,14 @@ Airyyy_renovated_air.webp|旧设计
 |sound7=<center>跳杀音效</center><center>[[File:A-200JumpscareEcho.mp3]]</center>}}
 
 ==描述==
-*'''A-200'''是机制类似[[A-120]]的实体，反弹方式相近，但存在特殊改动。'''A-200'''拥有智能反弹系统：如果有玩家未躲藏，它不会触发锁定，而是会立刻折返。
+*'''A-200'''是机制类似[[A-120]]的实体，反弹方式相近，但存在特殊改动。'''A-200'''拥有智能反弹系统：如果有玩家未躲藏，它不会直接追击，而是会立刻折返。
 
 ==机制==
 *'''A-200'''生成时会先敲门，这是它存在的明确警示。此时交互门会导致秒杀（强制触发，'''A-200'''不需要看到你）。
 *随机敲门3到5次后（红区中为2到3次），'''A-200'''会极速敲5次门，随后破门而入。
 *'''A-200'''会短暂等待后再移动（通常为2秒，若A-135处于激活状态且不在红区中则为0.5秒，若处于红区中则无等待时间），之后以中等速度向虚空墙方向后退。
 *到达虚空墙后，'''A-200'''有1/20的概率反弹，否则会立刻消失。
-*'''A-200'''消失时会发出类似“嚎叫”的音效，全图都能听到。
+*'''A-200'''消失时会发出类似"嚎叫"的音效，全图都能听到。
 *'''A-200'''激活期间，幽闭恐惧会暂时禁用，直到它消失。
 *无论什么情况，被'''A-200'''看到的玩家都会立刻死亡。
 *在红区中不会触发柜击。
@@ -50,16 +52,18 @@ Airyyy_renovated_air.webp|旧设计
 *'''A-200'''最多只能触碰主门4次（这是开发者astra判定反弹次数的依据），之后就会强制消失。
 *如果[[A-135]]和'''A-200'''在同一个房间生成，'''A-200'''只会敲一次门。
 *'''A-200'''可以杀死躲在桌子下的玩家。
-*'''A-200'''<nowiki/>的名字是单词“insidiae”（发音：[een-SEE-dee-ae]）的误拼，该词在拉丁语中意为“伏击”。
-*'''A-200'''<nowiki/>在[[Red Rooms|红区]]中无法触发柜击，你可以利用这一点！
+*'''A-200'''<nowiki/>的名字是单词"insidiae"（发音：[een-SEE-dee-ae]）的误拼，该词在拉丁语中意为"伏击"。
+*'''A-200'''<nowiki/> 无法在[[Red Rooms|红区]]中命中。利用这一点来取得优势！
+*'''A-200'''<nowiki/> 在[[April Fools 2026|April Fools 2026（2026 愚人节）]]模式中是天空中的月亮。在通过 200 号门后使用 S.P.A.W.N，你便可以在大厅中看到 A-200。
 
 == 画廊 ==
 <gallery>
-File:A-200Spooky.webp|A-200的跳杀画面
-TrueLegacyA-200.webp|真正的遗留模式版本设计
+File:A-200Spooky.gif|A-200 的跳杀
+File:TrueLegacyA-200.gif|[[True Legacy Mode|True Legacy Mode（真实遗产模式）]]设计
+File:Sucky air.gif|[[True Legacy Mode|True Legacy Mode（真实遗产模式）]]跳杀设计
+File:A-200 Open Beta.gif|[[Open Beta Mode|Open Beta Mode（公开测试模式）]]设计
+File:Mr-200_watching_you.webp|在[[April Fools 2026|April Fools 2026（2026 愚人节）]]中化作月亮的 A-200
 </gallery>
-
-
 {{EntityNavBoxSectionA}}
 [[Category:Entities]]
 [[Category:Section A]]

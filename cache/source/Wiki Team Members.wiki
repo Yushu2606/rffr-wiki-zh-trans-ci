@@ -1,11 +1,12 @@
 == Wiki Team ==
 
 === <u>Description:</u> ===
-The Wiki Team are the creators of the Rooms: Found Footage: RENOVATED official wiki, and is currently comprised of '''1''' member(s). If you feel like any changes need to be made, DM any of the members below.
+The Wiki Team are the administrators of the Rooms: Found Footage: RENOVATED official wiki, and is currently comprised of '''2''' member(s). If you feel like any changes need to be made, DM any of the members below.
 
 ==== <u>Members:</u> ====
 <gallery>
-File:Kevin.png|ItsKevHere, R:FF:R Owner 
+File:Kevin.png|[[User:ItsKevHer3|ItsKevHere]], Wiki/Game Owner, Administrator.
+File:Sammy.png|[[User:SammyITOLTR|SammyITOLTR]], Administrator, Content Moderator.
 </gallery>
 
 {{BrowseNavBox}}

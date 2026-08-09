@@ -26,6 +26,7 @@ U-5 can't kill the player, so just let it pass
 ==Trivia==
 * '''U-5''' it's the same entity from the April fools '''U-5''' from Interminable Rooms.
 * '''U-5''' is the 1st Interminable Rooms entity in game. The 2nd being [[A-258 (IR)]]
+* '''U-5''' and [[CARDBOARD-5]] are the exact same entity. But one has a noticeable beige color making it look like cardboard hence the name [[CARDBOARD-5]]
 
 {{EntityNavBoxAdmin}}
 [[Category:Entities]]

@@ -1,30 +1,25 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 2.5px #B181CC, 0 0 2.5px #B181CC, 0 0 2.5px #B181CC; color: black;">?区（无名区域）</span>}}
-{{ArticleBackground|File=Unnamed_.webp}}
+{{ArticleBackground|File=Unnamed .png}}
 {{Section?Stub}}
-
 {{SectionInfoBox
-|image=Unnamed_.webp
+|image=Unnamed .png
 |previous_section=[[Section A|A区]]<br>[[Section D|D区]]<br>[[Section M|M区]]
 |next_section=[[Section E|E区]]
 |entity_amount=10
 |title1=未命名区|sound1=<center>开场原声带</center><center>[[File:IntoTheUnknown.mp3]]</center>}}
 
 ==概述==
-'''无名区域'''是R:FF:R的一个支线任务区。
-对应的门需要先后成功通过1/90概率、1/[当前区稀有房间数量]概率的两次判定才会生成，可生成于[[Section A|A区（A-100+）]]、[[Section D|D区（仅废弃段）]]以及[[Section M|M区（仅维护隧道段）]]。玩家在'''无名区域'''内的目标是找到'''奇怪的钥匙卡'''（可在100号门后生成），并找到逃生门——逃生门仅在玩家背包中持有钥匙卡时才会生成。穿过第一道出口门后，[[Mouth|False-300]]会一路向前追逐玩家，直到玩家抵达真正的出口门；该出口门通往可返回[[Section A|A区]]大厅的电梯。回到A区大厅后，已到达过M-400的玩家可使用S.P.A.W.N终端传送至'''M-400'''，还能使用这张钥匙卡解锁通往[[Section E|E区]]的门。
+'''无名区域'''是你在游戏中会遇到的第4个区。本区入口可在[[Section A|A区（A-100+）]]、[[Section D|D区（仅废弃段）]]和[[Section M|M区（仅维护隧道段）]]中生成，需先后成功通过1/90概率与1/[当前区稀有房间数量]概率的两次判定。你在'''无名区域'''内的目标是找到'''奇怪的钥匙卡'''，该钥匙卡在首次[[False-200]]袭击后开始生成。拾取'''奇怪的钥匙卡'''后，再过几个房间便会触发[[Red Rooms|红区]]，你需要在其中找到第一道随机生成的逃生门（该逃生门必定在[[Red Rooms|红区]]开始后100扇门处生成）。但这并非终点，因为当你走过第一道逃生门、接近长廊尽头时，[[Mouth|False-300]]会从你身后出现并一路向前追逐你，直到你抵达第二道也是最终的逃生门——该门通往一部可返回[[Section A|A区]]大厅的电梯。
 
+你已成功逃出'''无名区域'''，并获得[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End.（终焉之始。）"]徽章。此后每次逃生开局时，你的背包中都会持有'''奇怪的钥匙卡'''，可用于进入[[Section E|E区]]。
 
-
-
-
-
-
+==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center"{{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.webp|center|150px|link=Mortis]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.webp|center|150px|link=False Witness]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:FalseProphet.webp|center|150px|link=False Prophet]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.webp|center|150px|link=Tackle]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Mortis.png|center|150px|link=Mortis]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:NewFalseWitness.png|center|150px|link=False Witness]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:FalseProphet.png|center|150px|link=False Prophet]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Newtackle.png|center|150px|link=Tackle]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Mori]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Mortis]]
@@ -32,11 +27,11 @@
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[False Prophet]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Tackle]]
 {{!}}-
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.webp|center|150px|link=Lunge]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.webp|center|150px|link=Execution]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.webp|center|150px|link=False-60]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.webp|center|150px|link=False-120]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.webp|center|150px|link=False-200]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.png|center|150px|link=Lunge]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.png|center|150px|link=Execution]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]
@@ -44,57 +39,56 @@
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[False-120]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[False-200]]
 {{!}}}
-
 ==非专属实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:False300.webp|center|150px|link=Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.webp|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:False300.png|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
 {{!}}}
 
-== Rooms ==
+== 房间 ==
 <gallery>
-File:AUnnamed.webp|位于[[Section A|A区]]、包含无名区域入口的房间
-File:DUnnamed.webp|位于[[Section D|D区]]、包含无名区域入口的房间
-File:Unnamed_Sector_entrance_in_M-Section.webp|位于[[Section M|M区]]、包含无名区域入口的房间
-File:Unnamed_.webp
+File:AUnnamed.jpg|[[Section A|A区]]内包含无名区域入口的房间
+File:DUnnamed.jpg|[[Section D|D区]]内包含无名区域入口的房间
+File:Unnamed Sector entrance in M-Section.png|[[Section M|M区]]内包含无名区域入口的房间
+File:Unnamed .png
 </gallery>
 
 == 其他 ==
 <gallery>
-MUnnamed.webp|[[Section M|M区]]内旧版包含无名区域入口的房间
-UnnamedAdoor.webp|[[Section A|A区]]内通往无名区域的旧版门
-UnnamedDdoor.webp|[[Section D|D区]]内通往无名区域的旧版门
-OldunnamedMdoor.webp|[[Section M|M区]]内通往无名区域的旧版门
-Unnamed1.webp|通往无名区域的电梯
-NewUnnamedDoor.webp|无名区域当前使用的门模型
-Unnamed2.webp|无名区域的旧版门模型
-Unnamed4.webp|进入[[Section E|E区]]所需的奇怪钥匙卡，可在无名区域的地面上见到
+MUnnamed.jpg|[[Section M|M区]]内包含无名区域入口的旧房间
+UnnamedAdoor.jpg|[[Section A|A区]]中通往无名区域的旧门
+UnnamedDdoor.jpg|[[Section D|D区]]中通往无名区域的旧门
+OldunnamedMdoor.webp|[[Section M|M区]]中通往无名区域的旧门
+Unnamed1.png|通往无名区域的电梯
+newUnnamedDoor.jpg|无名区域当前的门模型
+Unnamed2.png|无名区域的旧门模型
+Unnamed4.png|进入[[Section E|E区]]所需的奇怪钥匙卡，见于无名区域的地面上
 File:UnnamedDemoThumbnail.webp|无名区域试玩版发布时的游戏缩略图
 </gallery>
 
 ==背景故事==
-失败的实体会被流放至此。
+失败实体被放逐之地
 
-==应对策略==
+==策略==
 * 待公布
 
 ==徽章==
-{{BadgeUnnamed|Image=IntoTheUnkownBadge.webp|Name=Into The Unknown（踏入未知）|Description=0000|Obtainment=进入无名区域}}
-{{BadgeUnnamed|Image=SectorShutdown.webp|Name=Sector Shutdown（区域关停）|Description=You caused this.（这都是你造成的。）|Obtainment=拾取奇怪钥匙卡，触发[[Red Rooms|红区]]}}
-{{BadgeUnnamed|Image=TheBeginningofTheEnd.webp|Name=The Beginning of The End.（终焉之始。）|Description=Escape.（逃脱。）|Obtainment=携带奇怪钥匙卡从无名区域逃脱}}
-{{BadgeUnnamed|Image=MoneyWalks.webp|Name=Money Walks（金钱漫步）|Description=0500|Obtainment=到达无名区域的0500号门}}
-{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.webp|Name=Wasted My Time For This Badge 👍（浪费时间拿这个徽章 👍）|Description=1000|Obtainment=到达无名区域的1000号门}}
+{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=进入未知|Description=0000|Obtainment=进入无名区域}}
+{{BadgeUnnamed|Image=SectorShutdown.png|Name=区域关闭|Description=你造成了这一切。|Obtainment=捡起奇怪钥匙卡以启动[[Red Rooms|红区]]}}
+{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=终末之始。|Description=逃脱。|Obtainment=携带奇怪钥匙卡从无名区域逃脱}}
+{{BadgeUnnamed|Image=MoneyWalks.png|Name=金钱漫步|Description=0500|Obtainment=在无名区域到达0500号门。}}
+{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=为这个徽章浪费了我的时间 👍|Description=1000|Obtainment=在无名区域到达1000号门。}}
 
-== 冷知识 ==
-* [[Mori]]、[[Tackle]]、[[False Witness]]与[[False-60]]在500号门之后的无名区域外有1/2000的概率生成。
-** 除非激活了名为'''Are you.. supposed to be here（你……本该出现在这里吗）'''的[[Modifiers|修饰符]]，此时生成概率为1/200。
-* 无名区域曾推出过仅有50个房间的试玩版，其中[[Mori]]、[[False Witness]]与[[Tackle]]是仅有的威胁。
-* [https://youtu.be/3nOKl6moUYs?si=jDmMUtkWP--cy1yb Update Executive 预告2]
-* [https://youtu.be/utl2B4LcVic?si=Tpo3g6BzId8MvFDw Update Executive 预告9]
+== 轶事 ==
+* [[Mori]]、[[Tackle]]、[[False Witness]]和[[False-60]]在500号门之后有1/2000的概率生成于无名区域之外
+** 除非激活了'''Are you.. supposed to be here（你……应该在这里吗）'''[[Modifiers|修饰符]]，此时概率为1/200
+* 无名区域曾有一个持续50个房间的试玩版，其中[[Mori]]、[[False Witness]]和[[Tackle]]是仅有的威胁
+* [https://youtu.be/3nOKl6moUYs?si=jDmMUtkWP--cy1yb Update Executive 预告 2]
+* [https://youtu.be/utl2B4LcVic?si=Tpo3g6BzId8MvFDw Update Executive 预告 9]
 
 [[Category:Sections]]

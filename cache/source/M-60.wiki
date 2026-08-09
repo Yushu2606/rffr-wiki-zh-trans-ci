@@ -28,8 +28,9 @@ Locker Checker
 |sound1=<center>locker being Ⅹ'ed</center><center>[[File:OblivionX.mp3]]</center>
 |sound2=<center>Far Ambience '''Recreation'''</center><center>[[File:M60Far.mp3]]</center>
 |sound3=<center>Close Ambience</center><center>[[File:M60near.mp3]]</center>
-|sound4=<center>Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
-|sound5=<center>Jumpscare Sound</center><center>[[File:M-60Scare.wav]]</center>}}
+|sound4=<center>Close Ambience in [[Legacy Mode]]</center><center>[[File:LegacyI60Near.mp3]]</center>
+|sound5=<center>Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>
+|sound6=<center>Jumpscare Sound</center><center>[[File:M-60Scare.wav]]</center>}}
 
 <h2> Description </h2>
 '''M-60''' is the 2nd entity you'll encounter within the [[Section M]].
@@ -47,6 +48,9 @@ When '''M-60''' spawns, [[Oblivion]] will mark one or more random lockers in the
 * '''M-60''' now able to check tables, just like A-60 (firstly sniping and then killing if in sight). However, its prime [[M-60i|Mediator]] still cannot check tables. So, if necessary, you can use them as hiding spot without being spotted by entity.
 * '''M-60''' has a very small chance of checking a locker in the pr<nowiki/>evious room (has a higher chance of doing if there is almost no lockers in the main room).
 * Lockers wont be marked by [[Oblivion]] during Perfection Events, due to [[Overseer]] taking their place for the events.
+
+<h2> Bugs </h2>
+* '''M-60''' refuses to spawn if any modifier other than "Stay Alert" is enabled.
 
 == Gallery ==
 <gallery>

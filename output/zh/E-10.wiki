@@ -1,18 +1,18 @@
 {{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #000, #FFA500); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10（耐心）</span>}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{NoteBox|note=请勿将其与《Rooms Re-Established》中的E-10、《Interminable Rooms》中的E-10，或是《Rooms: Found Footage: Revisited》中的E-17混淆。}}
 {{Redesign|Wawaman|未知}}
 {{DesignNotAllowed|design=Upcoming 设计|reason=应设计师要求|exceptions=游戏内截图}}
 {{InfoBox:Entity
-|entity_name=[[File:E-10PlaceHolder.webp|frameless|link=E-10]]
+|entity_name=[[File:E-10PlaceHolder.png|frameless|link=E-10]]
 |entity_image=<gallery>
 Placeholder.webp|Upcoming 设计
-E-10Anim.webp|动画重制
-E-10.webp|设计稿
+E-10Anim.gif|动画重制
+E-10.png|设计稿
 OldE10Anim.gif|测试版动画重制
 OldE-10.webp|测试版设计稿
 </gallery>
-|previous_entity=[[M-340]]<br>[[Mouth|False-300]]
+|previous_entity=[[M-340]]<br>[[Mouth#Unnamed Sector|False-300]]
 |next_entity=[[E-10i]]<br>[[E-30]]
 |claustrophobia=否
 |nicknames=耐心
@@ -30,42 +30,60 @@ OldE-10.webp|测试版设计稿
 |sound3=<center>跳杀音效</center><center>[[File:E-10Jumpscare.mp3]]</center>|sound4=<center>消失音效 '''重制版'''</center><center>[[File:E-10Despawn.mp3]]</center>}}
 
 ==描述==
-'''E-10'''是你在[[Section E|E区]]中可能遇到的第一个实体，也是[[Section Executive Invasion Event|行政入侵事件]]期间出现的入侵实体之一。更多信息如下。
+'''E-10'''是你在[[Section E|E区]]中可能遇到的第一个实体。更多信息如下。
 
-==机制==
-'''E-10'''会在门前生成，几秒后向后冲刺，之后会在虚空墙后等待，直到下一扇门被打开或破坏。门被开启或破坏后，它会冲刺返回主房间，开启的门越多它的速度就越快，撞到门后就会消失，此时它有概率生成一个实体，无需破坏门即可触发该生成效果。
+==行为==
+'''E-10'''会出现在出口门前，同时发出低沉的钢琴音效。闲置数秒后，'''E-10'''会像往常一样开始向后冲刺，与[[A-85]]类似。与后者不同的是，'''E-10'''抵达虚空墙后不会消失，而是会停在屏障后方，直到下一扇门被打开或破坏。
 
-==应对策略==
-* 看到它出现后立刻躲藏，等它回退后再离开柜子开门。如果后面的几间房是直道，你可以回头观察，把握躲藏时机；如果不是，建议你在开门后4~秒左右躲藏。
-* '''E-10'''的攻击范围极大，足以从另一个房间对你造成伤害，所以当它距离你还有一段距离时就要进入柜子躲藏，不要躲在依赖实体短攻击范围的开阔安全点。
+当此情况发生时，'''E-10'''会返回主房间。如果在其返回期间有更多门被打开/破坏，该实体会提升速度以试图趁玩家不备追上玩家，撞到门后便会消失，且有可能生成另一个实体。
+
+==策略与提示==
+* 看到它后立刻躲藏，等待它后退。待它经过后，你应离开柜子并在约六秒后开门。之后，你须等待约四秒再进入柜子。
+** 如果后方房间的布局是直道，你可以稍微窥探'''E-10'''的位置，确认何时可以再次进入柜子以躲避它的攻击。
+* '''E-10'''的击杀范围非常大，大到足以从另一个房间对你造成伤害，因此当该实体返回主房间且靠近你时，务必进入柜子。
+** 距离实体击杀范围足够远或完全不透明的安全点也同样有效。
+
 * [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU 演示视频]
 
-==你知道吗==
-* '''E-10'''是[[Section Executive Invasion Event|行政入侵事件]]期间出现的两种入侵实体之一，另一个是[[E-60]]。 
-* '''E-10'''改编自《Rooms: Found Footage: Revisited》中的'''E-17'''，但机制有所调整。
-* '''E-10'''有一个玩笑别名“太阳”，因为它会发出非常明亮的光，且光照范围很大。
-* 如果你在'''E-10'''仍停留在门上时开门，它会立刻开始移动，几乎瞬间将你击杀。
-* 如果你或其他事物打开门，并在'''E-10'''等待期间生成了[[E-200]]，它会继续等待直到[[E-200]]消失。
+==注意==
+* 当[[E-200]]处于活跃状态时，'''E-10'''不会返回主房间，尤其是在有门被打开/破坏的情况下。
 
-==画廊==
+==你知道吗==
+
+```
+* '''E-10''' 是 [[Section Executive Invasion Event]] 期间出现的两个入侵实体之一，另一个是 [[E-60]]。
+* '''E-10''' 是对来自 '''Rooms: Found Footage: Revisited''' 的 '''E-17''' 的重新利用，尽管机制有所改变。
+* '''E-10''' 有一个玩笑昵称叫 '''Sun'''，因为它拥有非常明亮的光线和很大的光照范围。
+
+==Gallery==
+
+===游戏内图片===
 <gallery>
-File:E-10NewScare.webp|跳杀。
-File:E10jump.webp|入侵事件跳杀。
-File:OldE-10Jum.webp|发布前跳杀。
-File:TheSun.webp|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，出现在[[Section D|D区]]的'''E-10'''。
-File:TheOldSun.webp|发布前的'''E-10'''，即将杀死玩家。
-File:ByeE10.webp|在[[Section Executive Invasion Event|Section Executive Invasion Event（分区主管入侵事件）]]期间，'''E-10'''于[[Section D|D区]]从玩家身旁经过。
-File:E-10SafeSpot.webp|出现在安全点位的'''E-10'''。
-File:E-10 despawn p.webp|'''E-10'''的消失粒子。
+File:TheSun.jpg|在 [[Section D]] 的 [[Section Executive Invasion Event]] 期间看到的 '''E-10'''。
+File:TheOldSun.jpg|预发布版本的 '''E-10'''，即将杀死玩家。
+File:E-10SafeSpot.png|从安全点几乎看不到的 '''E-10'''。
+</gallery>
+
+===GIFs===
+<gallery>
+File:E-10NewScare.gif|'''E-10'''<nowiki/>的跳杀。
+File:E10jump.gif|'''E-10'''<nowiki/>的入侵事件跳杀。
+File:OldE-10Jum.gif|'''E-10'''<nowiki/>的预发布版本跳杀。
+File:ByeE10.gif|在 [[Section D]] 的 [[Section Executive Invasion Event]] 期间，'''E-10''' 经过玩家身边。
+</gallery>
+
+===杂项===
+<gallery>
+File:E-10 despawn p.webp|'''E-10''' 的消失粒子。
 </gallery>
 
 == 徽章 ==
-{{BadgeSectionE|Image=SectorBreach.webp|Name=Sector Breach（扇区突破）|Description=[无法获取] 在任意区遭遇并从两个来源未知的意外异常之一手中存活，即便经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇'''E-10'''或[[E-60#Old|E-60]]并存活}}
+{{BadgeSectionE|Image=SectorBreach.png|Name=区域突破|Description=[无法获取] 在任意区域遭遇并从未知来源的两个意外异常之一中存活下来，即使经过数千个房间，'''它们'''也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇并从 '''E-10''' 或 [[E-60#Old|E-60]] 手中存活}}
 
 {{EntityNavBox}}
 
-[[Category:Entities|实体]]
-[[Category:Section E|E区]]
-[[Category:Fallbacker|后退者]]
-[[Category:Rebounder|反弹者]]
-[[Category:Invader|Invader（入侵者）]]
+[[Category:Entities]]
+[[Category:Section E]]
+[[Category:Fallbacker]]
+[[Category:Rebounder]]
+[[Category:Invader]]

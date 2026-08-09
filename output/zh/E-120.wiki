@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #C10038, #C10038, #5D001B, #5D001B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-120（散光）</span>}}
 {{NoteBox|note=请勿与'''《Interminable Rooms but it's 200 players》'''中的E-120或是'''《Rooms: Found Footage: Revisited》'''中的同名实体混淆}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{InfoBox:Entity
-|entity_name=[[File:E-120Title.webp|frameless|link=E-120]]
-|entity_image=File:E-120_Design.webp
+|entity_name=[[File:E-120Title.png|frameless|link=E-120]]
+|entity_image=File:E-120 Design.png
 |nicknames=散光
 |previous_entity=[[E-90]]
 |next_entity=[[E-165]]
@@ -11,8 +11,8 @@
 |type=游荡者
 |claustrophobia=否
 |locker_snipe=否
-|behavior=会四处游荡，追逐所有它听到的玩家
-|gun_effect=也会导致它失聪
+|behavior=会四处游荡，追逐所有它听到的玩家。
+|gun_effect=也会导致它失聪，对玩家造成的伤害降低。
 |speed=缓慢
 |damage=每秒伤害（取决于距离）
 |related_monsters=}}
@@ -21,28 +21,37 @@
 '''E-120'''是你会在[[Section E|E区]]中遇到的众多实体之一，更多相关信息如下所示。
 
 ==行为==
-生成后，它会停留在门后，数秒后开门并开始四处游荡。'''E-120'''没有视觉，但无论玩家是在它的侦测范围内奔跑，还是在它周边躲藏，它都会跟随并追逐所有它听到的目标。当'''E-120'''察觉到玩家进入柜子或桌下躲藏位时，它会前往玩家所在的躲藏位置，将玩家强行拽出。 
+生成后，它会停留在门后，数秒后开门并开始四处游荡。'''E-120'''没有视觉，但无论玩家是在它的侦测范围内奔跑，还是在它周边躲藏，它都会跟随并追逐所有它听到的目标。当'''E-120'''察觉到玩家进入柜子或桌下躲藏位时，它会前往玩家所在的躲藏位置，将玩家强行拽出。
 
 如果玩家靠近该实体，'''E-120'''会根据双方的间距造成不同数值的伤害。
 
 在有数扇门被打开后，'''E-120'''就会消失。
 
-==应对策略==
+==策略与技巧==
 * 直接尝试步行通过即可，只有当你冲刺时它才会追逐你。
 ** 如果'''E-120'''挡住了去路，可以尝试通过冲刺引开它，或是翻滚穿过它的身体。不过这种做法存在一定风险。
 * 当你开门触发'''E-120'''生成后，要留意聆听其他实体的动静；如果听到有其他实体存在，就走回上一个房间躲藏，因为如果玩家在'''E-120'''附近躲藏被它听到，它会把玩家从柜子里拽出来。
 
+==注意事项==
+* '''E-120'''是本[[Section E|E区]]中唯一会受到[[Items#Weapons|武器]]（如Glock 17、AK-47、APAR-16等）伤害的实体。
+* '''E-120'''在被击中足够多次后会失去听觉，并且对任何与其接触的玩家造成的伤害降低。
+
 ==背景设定==
-'''E-120'''被多个人类灵魂附身。 
+'''E-120'''被多个人类灵魂附身。
 
 ==你知道吗==
-* 射击'''E-120'''可对其造成伤害，同时也会导致它失聪。
-* 正如'''Oblivion'''在《Misleading Darkness》中提到的，如果'''E-120'''没有失明，它会杀死所有它看见的玩家。 
+* 正如[[Oblivion]]在《Misleading Darkness》中提到的，如果'''E-120'''没有失明，它会杀死所有它看见的玩家。
 
 ==画廊==
+
+===GIFs===
 <gallery>
-File:RenoE-120.webp|概念设计
-File:E-120_jumpscare.webp|'''E-120'''的跳杀
+File:E-120 jumpscare.gif|'''E-120'''<nowiki/>的跳杀
+</gallery>
+
+===杂项===
+<gallery>
+File:RenoE-120.gif|'''E-120'''概念设计
 </gallery>
 
 {{EntityNavBox}}

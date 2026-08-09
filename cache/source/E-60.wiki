@@ -17,7 +17,7 @@ NewE607.png|Upcoming 7th Face
 |claustrophobia=No
 |appears_at=E-060+
 |type=Rusher<br>Rebounder
-|behavior=Rushes to the main room, breaks the door, stays behind the lastest door for a few seconds before busting through that Second door and fallsback
+|behavior=Rushes to the main room, breaking down the door and stays behind the exit door for a few seconds before coming through the room and smashes the door again while fallback.
 |speed=Moderate (Rushing)<br>Fast (Falling Back)
 |locker_snipe=Yes
 |gun_effect=None
@@ -30,50 +30,57 @@ NewE607.png|Upcoming 7th Face
 |sound4=<center>Ambience Origin</center><center>[[File:E60Orgin.mp3]]</center>}}
 
 ==Description==
-'''E-60''' will be the 4th entity you will encounter in [[Section E]] and was one of the Invasive entities present during the [[Section Executive Invasion Event]]. More info shown below.
+'''E-60''' will be the 4th entity you will encounter in [[Section E]] and was one of the Invasive entities present during the [[Section Executive Invasion Event]]. More information about this entity is shown below.
 
 ==Mechanics==
 <tabber>
 |-|Current=
-'''Current''':<br>When '''E-60''' spawns, it will begin to rush to the main room at Moderate speed, filling the players screen with static when nearby to warn them to hide immediately, then smash into the door, breaking it down and despawning, immediately respawning far ahead and staying idle. '''E-60''' will begin to rush backwards after around 4 seconds or if the door is opened, when it does rush backwards, it will start filling the player's screen with static, breaking the door and falling back quickly, truly despawning past Voidwall.
-
-If a player dies or gets locker sniped by '''E-60''' while it is rushing to the door, it Will Break 1 locker in each room when falling back, this being indicated by [[Oblivion]] marking lockers with an X.
+'''Current''':<br>When '''E-60''' spawns, it will begin to rush to the main room at moderate speed, filling the player's screen with static when nearby to warn them to hide immediately, then smash into the door, breaking it down and feigning its disappearance.
+After around 4 seconds have passed, or if the door was opened/broke, '''E-60'''  becomes apparent again and proceeds to run at fast speeds while breaking down the door, fully disappearing past the Voidwall.
+If a player dies or gets locker sniped by '''E-60''' while it is rushing to the door, it will break a single locker in each room when falling back, this being indicated by [[Oblivion]] marking lockers with an ''X''.
 
 |-|Old=
-'''Old''':<br>When '''E-60''' spawns, it will begin to rush to the main room at Moderate speeds, emmiting very quiet sounds, when it hits the door, it will break it no matter what, then it will place itself behind the next rooms door and go silent, tho leaving small amounts of static on the players screen, after 4~ seconds it will start playing its Ambience again, breaking the door down after 3 seconds(2 if in [[Red Rooms]]) and rushing backwards at Moderate speed, despawning past voidwall.
+'''Old''':<br>When '''E-60''' spawns, it will begin to rush to the main room at moderate speeds and emit a low rumbling noise, along with a loud murmur sound when close. 
+After '''E-60''' has managed to arrive in the current room, it will proceed to shatter the door and afterwards place itself behind the exit door, where it goes silent, however, '''E-60''' leaves small amounts of static on the player's screen. After four seconds of idling, the entity becomes apparent again while emitting noises and breaks the door down after 3 seconds (2 if in [[Red Rooms]]) and goes backwards at moderate speed, fully disappearing past the Voidwall.
 </tabber>
 
 ==Strategies & Tips==
-* after it hits the door, you should exit your locker, and Reenter after 3 seconds.
+* After '''E-60''' hits the door, the player/s has to exit the locker and hide again after two to three seconds before the entity shows up again.
+* If an entity breaks the door while '''E-60''' is behind it, it will cause him to immediately backtrack, so if you hear an entity that is able of breaking the door while '''E-60''' is active, do not exit your locker.
+* During the [[Red Rooms]], '''E-60''' gives less time to react before and after smashing the door. Thus, the player/s have to enter and exit the locker much more quickly, akin to [[A-60i]].
 
-* if an entity breaks the door While '''E-60''' is behind it, it will cause him to immediately backtrack, so if you hear an entity that is able of breaking the door while '''E-60''' is active, do not exit your locker.
-
-* if you are in [[Red Rooms]] and '''E-60''' is already behind the door, rehide earlier, since '''E-60''' will give you less time to react.
-
-* [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt Current behavior Representation]
+* [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt Current Behavior Representation]
 * [https://youtu.be/TqbnnePI3eo?si=YDbnZZwaUh9mq8v5 Old Behavior Representation]
 
 ==Trivia==
 * '''E-60''' has a chance to rush to the main room without its far sound.
 ** '''E-60''' will start play its close sound from further away, giving you bit more time to react and hide if this happens.
-* '''E-60''''s old faces originate from the roblox marketplace.
+* '''E-60''''s old faces originate from the Roblox Marketplace.
 ** These were removed from the game due to the user who uploaded them having stolen them.
-*** '''E-60''' Used [[A-60i]]'s Old Design as a Placeholder for the rest of the [[Section Executive Invasion Event]] due to this.
+*** '''E-60''' used to have [[A-60i]]'s old design sprites as a placeholder for the rest of the [[Section Executive Invasion Event]] because of this reason.
 * '''E-60''' was one of the two Invasive entities present during the [[Section Executive Invasion Event]], the other being [[E-10]].
-* '''E-60''' is the slowest 60 entity.
+* '''E-60''' is the slowest counterpart of [[A-60]] from this game.
 
 ==Gallery==
+
+===In-Game Images===
 <gallery>
 E60SaysHi.jpg|'''E-60''' seen in [[Section M]] During the [[Section Executive Invasion Event]], about to kill the player. 
 NVCSE60.jpg|'''E-60''' seen through the '''NVCS-13793-C'''.
-NewE60jum.gif|E-60's Jumpscare.
-TempE60jum.gif|E-60's Jumpscare with its temporary faces.
-E60jump.gif|E-60's Old Jumpscare.
+</gallery>
+===GIFs===
+<gallery>
+NewE60jum.gif|'''E-60'''<nowiki/>'s jumpscare.
+TempE60jum.gif|'''E-60'''<nowiki/>'s Jumpscare with its temporary faces.
+E60jump.gif|'''E-60'''<nowiki/>'s Old Jumpscare.
 ByeE60.gif|'''E-60''' passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
-HiE60.gif|'''E-60''' with its temporary Faces seen by the eyes of a Diceased player.
-E60CurrentAnim.gif|Animation Recreation with its current faces.
-E60tempanimation.gif|Animation Recreation with its temporary faces.
-E60anim.gif|E-60's Animation with its old faces.
+HiE60.gif|'''E-60''' with its temporary faces seen by the eyes of a deceased player.
+E60CurrentAnim.gif|'''E-60''' Animation [Recreation].
+E60tempanimation.gif|Ditto, with its temporary faces.
+E60anim.gif|Ditto, with its old faces.
+</gallery>
+===Miscellaneous===
+<gallery>
 E601.png|Current 1st Face (Crop)
 E602.png|Current 2nd Face (Crop)
 E603.png|Current 3rd Face (Crop)
@@ -82,18 +89,18 @@ E605.png|Current 5th Face (Crop)
 E606.png|Current 6th Face (Crop)
 E607.png|Current 7th Face (Crop)
 E608.png|Current 8th Face (Crop)
-TempE601.webp|E-60's temporary First Face.
-TempE602.webp|E-60's temporary Second Face.
-TempE603.webp|E-60's temporary Third Face.
-TempE604.webp|E-60's temporary Fourth Face.
-TempE605.webp|E-60's temporary Fifth Face.
-TempE606.webp|E-60's temporary Sixth Face.
-E-601.webp|E-60's old First Face.
-E-602.webp|E-60's old Second Face.
-E-603.webp|E-60's old Third Face.
-E-604.webp|E-60's old Fourth Face.
-E-605.webp|E-60's old Fifth Face.
-E-606.webp|E-60's old Sixth Face.
+TempE601.webp|'''E-60'''<nowiki/>'s temporary First Face.
+TempE602.webp|'''E-60'''<nowiki/>'s temporary Second Face.
+TempE603.webp|'''E-60'''<nowiki/>'s temporary Third Face.
+TempE604.webp|'''E-60'''<nowiki/>'s temporary Fourth Face.
+TempE605.webp|'''E-60'''<nowiki/>'s temporary Fifth Face.
+TempE606.webp|'''E-60'''<nowiki/>'s temporary Sixth Face.
+E-601.webp|'''E-60'''<nowiki/>'s old First Face.
+E-602.webp|'''E-60'''<nowiki/>'s old Second Face.
+E-603.webp|'''E-60'''<nowiki/>'s old Third Face.
+E-604.webp|'''E-60'''<nowiki/>'s old Fourth Face.
+E-605.webp|'''E-60'''<nowiki/>'s old Fifth Face.
+E-606.webp|'''E-60'''<nowiki/>'s old Sixth Face.
 </gallery>
 
 == Badges ==
@@ -101,6 +108,7 @@ E-606.webp|E-60's old Sixth Face.
 
 
 {{EntityNavBox}}
+
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Ambusher]]

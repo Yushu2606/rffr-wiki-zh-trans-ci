@@ -26,12 +26,14 @@ E10iJumpscare.png|Current Jumpscare Design
 <center>Jumpscare</center><center>[[File:E-10iScare.mp3]]</center>}}
 
 == Description ==
-'''E-10i''' is one of the many entities you may encounter within [[Section E]], it being the i variant of [[E-10]], acting the same but faster and having the ability to teleport
+'''E-10i''' is one of the many entities you may encounter within [[Section E]], it being the i variant of [[E-10]], acting the same but faster and having the ability to teleport.
 
 == Behaviour ==
-'''E-10i''' will spawn infront the door, rushing back after around 1-2 seconds, it will then wait behind the void wall until the next door is opened or broken down. After the door is opened or is broken down, it will rush back to the main room, hitting the door and teleporting back to voidwall and wait for another door to be opened or broken, it will repeat this around 1-4 times, having a chance of Spawning an entity each time it hits the door.
+'''E-10i''' will spawn in front of the main room exit door and begin to run back after idling for roughly three seconds. The entity will then wait behind the Voidwall until the next door is opened or broken down. 
 
-==Strategies==
+When this action occurs, '''E-10i''' will rush back to the main room and break down the door. However, compared to the [[E-10|original counterpart]], '''E-10i''' will teleport after a few seconds, waiting for another door to be opened or broken. '''E-10i''' will repeat this process around one to four times before disappearing, colliding with the door, which could potentially lead to another entity spawning.
+
+==Strategy & Tips==
 * It is recommended to hide right after it spawned, as it will only give you 1-2 seconds to react.
 ** Think about what locker you're about to use though, since you might end up dying to [[E-45]].
 * If a door gets opened/broken, hide immediately as '''E-10i''' is faster than the [[E-10|normal counterpart]].

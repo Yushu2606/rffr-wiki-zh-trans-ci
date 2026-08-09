@@ -58,7 +58,8 @@ If '''D-60''' isn't lucky enough, he will instead make a loud wind sound while g
 *'''D-60''', when sniping; Gives you 20 MAL. DMG, aka Malicious Damage (Malicious Damage takes off of your Maximum Health and can be removed with V-Boosters).
 *'''D-60'''<nowiki/>'s locker snipe cannot kill you unless you were under 50 health when it happened.
 *'''D-60'''<nowiki/>'s rebound limit is '''7''' rebounds on maximum.
-*'''D-60'''<nowiki/>'''<nowiki/>'s''' jumpscare sound is Bonnies jumpscre from the FNAF Fangame, The Joy of Creation.
+*'''D-60'''<nowiki/>'''<nowiki/>'s''' jumpscare sound is Bonnies Jumpscare from the FNAF Fangame, The Joy of Creation.
+*'''D-60'''<nowiki/>'''<nowiki/>’s''' [[D-60i|vari]][[D-60ii|ants]] are entities that both give badges, and are bosses
 
 ==Gallery==
 <gallery>

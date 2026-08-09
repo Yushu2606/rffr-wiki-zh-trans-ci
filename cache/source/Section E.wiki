@@ -15,7 +15,7 @@
 |sound5=<center>Endless Mode</center><center>[[File:Endless.mp3]]</center>}}
 
 ==Overview==
-'''Section E''' is the 5th section the player will encounter within the game, being one that requires the strange keycard to enter, this section is supposed to be for experienced players, since its more difficult than the previous sections, overall there's 9 main threats in this section (11 if counting the i variants).
+'''Section E''' is the 5th section the player will encounter within the game, being one that requires the strange keycard to enter. This section is meant for experienced players, as it's more difficult than the previous sections. There are 11 total section locked entities that reside here.
 
 ==Entities==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
@@ -69,9 +69,12 @@
 {{!}}}
 
 ==Strategies==
-*TBA
+* TBA
 
 ==Trivia==
+* (NOT INGAME YET) Players are unable to access '''Section E''' if they lack the [https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."] badge.
+** It doesn't matter if someone tries to use the '''Strange Keycard''' to let someone else who lacks it into '''Section E''', teleport will be impossible.
+*** [[File:AntiESectionCarrying.jpg|300px]]
 * [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive Teaser 1]
 * '''Section E''' is the first section to not have a entity that disables [[Claustrophobia]]
 * [[Section Executive Invasion Event|The Executive Invasion]]

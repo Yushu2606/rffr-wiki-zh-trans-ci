@@ -49,6 +49,9 @@ RRA.jpg|A Section A room seen during '''Red Rooms'''
 *[[D-60]] can spawn passively, it will react to its despawn faster, has more chance to fake despawn. 
 *[[D-60i]] spawn chance Decreases drastically, as well as losing ability to stall while rebounding
 *[[D-120]] gives less time to hide.
+*[[D-175]] Has a slightly higher chance of spawning
+*[[D-250]] Shoots orbs faster, as well as despawning faster.
+
 
 <h2>Strategies</h2>
 * Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
@@ -149,6 +152,7 @@ RRE.jpg|A Section E room seen during '''Red Rooms'''
 * [[SHA-120]] fallbacks sooner like [[D-120]] and instantly fallbacks upon breaking the door. [[SHA-120]] is also faster.
 * [[SHA-22]] will have increased speed similar to '''Red Rooms''' [[M-22]].
 * [[SHA-7]] will be force spawned, and wont Despawn until door 1000 is reached.
+** this will likely be changed in the next patch, due to being confirmed by kev as a bug
 
 <h2>Strategies</h2>
 * Try to hide as late as possible, due to [[Claustrophobia]] attacking way faster than outside of '''Red Rooms'''. Although don't try to hide later than intended if you want to avoid getting locker sniped.
@@ -157,6 +161,10 @@ RRE.jpg|A Section E room seen during '''Red Rooms'''
 * Hide and unhide quickly against [[SHA-22]] as it will be just fast as [[M-22]].
 * Stay near a locker at all times, since [[SHA-7]] will prevent you from hearing quiet entities like [[SHA-2]], [[SHA-4]], and [[SHA-60]].
 ** additionally, completely turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities.
+
+<h2>trivia<h2>
+*the forth ambience comes from the song escape from darkness suspense
+** additionally, its slowed down drastically to make it feel ominous
 </tabber>
 
 

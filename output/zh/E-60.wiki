@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: black;">E-60 (破门者)</span>}}{{NoteBox|note=请勿与「硬核模式」的E-60、「Rooms Re-Established」的E-60、「Interminable Rooms」的E-60以及「Rooms: Found Footage: Revisited」的E-60混淆，上述实体仅与本实体重名}}{{Suggested|asure}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{InfoBox:Entity
-|entity_name=[[File:E-60Placeholder.webp|frameless|link=E-60]]
+|entity_name=[[File:E-60Placeholder.png|frameless|link=E-60]]
 |entity_image=<gallery>
-NewE601.webp|Upcoming 第1张脸
-NewE602.webp|Upcoming 第2张脸
-NewE603.webp|Upcoming 第3张脸
-NewE604.webp|Upcoming 第4张脸
-NewE605.webp|Upcoming 第5张脸
-NewE606.webp|Upcoming 第6张脸
-NewE607.webp|Upcoming 第7张脸
+NewE601.png|Upcoming 第1张脸
+NewE602.png|Upcoming 第2张脸
+NewE603.png|Upcoming 第3张脸
+NewE604.png|Upcoming 第4张脸
+NewE605.png|Upcoming 第5张脸
+NewE606.png|Upcoming 第6张脸
+NewE607.png|Upcoming 第7张脸
 </gallery>
 |previous_entity=[[E-45]]
 |next_entity=[[E-90]]
@@ -17,7 +17,7 @@ NewE607.webp|Upcoming 第7张脸
 |claustrophobia=否
 |appears_at=E-060及之后
 |type=冲刺者<br>反弹者
-|behavior=冲向当前房间，破坏房门，在最新一扇门后停留数秒，随后突破第二扇门并折返
+|behavior=冲向主房间，破坏房门，在出口门后停留数秒，随后在折返时穿过房间并再次破门。
 |speed=中等（冲刺时）<br>快（折返时）
 |locker_snipe=是
 |gun_effect=无
@@ -35,71 +35,80 @@ NewE607.webp|Upcoming 第7张脸
 ==机制==
 <tabber>
 |-|当前版本=
-'''当前版本'''：<br>当'''E-60'''生成时，会以中等速度开始冲向当前房间，靠近玩家时会让玩家屏幕布满静态噪点，警告玩家立即躲藏，随后撞碎房门并消失，立刻在远处重新生成并保持待机。约4秒后或是房门被打开时，'''E-60'''会开始折返冲刺，此时它会再次让玩家屏幕布满静态噪点，破坏房门后快速折返，穿过虚空墙后彻底消失。
-
-如果有玩家在'''E-60'''冲向房门的过程中死亡，或是被E-60柜击，它折返时会在每个房间破坏1个柜子，[[Oblivion]]会在被破坏的柜子上标记X作为提示。
+'''当前版本'''：<br>当'''E-60'''生成时，会以中等速度冲向主房间，靠近玩家时会让玩家屏幕布满静态噪点，警告玩家立即躲藏，随后撞碎房门并假装消失。
+约4秒后，或是房门被打开/破坏时，'''E-60'''会再次出现并以高速冲刺，同时破坏房门，穿过虚空墙后彻底消失。
+如果有玩家在'''E-60'''冲向房门的过程中死亡，或是被E-60柜击，它折返时会在每个房间破坏1个柜子，[[Oblivion]]会在被破坏的柜子上标记''X''作为提示。
 
 |-|旧版本=
-'''旧版本'''：<br>当'''E-60'''生成时，会以中等速度开始冲向当前房间，发出非常轻微的声响，它撞门时无论如何都会将门破坏，之后它会停留在下一间房的门后并静音，仅会让玩家屏幕出现少量静态噪点，4秒左右后它会重新播放环境音，3秒后（身处[[Red Rooms|红区]]时为2秒）破门并以中等速度折返，穿过虚空墙后消失。
+'''旧版本'''：<br>当'''E-60'''生成时，会以中等速度冲向主房间，发出低沉的隆隆声，靠近时还会发出响亮的杂音。 
+'''E-60'''抵达当前房间后，会粉碎房门，随后待在出口门后并静音，但'''E-60'''仍会让玩家屏幕出现少量静态噪点。待机4秒后，实体会再次发出声响并出现，3秒后（身处[[Red Rooms|红区]]时为2秒）破门并以中等速度折返，穿过虚空墙后彻底消失。
 </tabber>
 
 ==攻略与提示==
-* 它撞门后你应该离开柜子，3秒后再重新躲进去。
+* '''E-60'''撞门后，玩家必须离开柜子，并在2到3秒后、实体再次出现前重新躲好。
+* 如果在'''E-60'''位于门后时有实体破坏了门，会导致它立即折返，因此当'''E-60'''活跃时，如果你听到有能够破坏门的实体，不要离开你的柜子。
+* 在[[Red Rooms|红区]]期间，'''E-60'''在撞门前后给玩家的反应时间更短。因此，玩家必须更快地进出柜子，类似于[[A-60i]]。
 
-* 如果在'''E-60'''停留在门后时有其他实体破坏了房门，会导致它立刻折返，因此当E-60处于活跃状态时，如果你听到有能破坏房门的实体的声音，不要离开柜子。
-* 如果你身处[[Red Rooms|红区]]且'''E-60'''已经在门后，请提前重新躲藏，因为'''E-60'''留给你的反应时间更短。
+* [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt 当前行为表现]
+* [https://youtu.be/TqbnnePI3eo?si=YDbnZZwaUh9mq8v5 旧版行为表现]
 
-* [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt 当前行为演示]
-* [https://youtu.be/TqbnnePI3eo?si=YDbnZZwaUh9mq8v5 旧版行为演示]
+==Trivia==
+* '''E-60'''有机会在不播放远处声音的情况下冲向主房间。
+** 如果发生这种情况，'''E-60'''会从更远的地方开始播放近距离声音，给你更多时间反应和躲藏。
+* '''E-60'''的旧版面孔来自Roblox商城。
+** 这些面孔因上传者盗用而从游戏中移除。
+*** 由于这个原因，'''E-60'''在[[Section Executive Invasion Event|分区主管入侵事件]]的剩余时间里曾使用[[A-60i]]的旧设计精灵图作为占位符。
+* '''E-60'''是[[Section Executive Invasion Event|分区主管入侵事件]]期间出现的两个入侵实体之一，另一个是[[E-10]]。
+* '''E-60'''是本作中[[A-60]]的最慢对应版本。
 
-== 冷知识 ==
-* '''E-60'''有概率在不播放远距离音效的情况下直接冲向主房间。
-** 若出现这种情况，'''E-60'''会在更远的距离就开始播放近距离音效，给你多一点反应和躲藏的时间。
-* '''E-60'''的旧版面部素材来自Roblox商城。
-** 这些素材后来被从游戏中移除，原因是上传者盗用了这些素材。
-*** 受此影响，在整个[[Section Executive Invasion Event|分区高管入侵活动]]剩余时间里，'''E-60'''使用[[A-60i]]的旧设计作为临时占位素材。
-* '''E-60'''是[[Section Executive Invasion Event|分区高管入侵活动]]期间出现的两种入侵类实体之一，另一种是[[E-10]]。
-* '''E-60'''是所有编号为60的实体中速度最慢的。
+==Gallery==
 
-== 图库 ==
+===In-Game Images===
 <gallery>
-E60SaysHi.webp|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section M|M区]]出现的'''E-60'''，即将击杀玩家。 
-NVCSE60.webp|通过'''NVCS-13793-C'''观察到的'''E-60'''。
-NewE60jum.webp|E-60的跳杀动画。
-TempE60jum.webp|使用临时面部素材的E-60跳杀动画。
-E60jump.webp|E-60的旧版跳杀动画。
-ByeE60.webp|[[Section Executive Invasion Event|分区高管入侵活动]]期间在[[Section D|D区]]从玩家身旁经过的'''E-60'''。
-HiE60.webp|死亡玩家视角下看到的使用临时面部素材的'''E-60'''。
-E60CurrentAnim.webp|使用当前面部素材的动画还原。
-E60tempanimation.webp|使用临时面部素材的动画还原。
-E60anim.webp|使用旧版面部素材的E-60动画。
-E601.webp|当前第一版面部（裁剪图）
-E602.webp|当前第二版面部（裁剪图）
-E603.webp|当前第三版面部（裁剪图）
-E604.webp|当前第四版面部（裁剪图）
-E605.webp|当前第五版面部（裁剪图）
-E606.webp|当前第六版面部（裁剪图）
-E607.webp|当前第七版面部（裁剪图）
-E608.webp|当前第八版面部（裁剪图）
-TempE601.webp|E-60的临时第一版面部。
-TempE602.webp|E-60的临时第二版面部。
-TempE603.webp|E-60的临时第三版面部。
-TempE604.webp|E-60的临时第四版面部。
-TempE605.webp|E-60的临时第五版面部。
-TempE606.webp|E-60的临时第六版面部。
-E-601.webp|E-60的旧版第一版面部。
-E-602.webp|E-60的旧版第二版面部。
-E-603.webp|E-60的旧版第三版面部。
-E-604.webp|E-60的旧版第四版面部。
-E-605.webp|E-60的旧版第五版面部。
-E-606.webp|E-60的旧版第六版面部。
+E60SaysHi.jpg|在[[Section M|M区]]的[[Section Executive Invasion Event|分区主管入侵事件]]期间看到的'''E-60'''，即将杀死玩家。
+NVCSE60.jpg|通过'''NVCS-13793-C'''看到的'''E-60'''。
+</gallery>
+===GIFs===
+<gallery>
+NewE60jum.gif|'''E-60'''<nowiki/>的跳杀。
+TempE60jum.gif|'''E-60'''<nowiki/>使用临时面孔的跳杀。
+E60jump.gif|'''E-60'''<nowiki/>的旧版跳杀。
+ByeE60.gif|在[[Section D|D区]]的[[Section Executive Invasion Event|分区主管入侵事件]]期间，'''E-60'''从玩家身边经过。
+HiE60.gif|死亡玩家眼中看到的使用临时面孔的'''E-60'''。
+E60CurrentAnim.gif|'''E-60'''动画[复现]。
+E60tempanimation.gif|同上，使用临时面孔。
+E60anim.gif|同上，使用旧版面孔。
+</gallery>
+===Miscellaneous===
+<gallery>
+E601.png|当前第1张面孔（裁剪）
+E602.png|当前第2张面孔（裁剪）
+E603.png|当前第3张面孔（裁剪）
+E604.png|当前第4张面孔（裁剪）
+E605.png|当前第5张面孔（裁剪）
+E606.png|当前第6张面孔（裁剪）
+E607.png|当前第7张面孔（裁剪）
+E608.png|当前第8张面孔（裁剪）
+TempE601.webp|'''E-60'''<nowiki/>的临时第一张面孔。
+TempE602.webp|'''E-60'''<nowiki/>的临时第二张面孔。
+TempE603.webp|'''E-60'''<nowiki/>的临时第三张面孔。
+TempE604.webp|'''E-60'''<nowiki/>的临时第四张面孔。
+TempE605.webp|'''E-60'''<nowiki/>的临时第五张面孔。
+TempE606.webp|'''E-60'''<nowiki/>的临时第六张面孔。
+E-601.webp|'''E-60'''<nowiki/>的旧版第一张面孔。
+E-602.webp|'''E-60'''<nowiki/>的旧版第二张面孔。
+E-603.webp|'''E-60'''<nowiki/>的旧版第三张面孔。
+E-604.webp|'''E-60'''<nowiki/>的旧版第四张面孔。
+E-605.webp|'''E-60'''<nowiki/>的旧版第五张面孔。
+E-606.webp|'''E-60'''<nowiki/>的旧版第六张面孔。
 </gallery>
 
-== 徽章 ==
-{{BadgeSectionE|Image=SectorBreach.webp|Name=分区突破|Description=[UNOBTAINABLE 无法获取] 在任意分区遭遇并成功躲过两种来源不明的突发异常实体之一，哪怕你探索了上千个房间，它们也未必会出现……|Obtainment='''[UNOBTAINABLE 无法获取]'''<br>在E区入侵活动期间遭遇并从[[E-10]]或'''E-60'''的袭击中存活}}
+== Badges ==
+{{BadgeSectionE|Image=SectorBreach.png|Name=分区突破|Description=[无法获得] 在任意区域遭遇并从未知来源的两个意外异常之一中幸存，即使经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获得]'''<br>在E区入侵事件期间遭遇并从[[E-10]]或'''E-60'''手中幸存}}
 
 
 {{EntityNavBox}}
+
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Ambusher]]

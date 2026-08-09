@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;"> #-## (???)</span>}}
+{{Stub}}
+{{NoteBox|note=请注意，这里的大量信息可能有误，因为我们仅有一次该实体的记录在案的目击事件}}
+{{InfoBox:Entity
+|entity_name='''#-##'''
+|entity_image=Placeholder.webp
+|previous_entity='''???'''
+|next_entity='''???'''
+|nicknames=???
+|appears_at=1200之后的任意位置
+|locker_snipe=是
+|gun_effect=???
+|claustrophobia=否
+|type=冲刺者<br>Fallback（撤退）
+|behavior=会冲向主房间，停留约10秒后撤退，并向柜子投毒。
+|speed=与[[D-55]]相似
+|damage=秒杀（柜击造成50点MAL伤害）
+|related_monsters=[[M-22]]<br>[[X-1200_Entities#X-1200-D|X-1200-D]]
+|badges=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气真好]
+|sound1=<center>毒药</center><center>[[File:R60Poisen.mp3]]</center>}}
+
+== 描述 ==
+'''#-##'''是一个杂项实体，如果你已通过1200号门，它有200,000分之一的概率在你的逃生中生成。如果你在遭遇中幸存，它会授予你[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG "恭喜，你运气真好"]徽章。
+
+== 行为 ==
+目前已知的是，它会从你身后冲向主房间，在你首次听到它的声音后约需10秒到达你身边。如果门未加固，它会破门而入，停留约10秒后撤退，并向柜子里灌满毒药。
+
+含有毒药的柜子会对身处其中的玩家造成快速伤害。毒药会在一段时间后消失。
+
+== 策略与技巧 ==
+* ???
+
+== 趣闻 ==
+这个未知实体曾被误认为是'''R-60'''，但根据[[User:ItsKevHer3|ItsKevHer3]]的说法，它并不是。
+
+== 画廊 ==
+<gallery>
+R60poisencabinet.jpg|一个灌满毒药的棕色柜子。
+</gallery>
+
+== 徽章 ==
+{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气真好]|Description=遇见#-##。这什么用都没有，哈哈。|Obtainment=遭遇'''#-##'''并从中幸存}}
+
+
+{{EntityNavBox}}
+[[Category:Entities]]
+[[Category:Multimonsters]]
+[[Category:Invader]]

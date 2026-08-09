@@ -28,7 +28,7 @@
 ==冷知识==
 * 如果所有玩家躲藏足够长的时间，'''False-200'''会被强制消失。
 ** 但这一机制在[[Red Rooms|红区]]中不生效。
-
+* [[Items|Strange Keycard（奇异钥匙卡）]]只会在第一次'''False-200'''袭击后开始生成。
 ==画廊==
 <gallery>
 File:False-200 Picture Clear.png|游戏内的'''False-200'''。

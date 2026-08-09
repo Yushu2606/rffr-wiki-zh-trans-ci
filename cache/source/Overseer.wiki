@@ -293,5 +293,7 @@ SHA-0 minigame 2.png|SHA-000's Single player minigame
 Sha0MultiPlayer.jpg|what the player sees after being chosen by '''SHA-000''' during multi player
 </gallery>
 
+{{EntityNavBox}}
+
 [[Category:Entities]]
 [[Category:All Sections]]

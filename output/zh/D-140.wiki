@@ -4,6 +4,7 @@
 {{InfoBox:Entity
 |entity_name=[[File:D-140Title.png|frameless|link=D-140]]
 |entity_image=<gallery>
+D-140AnimRecreation.webp|动画还原
 NewerD-140.gif|当前外观
 D140.png|旧版外观
 </gallery>
@@ -17,7 +18,7 @@ D140.png|旧版外观
 |behavior=在前方生成后开始向后冲刺，之后会反弹并检查所有蓝色柜子。
 |speed=快
 |gun_effect=会使其等待更久且速度变慢
-|damage=即死
+|damage=秒杀
 |related_monsters=[[SHA-140]]
 |sound1=<center>[极高音量警告] 生成</center><center>[[File:D-140spawn.mp3]]</center>
 |sound2=<center>[极高音量警告] [[Super Epic Mode|超级史诗模式]]下生成</center><center>[[File:OldD140Spawn.mp3]]</center>
@@ -51,7 +52,7 @@ SEMD-140.png|超级史诗模式外观
 == 你知道吗 ==
 * '''D-140'''<nowiki/>'的音效原本音量极高，开发者不得不降低了它的音量，这就是它在游戏里听起来这么安静的原因。所以别再说要把'''D-140'''<nowiki/>'的音量调大了，不然<span style="text-shadow: 0 0 5px darkgreen; color: darkgreen;>我们会震破你的耳膜</span>
 * 可以射击'''D-140'''，使其等待更久
-* '''D-140的远处环境音'''来自SuperAzmilEvil制作的名为“[https://create.roblox.com/store/asset/2162238374/portalloop portal_loop]”的音效
+* '''D-140的远处环境音'''来自SuperAzmilEvil制作的名为"[https://create.roblox.com/store/asset/2162238374/portalloop portal_loop]"的音效
 
 {{EntityNavBoxSectionD}}
 [[Category:Entities]]

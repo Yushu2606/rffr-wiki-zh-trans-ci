@@ -1,21 +1,26 @@
 {{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
-{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{Headphones}}
+{{Redesign|Helical|未知}}
+{{DesignNotAllowed|design=Upcoming 跳杀设计|reason=设计者要求|exceptions=N/A}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{InfoBox:Entity
 |previous_entity=[[D-20]]
 |next_entity=[[D-35i]]<br>[[D-55]]
-|entity_name=[[File:Floory.webp|frameless|link=D-35]]
+|entity_name=[[File:Floory.gif|frameless|link=D-35]]
 |entity_image=<gallery>
-File:D-35Redesign.webp|当前设计
-NewD-35.webp|旧设计
-OldestD35.webp|更旧设计
-LegacyD35.webp|最旧设计
+D-35UpcomingFrame1.webp|Upcoming 设计 1
+D-35UpcomingFrame2.webp|Upcoming 设计 2
+D-35Redesign.gif|当前设计
+NewD-35.gif|旧设计
+OldestD35.gif|更旧设计
+LegacyD35.gif|最旧设计
 </gallery>
-|appears_at=D-035之后的任意区域
+|appears_at=D-035之后的任意区域。
 |nicknames=Inverting Smile（反转笑脸）<br>"Shadow Winner"（「暗影胜者」）（旧昵称）
 |type=冲刺者
-|behavior=发出低响后朝最远的门冲刺
+|behavior=发出低响后朝最远的门冲刺。
 |damage=秒杀（柜击造成35点伤害）
-|speed=慢~极快
+|speed=静止到超光速（0 - 27.57 房间/秒）（0 - 1,654 Studs/s）
 |locker_snipe=是
 |gun_effect=无
 |related_monsters=[[D-35i]]（素数变种）<br>[[SHA-35]]
@@ -25,8 +30,9 @@ LegacyD35.webp|最旧设计
 |caption-entity_image=你是个笨蛋
 |sound2=<center>在[[Super Epic Mode|超级史诗模式]]中生成</center><center>[[File:SEMD-35Spawn.wav]]</center>
 |sound4=<center>环境音来源</center><center>[[File:Police Radio 22.ogg]]</center>
-|sound5=<center>跳杀</center><center>[[File:D-35Jumpscare.mp3]]</center>
-|sound6=<center>2026年3月6日-25日临时跳杀音效</center><center>[[File:D-35TempJumpscare.mp3]]</center>|sound3=<center>[[Legacy Mode|遗留模式]]环境音</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
+|sound5=<center>[极高音量警告] 跳杀</center><center>[[File:D-35Jumpscare.mp3]]</center>
+|sound6=<center>2026年3月6日-25日临时跳杀音效</center><center>[[File:D-35TempJumpscare.mp3]]</center>
+|sound3=<center>[高音量] [[Legacy Mode|遗留模式]]环境音</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
 
 ==描述==
 '''D-35'''是基础的冲刺者实体，但它仍然较难应对。
@@ -46,19 +52,19 @@ LegacyD35.webp|最旧设计
 ==你知道吗==
 *过去'''D-35'''的柜击伤害是10点，而非现在的35点。
 *'''D-35'''的跳杀音效来自《Jollibee's Phase 2》的跳杀音效，但音调被大幅调高。
-* '''D-35'''的跳杀音效曾被平台临时审核调整，因此在2026年3月6日至5月16日期间使用替换音效。
-** 目前它已经恢复了原本的跳杀音效
+* '''D-35'''的跳杀声音曾被临时审核，因此在3/6/26至5/16/26期间使用了替代音效。
+** 现在它已恢复原来的跳杀音效
 
-==画廊==
+== 画廊 ==
 <gallery>
-File:NewD-35Jumpscare.webp|D-35 跳杀画面
-File:D-35JumpscareAaaa.webp|旧版D-35 跳杀画面
-File:OlderD-35Jump.webp|更旧版D-35 跳杀画面
-LegacyD35.webp|遗留模式设计
+File:NewD-35Jumpscare.gif|D-35 跳杀
+File:D-35JumpscareAaaa.gif|旧版 D-35 跳杀
+File:OlderD-35Jump.gif|更旧版 D-35 跳杀
+LegacyD35.gif|Legacy模式设计
 </gallery>
 
-==徽章==
-{{BadgeSectionD|Image=Dsecinvasion.webp|Name=你不该出现在这里|Description=[无法获取] 遭遇并从一个稀有的入侵实体手中存活。该徽章可在「入侵」活动期间获取。|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动期间，遭遇并从[[D-5#Invasion|D-5]]、'''D-35'''或[[D-60i|D-60]]手中存活}}
+== 徽章 ==
+{{BadgeSectionD|Image=Dsecinvasion.png|Name=你不应该在这里|Description=[无法获取] 遭遇并在一个稀有的入侵实体攻击下存活。徽章可在"Invasion"活动期间获取。|Obtainment='''[无法获取]'''<br>在原版'''Rooms: Found Footage'''的D区入侵活动中遭遇并在[[D-5#Invasion|D-5]]、'''D-35'''或[[D-60i|D-60]]的攻击下存活}}
 
 {{EntityNavBoxSectionD}}
 

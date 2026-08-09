@@ -12,7 +12,7 @@ E-10.png|Design
 OldE10Anim.gif|Pre Release Animation Recreation
 OldE-10.webp|Pre Release Design
 </gallery>
-|previous_entity=[[M-340]]<br>[[Mouth|False-300]]
+|previous_entity=[[M-340]]<br>[[Mouth#Unnamed Sector|False-300]]
 |next_entity=[[E-10i]]<br>[[E-30]]
 |claustrophobia=No
 |nicknames=Patience
@@ -30,32 +30,48 @@ OldE-10.webp|Pre Release Design
 |sound3=<center>Jumpscare Sound</center><center>[[File:E-10Jumpscare.mp3]]</center>|sound4=<center>Despawn '''Recreation'''</center><center>[[File:E-10Despawn.mp3]]</center>}}
 
 ==Description==
-'''E-10''' Will be the 1st entity you may encounter in [[Section E]] and was one of the Invasive entities present during the [[Section Executive Invasion Event]]. More info shown below.
+'''E-10''' will be the 1st entity you may encounter in [[Section E]]. More information about this entity is presented below.
 
-==Mechanics==
-'''E-10''' will spawn Infront the door, rushing back after a few seconds, it will then wait behind the void wall until the next door is opened or broken down. After the door is opened or is broken down, it will rush back to the main room, getting faster if more doors are opened, despawning once it hits the door, it will have a chance of Spawning an entity, it does not need to break the door to do this.
+==Behavior==
+'''E-10''' will appear in front of the exit door while emitting a low-pitched piano chime. After idling for several seconds, '''E-10''' will start rushing backwards as usual, similarly to [[A-85]]. Unlike the latter entity, '''E-10''' will not disappear after it has reached the Voidwall, instead it will stop behind the barrier until the next door is opened or broken down. 
 
-==Strategies==
-* Hide as soon as you see him and wait until he falls back, then you should Exit your locker and open the door, if the couple rooms back are straight, you should be able to look back and time you're hiding from there, if not, you should hide around 4~ seconds after you open the door.
-* '''E-10'''s range is very large, large enough to damage you from another room, so be sure to enter your locker when he's somewhat far away and refuse to hide in very open safespots that depend on an entities short range.
+When this action occurs, '''E-10''' will proceed back to the main room. If more doors are either opened/destroyed while the instance is returning, the entity will increase its speed in attempt to catch players off-guard, disappearing once it hits the door which could potentially spawn another entity.
+
+==Strategy & Tips==
+* Hide as soon as you see him and wait until he falls back. After it has passed by, you should exit your locker and open the door after around six seconds. Afterwards, you must wait around four seconds before entering a locker.
+** If the room's layout from behind is straight, you may take a small peek at '''E-10'''<nowiki/>'s position and check when you can enter a locker again to evade his attack.
+* '''E-10'''<nowiki/>'s kill range is very large, large enough to damage you from another room, so ensure to enter your locker when he's nearby while the entity is returning back to the main room. 
+** Safe spots that are far enough the entity's kill range or fully opaque are also versatile.
+
 * [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU Video Representation]
 
+==Notes==
+* '''E-10''' will not make his way back to the main room while [[E-200]] is active, especially if a door was opened/destroyed.
+
 ==Trivia==
-* '''E-10''' was one of the two Invasive entities present during the [[Section Executive Invasion Event]], the other being [[E-60]]. 
+* '''E-10''' was one of the two invasive entities present during the [[Section Executive Invasion Event]], the other being [[E-60]]. 
 * '''E-10''' is a repurposed '''E-17''' From '''Rooms: Found Footage: Revisited''', albeit with altered mechanics.
 * '''E-10''' has a joke nickname that is '''Sun''', due to having a very bright light and large light range.
-* If you open the door when '''E-10''' still on it, it will start moving immediately, killing you almost immediately.
-* if you or something else opens the door and spawns [[E-200]] while '''E-10''' is waiting, it will continue to wait until [[E-200]] despawns.
 
 ==Gallery==
+
+===In-game Images===
 <gallery>
-File:E-10NewScare.gif|Jumpscare.
-File:E10jump.gif|Invasion Event Jumpscare.
-File:OldE-10Jum.gif|Pre Release Jumpscare.
-File:TheSun.jpg|'''E-10''' seen in [[Section D]] During the [[Section Executive Invasion Event]].
-File:TheOldSun.jpg|Pre release '''E-10''', about to kill the player.
-File:ByeE10.gif|'''E-10''' Passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
-File:E-10SafeSpot.png|'''E-10''' seen in a safe spot.
+File:TheSun.jpg|'''E-10''' seen in [[Section D]] during the [[Section Executive Invasion Event]].
+File:TheOldSun.jpg|Pre-release '''E-10''', about to kill the player.
+File:E-10SafeSpot.png|'''E-10''' being barely seen from a safe spot.
+</gallery>
+
+===GIFs===
+<gallery>
+File:E-10NewScare.gif|'''E-10'''<nowiki/>'s jumpscare.
+File:E10jump.gif|'''E-10'''<nowiki/>'s Invasion Event Jumpscare.
+File:OldE-10Jum.gif|'''E-10'''<nowiki/>'s Pre Release Jumpscare.
+File:ByeE10.gif|'''E-10''' seen passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
+</gallery>
+
+===Miscellaneous===
+<gallery>
 File:E-10 despawn p.webp|'''E-10''' despawn particle.
 </gallery>
 

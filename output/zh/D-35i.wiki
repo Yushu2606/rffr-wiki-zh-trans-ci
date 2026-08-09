@@ -1,11 +1,14 @@
-{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i（倒转微笑 素数）'''</span>}}
+{{DISPLAYTITLE:<span style="animation: d35i 0.5s infinite">'''D-35i（倒转微笑 素数）'''</span>}} {{Headphones}}
+{{Redesign|Helical|未知}}
+{{DesignNotAllowed|design=Upcoming 跳杀设计|reason=设计师要求|exceptions=N/A}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
-{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-20]]
 |next_entity=[[D-55]]
 |entity_name=[[File:D-35iPlaceholder.gif|frameless|link=D-35i]]
 |entity_image= <gallery>
+D-35iUpcomingFrame1.webp|Upcoming 设计帧 1
+D-35iUpcomingFrame2.webp|Upcoming 设计帧 2
 D-35iRedesign.gif|当前设计
 NewD-35i.gif|旧设计
 OldestD35i.gif|更早的设计
@@ -24,7 +27,7 @@ LegacyD-35.gif|最旧设计
 |related_monsters=[[D-35]]（常规对应体）|sound1=<center>[高音量] 环境音</center><center>[[File:D-35iAmbi.mp3]]</center>|sound2=<center>[极高音量警告] 跳杀音效</center><center>[[File:D-35iJumpscare.mp3]]</center>}}
 
 ==描述==
-*'''D-35i''' 是一只“素数”[[Entities|实体]]。它的外观是一张宽大的藏蓝色笑脸，会高速在黑色和正常外观之间闪烁。
+*'''D-35i''' 是一只"素数"[[Entities|实体]]。它的外观是一张宽大的藏蓝色笑脸，会高速在黑色和正常外观之间闪烁。
 
 ==行为==
 *'''D-35i''' 生成时，在冲向当前房间的过程中音量会逐渐提高。

@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<Span style="text-shadow: 1.5px 0.66px 2px purple, -1.5px 0.66px 2px purple; color: black;">Mortis</Span>}}
-{{ArticleBackground|File=Unnamed_.webp}}
+{{ArticleBackground|File=Unnamed .png}}
 {{InfoBox:Entity
-|entity_name=Mortis
-|entity_image=Mortis.webp
+|entity_name=[[File:Mrt.webp|frameless|link=Mortis]]
+|entity_image=Mortis.png
 |previous_entity=[[Mori]]
 |next_entity=[[False Witness]]<br>[[False Prophet]]
 |claustrophobia=否
@@ -27,7 +27,9 @@
 ???
 
 ==你知道吗==
-???
+
+* '''Mortis'''的设计灵感来自FNF模组"bird mod"中的Bird_2009。
+
 
 
 {{EntityNavBox}}

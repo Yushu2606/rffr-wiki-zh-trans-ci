@@ -117,6 +117,7 @@ Section E=
 * '''Mouth''' is the only entity that has '''6''' variations (Counting with [[SHA-300]] now).
 *actually, mouth does give a warning: its a faint, growling noise behind the door.
 **the growling is more noticeable in e sec
+*mouth cannot spawn in the redrooms nor with D-60i
 * DEVOUR OST (Chase theme)
 ** https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyMraycast
 * Mouth's Jumpscare comes from Shattered Chica  In Five Nights At Freddy's: Security Breach

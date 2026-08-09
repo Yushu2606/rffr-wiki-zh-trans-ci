@@ -1,11 +1,16 @@
 {{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
+{{Headphones}}
+{{Redesign|Helical|Unknown}}
+{{DesignNotAllowed|design=Upcoming Jumpscare Design|reason=Designer's Request|exceptions=N/A}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{InfoBox:Entity
 |previous_entity=[[D-20]]
 |next_entity=[[D-35i]]<br>[[D-55]]
 |entity_name=[[File:Floory.gif|frameless|link=D-35]]
 |entity_image=<gallery>
-File:D-35Redesign.gif|Current Design
+D-35UpcomingFrame1.png|Upcoming Design 1
+D-35UpcomingFrame2.png|Upcoming Design 2
+D-35Redesign.gif|Current Design
 NewD-35.gif|Old Design
 OldestD35.gif|Older Design
 LegacyD35.gif|Oldest Design
@@ -15,7 +20,7 @@ LegacyD35.gif|Oldest Design
 |type=Rusher
 |behavior=Rumbles before launching towards the farthest door.
 |damage=Instant Death (35 Damage locker snipe)
-|speed=Slow-Very Fast.
+|speed=Stationary to Beyond Lightspeed (0 - 27.57 rooms per second) (0 - 1,654 studs per second)
 |locker_snipe=Yes
 |gun_effect=None
 |related_monsters=[[D-35i]] (Prime Variant)<br>[[SHA-35]]
@@ -25,8 +30,9 @@ LegacyD35.gif|Oldest Design
 |caption-entity_image=You are an idiot
 |sound2=<center>Spawn in [[Super Epic Mode]]</center><center>[[File:SEMD-35Spawn.wav]]</center>
 |sound4=<center>Ambience Origin</center><center>[[File:Police Radio 22.ogg]]</center>
-|sound5=<center>Jumpscare</center><center>[[File:D-35Jumpscare.mp3]]</center>
-|sound6=<center>March 6-25 2026 Temporary Jumpscare</center><center>[[File:D-35TempJumpscare.mp3]]</center>|sound3=<center>Ambience in Legacy Mode</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
+|sound5=<center>[VERY LOUD WARNING] Jumpscare</center><center>[[File:D-35Jumpscare.mp3]]</center>
+|sound6=<center>March 6-25 2026 Temporary Jumpscare</center><center>[[File:D-35TempJumpscare.mp3]]</center>
+|sound3=<center>[LOUD] [[Legacy Mode]] Ambience</center><center>[[File:LegacyD35ambi.mp3]]</center>}}
 
 ==Description==
 '''D-35''' is a basic rusher. However, '''D-35''' can still be a tricky one.

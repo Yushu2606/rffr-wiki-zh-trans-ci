@@ -2,8 +2,8 @@
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
 BlueRenovatedWater.gif|Current Design
-BlueAir Renovated.gif|Old Design
-A-200ijumpscare.png|True Legacy/Legacy Design
+BlueAir Renovated.gif|Old/Legacy Design
+A-200ijumpscare.png|Old Jumpscare Design
 </gallery>
 |previous_entity=[[A-200]]
 |next_entity=[[Mouth|A-300]]<br>[[D-5]]

@@ -1,10 +1,11 @@
-{{DISPLAYTITLE:<span style="text-shadow: -4px 0px 2px red, 4px 0px 2px blue; color: #41e0ff;">M-200 (Eletrician)</span>}}
+{{DISPLAYTITLE:<span style="animation: m200 1s infinite;">M-200 (Eletrician)</span>}}
 {{ArticleBackground|File=MBackground.jpg}}
 {{NoteBox|note=Not to be confused with M-200 or Ï-200 from '''Rooms: Re-Established''' due to having a very similiar appearence}}
 {{Redesign|Collese|Vote}}
 {{InfoBox:Entity
 |entity_name=[[File:Bite of 83.gif|frameless|link=M-200]]
 |entity_image=<gallery>
+Placeholder.webp|Upcoming Design
 NewM200.gif|Current Design
 M200Hurt.gif|Current Hurt Design
 NewerM-200.gif|Old design

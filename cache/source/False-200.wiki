@@ -28,7 +28,7 @@
 ==Trivia==
 * '''False-200''' will be forcefully despawned if all players have hid for long enough.
 ** This, however, does not work in the [[Red Rooms]].
-
+* The [[Items|Strange Keycard]] will only start spawning after the first '''False-200''' attack.
 ==Gallery==
 <gallery>
 File:False-200 Picture Clear.png|'''False-200''' seen ingame.

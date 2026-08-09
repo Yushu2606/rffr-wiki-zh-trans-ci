@@ -53,7 +53,7 @@
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>Other</center>
 |-
 ! width="15%" style="background: #585966;" |<center>All Sections</center>
-| class="navigation-links" |[[Claustrophobia]] • [[Mouth]] • [[Void]] • [[Jimmy]] • [[Oblivion]]
+| class="navigation-links" |[[Claustrophobia]] • [[Mouth]] • [[Void]] • [[Jimmy]] • [[Oblivion]] • [[Overseer]]
 |-
 ! width="15%" style="background: #585966;" |<center>No Sections</center>
 | class="navigation-links" |[[Endellion]] • [[Goober-200]]
@@ -84,7 +84,7 @@
 | class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>Other</center>
-| class="navigation-links" |[[Cherry Bomb]]
+| class="navigation-links" |[[Pipe Bomb]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #d43582;"class="navigation-class" |<center>Upcoming</center>
@@ -96,13 +96,16 @@
 ! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>Scrapped/Removed</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A]]</center>
-| class="navigation-links" |[[Old A-60i|A-60i <small>(Old)</small>]] • [[A-120]]
+| class="navigation-links" |[[Old A-60i|A-60i <small>(Old)</small>]] • [[A-165]]
 |-
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D]]</center>
 | class="navigation-links" |[[D-180]]
 |-
 ! width="15%" style="background: #283feb;" |<center>[[Section M]]</center>
 | class="navigation-links" |[[M-7]] • [[M-30]]
+|-
+! width="15%" style="background: #6e6464;" |<center>Other</center>
+| class="navigation-links" |[[Cherry Bomb]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
 ! colspan="2" width="15%" style="background: #b531de;"class="navigation-class" |<center>Admin</center>

@@ -1,7 +1,7 @@
-{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 65px black; color: #050688;">SHA-120 (Ichor)</span>}}
 {{InfoBox:Entity
 |entity_name=SHA-120
-|entity_image=SHA-120.webp
+|entity_image=SHA-120.gif
 |previous_entity=[[SHA-85]]
 |next_entity=[[SHA-140]]
 |nicknames=Ichor
@@ -37,6 +37,7 @@
 * '''SHA-120'''是目前已知仅有的两种拥有致命柜子命中能力的暗影实体之一。
 * 若生成于[[Red Rooms|红区]]，'''SHA-120'''的移动速度与[[D-120]]完全一致。
 * '''SHA-120'''有极低概率会替代[[D-120]]生成。
+* '''SHA-120'''是唯一一种既非粉色也非紫色的暗影实体。
 
 == '''图库''' ==
 <gallery>

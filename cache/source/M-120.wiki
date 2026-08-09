@@ -3,6 +3,7 @@
 {{InfoBox:Entity|entity_name=[[File:NewM120Title.webp|frameless|link=M-120]]
 |entity_image=File:<gallery>
 NewM120.gif|Current Design
+M-120JumpAnim.gif|Jumpscare Animation
 NewM120Scare1.png|Jumpscare Design 1
 NewM120Scare2.png|Jumpscare Design 2
 M-120 Design.gif|Old Design

@@ -4,7 +4,7 @@
 |previous_entity=[[D-140]]
 |next_entity=[[D-200]]
 |entity_name=D-175
-|entity_image=BlackBox.png
+|entity_image=D-175 new.png
 |caption-entity_image=
 |appears_at=D-175+
 |nicknames=Impairment
@@ -33,8 +33,9 @@ Pay close attention before going to the locker.
 
 ==Gallery==
 <gallery>
-File:D-175.png|D-175 in a cabinet
-File:D-175 in a Heavy Blue Locker.png|D-175 in a Heavy Blue Locker
+File:D-175 new.png|New '''D-175''' in a locker
+File:D-175.png|'''D-175''' in a cabinet
+File:D-175 in a Heavy Blue Locker.png|'''D-175''' in a Heavy Blue Locker
 </gallery>
 
 

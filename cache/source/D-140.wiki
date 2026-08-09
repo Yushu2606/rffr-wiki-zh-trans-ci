@@ -4,6 +4,7 @@
 {{InfoBox:Entity
 |entity_name=[[File:D-140Title.png|frameless|link=D-140]]
 |entity_image=<gallery>
+D-140AnimRecreation.gif|Animation Recreation
 NewerD-140.gif|Current Design
 D140.png|Old Design
 </gallery>
@@ -51,7 +52,7 @@ SEMD-140.png|Super Epic Mode Design
 == Trivia ==
 * '''D-140'''<nowiki/>'s audio is very loud, so the Developers had to lower his audio volue, so that's why it looks so silent in-game. So you better stop saying that '''D-140'''<nowiki/>'s audio need to be louder or else <span style="text-shadow: 0 0 5px darkgreen; color: darkgreen;>WE'LL BLOW YOUR EARDRUMS UP</span>
 * '''D-140''' can be shot, causing him to wait longer
-* '''D-140's Far Ambience''' is originated from an audio called "[https://create.roblox.com/store/asset/2162238374/portalloop portal_loop]" by SuperAzmilEvil
+* '''D-140's Far Ambience''' is originated from an audio called "[https://create.roblox.com/store/asset/2162238374/portalloop portal_loop]" by SuperAzmilEvil.
 
 {{EntityNavBoxSectionD}}
 [[Category:Entities]]
