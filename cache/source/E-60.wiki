@@ -62,7 +62,6 @@ After '''E-60''' has managed to arrive in the current room, it will proceed to s
 * '''E-60''' is the slowest counterpart of [[A-60]] from this game.
 
 ==Gallery==
-
 ===In-Game Images===
 <gallery>
 E60SaysHi.jpg|'''E-60''' seen in [[Section M]] During the [[Section Executive Invasion Event]], about to kill the player. 
@@ -104,11 +103,11 @@ E-606.webp|'''E-60'''<nowiki/>'s old Sixth Face.
 </gallery>
 
 == Badges ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]], or '''E-60''' during the E-section invasion event}}
-
-
-{{EntityNavBox}}
-
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=Sector Breach
+|Description=[UNOBTAINABLE]<br>Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]] or '''E-60''' during the E-section invasion event.}}{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Ambusher]]

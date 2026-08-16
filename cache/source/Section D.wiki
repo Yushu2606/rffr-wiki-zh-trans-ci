@@ -150,11 +150,29 @@ Section Derelict Room 400.png|Room 400.
 ** this was ment to be a temporary thing, but the entities had overrun both Section due to lack of direct control.
 
 ==Badges==
-{{BadgeSectionD|Image=Depth (Badge).png|Name=Depth|Description=Wait, when did this get here?|Obtainment=Transition sections to Section D.}}
-{{BadgeSectionD|Image=Level 15 (Badge).png|Name=Level 15|Description=Mining away... oh wait wrong game|Obtainment=Open door D-500.}}
-{{BadgeSectionD|Image=Caving In (Badge).png|Name=Caving In|Description=Mental breakdown.|Obtainment=Open door D-900.}}
-{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=Surface Breach|Description=Sometimes you wonder to yourself how much doing any of this mattered. you came here on your own terms, and for what?|Obtainment=Open door D-1000.}}
+{{BadgeSectionD
+|Image=Depth (Badge).png
+|Name=Depth
+|Description=Wait, when did this get here?
+|Obtainment=Enter Section D.}}
+
+{{BadgeSectionD
+|Image=Level 15 (Badge).png
+|Name=Level 15
+|Description=Mining away-<br>Nevermind, wrong game.
+|Obtainment=Open door D-500.}}
+
+{{BadgeSectionD
+|Image=Caving In (Badge).png
+|Name=Caving In
+|Description=Mental breakdown.
+|Obtainment=Open door D-900.}}
+
+{{BadgeSectionD
+|Image=Surface Breach (Badge).png
+|Name=Surface Breach
+|Description=Sometimes you wonder to yourself how much doing any of this mattered. You came here on your own terms, and for what?
+|Obtainment=Open door D-1000.}}
 
 {{BrowseNavBox}}
-
 [[Category:Sections]]

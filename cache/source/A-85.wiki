@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: cyan;">A-85 (Whisperer)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px cyan, 0 0 5px cyan; color: cyan;">A-85 (Whisperer)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{Headphones}}
 {{DesignNotAllowed|design=[[True Legacy Mode]] design|reason=Stealing|exceptions=Ingame Screenshots}}
@@ -9,8 +9,11 @@
 |entity_name=[[File:A-85Placeholder.webp|frameless|link=A-85]]
 |entity_image= <gallery>
 A-85Help.gif|A-85 Animation [Recreation]
-A-85NewDesign.png|Current design
-A85.png|Old design
+A-85NewDesign.png|Current Design
+A85.png|Old Design
+A85real.webp|Legacy Design
+TrueLegacyA-85.webp|True Legacy Design
+SEMA85.png|Super Epic Mode Design
 </gallery>
 |caption-entity_image=how to die to me
 |appears_at=Anywhere Past A-85.
@@ -19,20 +22,20 @@ A85.png|Old design
 |gun_effect=Despawns immediately when shot enough times
 |behavior=Spawns in the newest opened room before falling back.
 |damage=90 (tick).
-|speed=~1.2 rooms per second
+|speed=Normal: Slow (1.2 rooms per second) (72 studs per second)<br>[[Red Rooms]]: Moderate (2.4 rooms per second) (144 studs per second)
 |claustrophobia=No
-|locker_snipe=Yes (Non Lethal)
+|locker_snipe=Yes (Non-Lethal)
 |related_monsters=[[A-85i]]<br>
 [[SHA-85]]
 |sound1=<center>Spawn</center><center>[[File:A85Spawn.mp3]]</center>
 |sound2=<center>Ambience</center><center>[[File:A-85static.mp3]]</center>
 |sound3=<center>Whispers</center><center>[[File:A-85Whispers.mp3]]</center>
 |sound4=<center>Despawn</center><center>[[File:A85Despawn.mp3]]</center>
-|sound5=<center>Jumpscare (LOUD WARNING)</center><center>[[File:A-85jumpscare.mp3]]</center>
+|sound5=<center>[VERY LOUD WARNING] Jumpscare</center><center>[[File:A-85jumpscare.mp3]]</center>
 |sound6=<center>Ambience Origin</center><center>[[File:85soundorigin.mp3]]</center>}}
 
 ==Description==
-'''A-85''' is an electric blue face, which contains a wide smile with a set of small, black teeth, and eyes with black pupils. It can easily be identified by its electrical ambience.
+'''A-85''' is a bright cyan meanacing face, which contains a wide smile with a set of small, bright cyan teeth, and eyes with blue outer parts of the eyes. It can easily be identified by its electrical ambience.
 
 ==Behavior==
 '''A-85''' spawns at the newly generated room's center and stays here while making whispering noises. After 4 seconds of staying, '''A-85''' proceed to move backwards. Any player seen by A-85 will get rapidly damaged, killing them quickly. A-85 will despawn once it goes for enough.

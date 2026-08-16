@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="animation: m70 0.75s infinite;">M-70 (Broadcaster)</span>}}
 {{ArticleBackground|File=MBackground.jpg}}
 {{InfoBox:Entity|entity_name=[[File:Gayness.gif|frameless|link=M-70]]|entity_image=<gallery>
-NewM70.png|Idle
-NewM70Jumpscare.png|Jumpscare
-NewM-70.png|Old Idle
-NewM-70Jumpscare.png|Old Jumpscare
-M70.png|Older Idle
-M-70!.webp|Older Jumpscare
+NewM70.png|Current Design
+NewM70Jumpscare.png|Current Jumpscare Design
+NewM-70.png|Old Design
+NewM-70Jumpscare.png|Old Jumpscare Design
+M70.png|Older Design
+M-70!.webp|Older Jumpscare Design
 </gallery>
 |previous_entity=[[M-60]]<br>
 [[M-60i]]<br>

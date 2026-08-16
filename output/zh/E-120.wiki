@@ -41,6 +41,8 @@
 
 ==你知道吗==
 * 正如[[Oblivion]]在《Misleading Darkness》中提到的，如果'''E-120'''没有失明，它会杀死所有它看见的玩家。
+* E-120和[[False-120]]是仅有的两个环境音中没有鼓声的120系列实体。
+* E-120是整个游戏中唯一（严格来说）的失明实体。
 
 ==画廊==
 
@@ -52,10 +54,7 @@ File:E-120 jumpscare.gif|'''E-120'''<nowiki/>的跳杀
 ===杂项===
 <gallery>
 File:RenoE-120.gif|'''E-120'''概念设计
-</gallery>
-
-{{EntityNavBox}}
-
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Weapon Affected]]

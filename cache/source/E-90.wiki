@@ -40,9 +40,6 @@ E-90Eyes.png|eyes
 ==Gallery==
 <gallery>
 File:ConceptE90.webp|'''E-90'''<nowiki/>'s concept design from the suggestion forum.
-</gallery>
-
-{{EntityNavBox}}
-
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]

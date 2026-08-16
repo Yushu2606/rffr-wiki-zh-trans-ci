@@ -25,11 +25,11 @@ A60i3.webp|第6张脸
 |speed=快
 |locker_snipe=是
 |related_monsters=[[A-60]]<br>[https://roblox-rooms-doors.fandom.com/wiki/MultiMonster_Prime A-60′ R&D]
-|sound1=<center>环境音效</center><center>[[File:A-60isound.mp3]]</center>
+|sound1=<center>临近环境音效</center><center>[[File:A-60isound.mp3]]</center>
 |caption-entity_image=我和R&D里的A-60'没有关系，别提这个..
 |ent_info_header=
 |appears_at=A-100之后的任意时间（仅由[[A-60]]触发）
-|sound2=<center>跳杀</center><center>[[File:A-60iJumpscare.mp3]]</center>
+|sound2=<center>[音量警告] 跳杀</center><center>[[File:A-60iJumpscare.mp3]]</center>
 |damage=秒杀（1 每秒伤害 命中）（5 MAL. 伤害）}}
 
 ==描述==

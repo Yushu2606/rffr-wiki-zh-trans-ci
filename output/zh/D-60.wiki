@@ -1,10 +1,13 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60（多面暗魂）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=请勿与'''Rooms Re-Established'''的D-60、'''Rooms: Reopened'''的D-60、'''Rooms of Insanity'''的D-60或'''Remastered Rooms'''的D-60混淆。}}{{InfoBox:Entity
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
+{{NoteBox|note=请勿与'''Rooms Re-Established'''的D-60、'''Rooms: Reopened'''的D-60、'''Rooms of Insanity'''的D-60或'''Remastered Rooms'''的D-60混淆。}}
+{{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]
 |entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
 |entity_image=<gallery>
-D60anim.gif| 大致准确的动画
+D60anim.gif|游戏内动画
 D-60face1.png|第一张脸
 D-60Face2.png|第二张脸
 D-60face3.png|第三张脸
@@ -24,13 +27,13 @@ D-60Face8.png|第七张脸
 |damage=秒杀（柜击造成70点伤害）（20点MAL伤害）
 |speed=极快（13.32 房间/秒）（799 Studs/秒）
 |related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
-|sound1=<center>第一种远处音效</center><center>[[File:D-60far1.mp3]]</center>
-|sound2=<center>第二种远处音效</center><center>[[File:D-60far2.mp3]]</center>
-|sound3=<center>近处音效</center><center>[[File:D-60Close.mp3]]</center>
-|sound4=<center>面部碰撞音效</center><center>[[File:D-60FaceCollision.mp3]]</center>
-|sound5=<center>反弹预警音效</center><center>[[File:D-60Rebound.mp3]]</center>
-|sound6=<center>跳杀音效</center><center>[[File:D-60Jumpscare.mp3]]</center>
-|sound7=<center>消失音效</center><center>[[File:D-60Die.mp3]]</center>
+|sound1=<center>（音量警告）远处环境音1</center><center>[[File:D-60far1.mp3]]</center>
+|sound2=<center>（音量警告）远处环境音2</center><center>[[File:D-60far2.mp3]]</center>
+|sound3=<center>（音量警告）近处环境音</center><center>[[File:D-60Close.mp3]]</center>
+|sound4=<center>（音量警告）面部碰撞</center><center>[[File:D-60FaceCollision.mp3]]</center>
+|sound5=<center>（音量警告）反弹预警</center><center>[[File:D-60Rebound.mp3]]</center>
+|sound6=<center>（音量警告）跳杀</center><center>[[File:D-60Jumpscare.mp3]]</center>
+|sound7=<center>（音量警告）消失</center><center>[[File:D-60Die.mp3]]</center>
 |sound8=<center>第一种远处音效来源</center><center>[[File:Radio Static Loop.mp3]]</center>
 |sound9=<center>第二种远处音效来源</center><center>[[File:A60farsoundorigin.mp3]]</center>
 |sound10=<center>近处音效来源</center><center>[[File:85soundorigin.mp3]]</center>
@@ -47,30 +50,30 @@ D-60Face8.png|第七张脸
 如果'''D-60'''选择在房间中央等待，它的音效会逐渐淡出，同时自身变为一个黑色球体。该阶段下'''D-60'''不会发动柜击，但仍然具有致命性。
 '''D-60'''在房间中央等待5-7秒（[[Red Rooms|红区]]内为2.5秒）后，有1/9的概率（[[Red Rooms|红区]]内为1/4）变回原本形态，移动到门口后开始向后撤退，速度会随时间逐渐加快。
 
-如果没有触发反弹，'''D-60'''会在亮度提升的同时发出巨大的风声，之后完全淡出，代表它已经消失。
-
-==应对策略与技巧==
 
 ```
-*当你听到 '''D-60'''<nowiki/> 的声音时，请在任意躲藏点附近等待（建议选择白色/蓝色躲藏点，因为会与 [[D-55]] 形成连击），直到屏幕上的静电效果持续约 1 秒。
-*之后，进入柜子，等待它离开。如果 '''D-60''' 决定反弹，你可以在它后退时打开几个房间。重复此过程即可！
-*在红区可能更难听到它的声音，因此请注意屏幕上的静电效果
+如果'''D-60'''运气不够好，它会在变亮的同时发出巨大的风声，然后完全消失。这意味着'''D-60'''已经消失了。
 
-==趣闻==
-*'''D-60''' 在命中时会造成 20 点 MAL. DMG，即恶意伤害（恶意伤害会扣除你的最大生命值，可通过 V-Boosters 移除）。
-*'''D-60'''<nowiki/> 的柜击不会杀死你，除非发生时你的生命值低于 50。
-*'''D-60'''<nowiki/> 的反弹次数上限最多为 '''7''' 次。
-*'''D-60'''<nowiki/>'''<nowiki/> 的'''跳杀声音来自 FNAF 同人游戏 The Joy of Creation 中 Bonnie 的跳杀。
-*'''D-60'''<nowiki/>'''<nowiki/> 的''' [[D-60i|变]][[D-60ii|体]]是既会给予徽章又是 Boss 的实体
+==策略与技巧==
+*当你听到'''D-60'''<nowiki/>的声音时，在任意藏身点附近等待（建议选择白色/蓝色藏身点，因为会与[[D-55]]形成组合攻击），直到屏幕上的静电效果持续约1秒。
+*之后，进入你的柜子，等待它离开。如果'''D-60'''决定反弹，你可以在它向后移动时打开几个房间。重复这个过程即可！
+*在红区可能更难听到它的声音，所以要留意屏幕上的静电效果
+
+==冷知识==
+*'''D-60'''在命中时会造成20点MAL. DMG，即恶意伤害（恶意伤害会扣除你的最大生命值，可以通过V-Boosters移除）。
+*'''D-60'''<nowiki/>的柜击不会杀死你，除非在柜击发生时你的生命值低于50。
+*'''D-60'''<nowiki/>的反弹次数上限为'''7'''次。
+*'''D-60'''<nowiki/>'''<nowiki/>的'''跳杀声音来自FNAF同人游戏《The Joy of Creation》中Bonnie的跳杀。
+*'''D-60'''<nowiki/>'''<nowiki/>的'''[[D-60i|变]][[D-60ii|体]]是既会给予徽章又是Boss的实体
 
 ==画廊==
 <gallery>
-File:D-60 1.png|旧第一版面孔
-File:D-622.png|旧第二版面孔
-File:D-63.png|旧第三版面孔
-File:D-64.png|旧第四版面孔 
-File:D-60Face5.png|旧第五版面孔
-File:D-60Jumpscareee.gif|D-60 的跳杀
+File:D-60 1.png|旧版第一张脸
+File:D-622.png|旧版第二张脸
+File:D-63.png|旧版第三张脸
+File:D-64.png|旧版第四张脸 
+File:D-60Face5.png|旧版第五张脸
+File:D-60Jumpscareee.gif|D-60的跳杀
 </gallery>
 
 

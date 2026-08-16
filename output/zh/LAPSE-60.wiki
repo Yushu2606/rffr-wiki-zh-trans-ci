@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60 (???)</span>}}
-{{ArticleBackground|File=OblivionScreen.webp}}
+{{ArticleBackground|File=OblivionScreen.png}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
 {{InfoBox:Entity
 |entity_name=<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60</span>
-|entity_image=L-60.webp
+|entity_image=L-60.png
 |previous_entity=[[SHA-60]]<br>[[LAPSE-3]]
 |next_entity=[[SHA-85]]<br>[[LAPSE-200]]
 |nicknames=???
@@ -25,6 +25,7 @@
 
 == 攻略与提示 ==
 * 留意任何意外出现的静电噪点，需快速躲藏，但不要立刻躲藏。
+* 务必待在柜子附近/安全点内，因为LAPSE-60可能连续生成，不要以为立刻就安全了。
 
 == 冷知识 ==
 * [[Overseer]]在制作'''LAPSE-60'''时参考了[[A-60i]]的设计，这一点可以从[[Overseer|A-60i的Overseer死亡提示]]中得到验证。
@@ -34,5 +35,5 @@ https://youtu.be/6VbYGZJKSZM?si=9wDpHzrGp-cRu8DF
 
 == 画廊 ==
 <gallery>
-LAPSE-60.webp|LAPSE-60 从柜子内部被观测到的画面
+LAPSE-60.png|LAPSE-60 从柜子内部被观测到的画面
 </gallery>

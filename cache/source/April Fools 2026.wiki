@@ -71,7 +71,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]

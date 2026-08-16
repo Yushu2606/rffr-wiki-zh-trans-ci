@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">D-20（温和观察者）</span>}}
-{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{InfoBox:Entity|previous_entity=[[D-5]]
 [[D-5i]]
 |next_entity=[[D-35]]
-|entity_name=[[File:D20sux.webp|frameless|link=D-20]]
+|entity_name=[[File:D20sux.png|frameless|link=D-20]]
 |entity_image= <gallery>
-D20.webp|待机设计
+D20.png|待机设计
 D-20Jumpscare.webp|跳杀/射击造型
 </gallery> 
 |caption-entity_image=求帮忙
@@ -42,10 +42,11 @@ D-20Jumpscare.webp|跳杀/射击造型
 * '''D-20''' 可以被任意[[Items|武器]]消灭。
 * 有极低概率'''D-20'''会在同一个房间的所有生成点位同时出现，最多可生成6个复制体。
 * [[SHA-120]]可以碾过'''D-20'''，使其立即消失。
+* '''D-20''' 曾经被称为D-1。
 
 ==画廊==
 <gallery>
-D20jump.webp|跳杀
+D20jump.gif|跳杀
 </gallery>
 {{EntityNavBoxSectionD}}
 

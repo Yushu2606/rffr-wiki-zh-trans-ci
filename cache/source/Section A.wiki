@@ -143,7 +143,8 @@ A new horror known as [[A-85]] appears. It acts like that of [[A-20]], but it co
 #[[A-200i]] may spawn after [[A-200]] despawns. It goes up through a blue portal then rushes back a random amout of rooms before it dissapears or rebounds to touch the door to either do it again or dissapear. Once it dissapears, it goes down the same portal from when it first spawned.
 
 === A-300 - A-500 ===
-[[Mouth]] can now rarely appear. It waits at the back of a door until either a player tries to open it, or 1 second has passed. It then breaks the door and starts to give chase. It chases you down near the Voidwall, before going back and despawning. You cannot go around [[Mouth]], as it kills you if you try to.
+#[[Mouth]] can now rarely appear. It waits at the back of a door until either a player tries to open it, or 1 second has passed. It then breaks the door and starts to give chase. It chases you down near the Voidwall, before going back and despawning. You cannot go around [[Mouth]], as it kills you if you try to.
+#At room 400, you are presented with a choice to either go to [[Section D]], or continue anyway.
 
 === A-500 - A-750 ===
 All rooms go completely dark.
@@ -166,10 +167,10 @@ Once you enter ''Endless Mode'', You go through A-1001+ and dwell deeper into th
 
 === A-1200 - A-5000 ===
 #[[X-1200 Entities]] start to appear. More information about them is in their page. 
-#Once you reach this point and every other 400 rooms past that point, all entity spawns increase by 100%. Entity spawns were 100% before, but once you reach A-1200, it's 200%, A-1600 gives 300% and so on.
+#Once you reach this point and every other 400 rooms past that point, all entity spawns increase by 100%. Entity spawns were 100% before, but once you reach A-1200, it's 200%, A-1600 gives 300%, A-2000 gives 400% and so on.
 
 === A-5000+ ===
-#All rooms go completely dark once again.
+#The lights flicker and all rooms go completely dark once again.
 #No Escape. We Are Infinity.
 
 == Trivia ==
@@ -180,12 +181,30 @@ Once you enter ''Endless Mode'', You go through A-1001+ and dwell deeper into th
 ** this was ment to be a temporary thing, but the entities had overrun both Section due to lack of direct control.
 
 ==Badges==
-{{BadgeSectionA|Image=Agency Badge Image.png|Name=Agency|Description=The journey begins here. Step in, no turning back.|Obtainment=Join the Game}}
-{{BadgeSectionA|Image=Hello Darkness (Badge).png|Name=Hello Darkness|Description=My old friend|Obtainment=Open door A-500.}}
-{{BadgeSectionA|Image=Insanity. (Badge).png|Name=Insanity.|Description=The nightmare is almost over.|Obtainment=Open door A-900.}}
-{{BadgeSectionA|Image=A Thousand Ends (Badge).png|Name=A Thousand Ends|Description=After a long journey, you're finally free, but was it worth it? Even after all of this, you feel like something's still missing..|Obtainment=Open door A-1000.}}
+{{BadgeSectionA
+|Image=Agency Badge Image.png
+|Name=Agency
+|Description=The journey begins here. Step in, no turning back.
+|Obtainment=Join the game.}}
+
+{{BadgeSectionA
+|Image=Hello Darkness (Badge).png
+|Name=Hello Darkness
+|Description=My old friend.
+|Obtainment=Open door A-500.}}
+
+{{BadgeSectionA
+|Image=Insanity. (Badge).png
+|Name=Insanity.
+|Description=This nightmare is almost over.
+|Obtainment=Open door A-900.}}
+
+{{BadgeSectionA
+|Image=A Thousand Ends (Badge).png
+|Name=A Thousand Ends
+|Description=After a long journey, you're finally free, but was it worth it? Even after all of this, you feel like something's still missing...
+|Obtainment=Open door A-1000.}}
 
 {{BrowseNavBox}}
-
 [[Category:Sections]]
 [[Category:From Original Rooms]]

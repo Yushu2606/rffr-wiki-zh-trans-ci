@@ -33,6 +33,7 @@ Once '''E-200''' Spawns, it will fill every room with dark red smoke, limiting t
 
 ==Trivia==
 * [https://youtu.be/72tw1wSpimE?si=qCgQGmy4PzTLiGA7 Update Executive Teaser 7]
+* '''E-200''' and [[SHA-200]] are the only 200 entities that spawn from the back.
 * Canonically, '''E-200''' is just the fog, the face is just condensed fog.
 ** For ingame reasons, its there just so hes visible to low graphics players.
 
@@ -40,10 +41,7 @@ Once '''E-200''' Spawns, it will fill every room with dark red smoke, limiting t
 <gallery>
 File:RenoE-200.gif|Concept Design
 File:E-200 jumpscare.gif|E-200's jumpscare
-</gallery>
-
-{{EntityNavBox}}
-
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Rebounder]]

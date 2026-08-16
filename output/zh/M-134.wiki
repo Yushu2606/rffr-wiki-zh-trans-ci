@@ -12,7 +12,8 @@
 |speed=静止|damage=66.66666（爆炸伤害）
 每秒5点（灼烧伤害）
 |caption-entity_image=今夜我们都将死去，而你会死得比我更早。
-|related_monsters=[[E-45]]（机制类似）<br>[[D-175]]（机制类似）}}
+|related_monsters=[[E-45]]（机制类似）<br>[[D-175]]（机制类似）
+|sound1=<center>环境音</center><center>[[File:FireCrackle.mp3]]</center>|sound2=<center>（'''响亮'''）爆炸音效 #1</center>[[File:M134Explode1.mp3]]|sound3=<center>（'''响亮'''）爆炸音效 #2</center>[[File:M134Explode2.mp3]]}}
 
 ==描述==
 [[M-134]]是你在[[Section M|M区]]遇到的第五个实体。在玩家等待D-200首领战许久后，它于2025年首月被加入游戏，是[[Claustrophobia|幽闭恐惧]]的同类、且更危险的孪生体，你可以在本页面中了解相关内容。[[M-134]]的更多信息将在下方介绍。

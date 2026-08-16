@@ -40,7 +40,7 @@ OldE-10.webp|测试版设计稿
 ==策略与提示==
 * 看到它后立刻躲藏，等待它后退。待它经过后，你应离开柜子并在约六秒后开门。之后，你须等待约四秒再进入柜子。
 ** 如果后方房间的布局是直道，你可以稍微窥探'''E-10'''的位置，确认何时可以再次进入柜子以躲避它的攻击。
-* '''E-10'''的击杀范围非常大，大到足以从另一个房间对你造成伤害，因此当该实体返回主房间且靠近你时，务必进入柜子。
+* '''E-10'''的击杀范围非常大，大到足以从另一个房间对你造成伤害，因此当该实体靠近时，务必进入柜子。
 ** 距离实体击杀范围足够远或完全不透明的安全点也同样有效。
 
 * [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU 演示视频]
@@ -49,39 +49,39 @@ OldE-10.webp|测试版设计稿
 * 当[[E-200]]处于活跃状态时，'''E-10'''不会返回主房间，尤其是在有门被打开/破坏的情况下。
 
 ==你知道吗==
-
-```
-* '''E-10''' 是 [[Section Executive Invasion Event]] 期间出现的两个入侵实体之一，另一个是 [[E-60]]。
-* '''E-10''' 是对来自 '''Rooms: Found Footage: Revisited''' 的 '''E-17''' 的重新利用，尽管机制有所改变。
-* '''E-10''' 有一个玩笑昵称叫 '''Sun'''，因为它拥有非常明亮的光线和很大的光照范围。
+* '''E-10''' 是在[[Section Executive Invasion Event|区高管入侵事件]]期间出现的两个入侵性实体之一，另一个是[[E-60]]。
+* '''E-10''' 是对《Rooms: Found Footage: Revisited》中 '''E-17''' 的重新利用，不过机制有所改变。
+* '''E-10''' 有一个玩笑昵称——'''Sun（太阳）'''，因为它拥有非常明亮的光线和很大的光照范围。
 
 ==Gallery==
 
-===游戏内图片===
+===In-game Images===
 <gallery>
-File:TheSun.jpg|在 [[Section D]] 的 [[Section Executive Invasion Event]] 期间看到的 '''E-10'''。
+File:Sun executive.webp|当前版本中的 '''E-10'''
+File:TheSun.jpg|在[[Section D|D区]]的[[Section Executive Invasion Event|区高管入侵事件]]期间看到的 '''E-10'''。
 File:TheOldSun.jpg|预发布版本的 '''E-10'''，即将杀死玩家。
-File:E-10SafeSpot.png|从安全点几乎看不到的 '''E-10'''。
+File:E-10SafeSpot.png|从安全点几乎看不到 '''E-10'''。
 </gallery>
 
 ===GIFs===
 <gallery>
-File:E-10NewScare.gif|'''E-10'''<nowiki/>的跳杀。
-File:E10jump.gif|'''E-10'''<nowiki/>的入侵事件跳杀。
-File:OldE-10Jum.gif|'''E-10'''<nowiki/>的预发布版本跳杀。
-File:ByeE10.gif|在 [[Section D]] 的 [[Section Executive Invasion Event]] 期间，'''E-10''' 经过玩家身边。
+File:E-10NewScare.gif|'''E-10''' 的跳杀。
+File:E10jump.gif|'''E-10''' 的入侵事件跳杀。
+File:OldE-10Jum.gif|'''E-10''' 的预发布版本跳杀。
+File:ByeE10.gif|在[[Section D|D区]]的[[Section Executive Invasion Event|区高管入侵事件]]期间，'''E-10''' 从玩家身边经过。
 </gallery>
 
-===杂项===
+===Miscellaneous===
 <gallery>
-File:E-10 despawn p.webp|'''E-10''' 的消失粒子。
+File:E-10 despawn p.webp|'''E-10''' 粒子。
 </gallery>
 
-== 徽章 ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=区域突破|Description=[无法获取] 在任意区域遭遇并从未知来源的两个意外异常之一中存活下来，即使经过数千个房间，'''它们'''也可能不会出现……|Obtainment='''[无法获取]'''<br>在E区入侵事件期间遭遇并从 '''E-10''' 或 [[E-60#Old|E-60]] 手中存活}}
-
-{{EntityNavBox}}
-
+== Badges ==
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=Sector Breach（分区突破）
+|Description=[UNOBTAINABLE]<br>在任意区遭遇并从两个来源不明的意外异常之一中存活，即使经过数千个房间，'''它们'''也可能不会出现……
+|Obtainment='''[UNOBTAINABLE]'''<br>在 E 区入侵事件期间遭遇 '''E-10''' 或 [[E-60#Old|E-60]] 并存活。}}{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Fallbacker]]

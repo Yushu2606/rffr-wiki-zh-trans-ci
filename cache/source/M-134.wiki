@@ -12,7 +12,8 @@
 |speed=Stationary|damage=66.66666 (Blast Damage)
 5 Per Second (Burning)
 |caption-entity_image=We both will die tonight, And you will die sooner than me.
-|related_monsters=[[E-45]] (similar mechanic)<br>[[D-175]] (similar mechanic)}}
+|related_monsters=[[E-45]] (similar mechanic)<br>[[D-175]] (similar mechanic)
+|sound1=<center>Ambience</center><center>[[File:FireCrackle.mp3]]</center>|sound2=<center>('''LOUD''') Explode Sound #1</center>[[File:M134Explode1.mp3]]|sound3=<center>('''LOUD''') Explode Sound #2</center>[[File:M134Explode2.mp3]]}}
 
 ==Description==
 [[M-134]] is the fifth entity you will encounter within the [[Section M]]. It was added in the first month of 2025 after a long wait for D-200's boss fight, and it acts as a relative, more dangerous twin to [[Claustrophobia]], as you'll see throughout this page. More information about [[M-134]] will be presented below.

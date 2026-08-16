@@ -60,10 +60,8 @@ Once Spawned, it will place itself behind the door, making drumming sounds befor
 
 <h2> Gallery </h2>
 <gallery>
-A-120 Seen in a hallway, about to kill a player.webp|alt=A-120 Seen in a hallway, about to kill a player|'''A-120''' seen in a hallway, about to kill a player.
-</gallery>
-
-{{EntityNavBox}}
+A-120 Seen in a hallway, about to kill a player.webp|alt=A-120 Seen in a hallway, about to kill a player|'''A-120''' seen in a hallway, about to kill a player. 
+</gallery>{{EntityNavBoxSectionA}}
 [[Category:Entities]]
 [[Category:Fallbacker]]
 [[Category:Rebounder]]

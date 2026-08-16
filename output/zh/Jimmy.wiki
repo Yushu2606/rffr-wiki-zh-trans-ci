@@ -21,12 +21,17 @@
 当你打开A-000之后的任意一扇门时，有1/2000的概率会在门后遇到'''Jimmy'''，它会发出非常响亮的嘶嘶声，随后消失。
 
 == 冷知识 ==
-* 柜子'''Jimmy'''已在某次未知更新中被Removed。
+* 柜子'''Jimmy'''已被Removed。
+* Jimmy与[[Mori]]、[[False Witness]]、[[Tackle]]以及[[False-60]]作为入侵者，是游戏中最稀有的普通实体。
 
-{{Badge|Image=Hi Jimmy (Badge).png|Name=Hi Jimmy|Description=好吧，这完全没必要。|Obtainment=被Jimmy跳吓。}}
+==徽章==
+{{Badge
+|Image=Hi Jimmy (Badge).png
+|Name=Hi Jimmy
+|Description=好吧，这完全没必要。
+|Obtainment=遭遇'''Jimmy'''。}}
 
 {{EntityNavBox}}
-
 [[Category:Entities]]
 [[Category:All Sections]]
 [[Category:Scarer]]

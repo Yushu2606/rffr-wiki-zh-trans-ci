@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #2D0102, 0 0 65px #2D0102; color: black;">E-200 (Amaurosis（黑蒙）)</span>}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{NoteBox|note=请勿与'''Interminable Rooms'''中的E-200或'''Rooms: Found Footage: Revisited'''中的同名E-200混淆}}
 {{InfoBox:Entity
 |entity_name=E-200
-|entity_image=File:E-200_Design.webp
+|entity_image=File:E-200 Design.gif
 |nicknames=Amaurosis（黑蒙）
 |previous_entity=[[E-165]]
 |next_entity=[[E-245]]
@@ -11,7 +11,7 @@
 |type=反弹者
 |behavior=多次冲向房门
 |speed=缓慢
-|damage=??? DPS<br>柜击造成40点伤害
+|damage=??? 每秒伤害<br>柜击造成40点伤害
 |locker_snipes=是
 |related_monsters=[[A-200]]
 |gun_effect=无
@@ -33,17 +33,15 @@
 
 ==你知道吗==
 * [https://youtu.be/72tw1wSpimE?si=qCgQGmy4PzTLiGA7 Update Executive 预告7]
+* '''E-200'''与[[SHA-200]]是仅有的两个从后方生成的200号实体。
 * 设定上，'''E-200'''本身就是雾气，它的脸只是冷凝的雾气而已。
 ** 出于游戏性考虑，添加面部是为了让低画质玩家也能看见它。
 
 ==画廊==
 <gallery>
-File:RenoE-200.webp|概念设计
-File:E-200_jumpscare.webp|E-200的跳杀
-</gallery>
-
-{{EntityNavBox}}
-
+File:RenoE-200.gif|概念设计
+File:E-200 jumpscare.gif|E-200的跳杀
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Rebounder]]

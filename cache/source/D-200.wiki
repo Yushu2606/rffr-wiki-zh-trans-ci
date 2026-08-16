@@ -217,7 +217,11 @@ Avoid getting near it at all costs, because the closer you get, the more it acce
 </tabber>
 
 <h2> Badges </h2>
-{{BadgeSectionD|Image=ProtocolProcedureBadge.png|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure Protocol Procedure]|Description=Exit room D-200.|Obtainment=Beat '''D-200''''s boss fight.}}
+{{BadgeSectionD
+|Image=ProtocolProcedureBadge.png
+|Name=Protocol Procedure
+|Description=Exit room D-200.
+|Obtainment=Beat '''D-200'''<nowiki/>'s boss fight.}}
 
 {{EntityNavBoxSectionD}}
 [[Category:Entities]]

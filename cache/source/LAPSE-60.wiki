@@ -25,6 +25,7 @@ Once '''LAPSE-60''' Spawns, it will begin rushing to the main room around the sa
 
 == Strategies & Tips ==
 * lookout for any unexpected static and hide quickly, but not immediately.
+* Make sure to stay near a locker/in a safespot as LAPSE-60 can chain, so dont think its immediately safe.
 
 == Trivia ==
 * [[Overseer]] took inspiration from [[A-60i]] while making '''Lapse-60''', as seen in [[Overseer|A-60i's Overseer death message]].

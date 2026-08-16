@@ -24,7 +24,7 @@ Upon spawning, will highlight random lockers in green, however it will highlight
 
 == Strategy & Tips ==
 * Just hide in non-highlighted lockers or in safe spots.
-* And don't get tricked by it's green indicating highlight, do not hide in there, it's not an invite like [[M-60i]].
+** And don't get tricked by it's green indicating highlight, do not hide in there, it's not an invite like [[M-60i]].
 
 == Trivia ==
 TBA.

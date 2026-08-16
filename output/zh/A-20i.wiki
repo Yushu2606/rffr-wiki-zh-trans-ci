@@ -22,10 +22,10 @@ File:A20i.png|更旧版设计
 无法发动柜击
 |speed=慢至中等（每秒穿过1.5至2个房间）（90至120 Studs/秒）
 |related_monsters=[[A-20]]|sound1=<center>生成'''还原音效'''</center><center>[[File:A20iSpawn.mp3]]</center>
-|sound2=<center>环境音</center><center>[[File:A-20i's movement sound..mp3]]</center>
-|sound3=<center>消失音效</center><center>[[File:Despawn.mp3]]</center>
-|sound4=<center>跳杀音效</center><center>[[File:A-20iJumpscare.mp3]]</center>
-|sound5=<center>旧版生成音效</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
+|sound2=<center>[中等音量] 环境音</center><center>[[File:A-20i's movement sound..mp3]]</center>
+|sound3=<center>[音量警告] 消失音效</center><center>[[File:Despawn.mp3]]</center>
+|sound4=<center>[音量警告] 跳杀音效</center><center>[[File:A-20iJumpscare.mp3]]</center>
+|sound5=<center>旧版/遗留生成音效</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
 
 ==描述==
 A-20i是所有素数实体中的首个素数实体，躲避难度极低。它外观为绿色，和A-20几乎完全相似。它的移动音效听起来就像是加速版的A-20音效。

@@ -9,7 +9,7 @@
 |entity_name=.
 |for_the_mobile_people=.}}
 |-|Striketeam Solstice=
-'''Striketeam Solstice（夏至突击队）：'''
+'''Striketeam Solstice：'''
 {{InfoBox:Entity
 |entity_name=Striketeam Solstice
 |entity_image=riflemen male.png
@@ -50,11 +50,11 @@
 * Striketeam Solstice 的旧名为 Fireteam Darklight。
 
 == Music/Soundtrack ==
-* Escalation - 普通 Solstice 突破原声带: https://youtu.be/jNfhg-7yQyI?si=9d1VuvuyQlz1_P_A
-* FORSAKEN UST: YOURSELF JOHN DOE LMS - 稀有 Solstice 突破原声带: https://youtu.be/YR-fLn7RGK0?si=xg1pnptZf71ZzFUL（略微放慢）
-* 第一扇门突破"Asiyah"威胁等级原声带 - https://youtu.be/Qd1XSVa18fo?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
-* 第二扇门突破"Briah"威胁等级原声带 - https://youtu.be/zyoLNSUQJVE?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
-* 第三扇门突破"Atziluth"威胁等级原声带 - https://youtu.be/0HKVd4WQzRY?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+* Escalation - 普通 Solstice 突破 OST：https://youtu.be/jNfhg-7yQyI?si=9d1VuvuyQlz1_P_A
+* FORSAKEN UST: YOURSELF JOHN DOE LMS - 稀有 Solstice 突破原声带：https://youtu.be/YR-fLn7RGK0?si=xg1pnptZf71ZzFUL（略微减速）
+* Gate I 突破 "Asiyah" 威胁等级原声带 - https://youtu.be/Qd1XSVa18fo?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+* Gate II 突破 "Briah" 威胁等级原声带 - https://youtu.be/zyoLNSUQJVE?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
+* Gate III 突破 "Atziluth" 威胁等级原声带 - https://youtu.be/0HKVd4WQzRY?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg
 
 ==Gallery==
 <gallery>
@@ -66,51 +66,51 @@ riflemen male.png|男性步枪兵
 Female riflemen.png|女性步枪兵
 MaleLeader.jpg|男性队长
 FemaleLeader.jpg|女性队长
-1stGate.png|第一扇门标签
-2ndGate.png|第二扇门标签
-3rdGate.png|第三扇门标签
+1stGate.png|第一道门标签
+2ndGate.png|第二道门标签
+3rdGate.png|第三道门标签
 </gallery>
 
 
 
-|-|具象虚空=
-'''具象虚空：'''
+|-|肉身虚空=
+'''肉身虚空：'''
 {{ArticleBackground|File=Voiding3.png}}
 {{InfoBox:Entity
 |entity_name=Corporeal Void
 |entity_image=Humanvoid.jpeg
 |nicknames=君主
-|appears_at=到达第四扇门时
-|damage=每次命中60
-|speed=与玩家相同(?)
-|sound1=<center>午夜威胁等级原声带</center><center>[[File:Gate4.mp3]]</center>
-|sound2=<center>Sovereignty 原声带</center><center>[[File:VoidBreach.mp3]]</center>}}
+|appears_at=当到达第四道门时
+|damage=每次命中 60
+|speed=与玩家相同（？）
+|sound1=<center>Midnight 威胁等级原声带</center><center>[[File:Gate4.mp3]]</center>
+|sound2=<center>Sovereignty OST</center><center>[[File:VoidBreach.mp3]]</center>}}
 
 ==Description==
-[[Void|虚空]]的具象或"人类"版本。这种虚空形态由玩家控制，因此难以预测。它手持一把对玩家造成60点伤害的剑，并且其柜子突破难度极高，至今无人能将其击败。当玩家击杀足够多的 Striketeam Solstice 成员后达到第四威胁等级时，它便可能出现，不过该威胁等级和具象虚空本身都很少被使用。
+[[Void]] 的肉身或"人类"版本。这种虚空形态由玩家控制，因此不可预测。它拥有一把对玩家造成 60 点伤害的剑，以及一次难度极高的柜子突破，至今无人能击败它。当玩家击杀足够多的 Striketeam Solstice 成员后达到第四威胁等级时，它便会出现，不过该威胁等级和肉身虚空本身都很少被使用。
 
 == Music/Soundtrack ==
-* Sovereignty 原声带: https://youtu.be/e-IfbNv5HGY?si=JuoTnYQsjVgqn7PY
-* 第四扇门突破午夜原声带 - https://youtu.be/Z7Hxuk7akdc?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg（放慢/降调）
+* Sovereignty OST：https://youtu.be/e-IfbNv5HGY?si=JuoTnYQsjVgqn7PY
+* Gate IV 突破 Midnight 原声带 - https://youtu.be/Z7Hxuk7akdc?list=PLZnn1w_lkmlUFIgudAZNTtNtWIRjYFzZg（减速/降调）
 
 ==Gallery==
 <gallery>
-4thGate.png|第四扇门标签
+4thGate.png|第四道门标签
 </gallery>
 
-|-|具象 Oblivion=
-'''具象 Oblivion：'''
+|-|肉身 Oblivion=
+'''肉身 Oblivion：'''
 {{ArticleBackground|File=OblivionScreen.png}}
 {{InfoBox:Entity
 |entity_name=Corporeal Oblivion
 |entity_image=Humanoblivion.jpeg
 |nicknames=Oblivion
-|appears_at=仅限管理员
-|type=无害(?)
-|speed=与玩家相同(?)}}
+|appears_at=仅管理员可生成
+|type=无害（？）
+|speed=与玩家相同（？）}}
 
 ==Description==
-[[Oblivion]]的具象或"人类"版本。它们的行为尚不明确，但不难推测它们有意帮助玩家。
+[[Oblivion]] 的肉身或"人类"版本。它们的行为尚不明确，但很容易推测它们意在帮助玩家。
 
 
 |-|NULLITY=
@@ -118,35 +118,35 @@ FemaleLeader.jpg|女性队长
 {{InfoBox:Entity
 |entity_name=NULLITY
 |entity_image=ParticleEffect.png
-|appears_at=仅限管理员
+|appears_at=仅管理员可生成
 |nicknames=NULL<br>VOID
 |damage=inf
 |speed=???
 }}
 
 == Description ==
-最近在 Rooms 异常现象中再次被目击到的神秘实体。需要更多信息以形成更高质量的描述。
+一个神秘的实体，最近在 Rooms 异常事件中再次被目击。需要更多信息以形成更高质量的描述。
 
 == Appearance ==
-NULL 看起来是一个类似虚空的具象实体。它由红、白、黑三色组成。最显著的是亮红色的光芒。
+NULL 似乎是一个类似虚空的肉身实体。它由红、白、黑三色组成，最显眼的是亮红色的光芒。
 
 ==Lore==
-关于该实体的信息所知甚少。也许它身上的红色部分就是 Oblivion？
+关于这个实体知之甚少。也许它身上的红色就是 Oblivion？
 
 ==Gallery==
 <gallery>
-Maybe_It%27s_him.png|虚空旧设计的编辑版本，使其看起来与我们观察到的相似。
+Maybe_It%27s_him.png|经过编辑的虚空旧设计版本，使其看起来与我们观察到的相似。
 Old_Null.png|实体 NULL 的一次旧目击记录。
 </gallery>
 
 ''创作者注：此实体已不在此领域中。不要害怕它。''
 
 
-|-|Corporeal Overseer=
-'''Corporeal Overseer:'''
+|-|肉身 Overseer=
+'''肉身 Overseer:'''
 {{ArticleBackground|File=ShadowScreen.jpg}}
 {{InfoBox:Entity
-|entity_name=Corporeal Overseer
+|entity_name=肉身 Overseer
 |entity_image=CorporealOverseer.png
 |nicknames=The Overseer<br>Shadow-000
 |appears_at=仅管理员可生成
@@ -154,7 +154,7 @@ Old_Null.png|实体 NULL 的一次旧目击记录。
 |speed=与玩家相同}}
 
 ==描述==
-[[Overseer]]的肉身或称"人类"版本，没什么更多可说的，它们的行为未知，拥有独属于它们的暗影武器。
+[[Overseer]] 的肉身或"人类"版本，除此之外没什么好说的，它们的行为未知，拥有专属的暗影武器。
 
 
 
@@ -162,47 +162,47 @@ Old_Null.png|实体 NULL 的一次旧目击记录。
 '''Lucy:'''
 {{InfoBox:Entity
 |entity_name=Lucy
-|caption-entity_image=你好..我希望我们能成为朋友？
+|caption-entity_image=你好……我希望我们能成为朋友？
 |nicknames=Devin<br>The Darkheart
 |appears_at=仅管理员可生成
-|type=反袭击者
+|type=反入侵者
 |speed=玩家速度
 |entity_image=Lucy new.png
-|sound1=<center>Breach 原声带</center><center>[[File:ACreationOfSorrow.mp3]]}}
+|sound1=<center>Breach Soundtrack</center><center>[[File:ACreationOfSorrow.mp3]]}}
 
 <font color="000000"/font>
 == 外观 ==
 <font color="BB0FFF"/font>
-<span style="text-shadow: black -3px 3px 3px;">Lucy 是一个漆黑的人形生物，留着黑色长发，头戴由黑色碎片组成的尖刺光环。她穿着一件带有紫色点缀的黑色夹克，腰间佩有一把黑色剑，脖子上围着一条黑色围巾，眼睛发着白光。
+<span style="text-shadow: black -3px 3px 3px;">Lucy 是一个漆黑的人形生物，留着黑色长发，头戴由黑色碎片组成的尖刺光环。她穿着一件带有紫色装饰的黑色夹克，腰间佩着一把黑剑，脖子上围着一条黑色围巾，双眼散发着白光。
 
 <font color="000000"/font>
 == 行为 ==
 <font color="BB0FFF"/font>
-<span style="text-shadow: black -3px 3px 3px;">Lucy 通常只会在你面临被 Solstice 袭击的风险，或正在被 Solstice 袭击时出现在你的对局中。她通常是一个和平的生物，充当临时保镖/保护者。如果她在 Solstice 未激活时出现在你的对局中，她会陪你走过各个房间，偶尔与你交谈。然而，如果 Solstice 在你的对局中处于激活状态，她会通过击退袭击者来保护你，为你提供逃跑或跑开的机会。
+<span style="text-shadow: black -3px 3px 3px;">Lucy 通常只在你面临被 Solstice 袭击的风险，或正在被 Solstice 袭击时才会出现在你的流程中。她通常是一个和平的生物，充当临时保镖/保护者。如果她在 Solstice 未激活时出现在你的流程中，她会陪你走过各个房间，偶尔与你交谈。然而，如果 Solstice 在你的流程中处于激活状态，她会通过击退袭击者来保护你，为你提供逃脱或逃跑的机会。
 
-<span style="text-shadow: black -3px 3px 3px;">不过，你不应该做的事情是对 Lucy 表现出攻击性。如果你选择通过向她开枪、反复在她面前摔储物柜门，或使用近战武器来对她表现出攻击性，她会反过来变得具有攻击性，并通过展示她的枪或用枪严重伤害你来威胁杀死你。进一步的攻击行为会导致你死亡。
+<span style="text-shadow: black -3px 3px 3px;">但有一件事你不应该做，那就是对 Lucy 表现出攻击性。如果你选择对她表现出攻击性，比如用枪支射击她、反复在她面前摔储物柜门，或使用近战武器，她会反过来变得具有攻击性，并通过展示她的枪或用枪严重伤害你来威胁杀死你。进一步的攻击行为会导致你被杀死。
 
 <font color="000000"/font>
-== 背景故事 ==
+== 传说 ==
 <font color="BB0FFF"/font>
-<span style="text-shadow: black -3px 3px 3px;">Lucy 是 Darkheart 的前宿主，Darkheart 就是你在她腰间看到的那把剑。她因异常属性以及被认为与暗影有共鸣而被 S.P.A.W.N 组织捕获。随后，S.P.A.W.N 在某个目前尚未探索的地方对她进行了实验，希望能更多地了解她所谓的异常属性以及她与暗影之间的联系。当 S.P.A.W.N 从她那里获得了他们想要的信息后，她被带到维护通道并被锁在那里的某个地方。然而，由于一场原因不明的神秘爆发，其中一个暗影打破了 Lucy 牢房的入口，将她释放了出来。</span>
+<span style="text-shadow: black -3px 3px 3px;">Lucy 是 Darkheart 的前宿主，Darkheart 就是你在她腰间看到的那把剑。她因自身的异常属性以及被认为与暗影的共鸣而被 S.P.A.W.N 组织捕获。随后，S.P.A.W.N 在某个目前尚未探索的地方对她进行了实验，希望能更多地了解她上述的异常属性以及她与暗影之间的联系。当 S.P.A.W.N 从她那里获得了他们想要的信息后，她被带到了维修隧道并被关在那里的某个地方。然而，由于一场原因不明的神秘爆发，其中一个暗影打破了 Lucy 牢房的入口，将她释放了出来。</span>
 
-==音乐/原声带==
-* A Creation Of Sorrow - Breach 原声带：https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
+==音乐/配乐==
+* A Creation Of Sorrow - Breach Soundtrack: https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
 
 <font color="000000"/font>
-== 冷知识 ==
+== 琐事 ==
 <font color="BB0FFF"/font>
-<span style="text-shadow: black -3px 3px 3px;"><big>她或许很善良，但即便是她也有自己的底线……</big>
+<span style="text-shadow: black -3px 3px 3px;"><big>她或许很善良，但即便是她也有极限……</big>
 <font color="000000"/font>
-== 图集 ==
+== 画廊 ==
 <gallery widths="180">
 File:Lucy eyes.png|Lucy 的眼睛。
-File:Lucy breach.png| "I thought I could trust you.. Good luck."（"我还以为我能信任你……祝你好运。"）
+File:Lucy breach.png| "I thought I could trust you.. Good luck."（"我本以为我可以信任你……祝你好运。"）
 File:Lucy gun.png|Lucy 手持 VM-244。
 File:Lucy katana.png|Lucy 手持一把紫黑色武士刀。
 File:New lucy perf.png|Lucy 手持 The Perfectionist。
-File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."（"……很抱歉事情不得不发展到这个地步。"）
+File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."（"……我很抱歉事情必须走到这一步。"）
 </gallery>
 <font color="E6E6E6"/font>
 
@@ -214,113 +214,113 @@ File:Lucy JumpscareConcept.gif|"...I'm sorry it had to come to this."（"……�
 {{InfoBox:Entity
 |entity_name=Avalanche
 |entity_image=Ava.jpg
-|appears_at=任意地点。突袭 SC/A&SP
+|appears_at=任何地方。突袭 SC/A&SP
 |nicknames=Ava/Avalanche
 |damage=取决于武器
 |speed=14 studs/second
 |related_monsters=[[Overseer]]
-|sound1=<center>突破配乐</center><center>[[File:ACreationOfSorrow.mp3]]</center>}}
+|sound1=<center>突袭配乐</center><center>[[File:ACreationOfSorrow.mp3]]</center>}}
 
 ==描述==
-Ava，也被称为 Avalanche 或 Avalanchette，是一个相对不为人知的存在。她总是随身携带着暗影灯和暗影武器，有时也会携带 VM。
+Ava，也被称为 Avalanche 或 Avalanchette，是一个相对不为人知的存在。她总是随身携带暗影光和暗影武器，有时也会携带 VM。
 
-她身上有一种带有紫色轮廓的黑色故障效果，覆盖了她的大部分面部，导致她失明。这一点可以从 Ava 有时会撞到东西看出。然而，由于某种她不愿透露的东西向四面八方发射紫外线，她仍然能够大致感知周围环境的影像。她要么穿着紫色的军用装备，要么穿着她的紫色连衣裙。她有着纯白的皮肤，身后始终悬浮着两条长长的锁链。
+她身上有一层黑色故障效果，带有紫色轮廓，覆盖了她大部分面部，这使她看不见东西。这一点可以从 Ava 有时会撞到东西看出。然而，她仍然能够大致感知周围环境的影像，因为某种她不愿透露的东西会向四面八方发射紫外线。她要么穿着紫色军用风格装备，要么穿着她的紫色连衣裙。她的皮肤完全是白色的，身后始终悬浮着两条长长的锁链。
 
-大多数时候你见到她，她都会很友善，并尽她所能帮助你。如果她发现了她认为有用的东西，她会把它交给你。而在 solstice 突袭且她在场的情况下（这几乎不可能遇到），Ava 会尽力协助你，但有时她什么也不会做。
+大多数时候你见到她，她都会很友善，并尽她所能帮助你。如果她发现她认为有用的东西，她会把它给你。在她在场的至日突袭事件中（这几乎不可能遇到），Ava 会尽力协助你，但有时她也什么都不做。
 
-然而，如果暗影正在入侵，无论是 [[Alpha & Shadowpocalypse]] 还是 [[Shadow Challenge|暗影挑战]]，Ava 的行为都会有所不同。就好像有什么人或什么东西在给她下命令。在这种情况下，Ava 会想尽一切办法杀死你。她会手下留情，类似于 solstice 的机制，只会用 The Perfectionist 射击，直到你表现出攻击性。如果玩家躲进柜子，她会破柜而入试图杀死你。
+然而，如果暗影正在入侵，无论是 [[Alpha & Shadowpocalypse|阿尔法与暗影末日]] 还是 [[Shadow Challenge|暗影挑战]]，Ava 的行为都会有所不同。就好像有什么人或什么东西在给她下命令。在这种情况下，Ava 会想尽一切办法杀死你。她会手下留情，类似于至日的运作方式，只使用 The Perfectionist 射击，直到你表现出敌意。如果玩家躲进柜子里，她会破开柜子试图杀死你。
 
 如果你活了下来，她会随着时间的推移变得温顺，然后不久后消失。
 
-然而，有一件事你绝对不想做，因为这会让她变得具有攻击性。如果你这样做激怒了她，她要么开枪打你直到你受中等程度的伤，要么直接离开。无论你做什么，都不要叫她"Juliette"。
+然而，有一件事你绝对不想做，因为这会让她变得具有攻击性。如果你这样做激怒了她，她要么开枪打到你伤势不轻，要么直接离开。无论你做什么，都不要叫她"Juliette"。
 
-==传说/背景信息==
-Ava 于 1984 年进入这栋建筑，当时她 22 岁。她出生于 1962 年。大学期间的一天，在尸体被发现后不久，她被诬陷谋杀了她失踪的室友。一天后，她被拘留并遭到残酷的审讯和施压。她的家人出于某种原因选择在法庭上作不利于她的证词。看到自己的家人因为她没有做过的事而作不利于她的证词，这让她深受伤害，再加上之前经历的残酷审讯，各种事情开始在她的精神上不断堆积。
-然而，她的律师成功证明了她的清白，几天后他们真的抓住了凶手并对其判刑。不幸的是，Ava因这一指控被大学开除，于是被送回了家。令人震惊的是，她的家人张开双臂欢迎她，表现得仿佛一切如常。她的家人只是说了一句敷衍的道歉，说最好往前看，就把一切都抛诸脑后。看到这一幕，Ava的脑子里有什么东西崩溃了。在她看来，她的整个家庭都在轻视和无视她刚刚经历的巨大痛苦，以及被学校开除的事实。对Ava来说，她的梦想和未来几乎全毁了，而他们却对此视而不见。于是晚饭后，她拿起一把刀杀死了父亲。她的母亲不久后也死了。Ava的哥哥Mason试图反抗并报了警。他差点制服Ava，但她最终也杀了他。
+==背景故事==
+Ava 于 1984 年进入这栋建筑，当时她 22 岁。她出生于 1962 年。大学期间的一天，在尸体被发现后不久，她被诬告谋杀了她失踪的室友。一天后，她被拘留并遭到残酷审讯和施压。不知为何，她的家人选择在法庭诉讼中作不利于她的证词。看到自己的家人因为她没有做过的事而作出对她不利的证词，这让她深受伤害，再加上之前遭受的残酷审讯，她的精神状态开始不堪重负。
+然而，她的律师成功证明了她的清白，几天后他们真的抓住了凶手并对其判刑。不幸的是，Ava 因这一指控被大学开除，因此被送回了家。令人震惊的是，她的家人张开双臂欢迎她，表现得仿佛一切如常。她的家人只是轻描淡写地道了个歉，说最好往前看，就把一切都抛在了脑后。看到这一幕，Ava 的脑子里有什么东西崩断了。在她眼中，她的整个家庭都在轻视和无视她刚刚经历的巨大痛苦，以及被学校开除的事实。对 Ava 来说，她的梦想和未来几乎毁于一旦，而他们却对此视而不见。于是晚饭后，她拿起一把刀杀死了父亲。她的母亲不久后也死了。Ava 的哥哥 Mason 试图反抗并报了警。他差点制服 Ava，但她最终也杀了他。
 
-一听说警察在追捕她，她就逃跑了。她跑得很远，跑得很快。她所熟悉的生活已经不复存在，家人的鲜血沾在了她的手上。警方发出了搜查令，并派出一架直升机协助寻找Ava。随后她跑进了一栋大建筑，认为那会是个藏身的好地方。在里面，她发现了一部电梯，决定下去——根据这栋建筑的外观，她满怀希望地祈祷电梯能通往某种地下室。从那以后，一切都变得模糊不清。据她所知，她失去了意识，醒来时在一个小区域里，有两张长得怪异的沙发。她回头一看，电梯是单向的。她被困住了。
+一听到警察在追捕她，她便逃跑了。她跑得很远，跑得很快。她所熟知的生活已经不复存在，家人的鲜血沾在了她的手上。警方发出了搜查令，并派出一架直升机协助寻找 Ava。随后她跑进了一栋大建筑，认为那会是个藏身的好地方。在里面，她发现了一部电梯，决定下去——鉴于这栋建筑的外观，她希望并祈祷它能通往某种地下室。从那以后，一切都变得模糊不清。据她所知，她昏了过去，醒来时在一个小区域里，有两张长得奇怪的沙发。她回头一看，电梯是单向的。她被困住了。
 
-在那之后，Ava穿越了各个分区，边走边了解每个实体的行为模式。随着不断前进，她慢慢变得偏执，认为这一切没有尽头。然而，她遇到了一扇通往新区域的门。于是她继续前进，希望最终能找到出口。然而，在[[Section M|维护区]]期间，她遭遇了一场惨烈的交锋，导致她被暗影感染，并被[[Overseer]]当作傀儡使用。不过，由于她通过未知方式变得异常，她的意识和心智得以完整保留。
+在那之后，Ava 穿越了各分区，边走边了解每个实体的行为模式。随着她不断前进，她慢慢变得偏执，认为这一切没有尽头。然而，她遇到了一扇通往新区域的门。于是，她继续前行，希望最终能找到出口。然而，在她身处 [[Section M|维护区]] 期间，她遭遇了一场严酷的经历，导致她被暗影感染，并被 [[Overseer]] 当作傀儡使用。然而，由于她因未知途径而变得异常，她的意识和心智得以保持完整。
 
-==音乐/原声带==
-* A Creation Of Sorrow - 突破原声带: https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
+==Music/Soundtracks==
+* A Creation Of Sorrow - Breach 原声带: https://youtu.be/YWMtuE_npzQ?si=UE5T8F689-qU1rVO
 
-==画廊==
+==Gallery==
 <gallery>
-AvaBreaching.jpg|Ava即将突破玩家的柜子
-Avabreaching2.png|屈服于感染然后去死吧！
-Avabreachingsolstice1.png|也许这次你会学到教训！
-Avareactiontoshadowchallenge1.png|你……做了什么？
-Avareactiontoshadowchallenge2.png|你知道到底发生了什么吗？！
-Avareactiontoshadowchallenge3.png|当时机到来时，我不会在这里帮你。
-Avastalking1.png|Ava从近距离跟踪。
-Avastalking2.png|Ava从更远的距离跟踪。
+AvaBreaching.jpg|Ava 即将突破玩家的柜子
+Avabreaching2.png|Succumb to the infection and DIE!（屈服于感染然后去死吧！）
+Avabreachingsolstice1.png|Maybe this time you'll learn!（也许这次你会吸取教训！）
+Avareactiontoshadowchallenge1.png|What have you... done?（你……做了什么？）
+Avareactiontoshadowchallenge2.png|Do you realize what's even happened?!（你到底意识到发生了什么吗？！）
+Avareactiontoshadowchallenge3.png|When the time comes, I won't be here to help you.（当时机到来时，我不会在这里帮你。）
+Avastalking1.png|Ava 在近距离跟踪。
+Avastalking2.png|Ava 在更远的距离跟踪。
 </gallery>
 
 
 
-|-|The Record Keeper=
-'''The Record Keeper：'''
+|-|记录者=
+'''记录者：'''
 {{InfoBox:Entity
-|entity_name=The Record Keeper
+|entity_name=The Record Keeper（记录者）
 |entity_image=TheRecordKeeper.png
-|appears_at=仅限管理员
+|appears_at=仅管理员可生成
 |type=雇佣兵
 |nicknames=Lilly
-|damage=取决于武器
+|damage=视武器而定
 |speed=14 studs per second
 }}
 
 == 描述 ==
-一名S.P.A.W.N.的高级雇员，似乎总是带着疲惫的神情，还随身带着一把AK47。由于S.P.A.W.N.行事方式的性质，外界对The Record Keeper知之甚少。
+一名高级别的 S.P.A.W.N. 雇员，似乎总是带着疲惫的神情，还随身携带着一把 AK47。由于 S.P.A.W.N. 行事方式的性质，人们对 The Record Keeper 知之甚少。
 
 == 外观 ==
-The Record Keeper长着狐狸耳朵、鹿角和一条狐狸尾巴。当被问及她的物种时，她称自己为"狐鹿之类的东西"。
-她的服装包括一套经过改良以更适应战斗场景的西装，配有肩垫和护膝，大概是为了减少战斗中机动动作造成的伤害。她腰间系着一条腰带，还绑着一件夹克。她背上还背着一把镰刀，似乎是某种神器。
+The Record Keeper 长着狐狸耳朵、鹿角和一条狐狸尾巴。当被问及她的物种时，她称自己为"foxdeer thing（狐鹿之类的东西）"。
+她的服装由一套经过改造以更适应战斗场景的西装组成，配有肩垫和护膝，大概是为了减少战斗中机动造成的伤害。她腰间系着一条腰带，还绑着一件夹克。她背上还背着一把镰刀，看起来像是某种神器。
 
-==背景故事==
-根据[[Section E|行政层]]中的内部文件，记录者是一名高阶员工，地位似乎仅次于公司创始人。
+==Lore==
+根据[[Section E|行政层]]中的内部文件，记录者是一名高级雇员，地位似乎仅次于公司创始人。
 
-根据同一份文件，她与该组织的关联可以追溯到其作为邪教成立之初，在她办公室发现的体检报告指出，这正是她出现兽化突变的直接原因。
+根据同一份文件，她与该组织的关联可以追溯到它作为一个邪教成立之时，正如在她办公室发现的体检报告所指出的那样，这是她出现类动物突变的直接原因。
 
-她的工作，正如其头衔所指定的，是记录S.P.A.W.N.认为重要的一切信息。这些文件包含的信息包括但不限于：实体、各分区、员工、神器、武器、产品、会议和商业对手。她的文件包含员工可能要求查阅的任何内容的多个页面。
+她的工作，正如其头衔所指定的，是保存S.P.A.W.N.认为重要的任何及所有信息的记录。这些文件包含的信息包括但不限于：实体、各分区、雇员、神器、武器、产品、会议和商业对手。她的记录包含了雇员可能要求查阅的任何内容的多页资料。
 
-记录者似乎与实体有着密切的联系，以至于据目击报告称，实体会避免骚扰她，类似于Striketeam Solstice的情况。
+记录者似乎与实体有着密切的联系，以至于据报告的目击事件表明，实体会避免骚扰她，类似于Striketeam Solstice（至日突击队）的情况。
 
-==画廊==
+==Gallery==
 <gallery>
 RecordKeeperHoD+.png|手持Heart of Darkness+（黑暗之心+）的记录者
 RecordKeeperPerfectionist.png|手持Perfectionist（完美主义者）的记录者
 RecordKeeperAK47.png|手持AK-47的记录者
-RecordKeeperIntroduction.png|记录者在自我介绍
+RecordKeeperIntroduction.png|记录者进行自我介绍
 </gallery>
 
 
 
-|-|宿主=
-'''宿主：'''
+|-|The Host=
+'''The Host:'''
 {{InfoBox:Entity
-|entity_name=宿主
+|entity_name=The Host
 |entity_image=Unknown Humanoid.png
 |appears_at=仅管理员可生成
-|nicknames=宿主<br>命运
-|damage=无(?)
+|nicknames=The Host<br>Fate
+|damage=无（？）
 |speed=与玩家相同
-|related_monsters='''宿主之源'''}}
+|related_monsters='''Host's Source'''}}
 
-== 描述 ==
-关于宿主我们知之甚少，但我们知道它与'''宿主之源'''有关，这是一颗白色水晶，当'''宿主'''突袭你的逃生时会出现。
+== Description ==
+关于The Host知之甚少，但我们知道它与'''Host's Source（宿主之源）'''有关，这是一颗白色水晶，当'''The Host'''闯入你的逃生过程时会出现。
 
-==背景故事==
-* 宿主是一个抽象的存在，从技术上讲是虚假的，除非你持有它的生命之源
+==Lore==
+* The Host是一个抽象的存在，从技术上讲它是虚假的，除非你持有它的生命之源
 * 它只有2个月大
-* 可以听到它提到一个名为"Onxy"的角色。
-* 除非你的物品栏中有它的源头，否则无法与命运互动。请注意，命运可以从你的物品栏中拿走物品，只要你的物品栏中有这些物品，因为它以某种方式"链接"着。
+* 可以看到它提到了一个名为"Onxy"的角色。
+* 除非你的物品栏中有它的源，否则无法与Fate交互。请注意，Fate可以从你的物品栏中拿走物品——只要你的物品栏中有这些物品——因为它以某种方式"关联"着。
 
 
 
 |-|Brad Felony=
-'''Brad Felony：'''
+'''Brad Felony:'''
 {{InfoBox:Entity
 |entity_name=Brad Felony
 |entity_image=<gallery>
@@ -328,27 +328,27 @@ Brad1.webp|游戏内图片
 Brad2.webp|同上
 </gallery>
 |appears_at=仅管理员可生成
-|nicknames=Brad Felony, 芥末人
+|nicknames=Brad Felony、芥末人
 |damage=未知
 |speed=与玩家相同}}
 
-==描述==
+==Description==
 未知
 
-==背景故事==
-在进入大楼之前曾是一名视频博主，也曾偷过别人的物品，直到他开始感到内疚并害怕别人对他发火。他似乎认识一个名叫"Bips"的水晶回收专家。可以看到Brad携带一件名为"Radiant Fragment"的活动物品，活动版本与Brad手持版本的唯一区别是，如果Brad把碎片掉给你，他的版本总是会有不同的描述。
-"Bips"也是Brad的敌人/似乎彼此憎恨。
+==Lore==
+在进入大楼之前曾是一名视频博主，在他开始感到内疚并害怕别人对他发火之前，他也曾偷过别人的物品。似乎认识一个名叫"Bips"的人，对方是一名水晶回收专家。可以看到Brad携带一件名为"Radiant Fragment（光辉碎片）"的活动物品，活动版本与Brad手持版本的唯一区别是，如果Brad把碎片掉给你，他的版本总是会有不同的描述。
+"Bips"也是Brad的敌人/两人似乎彼此憎恨。
 
-==画廊==
+==Gallery==
 <gallery>
-BradWeddingOutfit.png|穿着婚礼礼服的Brad。
-Bradnbips.png|Brad躲在蓝色柜子里，Bips盯着柜子。
+BradWeddingOutfit.png|Brad穿着婚礼服装的样子。
+Bradnbips.png|Brad躲在一个蓝色柜子里，Bips盯着柜子看。
 Bradnbipsdiff.png|同上，但Brad在柜子外面。
 </gallery>
 
 
-|-|旅行者=
-'''旅行者：'''
+|-|Traveler=
+'''Traveler:'''
 {{InfoBox:Entity
 |entity_name=Traveler
 |entity_image=Traveler.png
@@ -357,10 +357,10 @@ Bradnbipsdiff.png|同上，但Brad在柜子外面。
 |damage=取决于武器
 |speed=与玩家相同}}
 
-==描述==
+==Description==
 ???
 
-==装备配置==
+==Loadout==
 * 个人用 NVCS-13793-C
 * 可借用 NVCS-3000
 * 4 个绷带
@@ -369,10 +369,10 @@ Bradnbipsdiff.png|同上，但Brad在柜子外面。
 * 1 瓶 Bloxiade 
 * 1 罐 Bloxy Cola
 * 一把左轮手枪 
-* 一把战术 Shakelight
+* 一把战术摇光手电
 
-==背景故事==
-以下消息由 [[Oblivion]] 在 2026 年 4 月 28 日发生的 Misleading Darkness（误导黑暗）活动期间所述
+==Lore==
+以下消息由 [[Oblivion]] 在 2026 年 4 月 28 日发生的"Misleading Darkness"活动期间所述
 
 "我听说他们曾是 SPAWN 的前雇员，但后悔参与其中。他们身上带有 SPAWN 标志的徽章，通常会藏起来。"
 
@@ -392,13 +392,13 @@ Bradnbipsdiff.png|同上，但Brad在柜子外面。
 |damage=???
 |speed=}}
 
-== 描述 ==
+== Description ==
 未知
 
 
 
 |-|The Mimic=
-'''The Mimic:'''
+'''模仿者:'''
 {{InfoBox:Entity
 |entity_name=The Mimic
 |entity_image=<gallery>
@@ -408,28 +408,28 @@ Mimic fixed.png|吓人的模仿者实体
 |damage=20-50 每秒伤害 / 被动
 |speed=10/17 studs}}
 
-==描述==
-'''The Mimic''' 是一个由玩家控制(?)的实体，在游戏的每个区中都很少遇到，更多信息如下。
+==Description==
+'''模仿者'''是一个由玩家控制（？）的实体，在游戏的每个区中都有极小概率出现，更多信息如下。
 
-==行为==
-当 '''The Mimic''' 生成时，它会生成在它生成时被打开的门后面。之后，如果玩家离它很远，它要么跟随玩家并保持与玩家走开前相同的距离，要么靠得非常近。如果玩家没有看着它，'''The Mimic''' 会走得更快，因此建议你盯着它但不要盯太久，原因将在下文解释。
+==Behaviour==
+当'''模仿者'''生成时，它会生成在它生成时所打开的门后面。之后，如果玩家离它很远，它要么跟随玩家并保持与玩家走开前相同的距离，要么靠得非常近。如果玩家没有看着它，'''模仿者'''会走得更快，因此建议你盯着它，但不要盯太久，原因将在下文中解释。
 
-'''The Mimic''' 有 2 种已记录的招式。如果你盯着它太久，它可以使用冲刺招式，它会一边尖叫一边向你冲来，如果你靠得太近就会受到伤害。奔跑几秒后它会冷静下来，不再能伤害你。它还可以使用一种加速招式，使其加速几秒钟，同时强迫它向最近的玩家移动。这些招式可以通过躲藏来应对。
+'''模仿者'''有 2 种已记录的招式。如果你盯着它太久，它会使用冲刺招式，它会一边尖叫一边向你冲来，如果你靠得太近，它就能对你造成伤害。奔跑几秒后，它会平静下来，不再能对你造成伤害。它还可以使用一种加速招式，使其加速几秒，同时强制它向最近的玩家移动。这些招式可以通过躲避它来应对。
 
-==策略与提示==
-*如果你有武器并遇到它，建议你一直开枪射击它。
-*你应该在大部分时间看着 '''The Mimic'''，但不建议长时间这样做。
-*始终与 '''The Mimic''' 保持距离，因为它随时可能使用冲刺招式。
+==Strategy & Tips==
+*建议如果你有武器并遇到它，应该一直开枪射击它。
+*你应该在大部分时间看着'''模仿者'''，但不建议长时间这样做。
+*始终与'''模仿者'''保持距离，因为它随时可能使用冲刺招式。
 
-==冷知识==
-*'''The Mimic''' 可以用冲刺杀死 [[D-20]] 和其他可被杀死的实体。
-*'''The Mimic''' 对实体免疫，但有一次目击记录显示它在躲藏。
+==Trivia==
+*'''模仿者'''可以用它的冲刺杀死 [[D-20]] 和其他可被杀死的实体。
+*'''模仿者'''对实体免疫，但有一次目击记录显示它在躲藏。
 
-==画廊==
+==Gallery==
 <gallery>
-Mimic up close.png|近距离的 Mimic。
-Mimic kill message.png|夺走属于我的
-Mimictrueform.png|Mimic 的真实形态，没有任何克隆体。
+Mimic up close.png|近距离的模仿者。
+Mimic kill message.png|TAKEN WHAT IS MINE（属于我的，已被夺回）
+Mimictrueform.png|模仿者的真实形态，没有任何分身。
 </gallery>
 
 
@@ -445,38 +445,40 @@ Mimictrueform.png|Mimic 的真实形态，没有任何克隆体。
 |damage=无
 |speed=固定者}}
 
-== 描述 ==
-Mary 是一个极其罕见的类人实体，她的存在存疑，大多数人都未曾见过她。然而，那些重要人物或成群结队的人可能更有机会引起她的注意。如果你被她追杀，不要试图激怒她，否则会有更可怕的东西来找你。
+== Description ==
+Mary 是一个极其罕见的类人实体，她的存在存疑，大多数人都未曾见过她。然而，重要人物或成群结队的人可能更有机会引起她的注意。如果你被她追杀，不要试图激怒她，否则会有更可怕的东西来找你。
 
-==画廊==
+==Gallery==
 <gallery>
-Hurtherhurtyou.png|alt=Mary 的目击画面
-</gallery>伤害她，就是伤害你自己。
+Hurtherhurtyou.png|alt=Mary 的目击记录
+</gallery>伤害她，伤害你。
 
 
 
-|-|Crystal Retrieval Agency（水晶回收机构）=
-'''Crystal Retrieval Agency（水晶回收机构）：'''
+|-|Crystal Retrieval Agency（水晶回收局）=
+'''Crystal Retrieval Agency（水晶回收局）：'''
 {{InfoBox:Entity
 |entity_name=Crystal Retrieval Agency
 |entity_image=CrystalRetrievalAgencyLogo.png
 |caption-entity_image=
-|appears_at=仅由管理员生成
+|appears_at=仅由管理员召唤
 |nicknames=
 |damage=无
 |speed=}}
 
-== 描述 ==
-一群在逃生中从其他玩家那里回收水晶的人（顾名思义）。
+== Description ==
+一群从其他玩家的逃生中回收水晶的人（顾名思义）。
 
-当团队中的任何水晶回收探员突袭你的逃生时，你很可能会听到远处传来的哔哔声，这表明他们正在寻找发光水晶。如果他们到达当前房间，他们很可能会问你是否有水晶——如果你有的话，因为他们很可能已经探测到了。如果你把水晶给他们，他们可能会给你物品作为回报并撤退，例如 AD-STR 等。如果你没有水晶，或者不把你拥有的水晶交给他们，会发生什么目前尚不清楚。
+当团队中的任何水晶回收局特工突袭你的逃生时，你很可能会听到远处传来的哔哔声，这表明他们正在寻找发光水晶。如果他们到达当前房间，他们很可能会问你是否有水晶——如果你有的话，因为他们很可能已经探测到了。如果你把水晶给他们，他们可能会给你物品作为回报然后撤离，例如 AD-STR 等。如果你没有水晶会发生什么尚不清楚，但如果你拒绝把你拥有的水晶给他们，他们只会直接离开，不会给你物品。
 
-== 趣闻 ==
-水晶回收探员不会在他们认为过于危险的地方寻找水晶，这包括[[Unnamed Sector|无名区域]]。
+== Trivia ==
+水晶回收局特工不会在他们认为过于危险的地方寻找水晶，这包括[[Unnamed Sector|无名区域]]。
 
 Bips 已被确认为女性。
 
-==成员==
+Bips 据推测于8月9日失踪，此后便杳无音信。
+
+==Members==
 <gallery>
 Placeholder.webp|???
 Bips.png|Bips

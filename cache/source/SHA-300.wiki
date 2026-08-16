@@ -39,6 +39,7 @@ Shadow_Mouth.png|Old Design
 == Trivia ==
 * '''SHA-300''' is one of the only entities in the game to not use raycasting to detect players.
 * '''SHA-300''' has a chance to immediately break the door instead of waiting for the player to interact with it.
+* It is heavily recommended to deal with '''SHA-300''' in the A section, especially due to it being the second fastest mouth variant (behind M section mouth) plus no crawlspaces being in A section
 * DEVOUR OST (Chase theme)
 **https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyM
 

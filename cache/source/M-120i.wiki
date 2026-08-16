@@ -177,10 +177,13 @@ M-120_Hallway.png|M-120i Seen in a hallway
 </gallery>
 
 ==Badges==
-{{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=Phantasmagoria|Description=Encounter and survive an attack from ?????i|Obtainment=Encounter and survive '''M-120i''' '''Currently Unobtainable'''.}}
+{{BadgeSectionM
+|Image=M120iPlaceholderBadge.png
+|Name=Phantasmagoria
+|Description=Encounter and survive an attack from ?????i
+|Obtainment=Encounter and survive '''M-120i'''.}}
 
 {{EntityNavBox}}
-
 [[Category:Entities]]
 [[Category:I Variation]]
 [[Category:Upcoming Entities]]

@@ -26,6 +26,7 @@ When starting a new '''Alpha & Shadowpocalypse''' game from room 0, nothing will
 * Sprint hide as soon as you see static from [[SHA-60]], it has an instant death lockersnipe. While in the [[Red Rooms]], confirm [[SHA-2]] didn't spawn before you can safely exit your hiding spot.
 *[[SHA-30]], [[SHA-35]], [[SHA-55]], [[SHA-180]] and [[SHA-200]] have no lockersnipe and [[SHA-1]], [[SHA-2]], [[SHA-4]], [[SHA-22]], [[SHA-85]] and [[LAPSE-1]] have non-lethal lockersnipe. Use this to your advantage.
 * Turn the music off, as the music can sometimes block out the sounds of shadow entities, especially for '''Alpha & Shadowpocalypse'''. The shadow entities are also silent, so relying on visual cues is highly recommended. Audio cues can also help identify what entities are active, although relying on it too much can kill you from silent entities like [[SHA-2]].
+* If you want to beat '''alpha & Shadowpocalypse''' easily, you might want to go to room 1000, as you need very good (or not) RNG to encounter and survive 3 SHA-200s
 
 ==Entities==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
@@ -97,7 +98,11 @@ A&sppurplelights.png|Purple lights found in the Shadowpocalypse modifier
 </gallery>
 
 ==Badges==
-{{Badge|Image=The Apocalypse (Badge).png|Name=The Apocalypse|Description="Is.. Is it over yet..?" You weren’t supposed to last this long. Enable and survive the "Alpha & Shadowpocalypse" modifier.|Obtainment=Reach door 1000, or survive 3 [[SHA-200]]s with the Alpha & Shadowpocalypse modifier enabled. }}
+{{Badge
+|Image=The Apocalypse (Badge).png
+|Name=The Apocalypse
+|Description="Is.. Is it over yet..?"<br>You weren’t supposed to last this long.<br>Enable the "Alpha & Shadowpocalypse" modifier, and survive until the end.
+|Obtainment=Reach door 1000 or Survive 3 [[SHA-200]]s with the '''Alpha & Shadowpocalypse''' Modifier Enabled.}}
 
 
 {{BrowseNavBox}}

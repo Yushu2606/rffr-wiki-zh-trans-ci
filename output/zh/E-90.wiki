@@ -1,18 +1,18 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">E-90 (Espionage)</span>}}
 {{Suggested|[[User:CharlieTheGoober|Charlie]]}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{InfoBox:Entity
 |entity_name=E-90
 |entity_image=<gallery>
-E90.webp|模型
-E-90Eyes.webp|眼睛
+E90.png|模型
+E-90Eyes.png|眼睛
 </gallery>
 |previous_entity=[[E-60]]
 |next_entity=[[E-120]]
 |appears_at=E-090+
 |type=中立（致命）
 |claustrophobia=否
-|behavior=若玩家过长时间直视它，会对玩家造成眩晕效果
+|behavior=若玩家长时间直视它，会对玩家造成眩晕效果
 |gun_effect=可被射击，但不会产生任何效果
 |speed=快
 |damage=5点伤害
@@ -40,9 +40,6 @@ E-90Eyes.webp|眼睛
 ==画廊==
 <gallery>
 File:ConceptE90.webp|来自投稿论坛的'''E-90'''<nowiki/>概念设计稿
-</gallery>
-
-{{EntityNavBox}}
-
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]

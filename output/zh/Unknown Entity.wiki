@@ -1,4 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;"> #-## (???)</span>}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{Stub}}
 {{NoteBox|note=请注意，这里的大量信息可能有误，因为我们仅有一次该实体的记录在案的目击事件}}
 {{InfoBox:Entity
@@ -31,7 +32,8 @@
 * ???
 
 == 趣闻 ==
-这个未知实体曾被误认为是'''R-60'''，但根据[[User:ItsKevHer3|ItsKevHer3]]的说法，它并不是。
+
+* 这个未知实体曾被误认为是'''R-60'''，但根据[[User:ItsKevHer3|ItsKevHer3]]的说法，它并不是。
 
 == 画廊 ==
 <gallery>
@@ -39,7 +41,11 @@ R60poisencabinet.jpg|一个灌满毒药的棕色柜子。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG 恭喜，你运气真好]|Description=遇见#-##。这什么用都没有，哈哈。|Obtainment=遭遇'''#-##'''并从中幸存}}
+{{Badge
+|Image=CongratsYouGotGoodRNG.png
+|Name=恭喜，你运气真好
+|Description=遇见#-##。<br><br>这什么用都没有，哈哈。
+|Obtainment=遭遇'''"未知实体"'''并从中幸存}}
 
 
 {{EntityNavBox}}

@@ -17,18 +17,18 @@ Black315.png|Dark Design
 |sound3=<center>Ambience</center><center>[[File:UI-315ambi.mp3]]</center>}}
 
 == Description ==
-'''UI-315''' is the 13th and Final Entity present within the first 400 rooms of [[Section UI]], more info on '''UI-315''' shown below.
+'''UI-315''' will be the 13th and final entity present within the first 400 rooms of [[Section UI]], more info on '''UI-315''' shown below.
 
 == Behavior ==
-When '''UI-315''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
+When '''UI-315''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within this Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
 
-'''UI-315''' will place itself in the center of the current room, making a distorted laughing sound, after it stops laughing it will checks every locker in the room it spawned in, once it done checking lockers, it will go back to the middle of the room, go towards the door, then fall back, despawning past voidwall
+'''UI-315''' will place itself in the center of the current room and make a distorted laugh, a few seconds later after checking every locker in the room it spawned in. Once it finishes checking lockers it will go back to the middle of the room, go towards the door, then fall back. It will despawn past voidwall
 
 == Strategy & Tips ==
-You should hide in a previous room immediately after you hear him, and stay hidden untill it has backtracked.
+You should hide in a previous room immediately after you hear him and stay hidden until it has backtracked.
 
 == Trivia ==
-* funnily enough, according to Mr_Bird, the person who made it, '''UI-315'''<nowiki/>'s ambience is the "raining tacos" song under heavy distortion.
+* funnily enough, according to [[User:XYZ123lose|Mr_Bird]], the person who made it, '''UI-315'''<nowiki/>'s ambience is the "raining tacos" song under heavy distortion.
 * Like most UI entities, '''UI-315''' was added as a joke. Being added when [[Super Epic Mode]] Released.
 * '''UI-315''' is the only entity present with [[Section UI]] that has an audible spawn sound. (Not including [[Gato]].)
 

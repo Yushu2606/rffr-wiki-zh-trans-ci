@@ -5,8 +5,8 @@
 |next_entity=[[D-55i]]<br>[[D-60]]
 |entity_name=[[File:D-55Placeholder.png|frameless|link=D-55]]
 |entity_image=<gallery>
-D55anim.gif|Animation Recreation
-D-55Face.gif|Animation Recreation in True Legacy
+D55anim.gif|Animation
+D-55Face.gif|True Legacy Animation
 D-55.webp|Design
 </gallery>
 |caption-entity_image=wwwhhhhhhooooommm
@@ -37,8 +37,7 @@ If it finds a player, that player will instantly die.
 * When you hear '''D-55'''<nowiki/>'s sound, look for a White Cabinet/Blue Heavy Locker ('''D-55''' takes a while to reach the current room). If you can't find them, go to the previous room and find any hiding spot there (if you didn't open any doors during<nowiki/> D-55's presence). If you can't do both, open the next door, and look for a White Cabinet/Blue Heavy Locker. If you don't find anything, well, you're dead.
 * When [[D-60i]] is spawned, [[D-140]] can't spawn, so always prefer to hide in Blue heavy lockers/White cabinets when [[D-60i]] is active.
 * Other entities can mask '''D-55'''<nowiki/>'s sound cue so stay alert if noisy entities are present or aproaching your room
-* '''D-55''' can be avoided by hidin<nowiki/>g on fridges or green lockers
-* In [[Modifiers|Chaos Mode]], If you are pl<nowiki/>aying in [[Section A]] and '''D-55''' spawns, you can use a green locker or a fridge to escape him
+* In [[Modifiers|Chaos Mode]], If you are pl<nowiki/>aying in [[Section A]] and '''D-55''' spawns, you can use a green locker or a fridge to survive him
 
 == Trivia ==
 *'''D-55's''' name, Motormouth, is because of the motor like sound he m<nowiki/>akes while approaching.

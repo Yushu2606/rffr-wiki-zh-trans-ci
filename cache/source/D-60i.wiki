@@ -43,10 +43,10 @@ D-750 (forced if the player goes from D-0)
 |damage=Instant Death
 |locker_snipe=Yes
 |gun_effect=None
-|speed=800 studs/s (Rushing)
-30 studs/s to 800 studs/s (Fall-back Phase)
+|speed=Phase 1: Stationary to Extremely Fast (0 to 13.32 rooms per second) (0 to 799 studs per second)
+Phase 2: Extremely Fast (13.32 rooms per second) (799 studs per second)
 |claustrophobia=No
-|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[M-60]]<br>[[A-85i]]<br>[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60]
+|related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[M-60]]<br>[[A-85i]]<br>[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60 IR]
 |badges=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion]<br>[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here] '''Unobtainable'''
 |sound1=<center>Countdown</center><center>[[File:D-60CountdownAccurate.mp3]]</center>
 |sound2=<center>Charging</center><center>[[File:D60iSpawning.mp3]]</center>
@@ -122,8 +122,9 @@ When '''D-60i''' despawns, it will make constant loud explosion sounds, and then
 * ↑ This is no longer true, as '''D-60i''' can locker-snipe you in Phase 2b. Dealing around 10% damage of your health. 
 * '''D-60i''' can only spawn once in your run.
 * '''D-60i''' can spawn entities when smashing doors.
+* '''D-60i''' is the 3rd most time consuming entity/challenge in the game (second being [[D-60ii]], first being the [[Shadow Challenge|shadow challenge]] (not including [[Alpha & Shadowpocalypse|A&SP]])
 * '''D-60i's''' Phase 2 is has somewhat like wise similarites to [https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60] from Interminable Rooms Recoded
-* '''D-60i''' has a 1 in 1000 to spawn every door past D-220, so long as [[D-60]] isn't currently active.
+* '''D-60i''' has a 1 in 1000 to spawn every door past D-220, as long as [[D-60]] isn't currently active.
 * '''D-60i''' is forced to spawn at door D-750 if player starts at door D-0, but '''D-60i''' won’t despawn until some point in [[Red Rooms]] is reached. (If he reaches [[Red Rooms]] but isnt in Phase 2 (b), he won't despawn until he actually goes phase 2 (b).
 * Old Trepidation OST (Old Bossfight theme)
 ** https://youtu.be/xhUaF0Ya1tE?si=zf6Rf-AJh2xwbd_s
@@ -156,8 +157,17 @@ File:D-60iJumpscare.gif|D-60i's Old jumpscare
 </gallery>
 
 ==Badges==
-{{BadgeSectionD|Image=Invasion_EvasionNew.png|Name=Invasion Evasion|Description=Wonder what that was all about. Encounter and survive the rare entity D-60i|Obtainment=Survive and beat D-60i.}}
-{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], [[D-35]], or '''D-60''' during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+{{BadgeSectionD
+|Image=Invasion EvasionNew.png
+|Name=Invasion Evasion
+|Description=Wonder what that was all about.<br><br>Encounter and survive "The Invader".
+|Obtainment=Encounter and survive '''D-60i'''.}}
+
+{{BadgeSectionD
+|Image=Dsecinvasion.png
+|Name=You’re Not Supposed To Be Here
+|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], [[D-35]], or '''D-60''' during the D-section invasion event in the original<br>'''Rooms: Found Footage'''.}}
 
 
 {{EntityNavBoxSectionD}}

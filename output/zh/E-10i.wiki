@@ -33,31 +33,28 @@ E10iJumpscare.png|当前跳杀外观
 
 当此情况发生时，'''E-10i'''会冲回主房间并破坏门。然而，与[[E-10|原始版本]]相比，'''E-10i'''会在几秒后传送，等待另一扇门被打开或破坏。'''E-10i'''会重复此过程约一至四次后消失，每次撞门都有可能生成另一个实体。
 
-==Strategy & Tips==
+==策略与提示==
 * 建议在它生成后立刻躲藏，因为它只会给你1-2秒的反应时间。
 ** 不过要注意选好要躲的柜子，不然你可能会死在[[E-45]]手上。
 * 如果有门被打开/破坏，请立刻躲藏，因为'''E-10i'''的速度比[[E-10|普通版本]]更快。
 * '''E-10i'''可能会触发或参与特定的连锁事件，比如它和[[E-60]]同时出现的情况。
 ** [[E-60]]会先冲刺经过，破坏门并触发'''E-10i'''冲刺穿过。当[[E-60]]往回冲刺时，'''E-10i'''会上前破坏门。
 
-==Trivia==
-* '''E-10i'''曾在[[Perfection Event 2/13/26|完美事件 2/13/26]]和[[Perfection Event 3/13/26|完美事件 3/13/26]]期间入侵。
+==花絮==
+* '''E-10i'''曾在[[Perfection Event 2/13/26]]和[[Perfection Event 3/13/26]]期间入侵。
 ** 但可能根本没人见过这个情况，因为它的生成概率仅为六百万分之一。
 
-==Lore==
+==背景故事==
 * '''E-10i'''是暗影感染失败的产物。
 
-==Gallery==
+==图库==
 <gallery>
 File:E-10i teleport.gif|传送中的'''E-10i'''（低画质）
 File:Virtue ingame.gif|消失中的'''E-10i'''（低画质）
 File:E10iScare.gif|跳杀
 File:Actual E-10i teleport.webp|'''E-10i'''的传送粒子效果
-File:E-10 despawn p.webp|'''E-10i'''的消失粒子效果
-</gallery>
-
-{{EntityNavBox}}
-
+File:E-10 despawn p.webp|'''E-10i'''的粒子效果。
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Fallbacker]]

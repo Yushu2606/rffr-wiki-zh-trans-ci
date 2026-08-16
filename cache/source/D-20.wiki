@@ -42,6 +42,7 @@ After '''D-20''' has spawned, any player who get too close to it will get damage
 *'''D-20''' can be killed with any [[Items|weapon]].
 *There's a very low chance that '''D-20''' will spawn on every single slot in one room, having up to 6 clones.
 *[[SHA-120]] can run over '''D-20''' causing him to despawn instantly.
+*'''D-20''' used to be called D-1.
 
 ==Gallery==
 <gallery>

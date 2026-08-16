@@ -471,12 +471,14 @@ Hurtherhurtyou.png|alt=Sighting of Mary
 == Description ==
 A group of people that retrieve crystals (as the name suggests) from other players in runs.
 
-Once any Crystal Retrieval agent in the team raids your run, you will most likely hear beeping coming from afar which indicates they are searching for radiant crystals. If they get to the current room, they will most likely ask if there are any crystals if you have one, since they will most likely have detected it. If you give them the crystal, they may give you items in return and retreat, such as the AD-STR and others. It is unknown what happens if you dont have a crystal or dont hand them a crystal you have.
+Once any Crystal Retrieval agent in the team raids your run, you will most likely hear beeping coming from afar which indicates they are searching for radiant crystals. If they get to the current room, they will most likely ask if there are any crystals if you have one, since they will most likely have detected it. If you give them the crystal, they may give you items in return and retreat, such as the AD-STR and others. It is unknown what happens if you dont have a crystal, but if you refuse to give them the crystal you have, they will just leave you alone without giving the items.
 
 == Trivia ==
 Crystal Retrival Agents wont look for crystals in places they deem too dangerous, this including the [[Unnamed Sector]]. 
 
 Bips is confirmed to be female.
+
+Bips presumably went missing on August 9th and hasn't been heard from since.
 
 ==Members==
 <gallery>

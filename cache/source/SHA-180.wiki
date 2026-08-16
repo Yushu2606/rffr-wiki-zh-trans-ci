@@ -24,7 +24,7 @@ Sha180.png|Old Design
 '''SHA-180''' is the one of the many Shadow entities found within the [[Shadow Challenge]] and the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of the removed entity [[D-180]].
 
 == Behaviors ==
-Upon spawning in, '''SHA-180''' will make a loud engine-like yell, before rushing forward extremely quickly, breaking down the door and slowly falling back behind the void wall. He rebounds a maximum of 4 times. Each rebound, he has a chance to summon either [[SHA-1]] or [[SHA-2]] due to his loud scream attracting them. After his last rebound, he will despawn upon contact with the door of the main room.
+Upon spawning in, '''SHA-180''' will make a loud engine-like yell, before rushing forward extremely quickly, breaking down the door and slowly falling back behind the void wall. He rebounds a maximum of 4 times. Each rebound, he has a chance to summon either [[SHA-1]], [[SHA-2]], or [[SHA-200]] due to his loud scream attracting them. After his last rebound, he will despawn upon contact with the door of the main room.
 
 == Strategy & Tips ==
 
@@ -35,9 +35,10 @@ Upon spawning in, '''SHA-180''' will make a loud engine-like yell, before rushin
 * When '''SHA-180''' breaks the door, stay in the locker for a bit longer in case [[SHA-2]] spawns. You could however, exit and reenter the locker to prevent [[Claustrophobia]] damage.
 
 == Trivia ==
-
 * '''SHA-180''' is one of the two shadow infected entities without a currently active uninfected counterpart, the other being [[SHA-7]].
 * '''SHA-180''' is the 2nd fastest Shadow entity, only being behind [[SHA-85]].
+* '''SHA-180''' will wait for [[SHA-200]] to despawn before coming back to the main room.
+** This is most likely to prevent impossible combos with [[SHA-1]].
 * '''SHA-180''' is the only shadow infected entity that is not made more common in the [[Alpha & Shadowpocalypse]] modifier. Instead, it was made way rarer.
 ** Because of this, '''SHA-180''' is not guaranteed to spawn in [[Alpha & Shadowpocalypse]].
 ** On the other hand, '''SHA-180''' is much more common in [[Shadow Challenge]].

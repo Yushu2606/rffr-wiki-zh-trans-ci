@@ -1,4 +1,4 @@
-{{ArticleBackground|File=ShadowScreen.webp}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #8102EA, 0 0 65px #8102EA; color: #8102EA;">SHA-300（深渊）}}
 {{Headphones}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法&暗影末日]]}}
@@ -14,9 +14,9 @@
 |related_monsters=[[Mouth]]
 |nicknames=深渊
 |entity_image=<gallery>
-SHA-300.webp|设计
-MouthColorless.webp|无色设计
-Shadow_Mouth.webp|旧设计
+SHA-300.png|设计
+MouthColorless.png|无色设计
+Shadow_Mouth.png|旧设计
 </gallery>
 |gun_effect=所有暗影实体都无法被枪械攻击
 |caption-entity_image=You cannot escape me. I WILL EAT YOU HUMAN.（你逃不掉的。我要把你吃掉，人类。）
@@ -31,7 +31,7 @@ Shadow_Mouth.webp|旧设计
 '''SHA-300''' 的行为与普通[[Mouth]]类似，但留给玩家的反应时间更短，且追赶玩家的速度非常接近正常冲刺速度。当抵达存在'''虚空墙'''的房间时，'''SHA-300''' 会返回主房间，假装即将消失，但约5秒后，'''SHA-300''' 会在虚空墙后重新生成，并反向追赶玩家回到主房间，抵达主房间后方的上一个房间后，'''SHA-300''' 会返回'''虚空墙'''并最终消失。
 
 == 对策与技巧 ==
-* 当你看到字幕“Something is blocking this door from opening...（有什么东西堵住了这扇门，无法打开……）”时要仔细听声，只有在没听到任何动静的情况下再往回跑，因为门后可能是[[SHA-2]]或[[SHA-4]]，而非'''SHA-300'''。
+* 当你看到字幕"Something is blocking this door from opening...（有什么东西堵住了这扇门，无法打开……）"时要仔细听声，只有在没听到任何动静的情况下再往回跑，因为门后可能是[[SHA-2]]或[[SHA-4]]，而非'''SHA-300'''。
 * 由于'''SHA-300''' 的速度略慢于玩家的冲刺速度，你应当立刻朝着与'''SHA-300''' 相反的方向全力冲刺，尽可能拉开与'''SHA-300''' 的距离。
 ** 在[[Alpha & Shadowpocalypse|阿尔法&暗影末日]]修饰符生效期间，你应当收集所有遇到的体力[[Items|Utilities（道具）]]，它们对抗'''SHA-300'''的效果极佳。
 * 不使用任何道具也有可能在'''SHA-300''' 的追赶下存活，但风险极高，因为你的体力会快速耗尽，且抵达'''虚空墙'''后必须返回主房间。因此如果你没有任何[[Items|Utilities（道具）]]，请尽可能消耗全部体力冲向'''虚空墙'''，抵达后蹲下快速恢复体力，再冲刺返回主房间。
@@ -39,7 +39,8 @@ Shadow_Mouth.webp|旧设计
 == 你知道吗 ==
 * '''SHA-300''' 是游戏中少数不使用光线投射检测玩家的实体之一。
 * '''SHA-300''' 有概率直接破坏门，无需等待玩家与其交互。
-* 吞噬 OST（追赶主题曲）
+* 强烈建议在 A 区应对 '''SHA-300'''，尤其是因为它是速度第二快的 Mouth 变种（仅次于 M 区的 Mouth），而且 A 区没有爬行空间
+* DEVOUR OST（追逐主题曲）
 **https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyM
 
 [[Category:Shadow Entities]]

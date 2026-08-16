@@ -5,8 +5,8 @@
 |next_entity=[[D-55i]]<br>[[D-60]]
 |entity_name=[[File:D-55Placeholder.png|frameless|link=D-55]]
 |entity_image=<gallery>
-D55anim.gif|动画复刻
-D-55Face.gif|True Legacy 版本动画复刻
+D55anim.gif|动画
+D-55Face.gif|True Legacy 版本动画
 D-55.webp|设计稿
 </gallery>
 |caption-entity_image=wwwhhhhhhooooommm
@@ -37,8 +37,7 @@ D-55.webp|设计稿
 * 当你听到'''D-55'''<nowiki/>的音效时，寻找白色柜子（White Cabinet）/蓝色重型柜子（Blue Heavy Locker）（'''D-55'''需要一段时间才能抵达当前房间）。如果你找不到它们，就回到之前的房间，在那里找任意躲藏点（前提是你在<nowiki/>D-55出现期间没有开过任何门）。如果以上两种方法都做不到，就开下一扇门，寻找白色柜子（White Cabinet）/蓝色重型柜子（Blue Heavy Locker）。如果什么都找不到，那你大概率没救了。
 * 当[[D-60i]]生成时，[[D-140]]就不会生成，所以当[[D-60i]]处于激活状态时，优先躲在蓝色重型柜子（Blue Heavy Locker）/白色柜子（White Cabinet）里。
 * 其他实体可能会掩盖'''D-55'''<nowiki/>的音效提示，所以如果有嘈杂的实体存在或正在靠近你的房间，请保持警惕。
-* '''D-55'''可通过躲<nowiki/>在冰箱或绿色柜子里躲避。
-* 在[[Modifiers|混沌模式]]中，如果你在[[Section A|A区]]游玩时'''D-55'''生成了，你可以使用绿色柜子或冰箱来躲避它。
+* 在[[Modifiers|混沌模式]]中，如果你在[[Section A|A区]]游<nowiki/>玩时'''D-55'''生成了，你可以使用绿色柜子或冰箱来躲过它。
 
 == 你知道吗 ==
 *'''D-55'''的昵称"马达嘴（Motormouth）"来源于它靠近时发<nowiki/>出的类似马达的声响。

@@ -53,11 +53,8 @@ File:E-10i teleport.gif|'''E-10i''' seen teleporting (Low quality)
 File:Virtue ingame.gif|'''E-10i''' seen despawning (Low Quality)
 File:E10iScare.gif|Jumpscare
 File:Actual E-10i teleport.webp|'''E-10i''''s teleport particle
-File:E-10 despawn p.webp|'''E-10i''''s despawn particle 
-</gallery>
-
-{{EntityNavBox}}
-
+File:E-10 despawn p.webp|'''E-10i''''s particles. 
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Fallbacker]]

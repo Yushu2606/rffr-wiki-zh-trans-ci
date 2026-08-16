@@ -17332,9 +17332,9 @@
         "translation_hash": "aba11d416d65b66d25172808ee67d4cafec90e4734e1cf3dbd778932e4fb5083"
       },
       "source": {
-        "fetched_at": 1786301201,
-        "hash": "436774a7266b566aa506ffcc44b0a25105cc6025f3f7fcd8a4a3fb3ae9474519",
-        "revid": 14152
+        "fetched_at": 1786905255,
+        "hash": "8d727478689c6e3849b702eb9be854cb0a60f351b286452e227bc717e2833189",
+        "revid": 14395
       },
       "target": {
         "fetched_at": 1786301489,
@@ -17344,8 +17344,8 @@
       },
       "translation": {
         "file": "output/zh/A-120.wiki",
-        "hash": "aba11d416d65b66d25172808ee67d4cafec90e4734e1cf3dbd778932e4fb5083",
-        "translated_at": 1786301201
+        "hash": "9fe9d7b180d0ea9a86e6ee79ee99e2e8db4bec5aa34289e01e032f5d83286286",
+        "translated_at": 1786905255
       }
     },
     "A-135": {
@@ -17452,9 +17452,9 @@
         "translation_hash": "72a90cc690cd4cd200cd7ec8f63d87a9cb5432c0f3775691fbbb37e7f4ec4497"
       },
       "source": {
-        "fetched_at": 1786301140,
-        "hash": "0cdc9a953f9a55a2015c83e7f07f936837bbea193d145450fe73e84da0647e98",
-        "revid": 14184
+        "fetched_at": 1786905271,
+        "hash": "ba18feaee6e48b16283c346a9f7bb5d4b62eb4fc3594a15b0753457be9b8fd36",
+        "revid": 14379
       },
       "target": {
         "fetched_at": 1786301493,
@@ -17464,8 +17464,8 @@
       },
       "translation": {
         "file": "output/zh/A-200.wiki",
-        "hash": "72a90cc690cd4cd200cd7ec8f63d87a9cb5432c0f3775691fbbb37e7f4ec4497",
-        "translated_at": 1786301140
+        "hash": "4477f947800975b171b32a54c1ff93ead56a361b3cdf471774b1e95608b75f70",
+        "translated_at": 1786905271
       }
     },
     "A-200i": {
@@ -17476,9 +17476,9 @@
         "translation_hash": "5ab86a736e8f77bb8311942a786f42469e0972131f26fa3db806e35051d1d494"
       },
       "source": {
-        "fetched_at": 1786301109,
-        "hash": "5485677d75ece62b250d87bf37b349ec861b7b05b9e5ab62a584436dbf97628e",
-        "revid": 14170
+        "fetched_at": 1786905214,
+        "hash": "37c9f27fefd1e5c544d03c4952b60f33178b6fc944cbbb45dd8dad8a6b143cf7",
+        "revid": 14390
       },
       "target": {
         "fetched_at": 1786301497,
@@ -17488,8 +17488,8 @@
       },
       "translation": {
         "file": "output/zh/A-200i.wiki",
-        "hash": "9433df20ca6e64273623efbf69351e891079fde1ed12832c763c63e9624fcedf",
-        "translated_at": 1786301109
+        "hash": "20fd6bc99d8dc5da0d0ce73f8304b484929f0a1b76406a6be08c1d828a8ada8f",
+        "translated_at": 1786905214
       }
     },
     "A-200ii": {
@@ -17524,9 +17524,9 @@
         "translation_hash": "afd942c7204777ce726df9476c3a40baa863b23590687d90a8d73df07c71f73c"
       },
       "source": {
-        "fetched_at": 1785265403,
-        "hash": "f3a51ddbf4c20be4c49a2e026bafb33eff1a5b783c9cc01cc0e1e8d3b133f545",
-        "revid": 13865
+        "fetched_at": 1786905228,
+        "hash": "bb1b7e27bb68256d455753eb6265386e35bab426fdbe860498cd98471dc3c19c",
+        "revid": 14387
       },
       "target": {
         "fetched_at": 1785266211,
@@ -17536,8 +17536,8 @@
       },
       "translation": {
         "file": "output/zh/A-20i.wiki",
-        "hash": "afd942c7204777ce726df9476c3a40baa863b23590687d90a8d73df07c71f73c",
-        "translated_at": 1785265403
+        "hash": "e4db13264514379b12f2348813eac573a704105498097a73aa8c8070461f3e8d",
+        "translated_at": 1786905228
       }
     },
     "A-20ii": {
@@ -17620,9 +17620,9 @@
         "translation_hash": "41575e58d93c7cd5de98a99dcf602a4a41c33866bf8b65becf5e571ba9aa5b6a"
       },
       "source": {
-        "fetched_at": 1785132339,
-        "hash": "03f954e32e4fe994868c29ab0de16dc7032dff0cce0f672519a4794af9bac54c",
-        "revid": 13840
+        "fetched_at": 1786905221,
+        "hash": "d0526288d067f1f4ae6b81d427b9b33704343abf437d06bf7a25e4fef0b97ab5",
+        "revid": 14394
       },
       "target": {
         "fetched_at": 1785134753,
@@ -17632,8 +17632,8 @@
       },
       "translation": {
         "file": "output/zh/A-60i.wiki",
-        "hash": "41575e58d93c7cd5de98a99dcf602a4a41c33866bf8b65becf5e571ba9aa5b6a",
-        "translated_at": 1785132339
+        "hash": "3ad7cafbf5988381d219009191275b7be582342f41d3b4012c56e465fd0bbfb6",
+        "translated_at": 1786905221
       }
     },
     "A-60ii": {
@@ -17644,9 +17644,9 @@
         "translation_hash": "f1890aa516f9a68921021fe7e8431faf092de4f4568a0c54fb09b9541b509b1d"
       },
       "source": {
-        "fetched_at": 1785698105,
-        "hash": "205d90d376afbdec832140ccaf988e104fe642007134e56b326cacda85779c60",
-        "revid": 13918
+        "fetched_at": 1786905198,
+        "hash": "95d035b92e95a92d7517f4494fd9f8c21c949a1e2cec4c46faf77ba4b5256e63",
+        "revid": 14279
       },
       "target": {
         "fetched_at": 1785698786,
@@ -17656,8 +17656,8 @@
       },
       "translation": {
         "file": "output/zh/A-60ii.wiki",
-        "hash": "f1890aa516f9a68921021fe7e8431faf092de4f4568a0c54fb09b9541b509b1d",
-        "translated_at": 1785698105
+        "hash": "19c5179b72f927b31808a19b4599b1b0de4f1683870afd0ed4fc7ec985bfc2be",
+        "translated_at": 1786905198
       }
     },
     "A-85": {
@@ -17668,9 +17668,9 @@
         "translation_hash": "48c635cb5d77c8113d0dc13842e06c23ed53a6568bf9f973daa58beb758ee294"
       },
       "source": {
-        "fetched_at": 1785116126,
-        "hash": "bc659e525d5e22aed36417ffa3e8d482304dd1c437b9f54c5cc3223dbb42a2f0",
-        "revid": 13819
+        "fetched_at": 1786905254,
+        "hash": "be59a85948072bd67a6cb68d60e74c30a191bfc15bd77b8ca85f0b089d1b2a5b",
+        "revid": 14384
       },
       "target": {
         "fetched_at": 1784968137,
@@ -17680,8 +17680,8 @@
       },
       "translation": {
         "file": "output/zh/A-85.wiki",
-        "hash": "9115807b8c79d19f0c9f74fab9436d2a38a48bb1291d4d7bbb08394deeb1eea1",
-        "translated_at": 1785116126
+        "hash": "52dc66cd858375cb3dd1801a712e784e614ba8a4e90969941f205461eb0841f0",
+        "translated_at": 1786905254
       }
     },
     "A-85i": {
@@ -17716,9 +17716,9 @@
         "translation_hash": "16d7a764e46196774d028a3e5952431106016542331da023501f3228b711d7ce"
       },
       "source": {
-        "fetched_at": 1785698260,
-        "hash": "1c58a309f8934d668325d81ba60c50bc380458dd0ae61a5f99fbad654e1ffadb",
-        "revid": 14005
+        "fetched_at": 1786905530,
+        "hash": "a6923d588db5b2b152dc45bc9a8a1bcd12f776d386b1f26a60dd4ed09a0f5f44",
+        "revid": 14273
       },
       "target": {
         "fetched_at": 1785698790,
@@ -17728,8 +17728,8 @@
       },
       "translation": {
         "file": "output/zh/Alpha & Shadowpocalypse.wiki",
-        "hash": "16d7a764e46196774d028a3e5952431106016542331da023501f3228b711d7ce",
-        "translated_at": 1785698260
+        "hash": "ddb3c388563d7b6f5c06702c618836a7dd3facde8993fcbe1a50f34c5e12487f",
+        "translated_at": 1786905530
       }
     },
     "April Fools 2026": {
@@ -17740,9 +17740,9 @@
         "translation_hash": "5b2a8567c7e883a306a9b70b4361a43386a7b743d3c09a5ed9f0461901547a9f"
       },
       "source": {
-        "fetched_at": 1784606504,
-        "hash": "be05eaed9510011ab9a3b7e1bcc9cac0b52ba66f645d891add735256e80800a6",
-        "revid": 12812
+        "fetched_at": 1786905322,
+        "hash": "994c6dfc284f906e4fe521d6e8a6cc408e02487ce1e67255247cbb1bad0c3f1a",
+        "revid": 14264
       },
       "target": {
         "fetched_at": 1784968148,
@@ -17752,8 +17752,8 @@
       },
       "translation": {
         "file": "output/zh/April Fools 2026.wiki",
-        "hash": "f39b16af65691ae6af913428073414fef940b8fc4290f7b6a1f5b58380bbf58d",
-        "translated_at": 1784606504
+        "hash": "0f63c0e89d81deb5397a6b0410e2be7e59255ca820e14ef48b6b9104f0564c71",
+        "translated_at": 1786905322
       }
     },
     "Badges": {
@@ -17764,9 +17764,9 @@
         "translation_hash": "b23cd077423eb13e31f88efa787ad363e267fdd02ed2cad3b6017396ab327866"
       },
       "source": {
-        "fetched_at": 1786301271,
-        "hash": "c67b119946932b05cefe8eb492a295cd6b7144ac34b2c4a1359fbdd3d28b9b58",
-        "revid": 14131
+        "fetched_at": 1786905439,
+        "hash": "bdd805b024ffa998ec3c881f7a36707c82914d0b586bf6342e40edf9974a0bee",
+        "revid": 14239
       },
       "target": {
         "fetched_at": 1786301500,
@@ -17776,8 +17776,8 @@
       },
       "translation": {
         "file": "output/zh/Badges.wiki",
-        "hash": "b23cd077423eb13e31f88efa787ad363e267fdd02ed2cad3b6017396ab327866",
-        "translated_at": 1786301271
+        "hash": "671940c948c70ccd9ef12eab3819d84945f4f0cba07ea0c6fa003d7da275336c",
+        "translated_at": 1786905439
       }
     },
     "CARDBOARD-5": {
@@ -19900,9 +19900,9 @@
         "translation_hash": "6e964acfa0bf471cddac192f5dfcab1dc224acffd045dbe91b3e84f4b289918e"
       },
       "source": {
-        "fetched_at": 1784606390,
-        "hash": "a8bb28e8c7f89a52ef4c1e0c7c6808c9c09db69807eec6c6bdd323c29d58e0d5",
-        "revid": 13656
+        "fetched_at": 1786905224,
+        "hash": "d27e9471d74b7f863f9284c5b4906bc28eedcb62251993157b85333deba5e1d3",
+        "revid": 14283
       },
       "target": {
         "fetched_at": 1784968202,
@@ -19912,8 +19912,8 @@
       },
       "translation": {
         "file": "output/zh/D-20.wiki",
-        "hash": "b61afb2684a82579ebf55db17787f39676b46b0c537e3533175099646c18e74b",
-        "translated_at": 1784606390
+        "hash": "c44ec5dea9ba96f879efb8265d0e9bd3bbf9a44a8a7c48498ef0cdb8ff89e2be",
+        "translated_at": 1786905224
       }
     },
     "D-200": {
@@ -19924,9 +19924,9 @@
         "translation_hash": "b0d0f21488b412e8334b5e53ad8b1c6bc70ff8d37dc9b79e2f2922ac435f15a1"
       },
       "source": {
-        "fetched_at": 1785698219,
-        "hash": "9956dd95b41d2443fc39c8fa1c51f25e5e2ee2c4fdc2adc2ed4c584f8cc0eb03",
-        "revid": 13862
+        "fetched_at": 1786905368,
+        "hash": "298e9a290173709046f9c1bca1b5e534cb92453e506a844bcafc3364ef1fa746",
+        "revid": 14225
       },
       "target": {
         "fetched_at": 1785698798,
@@ -19936,8 +19936,8 @@
       },
       "translation": {
         "file": "output/zh/D-200.wiki",
-        "hash": "b0d0f21488b412e8334b5e53ad8b1c6bc70ff8d37dc9b79e2f2922ac435f15a1",
-        "translated_at": 1785698219
+        "hash": "d2f7c5c8173069a5ec4622ec45b111a70bd4e723b3540b52a8a4df76b2b7ae34",
+        "translated_at": 1786905368
       }
     },
     "D-20i": {
@@ -19996,9 +19996,9 @@
         "translation_hash": "597c5a8893038ada68c9d93b9e695c56985c1c3eef183ee4f623ae47ba71e242"
       },
       "source": {
-        "fetched_at": 1786301130,
-        "hash": "334d6d535f6dc3f873e7a9e74ab9472aec421edecb3fa7a38be76ccb760cc897",
-        "revid": 14138
+        "fetched_at": 1786905242,
+        "hash": "6b0e9e892d74370adfe9d3fbf686faa3101a9bc3c9b7153905039192bd5ea417",
+        "revid": 14248
       },
       "target": {
         "fetched_at": 1786301511,
@@ -20008,8 +20008,8 @@
       },
       "translation": {
         "file": "output/zh/D-35.wiki",
-        "hash": "597c5a8893038ada68c9d93b9e695c56985c1c3eef183ee4f623ae47ba71e242",
-        "translated_at": 1786301130
+        "hash": "3bd7ac0ecac91a06ad5b904415e3751d0c82e14bafca20c26d60aa9dcd420b54",
+        "translated_at": 1786905242
       }
     },
     "D-35i": {
@@ -20092,9 +20092,9 @@
         "translation_hash": "9a41b81e936407072c114770f30d1af0241a47df125b0966dcd881c0fb0de114"
       },
       "source": {
-        "fetched_at": 1786301099,
-        "hash": "266e5868309c85371fa146dbfac9ca3ca99d18b7d7564a1c8a1568289eeb2223",
-        "revid": 14194
+        "fetched_at": 1786905268,
+        "hash": "2a4fffef7d2402da4350ad004ab65ad8550a48c8a98c22ec2bf3cea029f7d512",
+        "revid": 14383
       },
       "target": {
         "fetched_at": 1786301518,
@@ -20104,8 +20104,8 @@
       },
       "translation": {
         "file": "output/zh/D-55.wiki",
-        "hash": "9a41b81e936407072c114770f30d1af0241a47df125b0966dcd881c0fb0de114",
-        "translated_at": 1786301099
+        "hash": "d36c4505821c917d7535046e135f706bda1a2568eb56e8a4e57a0738c8a8b530",
+        "translated_at": 1786905268
       }
     },
     "D-55i": {
@@ -20188,9 +20188,9 @@
         "translation_hash": "2ae8ad78093a60582e4bfce511a101430dd4876f4aa21c88f1a25921b6453660"
       },
       "source": {
-        "fetched_at": 1786301157,
-        "hash": "9a3a85a8bb90ffaf703149e87ecbdfae02f8d1d7ec2e18e68bc97260928cba71",
-        "revid": 14059
+        "fetched_at": 1786905296,
+        "hash": "9580f81ab24ec8402aeaa8dc4fa9746e6f334f2ff14369ae683bed8b84b595a1",
+        "revid": 14388
       },
       "target": {
         "fetched_at": 1786301522,
@@ -20200,8 +20200,8 @@
       },
       "translation": {
         "file": "output/zh/D-60.wiki",
-        "hash": "2ae8ad78093a60582e4bfce511a101430dd4876f4aa21c88f1a25921b6453660",
-        "translated_at": 1786301157
+        "hash": "d650caa689bc6055427fbf98eb4a1eaee8207ba71d67d99f2da1c6b92e6f42a3",
+        "translated_at": 1786905296
       }
     },
     "D-60i": {
@@ -20212,9 +20212,9 @@
         "translation_hash": "9bb62e747f7b74fbe2444ed22fdc2efe7b4be2c37b13153e98d6f0f27f3c041c"
       },
       "source": {
-        "fetched_at": 1785117128,
-        "hash": "28ff2f098c98ddc8df96474a331759c03c02f3fdb43c815d0ed4260770a4660e",
-        "revid": 13782
+        "fetched_at": 1786905372,
+        "hash": "9160bf86dc4e1d725e52692e08fd3f677a9de4cb107720f9340c4393cbfe28ec",
+        "revid": 14376
       },
       "target": {
         "fetched_at": 1785115530,
@@ -20224,8 +20224,8 @@
       },
       "translation": {
         "file": "output/zh/D-60i.wiki",
-        "hash": "014c47bdf28393eb78288068f9b5fea4eac6c085ccb08b87554b07bdeff4fd20",
-        "translated_at": 1785117128
+        "hash": "1a75e98edd659266c378ca174e27da45409b024cd518ad7ab087775506e19a78",
+        "translated_at": 1786905372
       }
     },
     "D-60ii": {
@@ -20332,9 +20332,9 @@
         "translation_hash": "eff588b3715dd57e9568a134c7076e1ca0cb4757d27541c46eec023ec8f77eb7"
       },
       "source": {
-        "fetched_at": 1786301153,
-        "hash": "8e0ef72fb40af4ee84f7bbc63a8ef8d793aeb356cb26fcd151c5ed1f2efb0668",
-        "revid": 14109
+        "fetched_at": 1786905324,
+        "hash": "c30ad356b2f6d0486c77e690b4a4d20a9196e95712ad507d0a27449a96cc0360",
+        "revid": 14324
       },
       "target": {
         "fetched_at": 1786301525,
@@ -20344,8 +20344,8 @@
       },
       "translation": {
         "file": "output/zh/E-10.wiki",
-        "hash": "78e7078bb19ba086588a7e4909c64bc59ef834bcd3bdb1d118c913a70a6d96a0",
-        "translated_at": 1786301153
+        "hash": "14982a8d86d85964e94f38742dabe8c19a996ed24215aa80206411d6a21bdf58",
+        "translated_at": 1786905324
       }
     },
     "E-10i": {
@@ -20356,9 +20356,9 @@
         "translation_hash": "5658bf8190563cd7410f76fef28a5236a284f7a2bf252dbd57145388773a9750"
       },
       "source": {
-        "fetched_at": 1786301109,
-        "hash": "ebc5ad91fde8d7ab719becb2475ce020095b50579e7d21088074da1f5c4e8f79",
-        "revid": 14110
+        "fetched_at": 1786905223,
+        "hash": "77eda7138b7294b600d482992b2bb76667f814a5e291588a46686633a46c785e",
+        "revid": 14375
       },
       "target": {
         "fetched_at": 1786301529,
@@ -20368,8 +20368,8 @@
       },
       "translation": {
         "file": "output/zh/E-10i.wiki",
-        "hash": "5658bf8190563cd7410f76fef28a5236a284f7a2bf252dbd57145388773a9750",
-        "translated_at": 1786301109
+        "hash": "6a9226a917470b3fdaeefabbc13f82ac909c8461a74d838ad702f2206a99f832",
+        "translated_at": 1786905223
       }
     },
     "E-120": {
@@ -20380,9 +20380,9 @@
         "translation_hash": "71156b08bc190fcdab0b44d88972a84ef27a80be74b2586bb23db5159367c657"
       },
       "source": {
-        "fetched_at": 1786301109,
-        "hash": "963ec21f94dc752d1433e2a0967aaba366f8001a4e986dea836e792fe32b24b0",
-        "revid": 14169
+        "fetched_at": 1786905203,
+        "hash": "ff3265603014b80e54ab1d8f01905df5a44a05b231197dd44cb92a8265151f0e",
+        "revid": 14331
       },
       "target": {
         "fetched_at": 1786301532,
@@ -20392,8 +20392,8 @@
       },
       "translation": {
         "file": "output/zh/E-120.wiki",
-        "hash": "71156b08bc190fcdab0b44d88972a84ef27a80be74b2586bb23db5159367c657",
-        "translated_at": 1786301109
+        "hash": "d09ba238811abde6aad03db89ef6efe566e8b702c7c1ae4445dac9cc83d3d4a9",
+        "translated_at": 1786905203
       }
     },
     "E-165": {
@@ -20428,9 +20428,9 @@
         "translation_hash": "2ab79319f4c50a4482137cf98350985287c5dc195326d32059b5feefa16aa421"
       },
       "source": {
-        "fetched_at": 1784606840,
-        "hash": "39e9112b40665531c322e05b69fda0bb58a5302b928ad970cd058c06be19b040",
-        "revid": 13401
+        "fetched_at": 1786905210,
+        "hash": "83eeb03da81094c132bdf4118cb71c09384e99b7ea5a25e892ab9e2e9b85b86f",
+        "revid": 14333
       },
       "target": {
         "fetched_at": 1784968290,
@@ -20440,8 +20440,8 @@
       },
       "translation": {
         "file": "output/zh/E-200.wiki",
-        "hash": "c9c7beb1066e9915527707098526976f7c67fdf10cb8b71f4554271e496e011d",
-        "translated_at": 1784606840
+        "hash": "9c6cde0df3ccd540a5dc36a06787816805b6cc1685c3ee8a684808b4589e47fc",
+        "translated_at": 1786905210
       }
     },
     "E-245": {
@@ -20452,9 +20452,9 @@
         "translation_hash": "f987fba18f30e1dc828ff0f64138cc87ffc6b1fb4314f5ee67d84b2714e36b04"
       },
       "source": {
-        "fetched_at": 1785179516,
-        "hash": "74543b9fa3a4de4d953ab076bb00d055707ae2f0a910bb860319f47098f64593",
-        "revid": 13844
+        "fetched_at": 1786905466,
+        "hash": "7f059fb654dd71b3924a2057a5864df65b42443b3d3acc7bf9bce6c1500b6c88",
+        "revid": 14398
       },
       "target": {
         "fetched_at": 1785179972,
@@ -20464,8 +20464,8 @@
       },
       "translation": {
         "file": "output/zh/E-245.wiki",
-        "hash": "f987fba18f30e1dc828ff0f64138cc87ffc6b1fb4314f5ee67d84b2714e36b04",
-        "translated_at": 1785179516
+        "hash": "3c80f7b17f69cb54c44c179fabf7eca7bdae6430d66063d99956ff717e78896f",
+        "translated_at": 1786905466
       }
     },
     "E-30": {
@@ -20476,9 +20476,9 @@
         "translation_hash": "4bb1141d2eac9c40e0aa08cd7e632a927f06a3864e652094929af97cd79d365d"
       },
       "source": {
-        "fetched_at": 1785179477,
-        "hash": "86bda1bf33ead9fda8e22a8c46001d52429fb782300c14465e159db316c90ad7",
-        "revid": 13843
+        "fetched_at": 1786905239,
+        "hash": "f69a02972fd7203f7692e091e6b666f2a20c4126be4ed26fcdae6d3ea39fe2f9",
+        "revid": 14351
       },
       "target": {
         "fetched_at": 1785179976,
@@ -20488,8 +20488,8 @@
       },
       "translation": {
         "file": "output/zh/E-30.wiki",
-        "hash": "ef4951a9e08b0960134cbd1d167e59da1437ff6179b6dbe796b143312df5abfc",
-        "translated_at": 1785179477
+        "hash": "5bd20b2da3d800c6b393c58c4beb0fd5f50a6ddb0cba470e74bc88e43fe58e22",
+        "translated_at": 1786905239
       }
     },
     "E-30i": {
@@ -20524,9 +20524,9 @@
         "translation_hash": "e91c36ba82a0a6715baae7b91566435a795f29a4a8545684a10dbc832ccd01c5"
       },
       "source": {
-        "fetched_at": 1784898806,
-        "hash": "a4364a1816587e566e82417c8e4c545118f083a0e983c63301b9412c07187335",
-        "revid": 13708
+        "fetched_at": 1786905211,
+        "hash": "d85ee92225cd5d562da875c0e053a5727eda905d2ba93538636b10ca24ec094a",
+        "revid": 14328
       },
       "target": {
         "fetched_at": 1784968305,
@@ -20536,8 +20536,8 @@
       },
       "translation": {
         "file": "output/zh/E-45.wiki",
-        "hash": "1c304862f69adea9b4fa9988309bc4265d39ea597e012469f121532303ad648b",
-        "translated_at": 1784898806
+        "hash": "23248e1cb13cfcadc9c8fa0938bce9f9140e982b53630b7033b4afa4f741ee33",
+        "translated_at": 1786905211
       }
     },
     "E-60": {
@@ -20548,9 +20548,9 @@
         "translation_hash": "cfba9bb67f4a7582729aaed25e84591cd737a7365b99c0d7088678dd872028d2"
       },
       "source": {
-        "fetched_at": 1786301195,
-        "hash": "699859127ce83b50e931687198784986e2a261b8f28d717984622dd99d50fab3",
-        "revid": 14105
+        "fetched_at": 1786905313,
+        "hash": "b3dac99eb0033b9c7dc1c6cd8defc5aef16c5fbeef62af9a4471fe2f71abab77",
+        "revid": 14329
       },
       "target": {
         "fetched_at": 1786301540,
@@ -20560,8 +20560,8 @@
       },
       "translation": {
         "file": "output/zh/E-60.wiki",
-        "hash": "a90c73668d409eb1a01b35abacc328cc1f7d2a058544f62b92b069c7b4c90340",
-        "translated_at": 1786301195
+        "hash": "806f8e1ee2b919cfc74f809fa001b909980803adcbf1d5388901d4ca5967d249",
+        "translated_at": 1786905313
       }
     },
     "E-90": {
@@ -20572,9 +20572,9 @@
         "translation_hash": "338df6b169323b2e572797a10690a49676198926be25a1e08c201de366666a66"
       },
       "source": {
-        "fetched_at": 1784606977,
-        "hash": "c2375a84316eb0146178bf34ecb8df6bf6001d571a8c18ae3842cbd5d4518958",
-        "revid": 13608
+        "fetched_at": 1786905210,
+        "hash": "1d1e20da546f5f5c5383022dc4d3ebf5e051343a01d8069112fc863fb92396c4",
+        "revid": 14330
       },
       "target": {
         "fetched_at": 1784968312,
@@ -20584,8 +20584,8 @@
       },
       "translation": {
         "file": "output/zh/E-90.wiki",
-        "hash": "3bdb259b7a54938b6291b0cd516a64b73ca66d9c37344af998de22d6613ce06d",
-        "translated_at": 1784606977
+        "hash": "682f16b0d8f7a271fbbdebb72357827d2a1a6038e02119e3f5dfff7f96ad45fd",
+        "translated_at": 1786905210
       }
     },
     "Endellion": {
@@ -20788,9 +20788,9 @@
         "translation_hash": "6ddf86098a7940d6c04eee9f3384f27da36e1348215e96613f90fccfb18cc165"
       },
       "source": {
-        "fetched_at": 1786301088,
-        "hash": "28c1e058d0c26580272d18829f1af8b855e66ba861cbe845d8e58a4b47eda05f",
-        "revid": 14116
+        "fetched_at": 1786905211,
+        "hash": "35e8d7f8db416b9542568e64c64a6351256807f4fd5e19686ab501ebd60d7cda",
+        "revid": 14320
       },
       "target": {
         "fetched_at": 1786301548,
@@ -20800,8 +20800,8 @@
       },
       "translation": {
         "file": "output/zh/False-200.wiki",
-        "hash": "6ddf86098a7940d6c04eee9f3384f27da36e1348215e96613f90fccfb18cc165",
-        "translated_at": 1786301088
+        "hash": "9b9e4e773845296bfb46f949abaa5d9ab7d2234a860bdbc506564c4bd3557637",
+        "translated_at": 1786905211
       }
     },
     "False-60": {
@@ -20812,9 +20812,9 @@
         "translation_hash": "035c8006a2597f8a23dd1956d2a65bd77e2ad41371a2510e2e7c76ffca6dc521"
       },
       "source": {
-        "fetched_at": 1786301105,
-        "hash": "00106dd4510cc4f85c860d58a3f6bd5448bd0bc253bfe5bd4a59d66e70ab8719",
-        "revid": 14074
+        "fetched_at": 1786905243,
+        "hash": "2a3cca156e74903dd80d1cc0e2d3c5eafe657baa171a9c4b8e7b5075847514d3",
+        "revid": 14290
       },
       "target": {
         "fetched_at": 1786301551,
@@ -20824,8 +20824,8 @@
       },
       "translation": {
         "file": "output/zh/False-60.wiki",
-        "hash": "035c8006a2597f8a23dd1956d2a65bd77e2ad41371a2510e2e7c76ffca6dc521",
-        "translated_at": 1786301105
+        "hash": "e65c5e4b9e57ffb9020e5e2b8b2abf3ab157b5476becc4b7ab964c632233be94",
+        "translated_at": 1786905243
       }
     },
     "GAMMA-1": {
@@ -20836,9 +20836,9 @@
         "translation_hash": "60f455a04b1581c1a0678e9222360b124d4c99f90f8b55a2db93fd05c2dd10f0"
       },
       "source": {
-        "fetched_at": 1785265419,
-        "hash": "1d0364188f4cc70a55978d88ebd213c2886ca6b7362a6277f02eadb19137fbf7",
-        "revid": 13897
+        "fetched_at": 1786905200,
+        "hash": "1b8425c55289efd5a335d49005d6a33242e23c8b20503db917e008c633fa38b2",
+        "revid": 14289
       },
       "target": {
         "fetched_at": 1785266239,
@@ -20848,8 +20848,8 @@
       },
       "translation": {
         "file": "output/zh/GAMMA-1.wiki",
-        "hash": "60f455a04b1581c1a0678e9222360b124d4c99f90f8b55a2db93fd05c2dd10f0",
-        "translated_at": 1785265419
+        "hash": "57f5dba4be1bd02aa13ff6ae8942a59c7b35ef6bf81ac479b57565fc8aa6e838",
+        "translated_at": 1786905200
       }
     },
     "GAMMA-2": {
@@ -21004,9 +21004,9 @@
         "translation_hash": "7f6f8fc1db95f318f510ef83fdf991e6c050f8449b013129a0502ea584fcfba4"
       },
       "source": {
-        "fetched_at": 1785698096,
-        "hash": "0e13d8ce6c4e86ea0c9e91d804fd8b4560c29c21e02ed8748d22d7ac4148bc29",
-        "revid": 14034
+        "fetched_at": 1786905207,
+        "hash": "3a7cf6e7381b01083b45da803f153cd19612f7147e3eb1e5e32fd5404729fa6d",
+        "revid": 14310
       },
       "target": {
         "fetched_at": 1785698813,
@@ -21016,8 +21016,8 @@
       },
       "translation": {
         "file": "output/zh/Jimmy.wiki",
-        "hash": "7f6f8fc1db95f318f510ef83fdf991e6c050f8449b013129a0502ea584fcfba4",
-        "translated_at": 1785698096
+        "hash": "6b2bc085b0d1182c71d9b3752826d08ff73e4b12ce977ea0653b4fea2548872a",
+        "translated_at": 1786905207
       }
     },
     "Joke D-55": {
@@ -21052,9 +21052,9 @@
         "translation_hash": "c71cea3848d55dc040e73ff656f5c6caddab4d0c78e38b0af3f3701b8a0d94a7"
       },
       "source": {
-        "fetched_at": 1785265441,
-        "hash": "aa423e25d2ce3ce3bb2e4329d2e283c7939e9d270450a24836e87d02183aa3b1",
-        "revid": 13870
+        "fetched_at": 1786905228,
+        "hash": "dad4bbb88afe772452f8807650385056ad379bb4ee2ce41063dee1551fd873f2",
+        "revid": 14233
       },
       "target": {
         "fetched_at": 1785266250,
@@ -21064,8 +21064,8 @@
       },
       "translation": {
         "file": "output/zh/LAPSE-1.wiki",
-        "hash": "c71cea3848d55dc040e73ff656f5c6caddab4d0c78e38b0af3f3701b8a0d94a7",
-        "translated_at": 1785265441
+        "hash": "8b51c40f59564df35b76ec5de0ff1e1c4d3c94ef44c7e43d05e4cdfa6feb7613",
+        "translated_at": 1786905228
       }
     },
     "LAPSE-120": {
@@ -21100,9 +21100,9 @@
         "translation_hash": "4acfa526e2130893fce2b96c35ceb55a900a245d6ff595ef8aa610009276abf2"
       },
       "source": {
-        "fetched_at": 1785698114,
-        "hash": "5c51eca038ff8a1fc3130af8344fa347c16da8eb7ba02626be6ad5fdc6ca32de",
-        "revid": 14009
+        "fetched_at": 1786905234,
+        "hash": "3b029341517e1f2c3f85fcdb50ff0f491ff24c00e5cfde56f8e90114d95914c7",
+        "revid": 14234
       },
       "target": {
         "fetched_at": 1785698816,
@@ -21112,8 +21112,8 @@
       },
       "translation": {
         "file": "output/zh/LAPSE-2.wiki",
-        "hash": "4acfa526e2130893fce2b96c35ceb55a900a245d6ff595ef8aa610009276abf2",
-        "translated_at": 1785698114
+        "hash": "786723e53a9455c0cfe73887ad56a159233e95784dd3a499616fc3ce9c321d74",
+        "translated_at": 1786905234
       }
     },
     "LAPSE-200": {
@@ -21172,9 +21172,9 @@
         "translation_hash": "2ca684f943df488f71389835f82f84129e16a9ba629a846d123d7514f347e6f1"
       },
       "source": {
-        "fetched_at": 1784607231,
-        "hash": "ca7a235f28b8f3ac01311575a9ce396bf2b0a670ce5f0326137609bbc63851fc",
-        "revid": 12593
+        "fetched_at": 1786905225,
+        "hash": "1c4163a3772b5dea2335d9115e87499492f6a934dc565a8a3cde9da84a2dc7da",
+        "revid": 14308
       },
       "target": {
         "fetched_at": 1784968406,
@@ -21184,8 +21184,8 @@
       },
       "translation": {
         "file": "output/zh/LAPSE-60.wiki",
-        "hash": "cbae94606801a9d9194a0b3e8b2b078d1d16e8ebac80553d6626eb36ca34e876",
-        "translated_at": 1784607231
+        "hash": "9a1b080c68f328d9ef9b5e993897d818f623e9d68d2d2162d63e84046c47a4ed",
+        "translated_at": 1786905225
       }
     },
     "Legacy Mode": {
@@ -21292,9 +21292,9 @@
         "translation_hash": "e1bc34963068fab034c15c93ab24363602d0331133c2959d18c2a281cdf745f8"
       },
       "source": {
-        "fetched_at": 1784607517,
-        "hash": "d66817d58bb13644a23a10642e164b149e8f2255e2fd5d34a33a365009c68851",
-        "revid": 13428
+        "fetched_at": 1786905245,
+        "hash": "601b4d443f18d7fe877bb6873b5e98453819ae7388c4a0006510aea6b2ab44ac",
+        "revid": 14227
       },
       "target": {
         "fetched_at": 1784968426,
@@ -21304,8 +21304,8 @@
       },
       "translation": {
         "file": "output/zh/M-120i.wiki",
-        "hash": "e62c8d9f1b17fe0234aa36abecd4dcf70f26d5a142e4830f8f07978ed3a23b32",
-        "translated_at": 1784607517
+        "hash": "e27c243b892fd3400033502ba4c5c791c3bc8bf76da50788f09ee9aa1c858d2a",
+        "translated_at": 1786905245
       }
     },
     "M-134": {
@@ -21316,9 +21316,9 @@
         "translation_hash": "7113c772ef6a895ac3b810dabf23166e2137ba3e6531c293196d820267fa7f65"
       },
       "source": {
-        "fetched_at": 1785179380,
-        "hash": "44e03453916a07468764e7ecc9e0ad7faa3d860c9438747d04318247980bea09",
-        "revid": 13848
+        "fetched_at": 1786905251,
+        "hash": "26066b47281aec53ac133bcd82bb1fcd299924ff2eed960f8bee701f6d5663a5",
+        "revid": 14372
       },
       "target": {
         "fetched_at": 1785179984,
@@ -21328,8 +21328,8 @@
       },
       "translation": {
         "file": "output/zh/M-134.wiki",
-        "hash": "7113c772ef6a895ac3b810dabf23166e2137ba3e6531c293196d820267fa7f65",
-        "translated_at": 1785179380
+        "hash": "eb303f12a812d4ea98d8c1c4def21252e4be4b5857b138d94ab7e84cddcc14e4",
+        "translated_at": 1786905251
       }
     },
     "M-150": {
@@ -21460,9 +21460,9 @@
         "translation_hash": "fe273c249bd3bb8f6d102beba32e4319a8bd606adce823c00db132950e71e0f0"
       },
       "source": {
-        "fetched_at": 1786301294,
-        "hash": "2364bd7d6f1ebf908d8608a2c23bc1fa95a4093264b04a23a4b6de4ca817d12e",
-        "revid": 14113
+        "fetched_at": 1786905399,
+        "hash": "d7451c4c5d648ca276b90a471029c8b7a22a5c01d70a9380a44d5ac5e2da505d",
+        "revid": 14245
       },
       "target": {
         "fetched_at": 1786301567,
@@ -21472,8 +21472,8 @@
       },
       "translation": {
         "file": "output/zh/M-60.wiki",
-        "hash": "fe273c249bd3bb8f6d102beba32e4319a8bd606adce823c00db132950e71e0f0",
-        "translated_at": 1786301294
+        "hash": "509bdd07b75e13aa949744b9470f54a86c3a2bb5b61228994fc9f0a4f6e93a3c",
+        "translated_at": 1786905399
       }
     },
     "M-60i": {
@@ -21532,9 +21532,9 @@
         "translation_hash": "f1b0830f604e87fe2d072c002c570edcdbc124139db834222cfdbcd026631aa7"
       },
       "source": {
-        "fetched_at": 1785179306,
-        "hash": "4dc6a946807fffb2625062ab76b2fd191e8e13f1f0494b38dad8e4e8b4be9284",
-        "revid": 13846
+        "fetched_at": 1786905252,
+        "hash": "e4be8d98bc9a0814c918b9b91ba477be5824a3da929cb91fd853ecfbbc726111",
+        "revid": 14347
       },
       "target": {
         "fetched_at": 1785179988,
@@ -21544,8 +21544,8 @@
       },
       "translation": {
         "file": "output/zh/M-70.wiki",
-        "hash": "c53f8c505ce38fa7a8341e2d75bae0e12391f7edaca68de67c07f9bdfd35e27c",
-        "translated_at": 1785179306
+        "hash": "1178a5700da498c62363ea878e294dbf28334bd4800ea15a26a11bb5894079db",
+        "translated_at": 1786905252
       }
     },
     "Mary": {
@@ -22084,9 +22084,9 @@
         "translation_hash": "6029e7cd8b4b9ef12ceedcdd3ff86ebfc6df923e2944113de1a209d08491c8ac"
       },
       "source": {
-        "fetched_at": 1786301218,
-        "hash": "c99bb651e697473b69779c43190835c8971076e453d13780c43e09e54c4c97f5",
-        "revid": 14115
+        "fetched_at": 1786905550,
+        "hash": "93322070d5fd7e368d1cadacc14bc4ac55914abdded67786be40c360d101e4cd",
+        "revid": 14274
       },
       "target": {
         "fetched_at": 1786301574,
@@ -22096,8 +22096,8 @@
       },
       "translation": {
         "file": "output/zh/Mouth.wiki",
-        "hash": "6029e7cd8b4b9ef12ceedcdd3ff86ebfc6df923e2944113de1a209d08491c8ac",
-        "translated_at": 1786301218
+        "hash": "8c1a7daec0f8758557e586789ec4c97e63e426f3835e55e5862955db1ff7ff7d",
+        "translated_at": 1786905550
       }
     },
     "Oblivion": {
@@ -22276,9 +22276,9 @@
         "translation_hash": "3375fba4dd101d41d25df17f4ac91a5e5fe6de968d56b314f7681aa306de6719"
       },
       "source": {
-        "fetched_at": 1785698736,
-        "hash": "48bf8df633619c3a73ca46c63d344f81595a994e4a01cf9f776e4ac0d917483c",
-        "revid": 13895
+        "fetched_at": 1786905740,
+        "hash": "3b3d540324b2ff35a33b2bc32ec4132cef2da5a7ff3700a45abdfa096a750259",
+        "revid": 14269
       },
       "target": {
         "fetched_at": 1785698832,
@@ -22288,8 +22288,8 @@
       },
       "translation": {
         "file": "output/zh/Player Controlled.wiki",
-        "hash": "3375fba4dd101d41d25df17f4ac91a5e5fe6de968d56b314f7681aa306de6719",
-        "translated_at": 1785698736
+        "hash": "9876ab83e2c332f3c423cede644e038ff5b61549e4050ee318e55588b2c791d7",
+        "translated_at": 1786905740
       }
     },
     "Pre-Executive Mode": {
@@ -22396,9 +22396,9 @@
         "translation_hash": "c9fdee42dcf8f94ea39d930f2d80f2ed1e392617deebbaada9492a0604aba487"
       },
       "source": {
-        "fetched_at": 1786301261,
-        "hash": "4792fd8a60669c858ce9857bb67f00e74b1293a8b65911f6a2e7be18cc37565e",
-        "revid": 14190
+        "fetched_at": 1786905414,
+        "hash": "fed5c230bcd92726ae2cb21174af4c3e670791f917c04083141f6fc140617978",
+        "revid": 14212
       },
       "target": {
         "fetched_at": 1786301582,
@@ -22408,8 +22408,8 @@
       },
       "translation": {
         "file": "output/zh/Red Rooms.wiki",
-        "hash": "5ba9daaf17418615d93bb0f72c4f5ea8a0593142cb65452e2126e8daeb82317f",
-        "translated_at": 1786301261
+        "hash": "7ad784af99dea442a934deebdcfac5d56c7bf2379688dfd83ac2cb5e8b4b655e",
+        "translated_at": 1786905414
       }
     },
     "Rina": {
@@ -22564,9 +22564,9 @@
         "translation_hash": "64b1521423226f6b39de30c3e75cf9b31a0a6dc8cbe73c6cb444aa7e8da70e11"
       },
       "source": {
-        "fetched_at": 1784608340,
-        "hash": "21c60af270cad1d4c50f848f7afb117e63c9d7c1f1947d42a4a905ea8d455afa",
-        "revid": 13282
+        "fetched_at": 1786905286,
+        "hash": "a09e790e9be0f9de006d84b0ead74d30b1c0bdca6559542eb7e6a8262c540492",
+        "revid": 14307
       },
       "target": {
         "fetched_at": 1784968558,
@@ -22576,8 +22576,8 @@
       },
       "translation": {
         "file": "output/zh/SHA-180.wiki",
-        "hash": "2b7dc04b63e9a44c43691c58429d8d8a13f9f15583da08e970c861db6cbc318d",
-        "translated_at": 1784608340
+        "hash": "63bbe935819e7e7bcc360425c22b3db5b887e0c80c3846d44c366374526d6656",
+        "translated_at": 1786905286
       }
     },
     "SHA-2": {
@@ -22708,9 +22708,9 @@
         "translation_hash": "ee1e89bd02787bba293f7f0b728127915e4bf051899df9d295acb7820c5c4dda"
       },
       "source": {
-        "fetched_at": 1784608429,
-        "hash": "60756ef67e903307d28f3d0c795309b4bc53893d1d9a63a383195009e183019e",
-        "revid": 13112
+        "fetched_at": 1786905260,
+        "hash": "88b0320b6dd17c0d0a792917df8c7566d4831373438d75184c808d4e61cbe7f6",
+        "revid": 14291
       },
       "target": {
         "fetched_at": 1784968584,
@@ -22720,8 +22720,8 @@
       },
       "translation": {
         "file": "output/zh/SHA-300.wiki",
-        "hash": "1202e8460fb0af180f132e6a513cfc5820a854df2f0aef210614d78c889608d5",
-        "translated_at": 1784608429
+        "hash": "687ce52863f3017594d8adbd33f983a708e546e9d0ec105afa33425f2907182e",
+        "translated_at": 1786905260
       }
     },
     "SHA-35": {
@@ -22900,9 +22900,9 @@
         "translation_hash": "5c10a11d7fcd2faa7c48bb759ba56373fd2b8d9beeea7b340e183b0af70c3a14"
       },
       "source": {
-        "fetched_at": 1786301343,
-        "hash": "b56df01bec97ae02353bc1e1ddb9e239c34a489ee79534368714023152dc511b",
-        "revid": 14065
+        "fetched_at": 1786905492,
+        "hash": "4d4a45f0a3561e689e4b62f0bc2676a2bf3850535062d34900a3c6719fa5c989",
+        "revid": 14403
       },
       "target": {
         "fetched_at": 1786301592,
@@ -22912,8 +22912,8 @@
       },
       "translation": {
         "file": "output/zh/Section A.wiki",
-        "hash": "5c10a11d7fcd2faa7c48bb759ba56373fd2b8d9beeea7b340e183b0af70c3a14",
-        "translated_at": 1786301343
+        "hash": "d8e12b6a25db8d5ce8ec897cb806ccb7388a07053c43341bdc5812871a0b2ecf",
+        "translated_at": 1786905492
       }
     },
     "Section D": {
@@ -22924,9 +22924,9 @@
         "translation_hash": "5bd83573312ec0ebcae086e2805eeb27660bc02db0eb28df4ef385a3def1e05f"
       },
       "source": {
-        "fetched_at": 1786301203,
-        "hash": "abb060b8ba44b3fda6802c71c3604cf4475444de91a719b8eee46a5e1e33b54d",
-        "revid": 14146
+        "fetched_at": 1786905377,
+        "hash": "99400cfe21aec74af0e89bff01363380e72434024280d728ed7689dddcc41d6b",
+        "revid": 14205
       },
       "target": {
         "fetched_at": 1786301596,
@@ -22936,8 +22936,8 @@
       },
       "translation": {
         "file": "output/zh/Section D.wiki",
-        "hash": "5bd83573312ec0ebcae086e2805eeb27660bc02db0eb28df4ef385a3def1e05f",
-        "translated_at": 1786301203
+        "hash": "94bf99a14c6cfaf931ae857f8fb8c4cfb304c1d5cdd97062da264ffe4e05b4dc",
+        "translated_at": 1786905377
       }
     },
     "Section E": {
@@ -22972,9 +22972,9 @@
         "translation_hash": "a4f595556304978c18c19020c7aa35cfd729f4646c0209650f50c5ee0cc78e03"
       },
       "source": {
-        "fetched_at": 1784608736,
-        "hash": "35b853b7601c11538eeaf119abdf8ef43e53cb53deaa5c10bf831ca15703add5",
-        "revid": 13530
+        "fetched_at": 1786905288,
+        "hash": "e647732b16372b51e4947b652264f743bcc9c2acf00393e2b7e8089157d62d30",
+        "revid": 14243
       },
       "target": {
         "fetched_at": 1784968628,
@@ -22984,8 +22984,8 @@
       },
       "translation": {
         "file": "output/zh/Section Executive Invasion Event.wiki",
-        "hash": "6ec8d4360755bc3f15295955f4c479f56890b2f949ffd7393fe15044f2803128",
-        "translated_at": 1784608736
+        "hash": "f8281e3413cfae669d2018d7a57d61226f924f80bf790fdeeb59a9515ebd2714",
+        "translated_at": 1786905288
       }
     },
     "Section I": {
@@ -23020,9 +23020,9 @@
         "translation_hash": "4a30d419544b1d60f6a2c1b7444aadd89ed07b6563c6c5d2e72e7d87aaf8bae4"
       },
       "source": {
-        "fetched_at": 1784608827,
-        "hash": "b8358719c20391a6dcf282432ba0c94308b74e5faefc28ac6a43fecc161abacd",
-        "revid": 13665
+        "fetched_at": 1786905588,
+        "hash": "c14b1d2dd53aacf716abc60f5ddd7b6a85939ce22bd443f921b8634a28be37bd",
+        "revid": 14206
       },
       "target": {
         "fetched_at": 1784968636,
@@ -23032,8 +23032,8 @@
       },
       "translation": {
         "file": "output/zh/Section M.wiki",
-        "hash": "f2c2e45146ed00af202d3919d9908d97a383cbfff0e725da5994c09f1b0214ce",
-        "translated_at": 1784608827
+        "hash": "9cdc2b87b22b696034aad59ed6ea153ed789d9b309eb4fcfac9f359c3182d644",
+        "translated_at": 1786905588
       }
     },
     "Section R": {
@@ -23116,9 +23116,9 @@
         "translation_hash": "dc08a498871d02b4e819bac83ba2d26277b2f12e197427d0aa7ab49b78ae6136"
       },
       "source": {
-        "fetched_at": 1784608899,
-        "hash": "6d2062156fecd934f319a28dc58de266dc8360f4cfc09dd90be1d3a6b0921b79",
-        "revid": 13682
+        "fetched_at": 1786905329,
+        "hash": "60a592f1e44a6ad23a309c1d50ffc8f5f2027bf58bad93451f9e79bd9b288284",
+        "revid": 14265
       },
       "target": {
         "fetched_at": 1785350973,
@@ -23128,8 +23128,8 @@
       },
       "translation": {
         "file": "output/zh/Shadow Challenge.wiki",
-        "hash": "d7dc2378f70b8cd951eab3e489340187de7efb895e5cec70890bf80f22e03c20",
-        "translated_at": 1784608899
+        "hash": "56b0bd190ea38d053f3a751aecfcd45df09cfcc6918af9b570bdc03172a10434",
+        "translated_at": 1786905329
       }
     },
     "Soundtracks": {
@@ -24244,9 +24244,9 @@
         "translation_hash": "b7628603d2e10fdd64df1ca9b460cad7a9003e0bf17b8f3d8d0270cd32121351"
       },
       "source": {
-        "fetched_at": 1786301340,
-        "hash": "e5de45b015707a40502fb3d77395193d957d41cea737192382b777e7b2cfddc6",
-        "revid": 14111
+        "fetched_at": 1786905531,
+        "hash": "d60b3bc0735bbf6d5bec3b92f28bbc35065674d11ea9d1dddc6d86bf06ac4482",
+        "revid": 14314
       },
       "target": {
         "fetched_at": 1786301622,
@@ -24256,8 +24256,8 @@
       },
       "translation": {
         "file": "output/zh/Template/EntityNavBox.wiki",
-        "hash": "b7628603d2e10fdd64df1ca9b460cad7a9003e0bf17b8f3d8d0270cd32121351",
-        "translated_at": 1786301340
+        "hash": "251501ab2c1e0f5a745456b544871c41001bbfa36f06fc872bba45b4744e33f2",
+        "translated_at": 1786905531
       }
     },
     "Template:EntityNavBoxAdmin": {
@@ -24292,9 +24292,9 @@
         "translation_hash": "4ddbdae59eb1441718cf9662946fa7e41ad221fb0f0ae4cd67406f736d89d97c"
       },
       "source": {
-        "fetched_at": 1785265570,
-        "hash": "4c5a40950f12a36d50c35332029bf371d0266c3a176053752ee2319f61179d89",
-        "revid": 13905
+        "fetched_at": 1786905519,
+        "hash": "ec8efccd24e2a97865ba1c8ad604653be2e8c1fe06f49230cbdfd256b93d7eca",
+        "revid": 14315
       },
       "target": {
         "fetched_at": 1785266278,
@@ -24304,8 +24304,8 @@
       },
       "translation": {
         "file": "output/zh/Template/EntityNavBoxSectionA.wiki",
-        "hash": "4ddbdae59eb1441718cf9662946fa7e41ad221fb0f0ae4cd67406f736d89d97c",
-        "translated_at": 1785265570
+        "hash": "f8e475713e2bf5589adf42e65ec9f622c1c173138886a51908878b4766984980",
+        "translated_at": 1786905519
       }
     },
     "Template:EntityNavBoxSectionD": {
@@ -24316,9 +24316,9 @@
         "translation_hash": "090fad6ca751a6bb6f2b419ae878194b6e8ee0bad0d30abb40c40e8942e0b1de"
       },
       "source": {
-        "fetched_at": 1785265561,
-        "hash": "244187181e29839c633ef33c4b680d46559f1e0e2845f81e75696e05eb742ca7",
-        "revid": 13906
+        "fetched_at": 1786905499,
+        "hash": "dac2a0932b2ac416d044f5b409ca519c1a99e523c4d9693b703a5cbf1bc38429",
+        "revid": 14316
       },
       "target": {
         "fetched_at": 1785266281,
@@ -24328,8 +24328,8 @@
       },
       "translation": {
         "file": "output/zh/Template/EntityNavBoxSectionD.wiki",
-        "hash": "090fad6ca751a6bb6f2b419ae878194b6e8ee0bad0d30abb40c40e8942e0b1de",
-        "translated_at": 1785265561
+        "hash": "dec3c7b90a4e42ad221bf2b47312ddaae43d413e57ca114bc167dc12d233d5be",
+        "translated_at": 1786905499
       }
     },
     "Template:EntityNavBoxSectionM": {
@@ -24340,9 +24340,9 @@
         "translation_hash": "855ff80e1f7f9e296de760ad7fdcef257bcf191aeabe2936a76b85f6c18b0989"
       },
       "source": {
-        "fetched_at": 1785265565,
-        "hash": "72a1b75d296013c311b73fc8161e8d5cb6598e641f9988d9f6868e63e12b9a17",
-        "revid": 13907
+        "fetched_at": 1786905498,
+        "hash": "de165bd3c4f015df96b9adbe0d7f31309ccb085bc50809e814d69176507193ce",
+        "revid": 14317
       },
       "target": {
         "fetched_at": 1785266285,
@@ -24352,8 +24352,8 @@
       },
       "translation": {
         "file": "output/zh/Template/EntityNavBoxSectionM.wiki",
-        "hash": "855ff80e1f7f9e296de760ad7fdcef257bcf191aeabe2936a76b85f6c18b0989",
-        "translated_at": 1785265565
+        "hash": "acfe5900db42c62453c287eb2bc9d9b0450d07dd8fffa39d7f2707087f81e3b5",
+        "translated_at": 1786905498
       }
     },
     "Template:Entityicon/A-120": {
@@ -27244,9 +27244,9 @@
         "translation_hash": "a1b93b10e182f6fe5513edfc7c0dd445ab889c6196e6098f13ea90cd9cffe536"
       },
       "source": {
-        "fetched_at": 1784920710,
-        "hash": "a47e3f512f8dc5bf0b8d61ec85b5ccb1a9f6a01556b56266979a34cecfabcd5e",
-        "revid": 13732
+        "fetched_at": 1786905280,
+        "hash": "bf5495e370ad2f2e48d6e4ff63bbd86dfeca04dcacd143900ddc7c5e73c9184b",
+        "revid": 14400
       },
       "target": {
         "fetched_at": 1784968895,
@@ -27256,8 +27256,8 @@
       },
       "translation": {
         "file": "output/zh/UI-315.wiki",
-        "hash": "461ad97698f30dca7c7f3a27fe62383aff4d5e864c531f34a797671e9e4eb239",
-        "translated_at": 1784920710
+        "hash": "d90024b9f67e07150791a973afd418a788226df2dbd3571ea04ffd23dfa6ae04",
+        "translated_at": 1786905280
       }
     },
     "UI-5": {
@@ -27340,9 +27340,9 @@
         "translation_hash": "57375e2558bf0fc7d8c2b95b6dbb3a4141967b7f68b7a4c176281a960c37aba6"
       },
       "source": {
-        "fetched_at": 1786301126,
-        "hash": "9c423122be904c96f988e7ccaf5d35573604b7987d65efac687526805cd1461a",
-        "revid": 14133
+        "fetched_at": 1786905273,
+        "hash": "6e42d5ec3bfe610f9152620a03bd12909ef1624b80974e50c9b4642b27d90459",
+        "revid": 14255
       },
       "target": {
         "fetched_at": 1786301611,
@@ -27352,8 +27352,8 @@
       },
       "translation": {
         "file": "output/zh/Unknown Entity.wiki",
-        "hash": "57375e2558bf0fc7d8c2b95b6dbb3a4141967b7f68b7a4c176281a960c37aba6",
-        "translated_at": 1786301126
+        "hash": "97f624f741accb6b09df86307c63f93e1bf5f8e3a2ebe91940101e5f88a9dec7",
+        "translated_at": 1786905273
       }
     },
     "Unnamed Sector": {
@@ -27364,9 +27364,9 @@
         "translation_hash": "044c79728144d46e540cc540ad3de67d6a017f9389ef57ef69b81fe4fd691431"
       },
       "source": {
-        "fetched_at": 1786301213,
-        "hash": "d44ad714e3d4f9b6cd992da764915f5a3dbd5ecd0cba66c2d804166ff8d6b3a2",
-        "revid": 14193
+        "fetched_at": 1786905489,
+        "hash": "fc8390b9b5b5bd271c4769d41f0a19399b267249bd93aaa1f9f930e68ca58ffe",
+        "revid": 14208
       },
       "target": {
         "fetched_at": 1786301615,
@@ -27376,8 +27376,8 @@
       },
       "translation": {
         "file": "output/zh/Unnamed Sector.wiki",
-        "hash": "044c79728144d46e540cc540ad3de67d6a017f9389ef57ef69b81fe4fd691431",
-        "translated_at": 1786301213
+        "hash": "35678065c4833bb9e52de7a0353683d215b9c051e5393b3ca5403eb3afe1f3d2",
+        "translated_at": 1786905489
       }
     },
     "Update Log": {

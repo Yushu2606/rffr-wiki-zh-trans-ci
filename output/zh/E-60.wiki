@@ -46,40 +46,39 @@ NewE607.png|Upcoming 第7张脸
 
 ==攻略与提示==
 * '''E-60'''撞门后，玩家必须离开柜子，并在2到3秒后、实体再次出现前重新躲好。
-* 如果在'''E-60'''位于门后时有实体破坏了门，会导致它立即折返，因此当'''E-60'''活跃时，如果你听到有能够破坏门的实体，不要离开你的柜子。
-* 在[[Red Rooms|红区]]期间，'''E-60'''在撞门前后给玩家的反应时间更短。因此，玩家必须更快地进出柜子，类似于[[A-60i]]。
+* 如果在'''E-60'''位于门后时有实体破坏了门，会导致它立刻折返，所以当'''E-60'''处于活跃状态时，如果你听到有能够破坏门的实体，请勿离开柜子。
+* 在[[红区]]期间，'''E-60'''在破门前后给玩家的反应时间更短。因此，玩家必须更快地进出柜子，类似于[[A-60i]]。
 
 * [https://youtu.be/ALWnpI7xza0?si=jj9kmGkIeib-DmHt 当前行为表现]
 * [https://youtu.be/TqbnnePI3eo?si=YDbnZZwaUh9mq8v5 旧版行为表现]
 
-==Trivia==
-* '''E-60'''有机会在不播放远处声音的情况下冲向主房间。
-** 如果发生这种情况，'''E-60'''会从更远的地方开始播放近距离声音，给你更多时间反应和躲藏。
-* '''E-60'''的旧版面孔来自Roblox商城。
-** 这些面孔因上传者盗用而从游戏中移除。
-*** 由于这个原因，'''E-60'''在[[Section Executive Invasion Event|分区主管入侵事件]]的剩余时间里曾使用[[A-60i]]的旧设计精灵图作为占位符。
-* '''E-60'''是[[Section Executive Invasion Event|分区主管入侵事件]]期间出现的两个入侵实体之一，另一个是[[E-10]]。
-* '''E-60'''是本作中[[A-60]]的最慢对应版本。
+==杂项==
+* '''E-60'''有机会在不播放远处音效的情况下冲向主房间。
+** 如果发生这种情况，'''E-60'''会从更远的地方开始播放近距离音效，给你更多反应和躲藏的时间。
+* '''E-60'''的旧面孔来自Roblox Marketplace。
+** 由于上传者窃取了这些素材，它们已从游戏中移除。
+*** 由于这个原因，'''E-60'''在[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]的剩余时间里曾使用[[A-60i]]的旧设计精灵图作为占位符。
+* '''E-60'''是[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]期间出现的两个入侵实体之一，另一个是[[E-10]]。
+* '''E-60'''是本作中[[A-60]]速度最慢的对应体。
 
-==Gallery==
-
-===In-Game Images===
+==图库==
+===游戏内图片===
 <gallery>
-E60SaysHi.jpg|在[[Section M|M区]]的[[Section Executive Invasion Event|分区主管入侵事件]]期间看到的'''E-60'''，即将杀死玩家。
+E60SaysHi.jpg|在[[M区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中出现的'''E-60'''，即将杀死玩家。
 NVCSE60.jpg|通过'''NVCS-13793-C'''看到的'''E-60'''。
 </gallery>
-===GIFs===
+===GIF===
 <gallery>
 NewE60jum.gif|'''E-60'''<nowiki/>的跳杀。
-TempE60jum.gif|'''E-60'''<nowiki/>使用临时面孔的跳杀。
-E60jump.gif|'''E-60'''<nowiki/>的旧版跳杀。
-ByeE60.gif|在[[Section D|D区]]的[[Section Executive Invasion Event|分区主管入侵事件]]期间，'''E-60'''从玩家身边经过。
-HiE60.gif|死亡玩家眼中看到的使用临时面孔的'''E-60'''。
+TempE60jum.gif|'''E-60'''使用临时面孔的跳杀。
+E60jump.gif|'''E-60'''的旧版跳杀。
+ByeE60.gif|在[[D区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中，'''E-60'''从玩家身边经过。
+HiE60.gif|死亡玩家视角下看到的使用临时面孔的'''E-60'''。
 E60CurrentAnim.gif|'''E-60'''动画[复现]。
 E60tempanimation.gif|同上，使用临时面孔。
 E60anim.gif|同上，使用旧版面孔。
 </gallery>
-===Miscellaneous===
+===其他===
 <gallery>
 E601.png|当前第1张面孔（裁剪）
 E602.png|当前第2张面孔（裁剪）
@@ -89,26 +88,26 @@ E605.png|当前第5张面孔（裁剪）
 E606.png|当前第6张面孔（裁剪）
 E607.png|当前第7张面孔（裁剪）
 E608.png|当前第8张面孔（裁剪）
-TempE601.webp|'''E-60'''<nowiki/>的临时第一张面孔。
-TempE602.webp|'''E-60'''<nowiki/>的临时第二张面孔。
-TempE603.webp|'''E-60'''<nowiki/>的临时第三张面孔。
-TempE604.webp|'''E-60'''<nowiki/>的临时第四张面孔。
-TempE605.webp|'''E-60'''<nowiki/>的临时第五张面孔。
-TempE606.webp|'''E-60'''<nowiki/>的临时第六张面孔。
-E-601.webp|'''E-60'''<nowiki/>的旧版第一张面孔。
-E-602.webp|'''E-60'''<nowiki/>的旧版第二张面孔。
-E-603.webp|'''E-60'''<nowiki/>的旧版第三张面孔。
-E-604.webp|'''E-60'''<nowiki/>的旧版第四张面孔。
-E-605.webp|'''E-60'''<nowiki/>的旧版第五张面孔。
-E-606.webp|'''E-60'''<nowiki/>的旧版第六张面孔。
+TempE601.webp|'''E-60'''<nowiki/>的临时第1张面孔。
+TempE602.webp|'''E-60'''<nowiki/>的临时第2张面孔。
+TempE603.webp|'''E-60'''<nowiki/>的临时第3张面孔。
+TempE604.webp|'''E-60'''<nowiki/>的临时第4张面孔。
+TempE605.webp|'''E-60'''<nowiki/>的临时第5张面孔。
+TempE606.webp|'''E-60'''<nowiki/>的临时第6张面孔。
+E-601.webp|'''E-60'''<nowiki/>的旧版第1张面孔。
+E-602.webp|'''E-60'''<nowiki/>的旧版第2张面孔。
+E-603.webp|'''E-60'''<nowiki/>的旧版第3张面孔。
+E-604.webp|'''E-60'''<nowiki/>的旧版第4张面孔。
+E-605.webp|'''E-60'''<nowiki/>的旧版第5张面孔。
+E-606.webp|'''E-60'''<nowiki/>的旧版第6张面孔。
 </gallery>
 
-== Badges ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=分区突破|Description=[无法获得] 在任意区域遭遇并从未知来源的两个意外异常之一中幸存，即使经过数千个房间，它们也可能不会出现……|Obtainment='''[无法获得]'''<br>在E区入侵事件期间遭遇并从[[E-10]]或'''E-60'''手中幸存}}
-
-
-{{EntityNavBox}}
-
+== 徽章 ==
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=分区突破
+|Description=[无法获得]<br>在任意区域遭遇并从两个来源不明的意外异常之一中幸存，即使经过数千个房间，它们也可能不会出现……
+|Obtainment='''[无法获得]'''<br>在E区入侵事件期间遭遇并从[[E-10]]或'''E-60'''手中幸存。}}{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Ambusher]]

@@ -40,7 +40,7 @@ When this action occurs, '''E-10''' will proceed back to the main room. If more 
 ==Strategy & Tips==
 * Hide as soon as you see him and wait until he falls back. After it has passed by, you should exit your locker and open the door after around six seconds. Afterwards, you must wait around four seconds before entering a locker.
 ** If the room's layout from behind is straight, you may take a small peek at '''E-10'''<nowiki/>'s position and check when you can enter a locker again to evade his attack.
-* '''E-10'''<nowiki/>'s kill range is very large, large enough to damage you from another room, so ensure to enter your locker when he's nearby while the entity is returning back to the main room. 
+* '''E-10'''<nowiki/>'s kill range is very large, large enough to damage you from another room, so ensure to enter your locker when the entity approaches. 
 ** Safe spots that are far enough the entity's kill range or fully opaque are also versatile.
 
 * [https://youtu.be/imXuXeFfPBo?si=x4Btb_lWbZM8gqjU Video Representation]
@@ -57,29 +57,31 @@ When this action occurs, '''E-10''' will proceed back to the main room. If more 
 
 ===In-game Images===
 <gallery>
+File:Sun executive.webp|'''E-10''' in the current version
 File:TheSun.jpg|'''E-10''' seen in [[Section D]] during the [[Section Executive Invasion Event]].
 File:TheOldSun.jpg|Pre-release '''E-10''', about to kill the player.
-File:E-10SafeSpot.png|'''E-10''' being barely seen from a safe spot.
+File:E-10SafeSpot.png|'''E-10''' being barely seen from a safe spot. 
 </gallery>
 
 ===GIFs===
 <gallery>
-File:E-10NewScare.gif|'''E-10'''<nowiki/>'s jumpscare.
-File:E10jump.gif|'''E-10'''<nowiki/>'s Invasion Event Jumpscare.
-File:OldE-10Jum.gif|'''E-10'''<nowiki/>'s Pre Release Jumpscare.
+File:E-10NewScare.gif|'''E-10''''s jumpscare.
+File:E10jump.gif|'''E-10''''s Invasion Event Jumpscare.
+File:OldE-10Jum.gif|'''E-10''''s Pre Release Jumpscare.
 File:ByeE10.gif|'''E-10''' seen passing by the player in [[Section D]] during the [[Section Executive Invasion Event]].
 </gallery>
 
 ===Miscellaneous===
 <gallery>
-File:E-10 despawn p.webp|'''E-10''' despawn particle.
+File:E-10 despawn p.webp|'''E-10''' particles.
 </gallery>
 
 == Badges ==
-{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''E-10''', or [[E-60#Old|E-60]] during the E-section invasion event}}
-
-{{EntityNavBox}}
-
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=Sector Breach
+|Description=[UNOBTAINABLE]<br>Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''E-10''' or [[E-60#Old|E-60]] during the E-section invasion event.}}{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Fallbacker]]

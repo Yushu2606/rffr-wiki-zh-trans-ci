@@ -3,75 +3,252 @@
 '''Sections:'''
 {{#tag:tabber|Section A=
 '''Section A:'''
-{{BadgeSectionA|Image=Agency Badge Image.png|Name=
-[https://www.roblox.com/badges/2106297071924256/Agency Agency]|Description=The journey begins here. Step in, no turning back.|Obtainment=Join the game}}
-{{BadgeSectionA|Image=Hello Darkness (Badge).png|Name=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]|Description=My old friend|Obtainment=Open door A-500.}}
-{{BadgeSectionA|Image=Insanity. (Badge).png|Name=[https://www.roblox.com/badges/3208268682917747/Insanity Insanity.]|Description=The nightmare is almost over.|Obtainment=Open door A-900.}}
-{{BadgeSectionA|Image=A Thousand Ends (Badge).png|Name=[https://www.roblox.com/badges/2695224323145018/A-Thousand-Ends A Thousand Ends]|Description=After a long journey, you're finally free, but was it worth it? Even after all of this, you feel like something's still missing..|Obtainment=Open door A-1000.}}
+{{BadgeSectionA
+|Image=Agency Badge Image.png
+|Name=[https://www.roblox.com/badges/2106297071924256/Agency Agency]
+|Description=The journey begins here. Step in, no turning back.
+|Obtainment=Join the game.}}
+
+{{BadgeSectionA
+|Image=Hello Darkness (Badge).png
+|Name=[https://www.roblox.com/badges/2537741336616844/Hello-Darkness Hello Darkness]
+|Description=My old friend.
+|Obtainment=Open door A-500.}}
+
+{{BadgeSectionA
+|Image=Insanity. (Badge).png
+|Name=[https://www.roblox.com/badges/3208268682917747/Insanity Insanity.]
+|Description=This nightmare is almost over.
+|Obtainment=Open door A-900.}}
+
+{{BadgeSectionA
+|Image=A Thousand Ends (Badge).png
+|Name=[https://www.roblox.com/badges/2695224323145018/A-Thousand-Ends A Thousand Ends]
+|Description=After a long journey, you're finally free, but was it worth it? Even after all of this, you feel like something's still missing...
+|Obtainment=Open door A-1000.}}
 {{!}}-{{!}}
 
 Section D=
 '''Section D:'''
-{{BadgeSectionD|Image=Depth (Badge).png|Name=[https://www.roblox.com/badges/1396742298128730/Depth Depth]|Description=Wait, when did this get here?|Obtainment=Transition sections to Section D.}}
-{{BadgeSectionD|Image=Level 15 (Badge).png|Name=[https://www.roblox.com/badges/3816991823070203/Level-15 Level 15]|Description=Mining away... oh wait wrong game|Obtainment=Open door D-500.}}
-{{BadgeSectionD|Image=Caving In (Badge).png|Name=[https://www.roblox.com/badges/3062052687568452/Caving-In Caving In]|Description=Mental breakdown.|Obtainment=Open door D-900.}}
-{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=[https://www.roblox.com/badges/1278212380183451/Surface-Breach Surface Breach]|Description=Sometimes you wonder to yourself how much doing any of this mattered. you came here on your own terms, and for what?|Obtainment=Open door D-1000.}}
+{{BadgeSectionD
+|Image=Depth (Badge).png
+|Name=[https://www.roblox.com/badges/1396742298128730/Depth Depth]
+|Description=Wait, when did this get here?
+|Obtainment=Enter Section D.}}
+
+{{BadgeSectionD
+|Image=Level 15 (Badge).png
+|Name=[https://www.roblox.com/badges/3816991823070203/Level-15 Level 15]
+|Description=Mining away-<br>Nevermind, wrong game.
+|Obtainment=Open door D-500.}}
+
+{{BadgeSectionD
+|Image=Caving In (Badge).png
+|Name=[https://www.roblox.com/badges/3062052687568452/Caving-In Caving In]
+|Description=Mental breakdown.
+|Obtainment=Open door D-900.}}
+
+{{BadgeSectionD
+|Image=Surface Breach (Badge).png
+|Name=[https://www.roblox.com/badges/1278212380183451/Surface-Breach Surface Breach]
+|Description=Sometimes you wonder to yourself how much doing any of this mattered. You came here on your own terms, and for what?
+|Obtainment=Open door D-1000.}}
 {{!}}-{{!}}
 
 Section M=
 '''Section M:'''
-{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]|Description=Should I even be here???|Obtainment=Transition sections to Section M.}}
-{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=[https://www.roblox.com/badges/1892692238091680/Dark-Exchange Dark Exchange]|Description=Too far in to turn back now.|Obtainment=Open door M-500.}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=[https://www.roblox.com/badges/1786174360214330/Prohibited-Zone Prohibited Zone]|Description=THE VOICES. MAKE IT STOP.|Obtainment=Open door M-900.}}
-{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=[https://www.roblox.com/badges/3371865678357524/Emergency-Exit Emergency Exit]|Description=You've walked this far, and for what? Nobody can even find you anymore, and you're starting to think going here was a mistake.|Obtainment=Open door M-1000.}}
+{{BadgeSectionM
+|Image=NewMaintenanceBadge.png
+|Name=[https://www.roblox.com/badges/3679800893139822/Maintenance Maintenance]
+|Description=...Should I even be here?
+|Obtainment=Enter Section M.}}
+
+{{BadgeSectionM
+|Image=Dark Exchange (Badge).png
+|Name=[https://www.roblox.com/badges/1892692238091680/Dark-Exchange Dark Exchange]
+|Description=Too far in to turn back now.
+|Obtainment=Open door M-500.}}
+
+{{BadgeSectionM
+|Image=NewProhibitedZoneBadge.png
+|Name=[https://www.roblox.com/badges/1786174360214330/Prohibited-Zone Prohibited Zone]
+|Description=THE VOICES. THEY'RE EVERYWHERE. MAKE IT STOP.
+|Obtainment=Open door M-900.}}
+
+{{BadgeSectionM
+|Image=Emergency Exit (Badge).png
+|Name=[https://www.roblox.com/badges/3371865678357524/Emergency-Exit Emergency Exit]
+|Description=You've walked this far, and for what? Nobody can even find you anymore, and you're starting to think that coming here was a mistake...
+|Obtainment=Open door M-1000.}}
 {{!}}-{{!}}
 
 Unnamed Sector=
 '''Unnamed Sector:'''
-{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=[https://www.roblox.com/badges/2319768173550278/Into-The-Unknown Into The Unknown]|Description=0000|Obtainment=Enter the Unnamed Sector}}
-{{BadgeUnnamed|Image=SectorShutdown.png|Name=[https://www.roblox.com/badges/1797993421943708/Sector-Shutdown Sector Shutdown]|Description=You caused this.|Obtainment=Pick up the Strange keycard}}
-{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End The Beginning of The End.]|Description=Escape.|Obtainment=Escape from the Unnamed Sector with the Strange Keycard}}
-{{BadgeUnnamed|Image=MoneyWalks.png|Name=[https://www.roblox.com/badges/3972276384490307/Money-Walks Money Walks]|Description=0500|Obtainment=Reach door 0500 in the Unnamed Sector.}}
-{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=[https://www.roblox.com/badges/2741508110327384/I-Wasted-My-Time-For-This-Badge Wasted My Time For This Badge 👍]|Description=1000|Obtainment=Reach door 1000 in the Unnamed Sector.}}
+{{BadgeUnnamed
+|Image=IntoTheUnkownBadge.png
+|Name=[https://www.roblox.com/badges/2319768173550278/Into-The-Unknown Into The Unknown]
+|Description=0000
+|Obtainment=Open door 0000 in the Unnamed Sector.}}
+
+{{BadgeUnnamed
+|Image=SectorShutdown.png
+|Name=[https://www.roblox.com/badges/1797993421943708/Sector-Shutdown Sector Shutdown]
+|Description=You caused this.
+|Obtainment=Pick up the strange keycard.}}
+
+{{BadgeUnnamed
+|Image=TheBeginningofTheEnd.png
+|Name=[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End The Beginning of The End.]
+|Description=Escape.
+|Obtainment=Escape from the Unnamed Sector with the strange keycard}}
+
+{{BadgeUnnamed
+|Image=MoneyWalks.png
+|Name=[https://www.roblox.com/badges/3972276384490307/Money-Walks Money Walks]
+|Description=0500
+|Obtainment=Open door 0500 in the Unnamed Sector.}}
+
+{{BadgeUnnamed
+|Image=IWastedMyTimeForThisBadge.png
+|Name=[https://www.roblox.com/badges/2741508110327384/I-Wasted-My-Time-For-This-Badge I Wasted My Time For This Badge 👍]
+|Description=1000
+|Obtainment=Open door 1000 in the Unnamed Sector.}}
 {{!}}-{{!}}
 
 Section E=
 '''Section E:'''
-{{BadgeSectionE|Image=NewExecutiveBadge.png|Name=[https://www.roblox.com/badges/3582648396817910/Executive Executive]|Description=This better be worth the struggle...|Obtainment=Transition sections to Section E.}}
-{{BadgeSectionE|Image=NewPowerFailureBadge.png|Name=[https://www.roblox.com/badges/2629617543515841/Power-Failure Power Failure]|Description=How long will this go on?|Obtainment=Open door E-500.}}
-{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=[https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction Executive Dysfunction]|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
-{{BadgeSectionE|Image=NewE1000Badge.png|Name=[https://www.roblox.com/badges/422145928078685/E-1000 E-1000]|Description=The E-1000 Ending has not yet been added. and yet, you keep pushing on for a nil purpose. You cant remember why you came here but it seems like you're about to find out.|Obtainment=Open door E-1000.}}
+{{BadgeSectionE
+|Image=NewExecutiveBadge.png
+|Name=[https://www.roblox.com/badges/3582648396817910/Executive Executive]
+|Description=This better be worth the struggle...
+|Obtainment=Enter Section E.}}
+
+{{BadgeSectionE
+|Image=NewPowerFailureBadge.png
+|Name=[https://www.roblox.com/badges/2629617543515841/Power-Failure Power Failure]
+|Description=How long will this go on?
+|Obtainment=Open door E-500.}}
+
+{{BadgeSectionE
+|Image=NewExecutiveDysfunctionBadge.png
+|Name=[https://www.roblox.com/badges/1759811347503438/Executive-Dysfunction Executive Dysfunction]
+|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
+
+{{BadgeSectionE
+|Image=NewE1000Badge.png
+|Name=[https://www.roblox.com/badges/422145928078685/E-1000 E-1000]
+|Description=The E-1000 Ending has not yet been added.<br>...And yet, you keep pushing on for a nil purpose. You can't remember why you came here, but it seems like you're about to find out.
+|Obtainment=Open door E-1000.}}
 }}
 
 |-|Entities=
 '''Entities:'''
-{{Badge|Image=Hi Jimmy (Badge).png|Name=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy Hi Jimmy]|Description=Well that was unnecessary.|Obtainment=Be jumpscared by [[Jimmy]].}}
-{{BadgeSectionD|Image=ProtocolProcedureBadge.png|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure Protocol Procedure]|Description=Exit room D-200.|Obtainment=Beat [[D-200]]'s boss fight.}}
-{{BadgeSectionD|Image=Invasion EvasionNew.png|Name=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion]|Description=Wonder what that was all about. Encounter and survive the rare entity D-60i|Obtainment=Encounter and Survive [[D-60i]].}}
-{{BadgeSectionM|Image=M120iPlaceholderBadge.png|Name=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria Phantasmagoria]|Description=Encounter and survive an attack from ?????i|Obtainment=Encounter and Survive [[M-120i]].}}
-{{BadgeUnnamed|Image=Clipped Wings.png|Name=[https://www.roblox.com/badges/2106200052589204/Clipped-Wings Clipped Wings]|Description=So close, yet so far.|Obtainment=Die during [[Mouth|False-300]]'s chase}}
-{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]|Description=Why must this happen to me.|Obtainment=Encounter and survive [[D-60ii]].}}
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Alpha_&_Shadowpocalypse|Lapse Entity]].}}
-{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]|Description=Meet #-##. This does nothing lol.|Obtainment=Encounter and survive [[Unknown Entity|"Unknown Entity"]]}}
+{{Badge
+|Image=Hi Jimmy (Badge).png
+|Name=[https://www.roblox.com/badges/1543476622987450/Hi-Jimmy Hi Jimmy]
+|Description=Well that was unnecessary.
+|Obtainment=Encounter [[Jimmy]].}}
+
+{{BadgeSectionD
+|Image=ProtocolProcedureBadge.png
+|Name=[https://www.roblox.com/badges/2015247989941333/Protocol-Procedure Protocol Procedure]
+|Description=Exit room D-200.
+|Obtainment=Beat [[D-200]]'s boss fight.}}
+
+{{BadgeSectionD
+|Image=Invasion EvasionNew.png
+|Name=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion Invasion Evasion]
+|Description=Wonder what that was all about.<br><br>Encounter and survive "The Invader".
+|Obtainment=Encounter and Survive [[D-60i]].}}
+
+{{BadgeSectionM
+|Image=M120iPlaceholderBadge.png
+|Name=[https://www.roblox.com/badges/4360216708836603/UNOBTAINABLE-Phantasmagoria Phantasmagoria]
+|Description=Encounter and survive an attack from ?????i
+|Obtainment=Encounter and Survive [[M-120i]].}}
+
+{{BadgeUnnamed
+|Image=Clipped Wings.png
+|Name=[https://www.roblox.com/badges/2106200052589204/Clipped-Wings Clipped Wings]
+|Description=So close, yet so far.
+|Obtainment=Die during [[Mouth|False-300]]'s chase.}}
+
+{{Badge
+|Image=D60iiohno.png
+|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]
+|Description=Why must this happen to me.
+|Obtainment=Encounter and survive [[D-60ii]].}}
+
+{{Badge
+|Image=Lapse of Judgment (Badge).png
+|Name=[https://www.roblox.com/badges/3542448201315056/Lapse-of-Judgment Lapse of Judgment]
+|Description=Encounter a... that’s not a ###### entity what is this bro.
+|Obtainment=Encounter and survive a [[Entities#Modifier_Exclusive_Entities|Lapse Entity]].}}
+
+{{Badge
+|Image=CongratsYouGotGoodRNG.png
+|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]
+|Description=Meet #-##.<br><br>This does nothing lol.
+|Obtainment=Encounter and survive [[Unknown Entity|"Unknown Entity"]].}}
 
 |-|Other=
 '''Other:'''
-{{Badge|Image=One of Many (Badge).png|Name=[https://www.roblox.com/badges/4424987589126515/One-of-Many One of Many]|Description=With many more to come.|Obtainment=Die for the first time.}}
-{{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks Insanity? No thanks.]|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
-{{Badge|Image=666 666 666 (Badge).png|Name=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons|Obtainment=Complete The [[Shadow Challenge]].}}
-{{Badge|Image=The Apocalypse (Badge).png|Name=[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse]|Description="Is.. Is it over yet..?" You weren’t supposed to last this long. Enable and survive the "Alpha & Shadowpocalypse" modifier.|Obtainment=Reach door 1000, or Survive 3 [[SHA-200]]s with the [[Alpha & Shadowpocalypse]] Modifier Enabled.}}
-{{Badge|Image=Placeholder Badge.png|Name=[https://www.roblox.com/badges/3106979344724057/ERR-NXT-UPD ERR_NXT_UPD]|Description=An eternal walk, along with an eternal fight. There is nowhere else for me to go but forward. I've lost everything. Even the one thing I came into this building with. Gone. Shattered. Just like that. All I have left is my own body, but for how much longer. Is there even a point to keep going when all this is doing is driving me insane.
-I want to break free, but I can't. I can't as long as this greater power watches every move. 
-I'm trapped and there's nobody to pull me out of this madness. Not even the one that I thought would be my savior from everything.|Obtainment=Unknown}}
+{{Badge
+|Image=One of Many (Badge).png
+|Name=[https://www.roblox.com/badges/4424987589126515/One-of-Many One of Many]
+|Description=With many more to come.
+|Obtainment=Die for the first time.}}
+
+{{Badge
+|Image=Insanity?NoThanks.png
+|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks Insanity? No thanks.]
+|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.
+|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
+
+{{Badge
+|Image=666 666 666 (Badge).png
+|Name=[https://www.roblox.com/badges/4131053823315380/666-666-666 666 666 666]
+|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons.
+|Obtainment=Complete The [[Shadow Challenge]].}}
+
+{{Badge
+|Image=The Apocalypse (Badge).png
+|Name=[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocalypse]
+|Description="Is.. Is it over yet..?"<br>You weren’t supposed to last this long.<br>Enable the "Alpha & Shadowpocalypse" modifier, and survive until the end.
+|Obtainment=Reach door 1000 or Survive 3 [[SHA-200]]s with the [[Alpha & Shadowpocalypse]] Modifier Enabled.}}
+
+{{Badge
+|Image=Placeholder Badge.png
+|Name=[https://www.roblox.com/badges/3106979344724057/N-P-L-E #N####P##L#_####E]
+|Description=COULD_NOT_LOAD_BADGE_INFO<br><br>Come forth, join us in your final standoff.
+|Obtainment=Unknown.}}
 
 |-|Limited=
 '''Limited:'''
-{{BadgeSectionE|Image=SectorBreach.png|Name=[https://www.roblox.com/badges/3124983362195746/Sector-Breach Sector Breach]|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]], or [[E-60#Old|E-60]] during the E-section invasion event}}
-{{Badge|Image=Beatificvision.png|Name=[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision]|Description=Encounter HIM. Awarded for completing the April Fools 2024 event. (...Or maybe it's obtainable after all?)|Obtainment='''[UNOBTAINABLE]'''<br>Encounter [[Gato]] by reaching I-500 during the 2024 April Fools Event in the Original<br>'''Rooms: Found Footage'''}}
-{{BadgeSectionM|Image=Isecinvasion.png|Name=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here Are You Supposed To Be Here?]|Description=This badge was previously obtainable during the "I-Section Invasion" event for surviving an attack from I-60 within the A-Section or D-Section. It has been retired and is no longer available.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[M-60#Section_UI|I-60]] during the I-Section Invasion Event in the Original<br>'''Rooms: Found Footage'''}}
-{{BadgeSectionD|Image=Dsecinvasion.png|Name=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here]|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], [[D-35]], or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=[https://www.roblox.com/badges/3124983362195746/Sector-Breach Sector Breach]
+|Description=[UNOBTAINABLE]<br>Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]] or [[E-60#Old|E-60]] during the E-section invasion event.}}
+
+{{Badge
+|Image=Beatificvision.png
+|Name=[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision]
+|Description=Encounter HIM. Awarded for completing the April Fools 2024 event. (...Or maybe it's obtainable after all?)
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter [[Gato]] by reaching I-500 during the 2024 April Fools Event in the Original<br>'''Rooms: Found Footage'''.}}
+
+{{BadgeSectionM
+|Image=Isecinvasion.png
+|Name=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here Are You Supposed To Be Here?]
+|Description=This badge was previously obtainable during the "I-Section Invasion" event for surviving an attack from I-60 within the A-Section or D-Section. It has been retired and is no longer available.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[M-60#Section_UI|I-60]] during the I-Section Invasion Event in the Original<br>'''Rooms: Found Footage'''.}}
+
+{{BadgeSectionD
+|Image=Dsecinvasion.png
+|Name=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here]
+|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], [[D-35]], or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''.}}
 
 </tabber>
-
 {{BrowseNavBox}}
 [[Category:Browsing]]

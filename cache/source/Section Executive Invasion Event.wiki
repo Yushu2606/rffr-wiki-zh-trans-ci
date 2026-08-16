@@ -19,10 +19,10 @@ The '''Section Executive Invasion Event''' was an event that started on 08/17/25
 ==Entities==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E60anim.gif|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60anim.gif|center|150px|link=E-60#Old|E-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60#Old|E-60]]
 {{!}}}
 
 ==Gallery==
@@ -56,7 +56,11 @@ SectorBreachAwarded.jpg|A player being awarded the Sector Breach Badge
 * [[E-60]] got his design changed mid-event
 
 ==Badges==
-{{BadgeSectionE|Image=SectorBreach.png|Name=Sector Breach|Description=[UNOBTAINABLE] Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]], or [[E-60#Old|E-60]] during the E-section invasion event}}
+{{BadgeSectionE
+|Image=SectorBreach.png
+|Name=Sector Breach
+|Description=[UNOBTAINABLE]<br>Encounter and survive one of two unexpected anomalies from unknown origin in any section, THEY may not show up even after thousands of rooms...
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[E-10]] or [[E-60#Old|E-60]] during the E-section invasion event.}}
 
 {{BrowseNavBox}}
 [[Category:Browsing]]

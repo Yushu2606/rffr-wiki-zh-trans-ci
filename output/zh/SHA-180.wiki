@@ -1,8 +1,8 @@
-{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #ce0afb, -1.5px 0.66px 2px #ce0afb; color: black;">SHA-180（重复者）</span>}}{{Headphones}}{{InfoBox:Entity
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #ce0afb, -1.5px 0.66px 2px #ce0afb; color: black;">SHA-180（重复者）</span>}}{{Headphones}}{{InfoBox:Entity
 |entity_name=SHA-180
 |entity_image=<gallery>
-File:SHA-180_str_New_design.webp|新设计
-Sha180.webp|旧设计
+File:SHA-180 str New design.png|新设计
+Sha180.png|旧设计
 </gallery>
 |previous_entity=[[SHA-140]] ([[Shadow Challenge|暗影挑战]])<br>[[SHA-150]] ([[Alpha & Shadowpocalypse|阿尔法&暗影灾变]])
 |next_entity=[[SHA-200]]
@@ -24,7 +24,7 @@ Sha180.webp|旧设计
 '''SHA-180'''是可在[[Shadow Challenge|暗影挑战]]和[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符中遇到的众多暗影实体之一，是现已Removed的实体[[D-180]]的受感染对应体。
 
 == 行为 ==
-生成后，'''SHA-180'''会发出类似引擎轰鸣的巨大叫声，随后以极快速度向前冲刺，破门后会缓慢退回到虚空墙后方。它最多反弹4次。每次反弹时，它的巨大尖叫都会吸引其他实体，因此有几率召唤[[SHA-1]]或[[SHA-2]]。在最后一次反弹结束后，它接触到主房间的门时就会消失。
+生成后，'''SHA-180'''会发出类似引擎轰鸣的巨大叫声，随后以极快速度向前冲刺，破门后会缓慢退回到虚空墙后方。它最多反弹4次。每次反弹时，它的巨大尖叫都会吸引其他实体，因此有几率召唤[[SHA-1]]、[[SHA-2]]或[[SHA-200]]。在最后一次反弹结束后，它接触到主房间的门时就会消失。
 
 == 攻略与提示 ==
 
@@ -35,21 +35,22 @@ Sha180.webp|旧设计
 * 当'''SHA-180'''破门时，在柜子里多待一会儿，以防[[SHA-2]]生成。不过你也可以走出柜子再重新进去，避免受到[[Claustrophobia|幽闭恐惧]]的伤害。
 
 == 琐事 ==
-
 * '''SHA-180'''是两个没有现存活跃未感染对应体的暗影感染实体之一，另一个是[[SHA-7]]。
 * '''SHA-180'''是速度第二快的暗影实体，仅次于[[SHA-85]]。
+* '''SHA-180'''会等待[[SHA-200]]消失后才返回主房间。
+** 这很可能是为了防止与[[SHA-1]]形成不可能应对的组合。
 * '''SHA-180'''是唯一一个在[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]修饰符中不会提升生成概率的暗影感染实体，反而生成概率会低得多。
 ** 因此，'''SHA-180'''并不一定会在[[Alpha & Shadowpocalypse|阿尔法&暗影灾变]]中生成。
 ** 与之相对的是，'''SHA-180'''在[[Shadow Challenge|暗影挑战]]中要常见得多。
-* 如果你运气足够差，'''SHA-180'''可能会生成[[SHA-200]]，但后者会等到前者消失后才会开始反弹。
+* 如果你足够倒霉，'''SHA-180''' 可以生成 [[SHA-200]]，但他会等到 SHA-200 消失后才会再次反弹。
 
-== 画廊 ==
+== Gallery ==
 <gallery>
-File:Ingame_180.webp|'''SHA-180'''的新设计游戏内实装外观
-File:Boo180.gif|'''SHA-180''' 在[[Shadow Challenge|暗影挑战]]中被目击到正在攻击
+File:Ingame 180.png|'''SHA-180'''<nowiki/>在游戏中的新设计
+File:Boo180.gif|'''SHA-180''' 在[[暗影挑战]]期间被看到发起攻击
 </gallery>
-[[Category:Shadow Entities|暗影实体]]
-[[Category:Rusher|冲刺者]]
-[[Category:Rebounder|反弹者]]
-[[Category:Loud Entities|Loud Entities（高噪声实体）]]
-[[Category:Snipeless|Snipeless（不可狙击）]]
+[[Category:Shadow Entities]]
+[[Category:Rusher]]
+[[Category:Rebounder]]
+[[Category:Loud Entities]]
+[[Category:Snipeless]]

@@ -41,6 +41,8 @@ If a player is to approach the instance, '''E-120''' deals damage varying on the
 
 ==Trivia==
 * As stated by [[Oblivion]] in Misleading Darkness, if '''E-120''' wasn't blind, it would have killed every player that it'll see. 
+* E-120 and [[False-120]] are the only 120 entities that dont have drumming sounds in their ambience.
+* E-120 is the only (technically) blind entity within the entire game
 
 ==Gallery==
 
@@ -52,10 +54,7 @@ File:E-120 jumpscare.gif|'''E-120'''<nowiki/>'s jumpscare
 ===Miscellaneous===
 <gallery>
 File:RenoE-120.gif|'''E-120''' concept design
-</gallery>
-
-{{EntityNavBox}}
-
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Weapon Affected]]

@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60 (Doppel)</span>}}
 {{ArticleBackground|File=Unnamed .png}}
 {{InfoBox:Entity
 |entity_name=False-60
@@ -26,7 +26,7 @@ F606.png|6th Face
 |sound2=<center>Far Ambience</center><center>[[File:F60far.mp3]]</center>
 |sound3=<center>Close Ambience '''(LOUD)'''</center><center>[[File:F60Close.mp3]]</center>
 |sound4=<center>Old Close Ambience</center><center>[[File:F60near.mp3]]</center>
-|sound5=<center>Jumpscare</center><center>[[File:F60jump.mp3]]</center>}}
+|sound5=<center>Jumpscare</center><center>[[File:F60jump.mp3]]</center>|nicknames=Doppel}}
 
 ==Description==
 '''False-60''', the False version of [[A-60]], will be one of the many entities you may find within the [[Unnamed Sector]] or rarely after Door 500 in any other section.

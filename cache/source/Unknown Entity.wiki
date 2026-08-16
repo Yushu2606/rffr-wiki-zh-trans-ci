@@ -1,4 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;"> #-## (???)</span>}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{Stub}}
 {{NoteBox|note=Please note that a LOT of info here might be wrong as we only have a single logged sighting of this entity}}
 {{InfoBox:Entity
@@ -31,7 +32,8 @@ The lockers containing poison will damage any players rapidly if they are inside
 * ???
 
 == Trivia ==
-This unknown entity was confused to be '''R-60''', however according to [[User:ItsKevHer3|ItsKevHer3]] it isn't.
+
+* This unknown entity was confused to be '''R-60''', however according to [[User:ItsKevHer3|ItsKevHer3]] it isn't.
 
 == Gallery ==
 <gallery>
@@ -39,7 +41,11 @@ R60poisencabinet.jpg|A brown cabinet filled with poison.
 </gallery>
 
 == Badges ==
-{{Badge|Image=CongratsYouGotGoodRNG.png|Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]|Description=Meet #-##. This does nothing lol.|Obtainment=Encounter and survive '''#-##'''}}
+{{Badge
+|Image=CongratsYouGotGoodRNG.png
+|Name=Congrats, You Got Good RNG
+|Description=Meet #-##.<br><br>This does nothing lol.
+|Obtainment=Encounter and survive '''"Unknown Entity"'''.}}
 
 
 {{EntityNavBox}}

@@ -17,7 +17,7 @@
 '''False-200''' will be one of the many Entities you will find within the [[Unnamed Sector]],  it being the False version of [[A-200]]
 
 ==Mechanics==
-'''False-200''' will make a loud thud when spawning before starting to flicker every light in the unnamed sector randmonly. After a few seconds it will start teleporting to the nearest unhidden player, if there are no players to target it will simply target to void wall. To despawn '''False-200''', you have to open 2-4 doors.
+'''False-200''' will make a loud thud when spawning before starting to flicker every light in the unnamed sector randmonly. After a few seconds it will start teleporting to the nearest unhidden player, going through walls to do so, if there are no players to target it will simply target to void wall. To despawn '''False-200''', you have to open 2-4 doors.
 
 == Strategy & Tips ==
 * '''False-200''''s speed is determined by how far he is to a player, he will be slower the closer he is. Use this to your advantage!

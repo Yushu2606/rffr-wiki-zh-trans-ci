@@ -118,11 +118,29 @@ Prohibited Zone (Badge).png|Old "Prohibited Zone" Badge icon
 * [https://youtu.be/NvWbZ1qtFe0?si=ZzhIS3y_N-dBaF7r Update Executive Teaser 8]
 
 ==Badges==
-{{BadgeSectionM|Image=NewMaintenanceBadge.png|Name=Maintenance|Description=Should I even be here???|Obtainment=Transition sections to Section M.}}
-{{BadgeSectionM|Image=Dark Exchange (Badge).png|Name=Dark Exchange|Description=Too far in to turn back now.|Obtainment=Open door M-500.}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=Prohibited Zone|Description=THE VOICES. MAKE IT STOP.|Obtainment=Open door M-900.}}
-{{BadgeSectionM|Image=Emergency Exit (Badge).png|Name=Surface Breach|Description=The M-1000 ending is not yet implemented. You've walked this far, and for what? Nobody can even find you anymore, and you're starting to think going here was a mistake.|Obtainment=Open door M-1000.}}
+{{BadgeSectionM
+|Image=NewMaintenanceBadge.png
+|Name=Maintenance
+|Description=...Should I even be here?
+|Obtainment=Enter Section M.}}
+
+{{BadgeSectionM
+|Image=Dark Exchange (Badge).png
+|Name=Dark Exchange
+|Description=Too far in to turn back now.
+|Obtainment=Open door M-500.}}
+
+{{BadgeSectionM
+|Image=NewProhibitedZoneBadge.png
+|Name=Prohibited Zone
+|Description=THE VOICES. THEY'RE EVERYWHERE. MAKE IT STOP.
+|Obtainment=Open door M-900.}}
+
+{{BadgeSectionM
+|Image=Emergency Exit (Badge).png
+|Name=Emergency Exit
+|Description=You've walked this far, and for what? Nobody can even find you anymore, and you're starting to think that coming here was a mistake...
+|Obtainment=Open door M-1000.}}
 
 {{BrowseNavBox}}
-
 [[Category:Sections]]

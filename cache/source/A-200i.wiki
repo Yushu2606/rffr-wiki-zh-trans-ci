@@ -1,9 +1,9 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue, 0 0 5px blue, 0 0 5px blue, 0 0 5px cyan, 0 0 5px cyan; color: cyan;">A-200i (Insidæ Prime)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px #0022FF, 0 0 5px #0022FF, 0 0 5px #0022FF, 0 0 5px #006DF8, 0 0 5px #006DF8; color: #006DF8;">A-200i (Insidæ Prime)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
 {{InfoBox:Entity|entity_name=[[File:A-200iPlaceholder.gif|frameless|link=A-200i]]|entity_image=<gallery>
 BlueRenovatedWater.gif|Current Design
 BlueAir Renovated.gif|Old/Legacy Design
-A-200ijumpscare.png|Old Jumpscare Design
+A-200ijumpscare.png|True Legacy Design
 </gallery>
 |previous_entity=[[A-200]]
 |next_entity=[[Mouth|A-300]]<br>[[D-5]]

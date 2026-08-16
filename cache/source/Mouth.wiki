@@ -118,6 +118,7 @@ Section E=
 *actually, mouth does give a warning: its a faint, growling noise behind the door.
 **the growling is more noticeable in e sec
 *mouth cannot spawn in the redrooms nor with D-60i
+*currently, mouth is way more difficult in d, m, and e sections mainly due to crawlspaces
 * DEVOUR OST (Chase theme)
 ** https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyMraycast
 * Mouth's Jumpscare comes from Shattered Chica  In Five Nights At Freddy's: Security Breach
@@ -134,8 +135,11 @@ File:ESectionMouthJumpscare.gif|Jumpscare ([[Section E]])
 File:MouthMessage.png|The message the player gets when trying to open a door with Mouth behind it.
 </gallery>
 
-<h2>Badges</h2>
-{{BadgeUnnamed|Image=Clipped Wings.png|Name=Clipped Wings|Description=So close, yet so far.|Obtainment=Die during '''False-300''''s chase.}}
+{{BadgeUnnamed
+|Image=Clipped Wings.png
+|Name=Clipped Wings
+|Description=So close, yet so far.
+|Obtainment=Die during [[Mouth|False-300]]'s chase.}}
 
 |-|Section UI=
 '''Section UI:'''

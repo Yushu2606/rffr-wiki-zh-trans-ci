@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>}}
-{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
 {{Modifier Exclusive|[[Super Epic Mode]]}}
-{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.webp|frameless|link=UI-315]]|entity_image=<gallery>
-UI315.webp|动画复刻
-BetterUI-315.webp|设计稿
-Black315.webp|暗色设计稿
+{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.gif|frameless|link=UI-315]]|entity_image=<gallery>
+UI315.gif|动画复刻
+BetterUI-315.png|设计稿
+Black315.png|暗色设计稿
 </gallery>
 |previous_entity=[[UI-269]]
 |next_entity=[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
@@ -17,18 +17,18 @@ Black315.webp|暗色设计稿
 |sound3=<center>环境音效</center><center>[[File:UI-315ambi.mp3]]</center>}}
 
 == 描述 ==
-'''UI-315'''是[[Section UI]]前400个房间中出现的第13个也是最后一个实体，更多关于'''UI-315'''的信息如下。
+'''UI-315'''将是[[Section UI]]前400个房间中出现的第13个也是最后一个实体，更多关于'''UI-315'''的信息如下。
 
 == 行为 ==
-当'''UI-315'''生成时，它会播放名为“Horror Race”的乐曲，和所有其他存在于I区的实体一致。如果当前有更多实体存在，它会播放同一首歌，但音高更高、速度更快。
+当'''UI-315'''生成时，它会播放名为"Horror Race"的乐曲，和所有其他存在于本区的实体一致。如果当前有更多实体存在，它会播放同一首歌，但音高更高、速度更快。
 
-'''UI-315'''会停在当前房间的中心，发出扭曲的笑声，笑声停止后它会检查生成房间内的所有柜子，检查完柜子后，它会回到房间中央，朝门的方向移动，随后后退，穿过虚空墙后消失。
+'''UI-315'''会停在当前房间的中心，发出扭曲的笑声，几秒后检查它生成房间内的所有柜子。检查完柜子后，它会回到房间中央，朝门的方向移动，随后后退，穿过虚空墙后消失。
 
 == 攻略与技巧 ==
 听到它的声音后你应该立刻躲进之前的房间，保持躲藏状态直到它后退离开为止。
 
 == 冷知识 ==
-* 有意思的是，根据其制作者Mr_Bird的说法，'''UI-315'''的环境音效是经过重度失真处理的“raining tacos”歌曲。
+* 有意思的是，根据其制作者[[User:XYZ123lose|Mr_Bird]]的说法，'''UI-315'''<nowiki/>的环境音效是经过重度失真处理的"raining tacos"歌曲。
 * 和大多数UI区实体一样，'''UI-315'''是作为玩笑内容添加的，随[[Super Epic Mode]]一同上线。
 * '''UI-315'''是[[Section UI]]中唯一一个有可听见生成音效的实体（[[Gato]]不纳入统计）。
 

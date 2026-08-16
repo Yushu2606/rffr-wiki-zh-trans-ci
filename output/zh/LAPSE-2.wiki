@@ -35,8 +35,12 @@ TBA
 == 画廊 ==
 <gallery>
 File:L2 ingame.gif|'''LAPSE-2'''短暂经过的画面（低画质）
-File:L-2_ingame_2.gif.webp|同上，但画面更清晰。
+File:L-2 ingame 2.gif.gif|同上，但画面更清晰。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=判断失误|Description=遇到了一个……这根本不是######实体啊兄弟这是什么？|Obtainment=遇到并在[[Entities#Lapse_Entities|Lapse实体]]的攻击下存活。}}
+{{Badge
+|Image=Lapse of Judgment (Badge).png
+|Name=判断失误
+|Description=遇到了一个……这根本不是######实体啊兄弟这是什么？
+|Obtainment=遇到并在[[Entities#Modifier_Exclusive_Entities|Lapse实体]]的攻击下存活。}}

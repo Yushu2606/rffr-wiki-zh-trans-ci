@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 4px #FF0000; color: black;">False-60 (Doppel)</span>}}
 {{ArticleBackground|File=Unnamed .png}}
 {{InfoBox:Entity
 |entity_name=False-60
@@ -26,7 +26,7 @@ F606.png|第六张脸
 |sound2=<center>远处环境音</center><center>[[File:F60far.mp3]]</center>
 |sound3=<center>近处环境音'''（音量大）'''</center><center>[[File:F60Close.mp3]]</center>
 |sound4=<center>旧版近处环境音</center><center>[[File:F60near.mp3]]</center>
-|sound5=<center>跳杀音效</center><center>[[File:F60jump.mp3]]</center>}}
+|sound5=<center>跳杀音效</center><center>[[File:F60jump.mp3]]</center>|nicknames=Doppel}}
 
 ==描述==
 '''False-60'''是[[A-60]]的仿制版本，是你在[[Unnamed Sector|无名区域]]内可能遇到的众多实体之一，极少数情况下会在任意其他区的500号门后出现。

@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
-{{Headphones}}
 {{Redesign|Helical|Unknown}}
 {{DesignNotAllowed|design=Upcoming Jumpscare Design|reason=Designer's Request|exceptions=N/A}}
 {{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-20]]
 |next_entity=[[D-35i]]<br>[[D-55]]
@@ -64,10 +64,13 @@ LegacyD35.gif|Legacy Mode Design
 </gallery>
 
 == Badges ==
-{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], '''D-35''', or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
+{{BadgeSectionD
+|Image=Dsecinvasion.png
+|Name=You’re Not Supposed To Be Here
+|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive [[D-5#Invasion|D-5]], '''D-35''', or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''.}}
 
 {{EntityNavBoxSectionD}}
-
 [[Category:Entities]]
 [[Category:Section D]]
 [[Category:Rusher]]

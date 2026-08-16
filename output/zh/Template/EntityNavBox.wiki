@@ -20,7 +20,7 @@
 ! colspan="2" width="15%" style="background: #d90b0b;"class="navigation-class" |<center>D区</center>
 |-
 ! width="15%" style="background: #4a372f;" |<center>常规</center>
-| class="navigation-links" |[[D-5]] • [[D-20]] • [[D-35]] • [[D-55]] • [[D-60]] • [[D-120]] • [[D-140]] • [[D-200]] • [[D-250]]
+| class="navigation-links" |[[D-5]] • [[D-20]] • [[D-35]] • [[D-55]] • [[D-60]] • [[D-120]] • [[D-140]] • [[D-175]] • [[D-200]] • [[D-250]]
 |-
 ! width="15%" style="background: #4a372f;" |<center>I型变体</center>
 | class="navigation-links" |[[D-5i]] • [[D-35i]] • [[D-55i]] • [[D-60i]]
@@ -54,7 +54,7 @@
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>其他</center>
 |-
 ! width="15%" style="background: #585966;" |<center>所有分区</center>
-| class="navigation-links" |[[Claustrophobia|幽闭恐惧]] • [[Mouth]] • [[Void|虚空]] • [[Jimmy]] • [[Oblivion]] • [[Overseer]]
+| class="navigation-links" |[[Claustrophobia|幽闭恐惧]] • [[Mouth]] • [[Void|虚空]] • [[Jimmy]] • [[Oblivion]] • [[Overseer]] • [[Unknown Entity|#-##]]
 |-
 ! width="15%" style="background: #585966;" |<center>无分区</center>
 | class="navigation-links" |[[Endellion]] • [[Goober-200]]
@@ -62,7 +62,7 @@
 ! colspan="2" width="15%" style="background: #4A176B;"class="navigation-class" |<center>暗影挑战</center>
 |-
 ! width="15%" style="background: #661b96;" |<center>普通</center>
-| class="navigation-links" |[[SHA-30]] • [[SHA-35]] • [[SHA-55]] • [[SHA-60]] • [[SHA-85]] • [[SHA-180]] • [[SHA-200]] • [[SHA-300]]
+| class="navigation-links" |[[SHA-30]] • [[SHA-35]] • [[SHA-55]] • [[SHA-60]] • [[SHA-85]] • [[SHA-120]] • [[SHA-140]] • [[SHA-180]] • [[SHA-200]] • [[SHA-300]]
 |-
 ! width="15%" style="background: #661b96;" |<center>专属</center>
 | class="navigation-links" |[[SHA-1]] • [[SHA-2]] • [[SHA-3]] • [[SHA-4]]
@@ -76,13 +76,13 @@
 ! colspan="2" width="15%" style="background: #00FF59;"class="navigation-class" |<center>Super Epic Mode（超级史诗模式）</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A|A区]]</center>
-| class="navigation-links" |[[A-20ii]] • [[Dorito|Dorito（多力多滋）]] • [[A-200ii]]
+| class="navigation-links" |[[A-20ii]] • [[Dorito|Dorito（玉米片）]] • [[A-200ii]]
 |-
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D|D区]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange|Section Interchange（互通区）]]</center>
-| class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
+! width="15%" style="background: #1C4051;" |<center>[[Section UI|UI区]]</center>
+| class="navigation-links" |[[UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>其他</center>
 | class="navigation-links" |[[Pipe Bomb|Pipe Bomb（管道炸弹）]]
@@ -94,7 +94,7 @@
 | class="navigation-links" |[[M-120i]] • [[M-340]]
 |}
 {| class="mw-collapsible mw-collapsed" data-expandtext="▼" data-collapsetext="▲" style="border-collapse: collapse; width:100%; text-align: left"
-! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>已废弃/Removed</center>
+! colspan="2" width="15%" style="background: #090f4f;"class="navigation-class" |<center>废弃/Removed</center>
 |-
 ! width="15%" style="background: #d0db58;" |<center>[[Section A|A区]]</center>
 | class="navigation-links" |[[Old A-60i|A-60i <small>（旧版）</small>]] • [[A-165]]
@@ -112,7 +112,7 @@
 ! colspan="2" width="15%" style="background: #b531de;"class="navigation-class" |<center>Admin</center>
 |-
 ! width="15%" style="background: #8522a3;" |<center>常规</center>
-| class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[A-20ii]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]] • [[D-60ii]]
+| class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]]
 |}
 |}
 |}

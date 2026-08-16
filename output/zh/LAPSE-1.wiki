@@ -51,7 +51,11 @@ RedFull.jpg|被'''LAPSE-1'''完全高亮的柜子。
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment（判断失误）|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？|Obtainment=遇到任意[[Entities#Lapse_Entities|Lapse实体]]并成功存活。}}
+{{Badge
+|Image=Lapse of Judgment (Badge).png
+|Name=Lapse of Judgment（判断失误）
+|Description=遇到一个……这根本不是啥######实体啊兄弟这是啥？
+|Obtainment=遇到任意[[Entities#Modifier_Exclusive_Entities|Lapse实体]]并成功存活。}}
 
 [[Category:Rusher]]
 [[Category:Locker Checker]]

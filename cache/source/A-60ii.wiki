@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">A-60ii (Omega Multi-Faced Monster)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime; color: green;">A-60ii (Omega Multi-Faced Monster)</span>}}
 {{SectionAStub}}
 {{HeadphonesNotice}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}

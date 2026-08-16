@@ -20,7 +20,7 @@ File:A-200 Open Beta.gif|Open Beta Design
 |type=Fallbacker<br>Rebounder<br>Aimscripter (Chaos Mode)
 |behavior=spawn from behind the door and backtracks, turning around if theres a player not hiding
 |damage=Instant Death (Instant Death locker snipe)
-|speed=60 studs/s (1rps), or 96 studs/s in red rooms (1.6rps)
+|speed=Slow (1.25 rooms per second) (75 studs per second)
 |related_monsters=[[A-120]] (Similar mechanic) 
 [[A-200i]] (Prime Variant)
 |sound1=<center>Knocking Sound</center><center>[[File:A200Knock.mp3]]</center>
@@ -29,7 +29,7 @@ File:A-200 Open Beta.gif|Open Beta Design
 |sound4=<center>Close Ambience</center><center>[[File:A200CLOSE.mp3]]</center>
 |sound5=<center>Despawn</center><center>[[File:A200Despawn.mp3]]</center>
 |sound6=<center>Despawn [[Legacy Mode]]/[[True Legacy Mode]]</center><center>[[File:A200DespawnTL.mp3]]</center>
-|sound7=<center>Jumpscare</center><center>[[File:A-200JumpscareEcho.mp3]]</center>}}
+|sound7=<center>[VERY LOUD WARNING] Jumpscare</center><center>[[File:A-200JumpscareEcho.mp3]]</center>}}
 
 ==Description==
 *'''A-200''' is an [[A-120]]-like entity, rebounding is a similar fashion, however with a twist. '''A-200''' has a Smart-Rebound system, where if a player is not hiding, it will not directly chase them, but will instead turn around.

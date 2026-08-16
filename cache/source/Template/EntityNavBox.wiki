@@ -20,7 +20,7 @@
 ! colspan="2" width="15%" style="background: #d90b0b;"class="navigation-class" |<center>Section D</center>
 |-
 ! width="15%" style="background: #4a372f;" |<center>Regular</center>
-| class="navigation-links" |[[D-5]] • [[D-20]] • [[D-35]] • [[D-55]] • [[D-60]] • [[D-120]] • [[D-140]] • [[D-200]] • [[D-250]]
+| class="navigation-links" |[[D-5]] • [[D-20]] • [[D-35]] • [[D-55]] • [[D-60]] • [[D-120]] • [[D-140]] • [[D-175]] • [[D-200]] • [[D-250]]
 |-
 ! width="15%" style="background: #4a372f;" |<center>I Variations</center>
 | class="navigation-links" |[[D-5i]] • [[D-35i]] • [[D-55i]] • [[D-60i]]
@@ -53,7 +53,7 @@
 ! colspan="2" width="15%" style="background: #6a6c7d;"class="navigation-class" |<center>Other</center>
 |-
 ! width="15%" style="background: #585966;" |<center>All Sections</center>
-| class="navigation-links" |[[Claustrophobia]] • [[Mouth]] • [[Void]] • [[Jimmy]] • [[Oblivion]] • [[Overseer]]
+| class="navigation-links" |[[Claustrophobia]] • [[Mouth]] • [[Void]] • [[Jimmy]] • [[Oblivion]] • [[Overseer]] • [[Unknown Entity|#-##]]
 |-
 ! width="15%" style="background: #585966;" |<center>No Sections</center>
 | class="navigation-links" |[[Endellion]] • [[Goober-200]]
@@ -61,7 +61,7 @@
 ! colspan="2" width="15%" style="background: #4A176B;"class="navigation-class" |<center>Shadow Challenge</center>
 |-
 ! width="15%" style="background: #661b96;" |<center>Normal</center>
-| class="navigation-links" |[[SHA-30]] • [[SHA-35]] • [[SHA-55]] • [[SHA-60]] • [[SHA-85]] • [[SHA-180]] • [[SHA-200]] • [[SHA-300]]
+| class="navigation-links" |[[SHA-30]] • [[SHA-35]] • [[SHA-55]] • [[SHA-60]] • [[SHA-85]] • [[SHA-120]] • [[SHA-140]] • [[SHA-180]] • [[SHA-200]] • [[SHA-300]]
 |-
 ! width="15%" style="background: #661b96;" |<center>Exclusive</center>
 | class="navigation-links" |[[SHA-1]] • [[SHA-2]] • [[SHA-3]] • [[SHA-4]]
@@ -80,8 +80,8 @@
 ! width="15%" style="background: #d90b0b;" |<center>[[Section D]]</center>
 | class="navigation-links" |[[D-35ii]]
 |-
-! width="15%" style="background: #1C4051;" |<center>[[Section Interchange]]</center>
-| class="navigation-links" |[[U-5|UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
+! width="15%" style="background: #1C4051;" |<center>[[Section UI]]</center>
+| class="navigation-links" |[[UI-5]] • [[UI-20]] • [[UI-30]] • [[UI-60]] • [[UI-83]] • [[UI-110]] • [[UI-157]] • [[UI-173]] • [[UI-200]] • [[UI-220]] • [[UI-246]] • [[UI-269]] • [[UI-315]]
 |-
 ! width="15%" style="background: #6e6464;" |<center>Other</center>
 | class="navigation-links" |[[Pipe Bomb]]
@@ -111,7 +111,7 @@
 ! colspan="2" width="15%" style="background: #b531de;"class="navigation-class" |<center>Admin</center>
 |-
 ! width="15%" style="background: #8522a3;" |<center>Regular</center>
-| class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[A-20ii]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]] • [[D-60ii]]
+| class="navigation-links" |[[GOD-200]] • [[U-5]] • [[CARDBOARD-5]] • [[CAT-60]] • [[CAT-120]] • [[DCAT-55]] • [[D-140i]] • [[Glongoflorp-60]] • [[D-20i]] • [[Joke D-55]] • [[D-180i]]
 |}
 |}
 |}

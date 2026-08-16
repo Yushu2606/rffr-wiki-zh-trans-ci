@@ -106,7 +106,11 @@ SEMI-60Move.gif|I-60 passing by a player
 </tabber>
 
 == Badges ==
-{{BadgeSectionM|Image=Isecinvasion.png|Name=Are You Supposed To Be Here?|Description=This badge was previously obtainable during the "I-Section Invasion" event for surviving an attack from I-60 within the A-Section or D-Section. It has been retired and is no longer available.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''I-60''' during the I-Section Invasion Event in the Original<br>'''Rooms: Found Footage'''}}
+{{BadgeSectionM
+|Image=Isecinvasion.png
+|Name=Are You Supposed To Be Here?
+|Description=This badge was previously obtainable during the "I-Section Invasion" event for surviving an attack from I-60 within the A-Section or D-Section. It has been retired and is no longer available.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''I-60''' during the I-Section Invasion Event in the Original<br>'''Rooms: Found Footage'''.}}
 
 
 {{EntityNavBoxSectionM}}

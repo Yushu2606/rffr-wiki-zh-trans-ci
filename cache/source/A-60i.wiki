@@ -25,11 +25,11 @@ A60i3.webp|6th Face
 |speed=Fast
 |locker_snipe=Yes
 |related_monsters=[[A-60]]<br>[https://roblox-rooms-doors.fandom.com/wiki/MultiMonster_Prime A-60′ R&D]
-|sound1=<center>Ambience</center><center>[[File:A-60isound.mp3]]</center>
+|sound1=<center>Near Ambience</center><center>[[File:A-60isound.mp3]]</center>
 |caption-entity_image=I'm not related to A-60' from R&D, don't even say it..
 |ent_info_header=
 |appears_at=Anytime after A-100 (Only by [[A-60]])
-|sound2=<center>Jumpscare</center><center>[[File:A-60iJumpscare.mp3]]</center>
+|sound2=<center>[LOUD WARNING] Jumpscare</center><center>[[File:A-60iJumpscare.mp3]]</center>
 |damage=Instant death (1 DPS snipe) (5 MAL. damage)}}
 
 ==Description==

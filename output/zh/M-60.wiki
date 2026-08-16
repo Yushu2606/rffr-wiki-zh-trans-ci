@@ -46,18 +46,18 @@ M60 5.png|表情5
 <h2> 冷知识 </h2>
 * '''M-60'''是少数会检查柜子的''多面实体（Multimonsters）''之一。目前仅有'''M-60'''、[[M-60i]]和[[D-140i]]属于会检查/破坏柜子的正统''多面实体（Multimonsters）''（[[D-60i]]在第二阶段会破坏柜子，但它不属于柜子检查者，因此不算在内）。
 * '''M-60'''现在可以检查桌子，机制与A-60相同（先尝试命中，若玩家在视线内则直接杀死）。但它的素数变体[[M-60i|调停者（Mediator）]]仍然无法检查桌子。因此必要时你可以将桌子作为躲藏点，不会被该实体发现。
-* '''M-60'''有极小概率检查<nowiki/>前一个房间中的柜子（如果主房间中几乎没有柜子，此概率会更高）。
-* 在Perfection Events（完美事件）期间，柜子不会被[[Oblivion]]标记，因为[[Overseer]]会在这些事件中取代它们的位置。
+* '''M-60''' 有极小概率检查前一<nowiki/>个房间的柜子（如果主房间几乎没有柜子，此概率会更高）。
+* 在 Perfection Events（完美事件）期间，柜子不会被 [[Oblivion]] 标记，因为 [[Overseer]] 会在事件中取代它们的位置。
 
 <h2> 漏洞 </h2>
-* 如果启用了"Stay Alert（保持警惕）"以外的任何修饰符，M-60将拒绝生成。
+* 如果启用了 "Stay Alert（保持警惕）" 以外的任何修饰符，'''M-60''' 将拒绝生成。
 
 == 画廊 ==
 <gallery>
 File:M-60 scary.gif|跳杀
-M-60 checking a locker.png|'''M-60'''出现在柜子外。
+M-60 checking a locker.png|'''M-60''' 出现在柜子外。
 M-60 checking a locker 2.png|同上
-OblivionX.jpg|[[Oblivion]]标记'''M-60'''打算检查的柜子
+OblivionX.jpg|[[Oblivion]] 正在标记 '''M-60''' 打算检查的柜子
 </gallery>
 
 |-|UI区=
@@ -67,7 +67,7 @@ OblivionX.jpg|[[Oblivion]]标记'''M-60'''打算检查的柜子
 {{InfoBox:Entity
 |entity_name=I-60
 |entity_image=<gallery>
-Oldi60animation.gif|动画复刻
+Oldi60animation.gif|动画复现
 I-601.webp|第1张脸
 I-602.webp|第2张脸
 I-603.webp|第3张脸
@@ -80,8 +80,8 @@ I-605.webp|第5张脸
 |appears_at=I-460+
 |type=冲刺者<br>
 柜子检查者
-|behavior=从后方冲来，到达当前房间后会检查房间内的一个随机躲藏点。
-|speed=快速
+|behavior=从后方冲来，到达当前房间后会检查房间内随机一个躲藏点。
+|speed=快
 |claustrophobia=否
 |damage=秒杀
 |related_monsters=[[A-60]]
@@ -89,24 +89,28 @@ I-605.webp|第5张脸
 |sound2=<center>近处环境音<center><center>[[File:SEMI60Close.mp3]]}}
 
 <h2> 描述 </h2>
-'''I-60'''是[[Section UI|UI区]]最后100个房间中出现的第3个也是最后一个实体（不包括[[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]），关于'''I-60'''的更多信息如下所示。
+'''I-60''' 是出现在 [[Section UI|UI区]] 最后100个房间中的第3个也是最后一个实体（不包括 [[Gato|<span style="text-shadow: 0 0 5px #FFFA00; color: #000000;">Gato</span>]]），关于 '''I-60''' 的更多信息如下。
 
 <h2> 行为 </h2>
-当'''I-60'''生成时，它会在你身后发出巨大的静电噪音，然后冲向主房间。一旦撞到门，它会走向主房间里的一个随机柜子并检查它，在柜子前停留4秒后消失。
+当 '''I-60''' 生成时，它会在你身后发出巨大的静电声，然后冲向主房间。一旦它撞到门，就会走向主房间里随机一个柜子并检查它，在柜子前停留4秒后消失。
 
-<h2> 策略与技巧 </h2>
-* 你应该总是躲在前一个房间里，只有在万不得已时才躲在主房间，因为I-60有可能检查你的柜子。
-* 你应该在整个遭遇过程中保持隐藏，或者，如果在前一个房间，可以出来回头查看之前的房间，这样你就不会被[[E-30#Section_UI|I-30]]突袭并杀死。
+<h2> 策略与提示 </h2>
+* 你应该总是躲在前一个房间，只有在万不得已时才躲在主房间，因为 I-60 有可能检查你的柜子。
+* 你应该在整个遭遇过程中保持隐藏，或者如果在前一个房间，可以出来回头查看后面的房间，这样你就不会被 [[E-30#Section_UI|I-30]] 突袭杀死。
 
 == 画廊 ==
 <gallery>
 SEMI-60Jum.gif|跳杀
-SEMI-60Move.gif|I-60从一名玩家身边经过
+SEMI-60Move.gif|I-60 从玩家身边经过
 </gallery>
 </tabber>
 
 == 徽章 ==
-{{BadgeSectionM|Image=Isecinvasion.png|Name=你该在这里吗？|Description=这个徽章曾在"I-Section Invasion（I区入侵）"活动期间可获得，条件是在A区或D区从I-60的攻击中幸存。它已被停用，不再可用。|Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage'''的I-Section Invasion（I区入侵）活动中遭遇'''I-60'''并幸存}}
+{{BadgeSectionM
+|Image=Isecinvasion.png
+|Name=Are You Supposed To Be Here?（你该在这里吗？）
+|Description=这个徽章曾在 "I-Section Invasion（I区入侵）" 活动期间可获得，获得条件是在 A区 或 D区 中从 I-60 的攻击中存活。它现已退役，不再可用。
+|Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage''' 的 I-Section Invasion（I区入侵）活动中遭遇 '''I-60''' 并从中存活。}}
 
 
 {{EntityNavBoxSectionM}}

@@ -73,9 +73,13 @@ __NOTOC__
 * [[SHA-30]], [[SHA-35]], [[SHA-55]], [[SHA-180]] and [[SHA-200]] have no lockersnipe, and [[SHA-1]], [[SHA-2]], [[SHA-4]] and [[SHA-85]] has non-lethal lockersnipe, while [[SHA-140]] has a lockersnipe that takes a good part from your health. Use this knowledge to your advantage.
 
 == Trivia ==
-* ''Shadow Challenge's Voices says Alert…Alert…Alert…Alert…Warning…'' ''Bypass detected. Warning…Core reprogramming…''  ''Deploy, diagnose. Deploy, diagnose, Resonant singularity…''  ''Resonant singularity. Priority alert: Internal stabilization teams…''  ''deploy sterilizers…Alert…''  ''Alert…Alert…Alert…Alert…''
+*Shadow Challenge's Voices says ''"Alert… Alert… Alert… Alert… Warning…'' ''Bypass detected. Warning… Core reprogramming detected…''  ''Deploy, diagnose. Deploy, diagnose, Resonant singularity…''  ''Resonant singularity... Priority alert: Internal stabilization teams…''  ''Deploy sterilizers... Deploy... Priority warning restricted, disengaged… Stabilization cords disengaged... Sterilizers and containment fields compromized..."''
 * [[SHA-7]], [[SHA-22]], [[SHA-150]], [[SHA-300]], [[Overseer|SHA-0]], [[LAPSE-1]], [[LAPSE-2]], [[LAPSE-60]] and [[LAPSE-200]] are exclusive to the [[Alpha & Shadowpocalypse]] modifier so they can't spawn at all in the challenge
 ** However, [[SHA-7]], [[SHA-22]] and [[SHA-150]] can be spawned by [[SHA-4]] in the '''Shadow Challenge'''
 
 ==Badges==
-{{Badge|Image=666 666 666 (Badge).png|Name=666 666 666|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons|Obtainment=Complete The Shadow Challenge.}}
+{{Badge
+|Image=666 666 666 (Badge).png
+|Name=666 666 666
+|Description=Secret Achievement: Complete “The Shadow Challenge” event. Grants the “Heart of Darkness” and “Perfectionist” artifact weapons.
+|Obtainment=Complete The '''Shadow Challenge'''.}}

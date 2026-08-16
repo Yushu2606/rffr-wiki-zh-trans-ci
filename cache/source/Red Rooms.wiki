@@ -71,6 +71,7 @@ RRD.jpg|A Section D room seen during '''Red Rooms'''
 '''Section M:'''
 <h2>Overall changes</h2>
 *[[M-22]] can spawn passively and is faster.
+*[[M-22i]] is almost guaranteed to follow after [[M-22]].
 *[[M-60]] can spawn passively, as well as checking a locker much faster
 **It also has a decent chance to bust door open instead of slamming into it.
 *[[M-120]] mimic mechanic changes:
@@ -162,21 +163,48 @@ RRE.jpg|A Section E room seen during '''Red Rooms'''
 * Stay near a locker at all times, since [[SHA-7]] will prevent you from hearing quiet entities like [[SHA-2]], [[SHA-4]], and [[SHA-60]].
 ** additionally, completely turn off or at least lower your Music setting in the lobby beforehand, this can disable Ambience 4 shown above, which is very loud and may easily block sound from entities.
 
-<h2>trivia<h2>
-*the forth ambience comes from the song escape from darkness suspense
-** additionally, its slowed down drastically to make it feel ominous
 </tabber>
 
+<h2>trivia</h2>
+* The fourth ambience comes from the song escape from darkness suspense.
+** It's slowed down drastically to make it feel ominous.
 
 
-==BADGES==
-{{BadgeSectionA|Image=Insanity. (Badge).png|Name=Insanity.|Description=The nightmare is almost over.|Obtainment=Open door A-900.}}
-{{BadgeSectionD|Image=Caving In (Badge).png|Name=Caving In|Description=Mental breakdown.|Obtainment=Open door D-900.}}
-{{BadgeSectionM|Image=NewProhibitedZoneBadge.png|Name=Prohibited Zone|Description=THE VOICES. MAKE IT STOP.|Obtainment=Open door M-900.}}
-{{BadgeUnnamed|Image=SectorShutdown.png|Name=Sector Shutdown|Description=You caused this.|Obtainment=Get [[Red Rooms]] started by picking up the Strange keycard}}
-{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=Executive Dysfunction|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
-{{Badge|Image=Insanity?NoThanks.png|Name=[https://www.roblox.com/badges/2779919243698982/Insanity-No-thanks Insanity? No thanks.]|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
+==Badges==
+{{BadgeSectionA
+|Image=Insanity. (Badge).png
+|Name=Insanity.
+|Description=This nightmare is almost over.
+|Obtainment=Open door A-900.}}
+
+{{BadgeSectionD
+|Image=Caving In (Badge).png
+|Name=Caving In
+|Description=Mental breakdown.
+|Obtainment=Open door D-900.}}
+
+{{BadgeSectionM
+|Image=NewProhibitedZoneBadge.png
+|Name=Prohibited Zone
+|Description=THE VOICES. THEY'RE EVERYWHERE. MAKE IT STOP.
+|Obtainment=Open door M-900.}}
+
+{{BadgeUnnamed
+|Image=SectorShutdown.png
+|Name=Sector Shutdown
+|Description=You caused this.
+|Obtainment=Pick up the strange keycard.}}
+
+{{BadgeSectionE
+|Image=NewExecutiveDysfunctionBadge.png
+|Name=Executive Dysfunction
+|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
+
+{{Badge
+|Image=Insanity?NoThanks.png
+|Name=Insanity? No thanks.
+|Description=Open room 900 of any section and reach room 1000 in 20 minutes or less.
+|Obtainment=beat [[Red Rooms]] in under 20 minutes.}}
 
 {{BrowseNavBox}}
-
 [[Category:Browsing]]

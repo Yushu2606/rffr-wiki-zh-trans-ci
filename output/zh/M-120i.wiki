@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="animation: m120i 5s infinite">M-120i (''???'')</span>}}
 {{Upcoming}}
 
-{{KevBox|note=再敢上传这个实体的设计图，你就会被封禁。-kev}}
+{{KevBox|note=再敢上传这家伙的设计图，你就会被封禁。-kev}}
 
-{{ArticleBackground|File=MBackground.webp}}
+{{ArticleBackground|File=MBackground.jpg}}
 {{InfoBox:Entity
 |entity_name=M-120i
 |entity_image=<gallery>
@@ -173,14 +173,17 @@ Placeholder.webp|████████
 
 ==画廊==
 <gallery>
-M-120_Hallway.webp|M-120i 在走廊中现身
+M-120_Hallway.png|M-120i 在走廊中现身
 </gallery>
 
 ==徽章==
-{{BadgeSectionM|Image=M120iPlaceholderBadge.webp|Name=Phantasmagoria（幻影）|Description=遭遇?????i并从其攻击中存活|Obtainment=遭遇'''M-120i'''并从其攻击中存活 '''目前无法获取'''。}}
+{{BadgeSectionM
+|Image=M120iPlaceholderBadge.png
+|Name=Phantasmagoria（幻影）
+|Description=遭遇并从 ?????i 的攻击中存活
+|Obtainment=遭遇并躲过 '''M-120i'''。}}
 
 {{EntityNavBox}}
-
 [[Category:Entities]]
 [[Category:I Variation]]
 [[Category:Upcoming Entities]]

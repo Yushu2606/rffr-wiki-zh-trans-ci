@@ -1,10 +1,13 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60 (Multi Faced Darkness)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}{{NoteBox|note=Not to be confused with D-60 from '''Rooms Re-Established''', D-60 from '''Rooms: Reopened''', D-60 from '''Rooms of Insanity''' or with D-60 from '''Remastered Rooms'''.}}{{InfoBox:Entity
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60 (Multi-Faced Darkness)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Headphones}}
+{{NoteBox|note=Not to be confused with D-60 from '''Rooms Re-Established''', D-60 from '''Rooms: Reopened''', D-60 from '''Rooms of Insanity''' or with D-60 from '''Remastered Rooms'''.}}
+{{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]
 |entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
 |entity_image=<gallery>
-D60anim.gif| Mostly Accurate Animation
+D60anim.gif|In-game Animation
 D-60face1.png|First Face
 D-60Face2.png|Second Face
 D-60face3.png|Third Face
@@ -24,13 +27,13 @@ D-60Face8.png|Seventh Face
 |damage=Instant Death (70 damage locker snipe) (20 MAL. Damage)
 |speed=Extremely Fast (13.32 rooms per second) (799 studs per second)
 |related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
-|sound1=<center>First Far</center><center>[[File:D-60far1.mp3]]</center>
-|sound2=<center>Second Far</center><center>[[File:D-60far2.mp3]]</center>
-|sound3=<center>Close</center><center>[[File:D-60Close.mp3]]</center>
-|sound4=<center>Face Collision</center><center>[[File:D-60FaceCollision.mp3]]</center>
-|sound5=<center>Rebound Warning</center><center>[[File:D-60Rebound.mp3]]</center>
-|sound6=<center>Jumpscare</center><center>[[File:D-60Jumpscare.mp3]]</center>
-|sound7=<center>Despawn</center><center>[[File:D-60Die.mp3]]</center>
+|sound1=<center>(LOUD WARNING) Far Ambience 1</center><center>[[File:D-60far1.mp3]]</center>
+|sound2=<center>(LOUD WARNING) Far Ambience 2</center><center>[[File:D-60far2.mp3]]</center>
+|sound3=<center>(LOUD WARNING) Near Ambience</center><center>[[File:D-60Close.mp3]]</center>
+|sound4=<center>(LOUD WARNING) Face Collision</center><center>[[File:D-60FaceCollision.mp3]]</center>
+|sound5=<center>(LOUD WARNING) Rebound Warning</center><center>[[File:D-60Rebound.mp3]]</center>
+|sound6=<center>(LOUD WARNING) Jumpscare</center><center>[[File:D-60Jumpscare.mp3]]</center>
+|sound7=<center>(LOUD WARNING) Despawn</center><center>[[File:D-60Die.mp3]]</center>
 |sound8=<center>First Far Origin</center><center>[[File:Radio Static Loop.mp3]]</center>
 |sound9=<center>Second Far Origin</center><center>[[File:A60farsoundorigin.mp3]]</center>
 |sound10=<center>Close Origin</center><center>[[File:85soundorigin.mp3]]</center>

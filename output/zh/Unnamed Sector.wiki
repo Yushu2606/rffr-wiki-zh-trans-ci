@@ -52,43 +52,67 @@
 
 == 房间 ==
 <gallery>
-File:AUnnamed.jpg|[[Section A|A区]]内包含无名区域入口的房间
-File:DUnnamed.jpg|[[Section D|D区]]内包含无名区域入口的房间
-File:Unnamed Sector entrance in M-Section.png|[[Section M|M区]]内包含无名区域入口的房间
+File:AUnnamed.jpg|[[Section A|A区]]内设有无名区域入口的房间
+File:DUnnamed.jpg|[[Section D|D区]]内设有无名区域入口的房间
+File:Unnamed Sector entrance in M-Section.png|[[Section M|M区]]内设有无名区域入口的房间
 File:Unnamed .png
 </gallery>
 
 == 其他 ==
 <gallery>
-MUnnamed.jpg|[[Section M|M区]]内包含无名区域入口的旧房间
-UnnamedAdoor.jpg|[[Section A|A区]]中通往无名区域的旧门
-UnnamedDdoor.jpg|[[Section D|D区]]中通往无名区域的旧门
-OldunnamedMdoor.webp|[[Section M|M区]]中通往无名区域的旧门
+MUnnamed.jpg|[[Section M|M区]]内设有无名区域入口的旧房间
+UnnamedAdoor.jpg|[[Section A|A区]]通往无名区域的旧门
+UnnamedDdoor.jpg|[[Section D|D区]]通往无名区域的旧门
+OldunnamedMdoor.webp|[[Section M|M区]]通往无名区域的旧门
 Unnamed1.png|通往无名区域的电梯
 newUnnamedDoor.jpg|无名区域当前的门模型
 Unnamed2.png|无名区域的旧门模型
-Unnamed4.png|进入[[Section E|E区]]所需的奇怪钥匙卡，见于无名区域的地面上
-File:UnnamedDemoThumbnail.webp|无名区域试玩版发布时的游戏缩略图
+Unnamed4.png|无名区域地面上可见的、进入[[Section E|E区]]所需的奇异钥匙卡
+File:UnnamedDemoThumbnail.webp|无名试玩版发布的游戏缩略图
 </gallery>
 
 ==背景故事==
-失败实体被放逐之地
+失败实体被放逐于此。
 
 ==策略==
-* 待公布
+* 待补充
 
 ==徽章==
-{{BadgeUnnamed|Image=IntoTheUnkownBadge.png|Name=进入未知|Description=0000|Obtainment=进入无名区域}}
-{{BadgeUnnamed|Image=SectorShutdown.png|Name=区域关闭|Description=你造成了这一切。|Obtainment=捡起奇怪钥匙卡以启动[[Red Rooms|红区]]}}
-{{BadgeUnnamed|Image=TheBeginningofTheEnd.png|Name=终末之始。|Description=逃脱。|Obtainment=携带奇怪钥匙卡从无名区域逃脱}}
-{{BadgeUnnamed|Image=MoneyWalks.png|Name=金钱漫步|Description=0500|Obtainment=在无名区域到达0500号门。}}
-{{BadgeUnnamed|Image=IWastedMyTimeForThisBadge.png|Name=为这个徽章浪费了我的时间 👍|Description=1000|Obtainment=在无名区域到达1000号门。}}
+{{BadgeUnnamed
+|Image=IntoTheUnkownBadge.png
+|Name=踏入未知
+|Description=0000
+|Obtainment=在无名区域中打开0000号门。}}
 
-== 轶事 ==
-* [[Mori]]、[[Tackle]]、[[False Witness]]和[[False-60]]在500号门之后有1/2000的概率生成于无名区域之外
-** 除非激活了'''Are you.. supposed to be here（你……应该在这里吗）'''[[Modifiers|修饰符]]，此时概率为1/200
-* 无名区域曾有一个持续50个房间的试玩版，其中[[Mori]]、[[False Witness]]和[[Tackle]]是仅有的威胁
-* [https://youtu.be/3nOKl6moUYs?si=jDmMUtkWP--cy1yb Update Executive 预告 2]
-* [https://youtu.be/utl2B4LcVic?si=Tpo3g6BzId8MvFDw Update Executive 预告 9]
+{{BadgeUnnamed
+|Image=SectorShutdown.png
+|Name=区域关闭
+|Description=这是你造成的。
+|Obtainment=拾取奇异钥匙卡。}}
+
+{{BadgeUnnamed
+|Image=TheBeginningofTheEnd.png
+|Name=终末之始。
+|Description=逃脱。
+|Obtainment=携带奇异钥匙卡从无名区域逃脱。}}
+
+{{BadgeUnnamed
+|Image=MoneyWalks.png
+|Name=金钱开路
+|Description=0500
+|Obtainment=在无名区域中打开0500号门。}}
+
+{{BadgeUnnamed
+|Image=IWastedMyTimeForThisBadge.png
+|Name=我居然为了这个徽章浪费时间 👍
+|Description=1000
+|Obtainment=在无名区域中打开1000号门。}}
+
+== 冷知识 ==
+* [[Mori]]、[[Tackle]]、[[False Witness]]和[[False-60]]在500号门之后有1/2000的概率生成于无名区域外。
+** 除非激活了'''你……本该在这里吗'''[[Modifiers|修饰符]]，此时概率为1/200。
+* 无名区域曾有一个流程为50个房间的试玩版，[[Mori]]、[[False Witness]]和[[Tackle]]是其中仅有的威胁。
+* [https://youtu.be/3nOKl6moUYs?si=jDmMUtkWP--cy1yb Update Executive 预告2]
+* [https://youtu.be/utl2B4LcVic?si=Tpo3g6BzId8MvFDw Update Executive 预告9]
 
 [[Category:Sections]]

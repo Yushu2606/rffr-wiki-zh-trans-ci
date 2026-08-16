@@ -26,8 +26,8 @@ Derelict (D-Section).png|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.png|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.png|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -65,10 +65,10 @@ Derelict (D-Section).png|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}[[File:DSectionMouth.png|center|150px|link=Mouth]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Void]]
 {{!}}}
 
 ==Removed/废弃==
@@ -83,29 +83,31 @@ Derelict (D-Section).png|废置设施游戏页面图
 |-|深度=
 <gallery>
 Section Depth Starting Room.png|起始房间。
-Section Depth Starting Room Bottom.png|同上，但已走过入口。
-Section Depth Hallway -w Two Siderooms.png|一间有两间侧室的房间。
+Section Depth Starting Room Bottom.png|同上，但已通过入口。
+Section Depth Hallway -w Two Siderooms.png|带有两个侧室的房间。
 Section Depth Room 5.png|5号房间。
-Section Depth Hallway But Dark.png|一条黑暗的走廊。
-Section Depth Furnished Room.png|一间带家具的房间，侧边放有工具。
-Section Depth Basic Hallway.png|一条基础走廊。
-Section Depth Room -w 3 Planks.png|侧边放有3块木板的房间。
-Section Depth Room Goes to the side.png|一间向左转弯的房间。
-Section Depth Hallway -w Two Siderooms 2.png|一间有两间侧室的房间，但其中一间被架子挡住了。
-Section Depth Slope Downward.png|一间有两个架子且向下倾斜的房间。
-Section Depth Basic Hallway 2.png|一条基础走廊。
-Section Depth Pitch Black Room.png|一条漆黑的走廊。
-Section Depth Basic Hallway 3.png|一条部分黑暗的走廊。
-Section Depth Much Stuff.png|一条有许多柜子且大部分灯都开着的走廊。
-Section Depth Basic Hallway 4.png|一条有一个灯泡和两个柜子的走廊。
-Section Depth Room -w Trashbags.png|左角落放有垃圾袋的房间。
-Section Depth Staircase.png|一段楼梯。
-Section Depth Staircase Top.png|同上，但从底部拍摄。
-Section Depth Many Boxes.png|一间放有许多箱子的基础房间。
-Section Depth Room Goes to the right.png|一间向右延伸的房间。
-Section Depth 2 Cabinets.png|有两个柜子的房间。
+Section Depth Hallway But Dark.png|黑暗的走廊。
+Section Depth Furnished Room.png|侧边摆放工具的带家具房间。
+Section Depth Basic Hallway.png|基础走廊。
+Section Depth Room -w 3 Planks.png|侧边有3块木板的房间。
+Section Depth Room Goes to the side.png|向左转弯的房间。
+Section Depth Hallway -w Two Siderooms 2.png|带有两个侧室的房间，但其中一个被架子挡住。
+Section Depth Slope Downward.png|有两个架子且向下倾斜的房间。
+Section Depth Basic Hallway 2.png|基础走廊。
+Section Depth Pitch Black Room.png|漆黑的走廊。
+Section Depth Basic Hallway 3.png|部分黑暗的走廊。
+Section Depth Much Stuff.png|有许多柜子且大部分灯都开着的走廊。
+Section Depth Basic Hallway 4.png|有一个灯泡和两个柜子的走廊。
+Section Depth Room -w Trashbags.png|左角落有垃圾袋的房间。
+Section Depth Staircase.png|楼梯。
+Section Depth Staircase Top.png|同上，但从底部视角。
+Section Depth Many Boxes.png|有许多箱子的基础房间。
+Section Depth Room Goes to the right.png|向右延伸的房间。
+</gallery>
+</tabber>
+Section Depth 2 Cabinets.png|有两个储物柜的房间。
 Section Depth Room 100.png|Room 100，从 Depth 到 Derelict 的过渡。
-Water_cave.jpg|走廊房间的罕见水淹版本。
+Water_cave.jpg|走廊房间罕见的水淹版本。
 </gallery>
 
 |-|Derelict=
@@ -120,14 +122,14 @@ Section Derelict Lockers Middle.png|中间有几个柜子的房间。
 Section Derelict Middle Paper.png|中间有大量纸张的房间。
 Section Derelict 2 Silos Left.png|有一扇破门和左侧出口的房间。
 Section Derelict Exit Bottom.png|底部的出口房间。
-Section Derelict Bottom Room.png|离开出口后，通往下一扇门的这个房间。
+Section Derelict Bottom Room.png|离开出口后，通往下一扇门的房间。
 Section Derelict 6 Silos.png|有六个筒仓和一盏紫灯的房间。
 Section Derelict 2 Laser Doors.png|有两扇激光门的房间，其中一扇已停用。
 Section Derelict Many Shelves.png|有许多架子的房间。
 Section Derelict Basic Room 1.png|一个基础房间。
 Section Derelict Basic Room 1 But Left.png|同上，但在左侧。
 Section Derelict Room 200.png|Room 200。
-Section Derelict Room 200.png|同上，但在房间底部。
+Section Derelict Room 200.png|同上，但为房间底部。
 Section Derelict Room 200 End.png|同上，但在房间尽头。
 Section Derelict Room 200 Door Sign.png|Door 201的门牌。
 Section Derelict Room 400.png|Room 400。
@@ -137,24 +139,42 @@ Section Derelict Room 400.png|Room 400。
 ==策略==
 *D区的大多数实体要么速度极快，要么耗时很长，例如[[D-5]]、[[D-55]]、[[D-60]]、[[D-60i]]、[[D-140]]和[[D-200]]。建议尽可能晚地进入柜子/储物柜，以避免[[幽闭恐惧]]伤害。
 *从D-500到D-750，由于Depth房间过高且完全黑暗，建议尽可能节省电量。不过对于Faraday Shakelight用户来说这不是问题。
-*在[[红区]]中，你应该留意实体的环境音，因为红区的环境音有时太大，使得死于''D-60''等静默实体的可能性更高。另外，请记住有些实体会开始被动生成。
-*在[[红区]]中，尽量留意[[D-140]]是否处于活跃状态，因为知道该躲在哪里对于避免死于[[D-140]]或[[D-55]]至关重要。如果是，躲进重型柜子。如果不是，尝试躲进蓝色重型柜子。<!-- We need more... -->
+*在[[红区]]中，你应该留意实体的环境音，因为红区的环境音有时过于响亮，使得死于静默实体（如''D-60''）的可能性更高。另外，请记住有些实体会开始被动生成。
+*在[[红区]]中，尽量留意[[D-140]]是否处于活跃状态，因为知道该躲在哪里对于避免死于[[D-140]]或[[D-55]]至关重要。如果它活跃，躲进重型柜子。如果不活跃，尝试躲进蓝色重型柜子。<!-- We need more... -->
 
-== 轶事 ==
+== 花絮 ==
 * '''D区'''是仅有的两个拥有2种切换房间生成类型的区之一（另一个是'''M区'''）。
 * '''D区'''是拥有最多Admin '''I变体'''的区，有6个Admin专属'''I变体'''，分别是[[D-20i]]、[[D-35ii]]、[[D-55ii]]、[[D-60ii]]、[[D-140i]]和[[D-180i]]。
 * '''D区'''的开锁房间有所不同。与其他区给你大量物品不同，这个区只会给你大约3-5件物品。作为补偿，它必定生成V-Booster和AD-STR，前者将你的最大生命值提高100，后者将最大体力提高+100%。
 
 == 背景故事 ==
 * [[A区]]和'''D区'''都被废弃了，因为SPAWN需要将输送到这两个区的大量电力集中到更重要的事情上。
-** 这原本是临时之举，但由于缺乏直接控制，实体已经占领了两个区。
+** 这原本是临时安排，但由于缺乏直接控制，实体已经占领了两个区。
 
 ==Badges==
-{{BadgeSectionD|Image=Depth (Badge).png|Name=深度|Description=等等，这是什么时候出现的？|Obtainment=切换分区至D区。}}
-{{BadgeSectionD|Image=Level 15 (Badge).png|Name=等级 15|Description=挖呀挖……哦不对，走错游戏了|Obtainment=打开D-500的门。}}
-{{BadgeSectionD|Image=Caving In (Badge).png|Name=坍塌|Description=精神崩溃。|Obtainment=打开D-900的门。}}
-{{BadgeSectionD|Image=Surface Breach (Badge).png|Name=地表突破|Description=有时你会暗自思忖，这一切到底有什么意义。你自愿来到这里，又是为了什么？|Obtainment=打开D-1000的门。}}
+{{BadgeSectionD
+|Image=Depth (Badge).png
+|Name=深度
+|Description=等等，这是什么时候出现的？
+|Obtainment=进入D区。}}
+
+{{BadgeSectionD
+|Image=Level 15 (Badge).png
+|Name=第15层
+|Description=挖矿中-<br>算了，搞错游戏了。
+|Obtainment=打开门D-500。}}
+
+{{BadgeSectionD
+|Image=Caving In (Badge).png
+|Name=坍塌
+|Description=精神崩溃。
+|Obtainment=打开门D-900。}}
+
+{{BadgeSectionD
+|Image=Surface Breach (Badge).png
+|Name=地表突破
+|Description=有时你会暗自思忖，这一切到底有什么意义。你自愿来到这里，又是为了什么？
+|Obtainment=打开门D-1000。}}
 
 {{BrowseNavBox}}
-
 [[Category:Sections]]

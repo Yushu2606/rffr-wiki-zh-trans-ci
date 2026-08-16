@@ -1,4 +1,5 @@
 {{DISPLAYTITLE:E-45 (Alteration)}}
+{{Stub}}
 {{ArticleBackground|File=EBackground.jpg}}
 {{InfoBox:Entity
 |entity_name=E-45
@@ -22,27 +23,24 @@ E45Attack.png|Attack design
 }}
 
 ==Description==
-'''E-45''' Will be the 3rd entity you may encounter in [[Section E]]. More info shown below.
+'''E-45''' will be the 3rd entity you may encounter in [[Section E]]. More information about this entity is shown below.
 
 ==Mechanics==
 '''E-45''' once spawned will place itself inside a random locker, said locker now being colored differently, and damage anyone who tries to hide in the locker it is in.
 
 ==Strategies & tips==
 
-* Check lockers carefully before hiding
-* Check the lockers from your left and right
+* Check lockers carefully before hiding.
+* If any other [[Entities|entity]] is active, check the lockers on your left and right to ensure that none of them contains '''E-45'''.
 
 ==Trivia==
-???
+* TBA
 
 ==Gallery==
 <gallery>
-E45Gray.png|A gray locker containing '''E-45'''
-E45Blue.png|A blue locker containing '''E-45'''
-</gallery>
-
-{{EntityNavBox}}
-
+E45Gray.png|A gray locker containing '''E-45'''.
+E45Blue.png|A blue locker containing '''E-45'''.
+</gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Fallbacker]]

@@ -22,10 +22,10 @@ File:A20i.png|Older Design
 Cannot locker snipe
 |speed=Slow to Moderate (1.5 to 2 rooms per second) (90 to 120 studs per second)
 |related_monsters=[[A-20]]|sound1=<center>Spawn '''Recreation'''</center><center>[[File:A20iSpawn.mp3]]</center>
-|sound2=<center>Ambience</center><center>[[File:A-20i's movement sound..mp3]]</center>
-|sound3=<center>Despawn</center><center>[[File:Despawn.mp3]]</center>
-|sound4=<center>Jumpscare</center><center>[[File:A-20iJumpscare.mp3]]</center>
-|sound5=<center>Old Spawn</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
+|sound2=<center>[SEMI-LOUD] Ambience</center><center>[[File:A-20i's movement sound..mp3]]</center>
+|sound3=<center>[LOUD WARNING] Despawn</center><center>[[File:Despawn.mp3]]</center>
+|sound4=<center>[LOUD WARNING] Jumpscare</center><center>[[File:A-20iJumpscare.mp3]]</center>
+|sound5=<center>Old/Legacy Spawn</center><center>[[File:A-20i's spawn sound..mp3]]</center>}}
 
 ==Description==
 A-20i is the first prime entity out of all primes, and is extremely easy to avoid. It is green and looks nearly similar to A-20.  It's movement speed sounds as if it was A-20 but sped up.

@@ -25,12 +25,11 @@ Passive
 '''E-245''' Will be the one of the entities you may encounter in [[Section E]], Possibly being the most complicated within the section. More info shown below.
 
 <h2> Mechanic </h2>
-Once spawned, it will rush to the main room at fast speeds, reaching the main room after around 5 seconds from when you first are able to hear it, once it reaches the main room it will stay idle for around 2 seconds before opening its mouth, becoming non-lethal and begin choosing a mechanic, it being shown in the center of its eye, which is located in the center of its mouth.
+Once spawned, it will rush to the main room at fast speeds, reaching the main room after around 5 seconds from when you first are able to hear it, once it reaches the main room it will stay idle for around 2 seconds before opening its mouth, becoming non-lethal and begin choosing a Behavior. This behavior will be shown in the center of its eye which is located in the center of its mouth.
 
-these mechanics are shown below under '''Chosen Mechanics'''.
-<br><br><br><br><br><br>
+these mechanics are shown below under '''Chosen Behavior'''.
 
-<h2> Chosen Mechanics </h2>
+<h2> Chosen Behaviors </h2>
 <tabber>
 |-|Burner=
 '''Burner:'''
@@ -93,16 +92,8 @@ To survive, the player has to dodge roll through it, or hide in a safe spot.
 }}
 
 <h2> Behavior </h2>
-{{#tag:tabber
-|Current=
-'''Current:'''
 Once this mechanic is chosen, '''E-245''' will go through the door, a few seconds after chaining the player with a chain, slowing them down, after a few seconds it will fill the player's screen with static and fall back like [[E-60]] does, it will despawn past voidwall.
 
-{{!}}-{{!}}
-Upcoming=
-'''Upcoming:'''
-TBA
-}}
 
 |-|Sneak=
 '''Sneak:'''
@@ -126,6 +117,9 @@ Once this mechanic is chosen, '''E-245''' will backtrack at moderate speeds, the
 To survive, you'll have to either hide or stay crouched.
 </tabber>
 
+<h2> '''Old''' Chosen Behaviors </h2>
+* The current '''Chain''' is being completely reworked and '''Dodge''' is being replaced. They will be moved down here once the new behaviors are public.
+
 
 <h2> Strategies </h2>
 * '''E-245''' is extremely dangerous, especially with other entities active, so it is advised you wait for him to despawn before progressing.
@@ -144,7 +138,7 @@ File:Orb.png|'''E-245''''s concept design.
 </gallery>
 
 
-{{EntityNavBox}}
+{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Rusher]]

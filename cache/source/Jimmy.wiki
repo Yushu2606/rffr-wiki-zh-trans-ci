@@ -21,12 +21,17 @@
 Upon a door is opened past A-000, there will be a 1 in 2000 chance for '''Jimmy''' to be behind the door, it will hiss very loudly before disappearing.
 
 == Trivia ==
-* Locker '''Jimmy''' has been removed, in an unknown update.
+* Locker '''Jimmy''' has been removed.
+* Jimmy, along with [[Mori]], [[False Witness]], [[Tackle]], and [[False-60]] as invaders are the rarest normal entities within the game.
 
-{{Badge|Image=Hi Jimmy (Badge).png|Name=Hi Jimmy|Description=Well that was unnecessary.|Obtainment=Be jumpscared by Jimmy.}}
+==Badges==
+{{Badge
+|Image=Hi Jimmy (Badge).png
+|Name=Hi Jimmy
+|Description=Well that was unnecessary.
+|Obtainment=Encounter '''Jimmy'''.}}
 
 {{EntityNavBox}}
-
 [[Category:Entities]]
 [[Category:All Sections]]
 [[Category:Scarer]]

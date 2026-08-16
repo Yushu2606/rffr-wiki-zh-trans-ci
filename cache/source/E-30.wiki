@@ -49,6 +49,7 @@ E30Vote.jpg|The community vote that ultimately led to the readdition of '''M-30'
 E30Rushing.gif|'''E-30''' seen rushing in [[Section E]]
 E30OldScare.gif|Pre-Release '''E-30's''' jumpscare
 30 & 30i trail.webp|'''E-30''' trail particle
+Ehh-30.png|'''E-30''' about to kill a player.
 </gallery>
 
 |-|Section UI=
@@ -84,9 +85,7 @@ Once Spawned, it will appear behind the void wall and begin rushing to the main 
 <gallery>
 OldI30Jump.gif|Jumpscare
 </gallery>
-</tabber>
-
-{{EntityNavBox}}
+</tabber>{{EntityNavBoxSectionE}}
 [[Category:Super Epic Mode]]
 [[Category:Rusher]]
 [[Category:Section UI]]
