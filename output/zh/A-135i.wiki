@@ -1,5 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
 |next_entity=[[A-200]]
@@ -17,12 +18,12 @@ A135i.png|旧版/正统遗留设计
 |damage=秒杀
 |gun_effect=无
 |locker_snipe=否
-|speed=1000 Studs/秒 [20间/秒]
+|speed=极快（9.25 间/秒）（555 Studs/秒）
 |related_monsters=[[A-135]]（普通变种）<br>
 [[M-60i]]（机制类似）<br>
 |sound1=<center>[中等音量] 生成</center><center>[[File:A-135iSpawnNew.mp3]]</center>
-|sound2=<center>远距环境音</center><center>[[File:A-135iRushNew.mp3]]</center>
-|sound3=<center>近距环境音</center><center>[[File:A-135iFarNew.mp3]]</center>
+|sound2=<center>[高音量] 远距环境音</center><center>[[File:A-135iRushNew.mp3]]</center>
+|sound3=<center>[高音量] 近距环境音</center><center>[[File:A-135iFarNew.mp3]]</center>
 |sound4=<center>[高音量] 近距离环境音</center><center>[[File:A-135iNearNew.mp3]]</center>
 |sound5=<center>[极高音量警告] 跳杀</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>出现来源音效</center><center>[[File:135ispawnorigin.mp3]]</center>}}
 
@@ -50,12 +51,12 @@ A135i.png|旧版/正统遗留设计
 
 ==你知道吗==
 *'''A-135i'''是第四个素数变种。
-*'''A-135i'''是唯一一种带有'''锁定'''的柜子检查实体（意味着它会'''瞄准'''你的位置。就'''A-135i'''<nowiki/>的情况而言，它会瞄准有玩家的房间）。
-*'''A-135i'''的跳杀音效与[[D-55]]相同
+*'''A-135i''' 是唯一拥有锁定（Aimscript）行为的柜子检查者实体（这意味着它会'''锁定'''你的位置。就 '''A-135i''' 而言，它会锁定有玩家所在的房间）。
+*'''A-135i''' 的跳杀音效与 [[D-55]] 相同
 
-== 画廊 ==
+== Gallery ==
 <gallery>
-File:A-135i scary.gif|A-135i的跳杀
+File:A-135i scary.gif|A-135i 的跳杀
 </gallery>
 
 

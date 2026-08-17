@@ -210,7 +210,11 @@ OLDToD.png|Old Torch of Divination model
 </gallery>
 
 == Badges ==
-{{Badge|Image=Beatificvision.png|Name=Beatific Vision|Description=Encounter HIM. Awarded for completing the April Fools 2024 event. (...Or maybe it's obtainable after all?)|Obtainment='''[UNOBTAINABLE]'''<br>Encounter '''Gato''' by reaching I-500 during the 2024 April Fools Event in the Original<br>'''Rooms: Found Footage'''}}
+{{Badge
+|Image=Beatificvision.png
+|Name=Beatific Vision
+|Description=Encounter HIM. Awarded for completing the April Fools 2024 event. (...Or maybe it's obtainable after all?)
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter '''Gato''' by reaching I-500 during the 2024 April Fools Event in the Original<br>'''Rooms: Found Footage'''.}}
 
 {{EntityNavBox}}
 [[Category:Super Epic Mode]]

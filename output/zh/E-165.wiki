@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:E-165 (光敏)}}
-{{ArticleBackground|File=EBackground.webp}}
+{{ArticleBackground|File=EBackground.jpg}}
 {{Stub}}
 {{InfoBox:Entity
 |entity_name=E-165
-|entity_image=E165.webp
+|entity_image=E165.png
 |nicknames=光敏
 |previous_entity=[[E-120]]
 |next_entity=[[E-200]]
@@ -14,7 +14,7 @@
 |behavior=会出现在暗室中，若玩家用光源照射它就会对玩家造成伤害
 |gun_effect=无
 |speed=无
-|damage=玩家总生命值的四分之一（25）
+|damage=玩家总生命值的四分之一
 |related_monsters=|caption-entity_image=省点你的电池吧伙计|sound1=<center>环境音来源</center><center>[[File:PortalRadio.mp3]]</center>}}
 
 ==描述==
@@ -31,9 +31,7 @@
 ==琐事==
 
 * 有时在你用光源照射'''E-165'''后，它会立刻消失。
-
-{{EntityNavBox}}
-
+{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Stationary]]

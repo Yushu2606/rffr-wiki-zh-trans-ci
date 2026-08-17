@@ -1,7 +1,7 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">D-60ii (Omega Invader)</span>}}
+{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{SectionDStub}}
 {{HeadphonesNotice}}
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #0ba300; color: #0ba300;">D-60ii (Omega Invader)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
 |entity_name=[[File:D-60iiPlaceholder.gif|frameless|link=D-60ii]]
@@ -78,7 +78,7 @@ In phase 2, '''D-60ii''' will emit a very loud fake despawn sound version of the
 * '''D-60ii'''<nowiki/> is bigger than [[D-60i]].
 * '''D-60ii''' when despawning in his phase 2 will make 14 constant explosions very rapidly before making a bigger one and despawning.
 * '''D-60ii's''' jumpscare sound is actually the same as [[D-60]] or [[D-60i]] one but except it's slowed down deeply.
-* '''Astra''' is the creator of '''D-60ii'''.
+* '''Astra''' created '''D-60ii'''.
 
 == <span style="text-shadow: 0 0 5px lime; color: lime;">Footages</span> ==
 *(Loud warning) '''OMEGA INVADER''' - Phase 1 representation: https://youtu.be/0garMpZaPSE
@@ -110,12 +110,15 @@ BroisnotA-135.png|Old Face 8
 </gallery>
 
 ==Badges==
-{{Badge|Image=D60iiohno.png|Name=[https://www.roblox.com/badges/2685745629745950/Absolute-Adrenaline-Rush Absolute Adrenaline Rush]|Description=Why must this happen to me.|Obtainment=Encounter and survive '''D-60ii'''.}}
+{{Badge
+|Image=D60iiohno.png
+|Name=Absolute Adrenaline Rush
+|Description=Why must this happen to me.
+|Obtainment=Encounter and survive '''D-60ii'''.}}
 
-{{EntityNavBoxAdmin}} 
+{{EntityNavBox}} 
 [[Category:Entities]]
 [[Category:Rebounder]]
-[[Category:Entity Type Mix]]
 [[Category:Multimonsters]]
 [[Category:Boss]]
 [[Category:Fallbacker]]

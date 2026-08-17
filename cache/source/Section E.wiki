@@ -93,7 +93,7 @@ File:ERoom4.jpg
 File:ERoom5.jpg
 File:ERoom6.jpg
 File:ERoom7.jpg
-File:ERoom8.jpg|A Room Causing Memory Leaks Often
+File:ERoom8.jpg
 File:ERoom9.jpg
 File:ERoom10.jpg
 File:ERoom11.jpg
@@ -101,7 +101,7 @@ File:EGardenStart.jpg|The start/end to the garden room
 File:Egarden.jpg|The garden room
 File:ELockpickRoom.jpg|Lockpick room
 File:ERoom12.jpg
-File:ERoom13.jpg|A Room Causing Memory Leaks often
+File:ERoom13.jpg
 File:ERoom250.jpg|Room 250
 File:ERoom400.jpg|Room 400
 File:EElevator.jpg|The elevator shaft leading down to the entrance to [[Section R]]
@@ -119,10 +119,28 @@ File:E-1000 (Badge).png|Old "E-1000" badge icon
 </gallery>
 
 ==Badges==
-{{BadgeSectionE|Image=NewExecutiveBadge.png|Name=Executive|Description=This better be worth the struggle...|Obtainment=Transition sections to Section E.}}
-{{BadgeSectionE|Image=NewPowerFailureBadge.png|Name=Power Failure|Description=How long will this go on?|Obtainment=Open door E-500.}}
-{{BadgeSectionE|Image=NewExecutiveDysfunctionBadge.png|Name=Executive Dysfunction|Description=insert witty insanity text here|Obtainment=Open door E-900.}}
-{{BadgeSectionE|Image=NewE1000Badge.png|Name=E-1000|Description=The E-1000 Ending has not yet been added. and yet, you keep pushing on for a nil purpose. You cant remember why you came here but it seems like you're about to find out.|Obtainment=Open door E-1000.}}
+{{BadgeSectionE
+|Image=NewExecutiveBadge.png
+|Name=Executive
+|Description=This better be worth the struggle...
+|Obtainment=Enter Section E.}}
+
+{{BadgeSectionE
+|Image=NewPowerFailureBadge.png
+|Name=Power Failure
+|Description=How long will this go on?
+|Obtainment=Open door E-500.}}
+
+{{BadgeSectionE
+|Image=NewExecutiveDysfunctionBadge.png
+|Name=Executive Dysfunction
+|Description=Cycles repeating again, and again, and again.|Obtainment=Open door E-900.}}
+
+{{BadgeSectionE
+|Image=NewE1000Badge.png
+|Name=E-1000
+|Description=The E-1000 Ending has not yet been added.<br>...And yet, you keep pushing on for a nil purpose. You can't remember why you came here, but it seems like you're about to find out.
+|Obtainment=Open door E-1000.}}
 
 {{BrowseNavBox}}
 

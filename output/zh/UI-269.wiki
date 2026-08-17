@@ -1,9 +1,9 @@
-{{ArticleBackground|File=Section_Interchange_Hallway.webp}}
+{{ArticleBackground|File=Section Interchange Hallway.png}}
 {{Headphones}}
 {{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-269Placeholder.webp|frameless|link=UI-269]]
-|entity_image=BetterUI-269.webp
+|entity_name=[[File:UI-269Placeholder.gif|frameless|link=UI-269]]
+|entity_image=BetterUI-269.png
 |previous_entity=[[UI-246]]
 |next_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]
 |type=反弹者
@@ -16,7 +16,7 @@
 == 描述 ==
 '''UI-269''' 是你在[[Section Interchange|Section Interchange（交汇区）]]可能遇到的第12个实体，更多信息见下文。
 
-它的外形与[https://www.roblox.com/games/6516141723/DOORS DOORS（门）]中[https://doors-game.fandom.com/wiki/Rush Rush（突袭）]的粗制版本高度相似。
+它的外形与[https://www.roblox.com/games/6516141723/DOORS Doors（门）]中[https://doors-game.fandom.com/wiki/Rush Rush（突袭）]的粗制版本高度相似。
 
 == 行为 ==
 当'''UI-269'''生成时，它会播放名为《Horror Race》的乐曲，和所有其他I区内的实体一样。如果当前存在更多实体，它会播放同一首乐曲，但音高更高、速度更快。
@@ -27,7 +27,7 @@
 到了这个区段，如果播放《Horror Race》，你应该立刻躲藏，因为UI-269几乎不会给出任何预警。
 
 == 你知道吗 ==
-* 和大多数UI实体一样，'''UI-60'''是作为玩笑内容加入的。
+* 和大多数UI实体一样，'''UI-269'''是作为玩笑内容加入的。
 
 
 {{EntityNavBox}}

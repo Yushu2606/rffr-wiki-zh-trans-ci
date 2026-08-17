@@ -38,4 +38,8 @@ Placeholder.webp
 </gallery>
 
 == Badges ==
-{{Badge|Image=Lapse of Judgment (Badge).png|Name=Lapse of Judgment|Description=Encounter a... that’s not a ###### entity what is this bro.|Obtainment=Encounter and survive a [[Entities#Lapse_Entities|Lapse entity]].}}
+{{Badge
+|Image=Lapse of Judgment (Badge).png
+|Name=Lapse of Judgment
+|Description=Encounter a... that’s not a ###### entity what is this bro.
+|Obtainment=Encounter and survive a [[Entities#Modifier_Exclusive_Entities|Lapse Entity]].}}

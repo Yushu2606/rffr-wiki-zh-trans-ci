@@ -50,7 +50,7 @@ In the 2nd time '''D-140i''' rush back to the main room, it won't destroy any hi
 == Trivia ==
 * '''D-140i''' was made as a joke, being an Admin entity.
 * Obviously because '''D-140i''' is very difficult to deal and will mostly be spawned by Admins to ruin your run, since is very hard to survive his attack.
-* '''Mr_Bird''' is the creator of '''D-140i'''.
+* [[User:XYZ123lose|Mr_Bird]] is the creator of '''D-140i'''.
 
 {{EntityNavBoxAdmin}}
 [[Category:Entities]]

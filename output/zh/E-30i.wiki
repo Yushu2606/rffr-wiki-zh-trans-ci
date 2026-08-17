@@ -12,7 +12,7 @@
 |behavior=当[[E-30]]消失后有概率伴随其出现，行为模式与E-30相同但动静更小
 |speed=中等
 |damage=??? 每秒伤害
-|nicknames=缄默冲刺者Prime
+|nicknames=缄默冲刺者 Prime
 |locker_snipe=是
 |related_monsters=[[A-20i]]<br>[[E-30]]<br>[[M-22]]<br>[[M-22i]]
 |sound1=<center>跳杀</center><center>[[File:E-30iScare.mp3]]</center>}}
@@ -33,6 +33,4 @@
 <gallery>
 File:E-30iScary.gif|跳杀
 File:30 & 30i trail.webp|'''E-30i'''的拖尾粒子
-</gallery>
-
-{{EntityNavBox}}
+</gallery>{{EntityNavBoxSectionE}}

@@ -31,9 +31,7 @@
 ==Trivia==
 
 * There are sometimes that '''E-165''' will despawn immediately after you flash a light in it.
-
-{{EntityNavBox}}
-
+{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]
 [[Category:Stationary]]

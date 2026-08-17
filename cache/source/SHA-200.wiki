@@ -55,6 +55,8 @@ OldSHA200.gif|Oldest Design
 * SHA-200's Breach Soundtrack is called "Good luck" by Musicmanaz on YouTube.
 ** https://youtu.be/ycYFr34dvX4?si=Ov1gEmJDwXzpQmat
 * Surviving SHA-200 3 times during [[Alpha & Shadowpocalypse]] will award you "[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocolypse]" badge
+* SHA-200 (might) be rarer than [[SHA-300]], which means you need to be lucky to encounter SHA-200 3 times before [[SHA-300]]
+* SHA-200 and [[E-200]] are the only 200 entities that come from the back (behind [[void]]) rather than from the front (behind the door to the next room)
 [[Category:Shadow Entities]]
 [[Category:Aimscripter]]
 [[Category:Rusher]]

@@ -15,9 +15,9 @@ Eyescare.webp|跳杀设计图
 |claustrophobia=是
 |locker_snipe=否
 |gun_effect=使其无法伤害玩家，但这会激怒它，射击次数足够多的话会强制生成[[D-5i]]
-|behavior=敲下一扇门三次，随后走向虚空
+|behavior=敲下一扇门三次，随后走向虚空。
 |damage=每秒75伤害
-|speed=17.1 Studs/秒（0.34 间/秒）
+|speed=极慢（0.5 间/秒）（30 Studs/秒）
 |related_monsters=[[D-5i]]（小首领变种）
 |badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该来这里] '''已无法获取'''
 |sound1=<center>[[Super Epic Mode|超级史诗模式]]出现音效</center><center>[[File:VineBoom.mp3]]</center>
@@ -52,22 +52,24 @@ Eyescare.webp|跳杀设计图
 
 ==你知道吗==
 * '''D-5'''<nowiki/>的视线范围为无限，与[[D-5i]]相同。
-** 但<nowiki/>是，如果'''D-20'''生成在它的行进路径上，便会阻挡'''D-5'''的视线，这意味着若它因视线被阻断而现身，将不会伤害玩家
-* '''D-5'''、[[D-55]]与[[M-134]]是'''原版RFF'''中仅有的三个自首次发布以来设计从未改动的自然生成实体
+** 但<nowiki/>是，如果'''D-20'''在其路径上生成，它会阻挡'''D-5'''的视线，这意味着如果它出来，由于视线被阻断，它不会伤害玩家
+* '''D-5'''、[[D-55]]和[[M-134]]是'''OG RFF'''中仅有的自首次发布以来设计未曾改变的自然生成实体
 
 
-== 图集 ==
+== 画廊 ==
 <gallery>
-File:D-5AF26.png|出现于[[April Fools 2026|2026年愚人节活动]]中的D-5
+File:D-5AF26.png|D-5出现于[[April Fools 2026|2026年愚人节]]
 File:Scary D-5.gif|D-5的跳杀
 </gallery>
 
 == 徽章 ==
-{{BadgeSectionD|Image=Dsecinvasion.png|Name=你不该出现在这里|Description=[无法获取] 遭遇一只稀有入侵实体并成功存活。该徽章可在“Invasion（入侵）”活动期间获取。|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动期间，遭遇'''D-5'''、[[D-35]]或[[D-60i|D-60]]并成功存活}}
-
+{{BadgeSectionD
+|Image=Dsecinvasion.png
+|Name=你不应该出现在这里
+|Description=[不可获得] 遭遇并在一只稀有的入侵实体手中存活。该徽章可在「Invasion」活动期间获得。
+|Obtainment='''[不可获得]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动中遭遇'''D-5'''、[[D-35]]或[[D-60i|D-60]]并存活下来。}}
 
 {{EntityNavBoxSectionD}}
-
 [[Category:Entities]]
 [[Category:Section D]]
 [[Category:Fallbacker]]

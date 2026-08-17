@@ -34,8 +34,7 @@ TBA
 
 == 画廊 ==
 <gallery>
-File:L2 ingame.gif|'''LAPSE-2'''短暂经过的画面（低画质）
-File:L-2 ingame 2.gif.gif|同上，但画面更清晰。
+File:L2_better_footage.webp|'''LAPSE-2'''在游戏中的画面（低画质）
 </gallery>
 
 == 徽章 ==

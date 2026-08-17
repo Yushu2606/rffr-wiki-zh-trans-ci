@@ -1,4 +1,4 @@
-<font size= 4>A list of every '''entity''' within in Rooms: Found Footage RENOVATED. They are only 57 '''entities''' that the player can meet naturally, 132 if you count Admin, Removed, Modifier and Upcoming '''Entities'''. There are also the [[Red Rooms]] where '''entities''' get more common. Most '''entities''' are in [[Sections]]. There are 5 in game [[Sections]] being [[Section A]], [[Section D]], [[Section M]], the [[Unnamed Sector]], and [[Section E]], with [[Section R]] potentially coming later in the future.</font> 
+<font size= 4>A list of every '''entity''' within in Rooms: Found Footage RENOVATED. They are only 86 '''entities''' that the player can meet naturally, 150 if you count Admin, Removed, Scrapped , Modifier and Upcoming '''Entities'''. There are also the [[Red Rooms]] where '''entities''' get more common. Most '''entities''' are in [[Sections]]. There are 5 in game [[Sections]] being [[Section A]], [[Section D]], [[Section M]], the [[Unnamed Sector]], and [[Section E]], with [[Section R]] potentially coming later in the future.</font> 
 
 <tabber>
 |-|Section A Entities=
@@ -23,7 +23,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
-{{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
@@ -92,7 +92,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
@@ -141,7 +141,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE601.png|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60CurrentAnim.gif|center|150px|link=E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.png|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120 Design.png|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.png|center|150px|link=E-165]]
@@ -427,14 +427,6 @@ Section M=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
 
 {{!}}-{{!}}
-Section E=
-'''Section E:'''
-{{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
-{{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>'''???'''
-
-{{!}}-{{!}}
 Other=
 '''Other:'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
@@ -471,8 +463,7 @@ Other=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[GAMMA-2]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Player Controlled]]
 {{!}}
+
 </tabber>
-
 {{BrowseNavBox}}
-
 [[Category:Browsing]]

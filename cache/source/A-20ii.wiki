@@ -40,7 +40,7 @@ When it spawns, it will make the player screen static like there's an entity clo
 ==Trivia==
 * In [[April Fools 2026]] he is forced-spawn at room A-020
 ** The same happens with '''II Hate This''' modifier.
-*The II Hate This '''A-20ii''' is the result of an [[A-20i]] when he eats too many chilli peppers. —don’t eat too many chili peppers or you might become a-20ii
+*The II Hate This '''A-20ii''' is the result of when an [[A-20i]] eats too many chilli peppers.
 {{EntityNavBox}}
 [[Category:Rusher]]
 [[Category:Locker Checker]]

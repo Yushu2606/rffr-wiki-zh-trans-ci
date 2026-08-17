@@ -17,7 +17,7 @@ Eyescare.webp|Jumpscare Design
 |gun_effect=Makes it unable to hurt the player, tho this will make it angry, force Spawning [[D-5i]] if done enough times
 |behavior=Knocks on the succeding door thrice before walking to Void.
 |damage=75 DPS
-|speed=17.1 Studs per second (0.34 Rooms/s)
+|speed=Very Slow (0.5 rooms per second) (30 studs per second)
 |related_monsters=[[D-5i]] (Miniboss Variant)
 |badges=[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here You’re Not Supposed To Be Here] '''Unobtainable'''
 |sound1=<center>Spawn Sound in [[Super Epic Mode]]</center><center>[[File:VineBoom.mp3]]</center>
@@ -63,11 +63,13 @@ File:Scary D-5.gif|D-5's jumpscare
 </gallery>
 
 == Badges ==
-{{BadgeSectionD|Image=Dsecinvasion.png|Name=You’re Not Supposed To Be Here|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''D-5''', [[D-35]], or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''}}
-
+{{BadgeSectionD
+|Image=Dsecinvasion.png
+|Name=You’re Not Supposed To Be Here
+|Description=[Unobtainable] Encounter and survive a rare intruding entity. Badge obtainable during the "Invasion" event.
+|Obtainment='''[UNOBTAINABLE]'''<br>Encounter and survive '''D-5''', [[D-35]], or [[D-60i|D-60]] during the D-section invasion event in the original<br>'''Rooms: Found Footage'''.}}
 
 {{EntityNavBoxSectionD}}
-
 [[Category:Entities]]
 [[Category:Section D]]
 [[Category:Fallbacker]]

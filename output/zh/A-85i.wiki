@@ -1,14 +1,14 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
-{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}{{Headphones}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px magenta, 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-60i]]<br>[[A-85]]
 |next_entity=[[A-120]]
 |entity_name=[[File:A-85iPlaceholder.webp|frameless|link=A-85i]]
 |entity_image= <gallery>
-NewBanshee.webp|重制动画
-85i.webp|当前设计
-BansheeAccurate.webp| 旧版重制动画
-A-85icolor.webp|旧版设计
+NewBanshee.gif|动画重制
+85i.png|当前设计
+BansheeAccurate.gif|旧版/经典动画重制
+A-85icolor.png|旧版/经典设计
 </gallery>
 |caption-entity_image=喵
 |appears_at=A-100之后的任意区域。（有1%概率替代A-85生成）
@@ -35,50 +35,51 @@ A-85icolor.webp|旧版设计
 |sound12=<center>氛围背景音</center><center>[[File:A-85iOST.mp3]]</center>}}
 
 ==描述==
-*'''A-85i''' 是一张紫色的三眼面孔，有着宽大的笑容和一口巨大的紫色牙齿，眼睛没有可见的瞳孔。你可以通过它响亮的低语声轻易识别出它的存在。
+*'''A-85i''' 是一张品红色的三眼面孔，有着宽大的笑容和一口巨大的品红色牙齿，眼睛中带有符号化的紫色形状。你可以通过它响亮的低语声轻易识别出它的存在。
+
 ==行为==
 *当'''A-85i'''生成时，会发出音调逐渐降低的响亮低语声。低语结束后，它会向后移动。
 *'''A-85i'''向后移动后，会出现一个初始值为5的门计数器。（每次'''反弹成功'''都会让计数器数值+1）
 *每打开一扇门，门计数器数值就会减少1。
 *无论是否处于'''激怒'''状态，'''A-85i'''都会随机等待45到100秒。
 *'''A-85i'''的等待时间结束后，它会向前冲向当前房间。
-*如果你将门计数器降至0，它会发出两声响亮的“哔”声，随后很快离开。这种情况被称为''反弹成功''。
+*如果你将门计数器降至0，它会发出两声响亮的"哔"声，随后很快离开。这种情况被称为''反弹成功''。
 *如果门计数器数值大于0，它不会发出哔声，反而会迫使你离开躲藏点。门计数器会重置。这种情况被称为'''反弹失败'''。
 *累计3次'''反弹成功'''后，'''A-85i'''会进入'''激怒'''状态，冲锋时会发出巨大的尖叫声。
 *'''A-85i'''处于'''激怒'''状态时，它的音效播放速度会更快，移动速度也更高，几乎没有给玩家留下反应时间。
 *'''A-85i'''的原声OST（原版Rooms环境音）会在它尖叫时立刻开始播放。
-*累计6到8次'''反弹成功'''后，'''A-85i'''会发出巨大的风声，冲到最前方后消失。
+*在6到8次'''成功反弹'''后，'''A-85i'''会发出巨大的风声，并在冲到前方后消失。
 
-==策略与提示==
-* 当'''A-85i'''生成时，等待2-3秒或是等生成音效结束后，再躲进柜子里。
+==策略与技巧==
+* 当'''A-85i'''生成时，等待2-3秒或等到生成音效结束，再躲进柜子里。
 
-* '''A-85i'''无法发动柜击，你可以善加利用这一点！
+* '''A-85i'''无法柜击，好好利用这一点！
 
 * [https://youtu.be/ZHSpOVpi7ho&t 视频演示]
 
 ==冷知识==
-*'''A-85i'''是一种'''Mini-boss（小Boss）'''实体。
-*'''A-85i'''是[[A-85]]的素数变种，有1/100的概率替代其生成。
-*若玩家从A-000号门开始游戏，'''A-85i'''必定会在A-901号门处生成（如果A-901号房内没有各种柜子，它会等待生成有各种柜子的房间后再出现）。
+*'''A-85i'''是'''Mini-boss（小头目）'''实体。
+*'''A-85i'''是[[A-85]]的素数变种，有1/100的概率替代它生成。
+*如果玩家从A-000门开始游戏，'''A-85i'''必定在A-901门生成（如果A-901内没有各种柜子，它会等待有各种柜子的房间再生成）。
 
 == 反弹失败消息 ==
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disapproving voice whispers in your ear.'''</span>（一个不以为然的声音在你耳畔低语。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your impotence seems to relieve your new "friend".'''</span>（你的无力似乎让你新交的“朋友”感到宽慰。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disembodied voice clouds your thoughts,  telling you to proceed.'''</span>（一个虚无的声音扰乱你的思绪，催促你继续前进。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A calling commands you to proceed. '''</span>（一阵呼唤命令你继续前行。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disapproving voice whispers in your ear.'''</span>（一个带着不满的声音在你耳边低语。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your impotence seems to relieve your new "friend".'''</span>（你的无力似乎让你的新“朋友”松了口气。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A disembodied voice clouds your thoughts,  telling you to proceed.'''</span>（一个虚无的声音扰乱你的思绪，告诉你继续前进。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''A calling commands you to proceed. '''</span>（一阵呼唤命令你继续前进。）
 *<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''The whispers of your new "playmate" call out to you.'''</span>（你新“玩伴”的低语在呼唤着你。）
 *<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your thoughts are filled with only one word: "CONTINUE".'''</span>（你的脑海中只剩一个词：“继续”。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''a calmed whisper glees at your failure. '''</span>（一阵平和的低语为你的失败幸灾乐祸。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear a whisper calling you out of hiding.'''</span>（你听到一阵低语唤你从藏身处出来。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your new "friend" seems happy watching your failure.'''</span>（你的新“朋友”似乎乐于见到你的失败。）
-*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear whispers getting louder as you proceed, getting angrier at you for your success.'''</span>（你向前行进时，低语声越来越大，它们因你的成功而对你愈发愤怒。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''a calmed whisper glees at your failure. '''</span>（一阵平静的低语为你的失败幸灾乐祸。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear a whisper calling you out of hiding.'''</span>（你听到一阵低语呼唤你走出躲藏处。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''Your new "friend" seems happy watching your failure.'''</span>（你的新“朋友”似乎乐见你失败。）
+*<span style="text shadow: 0 0 5px #FE01FF; color: #FE01FF;">'''You hear whispers getting louder as you proceed, getting angrier at you for your success.'''</span>（你继续前进时听到低语声越来越大，它们因你的成功而对你愈发愤怒。）
 
-==画廊==
+==图库==
 <gallery>
-File:Banshee_scare.webp|A-85i的跳杀
-File:A-85iSEM.webp|出现在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的A-85i。''（重制图）''
-File:SemA85ijump.webp|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
-File:Eletric.webp|A-85的粒子效果
+File:Banshee scare.gif|A-85i的跳杀
+File:A-85iSEM.png|在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中出现的A-85i。''（复刻）''
+File:SemA85ijump.gif|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
+File:Eletric.webp|A-85的粒子特效
 </gallery>
 
 

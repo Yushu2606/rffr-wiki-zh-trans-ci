@@ -1,5 +1,5 @@
 __NOTOC__
-<center><font size="5px;">'''for more immediate updates, Please Join [https://discord.gg/j89fpEN6bX The Discord Server]'''</font></center>
+<center><font size="5px;">'''for more immediate updates, Please Join [https://discord.gg/VeYJ3wSQNE The Discord Server]'''</font></center>
 
 ==June 2, 2025 "Renovated Open Beta"==
 * '''Rooms: Found Footage: RENOVATED''' released
@@ -875,6 +875,10 @@ __NOTOC__
 * Fixed the custom lobby GUI disappearing for everyone whenever another player creates a lobby
 * Other system fixes
 
+==August 15, 2026==
+* [[Section E]] lag was removed
+* [[E-45]] was recoded
+* [[M-60]]'s spawn/rush sounds now have higher sound rolloff, should be hearable now
 
 <br><br><br><br><br>
 {{BrowseNavBox}}

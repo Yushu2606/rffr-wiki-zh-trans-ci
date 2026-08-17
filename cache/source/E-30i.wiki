@@ -33,6 +33,4 @@ Since '''E-30i''' doesn't give any warning to hint that it spawned, you will nee
 <gallery>
 File:E-30iScary.gif|Jumpscare
 File:30 & 30i trail.webp|'''E-30i''' trail particle
-</gallery>
-
-{{EntityNavBox}}
+</gallery>{{EntityNavBoxSectionE}}

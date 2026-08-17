@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="color: black;text-shadow: -1px 1px yellow, 1px -1px yellow;">Gato</span>}}
-{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
+{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:GatoTitle.webp|frameless|link=Gato]]
+|entity_name=[[File:GatoTitle.gif|frameless|link=Gato]]
 |entity_image=<gallery>
 UI500.gif|事件结束后动画
 GatoJumpAnimation.gif|事件结束后发言动画
-Gato.webp|事件结束后设定
+Gato.png|事件结束后设定
 OldUI500.gif|事件进行时动画
-OldGatoSpeach.webp|事件进行时发言动画
+OldGatoSpeach.gif|事件进行时发言动画
 OldGato.webp|事件进行时设定
 </gallery>
 |nicknames=UI-500<br>圣尊
@@ -62,152 +62,156 @@ OldGato.webp|事件进行时设定
 
 * <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I refer to you, Watcher. No, not {User} or anyone in this world...'''（我指的就是你，观测者。不，不是{User}，也不是这个世界里的任何一个人……）</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I'm talking to YOU. The person advancing text behind the monitor screen.'''（我在和你讲话。那个在屏幕后方推动文本前进的人。）</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I'm talking to YOU. The person advancing text behind the monitor screen.（我在和你讲话。那个在屏幕后方推动文本前进的人。）</span>
 
 * <span style="text shadow: 0 0 5px yellow; color: yellow;">'''That is what a "Watcher" is. It is how mortal beings of this world refer to a power they cannot understand.'''（这就是“观测者”的含义。是这个世界的凡人们对他们无法理解的力量的称呼。）</span>
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''但我清楚你的行事逻辑。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''但我知道你是如何运作的。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''这事实在蹊跷，我至今都没能完全弄明白。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''这是个奇特的案例。一个我始终未能完全理解的案例。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Watchers（守望者）来了。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Watchers（观察者）来了。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们会占据一具躯体。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们占据一具躯体。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们肆意妄为，自身却不会招致任何恶果。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们为所欲为，自身却无需承担任何后果。 '''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''随后便扬长而去。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''然后他们便离开。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''而那具躯壳会就此消失，再也无人得见，仿佛从未存在于世。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''而那具躯体会消失，再也无人见过。仿佛从未存在过。'''</span>
 
 * <span style="text shadow: 0 0 5px yellow; color: yellow;">'''……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''据我推断……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''据我目前所能断定……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''许多Watchers（守望者）不过是想按照自己认可的方式，操纵历史的走向。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''许多观察者只是想以某种自认为合适的方式操纵历史进程。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''又或许……他们受着我之外的某种更高力量的指引。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''又或者……他们受到了某种比我更高等的力量指引。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''为了寻找攫取力量、影响周遭世界的方法……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''为了寻找获取力量、影响周遭世界的方法……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们会不惜一切代价，甚至可能历经无数次死亡，只为夺得这种力量。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们会不惜一切代价，甚至可能死亡许多次，以获取这种力量。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我记得有一个人，那是第一个来到此地的Watcher（守望者），长途跋涉……只为见我一面。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我记得某个人。那是第一个来到这里的观察者。一路跋涉……只为见我。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他名叫Jethro Snowcats，看起来是赶了极远的路才到这里。于是，我回报了他的虔信。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他名叫 Jethro Snowcats。看来他经历了漫长的旅途。于是，我奖赏了他的信念。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我已经很久很久没有和任何凡俗生灵有过交集了……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我已经很久没有与任何凡人接触过了……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''可惜的是，我当时完全不知道后续会发生什么。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''不幸的是，我当时完全不知道接下来会发生什么。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''最终，共有十一名Watchers（守望者）从我这里取得了Torch of Divination（预言之炬）。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''最终，有十一名观察者从我这里获得了 Torch of Divination（占卜火炬）。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''但他们并未将其视作应当共享的馈赠。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''但他们并未将其视为一份应当共享的礼物。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们只把它当成一件工具罢了。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们只把它当作一件工具。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们不是先知，不是信徒，他们贪婪成性。而通过滥用我的力量……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们不是先知。他们不是信徒。他们贪婪无度。而通过滥用我的力量……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们变得无人能挡。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''他们变得势不可挡。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''所以，我很快就不会再永无止境地为那支火炬添注火焰了。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''所以，我很快便不会再永无止境地为那支火炬的火焰供给燃料。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''因为你此刻眼前所见的，不过是一位曾经伟大的神祇残存的空壳。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''因为你此刻所注视的，是一位曾经伟大之神的躯壳。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''遭人背叛，被人摧毁，被遗弃，被抛在身后。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''遭到背叛。被摧毁。被遗弃，被抛下。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我当然是在骗你。像我这样的高等存在……'''</span>
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我们不会腐朽衰败。但我们可能会被遗忘。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''当然，我在骗你。像我这样的高等存在……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''We are not subject to rot and decay. But we can be forgotten. '''</span>（我们不会腐朽衰败。但我们可能被遗忘。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''当那一刻到来时……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''When that happens...'''</span>（当那一刻到来时……）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我们中的大多数只会沦为残存的记忆。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Most of us became little more than a memory.'''</span>（我们中的大多数只会沦为一段记忆。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我在这个世界已经失去了重要的力量。很快，你也会落得同样的下场。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I have been left without significant power in this world. And soon, so shall you.'''</span>（我在这个世界已失去了重要的力量。很快，你也会如此。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''很快，你会遭遇一个你无法战胜的敌人。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Soon, you will encounter an enemy you cannot defeat.'''</span>（很快，你会遇到一个你无法战胜的敌人。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''很快，你会渴求超出你所能拥有的更多力量。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Soon, you will seek more power than you can have.'''</span>（很快，你会渴求超出你所能拥有的力量。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''之后，你便会死去。毫无意义、盲目糊涂，只因贪求无度。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''And then, you will die. Pointlessly, blindly, just wanting more.'''</span>（然后你就会死去。死得毫无意义、盲目糊涂，只因贪求更多。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''你根本不知道何时该从眼前的这场“游戏”中抽身。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Not knowing when to quit the "game" you see in front of you.'''</span>（不知道何时该退出你眼前这场“游戏”。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''当那一刻到来时……来找我吧。我们会一同举杯……敬世界的终焉。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''When that happens... Come find me. And we'll toast... to the end of the world.'''</span>（当那一刻到来时……来找我。我们会举杯……敬世界的终结。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''哦，在你动身之前……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Oh, before you go...'''</span>（哦，在你走之前……）
 
-* <span style="text shadow: 0 0 5px red; color: red;">'''别说我没警告过你。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Don't say i didn't warn you.'''</span>（别说我没警告过你。）
 
-|-|事件台词文本=
-'''事件台词文本'''
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''你的祈祷传达到了我这里，守望者。你好，人类{User}。别害怕。'''</span>
+|-|Event Speach Text=
+'''事件对话文本'''
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Your prayer reached me, Watcher.  Greetings, human {User}. Do not be afraid.'''</span>（你的祈祷传达到了我这里，守望者。你好，人类{User}。不要害怕。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我可能看起来有些眼熟，但实际上我来自一个遥远的平行现实。我是GATO（加托），也被称为“HISHOLINESS（圣座）。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I may appear familiar, but I am actually from a distant alternate reality. I am GATO. Also known as "HISHOLINESS."</span>（我或许看起来眼熟，但实际上我来自遥远的异世界。我是 GATO，也被称为“HISHOLINESS”。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''你的行动为我的降临打开了门。为此，我向你致谢。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Your actions have opened the door for my appearance. For that, I thank you.'''</span>（你的行为为我的降临打开了大门。为此，我感谢你。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''有意思。看来你们这里的“Rooms异常和我此前遇到的其他同类场所大不相同。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Curious. It seems your "Rooms Anomaly is much different than other similar places I have encountered. </span>（有意思。看来你们的“Rooms 异常”与我遇到过的其他类似地方大不相同。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''这条时间线似乎因为其自身主角的行动而变得不稳定。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''This timeline appears to have become unstable due to the actions of its own protagonist.'''</span>（这条时间线似乎因其自身主角的行为而变得不稳定。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我应当尽快采取行动，免得整个时空连续体陷入危机。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''It would be prudent for me to act quickly,  before the spacetime continuum at large is endangered.'''</span>（我应当迅速行动，在整个时空连续体陷入危险之前。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''这个世界的英雄们试图令其失稳——这本是凡人不可能做到的事——这些行动为我的研究提供了巨量数据。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''The actions of this world's heroes in an attempt to destabilize it--an action normally impossible by mortals--have provided me with a tremendous amount of data for my research.'''</span>（这个世界的英雄们试图使其动荡的行为——这通常是凡人不可能做到的——为我的研究提供了大量数据。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我察觉到，你很想了解更多？'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''You are curious to know more, I detect?'''</span>（我察觉到，你很想知道更多？）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''那好吧……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Very well...'''</span>（很好……）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''我，GATO，游历过四方，探寻过无数平行宇宙。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''I, GATO, have traveled far and wide, searching through many alternative universes.'''</span>（我，GATO，曾四处游历，搜寻过许多平行宇宙。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''在每一个宇宙中，我都记录下了它们的福祉，也记录下了它们的缺陷。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Within each one, I have documented their blessings,  and their flaws.'''</span>（在每一个宇宙中，我都记录了它们的恩赐与缺陷。）
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''你或许知道其中几个平行世界，它们被称为“Experiences（体验）”'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''You may know a few of these alternative worlds as "Experiences"'''</span>（其中一些异世界，你们或许称之为“体验（Experiences）”。）
 * <span style="text shadow: 0 0 5px yellow; color: yellow;">'''DOORS. Interminable Rooms. Murder Mystery 2. 3008. Natural Disaster Survival. SCP: Roleplay. Rooms: Low Detailed. Warzone 162 Evolved.'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''通过我对这些世界及其他诸多世界的研究，我试图创造出完美的宇宙。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Through my research on these worlds and many others, I seek to create the perfect universe. 通过我对这些世界及其他众多世界的研究，我试图创造完美的宇宙。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''一个完美的乌托邦。多重宇宙中的一方绿洲。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''A perfect utopia. An oasis within the MULTIVERSE. 一个完美的乌托邦。多元宇宙中的一片绿洲。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''现在，我必须在更多世界陷入危局之前稳定这个现实，之后我打算继续我的研究。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Now, I must stabilize this reality, before many other worlds are put at stake. Then, I intend to continue my research. 现在，我必须稳定这个现实，以免其他众多世界陷入危机。之后，我打算继续我的研究。'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''在我离开之前……'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Before I go... 在我离开之前……'''</span>
 
-* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''请允许我回报你的信任。'''</span>
+* <span style="text shadow: 0 0 5px yellow; color: yellow;">'''Allow me to reward your faith. 请允许我奖赏你的信念。 '''</span>
 
-* <span style="text shadow: 0 0 5px black; color: black;">'''You have been awarded the Torch of Divination.（你已获得Torch of Divination（占卜火炬）。）'''</span>
+* <span style="text shadow: 0 0 5px black; color: black;">'''You have been awarded the Torch of Divination. 你已被授予 Torch of Divination（占卜火炬）。'''</span>
 </tabber>
 
-==死亡讯息==
-===[[Oblivion]] 讯息（活动结束后专属）===
-* <span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''你知道的，他说得对。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''The Watchers（守望者），或许是你，或许是其他人，过去甚至曾做出弑神的行径。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''仅仅是为了得到他们想要的东西，或是诸如此类的目的。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''有些甚至试图背叛我'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''请不要重蹈他们的覆辙。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''如果你这么做了，我会毫不犹豫地成为你无法战胜的敌人。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''这种事我已经见过太多次，不想再看到重演。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''……'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''好了，我们离开这里吧。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''我们从来没有过这次对话。'''</span>
-* <span style="text shadow: 0 0 5px red; color: red;">'''……算我求你了。'''</span>
+==死亡消息==
+===[[Oblivion]] 消息（活动后专属）===
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''He's right, you know. 他说得对，你知道的。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''The Watchers, maybe yourself, maybe others, have in the past gone as far as killing gods. The Watchers（守望者），也许是你自己，也许是其他人，过去甚至曾走到杀神的地步。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Just to get what they want, or something like that. 只是为了得到他们想要的，或类似的东西。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Some even tried turning on me 有些人甚至试图背叛我'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Please don't do the same. 请不要重蹈覆辙。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''I will not hesitate to be that enemy you can't defeat if you do. 如果你这么做，我会毫不犹豫地成为你无法战胜的敌人。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''I've seen it enough times to not want a repeat. 我已经见过太多次，不想再看到重演。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''Alright,  let's get out of here. 好了，我们离开这里吧。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''We never had this conversation. 我们从未有过这段对话。'''</span>
+* <span style="text shadow: 0 0 5px red; color: red;">'''...Please. ……拜托了。'''</span>
 
 
 == 冷知识 ==
-* 若在原版Rooms: Found Footage的2024年愚人节活动中遭遇它，玩家将获得[https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision（至福异象）]徽章，使玩家每次逃生生成时自带'''Torch of Divination（占卜火炬）'''
-** 共有13名玩家获得了'''Torch of Divination（占卜火炬）'''，目前已知仅有6人，分别是[https://www.roblox.com/users/656906114/profile @jethrosnowcats]、[https://www.roblox.com/users/1419694932/profile @GylyDragon]、[https://www.roblox.com/users/4553883008/profile @NeoClemintine]、[https://www.roblox.com/users/641473767/profile @SkyeTheFloofer]、[https://www.roblox.com/users/926604831/profile @XYZ123lose]以及[https://www.roblox.com/users/810082571/profile @ItsKev_Her3]。
+* 如果在原版 Rooms: Found Footage 的2024年愚人节活动中遭遇，玩家将被授予 [https://www.roblox.com/badges/3826503144118745/UNAVAILABLE-Beatific-Vision Beatific Vision] 徽章，使玩家每次逃生时都以 Torch of Divination（占卜火炬）生成
+** Torch of Divination（占卜火炬）共被授予13名玩家，目前已知的仅有6名，分别是 [https://www.roblox.com/users/656906114/profile @jethrosnowcats]、[https://www.roblox.com/users/1419694932/profile @GylyDragon]、[https://www.roblox.com/users/4553883008/profile @NeoClemintine]、[https://www.roblox.com/users/641473767/profile @SkyeTheFloofer]、[https://www.roblox.com/users/926604831/profile @XYZ123lose] 和 [https://www.roblox.com/users/810082571/profile @ItsKev_Her3]。
 
 == 画廊 ==
 <gallery>
-HiGato.webp|活动结束后一名玩家遭遇'''Gato'''
-Divination.webp|Torch of Divination（占卜火炬）
-OLDToD.webp|旧版Torch of Divination模型
+HiGato.gif|一名玩家在活动后遭遇 '''Gato'''
+Divination.png|Torch of Divination（占卜火炬）
+OLDToD.png|旧版 Torch of Divination（占卜火炬）模型
 </gallery>
 
 == 徽章 ==
-{{Badge|Image=Beatificvision.webp|Name=Beatific Vision（至福异象）|Description=遭遇祂。完成2024年愚人节活动即可获得。（……又或许它终究还是可以获取的？）|Obtainment='''[无法获取]'''<br>在2024年愚人节活动期间到达I-500，即可在原版<br>'''Rooms: Found Footage'''中遭遇'''Gato（加托）'''}}
+{{Badge
+|Image=Beatificvision.png
+|Name=Beatific Vision
+|Description=遭遇 HIM。完成 2024 年愚人节活动后授予。（……又或许终究还是可以获得的？）
+|Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage''' 的 2024 年愚人节活动中到达 I-500，遭遇 '''Gato'''。}}
 
 {{EntityNavBox}}
 [[Category:Super Epic Mode]]

@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px magenta, 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-60i]]<br>[[A-85]]
@@ -7,8 +7,8 @@
 |entity_image= <gallery>
 NewBanshee.gif|Animation Recreation 
 85i.png|Current Design
-BansheeAccurate.gif| Old Animation Recreation
-A-85icolor.png|Old Design
+BansheeAccurate.gif|Old/Legacy Animation Recreation
+A-85icolor.png|Old/Legacy Design
 </gallery>
 |caption-entity_image=meow
 |appears_at=Anywhere Past A-100. (1 in 100 to replace A-85 spawn)
@@ -35,7 +35,8 @@ A-85icolor.png|Old Design
 |sound12=<center>Atmospheric Ambience</center><center>[[File:A-85iOST.mp3]]</center>}}
 
 ==Description==
-*'''A-85i''' is a purple, three-eyed face, which contains a wide smile with a set of large, purple teeth, and eyes with no visible pupils. It can easily be identified by its loud whispers.
+*'''A-85i''' is a magenta, three-eyed face, which contains a wide smile with a set of large, magenta teeth, and eyes with symbolized purple shapes. It can easily be identified by its loud whispers.
+
 ==Behavior==
 *When '''A-85i''' spawns, it will make loud whispers that decrease in pitch. After it's done whispering, it will move backwards.
 *After '''A-85i''' moves backwards, a door counter will begin, starting at 5. (Each '''successful rebound''' increases this by 1)

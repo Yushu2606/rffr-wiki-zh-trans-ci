@@ -1,4 +1,4 @@
-<font size= 4>以下是《Rooms: Found Footage RENOVATED》中所有'''实体'''的列表。玩家可自然遭遇的'''实体'''仅有57个，若计入Admin、Removed、修饰符与Upcoming'''实体'''则总数为132个。另有[[Red Rooms|红区]]，其中'''实体'''的出现频率更高。绝大多数'''实体'''都位于[[Sections|各分区]]内。游戏内现有5个[[Sections|分区]]：[[Section A|A区]]、[[Section D|D区]]、[[Section M|M区]]、[[Unnamed Sector|无名区域]]与[[Section E|E区]]，[[Section R|R区]]则有可能在未来推出。</font> 
+<font size= 4>以下是《Rooms: Found Footage RENOVATED》中所有'''实体'''的列表。玩家可自然遭遇的'''实体'''仅有86个，若计入Admin、Removed、Scrapped、修饰符与Upcoming'''实体'''则总数为150个。另有[[Red Rooms|红区]]，其中'''实体'''的出现频率更高。绝大多数'''实体'''都位于[[Sections|各分区]]内。游戏内现有5个[[Sections|分区]]：[[Section A|A区]]、[[Section D|D区]]、[[Section M|M区]]、[[Unnamed Sector|无名区域]]与[[Section E|E区]]，[[Section R|R区]]则有可能在未来推出。</font> 
 
 <tabber>
 |-|A区实体=
@@ -23,7 +23,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
-{{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[A-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
@@ -39,8 +39,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.png|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.png|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -61,7 +61,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-175_new.webp|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-175 new.png|center|150px|link=D-175]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
 {{!}}-
@@ -92,7 +92,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200]]
@@ -141,7 +141,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewE601.png|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60CurrentAnim.gif|center|150px|link=E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.png|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120 Design.png|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.png|center|150px|link=E-165]]
@@ -220,13 +220,13 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
-{{!}}
+{{!}}}
 
-|-|Modifier Exclusive Entities=
+|-|修饰符专属实体=
 '''修饰符专属实体：'''
 {{#tag:tabber
-|Alpha & Shadowpocalypse=
-<center>'''Alpha & Shadowpocalypse：'''</center><br>
+|阿尔法 & Shadowpocalypse（暗影天启）=
+<center>'''阿尔法 & Shadowpocalypse（暗影天启）：'''</center><br>
 <center>'''暗影实体：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
@@ -255,8 +255,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
 {{!}}-{{!}}
-II Hate This=
-<center>'''II Hate This：'''</center>
+II Hate This（我讨厌这个）=
+<center>'''II Hate This（我讨厌这个）：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA20ii.png|center|150px|link=A-20ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:XX60.gif|center|150px|link=A-60ii]]
@@ -274,15 +274,15 @@ II Hate This=
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60ii]]
 {{!}}-{{!}}
-Clocks Ticking=
-<center>'''Clocks Ticking：'''</center>
+Clocks Ticking（时钟滴答）=
+<center>'''Clocks Ticking（时钟滴答）：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:FatherDeath.png|center|150px|link=X-000]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[X-000]]
 {{!}}-{{!}}
-Super Epic Mode=
-<center>'''Super Epic Mode：'''</center><br>
+Super Epic Mode（超史诗模式）=
+<center>'''Super Epic Mode（超史诗模式）：'''</center><br>
 <center>'''A区：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-20ii.png|center|150px|link=A-20ii]]
@@ -373,7 +373,7 @@ Super Epic Mode=
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.jpg|center|150px|link=Fake Strange Keycard]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard|Fake Strange Keycard（假奇异钥匙卡）]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard|Fake Strange Keycard（伪造奇异钥匙卡）]]
 }}
 
 |-|Upcoming 实体=
@@ -427,14 +427,6 @@ M区=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
 
 {{!}}-{{!}}
-E区=
-'''E区：'''
-{{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
-{{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>'''???'''
-
-{{!}}-{{!}}
 其他=
 '''其他：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
@@ -471,8 +463,7 @@ E区=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[GAMMA-2]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Player Controlled]]
 {{!}}
+
 </tabber>
-
 {{BrowseNavBox}}
-
 [[Category:Browsing]]

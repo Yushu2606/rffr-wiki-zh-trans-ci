@@ -26,12 +26,12 @@ CorporealOverseer.png|Corporeal Form
 ==Behavior==
 <tabber>
 |-|SHA-000=
-'''SHA-000:'''<br>Is exclusive to the [[Alpha & Shadowpocalypse]],  and Will have a chance to spawn when a door is opened after 750, if it does spawn, it will surround the player in chains, attempting to pull them down into a pentagram, the player has to click on numbered orbs that appear on the screen to regain strength, '''SHA-0''' will despawn after 30-90 orbs have been clicked, the player is immediately killed if the strength bar reaches 0.
+'''SHA-000:'''<br>is exclusive to the [[Alpha & Shadowpocalypse]] and sill have a chance to spawn when a door is opened past 750. When it does spawn, it will surround the player with chains and attempt to pull them down into a pentagram. The player has to click on numbered orbs that appear on the screen to regain strength, '''SHA-0''' will despawn after 30-90 orbs have been clicked. The player is immediately killed if the strength bar reaches 0.
 
-If there are multiple players in a run, 1 player will randomly be Choosen by '''SHA-0''', the choosen player has to kill all other players by touching them before a timer ends to survive, The choosen player will be immediately killed if they fail to kill everyone within the given time.
+If there are multiple players in a run, 1 player will randomly be Choosen by '''SHA-000''', the choosen player has to kill all other players by touching them before a timer ends to survive. The choosen player will be immediately killed if they fail to kill everyone within the given time.
 
 |-|Normal Form=
-'''Normal:'''<br>It will appear once you die to an entity, tho unlike [[Oblivion]], they will barely help you, sometimes giving you misinformation.
+'''Normal:'''<br>It will appear once you die to an entity, tho unlike [[Oblivion]] they will barely help you, most the time giving you misinformation.
 
 They will talk about how Perfect their creations are if you die to any entity that reside within the [[Shadow Challenge]], or the [[Alpha & Shadowpocalypse]].
 

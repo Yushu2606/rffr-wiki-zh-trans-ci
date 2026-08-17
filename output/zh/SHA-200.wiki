@@ -1,15 +1,15 @@
-{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200（低氧 Hypoxia）</span>}}
+{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200（低氧 Hypoxia）</span>}}
 {{InfoBox:Entity
-|entity_name=[[File:Sha200logo.webp]]
+|entity_name=[[File:Sha200logo.gif]]
 |entity_image=<gallery>
-NewSHA200.webp|当前设计
-Sha200_gif.webp|旧设计
-SHA-200Older.webp|更早的设计
-OldSHA200.webp|最早的设计
+NewSHA200.gif|当前设计
+Sha200.gif|旧设计
+SHA-200Older.gif|更早的设计
+OldSHA200.gif|最早的设计
 </gallery>
 |caption-entity_image=我在30号房碰到Connor时的状态
 |previous_entity=[[SHA-180]]
-|next_entity=无（[[Shadow Challenge|SC]]）<br>[[LAPSE-200]]（[[Alpha & Shadowpocalypse|A&SP]]）<br>[[SHA-300]]（[[Alpha & Shadowpocalypse|A&SP]]）
+|next_entity=无（[[Shadow Challenge|SC]]）<br>[[LAPSE-200]]([[Alpha & Shadowpocalypse|A&SP]])<br>[[SHA-300]]（[[Alpha & Shadowpocalypse|A&SP]]）
 |nicknames=低氧（Hypoxia）
 |appears_at=[[Shadow Challenge|SC]]<br>[[Alpha & Shadowpocalypse|A&SP]]<br>入侵
 |type=暗影<br>锁定者
@@ -52,9 +52,11 @@ OldSHA200.webp|最早的设计
 ** <span style="text-shadow: 0 0 5px black; color: #5509D2;">You've gone too far for your own good.</span>（你跑得太远了，对你没好处。）
 ** <span style="text-shadow: 0 0 5px black; color: #390789;">Now put on a great show for us.</span>（现在给我们好好表演一场吧。）
 ** <span style="text-shadow: 0 0 5px black; color: #5E0A0B;">..You heard something in the distance.（……你听到远处有什么动静。）</span>
-* SHA-200 的突破事件原声曲目为 YouTube 用户 Musicmanaz 创作的《Good luck》。
+* SHA-200突破时的背景音乐是YouTube上Musicmanaz创作的《Good luck（好运）》。
 ** https://youtu.be/ycYFr34dvX4?si=Ov1gEmJDwXzpQmat
-* 在[[Alpha & Shadowpocalypse|阿尔法与暗影灾变]]期间从SHA-200的袭击中存活3次，即可获得“[https://www.roblox.com/badges/3894791347386141/The-Apocalypse 天启]”徽章
+* 在[[Alpha & Shadowpocalypse|阿尔法与Shadowpocalypse（暗影天启）]]期间从SHA-200手中存活3次，你将获得“[https://www.roblox.com/badges/3894791347386141/The-Apocalypse The Apocolypse（天启）]”徽章
+* SHA-200（可能）比[[SHA-300]]更稀有，这意味着你需要足够幸运，才能在遇到[[SHA-300]]之前遭遇3次SHA-200
+* SHA-200和[[E-200]]是仅有的两个从后方（[[void|虚空]]之后）出现的200号实体，而非从前方（通往下一个房间的门后）出现
 [[Category:Shadow Entities]]
 [[Category:Aimscripter]]
 [[Category:Rusher]]

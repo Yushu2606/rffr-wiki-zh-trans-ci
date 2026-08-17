@@ -5,7 +5,6 @@
 {{InfoBox:Entity
 |entity_name=[[File:Bite of 83.gif|frameless|link=M-200]]
 |entity_image=<gallery>
-Placeholder.webp|Upcoming Design
 NewM200.gif|Current Design
 M200Hurt.gif|Current Hurt Design
 NewerM-200.gif|Old design

@@ -1,5 +1,6 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse, 0 0 5px chartreuse; color: black;">A-135i (Reporter)</span>}}
 {{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
 |next_entity=[[A-200]]
@@ -17,12 +18,12 @@ A135i.png|Old/True Legacy Design
 |damage=Instant Death
 |gun_effect=None
 |locker_snipe=No
-|speed=1000 Studs/second [20 ROOMS/S]
+|speed=Very Fast (9.25 rooms per second) (555 studs per second)
 |related_monsters=[[A-135]] (Normal variant)<br>
 [[M-60i]] (Similar mechanic)<br>
 |sound1=<center>[SEMI-LOUD] Spawn</center><center>[[File:A-135iSpawnNew.mp3]]</center>
-|sound2=<center>Far Ambience</center><center>[[File:A-135iRushNew.mp3]]</center>
-|sound3=<center>Near Ambience</center><center>[[File:A-135iFarNew.mp3]]</center>
+|sound2=<center>[LOUD] Far Ambience</center><center>[[File:A-135iRushNew.mp3]]</center>
+|sound3=<center>[LOUD] Near Ambience</center><center>[[File:A-135iFarNew.mp3]]</center>
 |sound4=<center>[LOUD] Close Ambience</center><center>[[File:A-135iNearNew.mp3]]</center>
 |sound5=<center>[VERY LOUD WARNING] Jumpscare</center><center>[[File:D-55JumpscareSfx.mp3]]</center>|sound6=<center>Spawn Origin</center><center>[[File:135ispawnorigin.mp3]]</center>}}
 
