@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black; color: black;">D-175 (Impairment（削弱者）)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{InfoBox:Entity
 |previous_entity=[[D-140]]
 |next_entity=[[D-200]]
@@ -34,8 +34,8 @@
 ==画廊==
 <gallery>
 File:D-175_new.webp|柜子中的新'''D-175'''
-File:D-175.png|柜子中的'''D-175'''
-File:D-175 in a Heavy Blue Locker.png|重型蓝色柜子中的'''D-175'''
+File:D-175.webp|柜子中的'''D-175'''
+File:D-175_in_a_Heavy_Blue_Locker.webp|重型蓝色柜子中的'''D-175'''
 </gallery>
 
 

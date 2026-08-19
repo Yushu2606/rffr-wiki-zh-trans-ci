@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red, 0 0 65px red; color: red;">LAPSE-3 (???)</span>}}
-{{ArticleBackground|File=OblivionScreen.png}}
+{{ArticleBackground|File=OblivionScreen.webp}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
 {{InfoBox:Entity
 |entity_name=LAPSE-3
-|entity_image=LAPSE3.png
+|entity_image=LAPSE3.webp
 |caption-entity_image=正在生成[[SHA-200]]
 |previous_entity=[[SHA-3]]<br>[[LAPSE-2]]
 |next_entity=[[SHA-4]]<br>[[LAPSE-60]]
@@ -39,7 +39,7 @@ Placeholder.webp
 
 == 徽章 ==
 {{Badge
-|Image=Lapse of Judgment (Badge).png
+|Image=Lapse_of_Judgment_(Badge).webp
 |Name=Lapse of Judgment
 |Description=Encounter a... that's not a ###### entity what is this bro.（遇到了一个……这根本不是什么######实体啊兄弟，这啥啊？）
 |Obtainment=遇到并在[[Entities#Modifier_Exclusive_Entities|Lapse类实体]]的攻击下存活。}}

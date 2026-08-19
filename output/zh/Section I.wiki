@@ -1,7 +1,7 @@
-{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">I区（换乘区）</span>}}{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{DISPLAYTITLE:<span style="color: white;text-shadow: -1px 1px blue, 1px -1px blue;">I区（换乘区）</span>}}{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
 {{Modifier Exclusive|[[Legacy Mode|遗产模式]]}}
 {{SectionInfoBox
-|image=Section I Tables Lights Both Sides.png
+|image=Section_I_Tables_Lights_Both_Sides.webp
 |previous_section=[[Section D|D区]]
 |next_section=无
 |entity_amount=7
@@ -22,10 +22,10 @@
 <small>注意：所有这些条目都会重定向到[[Section M|M区]]的实体页面。</small>
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M22.png|center|150px|link=M-22]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M70.png|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M70.webp|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.webp|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
@@ -33,8 +33,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70|I-70]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.webp|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]
@@ -42,14 +42,14 @@
 
 ==房间==
 <gallery>
-Section I Door.png|通往I区的门
-Section I Starting Room.png|初始房间
-Section I Starting Hallway.png|初始走廊
-Section I Starting Lights Left.png|灯光位于左侧的走廊
-Section I Starting Lights Right.png|同上，但灯光位于右侧
-Section I Starting Bridge.png|带有桥梁的房间
-Section I Tables Lights Both Sides.png|摆放着桌子和柜子的走廊
-Section I Lights Both Sides.png|同上，但没有桌子
+Section_I_Door.webp|通往I区的门
+Section_I_Starting_Room.webp|初始房间
+Section_I_Starting_Hallway.webp|初始走廊
+Section_I_Starting_Lights_Left.webp|灯光位于左侧的走廊
+Section_I_Starting_Lights_Right.webp|同上，但灯光位于右侧
+Section_I_Starting_Bridge.webp|带有桥梁的房间
+Section_I_Tables_Lights_Both_Sides.webp|摆放着桌子和柜子的走廊
+Section_I_Lights_Both_Sides.webp|同上，但没有桌子
 </gallery>
 
 ==攻略==

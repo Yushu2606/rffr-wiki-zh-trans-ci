@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px chartreuse; color: chartreuse;">GAMMA-1</span>}}
-{{ArticleBackground|File=GAMMABack.png}}
+{{ArticleBackground|File=GAMMABack.webp}}
 {{Stub}}
 {{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=GAMMA-1
-|entity_image=Gamma-1.png
+|entity_image=Gamma-1.webp
 |next_entity=[[GAMMA-2]]
 |appears_at=仅可由Admin召唤
 |type=暗影<br>冲刺者<br>柜子检查者
@@ -31,7 +31,7 @@
 
 == 图库 ==
 <gallery>
-File:GAMMA Entities Jumpscare.jpg|跳杀
+File:GAMMA_Entities_Jumpscare.webp|跳杀
 </gallery>{{EntityNavBoxAdmin}}
 [[Category:Shadow Entities]]
 [[Category:Rusher]]

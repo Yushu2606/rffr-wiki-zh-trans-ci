@@ -1,6 +1,6 @@
-{{ArticleBackground|File=Unnamed .png}}{{Stub}}{{InfoBox:Entity
+{{ArticleBackground|File=Unnamed_.webp}}{{Stub}}{{InfoBox:Entity
 |entity_name=False-200
-|entity_image=F-200.gif
+|entity_image=F-200.webp
 |previous_entity=[[False-120]]
 |next_entity=[[Mouth|False-300]]<br>[[E-10]]
 |claustrophobia=是
@@ -31,7 +31,7 @@
 * [[Items|Strange Keycard（奇异钥匙卡）]]只会在第一次'''False-200'''袭击后开始生成。
 ==画廊==
 <gallery>
-File:False-200 Picture Clear.png|游戏内的'''False-200'''。
+File:False-200_Picture_Clear.webp|游戏内的'''False-200'''。
 File:F200.webp|同上，但视角来自柜子内部。
 </gallery>
 

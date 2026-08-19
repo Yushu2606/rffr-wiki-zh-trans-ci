@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px magenta, -1.5px 0.66px 2px magenta; color: black;">SHA-7（亡魂）</span>}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 {{InfoBox:Entity
 |entity_name=SHA-7
 |entity_image=<gallery>
-SHA7CLOSED.gif|阖脸动画
-SHA7OPENED.gif|开脸动画
+SHA7CLOSED.webp|阖脸动画
+SHA7OPENED.webp|开脸动画
 SHA7Main.webp|闭合设计
 SHA7Split1.webp|分裂设计 1
 SHA7Split2.webp|分裂设计 2
@@ -52,7 +52,7 @@ SHA7Face.webp|面部设计
 
 == 画廊 ==
 <gallery>
-Sha7NextToD20.jpg|'''SHA-7'''在一次完美事件中出现在[[D-20]]旁边。
+Sha7NextToD20.webp|'''SHA-7'''在一次完美事件中出现在[[D-20]]旁边。
 </gallery>
 
 [[Category:Shadow Entities]]

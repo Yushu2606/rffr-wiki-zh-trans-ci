@@ -1,19 +1,19 @@
 {{DISPLAYTITLE:<span style="animation: d35 0.5s infinite">'''D-35 (Inverting Smile)'''</span>}}
 {{Redesign|Helical|未知}}
 {{DesignNotAllowed|design=Upcoming 跳杀设计|reason=设计者要求|exceptions=N/A}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[D-20]]
 |next_entity=[[D-35i]]<br>[[D-55]]
-|entity_name=[[File:Floory.gif|frameless|link=D-35]]
+|entity_name=[[File:Floory.webp|frameless|link=D-35]]
 |entity_image=<gallery>
-D-35UpcomingFrame1.png|Upcoming 设计 1
-D-35UpcomingFrame2.png|Upcoming 设计 2
-D-35Redesign.gif|当前设计
-NewD-35.gif|旧设计
-OldestD35.gif|更旧设计
-LegacyD35.gif|最旧设计
+D-35UpcomingFrame1.webp|Upcoming 设计 1
+D-35UpcomingFrame2.webp|Upcoming 设计 2
+D-35Redesign.webp|当前设计
+NewD-35.webp|旧设计
+OldestD35.webp|更旧设计
+LegacyD35.webp|最旧设计
 </gallery>
 |appears_at=D-035之后的任意区域。
 |nicknames=Inverting Smile（反转笑脸）<br>"Shadow Winner"（「暗影胜者」）（旧昵称）
@@ -57,15 +57,15 @@ LegacyD35.gif|最旧设计
 
 == Gallery ==
 <gallery>
-File:NewD-35Jumpscare.gif|D-35 跳杀
-File:D-35JumpscareAaaa.gif|旧版 D-35 跳杀
-File:OlderD-35Jump.gif|更早期的 D-35 跳杀
-LegacyD35.gif|Legacy 模式设计
+File:NewD-35Jumpscare.webp|D-35 跳杀
+File:D-35JumpscareAaaa.webp|旧版 D-35 跳杀
+File:OlderD-35Jump.webp|更早期的 D-35 跳杀
+LegacyD35.webp|Legacy 模式设计
 </gallery>
 
 == Badges ==
 {{BadgeSectionD
-|Image=Dsecinvasion.png
+|Image=Dsecinvasion.webp
 |Name=你不该出现在这里
 |Description=[不可获取] 遭遇并从一只稀有的入侵实体手中存活。该徽章可在"Invasion"活动期间获取。
 |Obtainment='''[不可获取]'''<br>在原版<br>'''Rooms: Found Footage''' 的 D 区入侵活动中遭遇并从 [[D-5#Invasion|D-5]]、'''D-35''' 或 [[D-60i|D-60]] 手中存活。}}

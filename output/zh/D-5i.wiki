@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px navy; color: #7f00ff;">D-5i（搜寻者）</span>}}
-{{Redesign|Unknown|当前设计由a predator制作}}{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{Redesign|Unknown|当前设计由a predator制作}}{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{InfoBox:Entity
 |previous_entity=[[D-5]]
 |next_entity=[[D-20]]
-|entity_name=[[File:D-5iPlaceHolder.png|frameless|link=D-5i]]
+|entity_name=[[File:D-5iPlaceHolder.webp|frameless|link=D-5i]]
 |entity_image=<gallery>
-D5i.png|设计图
-D5iMad.png|暴怒状态设计图
+D5i.webp|设计图
+D5iMad.webp|暴怒状态设计图
 Eyescare.webp|跳杀设计图
 </gallery>
 |appears_at=D-005之后的任意区域
@@ -57,8 +57,8 @@ Eyescare.webp|跳杀设计图
 
 == 图集 ==
 <gallery>
-D-5i scary.gif|D-5i的跳杀
-Eyes.png|[[April Fools 2026|2026年愚人节]]中的设计
+D-5i_scary.webp|D-5i的跳杀
+Eyes.webp|[[April Fools 2026|2026年愚人节]]中的设计
 </gallery>
 
 

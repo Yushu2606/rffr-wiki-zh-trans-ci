@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:E-45（畸变体）}}
 {{Stub}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
 |entity_name=E-45
 |entity_image=<gallery>
-E45.png|待机外观
-E45Attack.png|攻击外观
+E45.webp|待机外观
+E45Attack.webp|攻击外观
 </gallery>
 |previous_entity=[[E-30]]<br>[[E-30i]]
 |next_entity=[[E-60]]<br>[[E-90]]
@@ -38,8 +38,8 @@ E45Attack.png|攻击外观
 
 ==画廊==
 <gallery>
-E45Gray.png|藏有'''E-45'''的灰色柜子。
-E45Blue.png|藏有'''E-45'''的蓝色柜子。
+E45Gray.webp|藏有'''E-45'''的灰色柜子。
+E45Blue.webp|藏有'''E-45'''的蓝色柜子。
 </gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]

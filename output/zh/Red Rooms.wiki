@@ -1,9 +1,9 @@
 __NOTOC__
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">红区</span>}}
-{{ArticleBackground|File=RRBack.jpg}}
+{{ArticleBackground|File=RRBack.webp}}
 {{InfoBox:Entity
 |entity_name=红区
-|entity_image=RRDoor.jpg
+|entity_image=RRDoor.webp
 |sound1=<center>铺垫音效（[[Unnamed Sector|无名区域]]）</center><center>[[File:UnnamedRRBuildup.mp3]]</center>
 |sound2=<center>环境音效 1</center><center>[[File:RRSound1.mp3]]</center>
 |sound3=<center>环境音效 2</center><center>[[File:RRSound2.mp3]]</center>
@@ -33,7 +33,7 @@ __NOTOC__
 
 <h2>画廊</h2>
 <gallery>
-RRA.jpg|'''红区'''中出现的一间A区房间
+RRA.webp|'''红区'''中出现的一间A区房间
 </gallery>
 
 
@@ -62,7 +62,7 @@ RRA.jpg|'''红区'''中出现的一间A区房间
 
 <h2>图库</h2>
 <gallery>
-RRD.jpg|在'''红区'''中看到的D区房间
+RRD.webp|在'''红区'''中看到的D区房间
 </gallery>
 
 
@@ -90,7 +90,7 @@ RRD.jpg|在'''红区'''中看到的D区房间
 <h2>图库</h2>
 <gallery>
 Placeholder.webp|在'''红区'''中看到的新M区房间
-RRM.jpg|在'''红区'''中看到的旧M区房间
+RRM.webp|在'''红区'''中看到的旧M区房间
 </gallery>
 
 
@@ -113,7 +113,7 @@ RRM.jpg|在'''红区'''中看到的旧M区房间
 
 <h2>图集</h2>
 <gallery>
-RRU.jpg|在'''红区'''期间看到的一个无名区域房间
+RRU.webp|在'''红区'''期间看到的一个无名区域房间
 </gallery>
 
 
@@ -141,7 +141,7 @@ RRU.jpg|在'''红区'''期间看到的一个无名区域房间
 
 <h2>图集</h2>
 <gallery>
-RRE.jpg|在'''红区'''期间看到的一个E区房间
+RRE.webp|在'''红区'''期间看到的一个E区房间
 </gallery>
 
 
@@ -172,36 +172,36 @@ RRE.jpg|在'''红区'''期间看到的一个E区房间
 
 ==徽章==
 {{BadgeSectionA
-|Image=Insanity. (Badge).png
+|Image=Insanity._(Badge).webp
 |Name=精神错乱。
 |Description=这场噩梦即将结束。
 |Obtainment=打开 A-900 号门。}}
 
 {{BadgeSectionD
-|Image=Caving In (Badge).png
+|Image=Caving_In_(Badge).webp
 |Name=崩溃
 |Description=精神崩溃。
 |Obtainment=打开 D-900 号门。}}
 
 {{BadgeSectionM
-|Image=NewProhibitedZoneBadge.png
+|Image=NewProhibitedZoneBadge.webp
 |Name=禁区
 |Description=那些声音。它们无处不在。让它们停下来。
 |Obtainment=打开 M-900 号门。}}
 
 {{BadgeUnnamed
-|Image=SectorShutdown.png
+|Image=SectorShutdown.webp
 |Name=区域关闭
 |Description=这是你造成的。
 |Obtainment=捡起奇怪的钥匙卡。}}
 
 {{BadgeSectionE
-|Image=NewExecutiveDysfunctionBadge.png
+|Image=NewExecutiveDysfunctionBadge.webp
 |Name=执行功能障碍
 |Description=循环不断重复，一遍又一遍。|Obtainment=打开 E-900 号门。}}
 
 {{Badge
-|Image=Insanity?NoThanks.png
+|Image=Insanity?NoThanks.webp
 |Name=精神错乱？不了，谢谢。
 |Description=打开任意区的 900 号房间，并在 20 分钟或更短时间内到达 1000 号房间。
 |Obtainment=在 20 分钟内通关[[Red Rooms|红区]]。}}

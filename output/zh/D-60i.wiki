@@ -1,39 +1,39 @@
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{NoteBox|note=请勿与'''Rooms Re-Established'''中的L-60i混淆，二者与'''D-60i'''的机制相似}}
 {{Headphones}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #FCC300; color: #FCC300;">D-60i（入侵者）</span>}}
 {{InfoBox:Entity
 |previous_entity=[[D-55i]]<br>[[D-60]]
 |next_entity=[[D-120]]<br>[[D-140]]
-|entity_name=[[File:D-60iTitle.gif|frameless|link=D-60i]]
+|entity_name=[[File:D-60iTitle.webp|frameless|link=D-60i]]
 |entity_image=<gallery>
-Redesign_D-60i_Animation.gif|D-60i 第一阶段动画重制版
-D60iface1.png|第一阶段第1张脸
-D60iface2.png|第一阶段第2张脸
-D60iface3.png|第一阶段第3张脸
-D60iface4.png|第一阶段第4张脸
-D60iface5.png|第一阶段第5张脸
-D60iFace6.png|第一阶段第6张脸
-D60iface7.png|第一阶段第7张脸
-D60iface8.png|第一阶段第8张脸 
-D60iface9.png|第一阶段第9张脸 
-D60iface10.png|第一阶段第10张脸 
-D60iface11.png|第一阶段第11张脸 
-D60iface12.png|第一阶段第12张脸 
-D60iface13.png|第一阶段第13张脸
-D60iface1Phase2.png|第二阶段第1张脸
-D60iface2phase2.png|第二阶段第2张脸
-D60iface3phase2.png|第二阶段第3张脸
-D60iface4phase2.png|第二阶段第4张脸
-D60iface5phase2.png|第二阶段第5张脸
-D60iface6phase2.png|第二阶段第6张脸
-D60iface7phase2.png|第二阶段第7张脸
-D60iface8phase2.png|第二阶段第8张脸
-D60iface9Phase2.png|第二阶段第9张脸
-D60iface10phase2.png|第二阶段第10张脸
-D60iface11Phase2.png|第二阶段第11张脸
-D60iface12Phase2.png|第二阶段第12张脸
-D60iface13Phase2.png|第二阶段第13张脸
+Redesign_D-60i_Animation.webp|D-60i 第一阶段动画重制版
+D60iface1.webp|第一阶段第1张脸
+D60iface2.webp|第一阶段第2张脸
+D60iface3.webp|第一阶段第3张脸
+D60iface4.webp|第一阶段第4张脸
+D60iface5.webp|第一阶段第5张脸
+D60iFace6.webp|第一阶段第6张脸
+D60iface7.webp|第一阶段第7张脸
+D60iface8.webp|第一阶段第8张脸 
+D60iface9.webp|第一阶段第9张脸 
+D60iface10.webp|第一阶段第10张脸 
+D60iface11.webp|第一阶段第11张脸 
+D60iface12.webp|第一阶段第12张脸 
+D60iface13.webp|第一阶段第13张脸
+D60iface1Phase2.webp|第二阶段第1张脸
+D60iface2phase2.webp|第二阶段第2张脸
+D60iface3phase2.webp|第二阶段第3张脸
+D60iface4phase2.webp|第二阶段第4张脸
+D60iface5phase2.webp|第二阶段第5张脸
+D60iface6phase2.webp|第二阶段第6张脸
+D60iface7phase2.webp|第二阶段第7张脸
+D60iface8phase2.webp|第二阶段第8张脸
+D60iface9Phase2.webp|第二阶段第9张脸
+D60iface10phase2.webp|第二阶段第10张脸
+D60iface11Phase2.webp|第二阶段第11张脸
+D60iface12Phase2.webp|第二阶段第12张脸
+D60iface13Phase2.webp|第二阶段第13张脸
 </gallery>
 |caption-entity_image=嗨，我叫D-60i！很高兴认识你！现在就让我入侵你的逃生吧！
 |appears_at=D-220之后的任意位置
@@ -139,32 +139,32 @@ Trepidation 的第二部分随即播放；
 D60i1.webp|倒计时1
 D60i2.webp|倒计时2
 D60i3.webp|倒计时3
-OldD-60i1.png|旧版倒计时1
-OldD-60i2.png|旧版倒计时2
-OldD-60i3.png|旧版倒计时3
-D-60iPhase2Jumpscare.gif|跳杀
-Newest_D-60i_AnimV2.gif|旧版第一阶段动画重现
-D60i.png|旧版第一张脸
-D-62i.png|旧版第二张脸
-D-63i.png|旧版第三张脸
-D-64i.png|旧版第四张脸
-D-65i.png|旧版第五张脸
-D-66i.png|旧版第六张脸
-D-67i.png|旧版第七张脸
-BroisnotA-135.png|旧版第八张脸
-Invasion Evasion (Badge).png|旧版入侵规避徽章图标
-File:D-60iJumpscare.gif|D-60i的旧版跳杀
+OldD-60i1.webp|旧版倒计时1
+OldD-60i2.webp|旧版倒计时2
+OldD-60i3.webp|旧版倒计时3
+D-60iPhase2Jumpscare.webp|跳杀
+Newest_D-60i_AnimV2.webp|旧版第一阶段动画重现
+D60i_png.webp|旧版第一张脸
+D-62i.webp|旧版第二张脸
+D-63i.webp|旧版第三张脸
+D-64i.webp|旧版第四张脸
+D-65i.webp|旧版第五张脸
+D-66i.webp|旧版第六张脸
+D-67i.webp|旧版第七张脸
+BroisnotA-135.webp|旧版第八张脸
+Invasion_Evasion_(Badge).webp|旧版入侵规避徽章图标
+File:D-60iJumpscare.webp|D-60i的旧版跳杀
 </gallery>
 
 ==徽章==
 {{BadgeSectionD
-|Image=Invasion EvasionNew.png
+|Image=Invasion_EvasionNew.webp
 |Name=入侵规避
 |Description=想知道那是怎么回事。<br><br>遭遇并在"入侵者"手中存活。
 |Obtainment=遭遇并在'''D-60i'''手中存活。}}
 
 {{BadgeSectionD
-|Image=Dsecinvasion.png
+|Image=Dsecinvasion.webp
 |Name=你不该出现在这里
 |Description=[无法获取] 遭遇并在一个稀有的入侵实体手中存活。徽章可在"入侵"活动期间获取。
 |Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动中，遭遇并在[[D-5#Invasion|D-5]]、[[D-35]]或'''D-60'''手中存活。}}

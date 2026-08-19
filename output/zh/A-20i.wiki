@@ -1,14 +1,14 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px green, 0 0 5px green, 0 0 5px green, 0 0 5px green, 0 0 5px green; color: lime;">A-20i (Smiler X)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{InfoBox:Entity
 |previous_entity=[[A-20]]
 |next_entity=[[A-60]]<br>[[A-60i]]
 |entity_name=[[File:NewA20iTitle.webp|frameless|link=A-20i]]
 |entity_image= <gallery>
-NewerA25i.png|当前设计
-25ijump.png|当前跳杀设计
-File:A-25iDesign.png|旧版设计 
-File:A20i.png|更旧版设计
+NewerA25i.webp|当前设计
+25ijump.webp|当前跳杀设计
+File:A-25iDesign.webp|旧版设计 
+File:A20i.webp|更旧版设计
 </gallery> 
 |caption-entity_image=绿色火车冲冲冲
 |appears_at=A-020之后任意时刻，有1/75的概率替换A-20出现。
@@ -45,14 +45,14 @@ A-20i是所有素数实体中的首个素数实体，躲避难度极低。它外
 
 ===GIF动图===
 <gallery>
-Newa25ijump.gif|A-20i的当前跳杀动画
-NewA-25iJumpscare.gif|A-20i的旧版跳杀动画
-A-25iScary.gif|A-20i的更旧版跳杀动画
+Newa25ijump.webp|A-20i的当前跳杀动画
+NewA-25iJumpscare.webp|A-20i的旧版跳杀动画
+A-25iScary.webp|A-20i的更旧版跳杀动画
 </gallery>
  
 ===杂项===
 <gallery>
-TrueLegacyA-25i.png|'''A-20i'''的真正遗留/超级史诗模式外观
+TrueLegacyA-25i.webp|'''A-20i'''的真正遗留/超级史诗模式外观
 </gallery>
 
 {{EntityNavBoxSectionA}}

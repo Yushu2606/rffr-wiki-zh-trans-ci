@@ -1,20 +1,20 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple, 0 0 5px purple; color: magenta;">D-60（多面暗魂）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Headphones}}
 {{NoteBox|note=请勿与'''Rooms Re-Established'''的D-60、'''Rooms: Reopened'''的D-60、'''Rooms of Insanity'''的D-60或'''Remastered Rooms'''的D-60混淆。}}
 {{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]
-|entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
+|entity_name=[[File:D-60Title.webp|frameless|link=D-60]]
 |entity_image=<gallery>
 D60anim.gif|游戏内动画
-D-60face1.png|第一张脸
-D-60Face2.png|第二张脸
-D-60face3.png|第三张脸
-D-60face4.png|第四张脸
-D-604.png|第五张脸
-D-60Face7.png|第六张脸
-D-60Face8.png|第七张脸
+D-60face1.webp|第一张脸
+D-60Face2.webp|第二张脸
+D-60face3.webp|第三张脸
+D-60face4.webp|第四张脸
+D-604.webp|第五张脸
+D-60Face7.webp|第六张脸
+D-60Face8.webp|第七张脸
 </gallery>
 |caption-entity_image=惊悚
 |appears_at=D-060+
@@ -68,12 +68,12 @@ D-60Face8.png|第七张脸
 
 ==画廊==
 <gallery>
-File:D-60 1.png|旧版第一张脸
-File:D-622.png|旧版第二张脸
-File:D-63.png|旧版第三张脸
-File:D-64.png|旧版第四张脸 
-File:D-60Face5.png|旧版第五张脸
-File:D-60Jumpscareee.gif|D-60的跳杀
+File:D-60_1.webp|旧版第一张脸
+File:D-622.webp|旧版第二张脸
+File:D-63.webp|旧版第三张脸
+File:D-64.webp|旧版第四张脸 
+File:D-60Face5.webp|旧版第五张脸
+File:D-60Jumpscareee.webp|D-60的跳杀
 </gallery>
 
 

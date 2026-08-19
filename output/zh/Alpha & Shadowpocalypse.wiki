@@ -1,6 +1,6 @@
 __NOTOC__
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #7300ff; color: #7300ff;">Alpha & Shadowapocalypse</span>}}
-{{ArticleBackground|File=ShadowScreen.jpg}}
+{{ArticleBackground|File=ShadowScreen.webp}}
 
 {{Modifier|GradiantDetails=to bottom, #7700BB, #000000|TextColor=#AA00FF|Name=[[Alpha & Shadowpocalypse]]|Details=暗影已挣脱束缚。存活至1000号房间，或挺过3次[[SHA-200|[已编辑]]]的攻击。祝你好运。}}
 
@@ -30,11 +30,11 @@ __NOTOC__
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.png|center|150px|link=SHA-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.png|center|150px|link=SHA-2]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.png|center|150px|link=SHA-3]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.png|center|150px|link=SHA-4]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA1.webp|center|150px|link=SHA-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.webp|center|150px|link=SHA-2]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.webp|center|150px|link=SHA-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.webp|center|150px|link=SHA-4]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
@@ -42,11 +42,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-4]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-7]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.png|center|150px|link=SHA-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.webp|center|150px|link=SHA-22]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Sha30.webp|center|150px|link=SHA-30]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.png|center|150px|link=SHA-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.png|center|150px|link=SHA-55]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.png|center|150px|link=SHA-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.webp|center|150px|link=SHA-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.webp|center|150px|link=SHA-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.webp|center|150px|link=SHA-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-30]]
@@ -54,11 +54,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.png|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140 str Design.png|center|150px|link=SHA-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180 str New design.png|center|150px|link=SHA-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-120]]
@@ -66,9 +66,9 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.png|center|150px|link=SHA-300]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.png|center|150px|link=Overseer]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.webp|center|150px|link=SHA-300]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.webp|center|150px|link=Overseer]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-300]]
@@ -77,11 +77,11 @@ __NOTOC__
 
 ==Lapse 变体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:better L-1.png|center|150px|link=LAPSE-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150x150px]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.png|center|150px|link=LAPSE-3]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L-1.webp|center|150px|link=LAPSE-1]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L2.webp|center|150x150px]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.webp|center|150px|link=LAPSE-3]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.webp|center|150px|link=LAPSE-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.webp|center|150px|link=LAPSE-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
@@ -93,13 +93,13 @@ __NOTOC__
 
 ==画廊==
 <gallery>
-A&SPAwardedBadge.jpg|一名玩家获得天启徽章
-A&sppurplelights.png|在 Shadowpocalypse 修饰符中发现的紫色灯光
+A&SPAwardedBadge.webp|一名玩家获得天启徽章
+A&sppurplelights.webp|在 Shadowpocalypse 修饰符中发现的紫色灯光
 </gallery>
 
 ==徽章==
 {{Badge
-|Image=The Apocalypse (Badge).png
+|Image=The_Apocalypse_(Badge).webp
 |Name=天启
 |Description="结…结束了吗…？"<br>你本不该坚持这么久的。<br>启用"阿尔法 & Shadowpocalypse"修饰符，并存活到最后。
 |Obtainment=启用'''阿尔法与Shadowpocalypse（暗影天启）'''修饰符时，抵达第1000扇门或从3个[[SHA-200]]的袭击中存活。}}

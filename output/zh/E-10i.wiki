@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #c800fe, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">E-10i（Virtue/美德）</span>}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{Redesign|Wawaman|未知}}
 {{DesignNotAllowed|design=Upcoming设计|reason=设计者要求|exceptions=游戏内截图}}
 {{SectionEStub}}
@@ -7,8 +7,8 @@
 |entity_name=E-10i
 |entity_image=<gallery>
 Placeholder.webp|Upcoming设计
-E10i.png|当前闲置外观
-E10iJumpscare.png|当前跳杀外观
+E10i.webp|当前闲置外观
+E10iJumpscare.webp|当前跳杀外观
 </gallery>
 |previous_entity=[[E-10]]
 |next_entity=[[E-30]]<br>[[E-30i]]
@@ -49,9 +49,9 @@ E10iJumpscare.png|当前跳杀外观
 
 ==图库==
 <gallery>
-File:E-10i teleport.gif|传送中的'''E-10i'''（低画质）
-File:Virtue ingame.gif|消失中的'''E-10i'''（低画质）
-File:E10iScare.gif|跳杀
+File:E-10i_teleport.webp|传送中的'''E-10i'''（低画质）
+File:Virtue_ingame.webp|消失中的'''E-10i'''（低画质）
+File:E10iScare.webp|跳杀
 File:Actual E-10i teleport.webp|'''E-10i'''的传送粒子效果
 File:E-10 despawn p.webp|'''E-10i'''的粒子效果。
 </gallery>{{EntityNavBoxSectionE}}

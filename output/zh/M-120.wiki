@@ -1,13 +1,13 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px blue; color: blue;">M-120（模仿者）</span>}}
-{{ArticleBackground|File=MBackground.jpg}}
+{{ArticleBackground|File=MBackground.webp}}
 {{InfoBox:Entity|entity_name=[[File:NewM120Title.webp|frameless|link=M-120]]
 |entity_image=File:<gallery>
-NewM120.gif|当前设计
+NewM120.webp|当前设计
 M-120JumpAnim.webp|跳杀动画
-NewM120Scare1.png|跳杀设计1
-NewM120Scare2.png|跳杀设计2
-M-120 Design.gif|旧设计
-M-120 Anim.gif|更旧设计
+NewM120Scare1.webp|跳杀设计1
+NewM120Scare2.webp|跳杀设计2
+M-120_Design.webp|旧设计
+M-120_Anim.webp|更旧设计
 </gallery>
 |previous_entity=[[M-70]]
 |next_entity=[[M-134]]
@@ -39,8 +39,8 @@ M-120 Anim.gif|更旧设计
 {{InfoBox:Entity
 |entity_name=A-20
 |entity_image=<gallery>
-NewM120A20.png|当前设计
-20-A.png|旧设计
+NewM120A20.webp|当前设计
+20-A.webp|旧设计
 </gallery>
 |nicknames=20-A<br>A-25
 |type=冲刺者
@@ -58,8 +58,8 @@ NewM120A20.png|当前设计
 
 <h2>图册</h2>
 <gallery>
-File:20-A near a player.png|即将击杀玩家的旧版'''20-A'''。
-File:20-AScare.gif|'''20-A'''的跳杀。
+File:20-A_near_a_player.webp|即将击杀玩家的旧版'''20-A'''。
+File:20-AScare.webp|'''20-A'''的跳杀。
 </gallery>
 
 |-|A-60=
@@ -67,8 +67,8 @@ File:20-AScare.gif|'''20-A'''的跳杀。
 |entity_name=A-60
 ```
 |entity_image=<gallery>
-NewM120A60.png|当前设计
-60-A.png|旧设计
+NewM120A60.webp|当前设计
+60-A.webp|旧设计
 </gallery>
 |nicknames=60-A<br>A-50
 |type=冲刺者
@@ -91,8 +91,8 @@ NewM120A60.png|当前设计
 {{InfoBox:Entity
 |entity_name=A-85
 |entity_image=<gallery>
-NewM120A85.png|当前设计
-85-A.png|旧设计
+NewM120A85.webp|当前设计
+85-A.webp|旧设计
 </gallery>
 </gallery>
 |nicknames=85-A
@@ -114,15 +114,15 @@ NewM120A85.png|当前设计
 
 <h2> 图集 </h2>
 <gallery>
-File:85-AScare.gif|'''85-A'''的跳杀。
+File:85-AScare.webp|'''85-A'''的跳杀。
 </gallery>
 
 |-|A-135=
 {{InfoBox:Entity
 |entity_name=A-135
 |entity_image=<gallery>
-NewM120A135.png|当前设计
-135-A.png|旧设计
+NewM120A135.webp|当前设计
+135-A.webp|旧设计
 </gallery>
 |nicknames=A<br>A-175
 |type=后备型<br>柜子检查者
@@ -140,15 +140,15 @@ NewM120A135.png|当前设计
 
 <h2> 图集 </h2>
 <gallery>
-File:135-AScare.gif|'''135-A''' 跳杀。
+File:135-AScare.webp|'''135-A''' 跳杀。
 </gallery>
 
 |-|D-5=
 {{InfoBox:Entity
 |entity_name=D-5
 |entity_image=<gallery>
-NewM120D5.png|当前设计
-5-D.png|旧设计
+NewM120D5.webp|当前设计
+5-D.webp|旧设计
 </gallery>
 |nicknames=5-D
 |type=Fallback（撤退者）
@@ -171,7 +171,7 @@ NewM120D5.png|当前设计
 
 <h2> 图集 </h2>
 <gallery>
-File:5-DScare.gif|'''5-D''' 跳杀。
+File:5-DScare.webp|'''5-D''' 跳杀。
 </gallery>
 
 |-|D-20=
@@ -179,8 +179,8 @@ File:5-DScare.gif|'''5-D''' 跳杀。
 |locker_snipe=???
 |entity_name=D-20
 |entity_image=<gallery>
-NewM120D20.png|当前设计
-20-D.png|旧设计
+NewM120D20.webp|当前设计
+20-D.webp|旧设计
 </gallery>
 |nicknames=20-D<br>D-1
 |type=固定者
@@ -202,8 +202,8 @@ NewM120D20.png|当前设计
 |locker_snipe=否
 |entity_name=D-35
 |entity_image=<gallery>
-NewM120D35.png|当前设计
-35-D.png|旧设计
+NewM120D35.webp|当前设计
+35-D.webp|旧设计
 </gallery>
 |nicknames=35-D
 |type=冲刺者
@@ -221,7 +221,7 @@ NewM120D35.png|当前设计
 
 <h2> 画廊> </h2> 
 <gallery>
-File:35-DScare.gif|'''35-D'''跳杀。 
+File:35-DScare.webp|'''35-D'''跳杀。 
 </gallery>
 
 |-|D-55=
@@ -229,9 +229,9 @@ File:35-DScare.gif|'''35-D'''跳杀。
 |locker_snipe=否
 |entity_name=D-55
 |entity_image=<gallery>
-NewM120D55.png|当前设计
-55DAnim.gif|旧动画复原
-55-D.png|旧设计
+NewM120D55.webp|当前设计
+55DAnim.webp|旧动画复原
+55-D.webp|旧设计
 </gallery>
 |nicknames=55-D
 |type=冲刺者<br>柜子检查者
@@ -267,17 +267,17 @@ NewM120D55.png|当前设计
 
 === 游戏内图片 ===
 <gallery>
-File:Screenshot 20260517 100705 Video Player.jpg|当前房间中看到的'''M-120'''。
-File:Screenshot 20260517 100749 Video Player.jpg|'''M-120'''即将后退。
-File:Screenshot 20260517 100720 Video Player.jpg|'''M-120'''完全充能。
-File:Screenshot 20260517 100810 Video Player.jpg|一名玩家在'''M-120'''后退前即将躲藏。
+File:Screenshot_20260517_100705_Video_Player.webp|当前房间中看到的'''M-120'''。
+File:Screenshot_20260517_100749_Video_Player.webp|'''M-120'''即将后退。
+File:Screenshot_20260517_100720_Video_Player.webp|'''M-120'''完全充能。
+File:Screenshot_20260517_100810_Video_Player.webp|一名玩家在'''M-120'''后退前即将躲藏。
 </gallery><gallery>
-File:M-120 spawning.png|旧版'''M-120'''从门牌生成。
+File:M-120_spawning.webp|旧版'''M-120'''从门牌生成。
 </gallery>
 
 === GIFs ===
 <gallery>
-File:M-120 scary.gif|'''M-120'''的旧版跳杀。
+File:M-120_scary.webp|'''M-120'''的旧版跳杀。
 </gallery>
 
 {{EntityNavBoxSectionM}}

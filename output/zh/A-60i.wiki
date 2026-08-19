@@ -1,19 +1,19 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; color: blue;">A-60i (多面怪物素数)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Headphones}}
 {{DesignNotAllowed|design=旧版跳杀脸}}
 {{InfoBox:Entity
 |entity_name=[[File:NewA60iTitle.webp|frameless|link=A-60i]]
 |entity_image=<gallery>
-A-60iCurrentAnimation.gif|动画重制
-60i1.png|第1张脸
-60i2.png|第2张脸
-60i3.png|第3张脸
-60i4.png|第4张脸
-60i5.png|第5张脸
+A-60iCurrentAnimation.webp|动画重制
+60i1.webp|第1张脸
+60i2.webp|第2张脸
+60i3.webp|第3张脸
+60i4.webp|第4张脸
+60i5.webp|第5张脸
 A60i3.webp|第6张脸
-60i6.png|第7张脸
-60i .png|第8张脸
+60i6.webp|第7张脸
+60i_.webp|第8张脸
 </gallery>
 |previous_entity=[[A-60]]
 |next_entity=[[A-85]]
@@ -50,19 +50,19 @@ A-60i无法自行生成，而是有概率在A-60消失后生成。如果A-60i成
 
 ==画廊==
 <gallery>
-Newa60ijump.gif|A-60i 当前的跳杀画面
-A-60IAnimNew.gif|旧版动画重制
-Old60i1.png|旧版第1张脸
-Old60i5.png|旧版第5张脸
-File:A-60i scary.gif|旧版/更旧版本的A-60i跳杀画面
-A-60iwow.gif|更旧版本动画重制
-OldestA60i1.png|更旧版第1张脸
-OldestA60i2.png|更旧版第2张脸
-OldestA60i3.png|更旧版第3张脸
-OldestA60i4.png|更旧版第4张脸
-OldestA60i5.png|更旧版第5张脸
-OldestA60i6.png|更旧版第6张脸
-Og60i.gif|真正的遗留/遗留/超级史诗模式动画
+Newa60ijump.webp|A-60i 当前的跳杀画面
+A-60IAnimNew.webp|旧版动画重制
+Old60i1.webp|旧版第1张脸
+Old60i5.webp|旧版第5张脸
+File:A-60i_scary.webp|旧版/更旧版本的A-60i跳杀画面
+A-60iwow.webp|更旧版本动画重制
+OldestA60i1.webp|更旧版第1张脸
+OldestA60i2.webp|更旧版第2张脸
+OldestA60i3.webp|更旧版第3张脸
+OldestA60i4.webp|更旧版第4张脸
+OldestA60i5.webp|更旧版第5张脸
+OldestA60i6.webp|更旧版第6张脸
+Og60i.webp|真正的遗留/遗留/超级史诗模式动画
 </gallery>
 
 

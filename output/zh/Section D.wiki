@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="animation: D-section 4s infinite">'''D区（深矿/废置设施）'''</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{SectionInfoBox
 |image=<gallery>
-Depths (D-Section).png|深矿游戏页面图1
-Depths (D-Section) 2.png|深矿游戏页面图2
-Derelict (D-Section).png|废置设施游戏页面图
+Depths_(D-Section).webp|深矿游戏页面图1
+Depths_(D-Section)_2.webp|深矿游戏页面图2
+Derelict_(D-Section).webp|废置设施游戏页面图
 </gallery>
 |previous_section=[[Section A|A区]]
 |next_section=[[Section M|M区]]<br>[[Unnamed Sector|无名区域]]<br>[[Section I|I区]] <small>（若开启[[Legacy Mode|Legacy（遗产）]]）</small><br>[[Section UI|UI区]] <small>（若开启[[Super Epic Mode|SEM（超级史诗模式）]]）
@@ -23,11 +23,11 @@ Derelict (D-Section).png|废置设施游戏页面图
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.png|center|150px|link=D-5]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.png|center|150px|link=D-5i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.png|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.png|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.webp|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.webp|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.webp|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35UpcomingFrame1.webp|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iUpcomingFrame1.webp|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -36,10 +36,10 @@ Derelict (D-Section).png|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.png|center|150px|link=D-55i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.webp|center|150px|link=D-55i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
@@ -47,10 +47,10 @@ Derelict (D-Section).png|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.png|center|150px|link=D-175]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.png|center|150px|link=D-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D250.png|center|150px|link=D-250]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.webp|center|150px|link=D-175]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.webp|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D250.webp|center|150px|link=D-250]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-175]]
@@ -60,10 +60,10 @@ Derelict (D-Section).png|废置设施游戏页面图
 
 ==非专属实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:DSectionMouth.png|center|150px|link=Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.png|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.webp|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:DSectionMouth.webp|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.webp|center|150px|link=Void]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
@@ -73,7 +73,7 @@ Derelict (D-Section).png|废置设施游戏页面图
 
 ==Removed/废弃==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-180Old.png|center|150px|link=D-180]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-180Old.webp|center|150px|link=D-180]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
 {{!}}}
@@ -82,57 +82,57 @@ Derelict (D-Section).png|废置设施游戏页面图
 <tabber>
 |-|深度=
 <gallery>
-Section Depth Starting Room.png|起始房间。
-Section Depth Starting Room Bottom.png|同上，但已通过入口。
-Section Depth Hallway -w Two Siderooms.png|带有两个侧室的房间。
-Section Depth Room 5.png|5号房间。
-Section Depth Hallway But Dark.png|黑暗的走廊。
-Section Depth Furnished Room.png|侧边摆放工具的带家具房间。
-Section Depth Basic Hallway.png|基础走廊。
-Section Depth Room -w 3 Planks.png|侧边有3块木板的房间。
-Section Depth Room Goes to the side.png|向左转弯的房间。
-Section Depth Hallway -w Two Siderooms 2.png|带有两个侧室的房间，但其中一个被架子挡住。
-Section Depth Slope Downward.png|有两个架子且向下倾斜的房间。
-Section Depth Basic Hallway 2.png|基础走廊。
-Section Depth Pitch Black Room.png|漆黑的走廊。
-Section Depth Basic Hallway 3.png|部分黑暗的走廊。
-Section Depth Much Stuff.png|有许多柜子且大部分灯都开着的走廊。
-Section Depth Basic Hallway 4.png|有一个灯泡和两个柜子的走廊。
-Section Depth Room -w Trashbags.png|左角落有垃圾袋的房间。
-Section Depth Staircase.png|楼梯。
-Section Depth Staircase Top.png|同上，但从底部视角。
-Section Depth Many Boxes.png|有许多箱子的基础房间。
-Section Depth Room Goes to the right.png|向右延伸的房间。
+Section_Depth_Starting_Room.webp|起始房间。
+Section_Depth_Starting_Room_Bottom.webp|同上，但已通过入口。
+Section_Depth_Hallway_-w_Two_Siderooms.webp|带有两个侧室的房间。
+Section_Depth_Room_5.webp|5号房间。
+Section_Depth_Hallway_But_Dark.webp|黑暗的走廊。
+Section_Depth_Furnished_Room.webp|侧边摆放工具的带家具房间。
+Section_Depth_Basic_Hallway.webp|基础走廊。
+Section_Depth_Room_-w_3_Planks.webp|侧边有3块木板的房间。
+Section_Depth_Room_Goes_to_the_side.webp|向左转弯的房间。
+Section_Depth_Hallway_-w_Two_Siderooms_2.webp|带有两个侧室的房间，但其中一个被架子挡住。
+Section_Depth_Slope_Downward.webp|有两个架子且向下倾斜的房间。
+Section_Depth_Basic_Hallway_2.webp|基础走廊。
+Section_Depth_Pitch_Black_Room.webp|漆黑的走廊。
+Section_Depth_Basic_Hallway_3.webp|部分黑暗的走廊。
+Section_Depth_Much_Stuff.webp|有许多柜子且大部分灯都开着的走廊。
+Section_Depth_Basic_Hallway_4.webp|有一个灯泡和两个柜子的走廊。
+Section_Depth_Room_-w_Trashbags.webp|左角落有垃圾袋的房间。
+Section_Depth_Staircase.webp|楼梯。
+Section_Depth_Staircase_Top.webp|同上，但从底部视角。
+Section_Depth_Many_Boxes.webp|有许多箱子的基础房间。
+Section_Depth_Room_Goes_to_the_right.webp|向右延伸的房间。
 </gallery>
 </tabber>
-Section Depth 2 Cabinets.png|有两个储物柜的房间。
-Section Depth Room 100.png|Room 100，从 Depth 到 Derelict 的过渡。
-Water_cave.jpg|走廊房间罕见的水淹版本。
+Section_Depth_2_Cabinets.webp|有两个储物柜的房间。
+Section_Depth_Room_100.webp|Room 100，从 Depth 到 Derelict 的过渡。
+Water_cave.webp|走廊房间罕见的水淹版本。
 </gallery>
 
 |-|Derelict=
 <gallery>
-Section Derelict Room 101.png|Room 101。
-Section Derelict Starting Room.png|起始房间。
-Section Derelict Pipe Cluster.png|满是大管道的房间。
-Section Derelict Garden -w Filing Cabinets.png|有管道、花园和文件柜的房间。
-Section Derelict 2 Garden Right.png|侧边有两个花园。
-Section Derelict 4 Pillars.png|有4根柱子的房间。
-Section Derelict Lockers Middle.png|中间有几个柜子的房间。
-Section Derelict Middle Paper.png|中间有大量纸张的房间。
-Section Derelict 2 Silos Left.png|有一扇破门和左侧出口的房间。
-Section Derelict Exit Bottom.png|底部的出口房间。
-Section Derelict Bottom Room.png|离开出口后，通往下一扇门的房间。
-Section Derelict 6 Silos.png|有六个筒仓和一盏紫灯的房间。
-Section Derelict 2 Laser Doors.png|有两扇激光门的房间，其中一扇已停用。
-Section Derelict Many Shelves.png|有许多架子的房间。
-Section Derelict Basic Room 1.png|一个基础房间。
-Section Derelict Basic Room 1 But Left.png|同上，但在左侧。
-Section Derelict Room 200.png|Room 200。
-Section Derelict Room 200.png|同上，但为房间底部。
-Section Derelict Room 200 End.png|同上，但在房间尽头。
-Section Derelict Room 200 Door Sign.png|Door 201的门牌。
-Section Derelict Room 400.png|Room 400。
+Section_Derelict_Room_101.webp|Room 101。
+Section_Derelict_Starting_Room.webp|起始房间。
+Section_Derelict_Pipe_Cluster.webp|满是大管道的房间。
+Section_Derelict_Garden_-w_Filing_Cabinets.webp|有管道、花园和文件柜的房间。
+Section_Derelict_2_Garden_Right.webp|侧边有两个花园。
+Section_Derelict_4_Pillars.webp|有4根柱子的房间。
+Section_Derelict_Lockers_Middle.webp|中间有几个柜子的房间。
+Section_Derelict_Middle_Paper.webp|中间有大量纸张的房间。
+Section_Derelict_2_Silos_Left.webp|有一扇破门和左侧出口的房间。
+Section_Derelict_Exit_Bottom.webp|底部的出口房间。
+Section_Derelict_Bottom_Room.webp|离开出口后，通往下一扇门的房间。
+Section_Derelict_6_Silos.webp|有六个筒仓和一盏紫灯的房间。
+Section_Derelict_2_Laser_Doors.webp|有两扇激光门的房间，其中一扇已停用。
+Section_Derelict_Many_Shelves.webp|有许多架子的房间。
+Section_Derelict_Basic_Room_1.webp|一个基础房间。
+Section_Derelict_Basic_Room_1_But_Left.webp|同上，但在左侧。
+Section_Derelict_Room_200.webp|Room 200。
+Section_Derelict_Room_200.webp|同上，但为房间底部。
+Section_Derelict_Room_200_End.webp|同上，但在房间尽头。
+Section_Derelict_Room_200_Door_Sign.webp|Door 201的门牌。
+Section_Derelict_Room_400.webp|Room 400。
 </gallery>
 </tabber>
 
@@ -153,25 +153,25 @@ Section Derelict Room 400.png|Room 400。
 
 ==Badges==
 {{BadgeSectionD
-|Image=Depth (Badge).png
+|Image=Depth_(Badge).webp
 |Name=深度
 |Description=等等，这是什么时候出现的？
 |Obtainment=进入D区。}}
 
 {{BadgeSectionD
-|Image=Level 15 (Badge).png
+|Image=Level_15_(Badge).webp
 |Name=第15层
 |Description=挖矿中-<br>算了，搞错游戏了。
 |Obtainment=打开门D-500。}}
 
 {{BadgeSectionD
-|Image=Caving In (Badge).png
+|Image=Caving_In_(Badge).webp
 |Name=坍塌
 |Description=精神崩溃。
 |Obtainment=打开门D-900。}}
 
 {{BadgeSectionD
-|Image=Surface Breach (Badge).png
+|Image=Surface_Breach_(Badge).webp
 |Name=地表突破
 |Description=有时你会暗自思忖，这一切到底有什么意义。你自愿来到这里，又是为了什么？
 |Obtainment=打开门D-1000。}}

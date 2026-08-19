@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px white, -1.5px 0.66px 2px gray; color: black;">D-5 (Seer)</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{InfoBox:Entity
 |previous_entity=[[Mouth|A-300]]
 |next_entity=[[D-5i]]<br>[[D-20]]
-|entity_name=[[File:D-5iPlaceHolderpng.png|frameless|link=D-5]]
+|entity_name=[[File:D-5iPlaceHolderpng.webp|frameless|link=D-5]]
 |entity_image=<gallery>
-D-5.png|设计图
+D-5.webp|设计图
 Eyescare.webp|跳杀设计图
 </gallery>
 |caption-entity_image=我看见你在暗处躲着啦！快、快出来呀..
@@ -58,13 +58,13 @@ Eyescare.webp|跳杀设计图
 
 == 画廊 ==
 <gallery>
-File:D-5AF26.png|D-5出现于[[April Fools 2026|2026年愚人节]]
-File:Scary D-5.gif|D-5的跳杀
+File:D-5AF26.webp|D-5出现于[[April Fools 2026|2026年愚人节]]
+File:Scary_D-5.webp|D-5的跳杀
 </gallery>
 
 == 徽章 ==
 {{BadgeSectionD
-|Image=Dsecinvasion.png
+|Image=Dsecinvasion.webp
 |Name=你不应该出现在这里
 |Description=[不可获得] 遭遇并在一只稀有的入侵实体手中存活。该徽章可在「Invasion」活动期间获得。
 |Obtainment='''[不可获得]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动中遭遇'''D-5'''、[[D-35]]或[[D-60i|D-60]]并存活下来。}}

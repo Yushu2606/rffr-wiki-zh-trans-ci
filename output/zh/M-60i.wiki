@@ -1,23 +1,23 @@
 {{DISPLAYTITLE:<span style="text-shadow: 1.5px 0.66px 2px #c53434, -1.5px 0.66px 2px #c53434; color: #3d1310;">M-60i（调解者）</span>}}
-{{ArticleBackground|File=MBackground.jpg}}
+{{ArticleBackground|File=MBackground.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:M-60i tittle.png|frameless|link=M-60i]]
+|entity_name=[[File:M-60i_tittle.webp|frameless|link=M-60i]]
 |entity_image=<gallery>
-M60i1.png|第一张脸
-M60i2.png|第二张脸
-M60i3.png|第三张脸
-M60i4.png|第四张脸
-M60i5.png|第五张脸
-M60i6.png|第六张脸
-M60i7.png|第七张脸
-M60i8.png|第八张脸
-M60i9.png|第九张脸
-M60i10.png|第十张脸
-M60i11.png|第十一张脸
-M60i12.png|第十二张脸
-M60i13.png|第十三张脸
-M60i14.png|第十四张脸
-M60i15.png|第十五张脸
+M60i1.webp|第一张脸
+M60i2.webp|第二张脸
+M60i3.webp|第三张脸
+M60i4.webp|第四张脸
+M60i5.webp|第五张脸
+M60i6.webp|第六张脸
+M60i7.webp|第七张脸
+M60i8.webp|第八张脸
+M60i9.webp|第九张脸
+M60i10.webp|第十张脸
+M60i11.webp|第十一张脸
+M60i12.webp|第十二张脸
+M60i13.webp|第十三张脸
+M60i14.webp|第十四张脸
+M60i15.webp|第十五张脸
 </gallery>
 |previous_entity=[[M-22i]]<br>[[M-60]]
 |next_entity=[[M-70]]
@@ -55,14 +55,14 @@ M60i15.png|第十五张脸
 
 ==画廊==
 <gallery>
-File:New M60i ingame.gif|游戏内可见的新'''M-60i'''（低画质）
-File:Teased.jpg|现已加入游戏的其中一张脸的预告图
-File:M60ijump.gif|旧版跳杀
-File:M60i 1.png|旧版第一张脸
-File:Acc Mediator 1.png|旧版第二张脸
-File:Acc Mediator 2.png|旧版第三张脸
-File:Acc Mediator 3.png|旧版第四张脸
-File:Acc Mediator 4.png|旧版第五张脸
+File:New_M60i_ingame.webp|游戏内可见的新'''M-60i'''（低画质）
+File:Teased.webp|现已加入游戏的其中一张脸的预告图
+File:M60ijump.webp|旧版跳杀
+File:M60i_1.webp|旧版第一张脸
+File:Acc_Mediator_1.webp|旧版第二张脸
+File:Acc_Mediator_2.webp|旧版第三张脸
+File:Acc_Mediator_3.webp|旧版第四张脸
+File:Acc_Mediator_4.webp|旧版第五张脸
 </gallery>
 
 {{EntityNavBoxSectionM}}

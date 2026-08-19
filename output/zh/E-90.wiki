@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">E-90 (Espionage)</span>}}
 {{Suggested|[[User:CharlieTheGoober|Charlie]]}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
 |entity_name=E-90
 |entity_image=<gallery>
-E90.png|模型
-E-90Eyes.png|眼睛
+E90.webp|模型
+E-90Eyes.webp|眼睛
 </gallery>
 |previous_entity=[[E-60]]
 |next_entity=[[E-120]]

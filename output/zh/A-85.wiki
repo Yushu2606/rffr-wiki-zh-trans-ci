@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px cyan, 0 0 5px cyan; color: cyan;">A-85 (Whisperer)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Headphones}}
 {{DesignNotAllowed|design=[[True Legacy Mode|真正的遗留模式]]设计|reason=盗用|exceptions=游戏内截图}}
 {{InfoBox:Entity
@@ -8,12 +8,12 @@
 [[A-120]]
 |entity_name=[[File:A-85Placeholder.webp|frameless|link=A-85]]
 |entity_image= <gallery>
-A-85Help.gif|A-85 动画重制
-A-85NewDesign.png|当前设计
-A85.png|旧设计
+A-85Help.webp|A-85 动画重制
+A-85NewDesign.webp|当前设计
+A85.webp|旧设计
 A85real.webp|遗留设计
 TrueLegacyA-85.webp|真正的遗留设计
-SEMA85.png|超级史诗模式设计
+SEMA85.webp|超级史诗模式设计
 </gallery>
 |caption-entity_image=怎么死在我手里
 |appears_at=A-85之后的所有房间
@@ -53,10 +53,10 @@ SEMA85.png|超级史诗模式设计
 
 ==画廊==
 <gallery>
-File:A85jump.gif|跳杀
+File:A85jump.webp|跳杀
 File:TrueLegacyA-85.webp|真正的遗留模式设计（游戏内）
 File:A85real.webp|遗留模式设计
-File:SEMA85.png|超级史诗模式
+File:SEMA85.webp|超级史诗模式
 </gallery>
 
 

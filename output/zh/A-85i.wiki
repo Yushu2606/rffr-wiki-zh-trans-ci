@@ -1,14 +1,14 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px black, 0 0 5px black, 0 0 5px black, 0 0 5px magenta, 0 0 5px magenta; color: magenta;">A-85i (Banshee)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}{{Headphones}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}{{Headphones}}
 {{InfoBox:Entity
 |previous_entity=[[A-60i]]<br>[[A-85]]
 |next_entity=[[A-120]]
 |entity_name=[[File:A-85iPlaceholder.webp|frameless|link=A-85i]]
 |entity_image= <gallery>
-NewBanshee.gif|动画重制
-85i.png|当前设计
-BansheeAccurate.gif|旧版/经典动画重制
-A-85icolor.png|旧版/经典设计
+NewBanshee.webp|动画重制
+85i.webp|当前设计
+BansheeAccurate.webp|旧版/经典动画重制
+A-85icolor.webp|旧版/经典设计
 </gallery>
 |caption-entity_image=喵
 |appears_at=A-100之后的任意区域。（有1%概率替代A-85生成）
@@ -76,9 +76,9 @@ A-85icolor.png|旧版/经典设计
 
 ==图库==
 <gallery>
-File:Banshee scare.gif|A-85i的跳杀
-File:A-85iSEM.png|在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中出现的A-85i。''（复刻）''
-File:SemA85ijump.gif|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
+File:Banshee_scare.webp|A-85i的跳杀
+File:A-85iSEM.webp|在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中出现的A-85i。''（复刻）''
+File:SemA85ijump.webp|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
 File:Eletric.webp|A-85的粒子特效
 </gallery>
 

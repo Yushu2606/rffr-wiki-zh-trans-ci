@@ -1,4 +1,4 @@
-{{ArticleBackground|File=GatoBackground.png}}
+{{ArticleBackground|File=GatoBackground.webp}}
 {{Modifier|GradiantDetails=to bottom, #00FFFF, #00FFFF|TextColor=#DDFFFF|Name='''2026年愚人节活动'''|Details=体验愚人节活动期间版本的R:FFR！该游戏版本不会更新，且游玩进度不会保存。}}
 {{EventInfobox
 |image=AF26.webp
@@ -13,11 +13,11 @@
 
 ==新增/重新加入的实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20ii.png|center|150px|link=A-20ii]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.gif|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20ii.webp|center|150px|link=A-20ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.webp|center|150px|link=A-200ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
@@ -25,7 +25,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.jpg|center|150px|link=Fake Strange Keycard]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.webp|center|150px|link=Fake Strange Keycard]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard]]
 {{!}}}
@@ -36,11 +36,11 @@
 |-|A区实体=
 '''A区实体：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20.png|center|150px|link=A-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20i.png|center|150px|link=A-20i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.png|center|150px|link=A-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.png|center|150px|link=A-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20.webp|center|150px|link=A-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20i.webp|center|150px|link=A-20i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A601.webp|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.webp|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.webp|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
@@ -49,10 +49,10 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.webp|center|150px|link=A-85i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135.png|center|150px|link=A-135]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135i.png|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135.webp|center|150px|link=A-135]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135i.webp|center|150px|link=A-135i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.webp|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.webp|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
@@ -64,11 +64,11 @@
 |-|D区实体=
 '''D区实体：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5AF26.png|center|150px|link=D-5]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Eyes.png|center|150px|link=D-5i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.png|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-5AF26.webp|center|150px|link=D-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Eyes.webp|center|150px|link=D-5i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D20.webp|center|150px|link=D-20]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.webp|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.webp|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -76,11 +76,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:AfD55.png|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:AfD55.webp|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign D-60i Animation.gif|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
@@ -88,7 +88,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewD200.png|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewD200.webp|center|150px|link=D-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
 {{!}}}
@@ -96,11 +96,11 @@
 |-|M区实体=
 '''M区实体：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.png|center|150px|link=M-22]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M60 1.png|center|150px|link=M-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.png|center|150px|link=M-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.png|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120 Design.gif|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM22.webp|center|150px|link=M-22]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.webp|center|150px|link=M-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.webp|center|150px|link=M-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120_Design.webp|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
@@ -108,9 +108,9 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.png|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.gif|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.webp|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
@@ -120,10 +120,10 @@
 |-|杂项实体=
 '''杂项实体：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.jpg|center|150px|link=Claustrophobia]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.png|center|150px|link=Mouth]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.png|center|150px|link=Jimmy]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.png|center|150px|link=Void]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.webp|center|150px|link=Mouth]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.webp|center|150px|link=Jimmy]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Void.webp|center|150px|link=Void]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth|Mouth]]

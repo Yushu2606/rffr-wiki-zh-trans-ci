@@ -1,11 +1,11 @@
-{{ArticleBackground|File=Shadow Challenge.jpg}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200（低氧 Hypoxia）</span>}}
+{{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #6600FF, 0 0 65px #6600FF; color: #6600FF;">SHA-200（低氧 Hypoxia）</span>}}
 {{InfoBox:Entity
-|entity_name=[[File:Sha200logo.gif]]
+|entity_name=[[File:Sha200logo.webp]]
 |entity_image=<gallery>
-NewSHA200.gif|当前设计
-Sha200.gif|旧设计
-SHA-200Older.gif|更早的设计
-OldSHA200.gif|最早的设计
+NewSHA200.webp|当前设计
+Sha200_gif.webp|旧设计
+SHA-200Older.webp|更早的设计
+OldSHA200.webp|最早的设计
 </gallery>
 |caption-entity_image=我在30号房碰到Connor时的状态
 |previous_entity=[[SHA-180]]

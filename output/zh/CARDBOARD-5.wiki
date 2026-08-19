@@ -1,7 +1,7 @@
 {{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=CARDBOARD-5
-|entity_image= CARDBOARD-5.png
+|entity_image= CARDBOARD-5.webp
 |appears_at=仅Admin可生成
 |nicknames=???
 |type=冲刺者

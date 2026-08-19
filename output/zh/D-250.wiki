@@ -1,10 +1,10 @@
 {{DISPLAYTITLE:<span style="background-image: linear-gradient(to right, #000000, #545454, #8B8B8B); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">D-250（骚乱）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 <blockquote>'''"There will be nothing left（什么都不会剩下）"''' ——出自《Update Executive》第5支先导预告中的D-250</blockquote> 
 {{SectionDStub}}
 {{InfoBox:Entity
 |entity_name=[[File:D-250title.webp|frameless|link=D-250]]
-|entity_image=D250.png
+|entity_image=D250.webp
 |previous_entity=[[D-200]]
 |next_entity=[[Mouth|D-300]]<br>[[M-22]]
 |nicknames=Tumult（骚乱）
@@ -47,13 +47,13 @@
 ===GIFs===
 <gallery>
 File:Tumult_ingame.gif.webp|'''D-250'''在当前房间投掷法球时的画面。
-File:D-250 jumpscare.gif|'''D-250'''<nowiki/>的跳杀。
+File:D-250_jumpscare.webp|'''D-250'''<nowiki/>的跳杀。
 </gallery>
 
 ===杂项===
 <gallery>
-File:D250Orb.png|'''D-250'''<nowiki/>的法球精灵图。
-File:Orb.png|'''D-250'''<nowiki/>的旧版法球设计/概念设计。
+File:D250Orb.webp|'''D-250'''<nowiki/>的法球精灵图。
+File:Orb.webp|'''D-250'''<nowiki/>的旧版法球设计/概念设计。
 </gallery>
 
 {{EntityNavBox}}

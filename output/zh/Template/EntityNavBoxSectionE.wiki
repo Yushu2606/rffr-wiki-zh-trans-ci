@@ -1,6 +1,6 @@
 {{Clear}}
 {| style="width:100%; text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black; padding:.3em; margin:.5em auto; border: 4px solid #B08715; background:#C79D26; -moz-border-radius: 100px -webkit-border-radius:100px; font-family:Lato; color: white;"
-! style="width:100px" |[[File:EntityNavBoxSectionEImage.png|200px|center|link=Entities]]
+! style="width:100px" |[[File:EntityNavBoxSectionEImage.webp|200px|center|link=Entities]]
 |-
 |
 {| class="mw-collapsible mw-collapsed" data-expandtext="展开" data-collapsetext="收起" style="background:#383832; border:1px; border-radius: 0px; font-size:100%; padding:0; text-align:left; width:100%"

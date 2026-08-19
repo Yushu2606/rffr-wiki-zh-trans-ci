@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #76D9CB; color: black;"> #-## (???)</span>}}
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{Stub}}
 {{NoteBox|note=请注意，这里的大量信息可能有误，因为我们仅有一次该实体的记录在案的目击事件}}
 {{InfoBox:Entity
@@ -37,12 +37,12 @@
 
 == 画廊 ==
 <gallery>
-R60poisencabinet.jpg|一个灌满毒药的棕色柜子。
+R60poisencabinet.webp|一个灌满毒药的棕色柜子。
 </gallery>
 
 == 徽章 ==
 {{Badge
-|Image=CongratsYouGotGoodRNG.png
+|Image=CongratsYouGotGoodRNG.webp
 |Name=恭喜，你运气真好
 |Description=遇见#-##。<br><br>这什么用都没有，哈哈。
 |Obtainment=遭遇'''"未知实体"'''并从中幸存}}

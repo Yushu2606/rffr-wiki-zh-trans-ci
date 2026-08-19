@@ -1,9 +1,9 @@
 {{DISPLAYTITLE:<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60 (???)</span>}}
-{{ArticleBackground|File=OblivionScreen.png}}
+{{ArticleBackground|File=OblivionScreen.webp}}
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
 {{InfoBox:Entity
 |entity_name=<span style="background: linear-gradient(to bottom, #FF0000, #000); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 50px">LAPSE-60</span>
-|entity_image=L-60.png
+|entity_image=L-60.webp
 |previous_entity=[[SHA-60]]<br>[[LAPSE-3]]
 |next_entity=[[SHA-85]]<br>[[LAPSE-200]]
 |nicknames=???
@@ -35,5 +35,5 @@ https://youtu.be/6VbYGZJKSZM?si=9wDpHzrGp-cRu8DF
 
 == 画廊 ==
 <gallery>
-LAPSE-60.png|LAPSE-60 从柜子内部被观测到的画面
+LAPSE-60.webp|LAPSE-60 从柜子内部被观测到的画面
 </gallery>

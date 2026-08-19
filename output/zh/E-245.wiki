@@ -1,8 +1,8 @@
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px White; color: Black;">E-245（骗术师）</span>}}
 {{InfoBox:Entity
 |entity_name=E-245
-|entity_image=E245Idle.png
+|entity_image=E245Idle.webp
 |previous_entity=[[E-165]]<br>[[E-200]]
 |next_entity=[[Mouth|E-300]]
 |claustrophobia=否
@@ -35,7 +35,7 @@
 '''灼烧：'''
 {{InfoBox:Entity
 |entity_name=灼烧
-|entity_image=E245Mechanic1.png
+|entity_image=E245Mechanic1.webp
 |type=冲刺者<br>后退者
 |behavior=冲向主房间，撞上门后后退，沿途留下火焰轨迹。
 |speed=中等
@@ -57,7 +57,7 @@
 '''闪避：'''
 {{InfoBox:Entity
 |entity_name=闪避
-|entity_image=E245Mechanic2.png
+|entity_image=E245Mechanic2.webp
 |type=冲刺者<br>后退者
 |behavior=冲向主房间，沿途摧毁所有柜子，撞上门后后退，会杀死所有没有翻滚穿过它的玩家
 |speed=快
@@ -79,7 +79,7 @@
 '''锁链：'''
 {{InfoBox:Entity
 |entity_name=锁链
-|entity_image=E245Mechanic3.png
+|entity_image=E245Mechanic3.webp
 |type=后退者
 |behavior=用锁链束缚玩家，使其减速后后退。
 |speed=快
@@ -99,7 +99,7 @@
 '''Sneak（潜行）：'''
 {{InfoBox:Entity
 |entity_name=Sneak（潜行）
-|entity_image=E245Mechanic4.png
+|entity_image=E245Mechanic4.webp
 |type=冲刺者<br>后退者
 |behavior=冲向主房间，撞门后后退，杀死未躲藏或未蹲下的玩家。
 |speed=中等
@@ -132,9 +132,9 @@
 
 == 画廊 ==
 <gallery>
-File:E245Opening.gif|'''E-245'''的嘴部张开设计。
-File:E245Gambling.gif|'''E-245'''的机制设计。
-File:Orb.png|'''E-245'''的概念设计。
+File:E245Opening.webp|'''E-245'''的嘴部张开设计。
+File:E245Gambling.webp|'''E-245'''的机制设计。
+File:Orb.webp|'''E-245'''的概念设计。
 </gallery>
 
 

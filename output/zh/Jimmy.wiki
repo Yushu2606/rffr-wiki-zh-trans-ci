@@ -1,8 +1,8 @@
-{{ArticleBackground|File=MultiSectional.gif}}
+{{ArticleBackground|File=MultiSectional.webp}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: black;">Jimmy</span>}}
 {{InfoBox:Entity
 |entity_name=Jimmy
-|entity_image=Jimmy.png
+|entity_image=Jimmy.webp
 |appears_at=A-0001之后任意时间
 |behavior=结识新朋友
 |speed=固定者<br>被动
@@ -26,7 +26,7 @@
 
 ==徽章==
 {{Badge
-|Image=Hi Jimmy (Badge).png
+|Image=Hi_Jimmy_(Badge).webp
 |Name=Hi Jimmy
 |Description=好吧，这完全没必要。
 |Obtainment=遭遇'''Jimmy'''。}}

@@ -1,11 +1,11 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px red; color: red;">D-20（温和观察者）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{InfoBox:Entity|previous_entity=[[D-5]]
 [[D-5i]]
 |next_entity=[[D-35]]
-|entity_name=[[File:D20sux.png|frameless|link=D-20]]
+|entity_name=[[File:D20sux.webp|frameless|link=D-20]]
 |entity_image= <gallery>
-D20.png|待机设计
+D20.webp|待机设计
 D-20Jumpscare.webp|跳杀/射击造型
 </gallery> 
 |caption-entity_image=求帮忙
@@ -46,7 +46,7 @@ D-20Jumpscare.webp|跳杀/射击造型
 
 ==画廊==
 <gallery>
-D20jump.gif|跳杀
+D20jump.webp|跳杀
 </gallery>
 {{EntityNavBoxSectionD}}
 

@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px cyan; color: black;">E-60 (破门者)</span>}}{{NoteBox|note=请勿与「硬核模式」的E-60、「Rooms Re-Established」的E-60、「Interminable Rooms」的E-60以及「Rooms: Found Footage: Revisited」的E-60混淆，上述实体仅与本实体重名}}{{Suggested|asure}}
-{{ArticleBackground|File=EBackground.jpg}}
+{{ArticleBackground|File=EBackground.webp}}
 {{InfoBox:Entity
-|entity_name=[[File:E-60Placeholder.png|frameless|link=E-60]]
+|entity_name=[[File:E-60Placeholder.webp|frameless|link=E-60]]
 |entity_image=<gallery>
-NewE601.png|Upcoming 第1张脸
-NewE602.png|Upcoming 第2张脸
-NewE603.png|Upcoming 第3张脸
-NewE604.png|Upcoming 第4张脸
-NewE605.png|Upcoming 第5张脸
-NewE606.png|Upcoming 第6张脸
-NewE607.png|Upcoming 第7张脸
+NewE601.webp|Upcoming 第1张脸
+NewE602.webp|Upcoming 第2张脸
+NewE603.webp|Upcoming 第3张脸
+NewE604.webp|Upcoming 第4张脸
+NewE605.webp|Upcoming 第5张脸
+NewE606.webp|Upcoming 第6张脸
+NewE607.webp|Upcoming 第7张脸
 </gallery>
 |previous_entity=[[E-45]]
 |next_entity=[[E-90]]
@@ -64,30 +64,30 @@ NewE607.png|Upcoming 第7张脸
 ==图库==
 ===游戏内图片===
 <gallery>
-E60SaysHi.jpg|在[[M区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中出现的'''E-60'''，即将杀死玩家。
-NVCSE60.jpg|通过'''NVCS-13793-C'''看到的'''E-60'''。
+E60SaysHi.webp|在[[M区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中出现的'''E-60'''，即将杀死玩家。
+NVCSE60.webp|通过'''NVCS-13793-C'''看到的'''E-60'''。
 </gallery>
 ===GIF===
 <gallery>
-NewE60jum.gif|'''E-60'''<nowiki/>的跳杀。
-TempE60jum.gif|'''E-60'''使用临时面孔的跳杀。
-E60jump.gif|'''E-60'''的旧版跳杀。
-ByeE60.gif|在[[D区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中，'''E-60'''从玩家身边经过。
-HiE60.gif|死亡玩家视角下看到的使用临时面孔的'''E-60'''。
-E60CurrentAnim.gif|'''E-60'''动画[复现]。
-E60tempanimation.gif|同上，使用临时面孔。
-E60anim.gif|同上，使用旧版面孔。
+NewE60jum.webp|'''E-60'''<nowiki/>的跳杀。
+TempE60jum.webp|'''E-60'''使用临时面孔的跳杀。
+E60jump.webp|'''E-60'''的旧版跳杀。
+ByeE60.webp|在[[D区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中，'''E-60'''从玩家身边经过。
+HiE60.webp|死亡玩家视角下看到的使用临时面孔的'''E-60'''。
+E60CurrentAnim.webp|'''E-60'''动画[复现]。
+E60tempanimation.webp|同上，使用临时面孔。
+E60anim.webp|同上，使用旧版面孔。
 </gallery>
 ===其他===
 <gallery>
-E601.png|当前第1张面孔（裁剪）
-E602.png|当前第2张面孔（裁剪）
-E603.png|当前第3张面孔（裁剪）
-E604.png|当前第4张面孔（裁剪）
-E605.png|当前第5张面孔（裁剪）
-E606.png|当前第6张面孔（裁剪）
-E607.png|当前第7张面孔（裁剪）
-E608.png|当前第8张面孔（裁剪）
+E601.webp|当前第1张面孔（裁剪）
+E602.webp|当前第2张面孔（裁剪）
+E603.webp|当前第3张面孔（裁剪）
+E604.webp|当前第4张面孔（裁剪）
+E605.webp|当前第5张面孔（裁剪）
+E606.webp|当前第6张面孔（裁剪）
+E607.webp|当前第7张面孔（裁剪）
+E608.webp|当前第8张面孔（裁剪）
 TempE601.webp|'''E-60'''<nowiki/>的临时第1张面孔。
 TempE602.webp|'''E-60'''<nowiki/>的临时第2张面孔。
 TempE603.webp|'''E-60'''<nowiki/>的临时第3张面孔。
@@ -104,7 +104,7 @@ E-606.webp|'''E-60'''<nowiki/>的旧版第6张面孔。
 
 == 徽章 ==
 {{BadgeSectionE
-|Image=SectorBreach.png
+|Image=SectorBreach.webp
 |Name=分区突破
 |Description=[无法获得]<br>在任意区域遭遇并从两个来源不明的意外异常之一中幸存，即使经过数千个房间，它们也可能不会出现……
 |Obtainment='''[无法获得]'''<br>在E区入侵事件期间遭遇并从[[E-10]]或'''E-60'''手中幸存。}}{{EntityNavBoxSectionE}}

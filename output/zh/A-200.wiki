@@ -1,15 +1,15 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray; color: white;">A-200 (Insidæ)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{InfoBox:Entity
 |previous_entity=[[A-135]]
 [[A-135i]]
 |next_entity=[[A-200i]]
-|entity_name=[[File:logoair.gif|frameless|link=A-200]]
+|entity_name=[[File:Logoair.webp|frameless|link=A-200]]
 |entity_image=entity_image=<gallery>
-NewRenovatedair.gif|当前设计
-Airyyy_renovated_air.gif|旧版/遗留设计
-File:TrueLegacyA-200.gif|真正的遗留模式设计
-File:A-200 Open Beta.gif|公测设计
+NewRenovatedair.webp|当前设计
+Airyyy_renovated_air.webp|旧版/遗留设计
+File:TrueLegacyA-200.webp|真正的遗留模式设计
+File:A-200_Open_Beta.webp|公测设计
 </gallery> 
 |caption-entity_image=正在步步逼近的秒杀氧气啊啊啊啊啊！！
 |appears_at=A-200号房间之后的任意位置
@@ -58,11 +58,11 @@ File:A-200 Open Beta.gif|公测设计
 
 == Gallery ==
 <gallery>
-File:A-200Spooky.gif|A-200的跳杀
-File:TrueLegacyA-200.gif|[[True Legacy Mode]]设计
-File:Sucky air.gif|[[True Legacy Mode]]跳杀设计
-File:A-200 Open Beta.gif|[[Open Beta Mode]]设计
-File:Mr-200 watching you.png|A-200在[[April Fools 2026]]中化身月亮
+File:A-200Spooky.webp|A-200的跳杀
+File:TrueLegacyA-200.webp|[[True Legacy Mode]]设计
+File:Sucky_air.webp|[[True Legacy Mode]]跳杀设计
+File:A-200_Open_Beta.webp|[[Open Beta Mode]]设计
+File:Mr-200_watching_you.webp|A-200在[[April Fools 2026]]中化身月亮
 </gallery>
 {{EntityNavBoxSectionA}}
 [[Category:Entities]]

@@ -1,11 +1,11 @@
 {{Removed|reason=社区投票}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px lime; color: lime;">M-7 (Zobie)</span>}}
-{{ArticleBackground|File=MBackground.jpg}}
+{{ArticleBackground|File=MBackground.webp}}
 {{InfoBox:Entity
 |entity_name=M-7
 |entity_image=<gallery>
 M7Anim.gif|动画
-M7eyes.gif|眼形态动画
+M7eyes.webp|眼形态动画
 M-7.webp|重制设计
 </gallery>
 |previous_entity=[[Mouth|D-300]]
@@ -53,9 +53,9 @@ M-7.webp|重制设计
 
 == 画廊 ==
 <gallery>
-MF-7.jpg|'''M-7'''被Admin生成后出现在[[Section A|A区]]的画面
+MF-7.webp|'''M-7'''被Admin生成后出现在[[Section A|A区]]的画面
 BroLEAVE.gif|'''M-7'''在[[Legacy Mode|Legacy Mode（旧版模式）]]下出现在[[Red Rooms|红区]]的画面
-I7Vote.jpg|导致'''M-7'''被移除的社区投票
+I7Vote.webp|导致'''M-7'''被移除的社区投票
 </gallery>
 
 [[Category:Entities]]

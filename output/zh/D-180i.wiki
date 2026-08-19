@@ -1,12 +1,12 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px blue; cursive; background-image: linear-gradient(black, blue); -webkit-background-clip: text; color:transparent; animation: rainbow 10s infinite; -webkit-animation: rainbow 10s infinite;">D-180i（宁静）</span>}}
-{{ArticleBackground|File=Section Derelict Garden -w Filing Cabinets.png}}
+{{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
 {{Admin Exclusive}}
 {{InfoBox:Entity
-|entity_name=[[File:D-180i-B.png|frameless|link=D-180i]]
+|entity_name=[[File:D-180i-B.webp|frameless|link=D-180i]]
 |entity_image=<gallery>
 D180i.gif|游戏内动画（复刻版）
-UnknownEntity.png|新设计
-D-180i.png|旧设计
+UnknownEntity.webp|新设计
+D-180i.webp|旧设计
 </gallery>
 |caption-entity_image=不管你在盘算什么，我都盯着你呢。
 |gun_effect=无
@@ -68,9 +68,9 @@ D-180i.png|旧设计
 
 == 画廊 ==
 <gallery>
-D-180iJumpscare.gif|旧版跳杀
-D-180iLoading.jpg|'''D-180i'''在罕见加载画面中出现。
-ImGoingInsane.png|<span style="text-shadow: 0 0 5px blue; color: blue;">Ȉ̴̤̈́m̶̢̿̃͊ ̸͕̠͎̌G̶̼̫͓͛̐̇̚o̶̧̮̬̠̅ỉ̷͖̱̦̔ņ̴̦̥̂̏͆̄g̵͚͖̼͌̍̇͘ ̸̛̙͇̾Ĩ̶̜ń̷̗́s̵̫̳͕̳͑ã̸͇͛͂̇ṅ̷͚͐e̸̢̛̤͕</span>
+D-180iJumpscare.webp|旧版跳杀
+D-180iLoading.webp|'''D-180i'''在罕见加载画面中出现。
+ImGoingInsane.webp|<span style="text-shadow: 0 0 5px blue; color: blue;">Ȉ̴̤̈́m̶̢̿̃͊ ̸͕̠͎̌G̶̼̫͓͛̐̇̚o̶̧̮̬̠̅ỉ̷͖̱̦̔ņ̴̦̥̂̏͆̄g̵͚͖̼͌̍̇͘ ̸̛̙͇̾Ĩ̶̜ń̷̗́s̵̫̳͕̳͑ã̸͇͛͂̇ṅ̷͚͐e̸̢̛̤͕</span>
 </gallery>
 
 {{EntityNavBoxAdmin}}

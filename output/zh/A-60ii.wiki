@@ -1,24 +1,24 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 10px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime, 0 0 5px lime; color: green;">A-60ii (Omega Multi-Faced Monster)</span>}}
 {{SectionAStub}}
 {{HeadphonesNotice}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:A-60iiPlaceholder.gif|frameless|link=A-60ii]]
+|entity_name=[[File:A-60iiPlaceholder.webp|frameless|link=A-60ii]]
 |entity_image=<gallery>
 XX60.gif|动画
-XX602.png|第1张脸
-XX603.png|第2张脸
-XX604.png|第3张脸
-XX605.png|第4张脸
-XX606.png|第5张脸
-XX607.png|第6张脸
-XX608.png|第7张脸
-XX609.png|第8张脸
-XX6010.png|第9张脸
-XX6011.png|第10张脸
-XX6012.png|第11张脸
-XX6013.png|第12张脸
+XX602.webp|第1张脸
+XX603.webp|第2张脸
+XX604.webp|第3张脸
+XX605.webp|第4张脸
+XX606.webp|第5张脸
+XX607.webp|第6张脸
+XX608.webp|第7张脸
+XX609.webp|第8张脸
+XX6010.webp|第9张脸
+XX6011.webp|第10张脸
+XX6012.webp|第11张脸
+XX6013.webp|第12张脸
 XX60jump.webp|跳杀设计
 </gallery> 
 |claustrophobia=否
@@ -48,7 +48,7 @@ XX60jump.webp|跳杀设计
 
 ==画廊==
 <gallery>
-File:A-60iiJumpscare.gif|A-60ii 跳杀
+File:A-60iiJumpscare.webp|A-60ii 跳杀
 </gallery>
 
 [[Category:Omega Variation]]

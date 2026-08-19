@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 7px white; color: gray;">D-200</span>}}
 {{NoteBox|note=请勿与《Rooms Re-Established》中的D-200混淆}}
-{{ArticleBackground|File=D200Background.jpg}}
+{{ArticleBackground|File=D200Background.webp}}
 {{InfoBox:Entity
-|entity_image=D200Background.jpg
+|entity_image=D200Background.webp
 |entity_name=D-200 首领战
 |sound1=<center>铺垫曲</center><center>[[File: Forget Us Not.mp3]]</center>
 |sound2=<center>首领战原声带</center><center>[[File:SystemLockdown.mp3]]</center>}}
@@ -28,12 +28,12 @@ TBA
 |-|D-200=
 '''D-200:'''
 {{InfoBox:Entity
-|entity_name=[[File:Ifuckasure.gif|frameless|link=D-200]]
+|entity_name=[[File:Ifuckasure.webp|frameless|link=D-200]]
 |entity_image=<gallery>
-NewD200.png|待机设计
-D200Jump.png|跳杀设计
-NewerD-200.png|旧设计
-D200.png|更早的设计
+NewD200.webp|待机设计
+D200Jump.webp|跳杀设计
+NewerD-200.webp|旧设计
+D200.webp|更早的设计
 </gallery>
 |previous_entity=[[D-175]]
 |next_entity=[[D-250]]
@@ -87,7 +87,7 @@ Post Boss Fight=
 
 <h2> 图库 </h2>
 <gallery>
-D200jump.jpg|跳杀
+D200jump.webp|跳杀
 </gallery>
 
 
@@ -97,8 +97,8 @@ D200jump.jpg|跳杀
 {{InfoBox:Entity
 |entity_name=Spike
 |entity_image=<gallery>
-Spike.png|设计
-D-200-SPK-OLD.png|发布前设计
+Spike.webp|设计
+D-200-SPK-OLD.webp|发布前设计
 </gallery>
 |nicknames=SPK
 |behavior=生成在天花板上，然后坠落以试图碾压玩家。
@@ -125,10 +125,10 @@ D-200-SPK-OLD.png|发布前设计
 {{InfoBox:Entity
 |entity_name=Alarm
 |entity_image=<gallery>
-AlarmIdle.png|闲置设计
-AlarmScream.png|尖叫设计
-D-200-RLA-OLD.png|发布前闲置设计
-D-200-RLA-SCREAM-OLD.png|发布前尖叫设计
+AlarmIdle.webp|闲置设计
+AlarmScream.webp|尖叫设计
+D-200-RLA-OLD.webp|发布前闲置设计
+D-200-RLA-SCREAM-OLD.webp|发布前尖叫设计
 </gallery>
 |nicknames=RLA
 |behavior=如果你在它附近待得太久，它会尖叫，生成 '''D-200'''。
@@ -159,8 +159,8 @@ D-200-RLA-SCREAM-OLD.png|发布前尖叫设计
 {{InfoBox:Entity
 |entity_name=Checker
 |entity_image=<gallery>
-Chaser.png|设计
-D-200-CHS-OLD.png|发布前设计
+Chaser.webp|设计
+D-200-CHS-OLD.webp|发布前设计
 </gallery>
 |nicknames=CKR
 |behavior=高亮单个柜子，数秒后出现在其面前并进行检查。
@@ -189,8 +189,8 @@ D-200-CHS-OLD.png|发布前设计
 {{InfoBox:Entity
 |entity_name=Chaser
 |entity_image=<gallery>
-Checker.png|设计
-D-200-CKR-OLD.png|发布前设计
+Checker.webp|设计
+D-200-CKR-OLD.webp|发布前设计
 </gallery>
 |nicknames=CHS
 |behavior=在随机位置生成，若玩家靠得太近则追逐玩家。
@@ -218,7 +218,7 @@ D-200-CKR-OLD.png|发布前设计
 
 <h2> 徽章 </h2>
 {{BadgeSectionD
-|Image=ProtocolProcedureBadge.png
+|Image=ProtocolProcedureBadge.webp
 |Name=协议流程
 |Description=离开 D-200 房间。
 |Obtainment=通关 '''D-200'''<nowiki/>的 Boss 战。}}

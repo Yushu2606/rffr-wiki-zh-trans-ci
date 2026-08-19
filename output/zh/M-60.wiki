@@ -2,14 +2,14 @@
 <tabber>
 |-|M区=
 {{NoteBox|note=请勿与《Rooms Re-Established》中的M-60混淆}}
-{{ArticleBackground|File=MBackground.jpg}}
-{{InfoBox:Entity|entity_name=[[File:M-60Title.png|frameless|link=M-60]]
+{{ArticleBackground|File=MBackground.webp}}
+{{InfoBox:Entity|entity_name=[[File:M-60Title.webp|frameless|link=M-60]]
 |entity_image=<gallery>
-M60 1.png|表情1
-M60 2.png|表情2
-M60 3.png|表情3
-M60 4.png|表情4
-M60 5.png|表情5
+M60_1.webp|表情1
+M60_2.webp|表情2
+M60_3.webp|表情3
+M60_4.webp|表情4
+M60_5.webp|表情5
 </gallery>
 |previous_entity=[[M-22]]<br>[[M-22i]]
 |next_entity=[[M-60i]]<br>[[M-70]]
@@ -54,24 +54,24 @@ M60 5.png|表情5
 
 == 画廊 ==
 <gallery>
-File:M-60 scary.gif|跳杀
-M-60 checking a locker.png|'''M-60''' 出现在柜子外。
-M-60 checking a locker 2.png|同上
-OblivionX.jpg|[[Oblivion]] 正在标记 '''M-60''' 打算检查的柜子
+File:M-60_scary.webp|跳杀
+M-60_checking_a_locker.webp|'''M-60''' 出现在柜子外。
+M-60_checking_a_locker_2.webp|同上
+OblivionX.webp|[[Oblivion]] 正在标记 '''M-60''' 打算检查的柜子
 </gallery>
 
 |-|UI区=
 '''UI区：'''
 {{Modifier Exclusive|[[Super Epic Mode]]}}
-{{ArticleBackground|File=Section I Tables Lights Both Sides.png}}
+{{ArticleBackground|File=Section_I_Tables_Lights_Both_Sides.webp}}
 {{InfoBox:Entity
 |entity_name=I-60
 |entity_image=<gallery>
-Oldi60animation.gif|动画复现
+Oldi60animation.webp|动画复现
 I-601.webp|第1张脸
 I-602.webp|第2张脸
 I-603.webp|第3张脸
-UI-60Jumpscare.png|第4张脸
+UI-60Jumpscare.webp|第4张脸
 I-605.webp|第5张脸
 </gallery>
 |nicknames=多面轮盘
@@ -100,14 +100,14 @@ I-605.webp|第5张脸
 
 == 画廊 ==
 <gallery>
-SEMI-60Jum.gif|跳杀
-SEMI-60Move.gif|I-60 从玩家身边经过
+SEMI-60Jum.webp|跳杀
+SEMI-60Move.webp|I-60 从玩家身边经过
 </gallery>
 </tabber>
 
 == 徽章 ==
 {{BadgeSectionM
-|Image=Isecinvasion.png
+|Image=Isecinvasion.webp
 |Name=Are You Supposed To Be Here?（你该在这里吗？）
 |Description=这个徽章曾在 "I-Section Invasion（I区入侵）" 活动期间可获得，获得条件是在 A区 或 D区 中从 I-60 的攻击中存活。它现已退役，不再可用。
 |Obtainment='''[无法获得]'''<br>在原版<br>'''Rooms: Found Footage''' 的 I-Section Invasion（I区入侵）活动中遭遇 '''I-60''' 并从中存活。}}
