@@ -24,6 +24,7 @@ from .files import (  # noqa: SLF001
     _file_cache_path,
     _list_source_files,
     _prepare_upload_file,
+    convert_animated_webp_to_gif,
     resolve_upload_collisions,
 )
 from .manifest import classify_title, save_manifest
@@ -143,6 +144,9 @@ def _fetch_files(
                 except Exception as e:  # noqa: BLE001
                     log.error("  下载失败 %s: %s", title, e)
                     continue
+                blob, webp_converted = convert_animated_webp_to_gif(blob)
+                if webp_converted:
+                    log.info("  动态 webp 已转码为 GIF：%s", title)
                 cpath.parent.mkdir(parents=True, exist_ok=True)
                 cpath.write_bytes(blob)
                 blob_hash = sha256_bytes(blob)
@@ -166,8 +170,14 @@ def _fetch_files(
                 # 源端内容没变就必须沿用既有上传名。否则 CDN 换个转码格式就会改出一个
                 # 新文件名，wiki 上多一份副本、旧名字变成没人维护的孤儿，正文里的链接
                 # 也跟着漂——而源文件其实压根没动过。
+                #
+                # 但刚发生的 webp->gif 转码是例外：它是确定性的、我们主动做的修正
+                # （把之前因为缩略图不支持动画 webp 而卡在 .webp 的文件迁回 .gif），
+                # 不是这条保护要防的那种 CDN 随机摇摆，必须放行，否则这些文件会永远
+                # 卡在坏掉的旧名字上。
                 prior = prev.get("uploaded_as")
-                if prior and prev.get("sha1") == sha1 and upload_name != prior:
+                same_source = prev.get("sha1") == sha1
+                if not webp_converted and prior and same_source and upload_name != prior:
                     log.warning(
                         "  源端未变但本次嗅探出不同后缀（%s），沿用既有上传名：%s -> %s",
                         real_mime,

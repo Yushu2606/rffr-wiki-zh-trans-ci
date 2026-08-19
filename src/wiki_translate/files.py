@@ -276,6 +276,55 @@ def resolve_upload_collisions(
     return changes
 
 
+def _looks_like_webp(blob: bytes) -> bool:
+    return len(blob) >= 12 and blob[:4] == b"RIFF" and blob[8:12] == b"WEBP"
+
+
+def convert_animated_webp_to_gif(blob: bytes) -> tuple[bytes, bool]:
+    """带动画标记的 WebP 转码成动态 GIF，返回 (最终字节, 是否发生了转码)。
+
+    Fandom 的缩略图生成服务不支持动画 WebP（VP8X 扩展头的 animation 位一旦置位，
+    缩略图直接生成失败，静默回退成通用文件图标）——实测 1528 个 webp 文件里 242
+    个（15.8%）中招，无一例外都是动图。这些源文件本来就是 GIF，是源站 CDN 把它们
+    转码成动态 webp 后我们才下载到的，转回 GIF 基本是恢复原样；GIF 缩略图所有
+    wiki 平台都稳定支持。
+
+    非 webp、静态 webp（无动画标记）、或解码失败时原样返回，第二个值为 False——
+    调用方据此判断是否需要绕过"源端未变则沿用旧上传名"的稳定性保护：那条保护是为了
+    防止 CDN 随机在 gif/webp 字节间摇摆导致文件名瞎漂，但这里的转码是确定性的
+    （同样的动图内容每次都会转出同样的 gif），不属于它要防的那种漂移。
+    """
+    if not _looks_like_webp(blob):
+        return blob, False
+    try:
+        from io import BytesIO
+
+        from PIL import Image, ImageSequence
+
+        img = Image.open(BytesIO(blob))
+        if not getattr(img, "is_animated", False):
+            return blob, False
+        frames: list[Any] = []
+        durations: list[int] = []
+        for frame in ImageSequence.Iterator(img):
+            frames.append(frame.convert("RGBA"))
+            durations.append(frame.info.get("duration") or 100)
+        out = BytesIO()
+        frames[0].save(
+            out,
+            format="GIF",
+            save_all=True,
+            append_images=frames[1:],
+            duration=durations,
+            loop=img.info.get("loop", 0),
+            disposal=2,
+        )
+        return out.getvalue(), True
+    except Exception as e:  # noqa: BLE001
+        log.warning("  动态 webp 转 GIF 失败，保留原始 webp：%s", e)
+        return blob, False
+
+
 def _list_source_files(client: FandomClient, limit: int = 0) -> list[dict[str, Any]]:
     """列出源 wiki 上 ns=6 的所有文件，返回 [{title, url, sha1, size, mime}]。"""
     out: list[dict[str, Any]] = []

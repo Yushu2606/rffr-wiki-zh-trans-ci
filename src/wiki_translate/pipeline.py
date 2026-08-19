@@ -365,9 +365,6 @@ def run_process(cfg: AppConfig, *, force: bool = False, dry_run: bool = False) -
     from .manifest import build_rename_map, items_of, load_manifest, shard_items
 
     manifest = load_manifest(cfg.strategy.manifest_file)
-    rename_map = build_rename_map(manifest)
-    if rename_map:
-        log.info("本次有 %d 个文件因 MIME 校正被改名，将回填页面正文引用", len(rename_map))
     work_items = [it for it in items_of(manifest) if it.get("kind") in ("page", "system")]
     if not work_items:
         log.info("manifest 无需处理的 page/system 条目")
@@ -390,6 +387,11 @@ def run_process(cfg: AppConfig, *, force: bool = False, dry_run: bool = False) -
     changed_messages: set[str] = set()
 
     state = load_state(cfg.output.state_file)
+    # 读完整的历史改名台账（state['files']），不是只看当次 manifest——见
+    # build_rename_map 的 docstring，这是"链接从 15 涨到 110"那次回归的根因。
+    rename_map = build_rename_map(state)
+    if rename_map:
+        log.info("累计有 %d 个文件曾因改名/转码需要回填页面正文引用", len(rename_map))
     translator: Translator | None = None
     needs_llm = any(it.get("action") == "translate" for it in work_items)
     if not dry_run and needs_llm:

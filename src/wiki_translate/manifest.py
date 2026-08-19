@@ -73,20 +73,26 @@ def shard_items(items: list[dict[str, Any]], index: int, total: int) -> list[dic
     return [it for i, it in enumerate(items) if i % total == index]
 
 
-def build_rename_map(manifest: dict[str, Any]) -> dict[str, str]:
-    """从 kind=file 条目里提取因 MIME 校正而被改名的文件。
+def build_rename_map(state: dict[str, Any]) -> dict[str, str]:
+    """从 state['files'] 里提取全部因 MIME 校正/格式转码而被改名的文件。
 
-    fetch 阶段发现文件真实 MIME 与后缀不符时会记录 upload_name（见 files.py
-    _normalize_filename），但页面正文里的 [[File:...]] 引用还是旧后缀。返回
-    {旧文件名: 新文件名}，供 process 阶段回填页面正文，避免上传后链接失效。
+    必须读跨运行持续累积的完整改名台账（state.json），不能只看当次 manifest 里
+    的 file 条目——否则只有"文件改名"和"引用它的页面这次恰好被重新翻译"落在
+    同一批次时才会回填，源内容没变的旧页面会永远卡着失效链接；哪怕页面之后真的
+    被重新翻译了也不会自愈，因为改名信息压根没有跨运行持久化查询的通道。这正是
+    "受损文件链接从 15 涨到 110"那次回归的根因：22 个提交里没有一次真正的代码
+    退化，纯粹是这个函数当初只从 manifest（当次批次）取数导致的结构性覆盖盲区。
+
+    fetch 阶段发现文件真实 MIME 与后缀不符（或动画 webp 转码成 gif）时会记录
+    uploaded_as（见 files.py _normalize_filename / convert_animated_webp_to_gif），
+    但页面正文里的 [[File:...]] 引用还是旧名字。返回 {旧文件名: 新文件名}，
+    供 process 阶段回填页面正文，避免链接失效。
     """
     rename_map: dict[str, str] = {}
-    for item in items_of(manifest, "file"):
-        if not item.get("renamed"):
-            continue
-        old_name = item.get("name") or ""
-        new_name = item.get("upload_name") or ""
-        if not (old_name and new_name):
+    for title, entry in (state.get("files") or {}).items():
+        old_name = title.split(":", 1)[1] if ":" in title else title
+        new_name = entry.get("uploaded_as") or ""
+        if not new_name:
             continue
         # 空格与下划线在 MediaWiki 文件名里等价，只差分隔符不算改名——否则会把正文
         # 改成语义完全相同的另一种写法，凭空产生 diff 并触发无意义的重新推送。

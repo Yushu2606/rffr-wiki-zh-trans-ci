@@ -14,9 +14,23 @@ from wiki_translate.config import (
 )
 from wiki_translate.state import sha256_bytes
 
-# 真实的 webp 魔数，会被 _sniff_mime 认出来
+# 真实的 webp 魔数，会被 _sniff_mime 认出来（非真实可解码图像，仅用于魔数级测试）
 WEBP = b"RIFF\x00\x00\x00\x00WEBP" + b"\x00" * 40
 GIF = b"GIF89a" + b"\x00" * 40
+
+
+def _real_animated_webp() -> bytes:
+    """真正可被 Pillow 解码的动图 webp，用于测试 fetch.py 里的转码集成。"""
+    from io import BytesIO
+
+    from PIL import Image
+
+    frames = [Image.new("RGBA", (4, 4), c) for c in [(255, 0, 0, 255), (0, 255, 0, 255)]]
+    buf = BytesIO()
+    frames[0].save(
+        buf, format="WEBP", save_all=True, append_images=frames[1:], duration=100, loop=0
+    )
+    return buf.getvalue()
 
 
 @pytest.fixture
@@ -115,6 +129,49 @@ def test_blob_drift_is_logged(monkeypatch, cfg, caplog):
     with caplog.at_level("WARNING"):
         _run(monkeypatch, cfg, src_items=_src(sha1="aaa"), blob=GIF, state=state)
     assert any("下载字节与上次不同" in r.getMessage() for r in caplog.records)
+
+
+def test_force_rerun_migrates_stuck_animated_webp_to_gif(monkeypatch, cfg):
+    """--force 重跑时，之前卡在坏掉的 .webp 名字上的动图必须能迁回 .gif。
+
+    回归用例：Fandom 缩略图服务不支持动画 webp（实测 1528 个里 242 个白方块）。
+    这些文件的 state 记录着 sha1 未变 + uploaded_as 是旧的 .webp 名字——如果稳定性
+    保护（见上面 test_force_rerun_keeps_prior_name_when_source_unchanged）不分青红
+    皂白一律"沿用旧名"，这些文件就永远修不好。webp->gif 转码是确定性修正，必须
+    绕开这条保护。
+    """
+    animated = _real_animated_webp()
+    state = {
+        "files": {
+            "File:D140.gif": {
+                "sha1": "aaa",
+                "uploaded": True,
+                "uploaded_as": "D140.webp",  # 历史上因为动图 webp 卡住的坏名字
+            }
+        }
+    }
+    items = _run(
+        monkeypatch, cfg, src_items=_src(sha1="aaa"), blob=animated, state=state, force=True
+    )
+    assert items[0]["upload_name"] == "D140.gif", "动图必须迁回 .gif，不能被稳定性保护卡住"
+
+
+def test_force_rerun_still_locks_static_webp_name(monkeypatch, cfg):
+    """非动图场景下，稳定性保护必须照常生效——这个改动不能松绑无关场景。"""
+    state = {
+        "files": {
+            "File:D140.gif": {
+                "sha1": "aaa",
+                "uploaded": True,
+                "uploaded_as": "D140.webp",
+                "blob_sha256": sha256_bytes(WEBP),
+            }
+        }
+    }
+    items = _run(
+        monkeypatch, cfg, src_items=_src(sha1="aaa"), blob=GIF, state=state, force=True
+    )
+    assert items[0]["upload_name"] == "D140.webp", "非转码场景应保持原有稳定性行为"
 
 
 def test_unchanged_and_uploaded_is_skipped_entirely(monkeypatch, cfg):
