@@ -3,7 +3,7 @@
 {{InfoBox:Entity
 |entity_name=False-60
 |entity_image=<gallery>
-F60anim.webp|动画重制
+F60anim.gif|动画重制
 F601.webp|第一张脸
 F602.webp|第二张脸
 F603.webp|第三张脸
@@ -53,8 +53,8 @@ F606.webp|第六张脸
 
 ==画廊==
 <gallery>
-F60Newscare.webp|新版跳杀
-F60scare.webp|旧版跳杀
+F60Newscare.gif|新版跳杀
+F60scare.gif|旧版跳杀
 False60jump.webp|预发布版本设计
 </gallery>
 

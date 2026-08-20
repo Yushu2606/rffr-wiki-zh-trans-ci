@@ -5,14 +5,14 @@
 {{InfoBox:Entity
 |previous_entity=[[D-35]]<br>[[D-20]]
 |next_entity=[[D-55]]
-|entity_name=[[File:D-35iPlaceholder.webp|frameless|link=D-35i]]
+|entity_name=[[File:D-35iPlaceholder.gif|frameless|link=D-35i]]
 |entity_image= <gallery>
 D-35iUpcomingFrame1.webp|Upcoming 设计帧 1
 D-35iUpcomingFrame2.webp|Upcoming 设计帧 2
-D-35iRedesign.webp|当前设计
-NewD-35i.webp|旧设计
-OldestD35i.webp|更早的设计
-LegacyD-35.webp|最旧设计 
+D-35iRedesign.gif|当前设计
+NewD-35i.gif|旧设计
+OldestD35i.gif|更早的设计
+LegacyD-35.gif|最旧设计 
 </gallery> 
 |caption-entity_image=我总会回来的。
 |appears_at=D-100之后（仅由[[D-35]]召唤）
@@ -44,8 +44,8 @@ LegacyD-35.webp|最旧设计
 
 == 画廊 ==
 <gallery>
-File:NewD-35iJumpscare.webp|D-35i的跳杀动画
-File:D-35i_scary.webp|旧版D-35i的跳杀动画
+File:NewD-35iJumpscare.gif|D-35i的跳杀动画
+File:D-35i_scary.gif|旧版D-35i的跳杀动画
 </gallery>
 
 

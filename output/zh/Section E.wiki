@@ -19,7 +19,7 @@
 
 ==实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E10i.webp|center|150px|link=E-10i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewE30.webp|center|150px|link=E-30]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E30i.webp|center|150px|link=E-30i]]
@@ -35,7 +35,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.webp|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120_Design.webp|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.webp|center|150px|link=E-165]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.webp|center|150px|link=E-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.gif|center|150px|link=E-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]

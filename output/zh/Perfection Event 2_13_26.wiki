@@ -21,7 +21,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Overseer.webp|center|150px|link=Overseer]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Better_L-1.webp|center|150px|link=LAPSE-1]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:SHA4.webp|center|150px|link=SHA-4]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:SHA22.webp|center|150px|link=SHA-22]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Overseer]]
@@ -30,9 +30,9 @@
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-7]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-22]]
 {{!}}-
-{{!}} style="padding 5px;" align="center"{{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.webp|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60tempanimation.gif|center|150px|link=E-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-10]]

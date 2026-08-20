@@ -45,7 +45,7 @@ A-135会在当前房间的门后方生成，同时发出敲击声。3-5秒后，
 
 ==画廊==
 <gallery>
-File:A-135Jumpscare.webp|旧版A-135的跳杀
+File:A-135Jumpscare.gif|旧版A-135的跳杀
 File:TrueLegacyA-135.webp|真正的遗留设计
 File:A-135ViewedFromTable.webp|从桌子下方观察到的旧版A-135
 </gallery>

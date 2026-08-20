@@ -3,13 +3,13 @@
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|超级史诗模式]]}}
 {{InfoBox:Entity
-|entity_name=[[File:GatoTitle.webp|frameless|link=Gato]]
+|entity_name=[[File:GatoTitle.gif|frameless|link=Gato]]
 |entity_image=<gallery>
 UI500.gif|事件结束后动画
 GatoJumpAnimation.gif|事件结束后发言动画
 Gato.webp|事件结束后设定
 OldUI500.gif|事件进行时动画
-OldGatoSpeach.webp|事件进行时发言动画
+OldGatoSpeach.gif|事件进行时发言动画
 OldGato.webp|事件进行时设定
 </gallery>
 |nicknames=UI-500<br>圣尊
@@ -201,7 +201,7 @@ OldGato.webp|事件进行时设定
 
 == 画廊 ==
 <gallery>
-HiGato.webp|一名玩家在活动后遭遇 '''Gato'''
+HiGato.gif|一名玩家在活动后遭遇 '''Gato'''
 Divination.webp|Torch of Divination（占卜火炬）
 OLDToD.webp|旧版 Torch of Divination（占卜火炬）模型
 </gallery>

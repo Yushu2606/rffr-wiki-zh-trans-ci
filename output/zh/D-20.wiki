@@ -46,7 +46,7 @@ D-20Jumpscare.webp|跳杀/射击造型
 
 ==画廊==
 <gallery>
-D20jump.webp|跳杀
+D20jump.gif|跳杀
 </gallery>
 {{EntityNavBoxSectionD}}
 

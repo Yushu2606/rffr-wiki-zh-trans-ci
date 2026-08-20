@@ -46,8 +46,8 @@ E30.webp|预发布版设计
 <gallery>
 I30Vote.webp|最初将'''M-30'''Removed的社区投票
 E30Vote.webp|最终决定将'''M-30'''以'''E-30'''的名义重新加入的社区投票
-E30Rushing.webp|在[[Section E|E区]]中冲刺的'''E-30'''
-E30OldScare.webp|预发布版'''E-30'''的跳杀
+E30Rushing.gif|在[[Section E|E区]]中冲刺的'''E-30'''
+E30OldScare.gif|预发布版'''E-30'''的跳杀
 30 & 30i trail.webp|'''E-30'''的拖尾粒子效果
 Ehh-30.webp|'''E-30'''即将杀死一名玩家。
 </gallery>
@@ -85,7 +85,7 @@ Ehh-30.webp|'''E-30'''即将杀死一名玩家。
 
 <h2>图集</h2>
 <gallery>
-OldI30Jump.webp|跳杀
+OldI30Jump.gif|跳杀
 </gallery>
 </tabber>{{EntityNavBoxSectionE}}
 [[Category:Super Epic Mode]]

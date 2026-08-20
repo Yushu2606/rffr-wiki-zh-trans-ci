@@ -1,5 +1,5 @@
 {{ArticleBackground|File=Shadow_Challenge.webp}}{{DISPLAYTITLE:<span style="text-shadow: 0 0 30px #B300FF, 0 0 5px #B300FF, 0 0 5px #B300FF, 0 0 5px maroon, 0 0 5px #B300FF, 0 0 5px #B300FF; color: black;">SHA-140（不谐者）</span>}}
-{{InfoBox:Entity|entity_name=[[File:Sha140logo.webp]]
+{{InfoBox:Entity|entity_name=[[File:Sha140logo.gif]]
 |entity_image=<gallery>
 File:SHA-140_str_Design.webp|新设计
 BetterSha-140Remake.webp|旧重制设计

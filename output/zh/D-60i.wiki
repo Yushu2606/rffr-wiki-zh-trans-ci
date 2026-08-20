@@ -5,9 +5,9 @@
 {{InfoBox:Entity
 |previous_entity=[[D-55i]]<br>[[D-60]]
 |next_entity=[[D-120]]<br>[[D-140]]
-|entity_name=[[File:D-60iTitle.webp|frameless|link=D-60i]]
+|entity_name=[[File:D-60iTitle.gif|frameless|link=D-60i]]
 |entity_image=<gallery>
-Redesign_D-60i_Animation.webp|D-60i 第一阶段动画重制版
+Redesign_D-60i_Animation.gif|D-60i 第一阶段动画重制版
 D60iface1.webp|第一阶段第1张脸
 D60iface2.webp|第一阶段第2张脸
 D60iface3.webp|第一阶段第3张脸
@@ -142,8 +142,8 @@ D60i3.webp|倒计时3
 OldD-60i1.webp|旧版倒计时1
 OldD-60i2.webp|旧版倒计时2
 OldD-60i3.webp|旧版倒计时3
-D-60iPhase2Jumpscare.webp|跳杀
-Newest_D-60i_AnimV2.webp|旧版第一阶段动画重现
+D-60iPhase2Jumpscare.gif|跳杀
+Newest_D-60i_AnimV2.gif|旧版第一阶段动画重现
 D60i_png.webp|旧版第一张脸
 D-62i.webp|旧版第二张脸
 D-63i.webp|旧版第三张脸
@@ -153,7 +153,7 @@ D-66i.webp|旧版第六张脸
 D-67i.webp|旧版第七张脸
 BroisnotA-135.webp|旧版第八张脸
 Invasion_Evasion_(Badge).webp|旧版入侵规避徽章图标
-File:D-60iJumpscare.webp|D-60i的旧版跳杀
+File:D-60iJumpscare.gif|D-60i的旧版跳杀
 </gallery>
 
 ==徽章==

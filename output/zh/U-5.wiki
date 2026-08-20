@@ -1,7 +1,7 @@
 {{Admin Exclusive}}
 {{InfoBox:Entity
 |entity_name=[[File:U-5_title.webp|frameless|link=U-5]]
-|entity_image= Spin.webp 
+|entity_image= Spin.gif 
 |caption-entity_image=Miehahahahahha
 |appears_at=仅Admin可生成
 |nicknames=Chesire（柴郡）

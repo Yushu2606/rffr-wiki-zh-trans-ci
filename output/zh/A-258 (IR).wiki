@@ -7,7 +7,7 @@
 |related_monsters=[[X-1200 Entities#X-1200-B|X-1200-B]]
 |speed=固定者。
 |entity_image=<gallery>
-A-258_gif.webp|动画（还原）
+A-258.gif|动画（还原）
 A-258.webp|设计图
 </gallery>
 |claustrophobia=否

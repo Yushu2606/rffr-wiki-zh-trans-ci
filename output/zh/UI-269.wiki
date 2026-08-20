@@ -2,7 +2,7 @@
 {{Headphones}}
 {{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-269Placeholder.webp|frameless|link=UI-269]]
+|entity_name=[[File:UI-269Placeholder.gif|frameless|link=UI-269]]
 |entity_image=BetterUI-269.webp
 |previous_entity=[[UI-246]]
 |next_entity=[[UI-315|<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>]]

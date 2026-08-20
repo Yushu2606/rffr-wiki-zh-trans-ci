@@ -4,7 +4,7 @@
 |entity_name=SHA-85
 |entity_image=<gallery>
 SHA85NewWatermark.webp|Upcoming 设计
-Sha85ani.webp|动画还原
+Sha85ani.gif|动画还原
 Sha85.webp|设计
 </gallery>
 |caption-entity_image=火车老兄

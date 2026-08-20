@@ -14,10 +14,10 @@
 ==新增/重新加入的实体==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20ii.webp|center|150px|link=A-20ii]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.webp|center|150px|link=A-200ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A200iiAnim.gif|center|150px|link=A-200ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-35ii.webp|center|150px|link=D-35ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M7Anim.gif|center|150px|link=M-7]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20ii]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200ii]]
@@ -40,7 +40,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:AfA20i.webp|center|150px|link=A-20i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A601.webp|center|150px|link=A-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.webp|center|150px|link=A-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.webp|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
@@ -48,11 +48,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135.webp|center|150px|link=A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:AfA135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.webp|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
@@ -67,8 +67,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5AF26.webp|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Eyes.webp|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.webp|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -78,9 +78,9 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:AfD55.webp|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
@@ -100,7 +100,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.webp|center|150px|link=M-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.webp|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120_Design.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120_Design.gif|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
@@ -109,8 +109,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]

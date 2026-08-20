@@ -54,7 +54,7 @@ M60_5.webp|表情5
 
 == 画廊 ==
 <gallery>
-File:M-60_scary.webp|跳杀
+File:M-60_scary.gif|跳杀
 M-60_checking_a_locker.webp|'''M-60''' 出现在柜子外。
 M-60_checking_a_locker_2.webp|同上
 OblivionX.webp|[[Oblivion]] 正在标记 '''M-60''' 打算检查的柜子
@@ -67,7 +67,7 @@ OblivionX.webp|[[Oblivion]] 正在标记 '''M-60''' 打算检查的柜子
 {{InfoBox:Entity
 |entity_name=I-60
 |entity_image=<gallery>
-Oldi60animation.webp|动画复现
+Oldi60animation.gif|动画复现
 I-601.webp|第1张脸
 I-602.webp|第2张脸
 I-603.webp|第3张脸
@@ -100,8 +100,8 @@ I-605.webp|第5张脸
 
 == 画廊 ==
 <gallery>
-SEMI-60Jum.webp|跳杀
-SEMI-60Move.webp|I-60 从玩家身边经过
+SEMI-60Jum.gif|跳杀
+SEMI-60Move.gif|I-60 从玩家身边经过
 </gallery>
 </tabber>
 

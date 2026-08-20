@@ -8,7 +8,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.webp|center|150px|link=A-20i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A601.webp|center|150px|link=A-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.webp|center|150px|link=A-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.webp|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
@@ -16,11 +16,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA120.webp|center|150px|link=A-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:ShadowMan.webp|center|140px|link=A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.webp|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-120]]
@@ -28,7 +28,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
 {{!}}
@@ -51,8 +51,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.webp|center|150px|link=D-55i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
@@ -60,7 +60,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-175_new.webp|center|150px|link=D-175]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.webp|center|150px|link=D-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D250.webp|center|150px|link=D-250]]
@@ -87,10 +87,10 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
@@ -115,9 +115,9 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.webp|center|150px|link=Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.webp|center|150px|link=Execution]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.webp|center|150px|link=False-60]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.webp|center|150px|link=False-120]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.webp|center|150px|link=False-200]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]
@@ -129,7 +129,7 @@
 |-|E区实体=
 '''E区实体：'''
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.webp|center|150px|link=E-10]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-10Anim.gif|center|150px|link=E-10]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E10i.webp|center|150px|link=E-10i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewE30.webp|center|150px|link=E-30]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E30i.webp|center|150px|link=E-30i]]
@@ -141,11 +141,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-45]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E60CurrentAnim.webp|center|150px|link=E-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E60CurrentAnim.gif|center|150px|link=E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.webp|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120_Design.webp|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.webp|center|150px|link=E-165]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.webp|center|150px|link=E-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.gif|center|150px|link=E-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
@@ -165,7 +165,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.webp|center|150px|link=Jimmy]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:MouthColorless.webp|center|150px|link=Mouth]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewVoid.webp|center|150px|link=Void]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:X1200Icon.webp|center|150px|link=X-1200 Entities]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:X1200Icon.gif|center|150px|link=X-1200 Entities]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Claustrophobia|幽闭恐惧]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Jimmy]]
@@ -175,9 +175,9 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Oblivion.webp|center|150px|link=Oblivion]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=Unknown Entity]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Airsmile.webp|center|150px|link=GOD-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Airsmile.gif|center|150px|link=GOD-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Endellion.webp|center|150px|link=Endellion]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Wakey.webp|center|150px|link=Goober-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Wakey.gif|center|150px|link=Goober-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Oblivion]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Unknown Entity|"未知实体"]]
@@ -205,7 +205,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.webp|center|150px|link=SHA-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.webp|center|150px|link=SHA-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
@@ -215,7 +215,7 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
@@ -229,9 +229,9 @@
 <center>'''阿尔法 & Shadowpocalypse（暗影天启）：'''</center><br>
 <center>'''暗影实体：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA22.webp|center|150px|link=SHA-22]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.webp|center|150px|link=SHA-300]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.webp|center|150px|link=Overseer]]
 {{!}}-
@@ -247,7 +247,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L2.webp|center|150px|link=LAPSE-2]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.webp|center|150px|link=LAPSE-3]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.webp|center|150px|link=LAPSE-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.webp|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]
@@ -270,7 +270,7 @@ II Hate This（我讨厌这个）=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35ii]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55ii]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D60iiAnim.webp|center|150px|link=D-60ii]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D60iiAnim.gif|center|150px|link=D-60ii]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60ii]]
 {{!}}-{{!}}
@@ -333,7 +333,7 @@ Super Epic Mode（超史诗模式）=
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.webp|center|150px|link=UI-246]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.webp|center|150px|link=UI-269]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.webp|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.webp|center|150px|link=E-30#Section_UI]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.webp|center|150px|link=Mouth#Section_UI]]
 {{!}}-
@@ -343,7 +343,7 @@ Super Epic Mode（超史诗模式）=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.webp|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
@@ -355,7 +355,7 @@ Super Epic Mode（超史诗模式）=
 {{!}} style="padding 5px;" align="center" {{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Tackle.webp|center|150px|link=Tackle]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-258_gif.webp|center|150px|link=A-258 (IR)]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-258.gif|center|150px|link=A-258 (IR)]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Pipe Bomb|Pipe Bomb（管道炸弹）]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mori]]
@@ -404,7 +404,7 @@ Super Epic Mode（超史诗模式）=
 |A区=
 '''A区：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.webp|center|150px|link=Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.gif|center|150px|link=Old A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A165.webp|center|150px|link=A-165]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Old A-60i]]
@@ -441,11 +441,11 @@ M区=
 '''Admin 专属实体：'''
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Spin.webp|center|150px|link=U-5]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Spin.gif|center|150px|link=U-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:CARDBOARD-5.webp|center|150px|link=CARDBOARD-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Gflorp-60.webp|center|150px|link=Glongoflorp-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-20i.webp|center|150px|link=D-20i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-140irecreation.webp|center|150px|link=D-140i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-140irecreation.gif|center|150px|link=D-140i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[U-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[CARDBOARD-5]]

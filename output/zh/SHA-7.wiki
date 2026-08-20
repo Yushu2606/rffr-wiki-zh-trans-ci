@@ -3,8 +3,8 @@
 {{InfoBox:Entity
 |entity_name=SHA-7
 |entity_image=<gallery>
-SHA7CLOSED.webp|阖脸动画
-SHA7OPENED.webp|开脸动画
+SHA7CLOSED.gif|阖脸动画
+SHA7OPENED.gif|开脸动画
 SHA7Main.webp|闭合设计
 SHA7Split1.webp|分裂设计 1
 SHA7Split2.webp|分裂设计 2

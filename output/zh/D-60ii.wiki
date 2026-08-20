@@ -4,9 +4,9 @@
 {{HeadphonesNotice}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:D-60iiPlaceholder.webp|frameless|link=D-60ii]]
+|entity_name=[[File:D-60iiPlaceholder.gif|frameless|link=D-60ii]]
 |entity_image=<gallery>
-D60iiAnim.webp|第一阶段动画
+D60iiAnim.gif|第一阶段动画
 D60iface1.webp|第一阶段第1张脸
 D60iface2.webp|第一阶段第2张脸
 D60iface3.webp|第一阶段第3张脸
@@ -86,8 +86,8 @@ D60iface13Phase2.webp|第二阶段第13张脸
 
 == 画廊 ==
 <gallery>
-File:D-60iiNewScare.webp|跳杀
-File:D-60iiJumpscare.webp|旧版跳杀
+File:D-60iiNewScare.gif|跳杀
+File:D-60iiJumpscare.gif|旧版跳杀
 Ii9.webp|倒计时 9
 Ii8.webp|倒计时 8
 Ii7.webp|倒计时 7
@@ -98,7 +98,7 @@ D60i3.webp|倒计时 3
 D60i2.webp|倒计时 2
 D60i1.webp|倒计时 1
 Ii0.webp|倒计时 0
-D-60iiFr.webp|旧动画重制
+D-60iiFr.gif|旧动画重制
 D60ii1.webp|旧面孔 1
 D60ii2.webp|旧面孔 2
 D60ii3.webp|旧面孔 3

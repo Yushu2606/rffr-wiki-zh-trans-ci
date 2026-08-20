@@ -1,6 +1,6 @@
 {{DISPLAYTITLE:<span style="animation: m134 10s infinite;">M-134 (钱德勒)</span>}}
 {{ArticleBackground|File=MBackground.webp}}
-{{InfoBox:Entity|entity_name=[[File:G.webp|frameless|link=M-134]]
+{{InfoBox:Entity|entity_name=[[File:G.gif|frameless|link=M-134]]
 |entity_image=M134.webp
 |previous_entity=[[M-120]] <br> [[M-120i]]（Upcoming）
 |next_entity=[[M-150]]

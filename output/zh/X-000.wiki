@@ -1,4 +1,4 @@
-{{ArticleBackground|File=MultiSectional.webp}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{DISPLAYTITLE:X-000 (Father Death)}}
 {{Modifier Exclusive|Clocks Ticking}}
 {{InfoBox:Entity

@@ -57,7 +57,7 @@ SHA4.webp|当前
 
 == 画廊 ==
 <gallery>
-File:SHA-4_anim_ingame.webp|'''SHA-4'''的游戏内动画（低画质）
+File:SHA-4_anim_ingame.gif|'''SHA-4'''的游戏内动画（低画质）
 File:SHA-4_despawning.webp|从柜子内部看到的'''SHA-4'''
 </gallery>
 [[Category:Shadow Entities]]

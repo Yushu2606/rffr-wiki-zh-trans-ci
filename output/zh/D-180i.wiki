@@ -68,7 +68,7 @@ D-180i.webp|旧设计
 
 == 画廊 ==
 <gallery>
-D-180iJumpscare.webp|旧版跳杀
+D-180iJumpscare.gif|旧版跳杀
 D-180iLoading.webp|'''D-180i'''在罕见加载画面中出现。
 ImGoingInsane.webp|<span style="text-shadow: 0 0 5px blue; color: blue;">Ȉ̴̤̈́m̶̢̿̃͊ ̸͕̠͎̌G̶̼̫͓͛̐̇̚o̶̧̮̬̠̅ỉ̷͖̱̦̔ņ̴̦̥̂̏͆̄g̵͚͖̼͌̍̇͘ ̸̛̙͇̾Ĩ̶̜ń̷̗́s̵̫̳͕̳͑ã̸͇͛͂̇ṅ̷͚͐e̸̢̛̤͕</span>
 </gallery>

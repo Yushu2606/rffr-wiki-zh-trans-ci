@@ -49,8 +49,8 @@ D-180real.webp|回退设计
 
 ==画廊==
 <gallery>
-D180Jump.webp|'''D-180'''的当前跳杀动画。
-OldD180jump.webp|'''D-180'''的回退版本跳杀。
+D180Jump.gif|'''D-180'''的当前跳杀动画。
+OldD180jump.gif|'''D-180'''的回退版本跳杀。
 D-180MSection.webp|D-180被Admin生成后出现在[[Section M|M区]]中。
 </gallery>
 

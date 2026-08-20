@@ -5,7 +5,7 @@
 {{InfoBox:Entity
 |entity_name=[[File:NewA60iTitle.webp|frameless|link=A-60i]]
 |entity_image=<gallery>
-A-60iCurrentAnimation.webp|动画重制
+A-60iCurrentAnimation.gif|动画重制
 60i1.webp|第1张脸
 60i2.webp|第2张脸
 60i3.webp|第3张脸
@@ -50,19 +50,19 @@ A-60i无法自行生成，而是有概率在A-60消失后生成。如果A-60i成
 
 ==画廊==
 <gallery>
-Newa60ijump.webp|A-60i 当前的跳杀画面
-A-60IAnimNew.webp|旧版动画重制
+Newa60ijump.gif|A-60i 当前的跳杀画面
+A-60IAnimNew.gif|旧版动画重制
 Old60i1.webp|旧版第1张脸
 Old60i5.webp|旧版第5张脸
-File:A-60i_scary.webp|旧版/更旧版本的A-60i跳杀画面
-A-60iwow.webp|更旧版本动画重制
+File:A-60i_scary.gif|旧版/更旧版本的A-60i跳杀画面
+A-60iwow.gif|更旧版本动画重制
 OldestA60i1.webp|更旧版第1张脸
 OldestA60i2.webp|更旧版第2张脸
 OldestA60i3.webp|更旧版第3张脸
 OldestA60i4.webp|更旧版第4张脸
 OldestA60i5.webp|更旧版第5张脸
 OldestA60i6.webp|更旧版第6张脸
-Og60i.webp|真正的遗留/遗留/超级史诗模式动画
+Og60i.gif|真正的遗留/遗留/超级史诗模式动画
 </gallery>
 
 

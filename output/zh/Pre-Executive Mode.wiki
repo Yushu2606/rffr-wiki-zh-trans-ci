@@ -16,7 +16,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.webp|center|150px|link=A-20i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A601.webp|center|150px|link=A-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.webp|center|150px|link=A-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.webp|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
@@ -24,11 +24,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UpdatedA-135.webp|center|150px|link=A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.webp|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
@@ -42,8 +42,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.webp|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.webp|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.webp|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35Redesign.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-35iRedesign.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -53,9 +53,9 @@ __NOTOC__
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
@@ -74,7 +74,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60i_1.webp|center|150px|link=M-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewM-70.webp|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120_Design.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M-120_Design.gif|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60]]
@@ -83,8 +83,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerM-200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-150]]
@@ -108,7 +108,7 @@ __NOTOC__
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Tackle.webp|center|150px|link=Tackle]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.webp|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[False Witness]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Tackle]]
@@ -133,8 +133,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Sha-35.webp|center|150px|link=SHA-35]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-55.webp|center|150px|link=SHA-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-60.webp|center|150px|link=SHA-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha85ani.webp|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Sha85ani.gif|center|150px|link=SHA-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-55]]
@@ -144,7 +144,7 @@ __NOTOC__
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]

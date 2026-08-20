@@ -9,7 +9,7 @@
 [[A-85]]
 |entity_name=[[File:NewA60Title.webp|frameless|link=A-60]]
 |entity_image=<gallery>
-CurrentA-60.webp|动画还原
+CurrentA-60.gif|动画还原
 A601.webp|第1张脸
 602.webp|第2张脸
 603.webp|第3张脸
@@ -66,20 +66,20 @@ A-60 是一张循环切换8张脸的红色实体。它最广为人知的形象�
 
 == 画廊 ==
 <gallery>
-Newa60jump.webp|A-60的当前跳杀
-A-60AnimNew.webp|旧版动画
+Newa60jump.gif|A-60的当前跳杀
+A-60AnimNew.gif|旧版动画
 Old601.webp|旧版第1张面孔
 Old605.webp|旧版第5张面孔
-File:A-60_scary.webp|A-60的旧版/更早版本跳杀
-A-60.gif.webp|更早版本动画重制
+File:A-60_scary.gif|A-60的旧版/更早版本跳杀
+A-60.gif.gif|更早版本动画重制
 OldestA601.webp|更旧版本面孔1
 OldestA602.webp|更旧版本面孔2
 OldestA603.webp|更旧版本面孔3
 OldestA604.webp|更旧版本面孔4
 OldestA605.webp|更旧版本面孔5
 OldestA606.webp|更旧版本面孔6
-Og60.webp|真遗产/遗产模式动画
-A-60_Open_Beta.webp|公开测试模式动画
+Og60.gif|真遗产/遗产模式动画
+A-60_Open_Beta.gif|公开测试模式动画
 </gallery>
 
 

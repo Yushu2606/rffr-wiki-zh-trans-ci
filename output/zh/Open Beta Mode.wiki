@@ -12,7 +12,7 @@ __NOTOC__
 {{InfoBox:Entity
 |next_entity='''A-200'''
 |entity_name=<span style= "color:#a60a03">A-60</span>
-|entity_image=A-60_Open_Beta.webp
+|entity_image=A-60_Open_Beta.gif
 |appears_at=A-060之后任意时刻
 |nicknames=多重怪物
 |type=冲刺者
@@ -37,7 +37,7 @@ __NOTOC__
 |next_entity=Mouth
 |previous_entity=<span style= "color:#a60a03">'''A-60'''</span>
 |entity_name=A-200
-|entity_image=A-200_Open_Beta.webp
+|entity_image=A-200_Open_Beta.gif
 |appears_at=A-200之后任意时刻
 |nicknames=快乐涂鸦
 |type=Backtracker（回溯者）<br>反弹者

@@ -2,7 +2,7 @@
 {{HeadphonesNotice}}
 {{Modifier Exclusive|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]}}
 {{InfoBox:Entity
-|entity_name=[[File:UI-110Placeholder.webp|frameless|link=UI-110]]
+|entity_name=[[File:UI-110Placeholder.gif|frameless|link=UI-110]]
 |entity_image=UI110.webp
 |previous_entity=[[UI-83]]
 |next_entity=[[UI-157]]

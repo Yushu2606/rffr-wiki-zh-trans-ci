@@ -5,7 +5,7 @@
 |entity_name=M-7
 |entity_image=<gallery>
 M7Anim.gif|动画
-M7eyes.webp|眼形态动画
+M7eyes.gif|眼形态动画
 M-7.webp|重制设计
 </gallery>
 |previous_entity=[[Mouth|D-300]]

@@ -6,7 +6,7 @@
 |entity_name=[[File:D-140iTitle.webp|frameless|link=D-140i]]
 |entity_image=<gallery>
 D140i.gif|游戏内动画
-D-140irecreation.webp|动画
+D-140irecreation.gif|动画
 D-140iface1.webp|设计1
 D-140iface2.webp|设计2
 </gallery>

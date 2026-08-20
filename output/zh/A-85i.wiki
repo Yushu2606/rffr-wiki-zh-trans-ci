@@ -5,9 +5,9 @@
 |next_entity=[[A-120]]
 |entity_name=[[File:A-85iPlaceholder.webp|frameless|link=A-85i]]
 |entity_image= <gallery>
-NewBanshee.webp|动画重制
+NewBanshee.gif|动画重制
 85i.webp|当前设计
-BansheeAccurate.webp|旧版/经典动画重制
+BansheeAccurate.gif|旧版/经典动画重制
 A-85icolor.webp|旧版/经典设计
 </gallery>
 |caption-entity_image=喵
@@ -76,9 +76,9 @@ A-85icolor.webp|旧版/经典设计
 
 ==图库==
 <gallery>
-File:Banshee_scare.webp|A-85i的跳杀
+File:Banshee_scare.gif|A-85i的跳杀
 File:A-85iSEM.webp|在[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中出现的A-85i。''（复刻）''
-File:SemA85ijump.webp|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
+File:SemA85ijump.gif|[[Super Epic Mode|Super Epic Mode（超级史诗模式）]]中的跳杀
 File:Eletric.webp|A-85的粒子特效
 </gallery>
 

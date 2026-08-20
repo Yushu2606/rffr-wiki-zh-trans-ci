@@ -14,7 +14,7 @@
 |gun_effect=无
 |locker_snipe=是（非致命）
 |entity_image=<gallery>
-M150Anim.webp|重制动画
+M150Anim.gif|重制动画
 M-150thedepressed.webp|设计图
 </gallery>
 |sound1=<center>生成</center><center>[[File:M150.mp3]]</center>
@@ -45,7 +45,7 @@ M-150thedepressed.webp|设计图
 
 == 画廊 ==
 <gallery>
-File:M-150_scary.webp|M-150的跳杀
+File:M-150_scary.gif|M-150的跳杀
 </gallery>
 
 

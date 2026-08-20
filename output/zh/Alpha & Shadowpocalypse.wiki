@@ -34,7 +34,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA2.webp|center|150px|link=SHA-2]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA3.webp|center|150px|link=SHA-3]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA4.webp|center|150px|link=SHA-4]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.webp|center|150px|link=SHA-7]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-2]]
@@ -55,9 +55,9 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-60]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA85NewWatermark.webp|center|150px|link=SHA-85]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.webp|center|150px|link=SHA-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-120.gif|center|150px|link=SHA-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-140_str_Design.webp|center|150px|link=SHA-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.webp|center|150px|link=SHA-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:PinkSha150.gif|center|150px|link=SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-180_str_New_design.webp|center|150px|link=SHA-180]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-85]]
@@ -66,7 +66,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-150]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.webp|center|150px|link=SHA-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewSHA200.gif|center|150px|link=SHA-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA-300.webp|center|150px|link=SHA-300]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:DiscOverseer.webp|center|150px|link=Overseer]]
 {{!}}-
@@ -81,7 +81,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Better_L2.webp|center|150x150px]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.webp|center|150px|link=LAPSE-3]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.webp|center|150px|link=LAPSE-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.webp|center|150px|link=LAPSE-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-2]]

@@ -12,8 +12,8 @@
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25.webp|center|150px|link=A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25i.webp|center|150px|link=A-20i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.webp|center|150px|link=A-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.webp|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.gif|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-85.webp|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
@@ -25,8 +25,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA85i.webp|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-120_Recreated.webp|center|150px|link=A-120#Old]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-135.webp|center|150px|link=A-135]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200.webp|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200i.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-200i.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-120#Old|A-120]]
@@ -41,8 +41,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-1.webp|center|150px|link=D-20]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.webp|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.webp|center|150px|link=D-5i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35Anim.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35iAnim.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35Anim.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-35iAnim.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20|D-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
@@ -50,10 +50,10 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D-55Face.webp|center|150px|link=D-55]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.webp|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.webp|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D-55Face.gif|center|150px|link=D-55]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.gif|center|150px|link=D-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-180.webp|center|150px|link=D-180]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
@@ -62,7 +62,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-180]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.webp|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.gif|center|150px|link=D-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
 

@@ -49,10 +49,10 @@ E10iJumpscare.webp|当前跳杀外观
 
 ==图库==
 <gallery>
-File:E-10i_teleport.webp|传送中的'''E-10i'''（低画质）
-File:Virtue_ingame.webp|消失中的'''E-10i'''（低画质）
-File:E10iScare.webp|跳杀
-File:Actual E-10i teleport.webp|'''E-10i'''的传送粒子效果
+File:E-10i_teleport.gif|传送中的'''E-10i'''（低画质）
+File:Virtue_ingame.gif|消失中的'''E-10i'''（低画质）
+File:E10iScare.gif|跳杀
+File:Actual E-10i_teleport.gif|'''E-10i'''的传送粒子效果
 File:E-10 despawn p.webp|'''E-10i'''的粒子效果。
 </gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]

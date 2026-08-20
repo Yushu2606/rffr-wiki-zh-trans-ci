@@ -46,11 +46,11 @@ A-20生成时会发出呼吸声。A-20会以缓慢的速度冲向玩家当前所
 
 ==画廊==
 <gallery>
-A-20VeryScary.webp|A-20的跳杀
-File:A-20anim.webp|旧版设计动画重制
-NewA-25Jumpscare.webp|旧版A-20的跳杀
+A-20VeryScary.gif|A-20的跳杀
+File:A-20anim.gif|旧版设计动画重制
+NewA-25Jumpscare.gif|旧版A-20的跳杀
 File:A-25Design.webp|已废弃的V.2设计
-File:A-25Jumpscare.webp|更旧版本的A-20跳杀
+File:A-25Jumpscare.gif|更旧版本的A-20跳杀
 TrueLegacyA-25.webp|真正的遗留/超级史诗模式设计
 </gallery>
 

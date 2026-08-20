@@ -69,14 +69,14 @@ NVCSE60.webp|通过'''NVCS-13793-C'''看到的'''E-60'''。
 </gallery>
 ===GIF===
 <gallery>
-NewE60jum.webp|'''E-60'''<nowiki/>的跳杀。
-TempE60jum.webp|'''E-60'''使用临时面孔的跳杀。
-E60jump.webp|'''E-60'''的旧版跳杀。
-ByeE60.webp|在[[D区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中，'''E-60'''从玩家身边经过。
-HiE60.webp|死亡玩家视角下看到的使用临时面孔的'''E-60'''。
-E60CurrentAnim.webp|'''E-60'''动画[复现]。
-E60tempanimation.webp|同上，使用临时面孔。
-E60anim.webp|同上，使用旧版面孔。
+NewE60jum.gif|'''E-60'''<nowiki/>的跳杀。
+TempE60jum.gif|'''E-60'''使用临时面孔的跳杀。
+E60jump.gif|'''E-60'''的旧版跳杀。
+ByeE60.gif|在[[D区]]的[[Section Executive Invasion Event|Section Executive Invasion Event（分区高管入侵事件）]]中，'''E-60'''从玩家身边经过。
+HiE60.gif|死亡玩家视角下看到的使用临时面孔的'''E-60'''。
+E60CurrentAnim.gif|'''E-60'''动画[复现]。
+E60tempanimation.gif|同上，使用临时面孔。
+E60anim.gif|同上，使用旧版面孔。
 </gallery>
 ===其他===
 <gallery>

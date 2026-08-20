@@ -1,8 +1,8 @@
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #D71B0B; color: #FEAA01;">UI-315</span>}}
 {{ArticleBackground|File=Section_Interchange_Hallway.webp}}
 {{Modifier Exclusive|[[Super Epic Mode]]}}
-{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.webp|frameless|link=UI-315]]|entity_image=<gallery>
-UI315.webp|动画复刻
+{{InfoBox:Entity|entity_name=[[File:UI-315Placeholder.gif|frameless|link=UI-315]]|entity_image=<gallery>
+UI315.gif|动画复刻
 BetterUI-315.webp|设计稿
 Black315.webp|暗色设计稿
 </gallery>

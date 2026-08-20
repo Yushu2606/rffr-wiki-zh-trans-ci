@@ -14,8 +14,8 @@ __NOTOC__
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-25ReRedesign.webp|center|150px|link=A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-25iDesign.webp|center|150px|link=A-20i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.webp|center|150px|link=A-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.webp|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60.gif|center|150px|link=A-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A85real.webp|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
@@ -27,8 +27,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A135.webp|center|150px|link=A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Airyyy_renovated_air.webp|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueAir_Renovated.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Airyyy_renovated_air.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueAir_Renovated.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135]]
@@ -42,8 +42,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.webp|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.webp|center|150px|link=D-5i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D20.webp|center|150px|link=D-20]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD35.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-35.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD35.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-35.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5i]]
@@ -53,9 +53,9 @@ __NOTOC__
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-60_1.webp|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Newest_D-60i_AnimV2.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-120.webp|center|150px|link=D-120]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Newest_D-60i_AnimV2.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-120.gif|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:LegacyD-140.gif|center|150px|link=D-140]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
@@ -63,7 +63,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-140]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.webp|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.gif|center|150px|link=D-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-200]]
 
@@ -74,7 +74,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M22.webp|center|150px|link=M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M70.webp|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
@@ -83,7 +83,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]

@@ -2,7 +2,7 @@
 {{ArticleBackground|File=SEMD-Section.webp}}
 {{Modifier Exclusive|II Hate This、[[Super Epic Mode|超级史诗模式]]或[[April Fools 2026|2026年愚人节]]}}
 {{InfoBox:Entity
-|entity_name=[[File:D-35iiPlaceholder.webp|frameless|link=D-35ii]]
+|entity_name=[[File:D-35iiPlaceholder.gif|frameless|link=D-35ii]]
 |entity_image=D-35ii.webp
 |nicknames=The Toxic Loser（有毒废柴）<br>Omega Shadow winner（欧米伽暗影优胜者）
 |gun_effect=无

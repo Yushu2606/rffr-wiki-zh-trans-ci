@@ -29,9 +29,9 @@
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Lunge.webp|center|150px|link=Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}[[File:Execution.webp|center|150px|link=Execution]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.webp|center|150px|link=False-60]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.webp|center|150px|link=False-120]]
-{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.webp|center|150px|link=False-200]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F60anim.gif|center|150px|link=False-60]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-120.gif|center|150px|link=False-120]]
+{{!}} style="padding 5px;" align="center"{{!}}[[File:F-200.gif|center|150px|link=False-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Lunge]]
 {{!}} style="padding 5px;" align="center"{{!}}<br>[[Execution]]

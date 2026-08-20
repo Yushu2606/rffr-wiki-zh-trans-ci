@@ -39,5 +39,5 @@ File:Lucy_LockerBreachOpening.webp| "I thought I could trust you.. Good luck."<b
 File:Lucy_Minigun.webp|手持虚空加特林，即VM-244的Lucy
 File:Lucy_HOD.webp|手持暗心的Lucy
 File:Lucy_Perf.webp|手持完美主义者的Lucy
-File:Lucy_JumpscareConcept.webp|"...I'm sorry it had to come to this."<br>「…很抱歉事情走到了这一步。」
+File:Lucy_JumpscareConcept.gif|"...I'm sorry it had to come to this."<br>「…很抱歉事情走到了这一步。」
 </gallery>{{EntityNavBox}}

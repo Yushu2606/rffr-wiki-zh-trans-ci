@@ -46,8 +46,8 @@
 ==画廊==
 ===GIFs===
 <gallery>
-File:Tumult_ingame.gif.webp|'''D-250'''在当前房间投掷法球时的画面。
-File:D-250_jumpscare.webp|'''D-250'''<nowiki/>的跳杀。
+File:Tumult_ingame.gif.gif|'''D-250'''在当前房间投掷法球时的画面。
+File:D-250_jumpscare.gif|'''D-250'''<nowiki/>的跳杀。
 </gallery>
 
 ===杂项===

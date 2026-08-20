@@ -55,9 +55,9 @@ M60i15.webp|第十五张脸
 
 ==画廊==
 <gallery>
-File:New_M60i_ingame.webp|游戏内可见的新'''M-60i'''（低画质）
+File:New_M60i_ingame.gif|游戏内可见的新'''M-60i'''（低画质）
 File:Teased.webp|现已加入游戏的其中一张脸的预告图
-File:M60ijump.webp|旧版跳杀
+File:M60ijump.gif|旧版跳杀
 File:M60i_1.webp|旧版第一张脸
 File:Acc_Mediator_1.webp|旧版第二张脸
 File:Acc_Mediator_2.webp|旧版第三张脸

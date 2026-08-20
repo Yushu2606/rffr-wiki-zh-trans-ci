@@ -28,7 +28,7 @@
 
 == 画廊 ==
 <gallery>
-File:EXjump.webp|跳杀
+File:EXjump.gif|跳杀
 File:EXOFF.webp|未容纳Execution的显示器
 File:EXON.webp|同上，但容纳了Execution
 File:Execution_Checking_Locker.webp|正在检查柜子的Execution

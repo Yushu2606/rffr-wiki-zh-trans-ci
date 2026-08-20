@@ -1,7 +1,7 @@
 {{DISPLAYTITLE:<span style="animation: mouf 4s infinite;">Mouth (A/D/M(I)/False/E-300)</span>}}
 <tabber>
 |-|基础=
-{{ArticleBackground|File=MultiSectional.webp}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{NoteBox|note=请勿与《'''Rooms: Re-Established'''》中的'''A-300'''混淆}}
 {{InfoBox:Entity|entity_name= [[File:MouthTitle.webp|frameless|link=Mouth]]|entity_image=<gallery>
 MouthColorless.webp|设定图
@@ -127,11 +127,11 @@ E区=
 <h2>画廊</h2>
 <gallery>
 File:False-300_ingame.webp|游戏中看到的'''False-300'''
-File:MouthsScare.webp|跳杀（[[Section A|A区]]）
-File:DMouthJum.webp|跳杀（[[Section D|D区]]）
-File:M-300Scare.webp|跳杀（[[Section M|M区]]）
-F300Jump.webp|跳杀（[[Unnamed Sector|无名区域]]）
-File:ESectionMouthJumpscare.webp|跳杀（[[Section E|E区]]）
+File:MouthsScare.gif|跳杀（[[Section A|A区]]）
+File:DMouthJum.gif|跳杀（[[Section D|D区]]）
+File:M-300Scare.gif|跳杀（[[Section M|M区]]）
+F300Jump.gif|跳杀（[[Unnamed Sector|无名区域]]）
+File:ESectionMouthJumpscare.gif|跳杀（[[Section E|E区]]）
 File:MouthMessage.webp|玩家试图打开门后有Mouth的门时收到的消息。
 </gallery>
 

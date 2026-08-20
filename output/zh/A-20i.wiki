@@ -45,9 +45,9 @@ A-20i是所有素数实体中的首个素数实体，躲避难度极低。它外
 
 ===GIF动图===
 <gallery>
-Newa25ijump.webp|A-20i的当前跳杀动画
-NewA-25iJumpscare.webp|A-20i的旧版跳杀动画
-A-25iScary.webp|A-20i的更旧版跳杀动画
+Newa25ijump.gif|A-20i的当前跳杀动画
+NewA-25iJumpscare.gif|A-20i的旧版跳杀动画
+A-25iScary.gif|A-20i的更旧版跳杀动画
 </gallery>
  
 ===杂项===

@@ -57,7 +57,7 @@ Eyescare.webp|跳杀设计图
 
 == 图集 ==
 <gallery>
-D-5i_scary.webp|D-5i的跳杀
+D-5i_scary.gif|D-5i的跳杀
 Eyes.webp|[[April Fools 2026|2026年愚人节]]中的设计
 </gallery>
 

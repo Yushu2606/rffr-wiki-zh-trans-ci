@@ -31,6 +31,6 @@
 == 画廊 ==
 
 <gallery>
-File:E-30iScary.webp|跳杀
+File:E-30iScary.gif|跳杀
 File:30 & 30i trail.webp|'''E-30i'''的拖尾粒子
 </gallery>{{EntityNavBoxSectionE}}

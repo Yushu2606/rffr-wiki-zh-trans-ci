@@ -25,7 +25,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M22.webp|center|150px|link=M-22]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M60_1.webp|center|150px|link=M-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M70.webp|center|150px|link=M-70]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:I-120LegacyMode.gif|center|150px|link=M-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-7|I-7]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-22|I-22]]
@@ -34,7 +34,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-120|I-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134|I-134]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-200|I-200]]

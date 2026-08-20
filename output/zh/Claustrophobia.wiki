@@ -1,5 +1,5 @@
 {{HeadphonesNotice}}
-{{ArticleBackground|File=MultiSectional.webp}}
+{{ArticleBackground|File=MultiSectional.gif}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px gray; color: gray;">Claustrophobia</span>}}
 {{InfoBox:Entity
 |entity_name=Claustrophobia

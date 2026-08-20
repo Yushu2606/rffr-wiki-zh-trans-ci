@@ -25,7 +25,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewerA25i.webp|center|150px|link=A-20i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A601.webp|center|150px|link=A-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:60i1.webp|center|150px|link=A-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.webp|center|150px|link=A-85]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A-85Help.gif|center|150px|link=A-85]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-20i]]
@@ -33,11 +33,11 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.webp|center|150px|link=A-85i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewBanshee.gif|center|150px|link=A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA120.webp|center|150px|link=A-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:ShadowMan.webp|center|140px|link=A-135]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.webp|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewRenovatedair.gif|center|150px|link=A-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br><div class="A-120">[[A-120|<span style=></span>]]</div>
@@ -45,7 +45,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:BlueRenovatedWater.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200i]]
 {{!}}}
@@ -65,7 +65,7 @@
 
 ==Removed/废弃==
 {{{!}} style="width:80; text-align:center; margin:0 auto"
-{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.webp|center|150px|link=Old A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:A50iAnim.gif|center|150px|link=Old A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A165.webp|center|150px|link=A-165]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Old A-60i]]

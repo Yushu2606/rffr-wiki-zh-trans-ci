@@ -28,11 +28,11 @@ TBA
 |-|D-200=
 '''D-200:'''
 {{InfoBox:Entity
-|entity_name=[[File:Ifuckasure.webp|frameless|link=D-200]]
+|entity_name=[[File:Ifuckasure.gif|frameless|link=D-200]]
 |entity_image=<gallery>
 NewD200.webp|待机设计
 D200Jump.webp|跳杀设计
-NewerD-200.webp|旧设计
+NewerD-200.gif|旧设计
 D200.webp|更早的设计
 </gallery>
 |previous_entity=[[D-175]]

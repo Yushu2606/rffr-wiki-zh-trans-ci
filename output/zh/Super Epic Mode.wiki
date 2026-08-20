@@ -45,7 +45,7 @@ __NOTOC__
 {{!}}[[File:IdleMori.webp|center|150px|link=Mori]]
 {{!}}[[File:FalseWitnessIdle.webp|center|150px|link=False Witness]]
 {{!}}[[File:Tackle.webp|center|150px|link=Tackle]]
-{{!}}[[File:A-258_gif.webp|center|150px|link=A-258 (IR)]]
+{{!}}[[File:A-258.gif|center|150px|link=A-258 (IR)]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Pipe Bomb|Pipe Bomb（管道炸弹）]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Mori]]
@@ -89,7 +89,7 @@ __NOTOC__
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI-246.webp|center|150px|link=UI-246]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:BetterUI-269.webp|center|150px|link=UI-269]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.webp|center|150px|link=UI-315]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:UI315.gif|center|150px|link=UI-315]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi30.webp|center|150px|link=E-30#Section_UI]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UImouth.webp|center|150px|link=Mouth#Section_UI]]
 {{!}}-
@@ -99,7 +99,7 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-30#Section_UI|<span style="text-shadow: 0 0 5px #FFFF59; color: #FFFF59;">I-30</span>]]
 {{!}} style="padding 5px;" align="center" {{!}}[[Mouth#Section_UI|<span style="text-shadow: 0 0 5px #289600; color: #000000;">I-300</span>]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.webp|center|150px|link=M-60#Section_UI]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Oldi60animation.gif|center|150px|link=M-60#Section_UI]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:UI500.gif|center|150px|link=Gato]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60#Section_UI|<span style="text-shadow: 0 0 5px green; color: lime;">I-60</span>]]
@@ -117,7 +117,7 @@ __NOTOC__
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25.webp|center|150px|link=A-20]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyA-25i.webp|center|150px|link=A-20i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.webp|center|150px|link=A-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Og60i.gif|center|150px|link=A-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SEMA85.webp|center|150px|link=A-85]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-85iSEM.webp|center|150px|link=A-85i]]
 {{!}}-
@@ -128,8 +128,8 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-85i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A135i.webp|center|150px|link=A-135i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200.webp|center|150px|link=A-200]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200i.webp|center|150px|link=A-200i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200.gif|center|150px|link=A-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Walter200i.gif|center|150px|link=A-200i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-135i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[A-200]]
@@ -143,8 +143,8 @@ __NOTOC__
 {{!}}[[File:D-1SEM.webp|center|150px|link=D-20|D-1]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D-5.webp|center|150px|link=D-5]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D5i.webp|center|150px|link=D-5i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35.webp|center|150px|link=D-35]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35i.webp|center|150px|link=D-35i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35.gif|center|150px|link=D-35]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD35i.gif|center|150px|link=D-35i]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-20|D-1]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-5]]
@@ -152,11 +152,11 @@ __NOTOC__
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-35i]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.webp|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.webp|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60.gif|center|150px|link=D-60]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD60i.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD120.gif|center|150px|link=D-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SEMD-140.webp|center|150px|link=D-140]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.webp|center|150px|link=D-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:TrueLegacyD-200.gif|center|150px|link=D-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]

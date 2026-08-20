@@ -2,7 +2,7 @@
 {{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法 & 暗影天启]]}}
 {{InfoBox:Entity
 |entity_name=LAPSE-200
-|entity_image=LAPSE-200.webp
+|entity_image=LAPSE-200.gif
 |previous_entity=[[SHA-200]]<br>[[LAPSE-60]]
 |next_entity=[[SHA-300]]
 |nicknames=???

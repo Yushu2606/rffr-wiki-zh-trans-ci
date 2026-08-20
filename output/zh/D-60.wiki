@@ -5,7 +5,7 @@
 {{InfoBox:Entity
 |previous_entity=[[D-55]]<br>[[D-55i]]
 |next_entity=[[D-60i]]<br>[[D-120]]
-|entity_name=[[File:D-60Title.webp|frameless|link=D-60]]
+|entity_name=[[File:D-60Title.gif|frameless|link=D-60]]
 |entity_image=<gallery>
 D60anim.gif|游戏内动画
 D-60face1.webp|第一张脸
@@ -73,7 +73,7 @@ File:D-622.webp|旧版第二张脸
 File:D-63.webp|旧版第三张脸
 File:D-64.webp|旧版第四张脸 
 File:D-60Face5.webp|旧版第五张脸
-File:D-60Jumpscareee.webp|D-60的跳杀
+File:D-60Jumpscareee.gif|D-60的跳杀
 </gallery>
 
 

@@ -4,7 +4,7 @@
 {{ArticleBackground|File=Section_A_Tight_Hallway.webp}}
 {{Modifier Exclusive|II Hate This}}
 {{InfoBox:Entity
-|entity_name=[[File:A-60iiPlaceholder.webp|frameless|link=A-60ii]]
+|entity_name=[[File:A-60iiPlaceholder.gif|frameless|link=A-60ii]]
 |entity_image=<gallery>
 XX60.gif|动画
 XX602.webp|第1张脸
@@ -48,7 +48,7 @@ XX60jump.webp|跳杀设计
 
 ==画廊==
 <gallery>
-File:A-60iiJumpscare.webp|A-60ii 跳杀
+File:A-60iiJumpscare.gif|A-60ii 跳杀
 </gallery>
 
 [[Category:Omega Variation]]

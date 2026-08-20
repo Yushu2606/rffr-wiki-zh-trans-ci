@@ -1,7 +1,7 @@
 {{Stub}}{{ArticleBackground|File=Unnamed_.webp}}
 {{InfoBox:Entity
 |entity_name=False-120
-|entity_image=F-120.webp
+|entity_image=F-120.gif
 |previous_entity=[[False-60]]
 |next_entity=[[False-200]]
 |claustrophobia=否

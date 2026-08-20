@@ -4,8 +4,8 @@
 {{InfoBox:Entity
 |entity_name=[[File:D-140Title.webp|frameless|link=D-140]]
 |entity_image=<gallery>
-D-140AnimRecreation.webp|动画还原
-NewerD-140.webp|当前外观
+D-140AnimRecreation.gif|动画还原
+NewerD-140.gif|当前外观
 D140.webp|旧版外观
 </gallery>
 |previous_entity=[[D-120]]
@@ -44,7 +44,7 @@ D-140会在下一扇门前方生成，发出高声调的驾驶舱通告音效。
 ==画廊==
 <gallery>
 File:D140.gif|游戏内旧版D-140
-File:D-140Jumpscare.webp|D-140的跳杀
+File:D-140Jumpscare.gif|D-140的跳杀
 File:D-140.webp|灰色重型柜子里的D-140
 SEMD-140.webp|超级史诗模式外观
 </gallery>

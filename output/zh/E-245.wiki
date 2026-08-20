@@ -132,8 +132,8 @@
 
 == 画廊 ==
 <gallery>
-File:E245Opening.webp|'''E-245'''的嘴部张开设计。
-File:E245Gambling.webp|'''E-245'''的机制设计。
+File:E245Opening.gif|'''E-245'''的嘴部张开设计。
+File:E245Gambling.gif|'''E-245'''的机制设计。
 File:Orb.webp|'''E-245'''的概念设计。
 </gallery>
 

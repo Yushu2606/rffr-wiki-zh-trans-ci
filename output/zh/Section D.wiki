@@ -38,8 +38,8 @@ Derelict_(D-Section).webp|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55anim.gif|center|150px|link=D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D55i.webp|center|150px|link=D-55i]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D60anim.gif|center|150px|link=D-60]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.webp|center|150px|link=D-60i]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.webp|center|150px|link=D-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Redesign_D-60i_Animation.gif|center|150px|link=D-60i]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:D120.gif|center|150px|link=D-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-55i]]
@@ -47,7 +47,7 @@ Derelict_(D-Section).webp|废置设施游戏页面图
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[D-120]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.webp|center|150px|link=D-140]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewerD-140.gif|center|150px|link=D-140]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:BlackBox.webp|center|150px|link=D-175]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D200icon.webp|center|150px|link=D-200]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:D250.webp|center|150px|link=D-250]]

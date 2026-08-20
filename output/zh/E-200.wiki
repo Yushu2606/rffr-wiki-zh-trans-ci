@@ -3,7 +3,7 @@
 {{NoteBox|note=请勿与'''Interminable Rooms'''中的E-200或'''Rooms: Found Footage: Revisited'''中的同名E-200混淆}}
 {{InfoBox:Entity
 |entity_name=E-200
-|entity_image=File:E-200_Design.webp
+|entity_image=File:E-200_Design.gif
 |nicknames=Amaurosis（黑蒙）
 |previous_entity=[[E-165]]
 |next_entity=[[E-245]]
@@ -39,8 +39,8 @@
 
 ==画廊==
 <gallery>
-File:RenoE-200.webp|概念设计
-File:E-200_jumpscare.webp|E-200的跳杀
+File:RenoE-200.gif|概念设计
+File:E-200_jumpscare.gif|E-200的跳杀
 </gallery>{{EntityNavBoxSectionE}}
 [[Category:Entities]]
 [[Category:Section E]]

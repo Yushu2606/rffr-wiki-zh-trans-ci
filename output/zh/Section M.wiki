@@ -31,10 +31,10 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-60i]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-70]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.webp|center|150px|link=M-120]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM120.gif|center|150px|link=M-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:M134.webp|center|150px|link=M-134]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.webp|center|150px|link=M-150]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.webp|center|150px|link=M-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:M150Anim.gif|center|150px|link=M-150]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:NewM200.gif|center|150px|link=M-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br/><div class="M-120">[[M-120|<span style=></span>]]</div>
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[M-134]]

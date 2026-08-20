@@ -202,7 +202,7 @@ File:Lucy_breach.webp| "I thought I could trust you.. Good luck."（"我本以�
 File:Lucy_gun.webp|Lucy 手持 VM-244。
 File:Lucy_katana.webp|Lucy 手持一把紫黑色武士刀。
 File:New_lucy_perf.webp|Lucy 手持 The Perfectionist。
-File:Lucy_JumpscareConcept.webp|"...I'm sorry it had to come to this."（"……我很抱歉事情必须走到这一步。"）
+File:Lucy_JumpscareConcept.gif|"...I'm sorry it had to come to this."（"……我很抱歉事情必须走到这一步。"）
 </gallery>
 <font color="E6E6E6"/font>
 

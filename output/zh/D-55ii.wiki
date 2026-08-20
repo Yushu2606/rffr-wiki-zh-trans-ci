@@ -54,7 +54,7 @@ File:JokeD-55.webp|旧设计
 
 == 画廊 ==
 <gallery>
-JokeD-55Scare.webp|旧版跳杀
+JokeD-55Scare.gif|旧版跳杀
 </gallery>
 
 {{EntityNavBoxAdmin}}

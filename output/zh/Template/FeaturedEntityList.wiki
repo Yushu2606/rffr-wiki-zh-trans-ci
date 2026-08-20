@@ -98,7 +98,7 @@
 {{Spacer}}
 <big><center>'''今日精选实体是……'''</center></big>
 <big><center>[[A-200]]</center></big>
-<center>[[File:Airyyy_renovated_air.webp|150px|link=A-200]]</center>
+<center>[[File:Airyyy_renovated_air.gif|150px|link=A-200]]</center>
 {{Spacer}}
 '''A-200'''是[[Section A|A区]]中必然会遇到的最后一个实体。A-200会撞击下一扇门数次，之后提速破门。随后它会冲进[[Void|虚空]]并发出嚎叫声。如果玩家离开柜子，或是并非所有玩家都躲在柜子中，它就会[[:Category:Backtracker|回溯]]。
 {{Spacer}}
@@ -110,7 +110,7 @@
 {{Spacer}}
 <big><center>'''今日精选实体是……'''</center></big>
 <big><center>[[A-200i]]</center></big>
-<center>[[File:BlueAir_Renovated.webp|150px|link=A-200i]]</center>
+<center>[[File:BlueAir_Renovated.gif|150px|link=A-200i]]</center>
 {{Spacer}}
 这是[[A-200]]出现后生成的稀有实体。要判断它是否生成，只需留意[[A-200]]消失后是否会出现静电效果。只要你/你的队伍一直待在柜子里就不会有事，不过它会反弹。请多加小心，因为它的出现往往很突然。
 {{Spacer}}
@@ -163,7 +163,7 @@
 {{Spacer}}
 <big><center>'''今日推荐实体是……'''</center></big>
 <big><center>[[D-35]]</center></big>
-<center>[[File:NewD-35.webp|150px|link=D-35]]</center>
+<center>[[File:NewD-35.gif|150px|link=D-35]]</center>
 {{Spacer}}
 '''D-35''' 生成于[[Section D|D区]]，如果玩家熟悉它的机制就很容易应对。它生成时屏幕会震动，同时会播放音效，还能听到尖叫声。玩家需要在它破门之前迅速躲进柜子里。极少数情况下，[[D-35i]] 会在它之后生成。
 {{Spacer}}
@@ -180,7 +180,7 @@
 {{Spacer}}
 <big><center>'''今日推荐实体是……'''</center></big>
 <big><center>[[D-55]]</center></big>
-<center>[[File:D-55Face.webp|150px|link=D-55]]</center>
+<center>[[File:D-55Face.gif|150px|link=D-55]]</center>
 {{Spacer}}
 '''D-55''' 是[[Section D|D区]]的实体，机制与[[A-135]]十分相似。玩家在D区穿过55号门后前进时，可能会听到类似马达的声音。此时玩家需要迅速躲进蓝色柜子中，因为该实体会检查所有灰色柜子。这个实体没有[[:Category:I Variation|I型变体]]，所以你只需要优先应对它即可，但也别忘了留意[[D-140]]，这种情况下你需要规划好应对策略。
 {{Spacer}}
@@ -241,7 +241,7 @@
 {{Spacer}}
 <big><center>'''今日精选实体是……'''</center></big>
 <big><center>[[D-200]]</center></big>
-<center>[[File:NewerD-200.webp|150px|link=D-200]]</center>
+<center>[[File:NewerD-200.gif|150px|link=D-200]]</center>
 {{Spacer}}
 '''D-200''' 是一个极具威慑力的实体，但应对起来十分简单。当周围环境变为黑白色调，同时响起管风琴音效时，就代表它即将出现。随后 '''D-200''' 会穿过房间。只要游戏内所有玩家都处于躲藏状态，它就不会反弹，数秒后便会消失。请记住该实体的音量非常大，哪怕你将游戏音量调得很低也依旧刺耳！
 {{Spacer}}
@@ -294,7 +294,7 @@
 {{Spacer}}
 <big><center>'''今日推荐实体是……'''</center></big>
 <big><center>[[M-120]]</center></big>
-<center>[[File:M-120_Design.webp|150px|link=M-120]]</center>
+<center>[[File:M-120_Design.gif|150px|link=M-120]]</center>
 {{Spacer}}
 '''M-120'''是机制极其复杂的实体，会模仿来自[[Section A|A区]]和[[Section D|D区]]的其他实体。在发起模仿前，它会从下一扇门汲取能量，发出[[D-120]]标志性的敲鼓声，随后冲向走廊。片刻后你会听到噼啪声，意味着模仿者即将出现。请务必小心！
 {{Spacer}}
@@ -330,7 +330,7 @@
 {{Spacer}}
 <big><center>'''今日推荐实体是……'''</center></big>
 <big><center>[[M-200]]</center></big>
-<center>[[File:NewerM-200.webp|150px|link=M-200]]</center>
+<center>[[File:NewerM-200.gif|150px|link=M-200]]</center>
 {{Spacer}}
 '''M-200''' 是 '''Rooms: Found Footage: RENOVATED''' 的最后一个可遇到的实体。它会在下一扇门处生成，并“锁定”所有蓝色各种柜子，随后快速冲来并将其摧毁。它是玩家会遇到的行动极为迅捷的实体。
 {{Spacer}}

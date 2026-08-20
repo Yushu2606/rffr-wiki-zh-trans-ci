@@ -7,7 +7,7 @@
 |entity_name=[[File:E-10PlaceHolder.webp|frameless|link=E-10]]
 |entity_image=<gallery>
 Placeholder.webp|Upcoming 设计
-E-10Anim.webp|动画重制
+E-10Anim.gif|动画重制
 E-10.webp|设计稿
 OldE10Anim.gif|测试版动画重制
 OldE-10.webp|测试版设计稿
@@ -65,10 +65,10 @@ File:E-10SafeSpot.webp|从安全点几乎看不到 '''E-10'''。
 
 ===GIFs===
 <gallery>
-File:E-10NewScare.webp|'''E-10''' 的跳杀。
-File:E10jump.webp|'''E-10''' 的入侵事件跳杀。
-File:OldE-10Jum.webp|'''E-10''' 的预发布版本跳杀。
-File:ByeE10.webp|在[[Section D|D区]]的[[Section Executive Invasion Event|区高管入侵事件]]期间，'''E-10''' 从玩家身边经过。
+File:E-10NewScare.gif|'''E-10''' 的跳杀。
+File:E10jump.gif|'''E-10''' 的入侵事件跳杀。
+File:OldE-10Jum.gif|'''E-10''' 的预发布版本跳杀。
+File:ByeE10.gif|在[[Section D|D区]]的[[Section Executive Invasion Event|区高管入侵事件]]期间，'''E-10''' 从玩家身边经过。
 </gallery>
 
 ===Miscellaneous===
