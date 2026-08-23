@@ -123,7 +123,7 @@ File:85-AScare.gif|'''85-A''' jumpscare.
 NewM120A135.png|Current Design
 135-A.png|Old Design
 </gallery>
-|nicknames=A<br>A-175
+|nicknames=135-A<br>A-175
 |type=Fallback<br>Locker Checker
 |locker_snipe=No
 |claustrophobia=Yes
@@ -187,6 +187,7 @@ NewM120D20.png|Current Design
 |behavior=damages the player within a range
 |speed=Stationary
 |damage=??? DPS
+|gun_effect=Will drain a portion of its health making him last less, shooting him enough times will make it despawn.
 |related_monsters=[[D-20]]
 |sound1=<center>Spawning</center><center>[[File:20Dspawning.mp3]]</center>
 |sound2=<center>Spawn</center><center>[[File:20Dspawn.mp3]]</center>
@@ -194,7 +195,7 @@ NewM120D20.png|Current Design
 |sound4=<center>Despawn</center><center>[[File:20Ddespawn.mp3]]</center>}}
 
 <h2> Behavior </h2>
-Upon spawning, '''M-120's''' [[D-20]] mimic, or '''20-D''', will pivot itself similarly to M-120 itself, where it will emit the same particles as it alongside a light, where it will then reveal itself after a few seconds. After this, '''20-D''' will remain idle in the room, dealing rapid damage to anyone walking nearby. Overtime, '''20-D''' will decay in its face brightness and light brightness, alongside its damage. Eventually, '''20-D''' will completely disappear, leading to its despawn. Unlike [[D-20]], however, it cannot be killed by any weapon, as bullets will just phase through it (this will be changed)
+Upon spawning, '''M-120's''' [[D-20]] mimic, or '''20-D''', will pivot itself similarly to M-120 itself, where it will emit the same particles as it alongside a light, where it will then reveal itself after a few seconds. After this, '''20-D''' will remain idle in the room, dealing rapid damage to anyone walking nearby. Overtime, '''20-D''' will decay in its face brightness and light brightness, alongside its damage. Eventually, '''20-D''' will completely disappear, leading to its despawn.
 
 |-|D-35=
 {{InfoBox:Entity

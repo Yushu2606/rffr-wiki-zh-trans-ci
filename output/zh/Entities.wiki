@@ -1,3 +1,4 @@
+{{DISPLAYTITLE:<span style="animation: entities 5s infinite;">实体</span>}}
 <font size= 4>以下是《Rooms: Found Footage RENOVATED》中所有'''实体'''的列表。玩家可自然遭遇的'''实体'''仅有86个，若计入Admin、Removed、Scrapped、修饰符与Upcoming'''实体'''则总数为150个。另有[[Red Rooms|红区]]，其中'''实体'''的出现频率更高。绝大多数'''实体'''都位于[[Sections|各分区]]内。游戏内现有5个[[Sections|分区]]：[[Section A|A区]]、[[Section D|D区]]、[[Section M|M区]]、[[Unnamed Sector|无名区域]]与[[Section E|E区]]，[[Section R|R区]]则有可能在未来推出。</font> 
 
 <tabber>
@@ -145,7 +146,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.webp|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120_Design.webp|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.webp|center|150px|link=E-165]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.gif|center|150px|link=E-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200 Design.gif|center|150px|link=E-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
@@ -158,8 +159,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-245]]
 {{!}}
 
-|-|其他实体=
-'''其他实体：'''
+|-|杂项实体=
+'''杂项实体：'''
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Claustrophobia.webp|center|150px|link=Claustrophobia]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Jimmy.webp|center|150px|link=Jimmy]]
@@ -220,13 +221,13 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-140]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-180]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-200]]
-{{!}}}
+{{!}}
 
 |-|修饰符专属实体=
 '''修饰符专属实体：'''
 {{#tag:tabber
-|阿尔法 & Shadowpocalypse（暗影天启）=
-<center>'''阿尔法 & Shadowpocalypse（暗影天启）：'''</center><br>
+|阿尔法 & Shadowpocalypse（暗影末日）=
+<center>'''阿尔法与暗影天启：'''</center><br>
 <center>'''暗影实体：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:SHA7CLOSED.gif|center|150px|link=SHA-7]]
@@ -255,8 +256,8 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-200]]
 {{!}}-{{!}}
-II Hate This（我讨厌这个）=
-<center>'''II Hate This（我讨厌这个）：'''</center>
+II Hate This（我恨这个II）=
+<center>'''II Hate This（我恨这个II）：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:NewA20ii.webp|center|150px|link=A-20ii]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:XX60.gif|center|150px|link=A-60ii]]
@@ -281,8 +282,8 @@ Clocks Ticking（时钟滴答）=
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[X-000]]
 {{!}}-{{!}}
-Super Epic Mode（超史诗模式）=
-<center>'''Super Epic Mode（超史诗模式）：'''</center><br>
+Super Epic Mode（超级史诗模式）=
+<center>'''Super Epic Mode（超级史诗模式）：'''</center><br>
 <center>'''A区：'''</center>
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:A-20ii.webp|center|150px|link=A-20ii]]
@@ -373,7 +374,7 @@ Super Epic Mode（超史诗模式）=
 {{{!}} style="width:80; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:EvilCard.webp|center|150px|link=Fake Strange Keycard]]
 {{!}}-
-{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard|Fake Strange Keycard（伪造奇异钥匙卡）]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[Fake Strange Keycard|Fake Strange Keycard（假奇异钥匙卡）]]
 }}
 
 |-|Upcoming 实体=
@@ -393,9 +394,11 @@ Super Epic Mode（超史诗模式）=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[R-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=SHA-250]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=LAPSE-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-250]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-120]]
 {{!}}
 |-|Removed/废弃实体=

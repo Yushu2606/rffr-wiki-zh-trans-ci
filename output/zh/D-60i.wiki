@@ -1,5 +1,5 @@
 {{ArticleBackground|File=Section_Derelict_Garden_-w_Filing_Cabinets.webp}}
-{{NoteBox|note=请勿与'''Rooms Re-Established'''中的L-60i混淆，二者与'''D-60i'''的机制相似}}
+{{NoteBox|note=请勿与'''Rooms Re-Established'''中的L-60i混淆，它与'''D-60i'''机制相似}}
 {{Headphones}}
 {{DISPLAYTITLE:<span style="text-shadow: 0 0 5px #FCC300; color: #FCC300;">D-60i（入侵者）</span>}}
 {{InfoBox:Entity
@@ -36,15 +36,15 @@ D60iface12Phase2.webp|第二阶段第12张脸
 D60iface13Phase2.webp|第二阶段第13张脸
 </gallery>
 |caption-entity_image=嗨，我叫D-60i！很高兴认识你！现在就让我入侵你的逃生吧！
-|appears_at=D-220之后的任意位置
-D-750（若玩家从D-0出发则强制生成）
+|appears_at=D-220
+D-750（从D-0出发）
 |nicknames=入侵者
 |behavior=后退者<br>反弹者<br>首领
 |damage=秒杀
-|locker_snipe=是
+|locker_snipe=否（第一阶段）<br>否（第二阶段a）<br>是（第二阶段b）
 |gun_effect=无
 |speed=第一阶段：静止到极快（0至13.32 房间/秒）（0至799 Studs/秒）
-第二阶段：极快（13.32 房间/秒）（799 Studs/秒）
+第二阶段：光速（24 房间/秒）（1,440 Studs/秒）
 |claustrophobia=否
 |related_monsters=[[A-60]]<br>[[A-60i]]<br>[[D-60]]<br>[[M-60]]<br>[[A-85i]]<br>[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60 IR]
 |badges=[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion 躲避入侵]<br>[https://www.roblox.com/badges/2151145672/You-re-Not-Supposed-To-Be-Here 你不该来这里] '''已绝版'''
@@ -61,77 +61,77 @@ D-750（若玩家从D-0出发则强制生成）
 |sound11=<center>D-60i 第二阶段远处环境音</center><center>[[File:D-60iFarPh2Ambience.mp3]]</center>
 |sound12=<center>D-60i 第二阶段远处环境音2</center><center>[[File:D-60ifar2.mp3]]</center>
 |sound13=<center>D-60i 第二阶段近处环境音</center><center>[[File:D-60iPh2Close.mp3]]</center>
-|sound14=<center>第二阶段面部碰撞</center><center>[[File:D-60iCollide.mp3]]</center>
-|sound15=<center>Trepidation V2 原声带</center><center>[[File: TrepidationV2.mp3]]</center>
-|sound16=<center>Trepidation 原声带（旧版配乐）</center><center>[[File:TREPIDATION.mp3]]</center>}}
+|sound14=<center>第二阶段脸部碰撞</center><center>[[File:D-60iCollide.mp3]]</center>
+|sound15=<center>"Trepidation" V2 原声带</center><center>[[File: TrepidationV2.mp3]]</center>
+|sound16=<center>旧版 "Trepidation" 原声带</center><center>[[File:TREPIDATION.mp3]]</center>}}
 
 == 描述 ==
-'''D-60i''' 是一个由 2 张不断变换外观的不同面孔组成的[[Entities|实体]]，它在首次生成时还会呈现数字"3"、"2"和"1"的形态。
+'''D-60i''' 是一个由 2 张不同面孔组成的[[Entities|实体]]，这些面孔会不断变化外观；它在首次生成时还会呈现数字"3"、"2"和"1"的形态。
 
 == 行为 ==
-当 '''D-60i''' 生成时，房间中央会出现一个从 3 开始的巨大倒计时。
+当'''D-60i'''生成时，房间中央会出现一个从 3 开始的大型倒计时。
 
-倒计时结束后，'''D-60i''' 会蓄力，准备发起攻击。
+倒计时结束后，'''D-60i'''会蓄力，准备发动攻击。
 
-蓄力 6 秒后，'''D-60i''' 将变得致命，并移动到最新的房间。
+蓄力 6 秒后，'''D-60i'''将变得致命，并移动到最新的房间。
 
-'''D-60i''' 完成向最新房间的移动后，便会开始其折返循环。
+一旦'''D-60i'''完成向最新房间的移动，它的反弹循环就会开始。
 
-在"后撤"阶段，'''D-60i''' 每经过一个房间速度都会略微提升，上限为 800 Studs/秒。
+'''D-60i'''在其"后撤"阶段，每经过一个房间速度都会略微加快，上限为 800 studs/秒。
 
-'''D-60i''' 会继续向后移动，直到到达主房间后方 50 个房间处，此时它会发出巨大的砰击声冲向主房间，接近时伴有强烈的静电噪音。'''D-60i''' 一旦碰到门，就会将门砸碎（无论是废弃实验室的门还是洞穴的门）。
+'''D-60i'''会继续向后移动，直到到达主房间后方 50 个房间处，此时它会发出巨大的砰击声，冲向主房间，接近时产生强烈的静电噪音。一旦'''D-60i'''碰到门，它会将门砸碎（无论是废弃实验室门还是洞穴门）。
 
-之后 '''D-60i''' 会在 0.5 到 1.5 秒的短暂延迟后重复此过程，除非它处于[[Red Rooms|红区]]，在那里它完全不会停顿。
+'''D-60i'''会在 0.5 到 1.5 秒的短暂延迟后重复此过程，除非它处于[[Red Rooms|红区]]，在那里它完全不会停顿。
 
-那么，'''D-60i''' 的难点在哪里？在于它的'''第二阶段。'''
+那么，是什么让'''D-60i'''如此棘手呢？是它的'''第二阶段'''。
 
-自看到倒计时起经过 60 个房间后，'''D-60i''' 的原声带（Trepidation）将开始播放。此时，它每砸碎一扇门，都有七分之一的概率进入第二阶段。
+在看到倒计时后经过 60 个房间后，'''D-60i'''的原声带（Trepidation）将开始播放。此时，它每次砸碎门时，都有 1/7 的概率进入第二阶段。
 
 
-当 '''D-60i''' 进入第二阶段时，它会移动到房间中央，然后进行过度蓄力。过度蓄力期间它仍然具有杀伤力，所以不要离开你的藏身之处。当它移动到房间中央时，音乐会逐渐淡出。
+当'''D-60i'''进入第二阶段时，它会移动到房间中央，然后过度蓄力。在过度蓄力期间它仍然是致命的，所以不要离开你的藏身之处。当它移动到房间中央时，音乐会淡出。
 
-6 秒过后，'''D-60i''' 会非常迅速地消失，随后不久会播放 [[D-60]] 旧版消失音效的编辑版本。
+6 秒后，'''D-60i'''会非常迅速地消失，随后不久会播放[[D-60]]旧版消失音效的编辑版本。
 
-'''D-60i''' 消失期间，它会推迟第二阶段的开始，直到满足以下任一条件：
+在'''D-60i'''消失期间，它会延迟第二阶段的开始，直到满足以下任一条件：
 
-# 已过 15 秒
-# 门被一名玩家或一个实体打开。
+# 经过 15 秒
+# 门被玩家或实体打开。
 
-满足任一条件后，'''D-60i''' 会砸碎主房间的门，并在下一个房间的中央播放 [[D-140]] 的生成音效。'''D-60i''' 会在那里等待约 5 秒，然后发出巨大的爆炸声并以光速（800 Studs/秒）向后移动，在此过程中砸碎下一个房间里的所有柜子/橱柜。
+满足任一条件后，'''D-60i'''会砸碎主房间的门，并在下一个房间中央播放[[D-140]]的生成音效。'''D-60i'''会在那里等待约 5 秒，然后发出巨大的爆炸声并以光速（800 studs/秒）向后移动，在此过程中砸碎下一个房间里的每一个柜子/橱柜。
 
-Trepidation 的第二部分随即播放；
+Trepidation 的第二部分现在将播放；
 
-从那时起，'''D-60i''' 每次砸碎门时，都会在它闯入的房间里砸碎完全随机的柜子。
+从那时起，'''D-60i'''每次砸碎门时，都会在它闯入的房间里砸碎完全随机的柜子。
 
-'''D-60i''' 存在满 30 个房间后，将有十五分之一的概率消失。
+在'''D-60i'''存在 30 个房间后，它有 1/15 的概率消失。
 
-'''D-60i''' 消失时，会不断发出巨大的爆炸声，然后发出一声更长的爆炸，伴随许多大型粒子效果从中迸发。
+当'''D-60i'''消失时，它会不断发出巨大的爆炸声，然后发出一次更长的爆炸，伴随许多大型粒子效果从中喷出。
 
-'''D-60i''' 已经消失，你将获得[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion|Invasion Invasion Evasion 徽章]。
+'''D-60i'''已经消失，你将获得[https://www.roblox.com/badges/3050908394432290/Invasion-Evasion|Invasion Invasion Evasion 徽章]。
 
 == 策略与提示 ==
 
-* 将 [[D-5]] 和 [[D-55]] 等实体用作[[Claustrophobia|幽闭恐惧]]的克制手段，因为它们在困难的实体组合中非常有帮助。
-* 由于'''D-60i'''可以生成实体，离开藏身之处后你应该小心[[D-5]]的突袭，一个好的检查方法是在藏身之处等待，直到你看到[[Claustrophobia|幽闭恐惧]]的消息，或者大约过了10秒。
+* 使用像[[D-5]]和[[D-55]]这样的实体作为[[Claustrophobia|幽闭恐惧]]的反制手段，因为它们在困难的实体组合中可能非常有帮助。
+* 由于'''D-60i'''会生成实体，离开藏身点后你需要提防[[D-5]]的突袭，一个可行的检查方法是待在藏身点内，直到你看到[[Claustrophobia|幽闭恐惧]]的消息，或是约10秒过去。
 
 * [https://youtu.be/It4dFf4mmTQ?si=tRC6jRYLOlszR4BS 视频演示]
 
-== 趣闻 ==
+== 冷知识 ==
 
-* <s>'''D-60i'''无法在柜子中命中你，利用这一点来避免不必要的[[Claustrophobia|幽闭恐惧]]伤害！</s>
-* ↑ 这已不再正确，因为'''D-60i'''在第二阶段b可以在柜子中命中你。造成你生命值约10%的伤害。
-* '''D-60i'''在你的逃生中只能生成一次。
-* '''D-60i'''在砸门时可以生成实体。
-* '''D-60i'''是游戏中第三耗时的实体/挑战（第二是[[D-60ii]]，第一是[[Shadow Challenge|暗影挑战]]（不包括[[Alpha & Shadowpocalypse|A&SP]]））
-* '''D-60i'''的第二阶段与Interminable Rooms Recoded中的[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60]有几分相似之处
-* 只要[[D-60]]当前未激活，'''D-60i'''在D-220之后的每扇门都有千分之一的概率生成。
-* 如果玩家从D-0门开始，'''D-60i'''必定在D-750门生成，但'''D-60i'''不会消失，直到到达[[Red Rooms|红区]]的某个位置。（如果他到达[[Red Rooms|红区]]但未进入第二阶段（b），他不会消失，直到他真正进入第二阶段（b）。
-* 旧版Trepidation OST（旧版Boss战主题曲）
+* <s>'''D-60i'''无法进行柜子命中，你可以利用这一点规避不必要的[[Claustrophobia|幽闭恐惧]]伤害！</s>
+* ↑ 这一说法已不再成立，因为'''D-60i'''在2b阶段可对你造成柜子命中，造成约10%的生命值伤害。
+* '''D-60i'''在单局逃生中仅会生成一次。
+* '''D-60i'''在砸门时会生成实体。
+* '''D-60i'''是游戏中耗时第三长的实体/挑战（第二为[[D-60ii]]，第一为[[Shadow Challenge|暗影挑战]]（不含[[Alpha & Shadowpocalypse|A&SP]]）
+* '''D-60i'''的第二阶段与[https://r-interminable-rooms.fandom.com/wiki/A-60/X-60 X-60]有几分相似，后者来自Interminable Rooms Recoded。
+* 只要[[D-60]]当前未处于激活状态，经过D-220后的每一扇门都有1/1000概率生成'''D-60i'''。
+* 若玩家从D-0门开始游戏，'''D-60i'''会在D-750门强制生成，但'''D-60i'''在抵达[[Red Rooms|红区]]的某个位置前不会消失。（若他抵达[[Red Rooms|红区]]时未处于2(b)阶段，则需等到真正进入2(b)阶段才会消失。
+* 旧版Trepidation原声带（旧版Boss战主题曲）
 ** https://youtu.be/xhUaF0Ya1tE?si=zf6Rf-AJh2xwbd_s
-* '''D-60i'''<nowiki/>的（旧版）第一阶段音乐是其（旧版）OST从0:00到1:24的循环（不过首次播放后，它会循环回到0:12处）。
-* '''D-60i'''<nowiki/>的（旧版）第二阶段（a）音乐是其（旧版）OST从1:28到2:48的循环（不过首次播放后，它会循环回到1:48处）。
-* '''D-60i'''<nowiki/>的（旧版）第二阶段（b）（在他每次反弹有十五分之一概率消失的机制开始时播放）音乐是其（旧版）OST从2:36到3:24的循环（不过首次播放后，它会循环回到3:00处）。
-* 当'''D-60i'''即将消失时，会出现一条字幕，文本为"<span style="color: orange;>kaput</span>（完蛋了）"，持续一瞬间。
+* '''D-60i'''<nowiki/>的（旧版）1阶段音乐是其（旧版）原声带0:00至1:24段落的循环（不过首次播放结束后，会循环回到0:12处）。
+* '''D-60i'''<nowiki/>的（旧版）2(a)阶段音乐是其（旧版）原声带1:28至2:48段落的循环（不过首次播放结束后，会循环回到1:48处）。
+* '''D-60i'''<nowiki/>的（旧版）2(b)阶段音乐（在他每次反弹有1/15概率消失时播放）是其（旧版）原声带2:36至3:24段落的循环（不过首次播放结束后，会循环回到3:00处）。
+* '''D-60i'''即将消失时，会出现一条字幕，文本为"<span style="color: orange;>kaput</span>（终结）"，仅持续一瞬。
 
 
 ==画廊==
@@ -143,31 +143,31 @@ OldD-60i1.webp|旧版倒计时1
 OldD-60i2.webp|旧版倒计时2
 OldD-60i3.webp|旧版倒计时3
 D-60iPhase2Jumpscare.gif|跳杀
-Newest_D-60i_AnimV2.gif|旧版第一阶段动画重现
-D60i_png.webp|旧版第一张脸
-D-62i.webp|旧版第二张脸
-D-63i.webp|旧版第三张脸
-D-64i.webp|旧版第四张脸
-D-65i.webp|旧版第五张脸
-D-66i.webp|旧版第六张脸
-D-67i.webp|旧版第七张脸
-BroisnotA-135.webp|旧版第八张脸
-Invasion_Evasion_(Badge).webp|旧版入侵规避徽章图标
+Newest_D-60i_AnimV2.gif|旧版1阶段动画复刻
+D60i_png.webp|旧版第一面相
+D-62i.webp|旧版第二面相
+D-63i.webp|旧版第三面相
+D-64i.webp|旧版第四面相
+D-65i.webp|旧版第五面相
+D-66i.webp|旧版第六面相
+D-67i.webp|旧版第七面相
+BroisnotA-135.webp|旧版第八面相
+Invasion_Evasion_(Badge).webp|旧版Invasion Evasion（入侵规避）徽章图标
 File:D-60iJumpscare.gif|D-60i的旧版跳杀
 </gallery>
 
 ==徽章==
 {{BadgeSectionD
 |Image=Invasion_EvasionNew.webp
-|Name=入侵规避
-|Description=想知道那是怎么回事。<br><br>遭遇并在"入侵者"手中存活。
-|Obtainment=遭遇并在'''D-60i'''手中存活。}}
+|Name=Invasion Evasion（入侵规避）
+|Description=想知道那到底是怎么回事。<br><br>遭遇并从“入侵者”手中存活。
+|Obtainment=遭遇并从'''D-60i'''手中存活。}}
 
 {{BadgeSectionD
 |Image=Dsecinvasion.webp
 |Name=你不该出现在这里
-|Description=[无法获取] 遭遇并在一个稀有的入侵实体手中存活。徽章可在"入侵"活动期间获取。
-|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动中，遭遇并在[[D-5#Invasion|D-5]]、[[D-35]]或'''D-60'''手中存活。}}
+|Description=[无法获取] 遭遇并从罕见的入侵实体手中存活。该徽章可在“入侵”活动期间获取。
+|Obtainment='''[无法获取]'''<br>在原版<br>'''Rooms: Found Footage'''的D区入侵活动期间，遭遇并从[[D-5#Invasion|D-5]]、[[D-35]]或'''D-60'''手中存活。}}
 
 
 {{EntityNavBoxSectionD}}

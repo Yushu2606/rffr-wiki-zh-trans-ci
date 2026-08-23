@@ -13,12 +13,12 @@ BetterSha-140Remake.png|Old Recreated Design
 |behavior=Same as [[D-140]] but it can come from the back or the front.
 |gun_effect=No Shadow can be shot
 |speed=Fast
-|damage=Instant Death<br>??? Damage (Locker Snipe)
+|damage=Instant Death<br>85 Damage (Locker Snipe)
 |locker_snipe=Yes
-|related_monsters=[[D-140]]<br>[[A-135]]
+|related_monsters=[[D-140]]<br>[[A-135i]]
 |sound1=<center>Spawn</center><center>[[File:SHA-140Spawn.mp3]]</center>
 |sound2=<center>Fallback</center><center>[[File:SHA-140Rush.mp3]]</center>
-|sound3=<center>Ambience</center><center>[[File:SHA-140Ambience.mp3]]</center>
+|sound3=<center>Ambience</center><center>[[File:SHA-140Ambience.wav]]</center>
 |sound4=<center>Despawn</center><center>[[File:SHA-140Despawn.mp3]]</center>}}
 
 <tabber>
@@ -32,9 +32,9 @@ BetterSha-140Remake.png|Old Recreated Design
 
 * Now that it has fallen back, it will start its rebounding cycle, having a chance to rush back to the main room, or come from the front.
 
-** If it chooses to rush back to the main room, you will start hearing its ambiance again, a few seconds later it will smash into the door and break blue lockers while falling back.
+** If it chooses to rush back to the main room, you will start hearing its ambiance again, a few seconds later it will smash into the door and break all blue lockers in rooms containing players (similar to [[A-135i]]). When all the blue lockers have been destroyed, '''SHA-140''' will dash back to the void wall, where it will have a change of either continung rebounding or teleporting to behind the door.
 
-** If it chooses to come from the front, it will place itself behind the door and play a fake despawn sound, breaking the door after around 3 seconds and break blue lockers while falling back.
+** If it chooses to come from the front, it will place itself behind the door and play a fake despawn sound, breaking the door after around 3 seconds, and after it starts moving, will destroy all the lockers in the main room and fallback directly to the void wall, not destroying any lockers other than the ones in the main room.
 
 * It will repeat this a few times, on its last rebound, it will place itself behind the door, playing its fake despawn sound once more before breaking it down and staying idle for a few seconds, then falling back and breaking all the lockers in the main room, like when it first spawned
 

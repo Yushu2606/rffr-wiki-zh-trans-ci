@@ -1,3 +1,4 @@
+{{DISPLAYTITLE:<span style="animation: entities 5s infinite;">Entities</span>}}
 <font size= 4>A list of every '''entity''' within in Rooms: Found Footage RENOVATED. They are only 86 '''entities''' that the player can meet naturally, 150 if you count Admin, Removed, Scrapped , Modifier and Upcoming '''Entities'''. There are also the [[Red Rooms]] where '''entities''' get more common. Most '''entities''' are in [[Sections]]. There are 5 in game [[Sections]] being [[Section A]], [[Section D]], [[Section M]], the [[Unnamed Sector]], and [[Section E]], with [[Section R]] potentially coming later in the future.</font> 
 
 <tabber>
@@ -393,9 +394,11 @@ April Fools 2026 Mode=
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[R-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=SHA-250]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|link=LAPSE-120]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-70]]
+{{!}} style="padding 5px;" align="center" {{!}}<br>[[SHA-250]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[LAPSE-120]]
 {{!}}
 |-|Removed/Scrapped Entities=

@@ -45,7 +45,7 @@ R60poisencabinet.jpg|A brown cabinet filled with poison.
 |Image=CongratsYouGotGoodRNG.png
 |Name=Congrats, You Got Good RNG
 |Description=Meet #-##.<br><br>This does nothing lol.
-|Obtainment=Encounter and survive '''"Unknown Entity"'''.}}
+|Obtainment=Encounter and survive '''"#-##"'''.}}
 
 
 {{EntityNavBox}}

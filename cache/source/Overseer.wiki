@@ -98,7 +98,7 @@ They will talk about how Perfect their creations are if you die to any entity th
 
 <h2> [[A-200]] </h2>
 *<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''I've never exactly understood this one...'''</span>
-*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered A-200, known as "Insadæ", for some reason. I've stopped caring about names at this point.'''</span>
+*<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''You encountered A-200, known as "Insidæ", for some reason. I've stopped caring about names at this point.'''</span>
 *<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''This one is *too* imperfect, far from correct for my standards.'''</span>
 *<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''These entities made from natural elements just don't exactly work for me.'''</span>
 *<span style="text shadow: 0 0 5px #8700FF; color: #8700FF;">'''After all, breathing in oxygen shouldn't be deadly.'''</span>

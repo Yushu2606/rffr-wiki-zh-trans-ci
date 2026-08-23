@@ -45,7 +45,7 @@ R60poisencabinet.webp|一个灌满毒药的棕色柜子。
 |Image=CongratsYouGotGoodRNG.webp
 |Name=恭喜，你运气真好
 |Description=遇见#-##。<br><br>这什么用都没有，哈哈。
-|Obtainment=遭遇'''"未知实体"'''并从中幸存}}
+|Obtainment=遭遇并幸存于'''"#-##"'''。}}
 
 
 {{EntityNavBox}}

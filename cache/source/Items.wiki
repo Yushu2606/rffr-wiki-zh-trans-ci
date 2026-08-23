@@ -1,4 +1,4 @@
-{{Out of Date}}
+{{Stub}}
 == Description ==
 '''Items''' are items that can enhance your gameplay. There are 5 types of items: <span style="color:#4767B7">Utilities</span>, <span style= "color:green">Healing</span>, <span style= "color:red">Weapons</span>, <span style= "color:Yellow">Artifacts</span> and <span style= "color:Orange">Salvage</span>. Note that some item of their category have less chance to spawn.
 
@@ -16,15 +16,13 @@ File:Battery.png|A Battery
 
 ==Medical==
 ===Adrenaline Shot===
-'''''"Grants 30 seconds of infinite stamina upon usage."'''''
-
+'''''"Grants 30 seconds of infinite stamina upon usage."'''''<br><br>
 Or Adrenaline, this can be found as a brown box with a cross symbol on it. As its name suggests, it can be used to sprint or dodge non-stop for 30 seconds.<gallery>
 File:Adrenaline Shot.png|An Adrenaline Shot
 </gallery>
 
 ===Adrenal Steroid===
-'''''"An ilegal modification of the Vita-Shot formula. The first two uses grants a permanent +100% in stamina capacity. All later uses grant infinite stamina for an extended period instead. However...it comes at a cost."'''''
-
+'''''"An ilegal modification of the Vita-Shot formula. The first two uses grants a permanent +100% in stamina capacity. All later uses grant infinite stamina for an extended period instead. However...it comes at a cost."'''''<br><br>
 Or just AD-STR this can be found as a cyan box with a cross symbol on it. It can only be found in the D section and M section. Deducts 30% HP per use. First two uses grant +100% MAX stamina permanently. All later uses will grant you with infinite stamina for a longer period of time than the adrenaline.
 <gallery>
 File:Adrenal Steroid.png|Adrenal Steroid
@@ -38,17 +36,26 @@ File:Bloxiade.png|Bloxiade
 </gallery>
 
 ===Bloxy Cola===
-'''''"Grants +60% more stamina for 15 seconds upon usage. Stamina also regenerates 40% faster."'''''
-
-A basic drink, being a replica of the classic Bloxy Cola. Grants a couple small stamina buffs.<gallery>
+'''''"Grants +60% more stamina for 15 seconds upon usage. Stamina also regenerates 40% faster."'''''<br><br>A basic drink, being a replica of the classic Bloxy Cola. Grants a couple small stamina buffs.<gallery>
 File:Bloxy Cola.png|Bloxy Cola
 </gallery>
 
 ===Miri's Bloxy-Orange Soda===
-'''''"Has a passive-aggressive tangerine aftertaste. Grants a temporary boost in speed and jump height for 15 seconds. The effects can stack."'''''
-
+'''''"Has a passive-aggressive tangerine aftertaste. Grants a temporary boost in speed and jump height for 15 seconds. The effects can stack."'''''<br><br>
 An orange soda, capable of giving faster speeds a and jump height for 15 seconds. The effects can stack on eachother.<gallery>
 File:Orange Soda.png|Orange Soda
+</gallery>
+
+===Coffee===
+'''''"Sharply increases base movement speed and grants temporary infinite stamina for a short time. Very hot however, deals minimal damage upon usage."'''''<br><br>
+<gallery>
+File:Coffee.jpg|Coffee
+</gallery>
+
+===Witches Brew===
+'''''"Branded as "Witches' Brew" soda, but for some reason, it is an ever‑changing tide of inconsistent flavors. Nobody knows where this soda comes from, or what it does. Applies a random effect."'''''<br><br>
+<gallery>
+File:brew.webp|Witches brew
 </gallery>
 
 ==Tools==
@@ -97,8 +104,7 @@ File:VBooster.jpg|Vita-Booster
 
 ==Drinks==
 ===Rutta Grape Soda===
-'''''"A strong-smelling grape soda, yet it tastes smooth. Grants a temporary regeneration effect. This effect cannot stack with itself."'''''
-
+'''''"A strong-smelling grape soda, yet it tastes smooth. Grants a temporary regeneration effect. This effect cannot stack with itself."'''''<br><br>
 One of many grape sodas the player can find. It gives a regeneration effect but cannot stack with other grape sodas.<gallery>
 File:Grape Soda.png|Grape Soda
 </gallery>
@@ -112,8 +118,7 @@ File:Can of Beans.png|Canned Beans
 
 == Other ==
 === <span style= "color:Yellow">Cheese Slice</span> ===
-'''''<small>"Rumored to possess magical powers... Something like that. Instantly heals you to full health upon usage."</small>'''''
-
+'''''<small>"Rumored to possess magical powers... Something like that. Instantly heals you to full health upon usage."</small>'''''<br><br>
 As the name suggests, upon consuming the cheese, you heal back to max health.<gallery>
 File:Cheese.png|Cheese Slice
 </gallery>
@@ -125,6 +130,9 @@ File:Cheese.png|Cheese Slice
 ===Glock 17 Handgun===
 '''''"Semi-automatic Silenced handgun. Physical damage is ineffective against most entities, but it has its uses..."'''''<br><br>
 Also known as the "G17", this weapon is the weakest version of all guns in the game. Flashlight included, needs one battery to recharge.
+<gallery>
+File:G17.jpg|Glock 17
+</gallery>
 
 ==Automatic Rifles==
 ===All-Purpose Assault Rifle (Model 16)===
@@ -132,6 +140,12 @@ Also known as the "G17", this weapon is the weakest version of all guns in the g
 Or just "APAR-16" its the strongest rifle in the game with quick firepower. Flashlight included, needs one battery to recharge.
 <gallery>
 File:APAR-16.png|All-Purpose Assault Rifle (Model 16)
+</gallery>
+
+===AK-47===
+<br><br>
+<gallery>
+File:AK47.png|AK-47
 </gallery>
 
 ==Shotguns==
@@ -217,13 +231,6 @@ Divination.png|New model
 OLDToD.png|Old model
 </gallery>
 
-== '''Radiant Fragment''' ==
-'''''"Apparently,  it used to be a catalyst for channeling heavily energy. It's warm to the touch"'''''<br><br>Rare item to find. It is stronger version of crystal. Shares cyan light.
-
-<gallery>
-File:RadiantFragment.png|Radiant Fragment
-</gallery>
-
 == '''Debug Bricks''' ==
 '''''"A strange…. box? Why is this even here?"'''''
 
@@ -232,7 +239,14 @@ File:RedBrick.png|Red Debug Brick
 File:PurpleDebugBox.png.png|Purple Debug Box held by a player
 </gallery>
 
+== '''NVCS-3000''' ==
+'''''"An old prototype of the new, more improved NVCS-13793-C. It seems to be unable to track items, humans, nor entities. It's 100% feasible this was made by a human."'''''<br><br>
+<gallery>
+File:NVCS3000.png|NVCS-3000
+</gallery>
+
 == <span style= "color:purple">'''NVCS-13793-C'''</span> ==
+'''''"Advanced technology from what seems like another world. It's hard to believe this was manufactured on Earth. Left click or tap to apply."'''''<br><br>
 A scanner that can be found which is really rare. It makes you be able to see entities, items, and batteries. It also has night vision with light purple colours. It may be useful for entities and most importantly, D-60i. Also makes it harder to see the door number of Derelict. Press N on pc, touch NVCS on mobile, D-PAD Left on console platforms to toggle it on/off. To recharge it you have to turn off the scanner and hold N for 3 seconds, or D-PAD Left and take it off. Then, you will able to recharge the scanner with the maximum being 5 batteries.
 
 <gallery>
@@ -240,32 +254,25 @@ File:EvilCamara.jpg|NVCS-13793-C
 </gallery>
 
 == <span style= "color:Yellow">'''Strange Keycard'''</span> ==
+'''''"S.P.A.W.N issued keycard that seems to be usable for entering restricted areas throughout the Rooms Anomoly..."'''''<br><br>
 The keycard required to enter [[Section E]], It can rarely spawn in the [[Unnamed Sector]] after door 100, then requiring you to escape the [[Unnamed Sector]] to keep it.
 
 <gallery>
 File:Unnamed4.png|Strange Keycard
 </gallery>
 
-== <span style= "color:White">'''Host's Source'''</span> ==
-'''''"This doesn't belong here."'''''<br>
-
-An item that can only be spawned by admins, it's like the Crystal except it's brighter and it's white, and when spawned it means [[The Host]] will appear, but there's a chance of [[The Host]] not appearing.<gallery>
-File:HostsSource.png|Someone with '''Host's Source''' along with someone with '''Shadow Orb'''
-</gallery>
-
 |-|Salvage=
 <span style= "color:Orange">Salvage</span> may be EXTREMELY rare. They can usually be useful, however.
 
-==Flashlights==
 ===Tactical Shakelight===
-'''''"A customly modeled Faraday Flashlight, rumored to be used by a now defunct unit of guards positioned around the Rooms. Pressing Z and X could be useful."'''''<br>
+'''''"A customly modeled Faraday Flashlight, rumored to be used by a now defunct unit of guards positioned around the Rooms. Pressing Z and X could be useful."'''''<br><br>
 It is a heavily buffed Shakelight with the shaking sound being a click. When pressing X while holding it, Tactical Shakelight will tilt slightly left and up. When pressing Z, it would return to normal holding. Has 29s seconds of power, and cannot be overcharged and break like the Faraday Shakelight.
 <gallery>
 File:Tactical.png|Tactical Shakelight
 </gallery>
 
 ===Revolver===
-'''''"A six-shooter revolver, based from the MP-412 REX model. Headshots are very rewarding & it fires faster then average G-17."'''''<br>
+'''''"A six-shooter revolver, based from the MP-412 REX model. Headshots are very rewarding & it fires faster then average G-17."'''''<br><br>
 It is an revolver without built-in flashlight. (Was previously an Artifact, but that was just a bug before it got corrected to be Salvage.)
 <gallery>
 File:RevolverButInRedRooms.png|Revolver
@@ -294,24 +301,20 @@ The Heart of Darkness but the color of its outline and light can be changed to y
 File:HoD+.png|HoD+ default color.
 </gallery>
 
-
 ===Orb+===
-'''''"A replica of the "Shadow Orb", although it can be fully customized to fit one's preferences. It seems to retain properties from the original "Faraday Shakelight+"."'''''<br>
+'''''"A replica of the "Shadow Orb", although it can be fully customized to fit one's preferences. It seems to retain properties from the original "Faraday Shakelight+"."'''''<br><br>
 The Orb light source but the color of its model, effects and light can be changed to your liking.
 <gallery>
 File:Orb+.png|Orb+ default color.
 </gallery>
 
 ===Faraday Shakelight+===
-'''''"An upgraded version of the normal Faraday Shakelight. This version of the light is capable of lasting longer, incapable of being over-charged, as well as being customizable to fit your preferences."'''''<br>
+'''''"An upgraded version of the normal Faraday Shakelight. This version of the light is capable of lasting longer, incapable of being over-charged, as well as being customizable to fit your preferences."'''''<br><br>
 Faraday Shakelight but more powerful and cant be overcharged, as well as being able to change its model and light color.
 <gallery>
 File:Shakelight+.png|Faraday Shakelight+ default color.
 </gallery>
-
 </tabber>
 
-
 {{BrowseNavBox}}
-
 [[Category:Browsing]]

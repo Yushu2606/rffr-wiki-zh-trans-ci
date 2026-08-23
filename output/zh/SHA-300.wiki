@@ -39,7 +39,7 @@ Shadow_Mouth.webp|旧设计
 == 你知道吗 ==
 * '''SHA-300''' 是游戏中少数不使用光线投射检测玩家的实体之一。
 * '''SHA-300''' 有概率直接破坏门，无需等待玩家与其交互。
-* 强烈建议在 A 区应对 '''SHA-300'''，尤其是因为它是速度第二快的 Mouth 变种（仅次于 M 区的 Mouth），而且 A 区没有爬行空间
+* 强烈建议在 A 区应对 '''SHA-300'''，尤其是因为它是第二快的 Mouth 变种（仅次于 M 区 Mouth），而且 A 区不存在爬行空间
 * DEVOUR OST（追逐主题曲）
 **https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyM
 

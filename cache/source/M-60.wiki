@@ -21,7 +21,7 @@ M60 5.png|Face 5
 |type=Rusher<br>
 Locker Checker
 |behavior=Rushes from behind and checks a random hiding spot in the current room upon reaching to said room.
-|speed=~8.8 Rooms Per Second (Fast - Very Fast)
+|speed=Very Fast (8.8 rooms per second) (528 studs per second)
 |damage=Instant Death (85 damage locker snipe) (30 MAL damage locker snipe)
 |related_monsters=[[A-60]]<br>[[M-60i]]
 |badges=[https://www.roblox.com/badges/692611415782460/Are-You-Supposed-To-Be-Here Are You Supposed To Be Here?] '''Unobtainable'''

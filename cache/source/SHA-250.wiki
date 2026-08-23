@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-250 (???)</span>}}
+{{ArticleBackground|File=ShadowScreen.jpg}}
+{{Upcoming}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=SHA-250
+|entity_image=Placeholder.webp
+|previous_entity=[[SHA-200]]
+|next_entity=[[SHA-300]]
+|nicknames=TBA
+|locker_snipe=TBA
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|claustrophobia=TBA
+|type=TBA
+|behavior=TBA
+|gun_effect=No Shadow can be shot
+|speed=TBA
+|damage=TBA
+|related_monsters=[[D-250]]}}
+
+== Description ==
+'''SHA-250''' will be one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of [[D-250]].
+
+== Behavior ==
+TBA
+
+== Strategy & Tips ==
+* TBA
+
+== Trivia ==
+* TBA
+
+== Trivia ==
+<gallery>
+SHA250Vote.png
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Shadow Entities]]

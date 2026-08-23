@@ -7,7 +7,7 @@
 |entity_image=D250.webp
 |previous_entity=[[D-200]]
 |next_entity=[[Mouth|D-300]]<br>[[M-22]]
-|nicknames=Tumult（骚乱）
+|nicknames=骚乱
 |locker_snipe=是
 |appears_at=D-250+
 |claustrophobia=否
@@ -17,7 +17,7 @@
 |speed=固定 - 慢
 |damage=每秒75伤害（本体） <br>
 25（法球）
-|related_monsters=}}
+|related_monsters=[[SHA-250]]}}
 
 ==描述==
 '''D-250'''是玩家在[[Section D|D区]]会遇到的第十个实体，也是最后一个实体。更多相关信息如下。
@@ -29,7 +29,7 @@
 
 所有法球都发射完毕后，'''D-250'''会撞向下一扇门，无论门的类型是Depth（深度门）还是Derelict（废弃门）都会被直接破坏。
 
-==应对策略与提示==
+== 应对策略与提示 ==
 
 * '''D-250'''<nowiki/>的氛围音在它即将发起攻击时会非常清晰可闻。注意留意屏幕震动效果，当氛围音大到能清晰听见时，立刻往回跑，尽量远离下一个房间。
 * 不建议躲在最新打开的房间里，因为'''D-250'''的法球数量足够造成可能击杀玩家的伤害。
@@ -46,8 +46,8 @@
 ==画廊==
 ===GIFs===
 <gallery>
-File:Tumult_ingame.gif.gif|'''D-250'''在当前房间投掷法球时的画面。
-File:D-250_jumpscare.gif|'''D-250'''<nowiki/>的跳杀。
+File:Tumult ingame.gif.gif|'''D-250'''在当前房间投掷法球时的画面。
+File:D-250 jumpscare.gif|'''D-250'''<nowiki/>的跳杀。
 </gallery>
 
 ===杂项===

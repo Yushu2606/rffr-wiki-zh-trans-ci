@@ -78,7 +78,7 @@ When starting a new '''Alpha & Shadowpocalypse''' game from room 0, nothing will
 ==Lapse Variants==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:better L-1.png|center|150px|link=LAPSE-1]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150x150px]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:Better L2.png|center|150px|link=LAPSE-2]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE3.png|center|150px|link=LAPSE-3]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:L-60.png|center|150px|link=LAPSE-60]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:LAPSE-200.gif|center|150px|link=LAPSE-200]]

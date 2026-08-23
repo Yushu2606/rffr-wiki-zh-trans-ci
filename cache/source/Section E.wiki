@@ -72,7 +72,7 @@
 * TBA
 
 ==Trivia==
-* (NOT INGAME YET) Players are unable to access '''Section E''' if they lack the [https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."] badge.
+* ( Players are unable to access '''Section E''' if they lack the [https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."] badge.
 ** It doesn't matter if someone tries to use the '''Strange Keycard''' to let someone else who lacks it into '''Section E''', teleport will be impossible.
 *** [[File:AntiESectionCarrying.jpg|300px]]
 * [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive Teaser 1]

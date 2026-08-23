@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px indigo; color: black;">SHA-250（？？？）</span>}}
+{{ArticleBackground|File=ShadowScreen.webp}}
+{{Upcoming}}
+{{Modifier Exclusive|[[Alpha & Shadowpocalypse|阿尔法与Shadowpocalypse]]}}
+{{InfoBox:Entity
+|entity_name=SHA-250
+|entity_image=Placeholder.webp
+|previous_entity=[[SHA-200]]
+|next_entity=[[SHA-300]]
+|nicknames=待定
+|locker_snipe=待定
+|appears_at=[[Alpha & Shadowpocalypse|A&SP]]
+|claustrophobia=待定
+|type=待定
+|behavior=待定
+|gun_effect=无法射击暗影实体
+|speed=待定
+|damage=待定
+|related_monsters=[[D-250]]}}
+
+== 描述 ==
+'''SHA-250''' 是[[Alpha & Shadowpocalypse|阿尔法与Shadowpocalypse]]修饰符中众多暗影实体之一。它是[[D-250]]的感染变体。
+
+== 行为 ==
+待定
+
+== 策略与提示 ==
+* 待定
+
+== 冷知识 ==
+* 待定
+
+== 冷知识 ==
+<gallery>
+SHA250Vote.webp
+</gallery>
+
+{{EntityNavBox}}
+[[Category:Shadow Entities]]

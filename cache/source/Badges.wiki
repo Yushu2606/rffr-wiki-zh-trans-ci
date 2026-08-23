@@ -189,7 +189,7 @@ Section E=
 |Image=CongratsYouGotGoodRNG.png
 |Name=[https://www.roblox.com/badges/3464479910171957/Congrats-You-Got-Good-RNG Congrats, You Got Good RNG]
 |Description=Meet #-##.<br><br>This does nothing lol.
-|Obtainment=Encounter and survive [[Unknown Entity|"Unknown Entity"]].}}
+|Obtainment=Encounter and survive [[Unknown Entity|"#-##"]].}}
 
 |-|Other=
 '''Other:'''

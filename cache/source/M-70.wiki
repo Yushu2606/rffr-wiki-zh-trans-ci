@@ -45,6 +45,7 @@ However, there's a chance for M-70 to ambush player by playing a weird music-lik
 * '''M-70''' now can ambush the player as with the most recent update, it will not close the doors and instead will make a weird beep sound, as it will backtrack silently with whispers.
 * Using tables as hiding spot against '''M-70''' is bad idea, as it will still aim at you just like if you aren't hiding.
 * '''M-70''' can spawn alongside with locker checker entities like [[M-150]], or [[M-200]].
+* '''M-70''' in the previous update, used to turn the Maintenance locked doors signs to say "HIDE, 3, 2, 1," in sync with the pings as '''M-70''' is approaching. 
 
 == Gallery ==
 <gallery>

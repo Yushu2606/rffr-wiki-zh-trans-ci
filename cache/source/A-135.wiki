@@ -1,13 +1,16 @@
-{{DISPLAYTITLE:<span style="text-shadow: 0 0 5px white; color: black;">A-135 (Shadow Man)</span>}}
-{{ArticleBackground|File=Section A Tight Hallway.png}}{{InfoBox:Entity
+{{DISPLAYTITLE:<span style="text-shadow: 0 0 10px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray, 0 0 5px gray; color: black;">A-135 (The Shadow Man)</span>}}
+{{ArticleBackground|File=Section A Tight Hallway.png}}
+{{Headphones}}
+{{InfoBox:Entity
 |previous_entity=[[A-120]]
 |next_entity=[[A-135i]]<br>[[A-200]]
 |entity_name=[[File:A-135Placeholder.webp|frameless|link=A-135]]
 |entity_image= <gallery>
 ShadowMan.png|Current Idle Design
 ShadowManScare.png|Current Jumpscare Design
-UpdatedA-135.png|Old Design
-A135.png|Older Design
+UpdatedA-135.png|Old/Pre-Executive Design
+A135.png|Older/Legacy Design
+TrueLegacyA-135.webp|True Legacy Design
 </gallery> 
 |caption-entity_image=
 |appears_at=Anywhere Past A-135.
@@ -18,7 +21,8 @@ A135.png|Older Design
 |gun_effect=None
 |locker_snipe=No
 |damage=Instant Death<br>(22 stud kill radius)
-|speed=15 Studs/s (50 Studs/s in Red Rooms)|related_monsters=[[A-135i]] (Super Variant)
+|speed=Very Slow (0.75 rooms per second) (45 studs per second)
+|related_monsters=[[A-135i]] (Super Variant)
 |sound1=<center>Drumming Sound</center><center>[[File:Slowidiotdrummer.mp3]]</center>
 |sound2=<center>Close sound</center><center>[[File:Threat.mp3]]</center>
 |sound3=<center>A rare audio that may play when A-135 finds someone in a locker.</center><center>[[File:Check_kill.mp3]]</center>
@@ -28,8 +32,8 @@ A135.png|Older Design
 '''A-135'''<nowiki/>'s appearance appears to depict a creepy or eerie face emerging from darkness, with only the teeth and part of a circular mouth shape visible.
 
 ==Behavior==
-A-135 spawns behind the current room’s door making drumming sounds. After 3-5 seconds, A-135 breaks the door before checking every gray locker in the current 5-6 rooms. After checking A-135 will backtrack and despawning once it reaches the void wall. Any player found or getting close will get jumpscared by A-135.
- 
+A-135 spawns behind the current room’s door making drumming sounds. After 3-5 seconds, A-135 breaks the door before checking every gray locker 3 rooms down. After checking A-135 will backtrack and despawning once it reaches the void wall. Any player found or getting close will get jumpscared by A-135.
+
 ==Lore==
 *'''A-135''' is also known as Void's "Special Boy".
 

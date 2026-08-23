@@ -23,7 +23,7 @@ D-60Face8.png|Seventh Face
 |locker_snipe=Yes
 |gun_effect=None
 |type=Rusher<br>Rebounder
-|behavior=Screams before slamming the door. Either can start screaming again or makes wind noise and despawns.
+|behavior=Screams before slamming the door. Either can start screaming again or makes loud heavy breathing noise and despawns.
 |damage=Instant Death (70 damage locker snipe) (20 MAL. Damage)
 |speed=Extremely Fast (13.32 rooms per second) (799 studs per second)
 |related_monsters=[[A-60]]<br>[[D-60i]]<br>[[D-60ii]]
@@ -44,13 +44,13 @@ D-60Face8.png|Seventh Face
 '''D-60''' is an [[Entities|entity]] made of two purple faces that constantly clash with eachother.
 
 ==Behavior==
-When '''D-60''' spawns in, it will make increasingly-loud screaming sounds while rushing to the main room.
+When '''D-60''' spawns in, it will spawn 275-280 rooms back and will make increasingly-loud screaming sounds while rushing to the main room.
 After '''D-60''' has slammed into the door (or smashed it if in the Depth(Cave) part of the D section), it has a chance to either move to the middle of the room, or wait at the door for a short while before rebounding (skipping the waiting phase).
 
 If '''D-60''' decides to wait in the middle of the room, it's audio will fade out as it makes itself into a black ball. '''D-60''' cannot locker snipe you during this phase, but is still lethal.
-After '''D-60''' has waited for 5-7 (2.5 in [[Red Rooms]]) seconds at the middle, there's a 1 in 9 chance (1 in 4 in [[Red Rooms]]) that he will return back to his original state, moving to the door and then moving backwards, speeding up as time goes on.
+After '''D-60''' has waited for 5 (2.5 in [[Red Rooms]]) seconds at the middle, there's a 1 in 9 chance (1 in 4 in [[Red Rooms]]) that he will return back to his original state, moving to the door and then moving backwards, speeding up as time goes on.
 
-If '''D-60''' isn't lucky enough, he will instead make a loud wind sound while getting brighter, before fading out completely. This means '''D-60''' has despawned.
+If '''D-60''' isn't lucky enough, he will instead make a loud heavy breathing noise while getting brighter, before fading out completely. This means '''D-60''' has despawned.
 
 ==Strategy & Tips==
 *When you hear '''D-60'''<nowiki/>'s sound, wait nearby any hiding spot (reccomended a white/blue one because of [[D-55]] comboes) until the static has been on your screen for ~1 second(s).
@@ -63,14 +63,15 @@ If '''D-60''' isn't lucky enough, he will instead make a loud wind sound while g
 *'''D-60'''<nowiki/>'s rebound limit is '''7''' rebounds on maximum.
 *'''D-60'''<nowiki/>'''<nowiki/>'s''' jumpscare sound is Bonnies Jumpscare from the FNAF Fangame, The Joy of Creation.
 *'''D-60'''<nowiki/>'''<nowiki/>’s''' [[D-60i|vari]][[D-60ii|ants]] are entities that both give badges, and are bosses
+*'''D-60''' hates stepping on real LEGO bricks.
 
 ==Gallery==
 <gallery>
-File:D-60 1.png|Old First Face
-File:D-622.png|Old Second Face
-File:D-63.png|Old Third Face
-File:D-64.png|Old Fourth Face 
-File:D-60Face5.png|Old Fifth Face
+File:D-60 1.png|Old/Legacy First Face
+File:D-622.png|Old/Legacy Second Face
+File:D-63.png|Old/Legacy Third Face
+File:D-64.png|Old/Legacy Fourth Face 
+File:D-60Face5.png|Old/Legacy Fifth Face
 File:D-60Jumpscareee.gif|D-60's Jumpscare
 </gallery>
 

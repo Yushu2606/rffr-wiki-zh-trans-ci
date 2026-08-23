@@ -60,8 +60,8 @@ a[href="/wiki/Oblivion"] {
 	text-shadow: 0 0 2.5px red, 0 0 2.5px red, 0 0 2.5px red;
 }
 a[href="/wiki/Overseer"] {
-	color: purple !important;
-	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+	color: #8700FF !important;
+	text-shadow: 0 0 2.5px #8700FF, 0 0 2.5px #8700FF, 0 0 2.5px #8700FF;
 }
 a[href="/wiki/Claustrophobia"] {
 	color:#666666 !important;
@@ -99,6 +99,10 @@ a[href="/wiki/Mouth"] {
 a[href="/wiki/Void"] {
 	color:#FFFFFF !important;
 	text-shadow: 0 0 9px black, 0 0 9px black, 0 0 9px black;
+}
+a[href="/wiki/GOD-200"] {
+	color: white !important;
+	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
 }
 /**end of misc**/
 
@@ -370,10 +374,6 @@ a[href="/wiki/D-140"] {
 	color:black !important;
 	text-shadow: 0 0 2.5px #336600, 0 0 2.5px #336600, 0 0 2.5px #336600;
 }
-a[href="/wiki/D-140i"] {
-	color:black !important;
-	text-shadow: 0 0 2.5px #AA0044, 0 0 2.5px #AA0044, 0 0 2.5px #AA0044;
-}
 a[href="/wiki/D-175"] {
 	color:#222222 !important;
 	text-shadow: 0 0 2.5px #666666, 0 0 2.5px #666666, 0 0 2.5px #666666;
@@ -389,10 +389,6 @@ a[href="/wiki/D-250"] {
 /**end of D section**/
 
 /**M section**/
-a[href="/wiki/M-7"] {
-	color:#004400 !important;
-	text-shadow: 0 0 2.5px #00BB00, 0 0 2.5px #00BB00, 0 0 2.5px #00BB00;
-}
 a[href="/wiki/M-22"] {
 	color:#FFFF44 !important;
 	text-shadow: 0 0 2.5px #000000, 0 0 2.5px #000000, 0 0 2.5px #000000;
@@ -783,6 +779,10 @@ a[href="/wiki/SHA-200"] {
 	color:black !important;
 	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
 }
+a[href="/wiki/SHA-250"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
+}
 a[href="/wiki/SHA-300"] {
 	color:black !important;
 	text-shadow: 0 0 2.5px purple, 0 0 2.5px purple, 0 0 2.5px purple;
@@ -832,10 +832,6 @@ a[href="/wiki/GAMMA-2"] {
 /**end of Gamma Entities**/
 
 /**Admin entities**/
-a[href="/wiki/GOD-200"] {
-	color: white !important;
-	text-shadow: 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF, 0 0 2.5px #FFFFFF;
-}
 a[href="/wiki/A-258_(IR)"] {
     color: #FFB600 !important;
     text-shadow: 0 0 2.5px #FF0000, 0 0 2.5px #FF0000, 0 0 2.5px #FF0000;
@@ -856,6 +852,14 @@ a[href="/wiki/Glongoflorp-60"] {
 	color:black !important;
 	text-shadow: 0 0 2.5px lime, 0 0 2.5px lime, 0 0 2.5px lime;
 }
+a[href="/wiki/D-20i"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px blue, 0 0 2.5px blue, 0 0 2.5px blue;
+}
+a[href="/wiki/D-140i"] {
+	color:black !important;
+	text-shadow: 0 0 2.5px #AA0044, 0 0 2.5px #AA0044, 0 0 2.5px #AA0044;
+}
 a[href="/wiki/D-180i"] {
 	color:#000033 !important;
 	text-shadow: 0 0 2.5px #0000AF, 0 0 2.5px #0000AF, 0 0 2.5px #0000AF;
@@ -874,6 +878,10 @@ a[href="/wiki/Old_A-60i"] {
 a[href="/wiki/D-180"] {
 	color:#2B0000 !important;
 	text-shadow: 0 0 2.5px #650202, 0 0 2.5px #650202, 0 0 2.5px #650202;
+}
+a[href="/wiki/M-7"] {
+	color:#004400 !important;
+	text-shadow: 0 0 2.5px #00BB00, 0 0 2.5px #00BB00, 0 0 2.5px #00BB00;
 }
 /**end of removed**/
 /*End of entites link colors*/

@@ -61,6 +61,7 @@ Behavior: Spawns a random distance from the main room, being 50-60 rooms back (f
 *A-60 is the second entity you will encounter.
 *A-60, like A-200, is an entity that is also in the original Rooms game.
 *A-60 can be shot, causing him to despawn faster as well as preventing [[A-60i]] from spawning
+*⬆️, this would only happen if you shot a-60 before he starts despawning
 *A-60's jumpscare sound comes from the FNAF fangame The Joy of Creation, being Ignited Foxy's jumpscare sound.
 *Hiding on a table in a previous room against '''A-60''' cannot kill you, however you WILL get locker sniped
 *A-60 can be dodge rolled to survive though you'll get sniped

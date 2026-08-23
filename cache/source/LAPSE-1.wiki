@@ -27,9 +27,9 @@ Upon spawning, LAPSE-1 will take on one of two mechanics.
 
 His first mechanic is putting a red outline with very faint red coloring on 75% of every hiding spot in every room. He will then rush forward and break the door, and break every highlighted locker. Functioning similary to SHA-1, but more aggressive and overall more difficult.
 
-His alternate mechanic is putting a stronger recoloring highlight of red without an outline on 1-3 lockers in every room. He will then break the door the same way he does in his other mechanic, and then check every locker he '''Didn't''' highlight. 
+His alternate mechanic is putting a stronger recoloring highlight of red without an outline on 1-3 lockers in every room. He will then break the door the same way he does in his other mechanic, and then break every locker he highlighted in the main and every locker he '''Didn't''' highlight in the rooms before. 
 
-In both mechanics, he breaks doors down, and breaks lockers he checks. He also has a chance to spawn SHA-2 and SHA-55.
+In both mechanics, he breaks doors down, and breaks lockers he checks. He also has a chance to spawn [[SHA-2]] or [[SHA-55]].
 
 == Strategy & Tips ==
 * [[Claustrophobia]] can attack while '''LAPSE-1''' active, so leave the locker when it is far from you.

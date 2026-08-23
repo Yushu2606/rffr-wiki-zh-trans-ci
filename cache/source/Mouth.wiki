@@ -2,17 +2,17 @@
 <tabber>
 |-|Base=
 {{ArticleBackground|File=MultiSectional.gif}}
-{{NoteBox|note=Not to be confused with '''A-300''' from '''Rooms: Re-Established'''}}
+{{NoteBox|note=Not to be confused with '''A-300''' from '''Rooms: Re-Established''', '''Rooms Low Detailed''', and '''Interminable Rooms'''}}
 {{InfoBox:Entity|entity_name= [[File:MouthTitle.png|frameless|link=Mouth]]|entity_image=<gallery>
-MouthColorless.png|Design
-A-300.png|A Section Mouth
-DSectionMouth.png|D Section Mouth
-MSectionMouth.png|M Section Mouth
-False300.png|Unnamed Sector Mouth
-ESectionMouth.png|E Section Mouth
-Mouth.png|Old A Section Mouth
-D mouth.png|Old D Section Mouth
-M mouth.png|Old M section Mouth
+MouthColorless.png|Current Design
+A-300.png|Current A-Section Design
+DSectionMouth.png|Current D-Section Design
+MSectionMouth.png|Current M/I-Section Design
+False300.png|Current Unnamed Sector Design
+ESectionMouth.png|Current E-Section Design
+Mouth.png|Old A-Section Design
+D mouth.png|Old D-Section Design
+M mouth.png|Old M/I-Section Design
 </gallery>
 |caption-entity_image=IM GOING TO EAT YOU HUMAN MUHHAHAHA
 |previous_entity=[[A-200i]]

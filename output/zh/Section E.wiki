@@ -35,7 +35,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E90.webp|center|150px|link=E-90]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E-120_Design.webp|center|150px|link=E-120]]
 {{!}} style="padding 5px;" align="center" {{!}}[[File:E165.webp|center|150px|link=E-165]]
-{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200_Design.gif|center|150px|link=E-200]]
+{{!}} style="padding 5px;" align="center" {{!}}[[File:E-200 Design.gif|center|150px|link=E-200]]
 {{!}}-
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-60]]
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[E-90]]
@@ -61,7 +61,7 @@
 {{!}} style="padding 5px;" align="center" {{!}}<br>[[Void|虚空]]
 {{!}}}
 
-==Removed/废弃==
+==Removed/已废弃==
 {{{!}} style="width:80%; text-align:center; margin:0 auto"
 {{!}} style="padding 5px;" align="center" {{!}}[[File:Placeholder.webp|center|150px|thumb]]
 {{!}}-
@@ -69,21 +69,21 @@
 {{!}}}
 
 ==策略==
-* TBA
+* 待定
 
 ==冷知识==
-*（尚未实装到游戏中）如果玩家没有[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."]徽章，将无法进入'''E区'''。
-**即使有人试图使用'''Strange Keycard（奇异钥匙卡）'''让没有该徽章的玩家进入'''E区'''，也无法进行传送。
+* （如果玩家没有[https://www.roblox.com/badges/4497939033694098/The-Beginning-of-The-End "The Beginning of The End."]徽章，将无法进入'''E区'''。
+** 即使有人试图使用'''Strange Keycard（奇异钥匙卡）'''让没有徽章的人进入'''E区'''也无济于事，传送将无法进行。
 *** [[File:AntiESectionCarrying.webp|300px]]
-* [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive 预告1]
-* '''E区'''是第一个没有能禁用[[Claustrophobia|幽闭恐惧]]的实体的分区。
-* [[Section Executive Invasion Event|执行官入侵]]
-* E区是唯一没有独特环境音效的分区（可能会更改）
+* [https://youtu.be/erBdtnQqEvk?si=XMLlffRJVsnogK7m Update Executive 预告 1]
+* '''E区'''是第一个没有能禁用[[Claustrophobia|幽闭恐惧]]的实体的区
+* [[Section Executive Invasion Event|The Executive Invasion（高管入侵）]]
+* E区是唯一一个没有独特环境音的区（可能会更改）
 
-== Lore ==
-* 在[[Section A|A区]]和[[Section D|D区]]被废弃后，[[Section E|E区]]被用来安置S.P.A.W.N，以便为这个分区提供动力。
+== 背景故事 ==
+* [[Section E|E区]]是在[[Section A|A区]]和[[Section D|D区]]被废弃后，用来安置S.P.A.W.N以提供该区电力的区。
 
-==房间==
+==Rooms==
 <gallery>
 File:Elobby.webp|大厅
 File:ERoom1.webp
@@ -129,18 +129,18 @@ File:E-1000_(Badge).webp|旧版"E-1000"徽章图标
 |Image=NewPowerFailureBadge.webp
 |Name=Power Failure
 |Description=这一切还要持续多久？
-|Obtainment=打开E-500门。}}
+|Obtainment=打开E-500号门。}}
 
 {{BadgeSectionE
 |Image=NewExecutiveDysfunctionBadge.webp
 |Name=Executive Dysfunction
-|Description=循环不断重复，一次又一次，一次又一次。|Obtainment=打开E-900门。}}
+|Description=循环不断重复，一次又一次，一次又一次。|Obtainment=打开E-900号门。}}
 
 {{BadgeSectionE
 |Image=NewE1000Badge.webp
 |Name=E-1000
-|Description=E-1000结局尚未添加。<br>……然而，你仍在为一个虚无的目的继续前行。你不记得自己为何来到这里，但似乎你马上就要找到答案了。
-|Obtainment=打开E-1000门。}}
+|Description=E-1000结局尚未添加。<br>……然而，你仍在为一个虚无的目标继续前进。你不记得自己为何来到这里，但似乎你马上就要找到答案了。
+|Obtainment=打开E-1000号门。}}
 
 {{BrowseNavBox}}
 

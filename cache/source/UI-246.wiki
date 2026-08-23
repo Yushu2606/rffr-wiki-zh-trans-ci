@@ -19,7 +19,7 @@
 == Behavior ==
 When '''UI-246''' spawns, it will play the composition known as "Horror Race", like all the other entities that reside within the I-Section. If there are more entities present, it will play the same song but with a higher pitch and speed.
 
-It will appear in the center of the room, rushing back after 4- seconds it will rush back, rebounding back to the main room a few times, it will depsawn at the door.
+It will appear in the center of the room, rushing back after 4- seconds it will rush back, rebounding back to the main room a few times, it will despawn at the door.
 
 == Strategy & Tips ==
 Hide immediately when you hear/See him, and stay hidden untill it despawns

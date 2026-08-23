@@ -25,7 +25,7 @@ Shadow_Mouth.png|Old Design
 |sound3=<center>Metal Door Smash</center><center>[[File:Metaldoorsmash.mp3]]</center>|sound4=<center>DEVOUR OST</center><center>[[File:DEVOUR.mp3]]</center>}}
 
 == Description ==
-'''SHA-300''' is the one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of  [[Mouth]].
+'''SHA-300''' is one of the many Shadow entities found within the [[Alpha & Shadowpocalypse]] modifier. He is the infected counterpart of  [[Mouth]].
 
 == Behavior ==
 '''SHA-300''' will act like the regular [[Mouth]], but it will give less reaction time and it will chase the player with a speed very close to the normal sprinting speed. Upon reaching room containing the '''Void Wall''', '''SHA-300''' will then go back to the main room, pretending that it is going to despawn, but after about 5 seconds, '''SHA-300''' will respawn behind the void wall, and will chase the player back to the main room, and upon reaching the previous room behind the main room, '''SHA-300''' will proceed back to the '''Void Wall''' where it will finally despawn.
@@ -39,7 +39,7 @@ Shadow_Mouth.png|Old Design
 == Trivia ==
 * '''SHA-300''' is one of the only entities in the game to not use raycasting to detect players.
 * '''SHA-300''' has a chance to immediately break the door instead of waiting for the player to interact with it.
-* It is heavily recommended to deal with '''SHA-300''' in the A section, especially due to it being the second fastest mouth variant (behind M section mouth) plus no crawlspaces being in A section
+* It is heavily recommended to deal with '''SHA-300''' in the A section, especially due to it being the second fastest mouth variant (behind M section mouth) plus no crawlspaces exist in the A section
 * DEVOUR OST (Chase theme)
 **https://youtu.be/Lv1vn8uvqtc?si=59Lbizo0sR8-GJyM
 

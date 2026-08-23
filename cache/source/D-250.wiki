@@ -17,7 +17,7 @@
 |speed=Stationary - Slow
 |damage=75 DPS (Entity) <br>
 25 (Orbs)
-|related_monsters=}}
+|related_monsters=[[SHA-250]]}}
 
 ==Description==
 '''D-250''' is the tenth entity and the last entity, where the player will encounter within [[Section D]]. More information about this entity is presented below.

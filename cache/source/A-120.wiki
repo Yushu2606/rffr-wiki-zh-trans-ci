@@ -5,7 +5,7 @@
 |next_entity=[[A-135]]<br>[[A-135i]]
 |entity_name=[[File:A-120Placholder.webp|frameless|link=A-120]]
 |entity_image=<gallery>
-File:NewA120.png|Current design
+File:NewA120.png|Current Design
 File:A-120_Recreated.png|Old/True Legacy Design 
 </gallery>
 |appears_at=At or Past A-120

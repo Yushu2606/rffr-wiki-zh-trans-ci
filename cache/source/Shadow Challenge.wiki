@@ -23,8 +23,9 @@ __NOTOC__
 ** 1st way: It can appear after room 1200 in any section at a 1/666 chance per door.
 
 ** 2nd way: It can appear if you travel to room 3333 from any room before 3000.
+*** After 2666, the Shadow Challenge will not spawn because of this, so 2500-2666 is the butter zone.
 
-** 3rd way: It will appear at somewhere at 6010 after you teleport to 5980 in any section.
+** 3th way: It will appear at somewhere at 6010 after you teleport to 5980 in any section.
 *** If there's an entity active, it won't spawn until the entity despawns.
 
 * The '''Shadow Challenge''' can spawn even if entities are active, however, it will wait untill all entities despawn for the build up to start. if the requirements are met there will be a deep thud where then all the lights will go out and voices will be audible through the intercom. 
@@ -75,7 +76,8 @@ __NOTOC__
 == Trivia ==
 *Shadow Challenge's Voices says ''"Alert… Alert… Alert… Alert… Warning…'' ''Bypass detected. Warning… Core reprogramming detected…''  ''Deploy, diagnose. Deploy, diagnose, Resonant singularity…''  ''Resonant singularity... Priority alert: Internal stabilization teams…''  ''Deploy sterilizers... Deploy... Priority warning restricted, disengaged… Stabilization cords disengaged... Sterilizers and containment fields compromized..."''
 * [[SHA-7]], [[SHA-22]], [[SHA-150]], [[SHA-300]], [[Overseer|SHA-0]], [[LAPSE-1]], [[LAPSE-2]], [[LAPSE-60]] and [[LAPSE-200]] are exclusive to the [[Alpha & Shadowpocalypse]] modifier so they can't spawn at all in the challenge
-** However, [[SHA-7]], [[SHA-22]] and [[SHA-150]] can be spawned by [[SHA-4]] in the '''Shadow Challenge'''
+** However, [[SHA-7]], [[SHA-22]] and [[SHA-150]] can be spawned by [[SHA-4]] in the '''Shadow Challenge.'''
+** However, [[SHA-4]] cant spawn in the '''Shadow Challenge.'''
 
 ==Badges==
 {{Badge
