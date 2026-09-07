@@ -5637,6 +5637,19 @@
       "uploaded_as": "E-120_Design.webp",
       "uploaded_at": 1780461637
     },
+    "File:E-120 ingame.webp": {
+      "blob_sha256": "6c9e438a95a2dda09a62aefe2dcb1540a6308f716e73dd374e068cb8f9ce29dc",
+      "mime": "image/webp",
+      "sha1": "21c8c0d23ad6fadadad21f48c530758ae55b182f",
+      "size": 63664,
+      "upload_info": {
+        "filename": "E-120_ingame.webp",
+        "result": "Success"
+      },
+      "uploaded": true,
+      "uploaded_as": "E-120_ingame.webp",
+      "uploaded_at": 1788796011
+    },
     "File:E-120 jumpscare.gif": {
       "blob_sha256": "5478601fddf2e8221a3400ea063033bc9f4a68564194008b759641bed531d9c2",
       "mime": "image/gif",
@@ -19513,7 +19526,7 @@
         "revid": 14508
       },
       "target": {
-        "fetched_at": 1788726114,
+        "fetched_at": 1788795715,
         "hash": "4c65887eeaf23596b81eb72796df8644fd1bca5c424d804a537530a903ba4530",
         "revid": 3692,
         "title": "A-120"
@@ -19537,7 +19550,7 @@
         "revid": 14466
       },
       "target": {
-        "fetched_at": 1788726117,
+        "fetched_at": 1788795719,
         "hash": "b8b922c69321b85d05bea17b2209b9b159a351d2c109aad129f60eac8d645093",
         "revid": 3693,
         "title": "A-135"
@@ -19561,7 +19574,7 @@
         "revid": 14386
       },
       "target": {
-        "fetched_at": 1788726120,
+        "fetched_at": 1788795722,
         "hash": "d00597f4d68706c02cad0daa47c845d2aefaeb5cee22adfb98b8e45bef32d1a6",
         "revid": 3582,
         "title": "A-135i"
@@ -19610,7 +19623,7 @@
         "revid": 14507
       },
       "target": {
-        "fetched_at": 1788726127,
+        "fetched_at": 1788795728,
         "hash": "e4174bcae0396e1f02fd83e23e4153560e540e74f7ffd88b12e78e0f604f9f06",
         "revid": 3694,
         "title": "A-20"
@@ -19634,7 +19647,7 @@
         "revid": 14379
       },
       "target": {
-        "fetched_at": 1788726130,
+        "fetched_at": 1788795731,
         "hash": "407bd165a7e73b6f045954c58d8565fee4d012f339b20a353a79ce6050713c18",
         "revid": 3584,
         "title": "A-200"
@@ -19658,7 +19671,7 @@
         "revid": 14390
       },
       "target": {
-        "fetched_at": 1788726133,
+        "fetched_at": 1788795734,
         "hash": "040232d21c2548873fbb48e827229dbcf0774c0cb2e75ea0b740308212577c18",
         "revid": 3585,
         "title": "A-200i"
@@ -19682,7 +19695,7 @@
         "revid": 12836
       },
       "target": {
-        "fetched_at": 1788726137,
+        "fetched_at": 1788795738,
         "hash": "fb2eb9eb34d66c54ba4dbf78719a3114779936c071a7289206f728e1c107a7b7",
         "revid": 2840,
         "title": "A-200ii"
@@ -19706,7 +19719,7 @@
         "revid": 14387
       },
       "target": {
-        "fetched_at": 1788726140,
+        "fetched_at": 1788795741,
         "hash": "da22f59dac6cbc79c68408abc4915678da1e20a553ff7d64b4f45371fcc48bdd",
         "revid": 3586,
         "title": "A-20i"
@@ -19730,7 +19743,7 @@
         "revid": 14198
       },
       "target": {
-        "fetched_at": 1788726143,
+        "fetched_at": 1788795744,
         "hash": "ce947dbca1757460a32a642b722eb1a1321655e648dafe98ad8247bc662e1735",
         "revid": 3234,
         "title": "A-20ii"
@@ -19778,7 +19791,7 @@
         "revid": 14484
       },
       "target": {
-        "fetched_at": 1788726146,
+        "fetched_at": 1788795747,
         "hash": "a112ac79cd25d4f791fb45aa96c87ea9d84c7539d641d6e897b6213190e5ea58",
         "revid": 3695,
         "title": "A-60"
@@ -19802,7 +19815,7 @@
         "revid": 14394
       },
       "target": {
-        "fetched_at": 1788726149,
+        "fetched_at": 1788795751,
         "hash": "63d6a56167b60698a4a0d53142106828ab380da7d5c8b24e5d85aa61582d5d1e",
         "revid": 3589,
         "title": "A-60i"
@@ -19826,7 +19839,7 @@
         "revid": 14279
       },
       "target": {
-        "fetched_at": 1788726153,
+        "fetched_at": 1788795754,
         "hash": "3b7934723e24bb5710c75560731e5ce04b821e7ef115e534c960e0a741057333",
         "revid": 3590,
         "title": "A-60ii"
@@ -19850,7 +19863,7 @@
         "revid": 14384
       },
       "target": {
-        "fetched_at": 1788726156,
+        "fetched_at": 1788795757,
         "hash": "4619a859510d79b6cf4d7a5a3ee5147408d8220cd802565e232140dcf5af7836",
         "revid": 3591,
         "title": "A-85"
@@ -19874,7 +19887,7 @@
         "revid": 14382
       },
       "target": {
-        "fetched_at": 1788726159,
+        "fetched_at": 1788795761,
         "hash": "8f7bbe44143909b7a5fb1d65c95d8842338134e3f7add3a278e8a420b8be6eea",
         "revid": 3592,
         "title": "A-85i"
@@ -19898,7 +19911,7 @@
         "revid": 14479
       },
       "target": {
-        "fetched_at": 1788726162,
+        "fetched_at": 1788795764,
         "hash": "de7bcd591c940fcf435ccd9c020dde33c55f876d1748dd0471b895ebe9f38f3a",
         "revid": 3696,
         "title": "Alpha & Shadowpocalypse"
@@ -21914,7 +21927,7 @@
         "revid": 13850
       },
       "target": {
-        "fetched_at": 1788726165,
+        "fetched_at": 1788795767,
         "hash": "7bdb7fbd8a0022683dd5e93daa22ce23cd77cc3973ce3845b846f9bbd43212c4",
         "revid": 3595,
         "title": "Claustrophobia"
@@ -21938,7 +21951,7 @@
         "revid": 13619
       },
       "target": {
-        "fetched_at": 1788726169,
+        "fetched_at": 1788795770,
         "hash": "a5a8961b160cf6e2e7ffd86d001aa1e2badfcb0933289910be6e05f384134e6b",
         "revid": 3596,
         "title": "D-120"
@@ -21962,7 +21975,7 @@
         "revid": 14474
       },
       "target": {
-        "fetched_at": 1788726172,
+        "fetched_at": 1788795773,
         "hash": "014e6f2f8a23cc8ff24e359b57d38e22890ca144be96b5ed804490f338e644bf",
         "revid": 3698,
         "title": "D-140"
@@ -22010,7 +22023,7 @@
         "revid": 14181
       },
       "target": {
-        "fetched_at": 1788726175,
+        "fetched_at": 1788795777,
         "hash": "2707122c23976e44cba0fe77fc17dd672aa99e94e5a8b4b704700379aadee4e1",
         "revid": 3247,
         "title": "D-175"
@@ -22082,7 +22095,7 @@
         "revid": 14283
       },
       "target": {
-        "fetched_at": 1788726178,
+        "fetched_at": 1788795780,
         "hash": "473c610d52f90c6d9711149b7b2d649e901fbd1942ed35c615cbb86e3f7483f6",
         "revid": 3601,
         "title": "D-20"
@@ -22106,7 +22119,7 @@
         "revid": 14225
       },
       "target": {
-        "fetched_at": 1788726182,
+        "fetched_at": 1788795783,
         "hash": "348ef38fea4a504218e525ca1a6af1ad2bdbaa798b41808d60c5118549b1264d",
         "revid": 3602,
         "title": "D-200"
@@ -22154,7 +22167,7 @@
         "revid": 14416
       },
       "target": {
-        "fetched_at": 1788726185,
+        "fetched_at": 1788795786,
         "hash": "6434b6da4c70f5aa77417b5ade69b5b908f8415ef1826dd72804b2dde153c11a",
         "revid": 3699,
         "title": "D-250"
@@ -22178,7 +22191,7 @@
         "revid": 14500
       },
       "target": {
-        "fetched_at": 1788726188,
+        "fetched_at": 1788795790,
         "hash": "2ebd0439b85218296449670e70514a641fba79bb11f1c28f7e469d46ca2c6581",
         "revid": 3700,
         "title": "D-35"
@@ -22202,7 +22215,7 @@
         "revid": 14141
       },
       "target": {
-        "fetched_at": 1788726191,
+        "fetched_at": 1788795793,
         "hash": "98e8964ddb746e52aa5dcd89d8417107355ea2a70070de2ca2401146b5b8a8f9",
         "revid": 3605,
         "title": "D-35i"
@@ -22226,7 +22239,7 @@
         "revid": 12206
       },
       "target": {
-        "fetched_at": 1788726194,
+        "fetched_at": 1788795796,
         "hash": "59748abf9c8b7c3a0648152a2e6821d96a79a9b86f38d1bfd248c03550aad42e",
         "revid": 3606,
         "title": "D-35ii"
@@ -22250,7 +22263,7 @@
         "revid": 14345
       },
       "target": {
-        "fetched_at": 1788726197,
+        "fetched_at": 1788795799,
         "hash": "bfc68cfcab45092d77cc330ced33098e6cc12dac899507ae4b54d230958ea814",
         "revid": 3607,
         "title": "D-5"
@@ -22274,7 +22287,7 @@
         "revid": 14383
       },
       "target": {
-        "fetched_at": 1788726201,
+        "fetched_at": 1788795803,
         "hash": "962d637a3f5bcc78c608ffe866ea20bc6add88919d1dff6112da3620f9560f4d",
         "revid": 3608,
         "title": "D-55"
@@ -22298,7 +22311,7 @@
         "revid": 12919
       },
       "target": {
-        "fetched_at": 1788726204,
+        "fetched_at": 1788795806,
         "hash": "4c528a72d1c6d4d2f9f45de10626a13241cef67ae5bd6432e8f5adb7aabcbd02",
         "revid": 2871,
         "title": "D-55i"
@@ -22322,7 +22335,7 @@
         "revid": 13606
       },
       "target": {
-        "fetched_at": 1788726207,
+        "fetched_at": 1788795809,
         "hash": "7000aa0d20d0af629760af8075ff0bd08bebc1c16d2fa440ab5b93e175c5c7ef",
         "revid": 3609,
         "title": "D-55ii"
@@ -22370,7 +22383,7 @@
         "revid": 14498
       },
       "target": {
-        "fetched_at": 1788726210,
+        "fetched_at": 1788795812,
         "hash": "9f792fd1755b1b9d69b4a8f410c717de09baf1a12be3a72300cb8e5e745f7cb4",
         "revid": 3701,
         "title": "D-60"
@@ -22394,7 +22407,7 @@
         "revid": 14497
       },
       "target": {
-        "fetched_at": 1788726213,
+        "fetched_at": 1788795816,
         "hash": "f359e5ac7b12717714d84c5f1cf2a2ef963368991b599844a75be589114520ba",
         "revid": 3702,
         "title": "D-60i"
@@ -22418,7 +22431,7 @@
         "revid": 14229
       },
       "target": {
-        "fetched_at": 1788726217,
+        "fetched_at": 1788795819,
         "hash": "24cb1fa87deea4166d639a5ad1a057c3c9fa0bfc570369a66bd8a120016e1fdd",
         "revid": 3613,
         "title": "D-60ii"
@@ -22538,7 +22551,7 @@
         "revid": 14375
       },
       "target": {
-        "fetched_at": 1788726220,
+        "fetched_at": 1788795822,
         "hash": "b1e9a722008b012c9ba1841d3b1d75675c0e6bdbc39f9d68c367fede24a9dc0f",
         "revid": 3616,
         "title": "E-10i"
@@ -22562,7 +22575,7 @@
         "revid": 14331
       },
       "target": {
-        "fetched_at": 1788726223,
+        "fetched_at": 1788795825,
         "hash": "e47a474273e3271c4706dd4016f1a1942a5d76adab0f5fa6d27eec9d09730ab4",
         "revid": 3617,
         "title": "E-120"
@@ -22586,7 +22599,7 @@
         "revid": 14332
       },
       "target": {
-        "fetched_at": 1788726226,
+        "fetched_at": 1788795829,
         "hash": "dc4a85bfda916bfc5d2aff9a2e3efd1f66a0af9863c2acf660514a4828c6ceeb",
         "revid": 3262,
         "title": "E-165"
@@ -22610,7 +22623,7 @@
         "revid": 14333
       },
       "target": {
-        "fetched_at": 1788726229,
+        "fetched_at": 1788795832,
         "hash": "be5f16d412701271459b80f89a5df08192be8b084a332066be4fc1b4d618abdb",
         "revid": 3618,
         "title": "E-200"
@@ -22658,7 +22671,7 @@
         "revid": 14351
       },
       "target": {
-        "fetched_at": 1788726232,
+        "fetched_at": 1788795835,
         "hash": "1edab55623c15e99fd9a672450c8c7f2f3ebdd6775e82de240162dff8bf45f36",
         "revid": 3620,
         "title": "E-30"
@@ -22682,7 +22695,7 @@
         "revid": 14327
       },
       "target": {
-        "fetched_at": 1788726236,
+        "fetched_at": 1788795838,
         "hash": "272c158644019332678a87921c00117b307c03458d1492e594f7fa417d7f0e62",
         "revid": 3621,
         "title": "E-30i"
@@ -22730,7 +22743,7 @@
         "revid": 14329
       },
       "target": {
-        "fetched_at": 1788726239,
+        "fetched_at": 1788795842,
         "hash": "80a79670b7a59dbb3c05fa37f313a46c4d6640e247aa65b0f77804e30855f558",
         "revid": 3622,
         "title": "E-60"
@@ -22802,7 +22815,7 @@
         "revid": 14483
       },
       "target": {
-        "fetched_at": 1788726242,
+        "fetched_at": 1788795845,
         "hash": "a44361395794b9892be089921062fbb9cfd33336c8e33ce2941fea107f63dada",
         "revid": 3703,
         "title": "Entities"
@@ -22826,7 +22839,7 @@
         "revid": 13678
       },
       "target": {
-        "fetched_at": 1788726245,
+        "fetched_at": 1788795848,
         "hash": "bf5c432f1a1ed445bd18c862766259eeaa07800c8c29c52fee0586779456ce8c",
         "revid": 3624,
         "title": "Execution"
@@ -22874,7 +22887,7 @@
         "revid": 11061
       },
       "target": {
-        "fetched_at": 1788726248,
+        "fetched_at": 1788795851,
         "hash": "d56f5ed90b76ebd3770c787d8fb03adb3ec94eb1c40dbf60ad865c23d7f424e4",
         "revid": 2890,
         "title": "Fake Strange Keycard"
@@ -22946,9 +22959,9 @@
         "revid": 13364
       },
       "target": {
-        "fetched_at": 1787191676,
-        "hash": "1a05b6c9d71096596a43dc35158d9454e03e29c2417a8310fdcb41dc12e598ea",
-        "revid": 2893,
+        "fetched_at": 1788795855,
+        "hash": "3e71f60e83c0d3a4a3394aa1215e5ddaa18d14eb60fe9c13e2d418193802bd33",
+        "revid": 3626,
         "title": "False-120"
       },
       "translation": {
@@ -22994,7 +23007,7 @@
         "revid": 14290
       },
       "target": {
-        "fetched_at": 1788726252,
+        "fetched_at": 1788795858,
         "hash": "fdad7080355d2d27a6c603de72174a02dd3b1e9e57c4821954c5f9a1f5fac161",
         "revid": 3628,
         "title": "False-60"
@@ -23018,7 +23031,7 @@
         "revid": 14289
       },
       "target": {
-        "fetched_at": 1788726255,
+        "fetched_at": 1788795861,
         "hash": "73f4933cae0ec342d68dcb907f8a192650665edb3d5a647d4a9a83d76efe977d",
         "revid": 3269,
         "title": "GAMMA-1"
@@ -23162,7 +23175,7 @@
         "revid": 14524
       },
       "target": {
-        "fetched_at": 1788726258,
+        "fetched_at": 1788795864,
         "hash": "182ccf1785c3155517f3cfd2098496950993d9045708d88751835de8ffb2c602",
         "revid": 3704,
         "title": "Items"
@@ -23186,7 +23199,7 @@
         "revid": 14310
       },
       "target": {
-        "fetched_at": 1788726261,
+        "fetched_at": 1788795868,
         "hash": "2f3987b053c5196596f29a141d7f7eff4f58380ba58920b528b21d26eaa846cd",
         "revid": 3632,
         "title": "Jimmy"
@@ -23234,7 +23247,7 @@
         "revid": 14424
       },
       "target": {
-        "fetched_at": 1788726264,
+        "fetched_at": 1788795871,
         "hash": "7bfe84319be3b95106bc42432bafabeced5b6c9acf8463a828be1a953d60cba6",
         "revid": 3705,
         "title": "LAPSE-1"
@@ -23258,7 +23271,7 @@
         "revid": 12936
       },
       "target": {
-        "fetched_at": 1788726268,
+        "fetched_at": 1788795874,
         "hash": "f07a14d33eded1521a17481d3283b7e310ab675072e18c65c6037b5a7d99412e",
         "revid": 2905,
         "title": "LAPSE-120"
@@ -23282,7 +23295,7 @@
         "revid": 14410
       },
       "target": {
-        "fetched_at": 1788726271,
+        "fetched_at": 1788795877,
         "hash": "951f0aad257cd8ba8bab54d0eb6e25a969cd863ba8c3233663aa51d54abcb666",
         "revid": 3633,
         "title": "LAPSE-2"
@@ -23306,7 +23319,7 @@
         "revid": 13452
       },
       "target": {
-        "fetched_at": 1788726274,
+        "fetched_at": 1788795881,
         "hash": "70118e1b34b4135622a16c77931af28c6bbefd4a7d8edc22b4f65a2fb835988f",
         "revid": 3634,
         "title": "LAPSE-200"
@@ -23378,7 +23391,7 @@
         "revid": 13269
       },
       "target": {
-        "fetched_at": 1788726277,
+        "fetched_at": 1788795884,
         "hash": "8f68d6947620b3e40027ae5d65fbd335ba793e74ca344dccd68c0b72b39b608f",
         "revid": 3635,
         "title": "Legacy Mode"
@@ -23450,7 +23463,7 @@
         "revid": 14462
       },
       "target": {
-        "fetched_at": 1788726281,
+        "fetched_at": 1788795887,
         "hash": "3fefc060f3685a7bfb93ac40cb279759e2e21ec32eec15cc6aaa75a6fd36aa74",
         "revid": 3706,
         "title": "M-120"
@@ -23546,7 +23559,7 @@
         "revid": 14368
       },
       "target": {
-        "fetched_at": 1788726284,
+        "fetched_at": 1788795890,
         "hash": "7140b0354a351fbd41efbe0741810a3998dd6e10665f3e9b06499fe265e4ca79",
         "revid": 3640,
         "title": "M-200"
@@ -23570,7 +23583,7 @@
         "revid": 13422
       },
       "target": {
-        "fetched_at": 1788726287,
+        "fetched_at": 1788795893,
         "hash": "75dea4da2d06591110bc8ce1ad6b4e2b094488d0cf14e86a3dba66ecc0282353",
         "revid": 2917,
         "title": "M-22"
@@ -23594,7 +23607,7 @@
         "revid": 13423
       },
       "target": {
-        "fetched_at": 1788726290,
+        "fetched_at": 1788795897,
         "hash": "5adefef28c5a9c7e11ded3a17752bdf5d1fa21c2fcc44254d409e8a0224eedfc",
         "revid": 3641,
         "title": "M-22i"
@@ -23642,7 +23655,7 @@
         "revid": 14445
       },
       "target": {
-        "fetched_at": 1788726293,
+        "fetched_at": 1788795900,
         "hash": "a6639dca5b20d593ac5be27c24827a6e71e12c7f3f3ead39301605800b891713",
         "revid": 3707,
         "title": "M-60"
@@ -23666,7 +23679,7 @@
         "revid": 14019
       },
       "target": {
-        "fetched_at": 1788726296,
+        "fetched_at": 1788795903,
         "hash": "2913f2964bc163259e85a39de5b1a92543ed4362a8ff4d009dc92c0196a88f80",
         "revid": 3643,
         "title": "M-60i"
@@ -23691,7 +23704,7 @@
         "revid": 13853
       },
       "target": {
-        "fetched_at": 1788726303,
+        "fetched_at": 1788795909,
         "hash": "a921e05de3d67dc6ce29d4fbae79f16f847ac810e0dcbc2c16e3bd016658142e",
         "revid": 3644,
         "title": "M-7"
@@ -23715,7 +23728,7 @@
         "revid": 14493
       },
       "target": {
-        "fetched_at": 1788726306,
+        "fetched_at": 1788795913,
         "hash": "03a65af702ab1945bfad18d63bf852b95e36a33798fdf6f3ed6298be4c13893e",
         "revid": 3708,
         "title": "M-70"
@@ -24291,7 +24304,7 @@
         "revid": 13283
       },
       "target": {
-        "fetched_at": 1788726309,
+        "fetched_at": 1788795916,
         "hash": "5654d6f142ded72598ffd9d9a6ddb5411ae239eef955e97d6b6fe383f974443f",
         "revid": 2928,
         "title": "Oblivion"
@@ -24363,7 +24376,7 @@
         "revid": 14464
       },
       "target": {
-        "fetched_at": 1788726312,
+        "fetched_at": 1788795919,
         "hash": "5eb801327ef612a6c77ceb28f0292ea4ed922313bfa52a8ac7d9e07fd05ce5b9",
         "revid": 3710,
         "title": "Overseer"
@@ -24435,7 +24448,7 @@
         "revid": 11184
       },
       "target": {
-        "fetched_at": 1788726315,
+        "fetched_at": 1788795922,
         "hash": "147fd10f347d1d2415bc301520a68a05373c408db372b4dba4852d43db36fde8",
         "revid": 2934,
         "title": "Pipe Bomb"
@@ -24459,7 +24472,7 @@
         "revid": 14461
       },
       "target": {
-        "fetched_at": 1788726318,
+        "fetched_at": 1788795926,
         "hash": "fbe6d3e75e43357295543985d65dacbe5b316bd3f27bf98299ac04c7eaaf4d9f",
         "revid": 3711,
         "title": "Player Controlled"
@@ -24579,7 +24592,7 @@
         "revid": 14212
       },
       "target": {
-        "fetched_at": 1788726322,
+        "fetched_at": 1788795929,
         "hash": "e3ce5c0a93dbab718b5feb66a3384118aac617772979d46b2fcc036e48cc20f6",
         "revid": 3577,
         "title": "Red Rooms"
@@ -24651,7 +24664,7 @@
         "revid": 13667
       },
       "target": {
-        "fetched_at": 1788726325,
+        "fetched_at": 1788795932,
         "hash": "6733be909aee60e770318927601ce4156c4ff6f450d6774da1a359af0a2883a5",
         "revid": 2940,
         "title": "SHA-1"
@@ -24675,7 +24688,7 @@
         "revid": 14047
       },
       "target": {
-        "fetched_at": 1788726328,
+        "fetched_at": 1788795936,
         "hash": "a60e31fe123ca5723f4effad3ab04ded402007160a5071f2fe642691b4ea0c22",
         "revid": 3661,
         "title": "SHA-120"
@@ -24771,7 +24784,7 @@
         "revid": 13668
       },
       "target": {
-        "fetched_at": 1788726331,
+        "fetched_at": 1788795939,
         "hash": "85b0e3ea1135c086447e06cdbbf8ffc7cba861bf6e9f7e63ad5af958b6685c10",
         "revid": 2945,
         "title": "SHA-2"
@@ -24795,7 +24808,7 @@
         "revid": 14412
       },
       "target": {
-        "fetched_at": 1788726334,
+        "fetched_at": 1788795942,
         "hash": "74327993077f4387944a7817f84421a544eebab40074093348811585c7bcd342",
         "revid": 3664,
         "title": "SHA-200"
@@ -24819,7 +24832,7 @@
         "revid": 13443
       },
       "target": {
-        "fetched_at": 1788726338,
+        "fetched_at": 1788795946,
         "hash": "22b5c02dd07cc610af8e4be4f1c531cd99b8d9aa0ff5a7b65898249526ad392b",
         "revid": 2947,
         "title": "SHA-22"
@@ -24867,7 +24880,7 @@
         "revid": 13290
       },
       "target": {
-        "fetched_at": 1788726341,
+        "fetched_at": 1788795949,
         "hash": "de1c96cadbb7382b451ac658625640c8e187391645537c7c962a579146e37cf2",
         "revid": 2948,
         "title": "SHA-3"
@@ -24939,7 +24952,7 @@
         "revid": 13101
       },
       "target": {
-        "fetched_at": 1788726344,
+        "fetched_at": 1788795952,
         "hash": "12fab8cc4994aa42a06beb8a803bddd6facd24a93ee32c3affb42197f6a8aa22",
         "revid": 3037,
         "title": "SHA-35"
@@ -24963,7 +24976,7 @@
         "revid": 14427
       },
       "target": {
-        "fetched_at": 1788726347,
+        "fetched_at": 1788795955,
         "hash": "151512e29059f011ac949f1ec02981b0478ab19c975aa81edc4585e6c98d9a0a",
         "revid": 3715,
         "title": "SHA-4"
@@ -24987,7 +25000,7 @@
         "revid": 13102
       },
       "target": {
-        "fetched_at": 1788726351,
+        "fetched_at": 1788795959,
         "hash": "01fe618e5199d4eda884241619e0397c188766720d925afcf2adeebf7dca1d9d",
         "revid": 3667,
         "title": "SHA-55"
@@ -25035,7 +25048,7 @@
         "revid": 14089
       },
       "target": {
-        "fetched_at": 1788726354,
+        "fetched_at": 1788795962,
         "hash": "7eb3d7b0689cff679f70277ac95f207c57113315c9aca2cbb885e49d81155b1c",
         "revid": 3669,
         "title": "SHA-7"
@@ -25083,7 +25096,7 @@
         "revid": 14020
       },
       "target": {
-        "fetched_at": 1788726357,
+        "fetched_at": 1788795965,
         "hash": "d01a86c846b52e8d29b4449c2112dc7942f0fba39947ca0fa2364b35a6bf5e08",
         "revid": 3670,
         "title": "SHA-85"
@@ -25107,7 +25120,7 @@
         "revid": 14403
       },
       "target": {
-        "fetched_at": 1788726360,
+        "fetched_at": 1788795968,
         "hash": "c75ec3a567aeae35322790a70d11e4ee2ca0c55254e44f9d7af46890d49c995f",
         "revid": 3654,
         "title": "Section A"
@@ -25131,7 +25144,7 @@
         "revid": 14205
       },
       "target": {
-        "fetched_at": 1788726363,
+        "fetched_at": 1788795972,
         "hash": "d672942c57f51bbfa46929776fd1169db56d44741c2b20821ded73340e592502",
         "revid": 3655,
         "title": "Section D"
@@ -25155,7 +25168,7 @@
         "revid": 14529
       },
       "target": {
-        "fetched_at": 1788726367,
+        "fetched_at": 1788795975,
         "hash": "d88ac97cb9c360709a8f9c66aa659ac716e81d58845f3a52a52eef0a94b95d81",
         "revid": 3716,
         "title": "Section E"
@@ -25251,9 +25264,9 @@
         "revid": 14126
       },
       "target": {
-        "fetched_at": 1787121252,
-        "hash": "5e70f727b98bbd4ed4e456dcc7eb11fffb9b331ff9bf4143ff41c979e31c5213",
-        "revid": 3131,
+        "fetched_at": 1788795978,
+        "hash": "48fc425f7f9e8107493547666ebb976671925fdd40bb6faca5d762eedd70ffdc",
+        "revid": 3295,
         "title": "Section R"
       },
       "translation": {
@@ -25299,7 +25312,7 @@
         "revid": 13371
       },
       "target": {
-        "fetched_at": 1788726370,
+        "fetched_at": 1788795981,
         "hash": "bb4f7bbf9f371189617d964cb761636830ed2c9816479cc73f3ee7ee1ad6f7aa",
         "revid": 2606,
         "title": "Sections"
@@ -25323,7 +25336,7 @@
         "revid": 14488
       },
       "target": {
-        "fetched_at": 1788726373,
+        "fetched_at": 1788795985,
         "hash": "ada9e9316292b30f056914f08ccf7392c7e336f1b2c8b0ded2fb1751ec8bb7f0",
         "revid": 3717,
         "title": "Shadow Challenge"
@@ -27147,9 +27160,9 @@
         "revid": 12023
       },
       "target": {
-        "fetched_at": 1784968743,
-        "hash": "c15f460c01e3d583cdd704a04e88558d300c5b4b0fb952f415acf880ae95713d",
-        "revid": 2347,
+        "fetched_at": 1788796004,
+        "hash": "8e0a7f080b45925b0972346828df44f9cc8fe5c15bb605e2edd5147708c638a5",
+        "revid": 2981,
         "title": "Template:FeaturedEntity"
       },
       "translation": {
@@ -29355,7 +29368,7 @@
         "revid": 10269
       },
       "target": {
-        "fetched_at": 1788726377,
+        "fetched_at": 1788795988,
         "hash": "3663e48944f7659b63eca14939861878c991fd9bc1d15b5c032b10e42b368c1f",
         "revid": 3682,
         "title": "True Legacy Mode"
@@ -29475,7 +29488,7 @@
         "revid": 11041
       },
       "target": {
-        "fetched_at": 1788726380,
+        "fetched_at": 1788795991,
         "hash": "6ab757f61b5c803a0489148ca51bedc6565cf69840b4c5b8c6d663741410dc72",
         "revid": 3007,
         "title": "UI-20"
@@ -29739,7 +29752,7 @@
         "revid": 14208
       },
       "target": {
-        "fetched_at": 1788726383,
+        "fetched_at": 1788795994,
         "hash": "e3fc240572765d246af201295b0c71546982e8daf819c19ad442d20e5604824f",
         "revid": 3690,
         "title": "Unnamed Sector"
@@ -29763,7 +29776,7 @@
         "revid": 14413
       },
       "target": {
-        "fetched_at": 1788726386,
+        "fetched_at": 1788795997,
         "hash": "a3480ebf0572f06fe001f650f7dceb6d09ce64e2704266fe8543be552343d5f1",
         "revid": 3224,
         "title": "Update Log"
@@ -29859,7 +29872,7 @@
         "revid": 13999
       },
       "target": {
-        "fetched_at": 1788726389,
+        "fetched_at": 1788796001,
         "hash": "c837603c958a397e8472479d9fa5173247d270043d5073e69c83bbc317e6cb2e",
         "revid": 3580,
         "title": "X-1200 Entities"
